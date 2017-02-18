@@ -1,5 +1,6 @@
 ---
 ---
+@import 'materialize';
 
 $gold: #DAAA00;
 $navy: #0C2340;
@@ -41,21 +42,6 @@ body {
   background-color: $navy;
 }
 
-.btn-primary {
-  color: $white;
-  background-color: $gold;
-  border-color: $gold;
-}
-
-.btn-primary:hover {
-  color: $navy;
-  background-color: $white;
-  border-color: $white;
-}
-
-.btn-primary:active {
-
-}
 
 .dropdown-menu {
   background-color: $navy;
@@ -115,7 +101,7 @@ body {
   display: none;
  }
  #home-logo {
-   width: 150px;
+   width: 180px;
  }
  .navbar-brand {
    margin-bottom: 10px;
@@ -158,14 +144,6 @@ body {
   padding: 15px;
 }
 
-.btn {
-    padding: .85rem 2.13rem;
-    border-radius: 2px;
-    border: 0;
-    margin: 6px;
-    white-space: normal!important;
-    word-wrap: break-word;
-}
 
 .absolute-bg {
     position: absolute;

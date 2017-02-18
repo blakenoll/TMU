@@ -1,39 +1,20 @@
 
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-    {% for banner in site.landingPageBanners %}
-     {% if forloop.first == true %}
-      <li data-target="#myCarousel" data-slide-to="{{ forloop.index0}}" class="active"></li>
-     {% else %}
-      <li data-target="#myCarousel" data-slide-to="{{ forloop.index0}}"></li>
-      {% endif %}
-    {% endfor %}
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-    {% for banner in site.landingPageBanners %}
-    {% if forloop.first == true %}
-      <div class="item active">
-    {% else %}
-      <div class="item">
-    {% endif %}
-        <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.title }}" width="100%" height="auto">
-        <div class="carousel-caption">
-          <p>{{ banner.description }} <a href="{{ banner.link }}" class="btn btn-primary">{{ banner.button-text }}</a></p>
-        </div>
-      </div>
-    {% endfor %}
+  <div class="slider">
+      <ul class="slides">
+        {% for banner in site.landingPageBanners %}
+        <li>
+          <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.title }}">
+          <div class="caption left-align">
+            <h3>{{ banner.description}}</h3>
+            <a class="waves-effect waves-light btn">{{ banner.button-text }}</a>
+          </div>
+        </li>
+      {% endfor %}
+      </ul>
     </div>
 
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
+    <script type="text/javascript">
+    $(document).ready(function(){
+     $('.slider').slider({height: 500});
+   });
+    </script>

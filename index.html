@@ -8,17 +8,21 @@ layout: default
   <div class="row">
   {% for post in site.posts %}
   {% if forloop.index <= 3 %}
-  <div class="col-sm-4">
-    <div class="card">
-        <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20%282%29.jpg" alt="Card image cap" width="100%">
-        <div class="card-block">
-            <h4 class="card-title">{{ post.title }}</h4>
-            <h5>{{ post.date |  date: "%b %-d, %Y" }}</h5>
-            <p class="card-text">{{ post.content | truncatewords: 30 }}</p>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary">Read More</a>
+    <div class="col m4">
+      <div class="card">
+        <div class="card-image">
+          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20%282%29.jpg">
+          <span class="card-title">{{ post.title }}</span>
         </div>
+        <div class="card-content">
+          <p>{{ post.date |  date: "%b %-d, %Y" }}</p>
+          <p>{{ post.content | truncatewords: 30 }}</p>
+        </div>
+        <div class="card-action">
+          <a href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+        </div>
+      </div>
     </div>
-  </div>
   {% endif %}
   {% endfor %}
   </div>
@@ -26,7 +30,7 @@ layout: default
   <div class="row">
     <div class="row">
       {% for event in site.upcomingevents %}
-      <div class="col-sm-2">
+      <div class="col s2">
         <h4 class="center">{{ event.title }}</h4>
         <img class="img-fluid" src="{{ event.image | prepend: site.url }}" alt="Event Image" width="100%">
         <time>{{ event.event_date | date: "%b %-d %Y" }}</time>

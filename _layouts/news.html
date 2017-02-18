@@ -2,35 +2,34 @@
 layout: default
 ---
 
-<header>
-  <div class="mast absolute-bg" style="background-image: url({{ page.image | prepend: site.url }});">
-    <div class="container">
-    <div class="col-sm-8">
-      <h3><a class="wht-a" href="{{ site.url }}"><i class="fa fa-lg fa-arrow-left"></i><span> Back to News</span></a></h3>
-      <h3 style="margin-top: 50%">{{ page.title }}</h3>
-      <time>{{ page.date | date: "%b %-d, %Y" }}</time>
-    </div>
-    </div>
+<div class="parallax-container">
+  <div class="parallax"><img src="{{ page.image | prepend: site.url }}"></div>
+</div>
+<div class="section white">
+  <div class="row container">
+    <h2 class="header">{{ page.title}}</h2>
+    <time>{{ page.date | date: "%b %-d, %Y" }}</time>
+    {% for author in site.authors %}
+    {% if author.title == page.author %}
+    <p>By: {{ author.title }}</p>
+    {% endif %}
+    {% endfor %}
+    <p class="flow-text">{{ content }}</p>
   </div>
-</header>
-<div class="container">
-  <h3>{{ page.title }}</h3>
-  <time>{{ page.date | date: "%b %-d, %Y" }}</time>
-  {% for author in site.authors %}
-  {% if author.title == page.author %}
-  <p>By: {{ author.title }}</p>
-  {% endif %}
-  {% endfor %}
-  <p>{{ content }}</p>
 </div>
 
 {% if page.previous.url %}
-<div class="mast absolute-bg" style="background-image: url({{ page.previous.image | prepend: site.url }});">
-  <div class="container">
-  <div class="col-sm-8 pull-right">
-    <h3 style="margin-top: 50%; text-align: right;">{{ page.previous.title }}</h3>
-    <h3 style="text-align: right;"><a href="{{ page.previous.url | prepend: site.url }}">Read Next</a></h3>
-  </div>
+<div class="parallax-container">
+  <div class="parallax"><img src="{{ page.previous.image | prepend: site.url }}"></div>
+  <div class="row container">
+    <h3 class="white-text">{{ page.previous.title }}</h3>
+    <h4><a class="white-text"href="{{ page.previous.url | prepend: site.url }}">Read Next</a></h4>
   </div>
 </div>
 {% endif %}
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('.parallax').parallax();
+});
+</script>

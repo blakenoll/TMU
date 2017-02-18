@@ -3,9 +3,18 @@ layout: default
 ---
 
 <div class="container">
-  <ol class="breadcrumb">
-    <li><a href="{{ "/academics/graduate" | prepend: site.url }}">Graduate</a></li>
-    <li>{{ page.title }}</li>
-  </ol>
+  <br>
+  <div class="row">
+    <div class="col s12 m6 l5">
+      <nav>
+       <div class="nav-wrapper white">
+         <div class="col s12">
+           <a href="{{ "/academics/graduate" | prepend: site.url }}" class="breadcrumb">Graduate</a>
+           <a href="#!" class="breadcrumb">{{ page.title }}</a>
+         </div>
+       </div>
+     </nav>
+    </div>
+  </div>
   <p>{{ content }}</p>
 </div>
