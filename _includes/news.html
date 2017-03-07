@@ -1,13 +1,9 @@
----
-layout: default
----
-
 <div class="container">
-  <h2>news</h2>
+  <h2>News</h2>
   <div class="row" style="display: flex">
     {% for post in site.posts %}
       {% if forloop.first %}
-      <div class="col s6">
+      <div class="col s12 m6">
         <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20%282%29.jpg" alt="" width="100%">
       </div>
       {% endif %}
@@ -15,13 +11,13 @@ layout: default
 
 
 
-    <div class="col s6">
+    <div class="col s12 m6">
       {% for post in site.posts %}
         {% if forloop.index > 1 %}
           {% if forloop.index <= 5 %}
           <div class="col s6" style="height: 50%; background: url('https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20%282%29.jpg'); background-size: cover;">
             <h3>{{ post.title }}</h3>
-
+            <a href="{{ post.url | prepend: site.url }}">Read</a>
           </div>
           {% endif %}
         {% endif %}
