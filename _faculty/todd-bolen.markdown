@@ -2,6 +2,7 @@
 title: Todd Bolen
 date: 2017-02-08 21:31:00 Z
 job-title: Associate Professor of Biblical Studies
+image: "/uploads/FacultyHeadshots/Prof%20Headshots%202015-0058.jpg"
 description: Until 2007, Todd taught at the Israel Bible Extension, leading geography
   field trips, participating in archaeological excavations, and directing the student
   life program. He developed the 18-volume Pictorial Library of Bible Lands, a collection
