@@ -10,6 +10,8 @@ emphasis:
 - Marketing
 - Pre-Law
 - Public Relations
+total-credits: 140-142
+bible-credits: 21
 GE-credits: 40
 core-courses: 40
 emphasis-electives: 53
