@@ -5,7 +5,7 @@ layout: default
 <div class="container">
   <br>
   <div class="row">
-    <div class="col s12 m6 l5">
+    <div class="col s12">
       <nav>
        <div class="nav-wrapper white">
          <div class="col s12">
@@ -16,15 +16,77 @@ layout: default
      </nav>
     </div>
   </div>
-  <p>{{ page.description }}</p>
-  <h3>Faculty</h3>
-  <ul>
-      {% for faculty in site.faculty %}
-      {% if faculty.department == page.title %}
-      <li><a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a></li>
-      {% endif %}
-      {% endfor %}
-  </ul>
+  <div class="row">
+    <div class="col s9">
+      <h2>Faculty</h2>
+      <ul>
+          {% for faculty in site.faculty %}
+          {% if faculty.department == page.title %}
+          <div class="chip">
+            <img src="{{ faculty.img | prepend: site.url }}" alt="Contact Person">
+            <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+          </div><br>
+          {% endif %}
+          {% endfor %}
+      </ul>
+      <h2>Emphasis</h2>
+        {% for emphasis in page.emphasis %}
+        <li>{{ emphasis }}</li>
+        {% endfor %}
+      <div class="card">
+        <div class="card-content">
+          <p>{{ content }}</p>
+        </div>
+        <div class="card-tabs">
+          <ul class="tabs tabs-fixed-width">
+            <li class="tab"><a class="active" href="#test4">Why at Master's</a></li>
+            <li class="tab"><a href="#test5">Student Quotes</a></li>
+            <li class="tab"><a href="#test6">Prof Publications</a></li>
+          </ul>
+        </div>
+        <div class="card-content grey lighten-4">
+          <div id="test4">
+            <ul class="browser-default">
+              {% for point in page.why-at-masters %}
+              <li>{{ point }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div id="test5">
+            {{ page.quote }}
+          </div>
+          <div id="test6">Test 3</div>
+        </div>
+       </div>
+    </div>
+    <div class="col s3">
+      <h2>Program Credits</h2>
+      <p>Total: {{ page.GE-credits | plus: page.core-courses | plus: page.emphasis-electives }}<br>
+      General Education: {{ page.GE-credits }}<br>
+      Major Core Courses: {{ page.core-courses }}<br>
+      Emphasis/Electives: {{ page.emphasis-electives }}</p>
+      <h2>Course Offerings</h2>
+      <ul>
+        {% for course in page.course-offerings %}
+        <li>{{ course }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s8">
+
+
+    </div>
+
+  </div>
+
+
+
+
+
+
+
 
 
 </div>
