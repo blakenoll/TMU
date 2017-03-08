@@ -63,7 +63,7 @@ layout: default
       <h2>Program Credits</h2>
       <p>Total: {{ page.total-credits }}<br>
       General Education: {{ page.GE-credits }}<br>
-      {% if page.bible-credits %}
+      {% if page.bible-credits != '' %}
       Bible: {{ page.bible-credits }}<br>
       {% endif %}
       Major Core Courses: {{ page.core-courses }}<br>
