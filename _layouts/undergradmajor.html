@@ -23,7 +23,7 @@ layout: default
           {% for faculty in site.faculty %}
           {% if faculty.department == page.title %}
           <div class="chip">
-            <img src="{{ faculty.img | prepend: site.url }}" alt="Contact Person">
+            <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
             <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
           </div><br>
           {% endif %}
