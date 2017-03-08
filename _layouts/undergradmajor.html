@@ -61,8 +61,11 @@ layout: default
     </div>
     <div class="col s12 m3">
       <h2>Program Credits</h2>
-      <p>Total: {{ page.GE-credits | plus: page.core-courses | plus: page.emphasis-electives }}<br>
+      <p>Total: {{ page.total-credits }}<br>
       General Education: {{ page.GE-credits }}<br>
+      {% if page.bible-credits %}
+      Bible: {{ page.bible-credits }}<br>
+      {% endif %}
       Major Core Courses: {{ page.core-courses }}<br>
       Emphasis/Electives: {{ page.emphasis-electives }}</p>
       <h2>Course Offerings</h2>
