@@ -2,7 +2,7 @@
 title: Jeffery A. Jensen
 date: 2017-02-08 18:42:00 Z
 job-title: Associate Professor of History
-image: "/uploads/prof-headshots-2015-0054.jpg"
+image: "/uploads/FacultyHeadshots/Prof%20Headshots%202015-0065.jpg"
 description: Before he joined The Master's University faculty in fall 2000, Professor
   Jensen served for eleven years in the college's MIS Department. His previous instructional
   experience includes teaching in both community college and adult degree- completion
