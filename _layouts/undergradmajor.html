@@ -17,7 +17,7 @@ layout: default
     </div>
   </div>
   <div class="row">
-    <div class="col s9">
+    <div class="col s12 m9">
       <h2>Faculty</h2>
       <ul>
           {% for faculty in site.faculty %}
@@ -25,7 +25,7 @@ layout: default
           <div class="chip">
             <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
             <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
-          </div><br>
+          </div>
           {% endif %}
           {% endfor %}
       </ul>
@@ -59,7 +59,7 @@ layout: default
         </div>
        </div>
     </div>
-    <div class="col s3">
+    <div class="col s12 m3">
       <h2>Program Credits</h2>
       <p>Total: {{ page.GE-credits | plus: page.core-courses | plus: page.emphasis-electives }}<br>
       General Education: {{ page.GE-credits }}<br>
