@@ -37,7 +37,7 @@ layout: default
           <ul class="tabs tabs-fixed-width">
             <li class="tab"><a class="active" href="#test4">Program Outline</a></li>
             <li class="tab"><a href="#test5">Courses</a></li>
-            <li class="tab"><a href="#test6"></a></li>
+            <li class="tab"><a href="#test6">Eligibility Requirments</a></li>
           </ul>
         </div>
         <div class="card-content grey lighten-4">
@@ -46,7 +46,12 @@ layout: default
 
           </div>
           <div id="test5">
-            {{ page.courses-body }}
+            <ul>
+              {% for course in page.courses-body %}
+              <li>{{ course }}</li><br>
+              {% endfor %}
+            </ul>
+
           </div>
           <div id="test6">Test 3</div>
         </div>
