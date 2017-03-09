@@ -16,5 +16,61 @@ layout: default
      </nav>
     </div>
   </div>
+  <div class="row">
+    <div class="col s12 m9">
+      <h2>Faculty</h2>
+      <ul>
+          {% for faculty in site.faculty %}
+          {% if faculty.department == page.title %}
+          <div class="chip">
+            <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
+            <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+          </div>
+          {% endif %}
+          {% endfor %}
+      </ul>
+      <h2>Emphasis</h2>
+        {% for emphasis in page.emphasis %}
+        <li>{{ emphasis }}</li>
+        {% endfor %}
+      <div class="card">
+        <div class="card-content">
+          <p>{{ content }}</p>
+        </div>
+        <div class="card-tabs">
+          <ul class="tabs tabs-fixed-width">
+            <li class="tab"><a class="active" href="#test4">Program Outline</a></li>
+            <li class="tab"><a href="#test5">Courses</a></li>
+            <li class="tab"><a href="#test6"></a></li>
+          </ul>
+        </div>
+        <div class="card-content grey lighten-4">
+          <div id="test4">
+            {{ page.program-outline-text }}
+          </div>
+          <div id="test5">
+            {{ page.courses-body }}
+          </div>
+          <div id="test6">Test 3</div>
+        </div>
+       </div>
+    </div>
+    <div class="col s12 m3">
+      <h2>Program Credits</h2>
+      <p>Total: {{ page.total-credits }}<br>
+      General Education: {{ page.GE-credits }}<br>
+      {% if page.bible-credits != '' %}
+      Bible: {{ page.bible-credits }}<br>
+      {% endif %}
+      Major Core Courses: {{ page.core-courses }}<br>
+      Emphasis/Electives: {{ page.emphasis-electives }}</p>
+      <h2>Course Offerings</h2>
+      <ul>
+        {% for course in page.course-offerings %}
+        <li>{{ course }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
   <p>{{ content }}</p>
 </div>
