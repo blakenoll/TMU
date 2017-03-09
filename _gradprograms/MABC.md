@@ -48,5 +48,14 @@ program-outline-text: "The M.A. in Biblical Counseling is a 34 credit hour gradu
   requirements seamlessly woven into the curriculum of required courses.\n\nElective
   Course (Credits)\n\nThe student will take an additional elective course, related
   to his specific research or counseling methodology interests. "
+courses-body:
+- |-
+  BC501 - INTRO TO BIBLICAL COUNSELING
+
+  This course offers a general introduction to basic concepts and distinctive features of biblical counseling. Students will discuss what biblical counseling is and what it involves, the role of the counselor in biblical counseling, the different kinds of counseling that are needed, the place of counseling in the ministry of the church and how biblical counseling theory and practice relate to and differ from some of the more common secular models and theories. Part of the course will involve a personal improvement project in which the student will evaluate his own counseling qualifications, design a plan for improving some area of his life, put that plan into action, and then evaluate his progress as the course draws to a close.
+- |-
+  BC502 - ESSENTIAL QUALITIES OF A BIBLICAL COUNSELOR
+
+  This course will help the student to understand the Christ-like character and functional qualities of the discipler/counselor. The course will also provide the environment for self-examination for present and future growth, both in his personal walk with Jesus Christ and as a skilled biblical counselor.
 ---
 
