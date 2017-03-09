@@ -4,6 +4,7 @@ emphasis:
 - Bible General
 - Biblical counseling
 - Bible Exposition
+total-credits: 108
 GE-credits: 40
 core-courses: 21
 emphasis-electives: 47

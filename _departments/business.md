@@ -10,11 +10,11 @@ emphasis:
 - Marketing
 - Pre-Law
 - Public Relations
-total-credits: 140-142
+total-credits: 154
 bible-credits: 21
 GE-credits: 40
 core-courses: 40
-emphasis-electives: 53
+emphasis-electives: 53-61
 course-offerings:
 - International Business Marketing
 - Real Estate Principles
