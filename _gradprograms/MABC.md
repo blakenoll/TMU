@@ -35,16 +35,18 @@ program-outline-text: "The M.A. in Biblical Counseling is a 34 credit hour gradu
   Framework\n\nThe M.A. in Biblical Counseling is awarded to students who succesfully
   fulfill the requirements of the following courses.\n\nPre-Requisite Course (Credits)\n\nBC090
   Introduction to MABC Studies (0)\n\nRequired Courses (Credits)\n\nBC501: Introduction
-  to Biblical Counseling (2)\n\nBC502: Essential Qualities of a Biblical Counselor (2)\n\nBC503:
-  Methods of Biblical Change (2)\n\nBC506: Theology & The Psychologies (2)\n\nBC511: Theological
-  Basis of Biblical Counseling (2)\n\nBC521: Problems & Procedures (2)\n\nBC531: Hermeneutics
-  (2)\n\nBC532: Advanced Hermeneutics (2)\n\nBC542: Marriage & Family Counseling (2)\n\nBC556:
-  ACBC Membership Seminar (2)*\n\nBC557: Counseling & Physiology (2)\n\nBC560: Biblical
-  Conflict Resolution (2)\n\nBC580: Counseling Observation & Practicum (2)\n\nBC592: Counseling
-  Internship (2)\n\nBC593: Advanced Counseling Internship (2)\n\nBC598: Thesis Research
-  (2)\n\n*Every student graduating from the MABC program will have completed all requirements
-  for certification with the Association of Certified Biblical Counselors (ACBC),
-  by nature of those requirements seamlessly woven into the curriculum of required
-  courses.\n\nElective Course (Credits)\n\nThe student will take an additional elective
-  course, related to his specific research or counseling methodology interests. "
+  to Biblical Counseling (2)\n\nBC502: Essential Qualities of a Biblical Counselor
+  (2)\n\nBC503: Methods of Biblical Change (2)\n\nBC506: Theology & The Psychologies
+  (2)\n\nBC511: Theological Basis of Biblical Counseling (2)\n\nBC521: Problems &
+  Procedures (2)\n\nBC531: Hermeneutics (2)\n\nBC532: Advanced Hermeneutics (2)\n\nBC542:
+  Marriage & Family Counseling (2)\n\nBC556: ACBC Membership Seminar (2)*\n\nBC557:
+  Counseling & Physiology (2)\n\nBC560: Biblical Conflict Resolution (2)\n\nBC580:
+  Counseling Observation & Practicum (2)\n\nBC592: Counseling Internship (2)\n\nBC593:
+  Advanced Counseling Internship (2)\n\nBC598: Thesis Research (2)\n\n*Every student
+  graduating from the MABC program will have completed all requirements for certification
+  with the Association of Certified Biblical Counselors (ACBC), by nature of those
+  requirements seamlessly woven into the curriculum of required courses.\n\nElective
+  Course (Credits)\n\nThe student will take an additional elective course, related
+  to his specific research or counseling methodology interests. "
 ---
+
