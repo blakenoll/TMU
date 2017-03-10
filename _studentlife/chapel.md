@@ -1,4 +1,5 @@
 ---
-layout: chapel
 title: Chapel
+layout: chapel
 ---
+

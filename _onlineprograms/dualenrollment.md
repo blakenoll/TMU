@@ -1,6 +1,6 @@
 ---
-layout: dualenrollment
 title: Dual enrollment
+layout: dualenrollment
 level: online
 Courses:
 - "#": B101
