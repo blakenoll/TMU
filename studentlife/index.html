@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<div class="container">
+  <h1>Student Life</h1>
+  {% for page in site.studentlife %}
+  <h2><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></h2>
+  {% endfor%}
+
+</div>

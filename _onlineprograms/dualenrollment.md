@@ -1,4 +1,5 @@
 ---
+layout: dualenrollment
 title: Dual enrollment
 level: online
 Courses:
@@ -8,3 +9,4 @@ Courses:
   Facilitator: Mike Grisanti
 ---
 
+hello
