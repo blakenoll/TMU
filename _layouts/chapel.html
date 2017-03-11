@@ -30,7 +30,23 @@ layout: default
     </div>
     <div class="card-content grey lighten-4">
       <div id="test4">Fall Chapel Table</div>
-      <div id="test5">Spring Chapel Table</div>
+      <div id="test5">
+        <table>
+          <tr>
+            <th>Week</th><th>Monday</th><th>Wednesday</th><th>Friday</th>
+          </tr>
+
+            {% for chapel in site.data.spchapel %}
+            <tr>
+              <td>{{ chapel.Day }}</td>
+              <td>{{ chapel.Monday }}</td>
+              <td>{{ chapel.Wednesday }}</td>
+              <td>{{ chapel.Friday }}</td>
+            </tr>
+            {% endfor %}
+
+        </table>
+      </div>
     </div>
   </div>
   <h1>Sermons</h1>
