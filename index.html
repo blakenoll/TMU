@@ -6,24 +6,23 @@ layout: default
 {% include news.html %}
 <div class="container">
   <h2 class="center">Upcoming Events</h2>
-    <div class="row flex">
-      {% for event in site.upcomingevents %}
-      <div class="col s4 flex">
-        <div class="card horizontal">
-       <div class="card-image">
-         <img class="img-fluid" src="{{ event.image | prepend: site.url }}" alt="Event Image" width="100%">
-       </div>
-       <div class="card-stacked">
-         <div class="card-content">
-           <p>{{ event.title }}</p>
-         </div>
-         <div class="card-action">
-           <a href="#">More</a>
-         </div>
-       </div>
-     </div>
+    <div class="row">
+      <div class="event-container">
+        {% for event in site.upcomingevents %}
+        <div class="table-cell">
+          <div class="col s6">
+            <div class="col s4">
+              <img src="{{ event.image }}" alt="" height="100px">
+            </div>
+            <div class="col s8">
+             <h3>{{ event.title }}</h3>
+             <p>{{ event.event_date }}<br>{{ event.description }}</p>
+            </div>
+          </div>
 
+
+        </div>
+        {% endfor %}
       </div>
-      {% endfor %}
     </div>
 </div>
