@@ -5,3 +5,4 @@ job-title: Chair Professor of Biblical Counseling
 department: Bible
 grad-program: MABC
 ---
+
