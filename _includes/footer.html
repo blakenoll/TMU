@@ -1,24 +1,35 @@
 <footer class="page-footer">
           <div class="container">
             <div class="row">
-              <div class="col l6 s12">
-                <h5 class="white-text">Footer Content</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
-              </div>
-              <div class="col l4 offset-l2 s12">
-                <h5 class="white-text">Links</h5>
+            <div class="col l3 s6">
+              <h5 class="white-text">Undergraduate</h5>
+              <ul>
+                {% for program in site.departments %}
+                <li><a class="grey-text text-lighten-3" href="{{ program.url }}">{{ program.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+              <div class="col l3 s6">
+                <h5 class="white-text">Graduate</h5>
                 <ul>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+                  {% for program in site.gradprograms %}
+                  <li><a class="grey-text text-lighten-3" href="{{ program.url }}">{{ program.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+              <div class="col l3 s6">
+                <h5 class="white-text">Campus Links</h5>
+                <ul>
+                  {% for page in site.campuslinks %}
+                  <li><a class="grey-text text-lighten-3" href="{{ page.url }}">{{ page.title }}</a></li>
+                  {% endfor %}
                 </ul>
               </div>
             </div>
           </div>
           <div class="footer-copyright">
             <div class="container">
-            © 2014 Copyright Text
+            © 2017 Copyright Text
             <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
             </div>
           </div>

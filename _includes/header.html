@@ -18,7 +18,7 @@
   <li><a href="https://masters.instructure.com/login">Canvas</a></li>
   <li><a href="https://portal.masters.edu/SelfService">Self Service</a></li>
   <li><a href="https://www2.masters.edu/edit/WebDept/Logon.aspx?ToolID=&Error=&JumpURL=">Content Managment</a></li>
-  <li><a href="#">library</a></li>
+  <li><a href="{{ "/library" | prepend: site.url }}">library</a></li>
   <li><a href="#">Caf Menu</a></li>
   <li><a href="https://outlook.com/mail.masters.edu">Email</a></li>
   <li><a href="#">Printers</a></li>
@@ -48,12 +48,18 @@
       <li><a href="{{ "/alumni" | prepend: site.url }}">Alumni</a></li>
       <li><a href="sass.html">Give</a></li>
     </ul>
+    <!-- mobile side menu -->
     <ul class="side-nav" id="mobile-demo">
-      <li><a href="{{ "/academics/undergraduate" | prepend: site.url }}">Undergraduate</a></li>
-      <li><a href="{{ "/academics/graduate" | prepend: site.url }}">Graduate</a></li>
+      <li><a href="{{ "/academics/undergraduate" | prepend: site.url }}">Admissions</a></li>
+      <li><a href="{{ "/academics" | prepend: site.url }}">Academics</a></li>
       <li><a href="{{ "/academics/online" | prepend: site.url }}">Online</a></li>
+      <li><a href="{{ "/students" | prepend: site.url }}">Students</a></li>
+      <li><a href="{{ "/faculty&staff" | prepend: site.url }}">Faculty/Staff</a></li>
+      <li><a href="{{ "/alumni" | prepend: site.url }}">Alumni</a></li>
+      <li><a href="{{ "/academics/online" | prepend: site.url }}">Give</a></li>
       <li><a href="https://www.tms.edu/">TMS</a></li>
     </ul>
+    <!-- end mobile side menu -->
   </div>
 </div>
 </nav>
