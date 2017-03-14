@@ -5,7 +5,7 @@
               <h5 class="white-text">Undergraduate</h5>
               <ul>
                 {% for program in site.departments %}
-                <li><a class="grey-text text-lighten-3" href="{{ program.url }}">{{ program.title }}</a></li>
+                <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
                 {% endfor %}
               </ul>
             </div>
@@ -13,7 +13,7 @@
                 <h5 class="white-text">Graduate</h5>
                 <ul>
                   {% for program in site.gradprograms %}
-                  <li><a class="grey-text text-lighten-3" href="{{ program.url }}">{{ program.title }}</a></li>
+                  <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
                   {% endfor %}
                 </ul>
               </div>
@@ -21,7 +21,7 @@
                 <h5 class="white-text">Campus Links</h5>
                 <ul>
                   {% for page in site.campuslinks %}
-                  <li><a class="grey-text text-lighten-3" href="{{ page.url }}">{{ page.title }}</a></li>
+                  <li><a class="grey-text text-lighten-3" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
                   {% endfor %}
                 </ul>
               </div>
