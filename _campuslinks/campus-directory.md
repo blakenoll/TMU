@@ -1,10 +1,10 @@
 ---
 title: Campus Directory
 phone#:
-- department: ''
-- email: ''
-- ext: ''
-- fax: ''
-- box: ''
+- name: 
+  email: 
+  ext: 
+  fax: 
+  box: 
 ---
 
