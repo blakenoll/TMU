@@ -1,9 +1,10 @@
 ---
 title: Welcome to Jekyll!
-date: 2017-01-12 21:51:59 Z
+date: 2017-01-12 21:51:00 Z
 categories:
 - jekyll
 - update
+image: "/uploads/TMUQuote%20copy.jpg"
 layout: news
 ---
 
