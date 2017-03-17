@@ -64,6 +64,7 @@ defaults:
     layout: news
     title: ''
     author: ''
+    category: ''
     image: ''
     sm-image: ''
     permalink: "/news/:title"
