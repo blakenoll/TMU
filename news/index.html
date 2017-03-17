@@ -3,7 +3,10 @@ layout: default
 ---
 
 <div class="container">
+  <h1>News</h1>
+  <h2>Catergories:</h2>
   {% for catergory in site.categories %}
-  <a href="{{ category.url | prepend: site.url }}">{{ category.title }}</a>
+  <h3><a href="{{ catergory.url | prepend: site.url }}">{{ catergory.title }}</a></h3>
   {% endfor %}
+
 </div>

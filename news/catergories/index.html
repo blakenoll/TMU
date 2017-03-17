@@ -1,9 +1,0 @@
----
-layout: default
----
-
-<div class="container">
-  {% for catergory in site.categories %}
-  <h1><a href="{{ catergory.url | prepend: site.url }}">{{ catergory.title }}</a></h1>
-  {% endfor %}
-</div>
