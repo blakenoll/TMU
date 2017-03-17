@@ -3,6 +3,12 @@ layout: default
 ---
 
 <div class="container">
+  <h1>{{ page.title }}</h1>
   <!-- for loop to cycle through posts with categories = to page.title -->
-  {{ content }}
+  {% for post in site.posts %}
+   {% if post.catergory == page.title %}
+   <h2><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></h1>
+   {% endif %}
+  {% endfor %}
+  <a class="btn btn-primary" href="{{ '/news/catergories' | prepend: site.url }}">Back to Catergories</a>
 </div>

@@ -6,6 +6,7 @@ tags:
 - blake
 - fun
 author: Sabrina Michael
+catergory: Events
 image: "/uploads/WEB_TMU.jpg"
 ---
 
