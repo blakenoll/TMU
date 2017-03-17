@@ -9,7 +9,7 @@ collections:
     title: Campus Links
     output: true
   categories:
-    title: Categories
+    title: Catergories
     output: true
   departments:
     title: Departments
