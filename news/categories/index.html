@@ -4,6 +4,6 @@ layout: default
 
 <div class="container">
   {% for catergory in site.categories %}
-  <a href="{{ category.url | prepend: site.url }}">{{ category.title }}</a>
+  <a href="{{ catergory.url | prepend: site.url }}">{{ catergory.title }}</a>
   {% endfor %}
 </div>
