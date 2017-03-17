@@ -14,7 +14,7 @@ layout: default
     <p>By: {{ author.title }}</p>
     {% endif %}
     {% endfor %}
-    <p class="flow-text">{{ content }}</p>
+    <p class="flow-text">{{ content | markdownify }}</p>
   </div>
 </div>
 
@@ -24,6 +24,19 @@ layout: default
   <div class="row container">
       <h3 class="white-text">{{ page.previous.title }}</h3>
       <h4><a class="white-text"href="{{ page.previous.url | prepend: site.url }}">Read Next</a></h4>
+      <h3 class="white-text center">Related Posts</h3>
+      <div class="col s12">
+        {% for post in site.posts %}
+         {% if post.catergory == page.catergory %}
+          {% if post.title != page.title %}
+           <div class="col s12 m4 card">
+             <img src="{{ post.image | prepend: site.url }}" alt="" width="100%">
+             <h3>{{ post.title}}</h3>
+           </div>
+          {% endif %}
+         {% endif %}
+        {% endfor %}
+      </div>
   </div>
 </div>
 {% endif %}

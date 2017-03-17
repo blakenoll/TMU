@@ -3,11 +3,11 @@ layout: default
 ---
 
 <div class="container">
-  <h1>News</h1>
+  <h1>All News</h1>
   <div class="row">
-    <div class="col s9">
+    <div class="col s10">
       {% for post in site.posts %}
-       <div class="col s4">
+       <div class="col s6 m4">
          <img src="{{ post.image | prepend: site.url }}" alt="" width="100%">
          <a href="{{ post.url | prepend: site.url }}">{{ post.title}}</a>
          <p>{{ post.content | truncatewords: 30 }}</p>
@@ -15,7 +15,7 @@ layout: default
        </div>
       {% endfor %}
     </div>
-    <div class="col s3">
+    <div class="col s2">
       <h2>Catergories:</h2>
       {% for catergory in site.categories %}
       <h3><a href="{{ catergory.url | prepend: site.url }}">{{ catergory.title }}</a></h3>
