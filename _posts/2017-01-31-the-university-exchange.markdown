@@ -1,6 +1,7 @@
 ---
 title: The University Exchange
 date: 2017-01-31 00:56:00 Z
+image: "/uploads/TMUQuote%20copy.jpg"
 layout: news
 ---
 
