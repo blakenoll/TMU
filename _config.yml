@@ -64,7 +64,7 @@ defaults:
     layout: news
     title: ''
     author: ''
-    category: ''
+    catergory: ''
     image: ''
     sm-image: ''
     permalink: "/news/:title"
@@ -76,19 +76,19 @@ defaults:
     title: ''
     description: ''
     emphasis:
-    - 
-    - 
+    -
+    -
     total-credits: ''
     bible-credits: ''
     GE-credits: ''
     core-courses: ''
     emphasis-electives: ''
     course-offerings:
-    - 
-    - 
+    -
+    -
     why-at-masters:
-    - 
-    - 
+    -
+    -
     qoute: ''
     permalink: "/academics/undergraduate/:title"
 - scope:
@@ -99,7 +99,7 @@ defaults:
     title: ''
     program-outline-text: ''
     courses-body:
-    - 
+    -
     permalink: "/academics/graduate/:title"
 - scope:
     path: ''
@@ -121,8 +121,8 @@ defaults:
     department: ''
     grad-program: ''
     degrees:
-    - 
-    - 
+    -
+    -
     email: ''
 - scope:
     path: ''
@@ -152,12 +152,12 @@ email: your-email@domain.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl: 
+baseurl:
 url: https://blakenoll.github.io/TMU
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-theme: 
+theme:
 sass:
   style: compressed
 gems:
