@@ -4,52 +4,8 @@ layout: default
 
 {% include carousel.html %}
 {% include news.html %}
-<a class="btn btn-primary center" href="news">All News</a>
-<div class="parallax-container" style="height: auto">
-      <div class="parallax"><img src="https://source.unsplash.com/xiHO-M9OU0U/1600x900"></div>
-      <div class="container">
-        <h2 class="center white-text">Upcoming Events</h2>
-          <div class="row">
-            <div class="event-container">
-              {% for event in site.upcomingevents %}
-              <div class="table-cell">
-                <div class="col s12 m6">
-                  <div class="col s4">
-                    <img src="{{ event.image | prepend: site.url }}" alt="" width="100%">
-                  </div>
-                  <div class="col s8">
-                   <h3 class="white-text">{{ event.title }}</h3>
-                   <p class="white-text">{{ event.event_date }}</p>
-                   <a class="btn" href="{{ event.url }}">More</a>
-                  </div>
-                </div>
-              </div>
-              {% endfor %}
-            </div>
-          </div>
-      </div>
-    </div>
-<div class="container">
-  <h2 class="center">Upcoming Events</h2>
-    <div class="row">
-      <div class="event-container">
-        {% for event in site.upcomingevents %}
-        <div class="table-cell">
-          <div class="col s12 m6">
-            <div class="col s4">
-              <img src="{{ event.image }}" alt="" width="100%">
-            </div>
-            <div class="col s8">
-             <h3>{{ event.title }}</h3>
-             <p>{{ event.event_date }}</p>
-             <a class="btn" href="#">More</a>
-            </div>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-</div>
+{% include upcomingevents.html %}
+{% include visit.html %}
 <script type="text/javascript">
 $(document).ready(function(){
 $('.parallax').parallax();

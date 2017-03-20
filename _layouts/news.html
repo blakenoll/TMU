@@ -29,10 +29,16 @@ layout: default
         {% for post in site.posts %}
          {% if post.catergory == page.catergory %}
           {% if post.title != page.title %}
-           <div class="col s12 m4 card">
-             <img src="{{ post.image | prepend: site.url }}" alt="" width="100%">
-             <h3>{{ post.title}}</h3>
-           </div>
+          <div style="display: none;">
+            {% increment my_counter %}
+          </div>
+          {% if my_counter <= 15 %}
+             <div class="col s6 m4 card">
+               <img src="{{ post.image | prepend: site.url }}" alt="" width="100%">
+               <h3>{{ post.title}}</h3>
+             </div>
+           {% endif %}
+
           {% endif %}
          {% endif %}
         {% endfor %}
@@ -40,6 +46,7 @@ layout: default
   </div>
 </div>
 {% endif %}
+
 
 <script type="text/javascript">
 $(document).ready(function(){
