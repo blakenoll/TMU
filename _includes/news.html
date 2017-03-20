@@ -1,60 +1,35 @@
-
-<!-- <div class="container"> -->
-  <!-- <h2>News</h2>
-  <div class="row" style="display: flex">
-
-    {% for post in site.posts %}
-      {% if forloop.first %}
-      <div class="col s12 m6">
-        <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20%282%29.jpg" alt="" width="100%">
-      </div>
-      {% endif %}
-    {% endfor %}
-
-
-
-    <div class="col s12 m6">
-      {% for post in site.posts %}
-        {% if forloop.index > 1 %}
-          {% if forloop.index <= 5 %}
-          <div class="col s6" style="height: 50%; background: url('https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20%282%29.jpg'); background-size: cover;">
-            <h3>{{ post.title }}</h3>
-            <a href="{{ post.url | prepend: site.url }}">Read</a>
-          </div>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-    </div>
-
-  </div> -->
-<!-- </div> -->
-<h1 class="center">News</h1>
-<div class="row">
-  <div class="col-container" style="display: table;">
-    <div class="col s12 m6" style="display: table-cell;">
-      {% for post in site.posts %}
-        {% if forloop.first %}
-          <img src="https://dummyimage.com/1920x1080/oc2340/fff.jpg" alt="" width="100%">
-        {% endif %}
-      {% endfor %}
-    </div>
-
-    <div class="col s12 m6" style="display: table-cell;">
-      <ul class="collection">
+<div class="container">
+  <h1 class="center">News</h1>
+  <div class="row">
+    <div class="col-container" style="display: table;">
+      <div class="col s12 m6" style="display: table-cell;">
+        <h2 class="center">Latest</h2>
         {% for post in site.posts %}
-          {% if forloop.index > 1 %}
-            {% if forloop.index <= 4 %}
-            <li class="collection-item">
-              <a class="secondary-content" href="{{ post.url | prepend: site.url }}">Read</a>
-              <a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
-              <p>{{ post.content | truncatewords: 20 }}</p>
-
-            </li>
-            {% endif %}
+          {% if forloop.first %}
+            <img src="https://dummyimage.com/1920x1080/oc2340/fff.jpg" alt="" width="100%">
+            <a href="{{ post.url | prepend: site.url }}"><h3>{{ post.title }}</h3></a>
+            {{ post.content | truncatewords: 30 }}
           {% endif %}
         {% endfor %}
-        <li class="collection-item"><a class="btn btn-primary" href="news">All News</a></li>
-    </ul>
+      </div>
+
+      <div class="col s12 m6" style="display: table-cell;">
+        <ul id="home-news" class="collection">
+          {% for post in site.posts %}
+            {% if forloop.index > 1 %}
+              {% if forloop.index <= 4 %}
+              <li id="home-news" class="collection-item">
+                <a class="secondary-content" href="{{ post.url | prepend: site.url }}">Read</a>
+                <a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+                <p>{{ post.content | truncatewords: 30 }}</p>
+
+              </li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          <li id="home-news" class="collection-item"><a class="btn btn-navy" href="news">All News</a></li>
+      </ul>
+      </div>
     </div>
   </div>
 </div>

@@ -18,6 +18,24 @@ main {
   flex: 1 0 auto;
 }
 
+.btn-navy {
+  color: fff;
+  background-color: $navy;
+}
+
+.btn-white {
+  color: $navy;
+  background-color: $white;
+}
+
+.btn-navy:hover {
+  background-color: lighten($navy, 5%)
+}
+
+.btn-white:hover {
+  background-color: darken($white, 5%)
+}
+
 .navbar {
   margin-bottom: 0px;
   border-radius: 0px;
@@ -96,27 +114,6 @@ main {
   width: 275px;
 }
 
-@media screen and (max-width: 1024px) {
- .carousel-caption {
-    right: 20%;
-    left: 20%;
-    padding-bottom: 30px;
-    padding-top: 30px;
-    position: static;
-    color: #000;
-    text-shadow: none;
- }
- .carousel-indicators {
-  display: none;
- }
- #home-logo {
-   width: 180px;
- }
- .navbar-brand {
-   margin-bottom: 10px;
- }
-}
-
 #search {
     background-color: #0c2340;
     border-bottom: 1px solid #fff;
@@ -137,12 +134,6 @@ main {
 .navbar-form {
   box-shadow: none;
 }
-@media screen and (min-width: 1024px) {
-  ul.nav li.dropdown:hover > ul.dropdown-menu {
-      display: block;
-  }
-}
-
 
 .card {
       box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
@@ -214,6 +205,45 @@ main {
   margin-bottom: 10px;
 }
 
+#home-news {
+  border: none;
+  padding: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+
+ .carousel-caption {
+    right: 20%;
+    left: 20%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    position: static;
+    color: #000;
+    text-shadow: none;
+ }
+
+ .carousel-indicators {
+  display: none;
+ }
+
+ #home-logo {
+   width: 180px;
+ }
+
+ .navbar-brand {
+   margin-bottom: 10px;
+ }
+
+}
+
+@media screen and (min-width: 1024px) {
+
+  ul.nav li.dropdown:hover > ul.dropdown-menu {
+      display: block;
+  }
+
+}
+
 @media screen and (min-width: 768px) {
 
   #top {
@@ -226,4 +256,5 @@ main {
   #title {
     padding-top: 12%;
   }
+
 }
