@@ -1,7 +1,41 @@
 ---
 title: Bible
+description: |-
+  Standing firm on Christ & Scripture since 1927, there is no better place to study the Bible than at The Master’s University. We hold the Word of God as sufficient in all things, including its own interpretation. To best equip our students for their intended fields, ministry or otherwise, we teach them how to approach the Word; through Greek and/or Hebrew, the context in which it was written, along with a large selection of classes ranging from biblical counseling to the book of revelation.
+  Our professors are not just equipped scholarly, but are heavily involved in their local church and other ministries; practicing what they teach and standing as examples to each student. With a 10:1 student-teacher ratio, teachers become mentors and friends.
 emphasis:
-- Bible General
+- Bible General:
+    courses-text: |2-
+
+      * B340 Biblical Interpretation (3)
+
+      * B400 Senior Integrative Seminar (3)
+
+      * B490 Senior Comprehensive Exam (0)
+
+      * BC300 Introduction to Biblical Counseling (3)
+
+      * BC311 Theological Basis for Biblical Counseling (3)
+
+      * BC330 Methods of Biblical Change (3)
+
+      * BC340 Marriage & Family (3)
+
+      * BC421, 422 Problems & Procedures I, II (3,2)
+
+      * BC431, 432 Counseling Practicum I, II (2,2)
+
+      * BE100 Introduction to Psychology (3)
+
+      * One of the following (8)
+
+        * *BL301 & 302 Elementary Greek I & II (4, 4)*
+
+        * *BL311 & 312 Elementary Hebrew I & II (4, 4)*
+
+      * Bible Electives (9)
+
+      **Total units required for emphasis (47)**
 - Biblical counseling
 - Bible Exposition
 total-credits: 108
