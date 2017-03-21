@@ -56,6 +56,10 @@ layout: default
             {{ page.quote }}
           </div>
           <div id="test6">
+            {% for emphasis in page.emphasis %}
+              {{ emphasis }}
+              {{ emphasis.course-text }}
+            {% endfor %}
 
           </div>
         </div>
