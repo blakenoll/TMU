@@ -30,7 +30,7 @@ why-at-masters:
 - Students in any emphasis will have a working knowledge of Greek or Hebrew, be able
   to apply hermeneutics to correctly interpret biblical text, and understand ministry
   from a biblical perspective
-qoute: I’ve been finished with my Bible classes for over a year now, and there hasn't
+quote: I’ve been finished with my Bible classes for over a year now, and there hasn't
   been a day gone by that I'm not thankful for how great an education I received.
   . .As much as I have learned from the classes, I have learned so much more from
   the professors. Their lives as examples of men who want nothing but to serve Christ
