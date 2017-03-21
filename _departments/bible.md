@@ -92,9 +92,9 @@ required-courses-body: |-
 
   **Total units required for emphasis (47)**
 
-  **Biblical Counseling Emphasis Courses**
+  ## **Biblical Counseling Emphasis Courses**
 
-  * **B340 Biblical Interpretation (3)**
+  * B340 Biblical Interpretation (3)
 
   * B400 Senior Integrative Seminar (3)
 
@@ -126,7 +126,7 @@ required-courses-body: |-
 
   ## **Biblical Languages Emphasis Courses**
 
-  * **B340 Biblical Interpretation (3)**
+  * B340 Biblical Interpretation (3)
 
   * B400 Senior Integrative Seminar (3)
 
@@ -148,7 +148,7 @@ required-courses-body: |-
 
   ## **Christian Education Emphasis Courses**
 
-  * **BCE304 Teaching Methodology (3)**
+  * BCE304 Teaching Methodology (3)
 
   * B340 Biblical Interpretation (3)
 
@@ -180,7 +180,7 @@ required-courses-body: |-
 
   ## **Global Studies Emphasis Courses**
 
-  * **B340 Biblical Interpretation (3)**
+  * B340 Biblical Interpretation (3)
 
   * B400 Senior Integrative Seminar (3)
 
@@ -230,7 +230,7 @@ required-courses-body: |-
 
   ## **Student Ministries Emphasis Courses**
 
-  * **B340 Biblical Interpretation (3)**
+  * B340 Biblical Interpretation (3)
 
   * B400 Senior Integrative Seminar (3)
 
@@ -276,7 +276,7 @@ required-courses-body: |-
 
   ## **Theology Emphasis Courses**
 
-  * **B340 Biblical Interpretation (3)**
+  * B340 Biblical Interpretation (3)
 
   * B400 Senior Integrative Seminar (3)
 
@@ -346,7 +346,7 @@ required-courses-body: |-
 
   **A minor in Biblical Studies is offered to students not majoring in Biblical Studies, but who desire a greater understanding of the Bible and Theology. For a minor in Biblical Studies, the following courses are required:**
 
-  * **B101, 102 Old Testament Survey I, II (3, 3)**
+  * B101, 102 Old Testament Survey I, II (3, 3)
 
   * B201, 202 New Testament Survey I, II (3, 3)
 
@@ -360,7 +360,7 @@ required-courses-body: |-
 
   **A minor in Global Studies is offered to all students who desire a greater understanding of cross-cultural vocations. For a minor in Global Studies, the following courses are required:**
 
-  * **BMS301 Introduction to Missions (3)**
+  * BMS301 Introduction to Missions (3)
 
   * BMS303 History & Theory of Missions (3)
 
