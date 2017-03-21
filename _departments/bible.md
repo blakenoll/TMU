@@ -30,6 +30,60 @@ why-at-masters:
 - Students in any emphasis will have a working knowledge of Greek or Hebrew, be able
   to apply hermeneutics to correctly interpret biblical text, and understand ministry
   from a biblical perspective
+required-courses-body: |-
+  **Bible General Emphasis Courses**
+
+  * **B340 Biblical Interpretation (3)**
+
+  * B___ One course in OT studies (3)
+
+  * B___ One course in NT studies (3)
+
+  * B400 Senior Integrative Seminar (3)
+
+  * B490 Senior Comprehensive Exam (0)
+
+  * BC300 Introduction to Biblical Counseling (3)
+
+  * One of the following (8)
+
+    * *BL301 & 302 Elementary Greek I & II (4, 4)*
+
+    * *BL311 & 312 Elementary Hebrew I & II (4, 4)*
+
+  * BMN/BMS/BYM One Course in Intro to Ministry (3)
+
+  * Bible Electives (21)
+
+  **Total units required for emphasis (47)**
+
+  ## **Bible Exposition Emphasis Courses**
+
+  * **B335 Revelation (3)**
+
+  * B340 Biblical Interpretation (3)
+
+  * B342 Romans (3)
+
+  * B346 Life of Christ (3)
+
+  * B364 History of Ancient Israel (3)
+
+  * B400 Senior Integrative Seminar (3)
+
+  * B490 Senior Comprehensive Exam (0)
+
+  * One of the following (8)
+
+    * *BL301 & 302 Elementary Greek I & II (4, 4)*
+
+    * *BL311 & 312 Elementary Hebrew I & II (4, 4)*
+
+  * Bible Book Study (3)
+
+  * Bible Electives (18)
+
+  **Total units required for emphasis (47)**
 quote: I’ve been finished with my Bible classes for over a year now, and there hasn't
   been a day gone by that I'm not thankful for how great an education I received.
   . .As much as I have learned from the classes, I have learned so much more from
