@@ -30,6 +30,13 @@ why-at-masters:
 - Students in any emphasis will have a working knowledge of Greek or Hebrew, be able
   to apply hermeneutics to correctly interpret biblical text, and understand ministry
   from a biblical perspective
+qoute: I’ve been finished with my Bible classes for over a year now, and there hasn't
+  been a day gone by that I'm not thankful for how great an education I received.
+  . .As much as I have learned from the classes, I have learned so much more from
+  the professors. Their lives as examples of men who want nothing but to serve Christ
+  have been the most impactful thing to me during my time at The Master's University.
+  They have taught me lessons about life and ministry that no book could ever teach,
+  and because of that I will always be indebted to them” (Stevie Noch, ’15)
 required-courses-body: |-
   **Bible General Emphasis Courses**
 
@@ -84,13 +91,6 @@ required-courses-body: |-
   * Bible Electives (18)
 
   **Total units required for emphasis (47)**
-quote: I’ve been finished with my Bible classes for over a year now, and there hasn't
-  been a day gone by that I'm not thankful for how great an education I received.
-  . .As much as I have learned from the classes, I have learned so much more from
-  the professors. Their lives as examples of men who want nothing but to serve Christ
-  have been the most impactful thing to me during my time at The Master's University.
-  They have taught me lessons about life and ministry that no book could ever teach,
-  and because of that I will always be indebted to them” (Stevie Noch, ’15)
 ---
 
 Standing firm on Christ & Scripture since 1927, there is no better place to study the Bible than at The Master’s University. We hold the Word of God as sufficient in all things, including its own interpretation. To best equip our students for their intended fields, ministry or otherwise, we teach them how to approach the Word; through Greek and/or Hebrew, the context in which it was written, along with a large selection of classes ranging from biblical counseling to the book of revelation.
