@@ -4,6 +4,11 @@ emphasis:
 - Bible General
 - Biblical counseling
 - Bible Exposition
+- Biblical Languages
+- Christian Education
+- Global Studies
+- Student Ministries
+- Theology
 total-credits: 108
 GE-credits: 40
 core-courses: 21
