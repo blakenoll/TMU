@@ -381,6 +381,13 @@ required-courses-body: |-
     * *BMS312 Global Outreach (3)*
 
   **Total units required for minor (18)**
+prof-publications-body: "**Dr. Abner Chou** I Saw the Lord: A Biblical Theology of
+  Vision; Evangelical Exegetical Commentary on Lamentations \n\n**Dr. Brian Morley**
+  God in the Shadows: Evil in God’s World\n\n**Dr. William Varner** published author
+  since 1984, Dr. Varner has written on a wide variety of biblical topics, including
+  a devotional on the Psalms, a study of the tribes of Israel, a book about the Prophet
+  Elijah, and an additional study of the book of James, Philippians: A Handbook on
+  the Greek Text"
 ---
 
 Standing firm on Christ & Scripture since 1927, there is no better place to study the Bible than at The Master’s University. We hold the Word of God as sufficient in all things, including its own interpretation. To best equip our students for their intended fields, ministry or otherwise, we teach them how to approach the Word; through Greek and/or Hebrew, the context in which it was written, along with a large selection of classes ranging from biblical counseling to the book of revelation.
