@@ -37,6 +37,7 @@ quote: I’ve been finished with my Bible classes for over a year now, and there
   have been the most impactful thing to me during my time at The Master's University.
   They have taught me lessons about life and ministry that no book could ever teach,
   and because of that I will always be indebted to them” (Stevie Noch, ’15)
+description: {{ content }}
 ---
 
 Standing firm on Christ & Scripture since 1927, there is no better place to study the Bible than at The Master’s University. We hold the Word of God as sufficient in all things, including its own interpretation. To best equip our students for their intended fields, ministry or otherwise, we teach them how to approach the Word; through Greek and/or Hebrew, the context in which it was written, along with a large selection of classes ranging from biblical counseling to the book of revelation.

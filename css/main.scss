@@ -36,6 +36,30 @@ main {
   background-color: darken($white, 5%)
 }
 
+.center {
+  text-align: center;
+}
+
+.carousel-control.right {
+    right: 0;
+    left: auto;
+    background-image: none;
+    background-repeat: repeat-x;
+}
+
+.carousel-control.left {
+    background-image: none;
+    background-repeat: repeat-x;
+}
+
+.dropdown-menu {
+  background-color: $navy;
+}
+
+.dropdown-menu>li>a {
+  color: $white;
+}
+
 .navbar {
   margin-bottom: 0px;
   border-radius: 0px;
@@ -69,15 +93,6 @@ main {
   background-color: $navy;
 }
 
-
-.dropdown-menu {
-  background-color: $navy;
-}
-
-.dropdown-menu>li>a {
-  color: $white;
-}
-
 .navbar-inverse .navbar-toggle {
     border-color: $navy;
 }
@@ -94,20 +109,8 @@ main {
     box-shadow: inset 0 0px 0 rgba(255,255,255,.1);
 }
 
-.center {
-  text-align: center;
-}
-
-.carousel-control.right {
-    right: 0;
-    left: auto;
-    background-image: none;
-    background-repeat: repeat-x;
-}
-
-.carousel-control.left {
-    background-image: none;
-    background-repeat: repeat-x;
+.secondary-content {
+  color: $navy;
 }
 
 #home-logo {
