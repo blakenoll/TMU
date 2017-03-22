@@ -65,6 +65,7 @@ main {
   border-radius: 0px;
 }
 
+
 .navbar-inverse {
   background-color: $navy;
   border-color: $navy;
@@ -239,6 +240,12 @@ main {
 
 }
 
+@media only screen and (min-width: 601px) {
+  .navbar-fixed {
+    height: 125px;
+  }
+}
+
 @media screen and (min-width: 1024px) {
   ul.nav li.dropdown:hover > ul.dropdown-menu {
       display: block;
@@ -260,5 +267,8 @@ main {
 @media only screen and (max-width: 993px) {
   #second-navbar {
     display: none;
+  }
+  .navbar-fixed {
+    height: 56px;
   }
 }

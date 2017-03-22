@@ -37,23 +37,23 @@ layout: default
         </div> -->
         <div class="card-tabs">
           <ul class="tabs tabs-fixed-width">
-            <li class="tab"><a class="active" href="#test4">Why at Master's</a></li>
-            <li class="tab"><a href="#test5">Student Quotes</a></li>
-            <li class="tab"><a href="#test6">Major Requirements</a></li>
+            <li class="tab"><a class="active" href="#wam">Why at Master's</a></li>
+            <li class="tab"><a href="#sq">Student Quotes</a></li>
+            <li class="tab"><a href="#mr">Major Requirements</a></li>
           </ul>
         </div>
         <div class="card-content grey lighten-4">
-          <div id="test4">
-            <ul class="browser-default">
+          <div id="wam">
+            <ol>
               {% for point in page.why-at-masters %}
               <li>{{ point }}</li>
               {% endfor %}
-            </ul>
+            </ol>
           </div>
-          <div id="test5">
+          <div id="sq">
             {{ page.quote }}
           </div>
-          <div id="test6">
+          <div id="mr">
             {{ page.required-courses-body | markdownify }}
           </div>
         </div>
@@ -80,6 +80,8 @@ layout: default
         <li>{{ course }}</li>
         {% endfor %}
       </ul>
+      <h2>Career Paths</h2>
+
     </div>
   </div>
   <div class="row">
