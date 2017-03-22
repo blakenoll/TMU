@@ -114,7 +114,7 @@ main {
 }
 
 #home-logo {
-  width: 275px;
+  width: 255px;
 }
 
 #search {
@@ -240,24 +240,25 @@ main {
 }
 
 @media screen and (min-width: 1024px) {
-
   ul.nav li.dropdown:hover > ul.dropdown-menu {
       display: block;
   }
-
 }
 
 @media screen and (min-width: 768px) {
-
   #top {
     background-image: url("https://www.masters.edu/media/868529/facultybanner_update.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     border-bottom: 4px solid #DAAA00;
   }
-
   #title {
     padding-top: 12%;
   }
+}
 
+@media only screen and (max-width: 993px) {
+  #second-navbar {
+    display: none;
+  }
 }
