@@ -17,6 +17,15 @@ course-offerings:
 - Computer Algorithms
 - Assembly Language Programming
 - Applications
+careers:
+- Software Engineer
+- Cyber Security
+- Programming
+- Artificial Intelligence
+- Systems Analyst
+- Operations Research Analyst
+- Data Warehousing
+- Modeling/Simulation
 ---
 
 From phone apps and video games to InDesign and Spotify, technology and programming is a
