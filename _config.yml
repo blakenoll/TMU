@@ -5,6 +5,9 @@ collections:
   authors:
     title: Authors
     output: false
+  admissions:
+    title: Admissions
+    output: true
   campuslinks:
     title: Campus Links
     output: true
@@ -39,6 +42,11 @@ collections:
     title: Uploads
     output: true
 defaults:
+- scope:
+    path: ''
+    type: admissions
+  values:
+    permalink: "/admissions/:title"
 - scope:
     path: ''
     type: landingPageBanners
