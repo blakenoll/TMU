@@ -2,7 +2,7 @@
 title: Abner Chou
 date: 2017-02-09 00:24:00 Z
 job-title: Associate Professor of Biblical Studies
-image: "/uploads/FacultyHeadshots/Prof%20Headshots%202015-0084.jpg"
+image: "/uploads/FacultyHeadshots/Chou,%20A.jpg"
 description: 'Dr. Chou began to teach Greek at the university in 2004 and continued
   to teach both at the university and seminary. He also spent two years teaching in
   Israel with IBEX. Dr. Chou has written several papers for Evangelical Theological

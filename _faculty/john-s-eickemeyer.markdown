@@ -2,6 +2,7 @@
 title: John S. Eickemeyer
 date: 2017-02-08 22:09:00 Z
 job-title: Chairperson, Computer & Information Sciences
+image: "/uploads/FacultyHeadshots/Eickemeyer,%20J.jpg"
 description: Before joining The Master's University faculty, Dr. Eickemeyer worked
   for nearly two decades in academia and in research and development. His contributions
   have appeared in several contexts, from international conferences to the U.S. Patent
