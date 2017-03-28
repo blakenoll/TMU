@@ -2,7 +2,7 @@
 title: John Stead
 date: 2017-02-08 17:36:00 Z
 job-title: Professor of History & Political Studies
-image: "/uploads/prof-headshots-2015-0054.jpg"
+image: "/uploads/FacultyHeadshots/Stead,%20J.jpg"
 description: Dr. John Stead has served on The Master's University faculty since 1970.
   He also served as Vice President of Academic Affairs from 1979 to 1995. His doctoral
   work focused on Political Theory, Comparative Politics, and American Politics. Dr.
