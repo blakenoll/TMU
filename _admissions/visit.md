@@ -90,7 +90,7 @@ Mondays-At-Masters-body: |-
   **Music Department Auditions (optional)**
 
   **For more information regarding Music Auditions, please email the [Music Department](mailto:music@masters.edu)**
-Music-at-Masters-body: 
+Music-at-Masters-body: "**Music @ Master's: Prelude | Spring 2017**"
 layout: default
 ---
 
@@ -131,9 +131,9 @@ layout: default
   </div>
 
   <div id="test3" class="col s12">
-    {{ page.Mondays-At-Masters-body | markdownify }}
+    {{ page.Mondays@Masters-body | markdownify }}
   </div>
 
   <div id="test4" class="col s12">
-    {{ page.Music-At-Masters-body | markdownify }}
+    {{ page.Monday@Masters-body | markdownify }}
   </div>
