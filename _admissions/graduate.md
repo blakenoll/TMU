@@ -2,3 +2,6 @@
 title: Graduate
 ---
 
+**The Graduate Studies program at The Master’s University exists to equip students for a lifetime of Christian ministry and vocational witness, through training to accurately interpret the Scripture for insightfully understanding the human heart, for grasping the complexity and practicality of theology, for effectively communicating God’s message to others, and for discerning how to apply the truth by God’s grace in evangelism, counseling, discipleship, teaching, and personal growth in likeness to Jesus Christ.**
+
+**The Master's University & Seminary offers graduate programs in several academic disciplines. The Graduate Studies department hosts the [Master of Arts in Biblical Counseling](http://www.masters.edu/academics/graduate/degree-programs/mabc/) (MABC) and the [Master of Arts in Biblical Studies](http://www.masters.edu/academics/graduate/degree-programs/mabs/) (MABS) degree programs. The Online department hosts the [Master of Business Administration](http://www.masters.edu/academics/online.aspx) (MBA) program. And the Master of Divinity (MDiv), the Master of Theology (ThM), the Doctor of Ministry (DMin), and the Doctor of Philosophy (PhD) degree programs are hosted by the [Master's Seminary](http://www.tms.edu/).**
