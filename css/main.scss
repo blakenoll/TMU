@@ -60,6 +60,17 @@ main {
   color: $white;
 }
 
+.fchip {
+  line-height: 45px;
+  height: 45px;
+  border-radius: 32px;
+}
+
+.fchip img {
+  height: 45px;
+  width: 45px;
+}
+
 .navbar {
   margin-bottom: 0px;
   border-radius: 0px;
