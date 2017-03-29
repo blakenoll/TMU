@@ -16,6 +16,6 @@ layout: default
 </div>
     {% for program in site.admissions %}
      <div id="{{ program.title | remove: " " }}" class="col s12">
-       {{ program.content }}
+       {{ program.content | markdownify }}
      </div>
     {% endfor %}
