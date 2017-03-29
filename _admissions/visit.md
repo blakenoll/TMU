@@ -1,8 +1,8 @@
 ---
 title: Visit
 layout: default
-View-The-U: 
-Personal-Visit: 
+View-The-U:
+Personal-Visit:
 ---
 
 <div class="container">
@@ -37,8 +37,10 @@ Personal-Visit:
     Registration is closed</p>
     <h2>Schedule</h2>
   </div>
-  <div id="test2" class="col s12">Personlized Visits</div>
-  {{ page.Personal-Visit }}
+  <div id="test2" class="col s12">
+    {{ page.Personal-Visit-body }}
+  </div>
+
   <div id="test3" class="col s12">Mondays @ Masters</div>
   <div id="test4" class="col s12">Music @ Masters</div>
 </div>
