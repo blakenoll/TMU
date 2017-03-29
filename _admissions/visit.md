@@ -1,6 +1,6 @@
 ---
 title: Visit
-View-The-U-body: 
+View-The-U-body:
 Personal-Visit-body: |-
   **We Want You On Campus!**
 
@@ -57,8 +57,8 @@ Personal-Visit-body: |-
   > * May 30, 2017: Closed for Memorial Day
   >
   > * July 4, 2017: Closed for Independence Day
-View-The-U: 
-Personal-Visit: 
+View-The-U:
+Personal-Visit:
 Mondays-At-Masters-body: |-
   **Mondays @ Master's**
 
@@ -135,5 +135,5 @@ Registration is closed</p>
 </div>
 
 <div id="test4" class="col s12">
-{{ page.Music-At-Masters-body | markdownify }}
+{{ page.Music-at-Masters-body | markdownify }}
 </div>
