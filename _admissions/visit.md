@@ -57,9 +57,41 @@ Personal-Visit-body: |-
   > * May 30, 2017: Closed for Memorial Day
   >
   > * July 4, 2017: Closed for Independence Day
-layout: default
 View-The-U: 
 Personal-Visit: 
+Monday@Masters-body: |-
+  **Mondays @ Master's**
+
+  **For the student who does not have much time to spare, Mondays @ Master’s is a great opportunity to get a snapshot of what TMU is all about. Come visit classes, take a campus tour, attend chapel, learn about financial aid opportunities, meet some of our current TMU students, and get all of your questions about TMU answered. It is the complete college visit packed into one fun-filled day!**
+
+  ## **Mondays @ Master's Dates:**
+
+  **September 19, 2016\
+  November 14, 2016\
+  February 13, 2017\
+  April 10, 2017**
+
+  **[CLICK HERE TO REGISTER](http://www.masters.edu/undergrad/visit/mondays/register/ "Register")**
+
+  **All we need is some basic information from you, and the best part about it is that it’s free! Once you have signed up we will send you a confirmation with all of the information you may need for your visit to TMU. Parents are also welcome and encouraged to attend. Let us know how we can help you make this college-decision process easier. We would love to see you here!**
+
+  **Though Mondays at Master’s is designed to be a condensed visit program and is not designed primarily to accommodate overnight visitors, it is possible that a Mondays at Master’s visitor might want to stay overnight in the dorms. If this is the case, any registered Mondays at Master’s attendee will need to read our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/) for details about staying overnight and email our Visit Coordinator. All overnight visitors need to bring a sleeping bag and pillow. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](http://www.masters.edu/visitorinfo.aspx) page to plan overnight housing at a local area hotel. If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page to rent a car.**
+
+  ## **Sample Schedule of Events:**
+
+  **8:30-9:00am Registration & Continental Breakfast\
+  9:10-10:25am Chapel\
+  10:45-11:35am Campus Tour or Class Visit\
+  11:45am-12:40pm Campus Tour or Class Visit\
+  12:50-1:45pm Lunch\
+  2:00-3:00pm Student Q&A Panel\
+  3:30-4:30pm Admissions & Financial Aid Seminar**
+
+  **Music Department Auditions (optional)**
+
+  **For more information regarding Music Auditions, please email the [Music Department](mailto:music@masters.edu)**
+Music@Masters-body: 
+layout: default
 ---
 
 <div class="container">
