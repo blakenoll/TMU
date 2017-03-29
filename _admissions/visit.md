@@ -1,6 +1,6 @@
 ---
 title: Visit
-View-The-U-body: 
+View-The-U-body:
 Personal-Visit-body: |-
   **We Want You On Campus!**
 
@@ -58,8 +58,8 @@ Personal-Visit-body: |-
   >
   > * July 4, 2017: Closed for Independence Day
 layout: default
-View-The-U: 
-Personal-Visit: 
+View-The-U:
+Personal-Visit:
 ---
 
 <div class="container">
@@ -98,5 +98,10 @@ Personal-Visit:
     {{ page.Personal-Visit-body | markdownify }}
   </div>
 
-  <div id="test3" class="col s12">Mondays @ Masters</div>
-  <div id="test4" class="col s12">Music @ Masters</div>
+  <div id="test3" class="col s12">
+    {{ page.Mondays@Masters-body | markdownify }}
+  </div>
+
+  <div id="test4" class="col s12">
+    {{ page.Monday@Masters-body | markdownify }}
+  </div>
