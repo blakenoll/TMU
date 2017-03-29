@@ -95,48 +95,8 @@ Personal-Visit:
     <h2>Schedule</h2>
   </div>
   <div id="test2" class="col s12">
-    {{ page.Personal-Visit-body }}
+    {{ page.Personal-Visit-body | markdownify }}
   </div>
 
   <div id="test3" class="col s12">Mondays @ Masters</div>
   <div id="test4" class="col s12">Music @ Masters</div>
-<div class="container">
-<!-- <div class="row">
-<div class="col s12">
-<nav>
-<div class="nav-wrapper white">
-<div class="col s12">
-<a href="{{ "/admissions" | prepend: site.url }}" class="breadcrumb">Admissions</a>
-<a href="#!" class="breadcrumb">{{ page.title }}</a>
-
-</div>
-</div>
-</nav>
-</div>
-</div> -->
-<div class="row">
-<div class="col s12">
-<ul class="tabs tabs-fixed-width">
-<li class="tab"><a class="active" href="#test1">View Weekends</a></li>
-<li class="tab"><a href="#test2">Personlized Visits</a></li>
-<li class="tab"><a href="#test3">Mondays @ Masters</a></li>
-<li class="tab"><a href="#test4">Music @ Masters</a></li>
-</ul>
-</div>
-<div id="test1" class="col s12">
-<img src="https://dummyimage.com/1920x670/oc2340/fff.jpg" alt="" width="100%">
-<h2>View The U</h2>
-<p>A TMU View Weekend is an unforgettable opportunity for prospective students to experience dorm life and attend classes, chapel services, and intercollegiate athletic events.
-<br>
-You will also be able to see our faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
-<br>
-Registration is closed</p>
-<h2>Schedule</h2>
-</div>
-<div id="test2" class="col s12">Personlized Visits</div>
-{{ page.Personal-Visit }}
-<div id="test3" class="col s12">Mondays @ Masters</div>
-<div id="test4" class="col s12">Music @ Masters</div>
-</div>
-
-</div>
