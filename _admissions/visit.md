@@ -59,7 +59,7 @@ Personal-Visit-body: |-
   > * July 4, 2017: Closed for Independence Day
 View-The-U: 
 Personal-Visit: 
-Mondays@Masters-body: |-
+Mondays-At-Masters-body: |-
   **Mondays @ Master's**
 
   **For the student who does not have much time to spare, Mondays @ Master’s is a great opportunity to get a snapshot of what TMU is all about. Come visit classes, take a campus tour, attend chapel, learn about financial aid opportunities, meet some of our current TMU students, and get all of your questions about TMU answered. It is the complete college visit packed into one fun-filled day!**
