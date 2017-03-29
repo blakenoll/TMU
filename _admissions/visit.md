@@ -90,7 +90,7 @@ Mondays-At-Masters-body: |-
   **Music Department Auditions (optional)**
 
   **For more information regarding Music Auditions, please email the [Music Department](mailto:music@masters.edu)**
-Music@Masters-body: 
+Music-at-Masters-body: 
 layout: default
 ---
 
