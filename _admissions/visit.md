@@ -1,8 +1,8 @@
 ---
 title: Visit
 layout: default
-View-The-U:
-Personal-Visit:
+View-The-U: 
+Personal-Visit: 
 ---
 
 <div class="container">
