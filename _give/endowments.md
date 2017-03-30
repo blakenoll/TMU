@@ -9,4 +9,4 @@ title: Endowments
 <p> </p>
 <h3 style="text-align: center;"><a href="https://give.cornerstone.cc/The+Masters+University" class="btn btn-navy">GIVE NOW</a></h3>
 <p> </p>
-<p><strong>The MacArthur Endowment is just one of the many endowment funds available to give towards at TMU.  Please <a href="/alumnifriends/supporttmc/staff/">contact</a> the development office for more information regarding giving to an endowment fund of your choice.</strong></p>
+<p><strong>The MacArthur Endowment is just one of the many endowment funds available to give towards at TMU.  Please <a href="{{ '/give/contact' | prepend: site.url }}">contact</a> the development office for more information regarding giving to an endowment fund of your choice.</strong></p>
