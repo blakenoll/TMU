@@ -2,7 +2,6 @@
 title: Presidents Circle
 ---
 
-<h1>President's Circle</h1>
 <img class="centerimg" alt="" src="{{ '/uploads/presidentscircle.png' | prepend: site.url }}" rel="7861" width="50%" />
 <h2>Where Your Investment Today Equips the Christian Leaders of Tomorrow</h2>
 <hr />
