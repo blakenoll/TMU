@@ -27,3 +27,19 @@ staff:
   phone: "(661) 362-2210"
 ---
 
+<h1>Contact</h1>
+The Master's University - Development<br>
+21726 Placerita Canyon Rd.<br>
+Santa Clarita, CA 91321
+
+
+  <table>
+  {% for staff in page.staff %}
+  <tr>
+    <td>{{ staff.name }}<br>
+    {{ staff.title }}</td>
+    <td><a href="mailto:{{ staff.email }}">{{ staff.email }}</a></td>
+    <td>{{ staff.phone }}</td>
+  </tr>
+  {% endfor %}
+  </table>
