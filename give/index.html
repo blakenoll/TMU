@@ -2,6 +2,43 @@
 layout: default
 ---
 
-<div class="container">
-  <h1>Give</h1>
-</div>
+  <div class="container">
+    <div class="row">
+      <div class="col s12 m8">
+        <h1>Why Give to The Master's University</h1>
+        <p>Generosity is a natural outcome of our relationship with Christ. God calls us to give Him everything: the time, talents and resources He has blessed us with here on earth.  As we do so, we become more like Him; the generous Giver of all things.</p>
+        <p>At The Master’s University we are dedicated to educating young men and women for eternal influence in all areas of their lives. Our educational approach is distinct, our mission is clear and our doctrine has not wavered throughout our rich history, making TMU a worthwhile and reliable investment.</p>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+        </style>
+        <div class='embed-container'><iframe src='https://player.vimeo.com/video/190782131' width='640' height='360' frameborder='0' webkitallowfullscreen='' mozallowfullscreen='' allowfullscreen=''></iframe>
+        </div>
+
+        <p>Our PRIMARY objective is to make our biblically centered education affordable for those who desire it.</p>
+        <ul>
+          <li>94% of our students receive financial aid in order to attend TMU</li>
+          <li>The average amount of financial assistance our student's receive is $22,953 per academic year</li>
+          <li>69% of tuition costs are covered by TMU</li>
+        </ul>
+        <h2>How can you help?</h2>
+        <p>We need partners in our pursuit of tuition affordability. Our generous donors play a significant role in funding scholarships, without which many students would not be able to attend The Master's University. Other significant areas of giving are our endowment funds, estate gifts, and our music and athletic departments.</p>
+        {% for page in site.give %}
+          <div class="col s6">
+            <h3><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></h3>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="col s12 m4">
+        <h2>Presidents Message</h2>
+        <hr>
+        <p>The Master's University equips young Christian men and women for spiritual service and leadership - on the job, in the home, and through their ministries.
+          <br><br>
+
+          Every class we teach and every degree we confer stand on the foundation of God's Word. Our students acquire knowledge from a biblical perspective, filtering everything they learn through the lens of God's Word. In other words, they gain wisdom to serve and wisdom to lead.
+          <br><br>
+
+          I invite you to join us in training the next generation of Christian leaders.</p>
+          <img src="{{'/uploads/macarthursignature5.png'| prepend: site.url }}" alt="" width="60%"><br>
+          <a class="btn btn-navy" href="https://give.cornerstone.cc/The+Masters+University">Give Now</a>
+      </div>
+    </div>
+  </div>
