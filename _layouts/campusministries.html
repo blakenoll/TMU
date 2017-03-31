@@ -19,8 +19,8 @@ layout: default
   <div class="row">
   <div class="col s12">
     <ul class="tabs">
-      <li class="tab"><a href="#meet">Meet the Director</a></li>
-      <li class="tab"><a class="active" href="#chapel">Chapel</a></li>
+      <li class="tab"><a class="active" href="#meet">Meet the Director</a></li>
+      <li class="tab"><a href="#chapel">Chapel</a></li>
       <li class="tab"><a href="#truth">Truth & Life</a></li>
       <li class="tab"><a href="#wow">Week of Welcome</a></li>
     </ul>
@@ -41,8 +41,13 @@ layout: default
     {{ page.chapel-body | markdownify }}
     <a class="btn btn-navy" href="{{ '/studentlife/chapel' | prepend: site.url }}">Chapel Page</a>
   </div>
-  <div id="truth" class="col s12">{{ page.tl-body | markdownify }}</div>
-  <div id="wow" class="col s12">{{ page.wow-body | markdownify }}</div>
+  <div id="truth" class="col s12">
+    {{ page.tl-body | markdownify }}
+  </div>
+  <div id="wow" class="col s12">
+    {{ page.wow-body | markdownify }}
+    <a class="btn btn-navy" href="{{ '/wow' | prepend: site.url }}">Week of Welcome Page</a>
+  </div>
 </div>
 
 
