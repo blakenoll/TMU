@@ -1,5 +1,6 @@
 ---
 title: Truth & Life
-permalink: /truthandlife
+permalink: "/truthandlife"
 layout: default
 ---
+
