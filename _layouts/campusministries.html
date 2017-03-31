@@ -25,7 +25,17 @@ layout: default
       <li class="tab"><a href="#wow">Week of Welcome</a></li>
     </ul>
   </div>
-  <div id="meet" class="col s12">{{ page.director-body }}</div>
+  <div id="meet" class="col s12">
+    <div class="row">
+      <div class="col s4">
+        <img class="circle" src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="">
+      </div>
+      <div class="col s8">
+        {{ page.director-body }}
+      </div>
+    </div>
+
+  </div>
   <div id="chapel" class="col s12">{{ page.chapel-body }}</div>
   <div id="truth" class="col s12">{{ page.tl-body }}</div>
   <div id="wow" class="col s12">{{ page.wow-body }}</div>
