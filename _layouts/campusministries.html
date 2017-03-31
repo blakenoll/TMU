@@ -26,19 +26,23 @@ layout: default
     </ul>
   </div>
   <div id="meet" class="col s12">
+    <br>
     <div class="row">
-      <div class="col s4">
-        <img class="circle" src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="">
+      <div class="col s12 m3">
+        <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
       </div>
-      <div class="col s8">
-        {{ page.director-body }}
+      <div class="col s12 m9">
+        {{ page.director-body | markdownify }}
       </div>
     </div>
 
   </div>
-  <div id="chapel" class="col s12">{{ page.chapel-body }}</div>
-  <div id="truth" class="col s12">{{ page.tl-body }}</div>
-  <div id="wow" class="col s12">{{ page.wow-body }}</div>
+  <div id="chapel" class="col s12">
+    {{ page.chapel-body | markdownify }}
+    <a class="btn btn-navy" href="{{ '/studentlife/chapel' | prepend: site.url }}">Chapel Page</a>
+  </div>
+  <div id="truth" class="col s12">{{ page.tl-body | markdownify }}</div>
+  <div id="wow" class="col s12">{{ page.wow-body | markdownify }}</div>
 </div>
 
 
