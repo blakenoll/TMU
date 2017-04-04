@@ -63,10 +63,10 @@ teams-body: |-
   Great for these majors: Pre-med, Kinesiology, biology, juniors and seniors
 
   \*Dates are approximate and the cost for each trip is $2975.
-contribute-body: ''
-travelars-health-body: ''
-traveling-tips-body: ''
-support-letter-body: ''
+contribute-body: 
+travelars-health-body: 
+traveling-tips-body: 
+support-letter-body: 
 missions-resources-body: |-
   The Global Outreach Office receives many inquiries annually as to what resources might be obtained for leading and/or developing a Short Term Missions ministry. Below is a brief annotated bibliography followed by an additional listing of resources which may be of use.
 
@@ -104,7 +104,24 @@ missions-resources-body: |-
   Pirolo, Neal. The Reentry Team: Caring for Your Returning Missionaries. San Diego, CA: Emmaus Road International, 2000.
 
   Werner, David. Where There Is No Doctor: A Village Health Care Handbook. Palo Alto, CA: The Hesperian Foundation, 1992.
-application-body: ''
+application-body: |-
+  2017 Applications Now Available!
+
+  Spots remaining only for men on Ukraine and for the athletic teams.
+
+  Applications will be completed on-line through our Managed Missions portal. Please find the link for the application below. The link for the references should be emailed to your reference. All references must be received prior to acceptance. Team notification will be made in most cases by January 15.
+
+  ## Global Outreach Teams
+
+  Application: [https://app.managedmissions.com/MissionApplication/Start/5604](https://app.managedmissions.com/MissionApplication/Start/5604)
+
+  Parent Reference: [http://masters.formstack.com/forms/Parent_ref_GO](http://masters.formstack.com/forms/Parent_ref_GO)
+
+  RA Reference: [http://masters.formstack.com/forms/RA_reference_GO](http://masters.formstack.com/forms/RA_reference_GO)
+
+  Pastor Reference: [http://masters.formstack.com/forms/Pastor_ref_GO](http://masters.formstack.com/forms/Pastor_ref_GO)
+
+  \*Please note that completing an application does not guarantee a place on a team.
 layout: globo
 ---
 
