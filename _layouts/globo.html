@@ -44,9 +44,24 @@ layout: default
       {{ page.teams-body | markdownify }}
     </div>
     <div id="test3" class="col s12">
+      <ul class="collapsible" data-collapsible="accordion">
+        <li>
+          <div class="collapsible-header">Travelar's Health Information</div>
+          <div class="collapsible-body"><span>{{ page.travelars-health-body | markdownify }}</span></div>
+        </li>
+        <li>
+          <div class="collapsible-header">Traveling Tips</div>
+          <div class="collapsible-body"><span>{{ page.traveling-tips-body | markdownify }}</span></div>
+        </li>
+        <li>
+          <div class="collapsible-header">Support Letter Tips</div>
+          <div class="collapsible-body"><span>{{ page.support-letter-body | markdownify }}</span></div>
+        </li>
+      </ul>
       {{ page.missions-resources-body | markdownify }}
     </div>
     <div id="test4" class="col s12">
+
       {{ page.contribute-body | markdownify }}
     </div>
 

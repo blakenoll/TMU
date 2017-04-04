@@ -63,8 +63,10 @@ teams-body: |-
   Great for these majors: Pre-med, Kinesiology, biology, juniors and seniors
 
   \*Dates are approximate and the cost for each trip is $2975.
-missions-resources-body: 
-contribute-body: 
+missions-resources-body:
+contribute-body:
+travelars-health-body:
+traveling-tips-body:
+support-letter-body:
 layout: globo
 ---
-
