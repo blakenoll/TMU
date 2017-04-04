@@ -174,22 +174,20 @@ traveling-tips-body: "Here are some helpful websites to get you started as you p
   for your international travel! Please note that these links are not sponsored or
   endorsed by TMC.\n\n### Library Database\n\n[www2.masters.edu/libraries/DBfinder.asp](http://www2.masters.edu/libraries/DBfinder.asp)\n\nOnce
   on the Library Databases/Indexes page, search for \"Global Road Warrior.\" Click
-  database and search for your country.\n\n### \n\n### CDC Travelers' Health\n\n[www.cdc.gov/travel](http://www.cdc.gov/travel)\n\nThe
+  database and search for your country.\n\n\n\n### CDC Travelers' Health\n\n[www.cdc.gov/travel](http://www.cdc.gov/travel)\n\nThe
   National Center for Disease Control provides health information for international
   travel. They have tips on recent outbreaks, vaccinations, safe food and water and
-  information on specific destinations.\n\n### \n\n### Steve Kropla's Help for World
-  Travelers!\n\n[kropla.com](http://www.kropla.com/)\n\nThis site includes info on
-  making international phone calls, telephone and electrical accessories, an international
-  electrical plug guide and more. If you are wondering what electronics to bring,
-  this site will be helpful.\n\n### \n\n### Trip Spot\n\n[tripspot.com/international](http://www.tripspot.com/international)\n\nInfo
+  information on specific destinations.\n\n\n\n### Steve Kropla's Help for World Travelers!\n\n[kropla.com](http://www.kropla.com/)\n\nThis
+  site includes info on making international phone calls, telephone and electrical
+  accessories, an international electrical plug guide and more. If you are wondering
+  what electronics to bring, this site will be helpful.\n\n \n\n### Trip Spot\n\n[tripspot.com/international](http://www.tripspot.com/international)\n\nInfo
   on U.S. customs, travel warnings, metric conversions, etc. This page also allows
-  you to search for travel info by region.\n\n### \n\n### Travel Channel Tips and
-  Tools\n\n[travel.discovery.com/tips/international/international.html](http://travel.discovery.com/tips/international/international.html)\n\nThis
+  you to search for travel info by region.\n\n \n\n### Travel Channel Tips and Tools\n\n[travel.discovery.com/tips/international/international.html](http://travel.discovery.com/tips/international/international.html)\n\nThis
   site contains articles on security, money matters, currency conversion, travel news,
-  measurement conversion and more.\n\n### \n\n### U.S. Department of State Bureau
-  of Consular Affairs\n\n[travel.state.gov](http://travel.state.gov/)\n\nThe U.S.
-  government provides current headlines of world affairs and travel warnings. A good
-  site for travel security and health.\n\n### \n\n### World Travel Guide Online\n\n[www.columbusguides.com](http://www.columbusguides.com/)\n\nThis
+  measurement conversion and more.\n\n \n\n### U.S. Department of State Bureau of
+  Consular Affairs\n\n[travel.state.gov](http://travel.state.gov/)\n\nThe U.S. government
+  provides current headlines of world affairs and travel warnings. A good site for
+  travel security and health.\n\n \n\n### World Travel Guide Online\n\n[www.columbusguides.com](http://www.columbusguides.com/)\n\nThis
   website offers information by region and country including visa, history, climate,
   airport and city info. Useful for learning about a specific country."
 support-letter-body: |-
