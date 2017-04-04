@@ -63,11 +63,6 @@ teams-body: |-
   Great for these majors: Pre-med, Kinesiology, biology, juniors and seniors
 
   \*Dates are approximate and the cost for each trip is $2975.
-missions-resources-body: ''
-contribute-body: ''
-travelars-health-body: ''
-traveling-tips-body: ''
-support-letter-body: ''
 missions-resources-body: |-
   The Global Outreach Office receives many inquiries annually as to what resources might be obtained for leading and/or developing a Short Term Missions ministry. Below is a brief annotated bibliography followed by an additional listing of resources which may be of use.
 
@@ -106,5 +101,9 @@ missions-resources-body: |-
 
   Werner, David. Where There Is No Doctor: A Village Health Care Handbook. Palo Alto, CA: The Hesperian Foundation, 1992.
 contribute-body: 
+travelars-health-body: ''
+traveling-tips-body: ''
+support-letter-body: ''
 layout: globo
 ---
+
