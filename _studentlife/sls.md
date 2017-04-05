@@ -13,6 +13,6 @@ sls-body: |-
   * [Ministry Overview and Guidelines](http://www.masters.edu/media/869354/1718-sls-ministry-overview-and-guidelines.pdf "1718 SLS Ministry Overview and Guidelines.pdf")
 
   If you have any questions, send an e-mail to [servantleadership@masters.edu](mailto:servantleadership@masters.edu).
+sls-faq-body:
 layout: sls
 ---
-
