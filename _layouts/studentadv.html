@@ -19,15 +19,18 @@ layout: default
   {{ content | markdownify }}
   <ul class="collapsible" data-collapsible="accordion">
    <li>
-     <div class="collapsible-header">International Students</div>
+     <div class="collapsible-header"><h3>International Students</h3></div>
      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
    </li>
    <li>
-     <div class="collapsible-header">Military Students</div>
-     <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+     <div class="collapsible-header"><h3>Military Students</h3></div>
+     <div class="collapsible-body">
+       <img src="{{ '/images/masters-military-banner.jpg' | prepend: site.url }}" alt="" width="100%">
+       <span>{{ page.military-student-body | markdownify }}</span>
+     </div>
    </li>
    <li>
-     <div class="collapsible-header">Multicultural Students</div>
+     <div class="collapsible-header"><h3>Multicultural Students</h3></div>
      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
    </li>
  </ul>
