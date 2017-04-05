@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col s12">
+      <nav>
+       <div class="nav-wrapper white">
+         <div class="col s12">
+           <a href="{{ "/studentlife" | prepend: site.url }}" class="breadcrumb">Student Life</a>
+           <a href="#!" class="breadcrumb">{{ page.title }}</a>
+         </div>
+       </div>
+     </nav>
+    </div>
+  </div>
+  {{ sls-body | markdownify }}
+</div>
