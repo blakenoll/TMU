@@ -20,28 +20,46 @@ layout: default
   <ul class="collapsible" data-collapsible="accordion">
    <li>
      <div class="collapsible-header"><h3>International Students</h3></div>
-     <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+     <div class="collapsible-body">
+       <div class="row">
+         <div class="col s12">
+           <ul class="tabs">
+             <li class="tab"><a class="active" href="#test1">Programs & Resources</a></li>
+             <li class="tab"><a href="#test2">Meet the Coordinator</a></li>
+             <li class="tab"><a href="#">INTl Admissions</a></li>
+           </ul>
+         </div>
+         <div id="test1" class="col s12">
+           <span>{{ page.intl-programs-body | markdownify }}</span>
+         </div>
+         <div id="test2" class="col s12">
+           <span>{{ page.coordinator-body | markdownify }}</span>
+         </div>
+       </div>
+     </div>
    </li>
    <li>
      <div class="collapsible-header"><h3>Military Students</h3></div>
      <div class="collapsible-body">
        <img src="{{ '/images/masters-military-banner.jpg' | prepend: site.url }}" alt="" width="100%">
        <div class="row">
-    <div class="col s12">
-      <ul class="tabs">
-        <li class="tab"><a class="active" href="#test1">About</a></li>
-        <li class="tab"><a href="#test2">Resources</a></li>
-        <li class="tab"><a href="#test3">ROTC</a></li>
-      </ul>
-    </div>
-    <div id="test1" class="col s12">
-      <span>{{ page.military-student-body | markdownify }}</span>
-    </div>
-    <div id="test2" class="col s12">
-      <span></span>
-    </div>
-    <div id="test3" class="col s12">Test 3</div>
-  </div>
+         <div class="col s12">
+           <ul class="tabs">
+             <li class="tab"><a class="active" href="#test1">About</a></li>
+             <li class="tab"><a href="#test2">Resources</a></li>
+             <li class="tab"><a href="#test3">ROTC</a></li>
+           </ul>
+         </div>
+         <div id="test1" class="col s12">
+           <span>{{ page.military-student-body | markdownify }}</span>
+         </div>
+         <div id="test2" class="col s12">
+           <span>{{ page.military-resources-body | markdownify }}</span>
+         </div>
+         <div id="test3" class="col s12">
+           <span>{{ page.ROTC-body | markdownify }}</span>
+         </div>
+       </div>
      </div>
    </li>
    <li>
