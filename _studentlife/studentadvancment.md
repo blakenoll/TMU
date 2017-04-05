@@ -86,17 +86,17 @@ ROTC-body: |-
 
   To contact the Military Student Advancement Office you may call 661-362-2814, or send an e-mail to [military@masters.edu](mailto: military@masters.edu).
 intl-programs-body: |-
-  **One-Stop Resource Office**
+  ### One-Stop Resource Office
 
-  **TMC’s International Ministries Office serves as an important connection point for international students and TCKs, starting at the application stage and continuing through to graduation and beyond. Experienced staff come alongside professors and residence life staff help meet the unique needs of students coming from a variety of cross-cultural backgrounds.**
+  TMC’s International Ministries Office serves as an important connection point for international students and TCKs, starting at the application stage and continuing through to graduation and beyond. Experienced staff come alongside professors and residence life staff help meet the unique needs of students coming from a variety of cross-cultural backgrounds.
 
-  ## **Custom-Tailored Admissions Process**
+  ## Custom-Tailored Admissions Process
 
-  **Several years ago the TMC Admissions Office recognized the benefit of having an admissions counselor specifically dedicated to international students and other TCKs. The [international admissions staff](http://www.masters.edu/undergrad/international/staff.aspx "International Admissions Staff") work with applicants and their families to ensure a smooth application process marked by open and consistent communication, whether a student is applying from Tokyo or Tulsa.**
+  Several years ago the TMC Admissions Office recognized the benefit of having an admissions counselor specifically dedicated to international students and other TCKs. The [international admissions staff](http://www.masters.edu/undergrad/international/staff.aspx "International Admissions Staff") work with applicants and their families to ensure a smooth application process marked by open and consistent communication, whether a student is applying from Tokyo or Tulsa.
 
-  ## **Unique International Orientation Program**
+  ## Unique International Orientation Program
 
-  **International students, MK’s, and other Third Culture Kids (TCKs) are invited to participate in a strategic orientation program called “Passport to Master’s.” This two-day program takes place prior to the traditional [Week of Welcome](http://www.masters.edu/student-life/campus-ministries/wow-week.aspx "Week of Welcome") (a week-long orientation for all new students). By arriving early, students have the opportunity to discuss specific cultural issues, become acquainted with The Master’s College (TMC) campus, and meet other students from around the globe. Passport to Master’s involves various seminars and activities, and culminates with a special dinner reception for the new students and their family members.**
+  International students, MK’s, and other Third Culture Kids (TCKs) are invited to participate in a strategic orientation program called “Passport to Master’s.” This two-day program takes place prior to the traditional [Week of Welcome](http://www.masters.edu/student-life/campus-ministries/wow-week.aspx "Week of Welcome") (a week-long orientation for all new students). By arriving early, students have the opportunity to discuss specific cultural issues, become acquainted with The Master’s College (TMC) campus, and meet other students from around the globe. Passport to Master’s involves various seminars and activities, and culminates with a special dinner reception for the new students and their family members.
 
   ## Customized Financial Aid
 
