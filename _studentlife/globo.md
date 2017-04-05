@@ -1,6 +1,6 @@
 ---
-layout: globo
 title: Global Outreach
+layout: globo
 teams-body: |-
   The Master's University desires to provide each student with an opportunity to participate in and learn from the work of God in an overseas cross-cultural setting. Ministry opportunities are selected based on the following critical factors: partnership with a local church, evangelistic opportunities, vocational participation, length of service, and partnership with TMC alumni. Teams are formed at the end of the Fall semester, receive training during the spring semester, and serve overseas during the summer. All teams that minister through the Office of Global Outreach are led by students who are members of the Servant Leadership Staff.
 
@@ -64,7 +64,7 @@ teams-body: |-
   Great for these majors: Pre-med, Kinesiology, biology, juniors and seniors
 
   \*Dates are approximate and the cost for each trip is $2975.
-contribute-body:
+contribute-body: 
 travelars-health-body: |-
   Maintaining your health while overseas begins with proper planning and research before you depart. The following resources can help educate you about appropriate preventative measures prior to departure and during your travel abroad. Additionally, you should consult with a physician prior to your departure about your personal health and recommended vaccinations, immunizations, and other preventative medication.
 
@@ -477,3 +477,4 @@ faq-body: |-
 
   Gather addresses while you are home for people you will send letters to in late January.
 ---
+
