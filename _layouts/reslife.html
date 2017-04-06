@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col s12">
+      <nav>
+       <div class="nav-wrapper white">
+         <div class="col s12">
+           <a href="{{ "/studentlife" | prepend: site.url }}" class="breadcrumb">Student Life</a>
+           <a href="#!" class="breadcrumb">{{ page.title }}</a>
+         </div>
+       </div>
+     </nav>
+    </div>
+  </div>
+  <h3>Dorms</h3>
+  {% for dorm in site.dorms %}
+   <a href="{{ dorm.url | prepend: site.url }}">{{ dorm.title }}</a>
+  {% endfor %}
+  <div class="row">
+   <div class="col s12">
+     <ul class="tabs">
+       <li class="tab"><a class="active" href="#deans">Meet the Deans</a></li>
+       <li class="tab"><a href="#community">Community Covenant</a></li>
+     </ul>
+   </div>
+   <div id="deans" class="col s12">
+     
+   </div>
+   <div id="community" class="col s12">
+     {{ page.community-covenant-body | markdownify }}
+   </div>
+ </div>
+  <a href="#">Student Handbook link</a><br>
+  <a href="#">House & Food Services Contarct</a>
+</div>
