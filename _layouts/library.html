@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="container">
+  <h1 class="center">Robert L. Powell Library </h1>
+  <p>Search here for books, articles, and more ...</p>
+  <form action="https://masters.on.worldcat.org/search" class="row" method="GET">
+    <div class="col s8">
+      <input name="queryString" class="col-sm-8" style="border:1px solid #ccc;" placeholder="Search..." type="search">
+    </div>
+    <div class="col s4">
+      <button class="btn btn-navy" id="LibrarySearchButton" type="submit" style="width: 100%; height:40px;"><i class="material-icons">search</i></button>
+    </div>
+  </form>
+  For self guidance use the Advanced Search ...
+<a href="https://masters.on.worldcat.org/advancedsearch?databaseList=" target="_blank" title="Discovery Advanced" class="btn btn-navy">ADVANCED SEARCH</a>
+  <script>
+  $(document).ready(function() {
+    $("#LibrarySearchButton").click(function(){
+      $(this).html("<i class="material-icons">refresh</i>")
+    });
+  });
+  </script>
+  <div class="row">
+   <div class="col s12">
+     <ul class="tabs">
+       <li class="tab"><a href="#test1">Search Tools</a></li>
+       <li class="tab"><a class="active" href="#test2">Services</a></li>
+       <li class="tab"><a href="#test3">About The Library</a></li>
+     </ul>
+   </div>
+   <div id="test1" class="col s12">{{ page.searchtools-body }}</div>
+   <div id="test2" class="col s12">{{ page.services-body }}</div>
+   <div id="test3" class="col s12">{{ page.about }}</div>
+ </div>
+</div>
