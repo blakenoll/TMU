@@ -2,7 +2,7 @@
           <div class="container">
             <div class="row">
             <div class="col l3 s6">
-              <h5 class="white-text">Undergraduate</h5>
+              <h3 class="white-text">Undergraduate</h3>
               <ul>
                 {% for program in site.departments %}
                 <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
@@ -10,15 +10,21 @@
               </ul>
             </div>
               <div class="col l3 s6">
-                <h5 class="white-text">Graduate</h5>
+                <h3 class="white-text">Graduate</h3>
                 <ul>
                   {% for program in site.gradprograms %}
                   <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
                   {% endfor %}
                 </ul>
+                <h3 class="white-text">Online</h3>
+                <ul>
+                  {% for program in site.onlineprograms %}
+                  <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
+                  {% endfor %}
+                </ul>
               </div>
               <div class="col l3 s6">
-                <h5 class="white-text">Campus Links</h5>
+                <h3 class="white-text">Campus Links</h3>
                 <ul>
                   {% for page in site.campuslinks %}
                   <li><a class="grey-text text-lighten-3" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
