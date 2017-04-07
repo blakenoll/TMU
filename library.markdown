@@ -1,5 +1,6 @@
 ---
 title: Library
+layout: library
 date: 2017-04-06 22:48:00 Z
 searchtools-body: |-
   [Research Guides NEW](http://masters.libguides.com/)
@@ -11,8 +12,8 @@ searchtools-body: |-
   [Find eBooks](https://masters.on.worldcat.org/atoztitles/#ebook)
 
   [Search LC Subject Headings](http://id.loc.gov/authorities/subjects.html)
-services-body: 
-About: 
+services-body:
+About:
 intelibraryloan-body: |-
   Click [here](http://www.formstack.com/forms/masters-interlibrary_loan_books) for books, chapters, pages (be sure to always request title and verso).
 
@@ -374,6 +375,9 @@ copying-printing-body: |-
   CAUTION: When using these or any other duplicating equipment in the library the user must recognize that the [copyright law](http://www2.masters.edu/DeptPageNew.asp?PageID=1823#Copyright) of the United States ([Title 17 U.S. Code](http://www.copyright.gov/title17/)) governs the making of photocopies or other reproductions of copyrighted materials. The person using this equipment is liable for any infringement.
 
   *Last updated August 2011. For more information contact the circulation desk (661) 362-2278.*
-layout: library
+library-history-body:
+library-collection-body:
+library-personnel-body:
+hours-body:
+giving-body:
 ---
-
