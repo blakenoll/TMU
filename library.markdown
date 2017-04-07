@@ -375,6 +375,8 @@ copying-printing-body: |-
 
   *Last updated August 2011. For more information contact the circulation desk (661) 362-2278.*
 library-history-body: |-
+  # Mission & History
+
   The Lord has provided a rich and growing collection of traditional and electronic resources to support the programs of study at The Master's University. We are excited about making these available to support your spiritual and academic goals. Be assured that our dedicated staff is continually seeking to improve our services and provide a quiet, resourceful and inviting place to study. Please come and let us help you in any way we can. It is our privilege to serve you and contribute as much as possible to helping you develop your studies in a God honoring way. Take a minute and familiarize yourself with the particulars of our library.
 
   ### Mission Statement
@@ -385,7 +387,7 @@ library-history-body: |-
 
   The Powell Library for many years served the Los Angeles Baptist College (LABC). Prior to becoming The Master's College (TMC) in 1985 the Los Angeles Baptist Seminary moved to Washington State and removed its portion of the theological collection leaving 25,000 volumes. Since becoming The Master's College the Library has greatly increased its holdings through acquiring the libraries' of George Williams College (1986), the Northeastern Bible College (1991) and the Rev. Karl W. Gillmeister (2004). In addition many individual purchases have been made resulting in a collection in excess of 130,000 print volumes and 266 hardcopy periodicals. With the addition of over 70 subscription online databases and indexing tools, faculty and students have 24/7 access to over 60,000 ebooks, 1,500 ereference books and 35,000 full-text electronic journals. We trust you will find what you need and we welcome any suggestions or improvements you can offer.
 library-collection-body: |-
-  Circulating Collection
+  # Circulating Collection
 
   The library main circulating collection is arranged according to the Dewey Decimal Classification System (DDC) as outlined below. In a given call number, each Dewey Decimal number represents a specific area of knowledge. The Cutter number, a letter/number/letter combination below the DDC number, further identifies the work by the author's surname and the title. For example, the call number for Thomas Watson's The Ten Commandments is as follows:
 
@@ -533,7 +535,9 @@ library-collection-body: |-
 
   Searching the periodical indexes available from the Powell library is done through Solomon. Most of these indexes provide the full-text content of each journal, some only provide abstracts and a few only provide citations. The Interlibrary Loan service may be used to obtain needed articles when the hardcopy or softcopy full-text is unavailable.
 library-personnel-body: |
-  Public Services
+  # Library Personnel
+
+  ## Public Services
 
   Mr. John Stone, MLIS College Librarian (661)362-2271; jstone@masters.edu\
   Mr. Stone provides oversight, management and direction for The Robert L. Powell Library, its staff and services. He is particularly knowledgeable of Bible and theology related books especially in the area of the Puritans.
@@ -552,7 +556,7 @@ library-personnel-body: |
   Mrs. Grace Kamffer, MLIS Acquisitions Manager, Serials Manager/Interlibrary Loan Manager (661) 362-2274; gkamffer@masters.edu\
   Grace is responsible for ordering and processing all library materials. Sh also maintains all of our physical magazines, journals and indexes and assists in the management of our online full-text journals. She can tell you if we have received the latest issue of a particular journal or not. As Interlibrary Loan Manager, she handles finding the books and articles that you need but are unavailable in this library.\
 hours-body: |-
-  Semester Hours
+  # Semester Hours
 
   ### January 17 -- May
 
@@ -588,7 +592,9 @@ hours-body: |-
 
   ## For more information contact the Circulation Desk (661) 362-2278.
 giving-body: |-
-  Books
+  # Giving
+
+  ### Books
 
   The library will gladly receive donations of books, DVDs, CD's, etc. We reserve the right to keep or dispense of them as best fits our collection development needs. Donations of this kind are tax deductible and the donor is responsible for assigning value. A gift letter that can be used for tax purposes will be given upon request.
 
