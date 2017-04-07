@@ -1,7 +1,7 @@
 ---
 title: Library
-layout: library
 date: 2017-04-06 22:48:00 Z
+layout: library
 searchtools-body: |-
   [Research Guides NEW](http://masters.libguides.com/)
 
@@ -12,10 +12,11 @@ searchtools-body: |-
   [Find eBooks](https://masters.on.worldcat.org/atoztitles/#ebook)
 
   [Search LC Subject Headings](http://id.loc.gov/authorities/subjects.html)
-services-body:
-About:
-intelibraryloan:
-general-use-policies:
-reference-services:
-copying-printing:
+services-body: 
+About: 
+intelibraryloan: 
+general-use-policies: 
+reference-services: 
+copying-printing: 
 ---
+
