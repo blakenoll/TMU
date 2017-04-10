@@ -5,11 +5,11 @@ layout: default
 <div class="container">
   <h1 class="center">Robert L. Powell Library </h1>
   <form action="https://masters.on.worldcat.org/search" class="row" method="GET">
-    <div class="col s8">
+    <div class="col s6 offset-s2">
       <input name="queryString" class="input-field"  placeholder="Search here for books, articles, and more ..." type="search">
     </div>
-    <div class="col s4">
-      <button class="btn btn-navy" id="LibrarySearchButton" type="submit"><i class="material-icons">search</i></button>
+    <div class="col s2">
+      <button class="btn btn-navy" id="LibrarySearchButton" type="submit" style="width: 100%"><i class="material-icons">search</i></button>
     </div>
   </form>
   <p>For self guidance use the Advanced Search ...</p>
@@ -27,6 +27,7 @@ layout: default
        <li class="tab"><a href="#test1">Search Tools</a></li>
        <li class="tab"><a href="#test2">Services</a></li>
        <li class="tab"><a href="#test3">About The Library</a></li>
+       <li class="tab"><a href="#test3">Hours</a></li>
      </ul>
    </div>
    <div id="test1" class="col s12">{{ page.searchtools-body | markdownify }}</div>
