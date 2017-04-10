@@ -18,17 +18,37 @@ layout: default
   </div>
   <div class="row">
    <div class="col s12">
-     <ul class="tabs">
-       <li class="tab col s3"><a href="#test1">Test 1</a></li>
-       <li class="tab col s3"><a class="active" href="#test2">Test 2</a></li>
-       <li class="tab col s3 disabled"><a href="#test3">Disabled Tab</a></li>
-       <li class="tab col s3"><a href="#test4">Test 4</a></li>
+     <ul class="collapsible" data-collapsible="accordion">
+       <li>
+         <div class="collapsible-header">New/Transfer Student</div>
+         <div class="collapsible-body"><span>{{ page.new-transfer-student-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">Continuing Students</div>
+         <div class="collapsible-body"><span>{{ page.continuing-students-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">Endowed Scholarships</div>
+         <div class="collapsible-body"><span>{{ page.endowed-scholorship-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">International Students</div>
+         <div class="collapsible-body"><span>{{ page.intl-students-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">Cal Grant</div>
+         <div class="collapsible-body"><span>{{ page.cal-grant-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">Pastor/Missionary Dep. Grant</div>
+         <div class="collapsible-body"><span>{{ page.pastor-dep-grant-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">Ministry Matching Grant</div>
+         <div class="collapsible-body"><span>{{ page.ministry-matching-body | markdownify }}</span></div>
+       </li>
      </ul>
    </div>
-   <div id="test1" class="col s12">{{ page.new-transfer-student-body }}</div>
-   <div id="test2" class="col s12">Test 2</div>
-   <div id="test3" class="col s12">Test 3</div>
-   <div id="test4" class="col s12">Test 4</div>
  </div>
 
 

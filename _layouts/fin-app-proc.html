@@ -17,5 +17,22 @@ layout: default
     </div>
   </div>
   {{ content }}
-
+  <ul class="collapsible" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header">What is Financial Aid</div>
+      <div class="collapsible-body"><span>{{ page.what-is-financial-aid-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Helpful Links</div>
+      <div class="collapsible-body"><span>{{ page.helpful-links-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Financial Aid Terms</div>
+      <div class="collapsible-body"><span>{{ page.financial-aid-terms-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Prior-Prior Year Information</div>
+      <div class="collapsible-body"><span>{{ page.prior-year-body | markdownify }}</span></div>
+    </li>
+  </ul>
 </div>
