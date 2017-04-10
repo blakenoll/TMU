@@ -4,7 +4,7 @@ title: FAQ
 
 **Questions**
 
-* **[How much does it cost to attend The Master’s University?](http://www.masters.edu/financial-aid/faq/#Q1)**
+* [How much does it cost to attend The Master’s University?](http://www.masters.edu/financial-aid/faq/#Q1)
 
 * [Do I have to apply for aid every year?](http://www.masters.edu/financial-aid/faq/#Q2)
 
