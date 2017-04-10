@@ -282,12 +282,6 @@ new-transfer-student-body: |-
   <p><a href="#" title="newandtransfer" class="scroll-anchor"><span style="font-size: x-small;">Return to Top</span></a></p>
   <p>&nbsp;</p>
   <p>For additional scholarships, please see our&nbsp;<a href="#" target="_blank" title="scholarshipsearch" class="scroll-anchor">Scholarship Search.</a></p>
-continuing-students-body:
-endowed-scholorship-body:
-intl-students-body:
-cal-grant-body:
-pastor-dep-grant-body:
-ministry-matching-body:
 continuing-students-body: |-
   <h2 id="link-top">Scholarships - Continuing Students</h2>
   <p>Every student must complete a <a href="/media/869351/forms-application-faa.pdf" target="_blank" title="Forms- Application- FAA.pdf">Financial Aid Application</a> to be considered for any financial aid (including Music, Athletics and outside scholarships). The Master's <span>University </span>offers <a href="#link-merit">Merit-based <span style="background-color: #ffffff;">Scholarships</span></a>, <a href="#link-need">Need-based Grants</a>, and <a href="#link-federal">Federal/State Aid</a>. See below for more details. All institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.</p>
@@ -915,3 +909,4 @@ ministry-matching-body: |-
 
   Note: Ministry Matching funds can affect eligibility for institutional need-based aid. Contact the Office of Financial Aid to determine if your financial aid will be affected.
 ---
+
