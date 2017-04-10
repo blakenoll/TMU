@@ -5,27 +5,27 @@ permalink: "/financialaid"
 hours-body: |-
   **Office Info**
 
-  On Campus Location:\
-  Rutherford Hall\
-  \
-  Office Hours:\
-  Mon-Fri 8:30-5:00\
-  \
-  Telephone:\
-  800\.568.6248 x2290\
-  661\.362.2290\
-  Fax: 661.362.2693\
-  \
-  Email:\
-  [financialaid@masters.edu\
-  ](mailto:financialaid@masters.edu)\
-  Mailing Address:\
-  The Master's University\
-  Financial Aid Office\
-  21726 Placerita Canyon Rd #38\
-  Santa Clarita, CA 91321\
-  \
-  Federal School Code:\
+  On Campus Location:
+  Rutherford Hall
+
+  Office Hours:
+  Mon-Fri 8:30-5:00
+
+  Telephone:
+  800.568.6248 x2290
+  661.362.2290
+  Fax: 661.362.2693
+
+  Email:
+  [financialaid@masters.edu
+  ](mailto:financialaid@masters.edu)
+  Mailing Address:
+  The Master's University
+  Financial Aid Office
+  21726 Placerita Canyon Rd #38
+  Santa Clarita, CA 91321
+
+  Federal School Code:
   001220
 layout: financialaidlanding
 ---
