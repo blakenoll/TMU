@@ -1,4 +1,3 @@
 ---
-title: General undergraduate
+title: General Undergraduate
 ---
-
