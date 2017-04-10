@@ -1,5 +1,6 @@
 ---
 title: Application Process
+layout: fin-app-proc
 ---
 
 Financial Aid Application Process
