@@ -1,284 +1,286 @@
 ---
 title: Online
-online-101-body: "## Financial Aid 101: The Basics\n\n*“How will I pay for my education?
-  Am I eligible for financial aid? Where do I begin?”*\n\nThe Office of Financial
+layout: fin-online
+online-101-body: |-
+  "## Financial Aid 101: The Basicsnn*“How will I pay for my education?
+  Am I eligible for financial aid? Where do I begin?”*nnThe Office of Financial
   Aid can answer your questions. Whether you are a high school student, a college
   transfer, or an inquiring parent, we are here to help. Our aim is to provide you
   with a premium education at a price that considers your personal financial situation.*
-  Premium education, personal price.*\n\n### \n\n### Types of Financial Aid\n\nThere
+  Premium education, personal price.*nn### nn### Types of Financial AidnnThere
   are two basic types of financial aid: gift aid and self-help aid. Gift aid refers
   to financial assistance that does not need to be repaid (i.e. scholarships or grants).
   Self-help aid is assistance that holds the recipient responsible for some sort of
   return (i.e. loans, work study). Funding from private sources (i.e. associations,
-  religious groups, or corporations) also fall within these two groups.\n\n### \n\n###
-  The Process\n\n*Applying for financial aid can be intimidating, but that is why
-  we have made the process as streamlined as possible. The steps are simple:*\n\n1\\.
-  Submit a TMU [Financial Aid Application](http://www.masters.edu/financial-aid/onlinedcp/dcolpprintforms/).\n\n2\\.
-  Complete the [Free Application for Federal Student Aid](http://www.fafsa.ed.gov/).\n\n3\\.
+  religious groups, or corporations) also fall within these two groups.nn### nn###
+  The Processnn*Applying for financial aid can be intimidating, but that is why
+  we have made the process as streamlined as possible. The steps are simple:*nn1.
+  Submit a TMU [Financial Aid Application](http://www.masters.edu/financial-aid/onlinedcp/dcolpprintforms/).nn2.
+  Complete the [Free Application for Federal Student Aid](http://www.fafsa.ed.gov/).nn3.
   Submit all documents requested by the Office of Financial Aid. Missing documents
-  can be viewed through your [Self-Service](https://portal.masters.edu/SelfService/Finances/FinancialAid.aspx).\n\n4\\.
+  can be viewed through your [Self-Service](https://portal.masters.edu/SelfService/Finances/FinancialAid.aspx).nn4.
   If you are required for verification by the government please complete the [IRS
   Data Retrieval](http://www.fafsa.ed.gov/) and [Federal Verification Worksheet](http://www.masters.edu/financial-aid/onlinedcp/dcolpprintforms/).
-  Step-by-step verification information can be viewed on our [Verification page](http://www.masters.edu/undergrad/financial-aid/verification.aspx).\n\n5\\.
-  Receive your award letter and accept your awards online through [Self-Service](https://www2.masters.edu/edit/StudentResources/FinAidAward.asp).\n\n###
-  \n\n### Communication\n\nGood communication with the Office of Financial Aid is
+  Step-by-step verification information can be viewed on our [Verification page](http://www.masters.edu/undergrad/financial-aid/verification.aspx).nn5.
+  Receive your award letter and accept your awards online through [Self-Service](https://www2.masters.edu/edit/StudentResources/FinAidAward.asp).nn###
+  nn### CommunicationnnGood communication with the Office of Financial Aid is
   essential to your financial success. You will not receive blanket mass letters from
   our office*. If we contact you, it is because we require the information we are
-  requesting.*\n\nOur communication process is directly connected to your personal
+  requesting.*nnOur communication process is directly connected to your personal
   account. Each letter, email, or postcard you receive from the Office of Financial
   Aid relates* *to your specific situation, so be careful to respond promptly to all
-  communication attempts.\n\n**Important Dates**\n\n* December         Request pin
-  for the FASFA\n\n* January             Begin completing the FASFA\n\n* February
-  \          Complete IRS Data Retrieval or IRS Tax Transcript\n\n* March 2nd        Priority
-  Deadline! Turn in all documents\n\n* March 2nd        California [Cal Grant](http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx)
-  eligible high school students, transcripts need to be   verified and sent to [CSAC](http://www.csac.ca.gov/)\n\n**Important
-  Links:**\n\n**[Financial Aid Homepage](http://www.masters.edu/financial-aid/onlinedcp/
-  \"DCOLPfinaidhome\")**\n\n**[Financial Aid Verification](http://www.masters.edu/financial-aid/onlinedcp/dcolpverificaiton/
-  \"dcolpverification\")**\n\n**Financial Aid Documents**"
+  communication attempts.nn**Important Dates**nn* December         Request pin
+  for the FASFAnn* January             Begin completing the FASFAnn* February
+            Complete IRS Data Retrieval or IRS Tax Transcriptnn* March 2nd        Priority
+  Deadline! Turn in all documentsnn* March 2nd        California [Cal Grant](http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx)
+  eligible high school students, transcripts need to be   verified and sent to [CSAC](http://www.csac.ca.gov/)nn**Important
+  Links:**nn**[Financial Aid Homepage](http://www.masters.edu/financial-aid/onlinedcp/
+  "DCOLPfinaidhome")**nn**[Financial Aid Verification](http://www.masters.edu/financial-aid/onlinedcp/dcolpverificaiton/
+  "dcolpverification")**nn**Financial Aid Documents**"
 state-fed-grants-body: |-
-  <h2 id="link-federal" style="text-align: center;">Federal/State Aid</h2>\
-  <p style="text-align: center;">(FAFSA required)</p>\
-  <table border="1" cellpadding="5" align="right">\
-  <tbody>\
-  <tr>\
-  <td><span class="boldText">Award</span></td>\
-  <td><span class="boldText">Amount</span></td>\
-  <td><span class="boldText">Additional Documents Needed</span></td>\
-  </tr>\
-  <tr>\
-  <td><strong>Cal Grant</strong><br />\
-  <ul>\
-  <li>Awarded to low and middle income California residents and is based on need and GPA. The student must be enrolled in at least a two year program. Annual application is required.</li>\
-  <li>Additional documentation is required. Applicant must have submitted GPA verification (via the Registrar's Office at their high school or college).</li>\
-  <li><span>Deadline: March 2</span></li>\
-  </ul>\
-  </td>\
-  <td align="center">Up to $8,056</td>\
-  <td align="center">GPA Verification Form<br /><br /><a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a></td>\
-  </tr>\
-  <tr>\
-  <td><span class="boldText">Pell Grant</span><br />\
-  <ul>\
-  <li>Federal program based on need.</li>\
-  </ul>\
-  </td>\
-  <td align="center">Up to $5,775</td>\
-  <td align="center"><a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a></td>\
-  </tr>\
-  <tr>\
-  <td><span class="boldText">Supplemental Education Opportunity Grant</span><br />\
-  <ul>\
-  <li>Federal program based on need. The student must also be eligible for Pell Grant (see above).</li>\
-  </ul>\
-  </td>\
-  <td align="center">Up to $1,000</td>\
-  <td align="center"><a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a></td>\
-  </tr>\
-  </tbody>\
-  </table>\
-  <h2> </h2>\
-  <h2>Cal Grant</h2>\
-  <p style="padding-left: 30px;">Funded by the State of California and administered by the <a href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">CALIFORNIA STUDENT AID COMMISSION</span></a>, a Cal Grant is <span>money for school that you don’t have to pay back!</span></p>\
-  <h3><span> </span></h3>\
-  <h3><span>What is a Cal Grant?</span></h3>\
-  <p style="padding-left: 30px;">Cal Grants are one of the smartest ways to get cash for college. For starters, it’s money you don’t have to pay back. If you’re a graduating high school senior or recent graduate, meet academic, financial and eligibility requirements and submit two forms by the Cal Grant deadline, <span>March 2nd</span>, you may receive a Cal Grant!<br /><a href="http://www.calgrants.org/" target="_blank"><span style="text-decoration: underline;">Official Cal Grant Website</span></a></p>\
-  <h3><span> </span></h3>\
-  <h3><span>Am I eligible?</span></h3>\
-  <p>To be eligible for a Cal Grant you must:</p>\
-  <table border="0" width="1145" height="327" style="width: 1145px; height: 1px;">\
-  <tbody>\
-  <tr>\
-  <td>   </td>\
-  <td>\
-  <ul>\
-  <li>Submit the <a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a> and your verified Cal Grant GPA by the deadline March 2nd\*</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Have been a California resident when you graduated from high school</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Have financial need based on your college costs</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Have family income and assets below the established ceilings</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Meet any minimum <a href="http://www.csac.ca.gov/doc.asp?id=1177" target="blank"><span style="text-decoration: underline;">GPA requirements </span></a>(Note: CSAC uses cumulative GPA up to end of Jr. Year)</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Be enrolled at least half time</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Have registered with <a href="http://www.sss.gov/default.htm" target="blank"><span style="text-decoration: underline;">U.S. Selective Service </span></a>(most males)</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Not owe a refund on a state or federal grant or be in default on a student loan</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>Please visit the <a style="background-color: #ffffff;" href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">California Student Aid Commission</span></a> for a comprehensive list of eligibility requirements.</td>\
-  </tr>\
-  </tbody>\
-  </table>\
-  <h3><span> </span></h3>\
-  <h3><span>When can I apply?</span></h3>\
-  <p>You can apply for a Cal Grant at any one of these four times:</p>\
-  <table border="0" width="1152" height="119" style="width: 1145px; height: 1px;">\
-  <tbody>\
-  <tr>\
-  <td>   </td>\
-  <td>\
-  <ul>\
-  <li>As a high school senior.</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Within one year after you graduate high school.</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>As a community college transfer student (under the age of 28).</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Within one year of getting your GED.</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>The <a href="http://www.csac.ca.gov/doc.asp?id=48" target="_blank">Cal Grants Application</a> has detailed information that can assist in determining if you could be eligible to receive Cal Grant.</td>\
-  </tr>\
-  </tbody>\
-  </table>\
-  <h3> </h3>\
-  <h3>How do I apply?</h3>\
-  <table border="0" style="width: 1145px; height: 1px;">\
-  <tbody>\
-  <tr>\
-  <td>   </td>\
-  <td>\
-  <ul>\
-  <li>Complete the <a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a> by March 2nd</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Submit a verified Cal Grant GPA (SAT, ACT, or GED score for home school students) by March 2nd\*</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Contact the <a href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">California Student Aid Commission</span></a> to confirm you have met all eligibility requirements.</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Monitor your award at <a href="https://mygrantinfo.csac.ca.gov/logon.asp" target="blank"><span style="text-decoration: underline;">www.webgrants4students.com</span></a>.</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  </tbody>\
-  </table>\
-  <p>  </p>\
-  <h3>Who will notify me of the award?</h3>\
-  <p style="padding-left: 30px;">Once your data is confirmed by the <a href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">CALIFORNIA STUDENT AID COMMISSION</span></a>, they will notify you and The Master’s University of your award. <span>Only</span> the <a href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">CALIFORNIA STUDENT AID COMMISSION</span></a> has the authority to make an official Cal Grant award offer.</p>\
-  <h3> </h3>\
-  <h3>Remember:</h3>\
-  <table border="0" style="width: 1145px; height: 1px;">\
-  <tbody>\
-  <tr>\
-  <td>   </td>\
-  <td>\
-  <ul>\
-  <li>Important dates and tasks</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Contact the <a href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">California Student Aid Commision</span></a> to confirm you have met all eligibility requirements.</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Monitor your award at <span style="text-decoration: underline;"><a href="https://mygrantinfo.csac.ca.gov/logon.asp" target="blank">www.webgrants4students.com</a><br /></span></li>\
-  </ul>\
-  </td>\
-  </tr>\
-  </tbody>\
-  </table>\
-  <p> </p>\
-  <h3>Contact the California Student Aid Commission</h3>\
-  <p style="padding-left: 30px;">Telephone: Toll-free (888) 224-7268</p>\
-  <p style="padding-left: 30px;">E-mail: studentsupport@csac.ca.gov</p>\
-  <p style="padding-left: 30px;"><i>Please be advised that any Cal Grant award offer is tentative and subject to the final approval of the State Budget Act.</i></p>\
-  <p><img class="center" style="display: block; margin-left: auto; margin-right: auto;" src="http://www2.masters.edu/w/GetHostedFile.ashx?images%5b9%5d.jpg&amp;Id=788" /></p>\
-  <p style="text-align: center;"><i></i><a style="color: #2e2e2e; outline: 0px; background-color: #ffffff;" href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">CSAC</span></a></p>\
-  <p>\*You are responsible to make sure that your high school has submitted your grades to the California Student Aid Commission.  Ask your high school registrar what your school's procedure is.</p>
+  <h2 id="link-federal" style="text-align: center;">Federal/State Aid</h2>
+  <p style="text-align: center;">(FAFSA required)</p>
+  <table border="1" cellpadding="5" align="right">
+  <tbody>
+  <tr>
+  <td><span class="boldText">Award</span></td>
+  <td><span class="boldText">Amount</span></td>
+  <td><span class="boldText">Additional Documents Needed</span></td>
+  </tr>
+  <tr>
+  <td><strong>Cal Grant</strong><br />
+  <ul>
+  <li>Awarded to low and middle income California residents and is based on need and GPA. The student must be enrolled in at least a two year program. Annual application is required.</li>
+  <li>Additional documentation is required. Applicant must have submitted GPA verification (via the Registrar's Office at their high school or college).</li>
+  <li><span>Deadline: March 2</span></li>
+  </ul>
+  </td>
+  <td align="center">Up to $8,056</td>
+  <td align="center">GPA Verification Form<br /><br /><a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a></td>
+  </tr>
+  <tr>
+  <td><span class="boldText">Pell Grant</span><br />
+  <ul>
+  <li>Federal program based on need.</li>
+  </ul>
+  </td>
+  <td align="center">Up to $5,775</td>
+  <td align="center"><a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a></td>
+  </tr>
+  <tr>
+  <td><span class="boldText">Supplemental Education Opportunity Grant</span><br />
+  <ul>
+  <li>Federal program based on need. The student must also be eligible for Pell Grant (see above).</li>
+  </ul>
+  </td>
+  <td align="center">Up to $1,000</td>
+  <td align="center"><a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a></td>
+  </tr>
+  </tbody>
+  </table>
+  <h2> </h2>
+  <h2>Cal Grant</h2>
+  <p style="padding-left: 30px;">Funded by the State of California and administered by the <a href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">CALIFORNIA STUDENT AID COMMISSION</span></a>, a Cal Grant is <span>money for school that you don’t have to pay back!</span></p>
+  <h3><span> </span></h3>
+  <h3><span>What is a Cal Grant?</span></h3>
+  <p style="padding-left: 30px;">Cal Grants are one of the smartest ways to get cash for college. For starters, it’s money you don’t have to pay back. If you’re a graduating high school senior or recent graduate, meet academic, financial and eligibility requirements and submit two forms by the Cal Grant deadline, <span>March 2nd</span>, you may receive a Cal Grant!<br /><a href="http://www.calgrants.org/" target="_blank"><span style="text-decoration: underline;">Official Cal Grant Website</span></a></p>
+  <h3><span> </span></h3>
+  <h3><span>Am I eligible?</span></h3>
+  <p>To be eligible for a Cal Grant you must:</p>
+  <table border="0" width="1145" height="327" style="width: 1145px; height: 1px;">
+  <tbody>
+  <tr>
+  <td>   </td>
+  <td>
+  <ul>
+  <li>Submit the <a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a> and your verified Cal Grant GPA by the deadline March 2nd*</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Have been a California resident when you graduated from high school</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Have financial need based on your college costs</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Have family income and assets below the established ceilings</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Meet any minimum <a href="http://www.csac.ca.gov/doc.asp?id=1177" target="blank"><span style="text-decoration: underline;">GPA requirements </span></a>(Note: CSAC uses cumulative GPA up to end of Jr. Year)</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Be enrolled at least half time</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Have registered with <a href="http://www.sss.gov/default.htm" target="blank"><span style="text-decoration: underline;">U.S. Selective Service </span></a>(most males)</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Not owe a refund on a state or federal grant or be in default on a student loan</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>Please visit the <a style="background-color: #ffffff;" href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">California Student Aid Commission</span></a> for a comprehensive list of eligibility requirements.</td>
+  </tr>
+  </tbody>
+  </table>
+  <h3><span> </span></h3>
+  <h3><span>When can I apply?</span></h3>
+  <p>You can apply for a Cal Grant at any one of these four times:</p>
+  <table border="0" width="1152" height="119" style="width: 1145px; height: 1px;">
+  <tbody>
+  <tr>
+  <td>   </td>
+  <td>
+  <ul>
+  <li>As a high school senior.</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Within one year after you graduate high school.</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>As a community college transfer student (under the age of 28).</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Within one year of getting your GED.</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>The <a href="http://www.csac.ca.gov/doc.asp?id=48" target="_blank">Cal Grants Application</a> has detailed information that can assist in determining if you could be eligible to receive Cal Grant.</td>
+  </tr>
+  </tbody>
+  </table>
+  <h3> </h3>
+  <h3>How do I apply?</h3>
+  <table border="0" style="width: 1145px; height: 1px;">
+  <tbody>
+  <tr>
+  <td>   </td>
+  <td>
+  <ul>
+  <li>Complete the <a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a> by March 2nd</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Submit a verified Cal Grant GPA (SAT, ACT, or GED score for home school students) by March 2nd*</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Contact the <a href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">California Student Aid Commission</span></a> to confirm you have met all eligibility requirements.</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Monitor your award at <a href="https://mygrantinfo.csac.ca.gov/logon.asp" target="blank"><span style="text-decoration: underline;">www.webgrants4students.com</span></a>.</li>
+  </ul>
+  </td>
+  </tr>
+  </tbody>
+  </table>
+  <p>  </p>
+  <h3>Who will notify me of the award?</h3>
+  <p style="padding-left: 30px;">Once your data is confirmed by the <a href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">CALIFORNIA STUDENT AID COMMISSION</span></a>, they will notify you and The Master’s University of your award. <span>Only</span> the <a href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">CALIFORNIA STUDENT AID COMMISSION</span></a> has the authority to make an official Cal Grant award offer.</p>
+  <h3> </h3>
+  <h3>Remember:</h3>
+  <table border="0" style="width: 1145px; height: 1px;">
+  <tbody>
+  <tr>
+  <td>   </td>
+  <td>
+  <ul>
+  <li>Important dates and tasks</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Contact the <a href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">California Student Aid Commision</span></a> to confirm you have met all eligibility requirements.</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Monitor your award at <span style="text-decoration: underline;"><a href="https://mygrantinfo.csac.ca.gov/logon.asp" target="blank">www.webgrants4students.com</a><br /></span></li>
+  </ul>
+  </td>
+  </tr>
+  </tbody>
+  </table>
+  <p> </p>
+  <h3>Contact the California Student Aid Commission</h3>
+  <p style="padding-left: 30px;">Telephone: Toll-free (888) 224-7268</p>
+  <p style="padding-left: 30px;">E-mail: studentsupport@csac.ca.gov</p>
+  <p style="padding-left: 30px;"><i>Please be advised that any Cal Grant award offer is tentative and subject to the final approval of the State Budget Act.</i></p>
+  <p><img class="center" style="display: block; margin-left: auto; margin-right: auto;" src="http://www2.masters.edu/w/GetHostedFile.ashx?images%5b9%5d.jpg&amp;Id=788" /></p>
+  <p style="text-align: center;"><i></i><a style="color: #2e2e2e; outline: 0px; background-color: #ffffff;" href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">CSAC</span></a></p>
+  <p>*You are responsible to make sure that your high school has submitted your grades to the California Student Aid Commission.  Ask your high school registrar what your school's procedure is.</p>
 verification-body: |-
   ## Federal Verification Process for Online and Degree Completion
 
@@ -386,7 +388,7 @@ printable-forms-body: |-
   [Entrance Loan Counseling](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
 
   [Master Promissory Note](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
-tuition-fees-body: |
+tuition-fees-body: |-
   ## Tuition and Fees
 
   The Master’s University strives to offer students a Christ-centered education within the financial reach of all. We endeavor to keep costs as low as possible, and consequently, our tuition is among the most economical for a private university. When calculating university costs, be sure to consider the total cost. Consider items like: books and supplies, transportation, and personal spending money. While these amounts vary with each student, it can raise the total cost of education above the published tuition and room and board amounts. Fortunately, when computing a student’s financial need, we take all these costs into consideration.
@@ -415,173 +417,173 @@ tuition-fees-body: |
 
   Typical cost for books each semester ranges from $200 to $400, payable directly to the Campus Bookstore at time of purchase.
 
-  Course and Notebook Computer Fees\
+  Course and Notebook Computer Fees
   Some courses have specific fees, noted on the course schedule. All full-time students are required to have a notebook computer. Students must ensure their computer meets minimum configuration specifications. For more information, see [Computer Services](http://www.masters.edu/campuslinks/computerservices/studentcompinfo/notebookguide.aspx "Computer Services").
 
   **Payment Plan Administrative Fee**
 
   A fee of $85 per semester is charged if the student chooses the 5 month payment plan.
 
-  \
-  \*The Master’s University reserves the right to change, without notice, any charges, fees or policies listed on this website.\
+
+  *The Master’s University reserves the right to change, without notice, any charges, fees or policies listed on this website.
 loans-body: |-
   ## Student Loans
 
   The U.S. Department of Education administers the Federal Direct Student Loan Program (FDSLP) to help students and their families pay for a post-secondary education. The information below compares the subsidized and unsubsidized loan programs, providing the basic elements of each.
 
-  <table border="1" cellpadding="4">\
-  <tbody>\
-  <tr>\
-  <td width="34%" style="text-align: center;"><span class="boldText"><span style="color: #8d2629;"><span>Subsidized Stafford</span></span></span></td>\
-  <td width="34%" style="text-align: center;"><span class="boldText"><span style="color: #8d2629;"><span>Unsubsidized Stafford</span></span></span></td>\
-  </tr>\
-  <tr>\
-  <td>Need-based, low-interest student loan in which the government pays the interest while the student is in school enrolled at least half-time (6 units). This loan is deferred until the student graduates or drops below half-time, and eligiblity is determined by the FAFSA.</td>\
-  <td>Low-interest student loan in which the student is responsible for the interest while the student is in school enrolled at least half-time (6 units). This loan is deferred until the student graduates or drops below half-time.</td>\
-  </tr>\
-  <tr>\
-  <td valign="top"><span class="boldText">Amounts:</span><br />Freshman: $3,500<br />Sophomores: $4,500<br />Juniors/Seniors: $5,500</td>\
-  <td><span>Amounts:</span><br />Freshman: $3,500<br />Sophomores: $4,500<br />Juniors/Seniors: $5,500<br /><br /><span>Additional:</span><br />Dependent students: $2,000<br />Independent students: <br />$6,000 (1st/2nd year)<br />$7,000 (3rd/4th year)</td>\
-  </tr>\
-  <tr>\
-  <td><span>Interest Rate:</span><br />3.76% (fixed)</td>\
-  <td>\
-  <p><span>Interest Rate:</span><br />3.76% Undergraduate fixed)</p>\
-  <p>5.31% Graduate (fixed)</p>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td valign="top"><span>Grace Period:</span><br />6 mos. after graduation or student drops below half-time</td>\
-  <td valign="top"><span>Grace Period:</span><br />6 mos. after graduation or student drops below half-time</td>\
-  </tr>\
-  <tr>\
-  <td valign="top"><span>Fee:</span><br />1.068% of the total loan amount</td>\
-  <td valign="top"><span>Fee:</span><br />1.068% of the total loan amount</td>\
-  </tr>\
-  <tr>\
-  <td><span>Renewal:</span><br />Re-application required each year through FAFSA</td>\
-  <td><span>Renewal:</span><br />Re-application required each year through FAFSA</td>\
-  </tr>\
-  <tr>\
-  <td><span>Additional Requirements:</span><br />Master Promissory Note; Loan Counseling</td>\
-  <td><span>Additional Requirements:</span><br />Master Promissory Note; Loan Counseling</td>\
-  </tr>\
-  </tbody>\
+  <table border="1" cellpadding="4">
+  <tbody>
+  <tr>
+  <td width="34%" style="text-align: center;"><span class="boldText"><span style="color: #8d2629;"><span>Subsidized Stafford</span></span></span></td>
+  <td width="34%" style="text-align: center;"><span class="boldText"><span style="color: #8d2629;"><span>Unsubsidized Stafford</span></span></span></td>
+  </tr>
+  <tr>
+  <td>Need-based, low-interest student loan in which the government pays the interest while the student is in school enrolled at least half-time (6 units). This loan is deferred until the student graduates or drops below half-time, and eligiblity is determined by the FAFSA.</td>
+  <td>Low-interest student loan in which the student is responsible for the interest while the student is in school enrolled at least half-time (6 units). This loan is deferred until the student graduates or drops below half-time.</td>
+  </tr>
+  <tr>
+  <td valign="top"><span class="boldText">Amounts:</span><br />Freshman: $3,500<br />Sophomores: $4,500<br />Juniors/Seniors: $5,500</td>
+  <td><span>Amounts:</span><br />Freshman: $3,500<br />Sophomores: $4,500<br />Juniors/Seniors: $5,500<br /><br /><span>Additional:</span><br />Dependent students: $2,000<br />Independent students: <br />$6,000 (1st/2nd year)<br />$7,000 (3rd/4th year)</td>
+  </tr>
+  <tr>
+  <td><span>Interest Rate:</span><br />3.76% (fixed)</td>
+  <td>
+  <p><span>Interest Rate:</span><br />3.76% Undergraduate fixed)</p>
+  <p>5.31% Graduate (fixed)</p>
+  </td>
+  </tr>
+  <tr>
+  <td valign="top"><span>Grace Period:</span><br />6 mos. after graduation or student drops below half-time</td>
+  <td valign="top"><span>Grace Period:</span><br />6 mos. after graduation or student drops below half-time</td>
+  </tr>
+  <tr>
+  <td valign="top"><span>Fee:</span><br />1.068% of the total loan amount</td>
+  <td valign="top"><span>Fee:</span><br />1.068% of the total loan amount</td>
+  </tr>
+  <tr>
+  <td><span>Renewal:</span><br />Re-application required each year through FAFSA</td>
+  <td><span>Renewal:</span><br />Re-application required each year through FAFSA</td>
+  </tr>
+  <tr>
+  <td><span>Additional Requirements:</span><br />Master Promissory Note; Loan Counseling</td>
+  <td><span>Additional Requirements:</span><br />Master Promissory Note; Loan Counseling</td>
+  </tr>
+  </tbody>
   </table>
 
   **[MPN](https://studentloans.gov/myDirectLoan/index.action)¦ [Loan Counseling](https://studentloans.gov/myDirectLoan/index.action)¦ [Loan FAQ](http://www.masters.edu/financial-aid/onlinedcp/dcolploans/# "loanfaqs")¦ [Parent Loans](http://www.masters.edu/financial-aid/onlinedcp/dcolploans/# "directplusloans")¦ [Private Loans](http://www.masters.edu/privateloans "privateloans")**
 veterans-body: |-
-  <h2>Veterans Benefits and Financial Aid for the Online and Degree Completion Programs</h2>\
-  <p style="padding-left: 30px;">The Office of Financial Aid at The Master’s University welcomes veterans and members of the U.S. Armed Forces to take online and degree completion programs. We have designed this page as a resource for Veterans, active duty, reservists and their families to navigate the unique financial aid resources and benefits available. The Master’s University is approved to enroll those students and their families who are eligible for educational assistance benefits from the<a href="http://www.va.gov/" target="blank"><span style="text-decoration: underline;"> U.S. Department of Veterans Affairs (DVA).</span></a> We are committed to assisting you in taking full advantage of your Veterans benefits to secure an excellent higher Christian education at The Master’s University.</p>\
-  <p style="padding-left: 30px;"><span class="boldText">• The Master's University is a Yellow Ribbon School</span></p>\
-  <p style="padding-left: 30px;"><span class="boldText">• Please visit our <a href="http://www.masters.edu/admissions/military.aspx" target="_blank"><span style="text-decoration: underline;">Military Resource page</span></a> for additional information regarding Military students</span></p>\
-  <h3> </h3>\
-  <h3>How do I start the process?</h3>\
-  <table border="0" style="width: 1145px;">\
-  <tbody>\
-  <tr>\
-  <td>         </td>\
-  <td>\
-  <p>1.  Complete the Admissions Process</p>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <p>2.  Obtain your “Certificate of Eligibility” from the Department of Veterans Affairs and provide a copy to the Office of Financial Aid.</p>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <p>3.  Complete <a href="/financial-aid/onlinedcp/dcolpprintforms/" target="_blank"><span style="text-decoration: underline;">The Master’s University Financial Aid Application</span></a></p>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <p>4.  Complete the <a href="http://www.fafsa.ed.gov/" target="blank&quot;"><span style="text-decoration: underline;">Free Application for Federal Student Aid</span></a></p>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <p>5.  If selected for a process called “Verification” by the Federal government additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).  Please visit our <a href="/financial-aid/onlinedcp/dcolpverificaiton/" target="_blank"><span style="text-decoration: underline;">Verification page</span></a> for detailed instructions on this process.</p>\
-  </td>\
-  </tr>\
-  </tbody>\
-  </table>\
-  <p> </p>\
-  <h3> </h3>\
-  <h3>Types of Aid Available</h3>\
-  <ul>\
-  <li><span class="boldText">Post 9/11 GI Bill (Chapter 33):</span></li>\
-  </ul>\
-  <p style="padding-left: 30px;">The Post 9/11 GI Bill provides financial support for education and housing to individuals with at least 90 days of aggregate service on or after September 11,2001, or individuals discharged with a service-connected disability after 30 days. You must have received an honorable discharge to be eligible for the Post 9/11 GI Bill. Approved training includes graduate and undergraduate degrees at The Master’s University.</p>\
-  <ul>\
-  <li><span class="boldText">Montgomery GI Bill (Chapter 30)</span></li>\
-  </ul>\
-  <ul>\
-  <li><span class="boldText">Reserve Educational Assistance (REAP)</span></li>\
-  </ul>\
-  <ul>\
-  <li><span class="boldText">Surviving &amp; Dependents Assistance (DEA)</span></li>\
-  </ul>\
-  <ul>\
-  <li><span class="boldText">Federal and State Aid:</span></li>\
-  </ul>\
-  <p style="padding-left: 30px;">Pell Grant: up to $5,815</p>\
-  <p style="padding-left: 30px;">SEOG Grant: up to $1,000</p>\
-  <p style="padding-left: 30px;"><a href="/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx" target="_blank"><span style="text-decoration: underline;">Cal Grant</span></a>: up to $8,056</p>\
-  <p style="padding-left: 30px;"><a href="/undergrad/financial-aid/loans.aspx" target="_blank"><span style="text-decoration: underline;">Federal Stafford Loans</span></a> (Amount determined based on need and year in school)</p>\
-  <p><img width="206" height="232" style="display: block; margin-left: auto; margin-right: auto;" alt="VA.jpg" src="/media/803973/VA.jpg" /></p>\
-  <h3><span>Post 9/11 Benefit and Yellow Ribbon Breakdown</span></h3>\
-  <p style="padding-left: 30px;">Contact the Office of Financial Aid to speak with a counselor to receive your personal Financial Aid Award Letter detailing all funds you are eligible to receive.  Please note that an annual application must be submitted for VA benefit to be applied to account.  Below you will find a general breakdown of the awards available to Veterans of the U.S. Armed Forces.</p>\
-  <p><span class="boldText">Tuition Benefit:</span></p>\
-  <table border="0" style="width: 1145px;">\
-  <tbody>\
-  <tr>\
-  <td>      </td>\
-  <td>\
-  <ul>\
-  <li>$20,236 per year</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>12 General Education units ($250 per unit) per semester. Summer = $3000, Fall = $3000, Spring =$3000.  VA will pay the $3000 per semester or $9000 for the year plus any fees listed on your account</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>12 Major Coursework units ($450 per unit) per semester.  Summer = $5400, Fall = $5400, Spring = $5400.  VA will pay the $5400 per semester or $16,200 for the year plus any fees listed on your account. </li>\
-  </ul>\
-  </td>\
-  </tr>\
-  <tr>\
-  <td> </td>\
-  <td>\
-  <ul>\
-  <li>Please note that if your tuition and fees charges exceed $20,236 for any given year The Master's Unversity and the Yellow Ribbon program will cover the remaining tuition, however Yellow ribbon does not cover fees.</li>\
-  </ul>\
-  </td>\
-  </tr>\
-  </tbody>\
-  </table>\
-  <p> </p>\
-  <p><span class="boldText">BAH (Basic Allowance for Housing):</span></p>\
-  <p style="padding-left: 30px;">• $15,800 per year (based on 91321 BAH of $2,184 per month) </p>\
-  <p style="padding-left: 30px;">• These numbers updated May 1st for the 2015-16 school year.</p>\
-  <h3><span style="font-weight: bold;"> </span></h3>\
-  <h3><span style="font-weight: bold;">Contact Information:</span></h3>\
-  <p style="padding-left: 30px;">Ryan Wethern</p>\
-  <p style="padding-left: 30px;">Phone: 661.362.2292 or 1.800.568.6248</p>\
+  <h2>Veterans Benefits and Financial Aid for the Online and Degree Completion Programs</h2>
+  <p style="padding-left: 30px;">The Office of Financial Aid at The Master’s University welcomes veterans and members of the U.S. Armed Forces to take online and degree completion programs. We have designed this page as a resource for Veterans, active duty, reservists and their families to navigate the unique financial aid resources and benefits available. The Master’s University is approved to enroll those students and their families who are eligible for educational assistance benefits from the<a href="http://www.va.gov/" target="blank"><span style="text-decoration: underline;"> U.S. Department of Veterans Affairs (DVA).</span></a> We are committed to assisting you in taking full advantage of your Veterans benefits to secure an excellent higher Christian education at The Master’s University.</p>
+  <p style="padding-left: 30px;"><span class="boldText">• The Master's University is a Yellow Ribbon School</span></p>
+  <p style="padding-left: 30px;"><span class="boldText">• Please visit our <a href="http://www.masters.edu/admissions/military.aspx" target="_blank"><span style="text-decoration: underline;">Military Resource page</span></a> for additional information regarding Military students</span></p>
+  <h3> </h3>
+  <h3>How do I start the process?</h3>
+  <table border="0" style="width: 1145px;">
+  <tbody>
+  <tr>
+  <td>         </td>
+  <td>
+  <p>1.  Complete the Admissions Process</p>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <p>2.  Obtain your “Certificate of Eligibility” from the Department of Veterans Affairs and provide a copy to the Office of Financial Aid.</p>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <p>3.  Complete <a href="/financial-aid/onlinedcp/dcolpprintforms/" target="_blank"><span style="text-decoration: underline;">The Master’s University Financial Aid Application</span></a></p>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <p>4.  Complete the <a href="http://www.fafsa.ed.gov/" target="blank&quot;"><span style="text-decoration: underline;">Free Application for Federal Student Aid</span></a></p>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <p>5.  If selected for a process called “Verification” by the Federal government additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).  Please visit our <a href="/financial-aid/onlinedcp/dcolpverificaiton/" target="_blank"><span style="text-decoration: underline;">Verification page</span></a> for detailed instructions on this process.</p>
+  </td>
+  </tr>
+  </tbody>
+  </table>
+  <p> </p>
+  <h3> </h3>
+  <h3>Types of Aid Available</h3>
+  <ul>
+  <li><span class="boldText">Post 9/11 GI Bill (Chapter 33):</span></li>
+  </ul>
+  <p style="padding-left: 30px;">The Post 9/11 GI Bill provides financial support for education and housing to individuals with at least 90 days of aggregate service on or after September 11,2001, or individuals discharged with a service-connected disability after 30 days. You must have received an honorable discharge to be eligible for the Post 9/11 GI Bill. Approved training includes graduate and undergraduate degrees at The Master’s University.</p>
+  <ul>
+  <li><span class="boldText">Montgomery GI Bill (Chapter 30)</span></li>
+  </ul>
+  <ul>
+  <li><span class="boldText">Reserve Educational Assistance (REAP)</span></li>
+  </ul>
+  <ul>
+  <li><span class="boldText">Surviving &amp; Dependents Assistance (DEA)</span></li>
+  </ul>
+  <ul>
+  <li><span class="boldText">Federal and State Aid:</span></li>
+  </ul>
+  <p style="padding-left: 30px;">Pell Grant: up to $5,815</p>
+  <p style="padding-left: 30px;">SEOG Grant: up to $1,000</p>
+  <p style="padding-left: 30px;"><a href="/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx" target="_blank"><span style="text-decoration: underline;">Cal Grant</span></a>: up to $8,056</p>
+  <p style="padding-left: 30px;"><a href="/undergrad/financial-aid/loans.aspx" target="_blank"><span style="text-decoration: underline;">Federal Stafford Loans</span></a> (Amount determined based on need and year in school)</p>
+  <p><img width="206" height="232" style="display: block; margin-left: auto; margin-right: auto;" alt="VA.jpg" src="/media/803973/VA.jpg" /></p>
+  <h3><span>Post 9/11 Benefit and Yellow Ribbon Breakdown</span></h3>
+  <p style="padding-left: 30px;">Contact the Office of Financial Aid to speak with a counselor to receive your personal Financial Aid Award Letter detailing all funds you are eligible to receive.  Please note that an annual application must be submitted for VA benefit to be applied to account.  Below you will find a general breakdown of the awards available to Veterans of the U.S. Armed Forces.</p>
+  <p><span class="boldText">Tuition Benefit:</span></p>
+  <table border="0" style="width: 1145px;">
+  <tbody>
+  <tr>
+  <td>      </td>
+  <td>
+  <ul>
+  <li>$20,236 per year</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>12 General Education units ($250 per unit) per semester. Summer = $3000, Fall = $3000, Spring =$3000.  VA will pay the $3000 per semester or $9000 for the year plus any fees listed on your account</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>12 Major Coursework units ($450 per unit) per semester.  Summer = $5400, Fall = $5400, Spring = $5400.  VA will pay the $5400 per semester or $16,200 for the year plus any fees listed on your account. </li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td> </td>
+  <td>
+  <ul>
+  <li>Please note that if your tuition and fees charges exceed $20,236 for any given year The Master's Unversity and the Yellow Ribbon program will cover the remaining tuition, however Yellow ribbon does not cover fees.</li>
+  </ul>
+  </td>
+  </tr>
+  </tbody>
+  </table>
+  <p> </p>
+  <p><span class="boldText">BAH (Basic Allowance for Housing):</span></p>
+  <p style="padding-left: 30px;">• $15,800 per year (based on 91321 BAH of $2,184 per month) </p>
+  <p style="padding-left: 30px;">• These numbers updated May 1st for the 2015-16 school year.</p>
+  <h3><span style="font-weight: bold;"> </span></h3>
+  <h3><span style="font-weight: bold;">Contact Information:</span></h3>
+  <p style="padding-left: 30px;">Ryan Wethern</p>
+  <p style="padding-left: 30px;">Phone: 661.362.2292 or 1.800.568.6248</p>
   <p style="padding-left: 30px;">Fax: 661.362.2693</p>
 faq-body: |-
   ## Questions
@@ -650,8 +652,7 @@ faq-body: |-
 
   If you have questions that were not covered above, please feel free to contact us:
 
-  Ryan Wethern \
-  [rwethern@masters.edu](mailto:rwethern@masters.edu) \
+  Ryan Wethern
+  [rwethern@masters.edu](mailto:rwethern@masters.edu)
   661-362-2292
 ---
-
