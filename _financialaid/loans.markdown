@@ -43,8 +43,8 @@ loan-counseling-body: |-
   This session will take about 30-40 minutes to complete.
 
   #### [Exit Loan Counseling](https://studentloans.gov/myDirectLoan/index.action)
-parent-loans-body:
-private-loans-body:
+parent-loans-body: 
+private-loans-body: 
 faq-body: |-
   ### Questions...
 
