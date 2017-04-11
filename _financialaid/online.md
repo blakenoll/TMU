@@ -1,42 +1,42 @@
 ---
 title: Online
-layout: fin-online
-online-101-body: |-
-  "## Financial Aid 101: The Basicsnn*“How will I pay for my education?
-  Am I eligible for financial aid? Where do I begin?”*nnThe Office of Financial
+online-101-body: "## Financial Aid 101: The Basics\n\n*“How will I pay for my education?
+  Am I eligible for financial aid? Where do I begin?”*\n\nThe Office of Financial
   Aid can answer your questions. Whether you are a high school student, a college
   transfer, or an inquiring parent, we are here to help. Our aim is to provide you
   with a premium education at a price that considers your personal financial situation.*
-  Premium education, personal price.*nn### nn### Types of Financial AidnnThere
+  Premium education, personal price.*\n\n### \n\n### Types of Financial Aid\n\nThere
   are two basic types of financial aid: gift aid and self-help aid. Gift aid refers
   to financial assistance that does not need to be repaid (i.e. scholarships or grants).
   Self-help aid is assistance that holds the recipient responsible for some sort of
   return (i.e. loans, work study). Funding from private sources (i.e. associations,
-  religious groups, or corporations) also fall within these two groups.nn### nn###
-  The Processnn*Applying for financial aid can be intimidating, but that is why
-  we have made the process as streamlined as possible. The steps are simple:*nn1.
-  Submit a TMU [Financial Aid Application](http://www.masters.edu/financial-aid/onlinedcp/dcolpprintforms/).nn2.
-  Complete the [Free Application for Federal Student Aid](http://www.fafsa.ed.gov/).nn3.
+  religious groups, or corporations) also fall within these two groups.\n\n### \n\n###
+  The Process\n\n*Applying for financial aid can be intimidating, but that is why
+  we have made the process as streamlined as possible. The steps are simple:*\n\n1\\.
+  Submit a TMU [Financial Aid Application](http://www.masters.edu/financial-aid/onlinedcp/dcolpprintforms/).\n\n2\\.
+  Complete the [Free Application for Federal Student Aid](http://www.fafsa.ed.gov/).\n\n3\\.
   Submit all documents requested by the Office of Financial Aid. Missing documents
-  can be viewed through your [Self-Service](https://portal.masters.edu/SelfService/Finances/FinancialAid.aspx).nn4.
+  can be viewed through your [Self-Service](https://portal.masters.edu/SelfService/Finances/FinancialAid.aspx).\n\n4\\.
   If you are required for verification by the government please complete the [IRS
   Data Retrieval](http://www.fafsa.ed.gov/) and [Federal Verification Worksheet](http://www.masters.edu/financial-aid/onlinedcp/dcolpprintforms/).
-  Step-by-step verification information can be viewed on our [Verification page](http://www.masters.edu/undergrad/financial-aid/verification.aspx).nn5.
-  Receive your award letter and accept your awards online through [Self-Service](https://www2.masters.edu/edit/StudentResources/FinAidAward.asp).nn###
-  nn### CommunicationnnGood communication with the Office of Financial Aid is
+  Step-by-step verification information can be viewed on our [Verification page](http://www.masters.edu/undergrad/financial-aid/verification.aspx).\n\n5\\.
+  Receive your award letter and accept your awards online through [Self-Service](https://www2.masters.edu/edit/StudentResources/FinAidAward.asp).\n\n###
+  \n\n### Communication\n\nGood communication with the Office of Financial Aid is
   essential to your financial success. You will not receive blanket mass letters from
   our office*. If we contact you, it is because we require the information we are
-  requesting.*nnOur communication process is directly connected to your personal
+  requesting.*\n\nOur communication process is directly connected to your personal
   account. Each letter, email, or postcard you receive from the Office of Financial
   Aid relates* *to your specific situation, so be careful to respond promptly to all
-  communication attempts.nn**Important Dates**nn* December         Request pin
-  for the FASFAnn* January             Begin completing the FASFAnn* February
-            Complete IRS Data Retrieval or IRS Tax Transcriptnn* March 2nd        Priority
-  Deadline! Turn in all documentsnn* March 2nd        California [Cal Grant](http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx)
-  eligible high school students, transcripts need to be   verified and sent to [CSAC](http://www.csac.ca.gov/)nn**Important
-  Links:**nn**[Financial Aid Homepage](http://www.masters.edu/financial-aid/onlinedcp/
-  "DCOLPfinaidhome")**nn**[Financial Aid Verification](http://www.masters.edu/financial-aid/onlinedcp/dcolpverificaiton/
-  "dcolpverification")**nn**Financial Aid Documents**"
+  communication attempts.\n\n## **Important Dates**\n\n• December: Request pin for
+  the FAFSA\n\n• January: Begin completing the FAFSA\n\n• February: Complete IRS Data
+  Retrieval or IRS Tax Transcript\n\n• March 2nd: Priority Deadline! Turn in all documents.\n\n•
+  March 2nd: California [Cal Grant](http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx)
+  eligible high school students, transcripts need to be verified and sent to [CSAC](http://www.csac.ca.gov/).\n\n##
+  Important Links\n\n[Financial Aid Homepage](http://www.masters.edu/financial-aid/onlinedcp/
+  \"DCOLPfinaidhome\")\n\n[Financial Aid Verification](http://www.masters.edu/financial-aid/onlinedcp/dcolpverificaiton/
+  \"dcolpverification\")\n\n[Financial Aid Documents](http://www.masters.edu/onlineforms
+  \"DCOLPprintdocs\")\n\n## **Contact Information**\n\n**Ryan Wethern\\\nPhone: 661-362-2292\\\nFax:
+  661-362-2693\\\nEmail: [rwethern@masters.edu](mailto:rwethern@masters.edu)**"
 state-fed-grants-body: |-
   <h2 id="link-federal" style="text-align: center;">Federal/State Aid</h2>
   <p style="text-align: center;">(FAFSA required)</p>
@@ -655,5 +655,6 @@ faq-body: |-
   Ryan Wethern
   [rwethern@masters.edu](mailto:rwethern@masters.edu)
   661-362-2292
+layout: fin-online
 ---
 
