@@ -971,7 +971,397 @@ transfer-policy-body: "## Transfer Students\n\n### Transfer Credit Policies\n\nT
   \"Call: 661-259-3540\"), ext. 2267 | testingservices@masters.edu \n\n800-568-6248[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi\\+4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy\\+09555LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab\\+MNd4ghhQ2adIc1\\+ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD\\+SZ7DQesIkCG5S/JpkHYERQRmuNsrZ7Grc\\+Ef8/Bcoslkfae8Wc7CUHZ\\+\\+TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg==
   \"Call: 800-568-6248\")](http://www.masters.edu/campuslinks/registrar/transferpolicy/#
   \"Call: 800-568-6248\")"
-general-education-body: 
+general-education-body: |-
+  This checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.
+
+  Please click the link below for the General Education Requirements Checklist.
+
+  ## [General Education Requirements Checklist](http://www.masters.edu/media/869322/general-education-requirements-checklist.pdf "GE Requirements Checklist")
+
+  TMU GENERAL EDUCATION REQUIREMENTS
+
+  \(Effective FALL 2015)
+
+  <table border="0">\
+  <tbody>\
+  <tr style="text-align: center;">\
+  <td>\
+  <p style="text-align: left;"><strong>COURSE&nbsp;NUMBER</strong></p>\
+  </td>\
+  <td>\
+  <p><strong>COURSE TITLE</strong></p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p><strong>SEM. <br>UNITS</strong></p>\
+  </td>\
+  <td style="text-align: left;">\
+  <p><strong>&nbsp;</strong></p>\
+  </td>\
+  <td style="text-align: left;">&nbsp;</td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>B101</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>OLD TESTAMENT SURVEY 1</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>B102</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>OLD TESTAMENT SURVEY 2</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>B201</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>NEW TESTAMENT SURVEY 1</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>B202</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>NEW TESTAMENT SURVEY 2</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>BTH321</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>CHRISTIAN THEOLOGY 1</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>BTH322</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>CHRISTIAN THEOLOGY 2</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>B121</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>ESSENTIALS OF CHRISTIAN THOUGHT</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>E110</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>ENGLISH COMPOSITION</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>AEW\*\*</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>ESSENTIALS OF LITERATURE</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>EE\*\*\*</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>GENERAL LITERATURE ELECTIVE</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>C100</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>SPOKEN COMMUNICATION</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>MU190</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>ESSENTIALS OF MUSIC &amp; ART</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>P311</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>ESSENTIALS OF PHILOSOPHY</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>H211</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>ESSENTIALS OF WORLD HISTORY 1</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>H212</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>ESSENTIALS OF WORLD HISTORY 2</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>H230</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>ESSENTIALS OF U.S. HISTORY</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>POL220</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>U.S. GOVERNMENT</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>ECN200</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>ESSENTIALS OF ECONOMICS &amp; SOCIETY</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>LS150</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>ESSENTIALS OF BIOLOGY</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>LS150L</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>LAB: ESSENTIALS OF BIOLOGY</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>1</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td style="text-align: left;">\
+  <p>MA240</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>CRIT. THINKING &amp; QUANT ANALYSIS</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p style="text-align: center;">&nbsp;</p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>
+
+  **\*Please note that this checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.\
+  \*\*AEW = American/English/World Literature. Any of the following fulfills this requirement: E211, E212, E221, E222, E231, and E232.\
+  \*\*\* EE = English Elective. Any English course fulfills this requirement.**
 ---
 
 The Registrar's Office is committed to serving the students' academic needs in numerous ways.
