@@ -193,6 +193,410 @@ general-billing-body: "## How do I make a payment online?\n\nOnline payments can
   valign=\"bottom\">\\\n<p>661-362-2821</p>\\\n</td>\\\n</tr>\\\n<tr>\\\n<td width=\"150\"
   valign=\"bottom\">\\\n<p>NSF Check Fee</p>\\\n</td>\\\n<td width=\"150\" valign=\"bottom\">\\\n<p>Student
   Accounts</p>\\\n</td>\\\n<td width=\"227\" valign=\"bottom\">\\\n<p>661-362-2212</p>\\\n</td>\\\n</tr>\\\n</tbody>\\\n</table>"
+onlinebilling-body: |-
+  <h1>DCP/OLP/Online Billing FAQ</h1>\
+  <p> </p>\
+  <h3>What are my payment options?</h3>\
+  <p>DCP, Online Degree Program, and TMC Online students are billed according to the following schedule:</p>\
+  <table border="1" width="286" height="152" style="width: 286px; height: 152px;">\
+  <tbody>\
+  <tr>\
+  <td>\
+  <p><strong>Term</strong></p>\
+  </td>\
+  <td>\
+  <p><strong>Bill Date</strong></p>\
+  </td>\
+  <td>\
+  <p><strong>Due Date</strong></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Summer</strong></p>\
+  </td>\
+  <td>\
+  <p>June 20th</p>\
+  </td>\
+  <td>\
+  <p>July 10th</p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Fall</strong></p>\
+  </td>\
+  <td>\
+  <p>October 20th</p>\
+  </td>\
+  <td>\
+  <p>November 10th</p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Spring</strong></p>\
+  </td>\
+  <td>\
+  <p>February 20th</p>\
+  </td>\
+  <td>\
+  <p>March 10th</p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <p>These dates represent the first billing for the term.  Registration or billing changes made after these dates will be reflected in subsequent monthly statements and due the 10th of the month following the change.</p>\
+  <p>DCP and OLP student may also choose to utilize a payment plan for an additional fee.  The payment plan will divide their semester balance over 4 months, recalculated each billing period for any changes to registration or class schedule.  The due dates for these payments are as follows:</p>\
+  <table border="1" width="542" height="152" style="width: 542px; height: 152px;">\
+  <tbody>\
+  <tr>\
+  <td>\
+  <p><strong>Term</strong></p>\
+  </td>\
+  <td>\
+  <p><strong>Bill Date</strong></p>\
+  </td>\
+  <td>\
+  <p><strong>Due Dates</strong></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Summer</strong></p>\
+  </td>\
+  <td>\
+  <p>June 20th</p>\
+  </td>\
+  <td>\
+  <p>July, August, September, and October 10th</p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Fall</strong></p>\
+  </td>\
+  <td>\
+  <p>October 20th</p>\
+  </td>\
+  <td>\
+  <p>November, December, January, and February 10th</p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Spring</strong></p>\
+  </td>\
+  <td>\
+  <p>February 20th</p>\
+  </td>\
+  <td>\
+  <p>March, April, May, and June 10th</p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <p> </p>\
+  <h3>I registered after the first bill date for my term; when is my first bill due?</h3>\
+  <p>Billing statements are run on the 20<sup>th</sup> of each month, and payment is due by the 10<sup>th</sup> of the following month. Students who register after the 20<sup>th</sup> will not receive their first bill until the following next month. However, because classes start before that time, they will still have a payment due.</p>\
+  <p> </p>\
+  <h3>How do I know how much to pay?</h3>\
+  <p>In order to access your amount due, please wait at least a week after your class registration is finalized. At that time, you will need to log onto your Self-Service account, select “Finances” in the menu bar across the top, then click on “Balance”. Select the coming semester from the drop-down menu on the left, and press <strong>Change</strong>. You should see the amounts update to reflect your current charges.</p>\
+  <p>If you are using the payment plan for the semester, one-fourth of your balance will be due by the 10<sup>th</sup>. If you are not using the payment plan, the full balance listed is to be paid by that date. <strong>PLEASE NOTE: Students with overdue accounts after the 10<sup>th</sup> will be dropped from their classes for the semester.</strong></p>\
+  <p> </p>\
+  <h3>I dropped a class; how much of a refund will I get?</h3>\
+  <p><span>Refunds are based upon the week that the official withdrawal form, signed by the Registrar and any applicable professors, is presented to the Student Accounts Office, NOT on the time a student ceases to attend classes.  A student withdrawing from school without consultation or consent of an appropriate administrator will not be entitled to any refund.  The percentage of tuition refunded is based on actual tuition cost charged to the student’s account and the schedule below:</span></p>\
+  <p><strong>Degree Completion (Major Courses)\*</strong></p>\
+  <table border="1" width="162" height="75" style="width: 162px; height: 75px;">\
+  <tbody>\
+  <tr>\
+  <td>\
+  <p><span>Prior to first class</span></p>\
+  </td>\
+  <td>\
+  <p><span>100%</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><span>After first class</span></p>\
+  </td>\
+  <td>\
+  <p><span>0%</span></p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <p><strong>Degree Completion (GenEd Courses)\*</strong></p>\
+  <table border="1" width="166" height="149" style="width: 166px; height: 149px;">\
+  <tbody>\
+  <tr>\
+  <td>\
+  <p><span>Prior to first class</span></p>\
+  </td>\
+  <td>\
+  <p><span>100%</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><span>After first class</span></p>\
+  </td>\
+  <td>\
+  <p><span>75%</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><span>After second class</span></p>\
+  </td>\
+  <td>\
+  <p><span>50%</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><span>After third class</span></p>\
+  </td>\
+  <td>\
+  <p><span>0%</span></p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <p><strong>Degree Completion Video / DS Courses \*</strong></p>\
+  <table border="1" width="306" height="115" style="width: 306px; height: 115px;">\
+  <tbody>\
+  <tr>\
+  <td>\
+  <p><span>Prior to two weeks after receipt of syllabus</span></p>\
+  </td>\
+  <td>\
+  <p><span>100%</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><span>After two weeks /prior to third week</span></p>\
+  </td>\
+  <td>\
+  <p><span>75%</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><span>After three weeks</span></p>\
+  </td>\
+  <td>\
+  <p><span>0%</span></p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <p><strong>TMC Online Program\*</strong></p>\
+  <table border="1" width="263" height="152" style="width: 263px; height: 152px;">\
+  <tbody>\
+  <tr>\
+  <td>\
+  <p><span>Prior to end of first week of classes</span></p>\
+  </td>\
+  <td>\
+  <p><span>100%</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><span>During second week</span></p>\
+  </td>\
+  <td>\
+  <p><span>75%</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><span>During third week</span></p>\
+  </td>\
+  <td>\
+  <p><span>50%</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><span>After third week</span></p>\
+  </td>\
+  <td>\
+  <p><span>0%</span></p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <p>\* Refund schedules subject to change.  Please refer to your Student Handbook for the respective program's most recent information.</p>\
+  <p> </p>\
+  <h3>I have a question that isn't addressed here; who should I contact?</h3>\
+  <p>For any additional questions regarding your payment plan, payment due dates, or general account information, please contact our office at <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a> or by calling us at 661.362.2212.</p>
+MA-body: |-
+  <h1>MA Program FAQ</h1>\
+  <p> </p>\
+  <h3>What are my payment options?</h3>\
+  <p><span>MA Program students are billed according to the following schedule.</span></p>\
+  <table border="1" width="274" height="150" style="width: 274px; height: 150px;">\
+  <tbody>\
+  <tr>\
+  <td>\
+  <p><strong>Term</strong></p>\
+  </td>\
+  <td>\
+  <p><strong>Bill Date</strong></p>\
+  </td>\
+  <td>\
+  <p><strong>Due Date</strong></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Summer</strong></p>\
+  </td>\
+  <td>\
+  <p><span>March 20th</span></p>\
+  </td>\
+  <td>\
+  <p><span>April 10th</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Fall</strong></p>\
+  </td>\
+  <td>\
+  <p><span>July 20th</span></p>\
+  </td>\
+  <td>\
+  <p><span>August 10th</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Spring</strong></p>\
+  </td>\
+  <td>\
+  <p><span>November 20th</span></p>\
+  </td>\
+  <td>\
+  <p><span>December 10th</span></p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <p><span>These dates represent the first billing for the term.  Registration or billing changes made after these dates will be reflected in subsequent monthly statements and due the 10th of the month following the change.</span></p>\
+  <p><span>MA students may choose to utilize a payment plan for an additional fee.  The payment plan will divide their semester balance over 4 months, recalculated each billing period (see Billing Information for general calculation description).  The due dates for these payments are as follows:</span></p>\
+  <table border="1" width="493" height="186" style="width: 493px; height: 186px;">\
+  <tbody>\
+  <tr>\
+  <td>\
+  <p><strong>Term</strong></p>\
+  </td>\
+  <td>\
+  <p><strong>Bill Date</strong></p>\
+  </td>\
+  <td>\
+  <p><strong>Due Dates</strong></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Summer </strong></p>\
+  </td>\
+  <td>\
+  <p><span>March 20th</span></p>\
+  </td>\
+  <td>\
+  <p><span>April, May, June, and July 10th</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Fall</strong></p>\
+  </td>\
+  <td>\
+  <p><span>July 20th</span></p>\
+  </td>\
+  <td>\
+  <p><span>August, September, October, and November 10th</span></p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p><strong>Spring</strong></p>\
+  </td>\
+  <td>\
+  <p><span>November 20th</span></p>\
+  </td>\
+  <td>\
+  <p><span>December, January, February, and March 10th</span></p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <p> </p>\
+  <h3>I registered after the first bill date for my term; when is my first bill due?</h3>\
+  <p>Billing statements are run on the 20<span>th</span> of each month, and payment is due by the 10<span>th</span> of the following month. Students who register after the 20<span>th</span> will not receive their first bill until the following next month. However, because classes start before that time, they will still have a payment due.</p>\
+  <p> </p>\
+  <h3>How do I know how much to pay?</h3>\
+  <p>In order to access your amount due, please wait at least a week after your class registration is finalized. At that time, you will need to log onto your Self-Service account, select “Finances” in the menu bar across the top, then click on “Balance”. Select the coming semester from the drop-down menu on the left, and press <strong>Change</strong>. You should see the amounts update to reflect your current charges.</p>\
+  <p>If you are using the payment plan for the semester, one-fourth of your balance will be due by the 10<span>th</span>. If you are not using the payment plan, the full balance listed is to be paid by that date. <strong>PLEASE NOTE: Students with overdue accounts after the 10<span>th</span> will be dropped from their classes for the semester.</strong></p>\
+  <p> </p>\
+  <h3>I dropped a class; how much of a refund will I get?</h3>\
+  <p>Refunds are based upon the week that the official withdrawal form, signed by the Registrar and any applicable professors, is presented to the Student Accounts Office, NOT on the time a student ceases to attend classes.  A student withdrawing from school without consultation or consent of an appropriate administrator will not be entitled to any refund.  The percentage of tuition refunded is based on actual tuition cost charged to the student’s account and the schedule below:</p>\
+  <table border="1" cellspacing="0" cellpadding="0" width="193" height="253">\
+  <tbody>\
+  <tr>\
+  <td>No Attendance</td>\
+  <td>100%</td>\
+  </tr>\
+  <tr>\
+  <td>During first week</td>\
+  <td>100%</td>\
+  </tr>\
+  <tr>\
+  <td>During second week</td>\
+  <td>100%</td>\
+  </tr>\
+  <tr>\
+  <td>During third week</td>\
+  <td>75%</td>\
+  </tr>\
+  <tr>\
+  <td>During fourth week</td>\
+  <td>60%</td>\
+  </tr>\
+  <tr>\
+  <td>During fifth week</td>\
+  <td>45%</td>\
+  </tr>\
+  <tr>\
+  <td>During sixth week</td>\
+  <td>30%</td>\
+  </tr>\
+  <tr>\
+  <td>During seventh week</td>\
+  <td>15%</td>\
+  </tr>\
+  <tr>\
+  <td>During eighth week</td>\
+  <td>5%</td>\
+  </tr>\
+  <tr>\
+  <td>During ninth week</td>\
+  <td>0%</td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <p><span>\*Refund schedules subject to change.  Please refer to your Student Handbook for the most recent information.</span></p>\
+  <p><strong>ROOM AND BOARD</strong></p>\
+  <p><span>MA Summer Session room and board is 100% refundable prior to June 1 and non-refundable thereafter.</span></p>\
+  <p> </p>\
+  <h3>I have a question that isn't addressed here; who should I contact?</h3>\
+  <p>For any additional questions regarding your payment plan, payment due dates, or general account information, please contact our office at <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a> or by calling us at 661.362.2212.</p>
 ---
 
 The Student Accounts Office is responsible for processing student account charges, collecting payments, processing refunds, distributing monthly itemized statements, and providing customer service to the students and families of The Master’s University and The Master’s Seminary.
