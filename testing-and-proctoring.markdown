@@ -161,6 +161,28 @@ test-prep-body: |-
   A report will be filed with CLEP for anyone found using testing aids during the examination and that person may be excused from completing the examination. Tampering with the computer or using it for any other purpose than the CLEP test is also considered misconduct.
 
   At the completion of your test, the system will give you an option to cancel or report your scores to the institution you have selected. If you agree to 'send,' ETS will forward your official score report to your designated college within one week. (Exception: The English Composition with Essay is graded twice a month.)
+clep-resources-body: |-
+  The Master's University Testing Center does not recommend any one study system or resource over any other. The skills and background of each student are unique. Students are encouraged to research available literature and the Internet for possible resources, and then evaluate them with consideration to the student's own level of understanding and preferred study methods.
+
+  Many students have reported that no single study resource prepared them sufficiently for their test, and recommended using two or three different resources.
+
+  The Master's University Testing Center does not endorse or support any of the below resources. They are listed for consideration only. Students should review any material prior to purchasing it to determine whether it adequately covers the material listed in the topical outline in the CLEP Study Guide.
+
+  1. The CLEP Study Guide is a good place to start. This book is available for purchase through CLEP at [www.collegeboard.com/clep](http://www.collegeboard.com/clep). The Guide has a chapter for each of the 35 CLEP tests with test descriptions, knowledge and skills required, outlines of topics covered, additional resources recommended and sample questions. This material is not truly a "study guide" itself as studying this material alone generally will be inadequate. It gives information and direction for further study. All of this material except for the sample questions is available at the CLEP website at no cost. Complete Guides for individual tests which include the sample questions can be purchased online. (TMU students can view all of this material in the Career Office.)
+
+  2. An online study system used by many can be found with the InstantCert Academy at [www.InstantCert.com](http://www.instantcert.com/). For $20 per month, students have access to up to 500 study questions from many (although not all) CLEP tests. This program advertises a 97% success rate and a money-back guarantee if a test is not passed successfully in the first 30 days. [www.IStudySmart.com](http://www.istudysmart.com/) is another fee-based study system.
+
+  3. [Wikipedia](http://www.wikipedia.com/) may be a useful resource.
+
+  4. The Free University Project at [www.freeuniv.com](http://www.freeuniv.com/) has notes and outlines on many of the tests.
+
+  5. SparkNotes by Barnes & Noble at [www.SparkNotes.com](http://www.sparknotes.com/) provides free online study notes for literature, philosophy, chemistry, economics, psychology, math, history and more.
+
+  6. Most major bookstores have an Education Section that carries a number of study guides for various CLEP tests produced by REA, Peterson's and the Princeton Review, among others. These and others may also be found in local libraries as well as at [www.Amazon.com](http://www.amazon.com/) or other online book sellers.
+
+  7. Other resources can be found for free or fee through a [Google search](http://www.google.com/) by entering the specific CLEP test as the search term.
+
+  While most students pass their tests, not all do. Preparation definitely pays off. CLEP tests are intentionally challenging, since they replace an entire semester (or more) of coursework. Study and preparation are strongly recommended!
 ---
 
 The Master's University is an "open" testing site for CLEP testing, DSST (Dantes) testing, and proctoring. Testing is available to students and non-students alike. Members of the US Military are welcome. All CLEP and DSST examinations are administered via a computer workstation.
