@@ -26,7 +26,7 @@
               <div class="col l3 s6">
                 <h3 class="white-text">Campus Links</h3>
                 <ul>
-                  {% for page in site.campuslinks %}
+                  {% for page in site.pages %}
                   <li><a class="grey-text text-lighten-3" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></li>
                   {% endfor %}
                 </ul>
