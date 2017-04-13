@@ -16,12 +16,15 @@
                   <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
                   {% endfor %}
                 </ul>
+              </div>
+              <div class="col l3 s6">
                 <h3 class="white-text">Online</h3>
-                <ul>
-                  {% for program in site.onlineprograms %}
-                  <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
-                  {% endfor %}
-                </ul>
+                  <ul>
+                    {% assign programs = site.onlineprograms %}
+                    {% for program in programs %}
+                    <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
+                    {% endfor %}
+                  </ul>
               </div>
               <div class="col l3 s6">
                 <h3 class="white-text">Campus Links</h3>
