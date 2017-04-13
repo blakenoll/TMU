@@ -11,9 +11,6 @@ collections:
   authors:
     title: Authors
     output: false
-  campuslinks:
-    title: Campus Links
-    output: true
   categories:
     title: Catergories
     output: true
