@@ -6,16 +6,28 @@ layout: default
   {{ content }}
   <ul class="collapsible" data-collapsible="accordion">
     <li>
-      <div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
-      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+      <div class="collapsible-header">Forms</div>
+      <div class="collapsible-body"><span>{{ page.forms-body | markdownify }}</span></div>
     </li>
     <li>
-      <div class="collapsible-header"><i class="material-icons">place</i>Second</div>
-      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+      <div class="collapsible-header">Self-Care/ First Aid</div>
+      <div class="collapsible-body"><span>{{ page.self-care-body | markdownify }}</span></div>
     </li>
     <li>
-      <div class="collapsible-header"><i class="material-icons">whatshot</i>Third</div>
-      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+      <div class="collapsible-header">Immunizations</div>
+      <div class="collapsible-body"><span>{{ page.shots-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Insurance Info</div>
+      <div class="collapsible-body"><span>{{ page.insurance-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Quick Facts</div>
+      <div class="collapsible-body"><span>{{ page.quick-facts-body| markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Meningitis Info</div>
+      <div class="collapsible-body"><span>{{ page.meningitus-body| markdownify }}</span></div>
     </li>
   </ul>
 
