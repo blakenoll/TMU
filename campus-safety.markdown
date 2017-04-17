@@ -1,7 +1,7 @@
 ---
 title: Campus Safety
-layout: campussafety
 date: 2017-04-11 23:21:00 Z
+layout: campussafety
 Directors-greeting-body: |-
   Welcome to The Master's University!
 
