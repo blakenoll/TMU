@@ -1,7 +1,6 @@
 ---
 title: Registrar
 date: 2017-04-11 23:23:00 Z
-layout: registrar
 articulation-body: |-
   Below are lists of courses that transfer from other colleges to TMU. If your college is not listed, please submit the name of the college, the name/code/description of the course(s) to [Registrar@masters.edu](mailto:Registrar@masters.edu) for approval.
 
@@ -11,7 +10,7 @@ articulation-body: |-
 
   [Alaska-Anchorage Community Colleges](http://www.masters.edu/media/868627/alaska-anchorage.pdf) / [Alaska-Anchorage Community Colleges FA15](http://www.masters.edu/media/868626/alaska-anchorage-fa15.pdf)
 
-  Arizona
+  ## Arizona
 
   [Arizona Western College](http://www.masters.edu/media/868827/arizonawesterncoll.pdf) / [Arizona Western College FA15](http://www.masters.edu/media/868826/arizonawesterncoll-f15.pdf "ArizonaWesternColl F15.pdf")
 
@@ -465,7 +464,7 @@ articulation-body: |-
 
   [IB Exams](http://www.masters.edu/media/869026/ib-exams.pdf) /[ IB Exams FA15](http://www.masters.edu/media/869574/ib-exams-fa15.pdf "IB Exams FA15.pdf")
 ferpa-body: |-
-  Family Education Rights and Privacy Act of 1974 as Amended
+  ## Family Education Rights and Privacy Act of 1974 as Amended
 
   The Family Education Rights and Privacy Act (FERPA; also known as the "Buckley Amendment") and provisions of the California Education Code set out requirements designed to govern the access to, and release of, educational records, to establish the right of students to inspect and review their records, and to provide guidelines for the correction of inaccurate or misleading data through informal and formal hearings. Students also have the right to file complaints with the FERPA Office at the [United States Department of Education](http://www.ed.gov/index.jsp) concerning alleged failures by The Master's University to comply with provisions of FERPA.
 
@@ -527,52 +526,52 @@ ferpa-body: |-
 
   * To the governmental officials designated by law, or in compliance with a judicial order.
 finals-schedule-body: |-
-  <table border="1" cellspacing="0" cellpadding="7" width="631" height="328">
-  <tbody>
-  <tr>
-  <td class="boldText" style="text-align: center;">Exam Period</td>
-  <td class="boldText" style="text-align: center;">Mon, May 1</td>
-  <td class="boldText" style="text-align: center;">Tues,&nbsp;May 2</td>
-  <td class="boldText" style="text-align: center;">Wed,&nbsp;May 3</td>
-  <td class="boldText" style="text-align: center;">Thur,&nbsp;May 4</td>
-  </tr>
-  <tr>
-  <td style="text-align: center;"><strong>9:00-11:00am</strong></td>
-  <td style="text-align: center;">
-  <p>MWF <br>8:00 - 8:55</p>
-  </td>
-  <td style="text-align: center;">TTH <br>8:00 - 9:25</td>
-  <td style="text-align: center;">MWF <br>10:40 - 11:35</td>
-  <td style="text-align: center;">TTH <br>9:35 - 11:00</td>
-  </tr>
-  <tr>
-  <td colspan="5" style="text-align: center;"><strong>Break</strong></td>
-  </tr>
-  <tr>
-  <td style="text-align: center;"><strong>11:30am-1:30pm</strong></td>
-  <td style="text-align: center;">MWF <br>11:45 - 12:40</td>
-  <td style="text-align: center;">TTH <br>11:10 - 12:35</td>
-  <td style="text-align: center;">MWF <br>12:50 - 1:45</td>
-  <td style="text-align: center;">TTH <br>12:45 - 2:10</td>
-  </tr>
-  <tr>
-  <td colspan="5" style="text-align: center;"><strong>Break</strong></td>
-  </tr>
-  <tr>
-  <td style="text-align: center;"><strong>2:30-4:30pm</strong></td>
-  <td style="text-align: center;">MW <br>3:30 - 4:55</td>
-  <td style="text-align: center;">TTH <br>2:20 - 3:45</td>
-  <td style="text-align: center;">MW <br>1:55 - 3:20</td>
-  <td style="text-align: center;">TTH <br>3:55 - 5:20</td>
-  </tr>
-  <tr>
-  <td style="text-align: center;"><strong>Evening</strong></td>
-  <td style="text-align: center;">M 7:00-10:00pm</td>
-  <td style="text-align: center;">T 7:00-10:00pm</td>
-  <td style="text-align: center;">W 7:00-10:00pm</td>
-  <td style="text-align: center;">TH 7:00-10:00pm</td>
-  </tr>
-  </tbody>
+  <table border="1" cellspacing="0" cellpadding="7" width="631" height="328">\
+  <tbody>\
+  <tr>\
+  <td class="boldText" style="text-align: center;">Exam Period</td>\
+  <td class="boldText" style="text-align: center;">Mon, May 1</td>\
+  <td class="boldText" style="text-align: center;">Tues,&nbsp;May 2</td>\
+  <td class="boldText" style="text-align: center;">Wed,&nbsp;May 3</td>\
+  <td class="boldText" style="text-align: center;">Thur,&nbsp;May 4</td>\
+  </tr>\
+  <tr>\
+  <td style="text-align: center;"><strong>9:00-11:00am</strong></td>\
+  <td style="text-align: center;">\
+  <p>MWF <br>8:00 - 8:55</p>\
+  </td>\
+  <td style="text-align: center;">TTH <br>8:00 - 9:25</td>\
+  <td style="text-align: center;">MWF <br>10:40 - 11:35</td>\
+  <td style="text-align: center;">TTH <br>9:35 - 11:00</td>\
+  </tr>\
+  <tr>\
+  <td colspan="5" style="text-align: center;"><strong>Break</strong></td>\
+  </tr>\
+  <tr>\
+  <td style="text-align: center;"><strong>11:30am-1:30pm</strong></td>\
+  <td style="text-align: center;">MWF <br>11:45 - 12:40</td>\
+  <td style="text-align: center;">TTH <br>11:10 - 12:35</td>\
+  <td style="text-align: center;">MWF <br>12:50 - 1:45</td>\
+  <td style="text-align: center;">TTH <br>12:45 - 2:10</td>\
+  </tr>\
+  <tr>\
+  <td colspan="5" style="text-align: center;"><strong>Break</strong></td>\
+  </tr>\
+  <tr>\
+  <td style="text-align: center;"><strong>2:30-4:30pm</strong></td>\
+  <td style="text-align: center;">MW <br>3:30 - 4:55</td>\
+  <td style="text-align: center;">TTH <br>2:20 - 3:45</td>\
+  <td style="text-align: center;">MW <br>1:55 - 3:20</td>\
+  <td style="text-align: center;">TTH <br>3:55 - 5:20</td>\
+  </tr>\
+  <tr>\
+  <td style="text-align: center;"><strong>Evening</strong></td>\
+  <td style="text-align: center;">M 7:00-10:00pm</td>\
+  <td style="text-align: center;">T 7:00-10:00pm</td>\
+  <td style="text-align: center;">W 7:00-10:00pm</td>\
+  <td style="text-align: center;">TH 7:00-10:00pm</td>\
+  </tr>\
+  </tbody>\
   </table>
 forms-body: |-
   **[Add/Drop](http://www.masters.edu/media/869463/add-drop.pdf)**
@@ -581,70 +580,70 @@ forms-body: |-
 
   ## **[Weekly Schedule](http://www.masters.edu/media/617023/Weekly%20Schedule.pdf)**
 grades-body: |-
-  <table border="0" class="tmc_tblTmcTable">
-  <tbody>
-  <tr>
-  <td class="tmc_tblTmcTableHeader"><span>Symbol</span></td>
-  <td class="tmc_tblTmcTableHeader"><span>Grade Points</span></td>
-  <td class="tmc_tblTmcTableHeader"><span>Explanation</span></td>
-  </tr>
-  <tr>
-  <td valign="top">A</td>
-  <td valign="top">4</td>
-  <td valign="top">Thorough mastery of a subject material &amp; demonstrated effective use of creative resourcefulness.</td>
-  </tr>
-  <tr>
-  <td valign="top">A-</td>
-  <td valign="top">3.7</td>
-  </tr>
-  <tr>
-  <td valign="top">B+</td>
-  <td valign="top">3.3</td>
-  <td valign="top">Good mastery of subject material, and evidences ability to effectively use acquired knowledge.</td>
-  </tr>
-  <tr>
-  <td valign="top">B</td>
-  <td valign="top">3</td>
-  </tr>
-  <tr>
-  <td valign="top">B-</td>
-  <td valign="top">2.7</td>
-  </tr>
-  <tr>
-  <td valign="top">C+</td>
-  <td valign="top">2.3</td>
-  <td valign="top">Average grasp of subject material.</td>
-  </tr>
-  <tr>
-  <td valign="top">C</td>
-  <td valign="top">2</td>
-  </tr>
-  <tr>
-  <td valign="top">C-</td>
-  <td valign="top">1.7</td>
-  </tr>
-  <tr>
-  <td valign="top">D+</td>
-  <td valign="top">1.3</td>
-  <td valign="top">Minimal grasp of subject material.</td>
-  </tr>
-  <tr>
-  <td valign="top">D</td>
-  <td valign="top">1</td>
-  </tr>
-  <tr>
-  <td valign="top">D-</td>
-  <td valign="top">0.7</td>
-  </tr>
-  <tr>
-  <td valign="top">F</td>
-  <td valign="top">0</td>
-  <td valign="top">Failure to attain minimal grasp of subject material.</td>
-  </tr>
-  </tbody>
+  <table border="0" class="tmc_tblTmcTable">\
+  <tbody>\
+  <tr>\
+  <td class="tmc_tblTmcTableHeader"><span>Symbol</span></td>\
+  <td class="tmc_tblTmcTableHeader"><span>Grade Points</span></td>\
+  <td class="tmc_tblTmcTableHeader"><span>Explanation</span></td>\
+  </tr>\
+  <tr>\
+  <td valign="top">A</td>\
+  <td valign="top">4</td>\
+  <td valign="top">Thorough mastery of a subject material &amp; demonstrated effective use of creative resourcefulness.</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">A-</td>\
+  <td valign="top">3.7</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">B\+</td>\
+  <td valign="top">3.3</td>\
+  <td valign="top">Good mastery of subject material, and evidences ability to effectively use acquired knowledge.</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">B</td>\
+  <td valign="top">3</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">B-</td>\
+  <td valign="top">2.7</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">C\+</td>\
+  <td valign="top">2.3</td>\
+  <td valign="top">Average grasp of subject material.</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">C</td>\
+  <td valign="top">2</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">C-</td>\
+  <td valign="top">1.7</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">D\+</td>\
+  <td valign="top">1.3</td>\
+  <td valign="top">Minimal grasp of subject material.</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">D</td>\
+  <td valign="top">1</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">D-</td>\
+  <td valign="top">0.7</td>\
+  </tr>\
+  <tr>\
+  <td valign="top">F</td>\
+  <td valign="top">0</td>\
+  <td valign="top">Failure to attain minimal grasp of subject material.</td>\
+  </tr>\
+  </tbody>\
   </table>
 media-ethics-body: |-
-  I. Philosophy
+  ## I. Philosophy
 
   Learning to grow in the knowledge and grace of the Lord Jesus Christ is the mission of Christian higher education. We want to educate the heart as well as the mind, desiring to maintain an atmosphere that will be conducive to the development of spiritual maturity and discernment. Because each student coming to The Master’s University professes faith in Jesus Christ, we expect students to grow in that faith through the work of the Holy Spirit.
 
@@ -712,7 +711,7 @@ media-ethics-body: |-
 
   July 23, 2010 (Ver. 1.3)
 policies-body: |-
-  Add/Drop/Withdrawal
+  ## Add/Drop/Withdrawal
 
   The add/drop period (the first two weeks of each semester) allows students to make changes to their class schedules. We strongly recommend that students work with their academic advisor to ensure that they are on track to meet their degree requirements.
 
@@ -778,7 +777,7 @@ policies-body: |-
 
   A student who, for any reason, finds it necessary to withdraw from the university during the course of the semester must do so through the Registrar's Office. The student must complete the Complete Withdrawal form. Failure to comply with these regulations will result in failing grades entered on the student's record. Any refund due the student is according to the refund policy available in the Student Accounts Center.
 register-body: |-
-  Registration
+  ## Registration
 
   Registration for the fall semester is held during the months of March and April, and for the spring semester in October and November. All students are required to register if they plan to return to school the following semester.
 
@@ -788,7 +787,7 @@ register-body: |-
 
   The purpose of Check-In is to verify the enrollment of students and enable them to complete the processes in a one-stop format. New Student Check-In for the fall is held on the Saturday of Week of Welcome while in the spring it is held in conjunction with Continuing Student Check-In. Continuing Student Check-In in the fall is held the day prior to the first day of classes and on the Tuesday before the first day of classes in the spring. Late Check-In begins the first day of classes following the final scheduled day of regular check-in and continues for five days.
 senior-body: |-
-  Senior/Graduate Contract
+  ## Senior/Graduate Contract
 
   Students intending to graduate must make a Graduation Contract appointment with the Registrar to start a "Senior Contract and Application for Graduation". The contract declares intent to graduate on a certain date, and allows the Registrar's Office to collect the necessary graduation information from the student. It also provides a method to specify exactly what coursework will be required of the student during his/her final year/semester. Once completed and signed, this form is a contract between the student, his/her advisor and the Registrar's Office. This form should be completed during the student's next-to-last semester before graduation.
 
@@ -820,50 +819,30 @@ senior-body: |-
   Summa Cum Laude........3.85-4.00
 
   Honors recognized in the graduation ceremony may be changed based on the processing of final grades.
-transcript-body: |-
-  To better serve the needs of our students and alumni, we are implementing the use of Transcripts on Demand for online ordering and Credentials eScrip-Safe for electronic delivery. Academic transcripts are maintained for every student ever in attendance at The Master's University, The Master's Institute, The Master's Seminary, Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. An official transcript will not be released if the student is indebted to the university or seminary.
-
-  \*\*\*Students applying to The Master's Seminary do not need to order an official transcript. Please contact TMS for assistance. \
-  \
-
-  ## Official Transcript Requests
-
-  \*\*\*Processing time may be delayed at the beginning and end of the semester. Thank you for your patience! \
-
-  ### Electronic delivery
-
-  ### $7
-
-  ### Mail delivery
-
-  ### $9
-
-  ## [The Master's University, LABC, The Master's Institute](https://www.iwantmytranscript.com/masterscollege "TMU Transcripts on Demand")
-
-  ## [The Master's Seminary, LABTS](https://www.iwantmytranscript.com/mastersseminary "TMS Transcripts on Demand")
-
-  *(For attendance at both TMU & TMS, ordering is separate and there will be a charge per institution.)*
-
-  ## [SPECIAL CIRCUMSTANCES](http://www.masters.edu/media/656301/Transcript%20Request%20Form%20NEW.pdf "Transcript Request Form")
-
-  Paper form ordering required: Please use [this form](http://www.masters.edu/media/869316/transcript-request-form-new-081216.pdf "Transcript Request Form NEW 081216.pdf")
-
-  Scholarships for attendance at TMU/TMS (*no charge*)\
-  Staff/Faculty (*no charge*)
-
-  ### [Unofficial Transcript Request Form](http://www.masters.edu/media/455937/unofficial-transcript-request.pdf "Unofficial Transcript Request") *(no charge)*
-
-  ### [Copy of Diploma Request Form](http://www.masters.edu/media/868032/diploma-request-form.pdf "Diploma Request Form") *$10*
-
-  ## Contact Us
-
-  Phone: (661) 362-2813 or (800) 568-6248 x2813
-
-  Fax: (661) 362-2722 (*private & secure*)
-
-  Email: [Registrar@masters.edu](mailto:Registrar@masters.edu) (*if scanning paper form, call in credit card info*)
-
-  Mail: The Master's University, Office of the Registrar, 21726 Placerita Canyon Road, Santa Clarita, CA 91321
+transcript-body: "To better serve the needs of our students and alumni, we are implementing
+  the use of Transcripts on Demand for online ordering and Credentials eScrip-Safe
+  for electronic delivery. Academic transcripts are maintained for every student ever
+  in attendance at The Master's University, The Master's Institute, The Master's Seminary,
+  Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. An official
+  transcript will not be released if the student is indebted to the university or
+  seminary.\n\n\\*\\*\\*Students applying to The Master's Seminary do not need to
+  order an official transcript. Please contact TMS for assistance. \\\n\n## Official
+  Transcript Requests\n\n\\*\\*\\*Processing time may be delayed at the beginning
+  and end of the semester. Thank you for your patience! \n\n### Electronic delivery\n\n###
+  $7\n\n### Mail delivery\n\n### $9\n\n## [The Master's University, LABC, The Master's
+  Institute](https://www.iwantmytranscript.com/masterscollege \"TMU Transcripts on
+  Demand\")\n\n## [The Master's Seminary, LABTS](https://www.iwantmytranscript.com/mastersseminary
+  \"TMS Transcripts on Demand\")\n\n*(For attendance at both TMU & TMS, ordering is
+  separate and there will be a charge per institution.)*\n\n## [SPECIAL CIRCUMSTANCES](http://www.masters.edu/media/656301/Transcript%20Request%20Form%20NEW.pdf
+  \"Transcript Request Form\")\n\nPaper form ordering required: Please use [this form](http://www.masters.edu/media/869316/transcript-request-form-new-081216.pdf
+  \"Transcript Request Form NEW 081216.pdf\")\n\nScholarships for attendance at TMU/TMS
+  (*no charge*)\\\nStaff/Faculty (*no charge*)\n\n### [Unofficial Transcript Request
+  Form](http://www.masters.edu/media/455937/unofficial-transcript-request.pdf \"Unofficial
+  Transcript Request\") *(no charge)*\n\n### [Copy of Diploma Request Form](http://www.masters.edu/media/868032/diploma-request-form.pdf
+  \"Diploma Request Form\") *$10*\n\n## Contact Us\n\nPhone: (661) 362-2813 or (800)
+  568-6248 x2813\n\nFax: (661) 362-2722 (*private & secure*)\n\nEmail: [Registrar@masters.edu](mailto:Registrar@masters.edu)
+  (*if scanning paper form, call in credit card info*)\n\nMail: The Master's University,
+  Office of the Registrar, 21726 Placerita Canyon Road, Santa Clarita, CA 91321"
 transfer-policy-body: "## Transfer Students\n\n### Transfer Credit Policies\n\nTMU
   grants credit for college level coursework from other colleges and universities
   based on the following criteria:\n\n1. The student must have good standing at the
@@ -983,97 +962,97 @@ general-education-body: |-
 
   \(Effective FALL 2015)
 
-  <table border="0">
-  <tbody>
-  <tr style="text-align: center;">
-  <td>
-  <p style="text-align: left;"><strong>COURSE&nbsp;NUMBER</strong></p>
-  </td>
-  <td>
-  <p><strong>COURSE TITLE</strong></p>
-  </td>
-  <td style="text-align: right;">
-  <p><strong>SEM. <br>UNITS</strong></p>
-  </td>
-  <td style="text-align: left;">
-  <p><strong>&nbsp;</strong></p>
-  </td>
-  <td style="text-align: left;">&nbsp;</td>
-  </tr>
-  <tr style="text-align: left;">
-  <td>
-  <p>B101</p>
-  </td>
-  <td style="text-align: center;">
-  <p>OLD TESTAMENT SURVEY 1</p>
-  </td>
-  <td style="text-align: right;">
-  <p>3</p>
-  </td>
-  <td>
-  <p>&nbsp;</p>
-  </td>
-  <td>
-  <p>&nbsp;</p>
-  </td>
-  </tr>
-  <tr style="text-align: left;">
-  <td>
-  <p>B102</p>
-  </td>
-  <td style="text-align: center;">
-  <p>OLD TESTAMENT SURVEY 2</p>
-  </td>
-  <td style="text-align: right;">
-  <p>3</p>
-  </td>
-  <td>
-  <p>&nbsp;</p>
-  </td>
-  <td>
-  <p>&nbsp;</p>
-  </td>
-  </tr>
-  <tr style="text-align: left;">
-  <td>
-  <p>B201</p>
-  </td>
-  <td style="text-align: center;">
-  <p>NEW TESTAMENT SURVEY 1</p>
-  </td>
-  <td style="text-align: right;">
-  <p>3</p>
-  </td>
-  <td>
-  <p>&nbsp;</p>
-  </td>
-  <td>
-  <p>&nbsp;</p>
-  </td>
-  </tr>
-  <tr style="text-align: left;">
-  <td>
-  <p>B202</p>
-  </td>
-  <td style="text-align: center;">
-  <p>NEW TESTAMENT SURVEY 2</p>
-  </td>
-  <td style="text-align: right;">
-  <p>3</p>
-  </td>
-  <td>
-  <p>&nbsp;</p>
-  </td>
-  <td>
-  <p>&nbsp;</p>
-  </td>
-  </tr>
-  <tr style="text-align: left;">
-  <td>
-  <p>BTH321</p>
-  </td>
-  <td style="text-align: center;">
-  <p>CHRISTIAN THEOLOGY 1</p>
+  <table border="0">\
+  <tbody>\
+  <tr style="text-align: center;">\
+  <td>\
+  <p style="text-align: left;"><strong>COURSE&nbsp;NUMBER</strong></p>\
+  </td>\
+  <td>\
+  <p><strong>COURSE TITLE</strong></p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p><strong>SEM. <br>UNITS</strong></p>\
+  </td>\
+  <td style="text-align: left;">\
+  <p><strong>&nbsp;</strong></p>\
+  </td>\
+  <td style="text-align: left;">&nbsp;</td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>B101</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>OLD TESTAMENT SURVEY 1</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>B102</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>OLD TESTAMENT SURVEY 2</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>B201</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>NEW TESTAMENT SURVEY 1</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>B202</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>NEW TESTAMENT SURVEY 2</p>\
+  </td>\
+  <td style="text-align: right;">\
+  <p>3</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  <td>\
+  <p>&nbsp;</p>\
+  </td>\
+  </tr>\
+  <tr style="text-align: left;">\
+  <td>\
+  <p>BTH321</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>CHRISTIAN THEOLOGY 1</p>\
   </td>\
   <td style="text-align: right;">\
   <p>3</p>\
