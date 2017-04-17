@@ -1,5 +1,6 @@
 ---
 title: Registrar
+layout: registrar
 date: 2017-04-11 23:23:00 Z
 articulation-body: |-
   Below are lists of courses that transfer from other colleges to TMU. If your college is not listed, please submit the name of the college, the name/code/description of the course(s) to [Registrar@masters.edu](mailto:Registrar@masters.edu) for approval.
@@ -526,52 +527,52 @@ ferpa-body: |-
 
   * To the governmental officials designated by law, or in compliance with a judicial order.
 finals-schedule-body: |-
-  <table border="1" cellspacing="0" cellpadding="7" width="631" height="328">\
-  <tbody>\
-  <tr>\
-  <td class="boldText" style="text-align: center;">Exam Period</td>\
-  <td class="boldText" style="text-align: center;">Mon, May 1</td>\
-  <td class="boldText" style="text-align: center;">Tues,&nbsp;May 2</td>\
-  <td class="boldText" style="text-align: center;">Wed,&nbsp;May 3</td>\
-  <td class="boldText" style="text-align: center;">Thur,&nbsp;May 4</td>\
-  </tr>\
-  <tr>\
-  <td style="text-align: center;"><strong>9:00-11:00am</strong></td>\
-  <td style="text-align: center;">\
-  <p>MWF <br>8:00 - 8:55</p>\
-  </td>\
-  <td style="text-align: center;">TTH <br>8:00 - 9:25</td>\
-  <td style="text-align: center;">MWF <br>10:40 - 11:35</td>\
-  <td style="text-align: center;">TTH <br>9:35 - 11:00</td>\
-  </tr>\
-  <tr>\
-  <td colspan="5" style="text-align: center;"><strong>Break</strong></td>\
-  </tr>\
-  <tr>\
-  <td style="text-align: center;"><strong>11:30am-1:30pm</strong></td>\
-  <td style="text-align: center;">MWF <br>11:45 - 12:40</td>\
-  <td style="text-align: center;">TTH <br>11:10 - 12:35</td>\
-  <td style="text-align: center;">MWF <br>12:50 - 1:45</td>\
-  <td style="text-align: center;">TTH <br>12:45 - 2:10</td>\
-  </tr>\
-  <tr>\
-  <td colspan="5" style="text-align: center;"><strong>Break</strong></td>\
-  </tr>\
-  <tr>\
-  <td style="text-align: center;"><strong>2:30-4:30pm</strong></td>\
-  <td style="text-align: center;">MW <br>3:30 - 4:55</td>\
-  <td style="text-align: center;">TTH <br>2:20 - 3:45</td>\
-  <td style="text-align: center;">MW <br>1:55 - 3:20</td>\
-  <td style="text-align: center;">TTH <br>3:55 - 5:20</td>\
-  </tr>\
-  <tr>\
-  <td style="text-align: center;"><strong>Evening</strong></td>\
-  <td style="text-align: center;">M 7:00-10:00pm</td>\
-  <td style="text-align: center;">T 7:00-10:00pm</td>\
-  <td style="text-align: center;">W 7:00-10:00pm</td>\
-  <td style="text-align: center;">TH 7:00-10:00pm</td>\
-  </tr>\
-  </tbody>\
+  <table border="1" cellspacing="0" cellpadding="7" width="631" height="328">
+  <tbody>
+  <tr>
+  <td class="boldText" style="text-align: center;">Exam Period</td>
+  <td class="boldText" style="text-align: center;">Mon, May 1</td>
+  <td class="boldText" style="text-align: center;">Tues,&nbsp;May 2</td>
+  <td class="boldText" style="text-align: center;">Wed,&nbsp;May 3</td>
+  <td class="boldText" style="text-align: center;">Thur,&nbsp;May 4</td>
+  </tr>
+  <tr>
+  <td style="text-align: center;"><strong>9:00-11:00am</strong></td>
+  <td style="text-align: center;">
+  <p>MWF <br>8:00 - 8:55</p>
+  </td>
+  <td style="text-align: center;">TTH <br>8:00 - 9:25</td>
+  <td style="text-align: center;">MWF <br>10:40 - 11:35</td>
+  <td style="text-align: center;">TTH <br>9:35 - 11:00</td>
+  </tr>
+  <tr>
+  <td colspan="5" style="text-align: center;"><strong>Break</strong></td>
+  </tr>
+  <tr>
+  <td style="text-align: center;"><strong>11:30am-1:30pm</strong></td>
+  <td style="text-align: center;">MWF <br>11:45 - 12:40</td>
+  <td style="text-align: center;">TTH <br>11:10 - 12:35</td>
+  <td style="text-align: center;">MWF <br>12:50 - 1:45</td>
+  <td style="text-align: center;">TTH <br>12:45 - 2:10</td>
+  </tr>
+  <tr>
+  <td colspan="5" style="text-align: center;"><strong>Break</strong></td>
+  </tr>
+  <tr>
+  <td style="text-align: center;"><strong>2:30-4:30pm</strong></td>
+  <td style="text-align: center;">MW <br>3:30 - 4:55</td>
+  <td style="text-align: center;">TTH <br>2:20 - 3:45</td>
+  <td style="text-align: center;">MW <br>1:55 - 3:20</td>
+  <td style="text-align: center;">TTH <br>3:55 - 5:20</td>
+  </tr>
+  <tr>
+  <td style="text-align: center;"><strong>Evening</strong></td>
+  <td style="text-align: center;">M 7:00-10:00pm</td>
+  <td style="text-align: center;">T 7:00-10:00pm</td>
+  <td style="text-align: center;">W 7:00-10:00pm</td>
+  <td style="text-align: center;">TH 7:00-10:00pm</td>
+  </tr>
+  </tbody>
   </table>
 forms-body: |-
   **[Add/Drop](http://www.masters.edu/media/869463/add-drop.pdf)**
