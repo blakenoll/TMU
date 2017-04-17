@@ -10,11 +10,7 @@ schudules:
     Closed 11:30am-12:30pm for lunch
 - name: Library
   ext: 2278
-  days-body: |-
-    Sunday\
-    Monday - Thursday\
-    Friday\
-    Saturday
+  days-body: "Sunday  \\\nMonday - Thursday  \\\nFriday  \\\nSaturday  "
   hours-body: |-
     7:30pm - midnight\
     7:30am - midnight\
@@ -27,14 +23,20 @@ schudules:
 - name: Canyon Cafe
   ext: 2854
   days-body: |-
-    Monday - Thursday\
-    Friday\
-    Saturday\
+    Monday - Thursday
+
+    Friday
+
+    Saturday
+
     Sunday
   hours-body: |-
-    7:00am - 11:00pm (closed for chapel)\
-    7:00am - 5:00pm (closed for chapel)\
-    12:00pm - 9:00pm\
+    7:00am - 11:00pm (closed for chapel)
+
+    7:00am - 5:00pm (closed for chapel)
+
+    12:00pm - 9:00pm
+
     Closed
 - name: Mustang Grill
   ext: 
