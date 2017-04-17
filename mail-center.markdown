@@ -1,15 +1,14 @@
 ---
 title: Mail Center
 date: 2017-04-11 23:22:00 Z
-layout: mailcenter
 new-students-parents-body: |-
   Student Addresses
 
   All incoming mail and packages for students at The Master's University should be addressed:
 
-  STUDENT'S NAME, TMU #\
-  THE MASTER'S UNIVERSITY\
-  21726 PLACERITA CYN RD\
+  STUDENT'S NAME, TMU #
+  THE MASTER'S UNIVERSITY
+  21726 PLACERITA CYN RD
   SANTA CLARITA, CA 91321-1200
 
   ## New Student and Parent FAQs
