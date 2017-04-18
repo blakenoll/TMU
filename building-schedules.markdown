@@ -1,7 +1,7 @@
 ---
 title: Building Schedules
-layout: buildingschedules
 date: 2017-04-11 23:22:00 Z
+layout: buildingschedules
 schedules:
 - name: Help Desk
   ext: 2876
@@ -18,7 +18,7 @@ schedules:
     7:30am - 5:00pm\
     12:00pm - 10:00pm
 - name: Music Hall Practice Rooms
-  ext:
+  ext: 
   days-body: Everyday
   hours-body: 6:00am - midnight
 - name: Canyon Cafe
@@ -40,7 +40,7 @@ schedules:
 
     Closed
 - name: Mustang Grill
-  ext:
+  ext: 
   days-body: |-
     Monday-Friday
 
@@ -104,7 +104,7 @@ schedules:
 - name: Campus Safety
   ext: 2500
   days-body: Open 24/7
-  hours-body:
+  hours-body: 
 - name: Health Services
   ext: 3765
   days-body: |-
@@ -118,7 +118,7 @@ schedules:
     9:30am - 5:00pm\
     Closed
 - name: Self Care/First Aid Center
-  ext:
+  ext: 
   days-body: |-
     Monday - Friday\
     Weekends
@@ -136,5 +136,6 @@ schedules:
 - name: Fitness Center
   ext: 3940
   days-body: Hours Vary
-  hours-body:
+  hours-body: 
 ---
+

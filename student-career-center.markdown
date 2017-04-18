@@ -1,7 +1,7 @@
 ---
 title: Student Career Center
-layout: studentcareercenter
 date: 2017-04-11 23:21:00 Z
+layout: studentcareercenter
 work-study-body: |-
   How work study works
 
@@ -83,7 +83,7 @@ work-study-part-body: |-
   ## More Information
 
   To request more information about the Off-Campus Work Study Program, please email the [Office of Student Employment and Professional Development](mailto:OSEPD@Masters.edu) or call (800) 568-6248 ext. 3716.
-internet-resources-body:
+internet-resources-body: 
 student-career-body: |-
   ## General Tips
 
@@ -309,3 +309,4 @@ internship-body: |-
 
   * For academic credit or not for academic credit.
 ---
+
