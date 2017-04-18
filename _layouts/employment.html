@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col s12">
+      <nav>
+       <div class="nav-wrapper white">
+         <div class="col s12">
+           <a href="{{ "/financial-aid" | prepend: site.url }}" class="breadcrumb">Campus Services</a>
+           <a href="#!" class="breadcrumb">{{ page.title }}</a>
+         </div>
+       </div>
+     </nav>
+    </div>
+  </div>
+  {{ content }}
+<h2>Availible Postions</h2>
+  <ul class="collapsible popout" data-collapsible="accordion">
+    {% for postion in page.positions %}
+    <li>
+      <div class="collapsible-header">{{ postion.title }}</div>
+      <div class="collapsible-body"><span>{{ postion.about-body | markdownify }}</span></div>
+    </li>
+    {% endfor %}
+  </ul>
+
+
+</div>

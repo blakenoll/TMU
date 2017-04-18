@@ -1,5 +1,6 @@
 ---
 title: Student Accounts
+layout: studentaccounts
 date: 2017-04-11 23:23:00 Z
 onlinepayment-body: |-
   Welcome to Student Accounts Online Payments

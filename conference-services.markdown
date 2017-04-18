@@ -1,5 +1,6 @@
 ---
 title: Conference Services
+layout: conferenceservices
 date: 2017-04-11 23:21:00 Z
 contact-body: |-
   *For more information or to make a reservation, please contact...*

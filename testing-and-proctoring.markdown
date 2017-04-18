@@ -1,5 +1,6 @@
 ---
 title: Testing and Proctoring
+layout: testing
 date: 2017-04-11 23:24:00 Z
 clep-body: |-
   The College-Level Examination Program (CLEP) is a series of examinations that allows individuals to earn college credit for what they know, regardless of where they learned it. CLEP is the most widely accepted credit-by-examination program in the United States. The Master's College is an "open" testing site for CLEP testing. Testing is available to students and non-students alike. The Master's College offers all 34 CLEP examinations. All CLEP examinations are administered via a computer workstation.

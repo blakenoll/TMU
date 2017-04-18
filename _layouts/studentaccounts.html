@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col s12">
+      <nav>
+       <div class="nav-wrapper white">
+         <div class="col s12">
+           <a href="{{ "/financial-aid" | prepend: site.url }}" class="breadcrumb">Campus Services</a>
+           <a href="#!" class="breadcrumb">{{ page.title }}</a>
+         </div>
+       </div>
+     </nav>
+    </div>
+  </div>
+  {{ content }}
+  <ul class="collapsible" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header">Online Payment</div>
+      <div class="collapsible-body"><span>{{ page.onlinepayment-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">General Billing Info</div>
+      <div class="collapsible-body"><span>{{ page.general-billing-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Online Billing Info</div>
+      <div class="collapsible-body"><span>{{ page.onlinebilling-body | markdownify | replace: "\", " " }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Master's of Arts Program</div>
+      <div class="collapsible-body"><span>{{ page.MA-body | markdownify | replace: "\", " " }}</span></div>
+    </li>
+
+  </ul>
+
+</div>

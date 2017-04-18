@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col s12">
+      <nav>
+       <div class="nav-wrapper white">
+         <div class="col s12">
+           <a href="{{ "/financial-aid" | prepend: site.url }}" class="breadcrumb">Campus Services</a>
+           <a href="#!" class="breadcrumb">{{ page.title }}</a>
+         </div>
+       </div>
+     </nav>
+    </div>
+  </div>
+  {{ content }}
+  <ul class="collapsible" data-collapsible="accordion">
+      <li>
+        <div class="collapsible-header">CLEP Testing</div>
+        <div class="collapsible-body"><span>{{ page.clep-body | markdownify }}</span></div>
+      </li>
+      <li>
+        <div class="collapsible-header">DSST Testing</div>
+        <div class="collapsible-body"><span>{{ page.dsst-body | markdownify }}</span></div>
+      </li>
+      <li>
+        <div class="collapsible-header">CLEP FAQ</div>
+        <div class="collapsible-body"><span>{{ page.clep-faq-body | markdownify }}</span></div>
+      </li>
+      <li>
+        <div class="collapsible-header">DSST FAQ</div>
+        <div class="collapsible-body"><span>{{ page.dsst-faq-body | markdownify }}</span></div>
+      </li>
+      <li>
+        <div class="collapsible-header">Test Preparation</div>
+        <div class="collapsible-body"><span>{{ page.test-prep-body | markdownify }}</span></div>
+      </li>
+      <li>
+        <div class="collapsible-header">CLEP Resources</div>
+        <div class="collapsible-body"><span>{{ page.clep-resources-body | markdownify }}</span></div>
+      </li>
+    </ul>
+</div>
