@@ -1,7 +1,7 @@
 ---
 title: Employment
-layout: employment
 date: 2017-04-11 23:22:00 Z
+layout: employment
 positions:
 - title: Staff Accountant
   position: staff
