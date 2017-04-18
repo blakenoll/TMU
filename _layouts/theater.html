@@ -15,11 +15,28 @@ layout: default
   </li>
   <li>
     <div class="collapsible-header">About Us</div>
-    <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+    <div class="collapsible-body"><span>{{ page.about-us-body | markdownify }}</span></div>
   </li>
   <li>
     <div class="collapsible-header">Audition Information</div>
     <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+  </li>
+  <li>
+    <div class="collapsible-header">Staff</div>
+    <div class="collapsible-body"><span>
+      {% for person in page.staff %}
+      <div class="row">
+        <div class="col s12 m3">
+          <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
+          <h3 class="center">{{ person.name }}</h3>
+          <p class="center">{{ person.title }}</p>
+        </div>
+        <div class="col s12 m9">
+          {{ person.bio-body | markdownify }}
+        </div>
+      </div>
+      {% endfor %}
+    </span></div>
   </li>
 </ul>
 </div>
