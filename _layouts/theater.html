@@ -5,38 +5,44 @@ layout: default
 <div class="container">
   <h1>Theatre Arts</h1>
   {{ content }}
-  <p><a href="http://masters-theatre.tix.com/" class="btn btn-navy" target="_blank">Purchase Tickets</a></p>
-  <h2>Current Season</h2>
 
-  <ul class="collapsible" data-collapsible="accordion">
-  <li>
-    <div class="collapsible-header">Current Season</div>
-    <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-  </li>
-  <li>
-    <div class="collapsible-header">About Us</div>
-    <div class="collapsible-body"><span>{{ page.about-us-body | markdownify }}</span></div>
-  </li>
-  <li>
-    <div class="collapsible-header">Audition Information</div>
-    <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-  </li>
-  <li>
-    <div class="collapsible-header">Staff</div>
-    <div class="collapsible-body"><span>
-      {% for person in page.staff %}
-      <div class="row">
-        <div class="col s12 m3">
-          <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
-          <h3 class="center">{{ person.name }}</h3>
-          <p class="center">{{ person.title }}</p>
+
+<div class="row">
+  <div class="col s12 m8">
+    <h2>Current Season</h2>
+    <p>data for current play</p>
+    <p><a href="http://masters-theatre.tix.com/" class="btn btn-navy" target="_blank">Purchase Tickets</a></p>
+    <ul class="collapsible" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header">About Us</div>
+      <div class="collapsible-body"><span>{{ page.about-us-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Audition Information</div>
+      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Staff</div>
+      <div class="collapsible-body"><span>
+        {% for person in page.staff %}
+        <div class="row">
+          <div class="col s12 m3">
+            <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
+            <h3 class="center">{{ person.name }}</h3>
+            <p class="center">{{ person.title }}</p>
+          </div>
+          <div class="col s12 m9">
+            {{ person.bio-body | markdownify }}
+          </div>
         </div>
-        <div class="col s12 m9">
-          {{ person.bio-body | markdownify }}
-        </div>
-      </div>
-      {% endfor %}
-    </span></div>
-  </li>
-</ul>
+        {% endfor %}
+      </span></div>
+    </li>
+  </ul>
+  </div>
+  <div class="col s12 m4">
+    <h3 class="center">Past Shows</h3>
+  </div>
+</div>
+
 </div>
