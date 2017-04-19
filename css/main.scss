@@ -77,6 +77,17 @@ main {
 .fixed {
   position: fixed;
 }
+.logo-div {
+  height: 120px;
+  position: relative;
+}
+.logo-link {
+  bottom: 0px;
+  right: 0;
+  left: 0;
+  position: absolute;
+  text-align: center;
+}
 .navbar {
   margin-bottom: 0px;
   border-radius: 0px;

@@ -1,3 +1,41 @@
 ---
 layout: default
 ---
+<h1 class="center">About</h1>
+<div class="container">
+  <ul class="collapsible" data-collapsible="accordion">
+  <li>
+    <div class="collapsible-header">Mission Statement</div>
+    <div class="collapsible-body"><span>{{ page.mission-statement-body | markdownify }}</span></div>
+  </li>
+  <li>
+    <div class="collapsible-header">Doctrinal Statement</div>
+    <div class="collapsible-body"><span>{{ page.doctrinal-statement-body | markdownify }}</span></div>
+  </li>
+  <li>
+    <div class="collapsible-header">History of TMU</div>
+    <div class="collapsible-body"><span>{{ page.history-body | markdownify }}</span></div>
+  </li>
+  <li>
+    <div class="collapsible-header">Accredidations</div>
+    <div class="collapsible-body"><span>{{ page.accredidations-body | markdownify }}</span></div>
+  </li>
+  <li>
+    <div class="collapsible-header">Board of Directors</div>
+    <div class="collapsible-body"><span>{{ page.board-members-body | markdownify }}</span></div>
+  </li>
+  <li>
+    <div class="collapsible-header">Associated Organizations</div>
+    <div class="collapsible-body"><span>
+      <div class="row">
+        {% for association in page.associated-organizations %}
+        <div class="col s4 logo-div">
+          <img src="{{ association.logo }}" alt="{{ association.name }}" width="100%">
+          <a class="logo-link" href="{{ association.link }}">{{ association.name }}</a>
+        </div>
+        {% endfor %}
+      </div>
+    </span></div>
+  </li>
+</ul>
+</div>
