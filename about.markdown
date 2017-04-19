@@ -1,7 +1,7 @@
 ---
 title: About
-layout: about
 date: 2017-04-18 21:56:00 Z
+layout: about
 mission-statement-body: |-
   The mission of The Master's University is to empower students for a life of enduring commitment to Christ, biblical fidelity, moral integrity, intellectual growth and lasting contribution to the Kingdom of God worldwide.
 
@@ -323,3 +323,4 @@ associated-organizations:
   link: https://www.tms.edu/
   logo: 
 ---
+
