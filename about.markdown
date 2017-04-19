@@ -312,5 +312,14 @@ associated-organizations:
 - name: 'Grace to You '
   link: https://gty.org
   logo: 
+- name: Shepard's Conference
+  link: http://www.shepherdsconference.org/
+  logo: 
+- name: The Master's Academy International
+  link: http://tmai.org/
+  logo: 
+- name: The Master's Seminary
+  link: https://www.tms.edu/
+  logo: 
 ---
 
