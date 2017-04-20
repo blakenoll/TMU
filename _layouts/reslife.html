@@ -17,9 +17,15 @@ layout: default
     </div>
   </div>
   <h3>Dorms</h3>
-  {% for dorm in site.dorms %}
-   <a href="{{ dorm.url | prepend: site.url }}">{{ dorm.title }}</a>
-  {% endfor %}
+  <div class="row">
+    {% for dorm in site.dorms %}
+    <div class="col s6 m4">
+      <img class="" src="https://dummyimage.com/500x250/oc2340/fff.jpg" alt="" width="100%">
+      <a href="{{ dorm.url | prepend: site.url }}">{{ dorm.title }}</a>
+    </div>
+    {% endfor %}
+  </div>
+
   <div class="row">
    <div class="col s12">
      <ul class="tabs">

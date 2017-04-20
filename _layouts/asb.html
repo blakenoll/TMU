@@ -16,4 +16,23 @@ layout: default
      </nav>
     </div>
   </div>
+  <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
+  <h3>About ASB</h3>
+  <p>{{ page.about-body | markdownify }}</p>
+  <ul class="collapsible" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header">Your ASB</div>
+      <div class="collapsible-body"><span>{{ page.your-asb-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Current Societies</div>
+      <div class="collapsible-body"><span>{{ page.current-societies-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Start a Society</div>
+      <div class="collapsible-body"><span>{{ page.start-society-body | markdownify }}</span></div>
+    </li>
+  </ul>
+  <h3>Talk to ASB</h3>
+  <p>{{ page.talk-body | markdonify }}</p>
 </div>
