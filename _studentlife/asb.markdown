@@ -174,4 +174,3 @@ We are comprised of an seven-member Executive Council and a group of senior dorm
 
 "To creatively and faithfully invest in our campus through intentional communication, purposeful events, and joyful service to, through, and because of our great Savior Jesus Christ."
 
-## 
