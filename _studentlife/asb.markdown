@@ -145,18 +145,24 @@ start-society-body: |-
   4. One Representative from each ASB-approved club or organization may have the privilege of the floor, but are without vote.
 
   Remember that we are here to help you through the process. Please contact us with any questions you may have about school clubs.
-talk-body: |-
-  Every year, as we experience life together at TMU, life can sometimes become challenging. Many times, the solution is as simple as open communication. Although faculty, staff, and administration have an open door policy with students, ASB is always willing to help as connector between the administration and the student body.
-
-  In a desire to serve, students can always bring concerns, proposals, or ideas to ASB. Our team strives to respond quickly and sincerely to your requests, so please feel free to contact us!
-
-  Our hope is to encourage every person and distinct community at Master's to communicate more openly and lovingly. Together we strive for solutions that build our school and honor the Lord.
-
-  You can contact us at:\
-  [g](mailto:fukudamd@mail.masters.edu)rimesds@mail.masters.edu\
-  asbmail@masters.edu
-
-  Phone: 661-362-2835
+talk-body: "Every year, as we experience life together at TMU, life can sometimes
+  become challenging. Many times, the solution is as simple as open communication.
+  Although faculty, staff, and administration have an open door policy with students,
+  ASB is always willing to help as connector between the administration and the student
+  body.\n\nIn a desire to serve, students can always bring concerns, proposals, or
+  ideas to ASB. Our team strives to respond quickly and sincerely to your requests,
+  so please feel free to contact us!\n\nOur hope is to encourage every person and
+  distinct community at Master's to communicate more openly and lovingly. Together
+  we strive for solutions that build our school and honor the Lord.\n\nYou can contact
+  us at:\\\n[g](mailto:fukudamd@mail.masters.edu)rimesds@mail.masters.edu\\\nasbmail@masters.edu\n\nPhone:
+  661-362-2835\n\n### Full Council Meetings\n\nAttendance is limited to ASB members,
+  club representatives, and any member of the Student Life Staff. If a non-ASB member
+  desires to attend a Full Council meeting, a written request must be submitted to
+  the Executive Council one week in advance of the meeting.\n\nTo see the guidelines
+  by which ASB operates, please see our full [Constitution and By-laws](http://www.masters.edu/media/43566/ASB%20Constitution%202011-2012.pdf
+  \"ASB Constituion 2011-2012\").\n\n### Full Council Meeting Schedule\n\nMondays
+  at 10:15pm  \\\nMacArthur Center Meeting Room   \\\nContact: [asbmail@masters.edu
+  \ ](mailto:asbmail@masters.edu)\\\n661-362-2835  "
 layout: asb
 ---
 
@@ -164,19 +170,8 @@ The Master's University Associated Student Body is a ministry of Student Life an
 
 We are comprised of an seven-member Executive Council and a group of senior dorm representatives and dorm representatives that are assigned to every TMU community.
 
-## Purpose Statement
+### Purpose Statement
 
 "To creatively and faithfully invest in our campus through intentional communication, purposeful events, and joyful service to, through, and because of our great Savior Jesus Christ."
 
-## Full Council Meetings
-
-Attendance is limited to ASB members, club representatives, and any member of the Student Life Staff. If a non-ASB member desires to attend a Full Council meeting, a written request must be submitted to the Executive Council one week in advance of the meeting.
-
-To see the guidelines by which ASB operates, please see our full [Constitution and By-laws](http://www.masters.edu/media/43566/ASB%20Constitution%202011-2012.pdf "ASB Constituion 2011-2012").
-
-## Full Council Meeting Schedule
-
-Mondays at 10:15pm\
-MacArthur Center Meeting Room \
-Contact: [asbmail@masters.edu](mailto:asbmail@masters.edu)\
-661-362-2835
+## 
