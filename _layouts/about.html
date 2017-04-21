@@ -3,40 +3,85 @@ layout: default
 ---
 
 <h1 class="center">About</h1>
-<div class="container">
-  <ul class="collapsible" data-collapsible="accordion">
-  <li>
-    <div class="collapsible-header">Mission Statement</div>
-    <div class="collapsible-body"><span>{{ page.mission-statement-body | markdownify }}</span></div>
-  </li>
-  <li>
-    <div class="collapsible-header">Doctrinal Statement</div>
-    <div class="collapsible-body"><span>{{ page.doctrinal-statement-body | markdownify }}</span></div>
-  </li>
-  <li>
-    <div class="collapsible-header">History of TMU</div>
-    <div class="collapsible-body"><span>{{ page.history-body | markdownify }}</span></div>
-  </li>
-  <li>
-    <div class="collapsible-header">Accredidations</div>
-    <div class="collapsible-body"><span>{{ page.accredidations-body | markdownify }}</span></div>
-  </li>
-  <li>
-    <div class="collapsible-header">Board of Directors</div>
-    <div class="collapsible-body"><span>{{ page.board-members-body | markdownify }}</span></div>
-  </li>
-  <li>
-    <div class="collapsible-header">Associated Organizations</div>
-    <div class="collapsible-body"><span>
-      <div class="row">
-        {% for association in page.associated-organizations %}
-        <div class="col s4 m3 logo-div">
-          <img src="{{ association.logo }}" alt="{{ association.name }}" width="100%">
-          <a class="logo-link" href="{{ association.link }}">{{ association.name }}</a>
-        </div>
-        {% endfor %}
+<div class="container about-section">
+
+
+  <div class="row">
+    <div class="col s12 m9 l10">
+      <div id="mission" class="section scrollspy">
+        <h1 class="center">Mission Statement</h1>
+        <p>{{ page.mission-statement-body | markdownify }}</p>
       </div>
-    </span></div>
-  </li>
-</ul>
+
+      <div id="doctrine" class="section scrollspy">
+        <h1 class="center">Doctrinal Statement</h1>
+        <p>{{ page.doctrinal-statement-body | markdownify }}</p>
+      </div>
+
+      <div id="history" class="section scrollspy">
+        <h1 class="center">History</h1>
+        <p>{{ page.history-body | markdownify }}</p>
+      </div>
+      <div id="accreditation" class="section scrollspy">
+        <h1 class="center">Accreditations</h1>
+        <p>{{ page.accredidations-body | markdownify }}</p>
+      </div>
+      <div id="board" class="section scrollspy">
+        <h1 class="center">Board of Directors</h1>
+        <div class="row">
+          <div class="col s12 m6">
+            <div class="col s4">
+              <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
+            </div>
+            <div class="col s8">
+              <h3>Name</h3>
+            </div>
+          </div>
+          <div class="col s12 m6">
+            <div class="col s4">
+              <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
+            </div>
+            <div class="col s8">
+              <h3>Name</h3>
+            </div>
+          </div>
+          <div class="col s12 m6">
+            <div class="col s4">
+              <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
+            </div>
+            <div class="col s8">
+              <h3>Name</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="associations" class="section scrollspy">
+        <h1 class="center">Associated Organizations</h1>
+        <div class="row">
+          {% for association in page.associated-organizations %}
+          <div class="col s4 m3 logo-div">
+            <img src="{{ association.logo }}" alt="{{ association.name }}" width="100%">
+            <a class="logo-link" href="{{ association.link }}">{{ association.name }}</a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <div class="col hide-on-small-only m3 l2">
+      <ul class="section table-of-contents fixed">
+        <li><a href="#mission">Mission Statement</a></li>
+        <li><a href="#doctrine">Doctrinal Statement</a></li>
+        <li><a href="#history">History</a></li>
+        <li><a href="#accreditation">Accreditations</a></li>
+        <li><a href="#board">Board of Directors</a></li>
+        <li><a href="#associations">Associated Organizations</a></li>
+      </ul>
+    </div>
+  </div>
 </div>
+<script type="text/javascript">
+$(document).ready(function(){
+$('.scrollspy').scrollSpy();
+});
+
+</script>

@@ -4,122 +4,170 @@ layout: default
 
 <div class="container">
   <h2>Bible</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "Bible"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>Business</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "Business"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>Computer and Information Sciences</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "Computer and Information Sciences"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>Communications</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "Communications"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>English</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "English"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>History</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "History"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>Kinesiology</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "Kinesiology"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>Liberal Studies</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "Liberal Studies"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>Math</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "Math"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>Music</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "Music"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>Political Studies</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "Political Studies"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 
   <h2>Sciences</h2>
+  <div class="row">
   {% for faculty in site.faculty %}
    {% if faculty.department == "Sciences"%}
-   <div class="chip fchip">
-     <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-     <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
    </div>
    {% endif %}
   {% endfor %}
+</div>
 </div>

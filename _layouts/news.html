@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="parallax-container">
+<div class="parallax-container news-parallax">
   <div class="parallax"><img src="{{ page.image | prepend: site.url }}"></div>
   <h2 class="white-text">tets</h2>
 </div>
@@ -20,30 +20,11 @@ layout: default
 </div>
 
 {% if page.previous.url %}
-<div class="parallax-container">
+<div class="parallax-container news-parallax">
   <div class="parallax"><img src="{{ page.previous.image | prepend: site.url }}"></div>
   <div class="row container">
       <h3 class="white-text">{{ page.previous.title }}</h3>
       <h4><a class="white-text"href="{{ page.previous.url | prepend: site.url }}">Read Next</a></h4>
-      <h3 class="white-text center"><a class="white-text" href="{{ site.url }}/news/{{ page.catergory | downcase }}">Related Posts</a></h3>
-      <div class="col s12">
-        {% for post in site.posts %}
-         {% if post.catergory == page.catergory %}
-          {% if post.title != page.title %}
-          <div style="display: none;">
-            {% increment my_counter %}
-          </div>
-          {% if my_counter <= 15 %}
-             <div class="col s6 m4 card">
-               <img src="{{ post.image | prepend: site.url }}" alt="" width="100%">
-               <h3><a href="{{ post.url | prepend: site.url }}">{{ post.title}}</a></h3>
-             </div>
-           {% endif %}
-
-          {% endif %}
-         {% endif %}
-        {% endfor %}
-      </div>
   </div>
 </div>
 {% endif %}
