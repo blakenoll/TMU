@@ -3,8 +3,18 @@ layout: default
 ---
 
 <div class="container">
+  <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
   <h1>Graduate Programs</h1>
-  {% for program in site.gradprograms %}
-  <h3><a href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></h3>
-  {% endfor %}
+  <div class="row">
+    {% for program in site.gradprograms %}
+    <a href="{{ program.url | prepend: site.url }}">
+      <div class="col s6 m3">
+        <div class="vector-card">
+          <img src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="" width="100%">
+          <h3 class="center">{{ program.title }}</h3>
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
 </div>

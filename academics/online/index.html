@@ -3,25 +3,54 @@ layout: default
 ---
 
 <div class="container">
+  <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
   <h1>Online Programs</h1>
   <h2>Undergraduate</h2>
-  {% for program in site.onlineprograms %}
-  {% if program.level == "undergrad" %}
-  <h3><a href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></h3>
-  {% endif %}
-  {% endfor %}
-  <h2>Graduate</h2>
-  {% for program in site.onlineprograms %}
-  {% if program.level == "grad" %}
-  <h3><a href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></h3>
-  {% endif %}
-  {% endfor %}
-  <h2>Other</h2>
+  <div class="row">
+    {% for program in site.onlineprograms %}
+    {% if program.level == "undergrad" %}
+    <a href="{{ program.url | prepend: site.url }}">
+      <div class="col s6 m3">
+        <div class="vector-card">
+          <img src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="" width="100%">
+          <h3 class="center">{{ program.title }}</h3>
+        </div>
+      </div>
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
 
-  {% for program in site.onlineprograms %}
-  {% if program.level == "online" %}
-  <h3><a href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></h3>
-  {% endif %}
-  {% endfor %}
+  <h2>Graduate</h2>
+  <div class="row">
+    {% for program in site.onlineprograms %}
+    {% if program.level == "grad" %}
+    <a href="{{ program.url | prepend: site.url }}">
+      <div class="col s6 m3">
+        <div class="vector-card">
+          <img src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="" width="100%">
+          <h3 class="center">{{ program.title }}</h3>
+        </div>
+      </div>
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
+
+  <h2>Other</h2>
+  <div class="row">
+    {% for program in site.onlineprograms %}
+    {% if program.level == "online" %}
+    <a href="{{ program.url | prepend: site.url }}">
+      <div class="col s6 m3">
+        <div class="vector-card">
+          <img src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="" width="100%">
+          <h3 class="center">{{ program.title }}</h3>
+        </div>
+      </div>
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
 
 </div>
