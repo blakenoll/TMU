@@ -3,9 +3,19 @@ layout: default
 ---
 
 <div class="container">
-  <h1>Undergraduate</h1>
+  <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
+  <h1 class="center">Undergraduate</h1>
   <h2>Majors:</h2>
-  {% for major in site.departments %}
-  <h3><a href="{{ major.url | prepend: site.url }}">{{ major.title }}</a></h3>
-  {% endfor %}
+  <div class="row">
+    {% for major in site.departments %}
+    <a href="{{ major.url | prepend: site.url }}">
+      <div class="col s6 m3">
+        <div class="vector-card">
+          <img src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="" width="100%">
+          <h3 class="center">{{ major.title }}</h3>
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
 </div>

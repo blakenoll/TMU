@@ -21,6 +21,10 @@ main {
 a {
   color: $gold;
 }
+
+.program-title {
+  font-size: 4rem;
+}
 .btn-navy {
   color: fff;
   background-color: $navy;
@@ -184,6 +188,11 @@ a {
   padding: 15px;
 }
 
+.vector-card {
+  height: 300px;
+  max-width: 200px;
+  margin: auto;
+}
 
 .absolute-bg {
     position: absolute;
@@ -196,10 +205,6 @@ a {
     background-position: 50%;
 }
 
-.about-section, .collapsible, .collapsible-header{
-  border: none;
-  box-shadow: none;
-}
 
 .mast {
     position: relative;
