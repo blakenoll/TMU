@@ -5,8 +5,44 @@ layout: default
 <div class="container">
   <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
   <h1>Student Life</h1>
-  {% for page in site.studentlife %}
-  <h2><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></h2>
-  {% endfor%}
+  <div class="row">
+    {% assign icons = site.studentlife %}
+    {% for page in icons %}
+    {% if page.group == 'studentlife' %}
+    <a href="{{ page.url | prepend: site.url }}">
+      <div class="col s6 m4">
+        <div class="vector-card">
+          <img src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="" width="100%">
+          <h3 class="center">{{ page.title }}</h3>
+        </div>
+      </div>
+    </a>
+    {% endif %}
+    {% endfor%}
+  </div>
 
+    <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
+    <div class="row">
+      <h1>Campus Ministries</h1>
+      {% for page in icons %}
+      {% unless page.group == 'studentlife' %}
+      <a href="{{ page.url | prepend: site.url }}">
+        <div class="col s6 m3">
+          <div class="vector-card">
+            <img src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="" width="100%">
+            <h3 class="center">{{ page.title }}</h3>
+          </div>
+        </div>
+      </a>
+      {% endunless %}
+      {% endfor%}
+    </div>
 </div>
+
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('.parallax').parallax();
+});
+</script>
