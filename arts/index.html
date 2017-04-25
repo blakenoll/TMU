@@ -1,7 +1,8 @@
 ---
 layout: default
+title: Performing Arts
 ---
-
+{% include parallax-header.html %}
 <div class="container">
   {% for program in site.performingarts %}
   <a href="{{ program.url | prepend: site.url }}"><h3>{{ program.title }}</h3></a>

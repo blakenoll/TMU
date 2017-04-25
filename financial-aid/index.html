@@ -63,21 +63,36 @@ body: |-
 
 <div class="container">
   <h1 class="center">Financial Aid</h1>
-  <div class="row">
-    <div class="col s3">
-      <ul>
-        {% assign topics = site.financialaid | sort: 'title' %}
-        {% for topic in topics %}
-        <li><a href="{{ topic.url | prepend: site.url }}"><h4>{{ topic.title}}</h4></a></li>
-        {% endfor %}
-        <li></li>
-      </ul>
+  <p>{{ page.hours-body | markdownify }}</p>
+    <div class="row">
+      {% assign topics = site.financialaid | sort: 'title' %}
+      {% for topic in topics %}
+      <a href="{{ topic.url | prepend: site.url }}">
+        <div class="col s6 m3">
+          <div class="vector-card">
+            <img src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="" width="100%">
+            <h3 class="center">{{ topic.title }}</h3>
+          </div>
+        </div>
+      </a>
+      {% endfor %}
+
+
+      <!-- <div class="col s3">
+        <ul>
+          {% assign topics = site.financialaid | sort: 'title' %}
+          {% for topic in topics %}
+          <li><a href="{{ topic.url | prepend: site.url }}"><h4>{{ topic.title}}</h4></a></li>
+          {% endfor %}
+          <li></li>
+        </ul>
+      </div>
+      <div class="col s6">
+        {{ page.body | markdownify }}
+      </div>
+      <div class="col s3">
+        {{ page.hours-body | markdownify }}
+      </div> -->
     </div>
-    <div class="col s6">
-      {{ page.body | markdownify }}
-    </div>
-    <div class="col s3">
-      {{ page.hours-body | markdownify }}
-    </div>
-  </div>
+
 </div>

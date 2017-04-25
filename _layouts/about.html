@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-<h1 class="center">About</h1>
+{% include parallax-header.html %}
 <div class="container about-section">
 
 
@@ -14,17 +13,29 @@ layout: default
       </div>
 
       <div id="doctrine" class="section scrollspy">
-        <h1 class="center">Doctrinal Statement</h1>
-        <p>{{ page.doctrinal-statement-body | markdownify }}</p>
+        <ul class="collapsible" data-collapsible="accordion">
+          <li>
+            <div class="collapsible-header"><h1>Doctrinal Statement</h1></div>
+            <div class="collapsible-body"><span>{{ page.doctrinal-statement-body | markdownify }}</span></div>
+          </li>
+        </ul>
       </div>
 
       <div id="history" class="section scrollspy">
-        <h1 class="center">History</h1>
-        <p>{{ page.history-body | markdownify }}</p>
+        <ul class="collapsible" data-collapsible="accordion">
+          <li>
+            <div class="collapsible-header"><h1>History</h1></div>
+            <div class="collapsible-body"><span>{{ page.history-body | markdownify }}</span></div>
+          </li>
+        </ul>
       </div>
       <div id="accreditation" class="section scrollspy">
-        <h1 class="center">Accreditations</h1>
-        <p>{{ page.accredidations-body | markdownify }}</p>
+        <ul class="collapsible" data-collapsible="accordion">
+          <li>
+            <div class="collapsible-header"><h1>Accreditation's</h1></div>
+            <div class="collapsible-body"><span>{{ page.accredidations-body | markdownify }}</span></div>
+          </li>
+        </ul>
       </div>
       <div id="board" class="section scrollspy">
         <h1 class="center">Board of Directors</h1>
