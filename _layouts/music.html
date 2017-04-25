@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-
 <div class="container">
   <h1>Music</h1>
   <div class="row">
     <div class="col s12 m9">
+      <p>{{ page.about-body }}</p>
       <ul class="collapsible" data-collapsible="accordion">
   <li>
     <div class="collapsible-header">Concerts & Events</div>
@@ -24,19 +24,28 @@ layout: default
     </div>
     <div class="col s12 m3">
       <!-- Modal Trigger -->
-      <a class="waves-effect waves-light btn" href="#modal1">Forest Home</a>
-      <a class="waves-effect waves-light btn" href="http://www.facebook.com/TMUPerformingArts">Follow us on Facebook</a>
-      <a class="waves-effect waves-light btn" href="http://portal.stretchinternet.com/tmuadmin/" target="_blank">Live Stream</a>
-      <a class="waves-effect waves-light btn" href="http://portal.stretchinternet.com/tmuadmin/" target="_blank">Music Degrees</a>
+      <p><a class="btn btn-navy" href="#modal1">Forest Lawn</a></p>
+      <p><a class="btn btn-navy" href="http://portal.stretchinternet.com/tmuadmin/" target="_blank">Live Stream</a></p>
+      <p><a class="btn btn-navy" href="{{ "/academics/undergraduate/music" | prepend: site.url }}" target="_blank">Music Degrees</a></p>
+
 
       <!-- Modal Structure -->
       <div id="modal1" class="modal">
         <div class="modal-content">
-          <h4>Modal Header</h4>
-          <p>A bunch of text</p>
+          <div class="row">
+            <div class="col s6">
+              <h4>Forest Lawn</h4>
+              <p>Forest Lawn body text</p>
+            </div>
+            <div class="col s6">
+              <img src="https://dummyimage.com/300x400/oc2340/fff.jpg" alt="Forest Lawn" width="100%">
+            </div>
+          </div>
+
+          <p><a class="btn btn-navy" href="http://masters-music.tix.com/Schedule.aspx?OrgNum=2178">Purchase Tickets</a></p>
         </div>
         <div class="modal-footer">
-          <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+          <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat"><i class="material-icons">close</i></a>
         </div>
       </div>
     </div>
