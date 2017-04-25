@@ -1,13 +1,13 @@
 ---
 title: Resident Life
-group: studentlife
 date: 2017-04-05 22:13:00 Z
-intro-body:
-community-covenant-body:
+group: studentlife
+intro-body: 
+community-covenant-body: 
 deans:
 - name: Dr. Joe Keller
   title: Vice President of Student Life
-  image:
+  image: 
   body-text: |-
     Joe Keller joined The Master's University in 1996, where he currently serves as the Vice President of Student Life and teaches in the Biblical Counseling Department. He completed his undergraduate degree at The Master's University, his Master of Divinity degree at The Master’s Seminary, and his Doctor of Ministry degree at Westminster Theological Seminary.
 
@@ -22,7 +22,7 @@ deans:
     Joe enjoys sports, film, gardening, and laughing with his wife Heidi and their four children.
 - name: David Hulet
   title: Associate Dean of Students
-  image:
+  image: 
   body-text: |-
     Born in California, raised in Oregon, Dave attended TMU in the late 90's where he met his wife, Tricia, and they were married shortly after graduating. Dave pursued work for a short while in construction but always felt called back to student ministry. He was a Resident Director of C.W. Smith dormitory (CDub) for several years and then left for pastoral ministry in church planting with another TMU grad in Florida. Eventually Dave returned to TMU to take the Associate Dean position and is thrilled to lead the team of Resident Directors and Assistants in Residence Life. His wife, Tricia, is involved in the Music Department at TMU where she directs the Theatre program.
 
@@ -37,7 +37,7 @@ deans:
     Dave enjoys spending time with his wife, exploring L.A., the outdoors, wood-working and visiting new cities and national parks.
 - name: Jenn kintner
   title: Associate Dean of Students
-  image:
+  image: 
   body-text: |-
     Jenn has enjoyed being a part of The Master’s University for the last thirteen years: first as a student, then as the Israel Bible Extension volunteer, and now as a staff member. She first joined the staff as the Administrative Assistant to the Vice President of Student Life, then served as a Resident Director in Sweazy Hall for five years, before transitioning to her current position. It is her joy to work with the female students on campus and to see God at work in them growing and developing their love for Jesus Christ more and more. She is a member at Grace Baptist Church and is currently pursuing her Doctorate of Education at The Southern Baptist Theological Seminary.
 
@@ -52,3 +52,4 @@ deans:
     Jenn enjoys coffee, traveling, hiking, creating new recipes, reading, and playing games.
 layout: reslife
 ---
+

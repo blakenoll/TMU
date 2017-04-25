@@ -65,7 +65,7 @@ teams-body: |-
   Great for these majors: Pre-med, Kinesiology, biology, juniors and seniors
 
   \*Dates are approximate and the cost for each trip is $2975.
-contribute-body:
+contribute-body: 
 travelars-health-body: |-
   Maintaining your health while overseas begins with proper planning and research before you depart. The following resources can help educate you about appropriate preventative measures prior to departure and during your travel abroad. Additionally, you should consult with a physician prior to your departure about your personal health and recommended vaccinations, immunizations, and other preventative medication.
 
@@ -478,3 +478,4 @@ faq-body: |-
 
   Gather addresses while you are home for people you will send letters to in late January.
 ---
+
