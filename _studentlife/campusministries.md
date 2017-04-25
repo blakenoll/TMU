@@ -1,5 +1,5 @@
 ---
-title: Campus Ministries
+title: Director
 description: 
 director-body: |-
   ### Christian Johnson
