@@ -16,17 +16,19 @@ layout: default
      </nav>
     </div>
   </div>
-  {{ content }}
-  <ul class="collapsible" data-collapsible="accordion">
-    <li>
-      <div class="collapsible-header">New Students/ Parents</div>
-      <div class="collapsible-body"><span>{{ page.new-students-parents-body | markdownify }}</span></div>
-    </li>
-    <li>
-      <div class="collapsible-header">Policies</div>
-      <div class="collapsible-body"><span>{{ page.policies-body | markdownify }}</span></div>
-    </li>
 
-  </ul>
+
+  <div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab"><a class="active" href="#test1">About</a></li>
+        <li class="tab"><a href="#test2">New Students/ Parents</a></li>
+        <li class="tab"><a href="#test3">Policies</a></li>
+      </ul>
+    </div>
+    <div id="test1" class="col s12">{{ content }}</div>
+    <div id="test2" class="col s12">{{ page.new-students-parents-body | markdownify }}</div>
+    <div id="test3" class="col s12">{{ page.policies-body | markdownify }}</div>
+  </div>
 
 </div>
