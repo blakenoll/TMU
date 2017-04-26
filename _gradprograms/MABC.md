@@ -143,5 +143,47 @@ courses-body:
   ## BC599 - THESIS COMPOSITION
 
   This guided independent research requires the student to advance a thesis, presenting the biblical understanding and counseling methodology for a specific problem that could be encountered in counseling, taking the form of a 100 to 120 page, fully documented paper. Thesis topics are approved by the Department Chair and the Thesis Coordinator; research and composition are pursued under an appointed faculty advisor. Prerequisites: All core courses.
+eligibility-requirments-body: |-
+  In order to be considered for enrollment to the M.A. program at The Master's College, the following eligibility requirements must be met by the applicant. The administration and faculty of the College reserve the right to withdraw the privilege of enrollment or to place a student on probation if, after enrollment, the student proves to be lacking in these qualifications.
+
+  ### Spiritual
+
+  * Testimony of faith in Jesus Christ as Savior and Lord.
+
+  * Demonstration of submission to the will of God and obedience to the Word of God.
+
+  * Possession of the personal and spiritual gifts necessary for counseling and discipleship (deacon/deaconness qualified).
+
+  * Recommendation by church leaders and other people who have had significant contact with the applicant.
+
+  * General agreement with the doctrinal statement of The Master's College.
+
+  ### Academic
+
+  * Bachelor's degree from a regionally accredited college or university (official transcript required). The prospective student must have a cumulative grade point average of 3.0 or above on a 4.0 scale for all undergraduate work. The student will be expected to maintain a 3.0 average in the M.A. program.
+
+  * All applicants without an undergraduate or graduate degree in biblical studies prior to pursuing this master's degree will be required to complete pre-requisite courses--Introduction to the Biblical Text, and Introduction to Biblical Interpretation--by the end of their first trimester of study.
+
+  ## Application Requirements
+
+  The following documents must be submitted in order to apply to The Master's College:
+
+  1. [Application for Graduate Admission](http://www.masters.edu/academics/graduate/downloads.aspx "Grad Forms Page")
+
+  2. [Application fee](https://masters.formstack.com/forms/graduate_application_fee_credit_card_processing) ($50)
+
+  3. Official transcripts indicating the completion of a bachelor's degree from a regionally accredited college or university
+
+  4. Reference forms: academic, pastoral (or other lay-leader), and personal (forms provided with application)
+
+  5. Writing sample (a 10-15 page sample of your academic work, demonstrating graduate study capability)
+
+  ## Transfer Credits
+
+  Credits from other institutions are generally not accepted for transfer due to the unique content and nature of the Biblical Counseling courses. However, some courses from other theological institutions may transfer with minimal additional coursework. Eligibility for transfer credits is only determined through the transcript review step of the application process.
+
+  ## International Students
+
+  The Master's College is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the College. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
 ---
 
