@@ -24,14 +24,20 @@
   <!-- Fonts and Icons -->
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
   <!-- main css -->
   <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
-
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
-
   <link rel="shortcut icon" type="image/png" href="{{ '/favicon.png'  | prepend: site.url }}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<!-- search  -->
+  {% if page.tipue_search_active or layout.tipue_search_active %}
+<link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | prepend: site.url }}">
 
+<script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | prepend: site.url }}"></script>
+<link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | prepend: site.url }}">
+<script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | prepend: site.url }}"></script>
+<script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | prepend: site.url }}"></script>
+{% endif %}
 </head>
