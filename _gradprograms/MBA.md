@@ -1,6 +1,26 @@
 ---
 title: MBA
 program-outline-text: |-
+  Program-level Learning Outcomes
+
+  At completion of The Master’s University Master of Business Administration (MBA) program, the student will be able to:
+
+  1. Conduct quantitative analyses of complex business situations.
+
+  2. Strategically solve complex business problems.
+
+  3. Integrate Scripture into the decision making process.
+
+  4. Communicate at an advanced level in a variety of verbal and written formats, and a range of business-related situations.
+
+  5. Apply high level business concepts to real life business situations.
+
+  ## Textbooks
+
+  [Click here](http://www.masters.edu/media/869674/mba-booklist-32317.pdf "MBA Booklist 3.23.17.pdf") to view the Textbooks for all Online MBA courses.
+
+  To Order Textbooks: The following link will connect you to the Master's University Bookstorewhere you can check out pricing to buy, rent, and order your texts from the convenience of your home.
+
   ## Format & Schedule
 
   All required courses are taught in an online format during two 8-week sessions over three semesters each year. This schedule enables students to qualify for federal financial aid.
@@ -67,3 +87,4 @@ courses-body:
   number: MGT590
 ---
 
+## 
