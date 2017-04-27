@@ -1,5 +1,6 @@
 ---
 title: MBA
+layout: mba
 program-outline-text: |-
   Program-level Learning Outcomes
 
@@ -87,4 +88,4 @@ courses-body:
   number: MGT590
 ---
 
-## 
+##
