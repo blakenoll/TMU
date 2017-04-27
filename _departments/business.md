@@ -1,5 +1,6 @@
 ---
 title: Business
+sm-image: "/uploads/AcademicsUndergradIcons_Business.png"
 description: |-
   The Master’s University Business department can’t keep up with the requests from satisfied
   employers for more of our graduates. TMU produces excellent businesspeople. The Business
