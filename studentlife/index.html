@@ -2,10 +2,9 @@
 title: Student Life
 layout: default
 ---
-
+{% include parallax-header.html %}
 <div class="container">
-  <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
-  <h1>Student Life</h1>
+  <br>
   <div class="row">
     {% assign icons = site.studentlife %}
     {% for page in icons %}
@@ -21,8 +20,6 @@ layout: default
     {% endif %}
     {% endfor%}
   </div>
-
-    <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
     <div class="row">
       <h1>Campus Ministries</h1>
       {% for page in icons %}

@@ -1,10 +1,11 @@
 ---
 layout: default
+title: Robert L. Powell Library
 ---
 
 {% include parallax-header.html %}
 <div class="container">
-  <h1 class="center">Robert L. Powell Library </h1>
+  <br>
   <div class="row">
     <form action="https://masters.on.worldcat.org/search"  method="GET">
       <div class="col s8 m6">
@@ -32,31 +33,37 @@ layout: default
   <div class="row">
    <div class="col s12">
      <ul class="tabs">
+       <li class="tab"><a href="#test4">Hours</a></li>
        <li class="tab"><a href="#test1">Search Tools</a></li>
        <li class="tab"><a href="#test2">Services</a></li>
-       <li class="tab"><a href="#test3">About The Library</a></li>
+       <li class="tab"><a href="#test3">About</a></li>
      </ul>
    </div>
    <div id="test1" class="col s12">{{ page.searchtools-body | markdownify }}</div>
    <div id="test2" class="col s12">
-     <ul class="collapsible" data-collapsible="accordion">
-       <li>
-         <div class="collapsible-header">Interlibrary Loan</div>
-         <div class="collapsible-body"><span>{{ page.intelibraryloan-body | markdownify }}</span></div>
-       </li>
-       <li>
-         <div class="collapsible-header">General Use Policies</div>
-         <div class="collapsible-body"><span>{{ page.general-use-policies-body | markdownify }}</span></div>
-       </li>
-       <li>
-         <div class="collapsible-header">Reference Services</div>
-         <div class="collapsible-body"><span>{{ page.reference-services-body | markdownify }}</span></div>
-       </li>
-       <li>
-         <div class="collapsible-header">Copying & Printing</div>
-         <div class="collapsible-body"><span>{{ page.copying-printing-body | markdownify }}</span></div>
-       </li>
-     </ul>
+    <div class="row">
+    <div class="col s12">
+      <ul class="tabs secondary-tab">
+        <li class="tab"><a class="active" href="#loan">InterLibrary Loan</a></li>
+        <li class="tab"><a href="#general">General Use Policies</a></li>
+        <li class="tab"><a href="#reference">Reference Services</a></li>
+        <li class="tab"><a href="#copy">Copying & Printing</a></li>
+      </ul>
+    </div>
+    <div id="loan" class="col s12">
+      {{ page.intelibraryloan-body | markdownify }}
+    </div>
+    <div id="general" class="col s12">
+      {{ page.general-use-policies-body | markdownify }}
+    </div>
+    <div id="reference" class="col s12">
+      {{ page.reference-services-body | markdownify }}
+    </div>
+    <div id="copy" class="col s12">
+      {{ page.copying-printing-body | markdownify }}
+    </div>
+  </div>
+
    </div>
    <div id="test3" class="col s12">
      <div class="row">
@@ -72,9 +79,6 @@ layout: default
          <div id="staff" class="section scrollspy">
            <p>{{ page.library-personnel-body | markdownify }}</p>
          </div>
-         <div id="hours" class="section scrollspy">
-           <p>{{ page.hours-body | markdownify }}</p>
-         </div>
          <div id="giving" class="section scrollspy">
            <p>{{ page.giving-body | markdownify }}</p>
          </div>
@@ -84,11 +88,13 @@ layout: default
            <li><a href="#history">Mission & History</a></li>
            <li><a href="#collection">Collection Description</a></li>
            <li><a href="#staff">Library Personnel</a></li>
-           <li><a href="#hours">Library Hours</a></li>
            <li><a href="#giving">Giving</a></li>
          </ul>
        </div>
      </div>
+   </div>
+   <div id="test4" class="col s12">
+     {{ page.hours-body | markdownify }}
    </div>
  </div>
 </div>

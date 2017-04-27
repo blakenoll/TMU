@@ -17,22 +17,18 @@ layout: default
     </div>
   </div>
   <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
-  <h2>About ASB</h2>
-  <p>{{ content | markdownify }}</p>
-  <ul class="collapsible" data-collapsible="accordion">
-    <li>
-      <div class="collapsible-header">Your ASB</div>
-      <div class="collapsible-body"><span>{{ page.your-asb-body | markdownify }}</span></div>
-    </li>
-    <li>
-      <div class="collapsible-header">Current Societies</div>
-      <div class="collapsible-body"><span>{{ page.current-societies-body | markdownify }}</span></div>
-    </li>
-    <li>
-      <div class="collapsible-header">Start a Society</div>
-      <div class="collapsible-body"><span>{{ page.start-society-body | markdownify }}</span></div>
-    </li>
-  </ul>
-  <h3>Talk to ASB</h3>
-  <p>{{ page.talk-body | markdownify }}</p>
+  <div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab"><a href="#test1">About</a></li>
+        <li class="tab"><a href="#test2">2017-2018 Members</a></li>
+        <li class="tab"><a href="#test3">Campus Socities</a></li>
+        <li class="tab"><a href="#test4">Contact</a></li>
+      </ul>
+    </div>
+    <div id="test1" class="col s12">{{ content | markdownify }}</div>
+    <div id="test2" class="col s12">{{ page.your-asb-body | markdownify }}</div>
+    <div id="test3" class="col s12">{{ page.current-societies-body | markdownify }}{{ page.start-society-body | markdownify }}</div>
+    <div id="test4" class="col s12">{{ page.talk-body | markdownify }}</div>
+  </div>
 </div>

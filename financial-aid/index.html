@@ -61,9 +61,8 @@ body: |-
 
   ### Disclosures and Notifications
 ---
-
+{% include parallax-header.html %}
 <div class="container">
-  <h1 class="center">Financial Aid</h1>
   <p>{{ page.hours-body | markdownify }}</p>
     <div class="row">
       {% assign topics = site.financialaid | sort: 'title' %}

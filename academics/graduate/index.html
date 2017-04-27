@@ -2,10 +2,9 @@
 title: Graduate Degrees
 layout: default
 ---
-
+{% include parallax-header.html %}
 <div class="container">
-  <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
-  <h1>Graduate Programs</h1>
+<h2>Programs:</h2>
   <div class="row">
     {% for program in site.gradprograms %}
     {% unless program.title == '5th Year Teaching Credential' %}
