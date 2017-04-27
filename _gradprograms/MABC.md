@@ -199,11 +199,11 @@ eligibility-requirments-body: |-
 
   The Master's College is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the College. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
 framework-body: |-
-  ### *Pre-Requisite Course (Credits)*
+  **Pre-Requisite Course (Credits)**
 
   * BC090 Introduction to MABC Studies (0)
 
-  ### *Required Courses (Credits)*
+  **Required Courses (Credits)**
 
   * BC501: Introduction to Biblical Counseling (2)
 
