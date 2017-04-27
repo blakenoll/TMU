@@ -198,5 +198,43 @@ eligibility-requirments-body: |-
   ## International Students
 
   The Master's College is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the College. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
+framework-body: |-
+  ### *Pre-Requisite Course (Credits)*
+
+  * BC090 Introduction to MABC Studies (0)
+
+  ### *Required Courses (Credits)*
+
+  * BC501: Introduction to Biblical Counseling (2)
+
+  * BC502: Essential Qualities of a Biblical Counselor (2)
+
+  * BC503: Methods of Biblical Change (2)
+
+  * BC506: Theology & The Psychologies (2)
+
+  * BC511: Theological Basis of Biblical Counseling (2)
+
+  * BC521: Problems & Procedures (2)
+
+  * BC531: Hermeneutics (2)
+
+  * BC532: Advanced Hermeneutics (2)
+
+  * BC542: Marriage & Family Counseling (2)
+
+  * BC556: ACBC Membership Seminar (2)\*
+
+  * BC557: Counseling & Physiology (2)
+
+  * BC560: Biblical Conflict Resolution (2)
+
+  * BC580: Counseling Observation & Practicum (2)
+
+  * BC592: Counseling Internship (2)
+
+  * BC593: Advanced Counseling Internship (2)
+
+  * BC598: Thesis Research (2)
 ---
 
