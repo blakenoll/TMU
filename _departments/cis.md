@@ -1,5 +1,6 @@
 ---
 title: Computer and Information Sciences
+sm-image: "/uploads/AcademicsUndergradIcons_Computer%20&%20Information%20Sciences.png"
 emphasis:
 - Computer Science
 - Information Science
