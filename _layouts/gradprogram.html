@@ -36,9 +36,6 @@ layout: default
           {% endfor %}
       </ul>
       <div class="card">
-        <div class="card-content">
-          <p>{{ content }}</p>
-        </div>
         <div class="card-tabs">
           <ul class="tabs tabs-fixed-width">
             <li class="tab"><a class="active" href="#test4">Program Outline</a></li>
@@ -52,11 +49,7 @@ layout: default
 
           </div>
           <div id="test5">
-            <ul>
-              {% for course in page.courses-body %}
-              <li>{{ course }}</li><br>
-              {% endfor %}
-            </ul>
+            {{ page.courses-body | markdownify }}
 
           </div>
           <div id="test6">Test 3</div>
@@ -64,20 +57,8 @@ layout: default
        </div>
     </div>
     <div class="col s12 m3">
-      <h2>Program Credits</h2>
-      <p>Total: {{ page.total-credits }}<br>
-      General Education: {{ page.GE-credits }}<br>
-      {% if page.bible-credits != '' %}
-      Bible: {{ page.bible-credits }}<br>
-      {% endif %}
-      Major Core Courses: {{ page.core-courses }}<br>
-      Emphasis/Electives: {{ page.emphasis-electives }}</p>
-      <h2>Course Offerings</h2>
-      <ul>
-        {% for course in page.course-offerings %}
-        <li>{{ course }}</li>
-        {% endfor %}
-      </ul>
+      <h2>Program Framework</h2>
+      {{ page.framework-body | markdownify }}
     </div>
   </div>
   <p>{{ content }}</p>
