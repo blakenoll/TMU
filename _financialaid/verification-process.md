@@ -1,5 +1,6 @@
 ---
 title: Verification Process
+sm-image: "/uploads/AdmissionFinAid_VerificationProcess.png"
 ---
 
 ## Federal Verification Process
