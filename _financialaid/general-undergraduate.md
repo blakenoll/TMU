@@ -1,6 +1,6 @@
 ---
 title: General Undergraduate
-layout: gunderfin
+sm-image: "/uploads/AdmissionFinAid_GeneralUndergrad.png"
 new-transfer-student-body: |-
   <h2 id="C7">Scholarships - New/Transfer Students</h2>
   <p>&nbsp;</p>
@@ -908,5 +908,6 @@ ministry-matching-body: |-
   For questions please contact the Office of Financial Aid at 800.568.6248 x2290 or financialaid@masters.edu.
 
   Note: Ministry Matching funds can affect eligibility for institutional need-based aid. Contact the Office of Financial Aid to determine if your financial aid will be affected.
+layout: gunderfin
 ---
 
