@@ -1,5 +1,6 @@
 ---
 title: Printable forms
+sm-image: "/uploads/AdmissionFinAid_PrintableForms.png"
 ---
 
 Undergraduate Registration Instructions
