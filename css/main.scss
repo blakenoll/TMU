@@ -102,8 +102,8 @@ a {
 
 
 .navbar-inverse {
-  background-color: $navy;
-  border-color: $navy;
+  background-color: $white;
+  border-color: $white;
   color: $navy;
 }
 
@@ -122,23 +122,23 @@ a {
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
     color: $gold;
-    background-color: $navy;
+    background-color: $white;
 }
 
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
-  background-color: $navy;
+  background-color: $white;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: $navy;
+    border-color: $white;
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: $navy;
+    background-color: $white;
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-    border-color: $navy;
+    border-color: $white;
 }
 
 .navbar-collapse {

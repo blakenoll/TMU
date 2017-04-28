@@ -71,7 +71,7 @@ body: |-
       <a href="{{ topic.url | prepend: site.url }}">
         <div class="col s6 m3">
           <div class="vector-card">
-            <img src="https://dummyimage.com/200x200/oc2340/fff.jpg" alt="" width="100%">
+            <img src="{{ topic.sm-image | prepend: site.url }}" alt="" width="100%">
             <h3 class="center">{{ topic.title }}</h3>
           </div>
         </div>
