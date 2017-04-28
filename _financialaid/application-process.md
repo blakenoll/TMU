@@ -1,6 +1,6 @@
 ---
 title: Application Process
-layout: fin-app-proc
+sm-image: "/uploads/AdmissionFinAid_ApplicationProcess.png"
 what-is-financial-aid-body: |-
   ## What is Financial Aid?
 
@@ -110,6 +110,7 @@ prior-year-body: |-
   Many examples could be cited, but the data which would need to be consistent between the 2016-17 and 2017-18 FAFSA applications includes, but is not necessarily limited to: tax return type, filing status, adjusted gross income, income tax, exemption number, education credits, need based employment, grant/scholarship aid, combat pay, co-op earnings, housing allowance, veterans non-education benefits, other untaxed income, other non-reported money, pension payments, IRA payments, interest income, IRA distributions, and untaxed pensions.
 
   One should also note that some data can be different on the 2016-17 and 2017-18 FAFSA applications; including: number in household, number in college, address, contact information, food stamp use, child support received, and child support paid.
+layout: fin-app-proc
 ---
 
 Financial Aid Application Process
