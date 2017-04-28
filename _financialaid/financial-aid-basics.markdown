@@ -1,6 +1,7 @@
 ---
 title: Financial Aid Basics
 date: 2017-04-10 19:07:00 Z
+sm-image: "/uploads/AdmissionFinAid_FinancialAidBasics.png"
 ---
 
 Financial Aid 101: The Basics
