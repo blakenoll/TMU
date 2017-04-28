@@ -1,5 +1,6 @@
 ---
 title: FAQ
+sm-image: "/uploads/AdmissionFinAid_FAQ.png"
 ---
 
 **Questions**
