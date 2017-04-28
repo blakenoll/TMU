@@ -1,5 +1,6 @@
 ---
 title: Tuition & Fees
+sm-image: "/uploads/AdmissionFinAid_Tuition.png"
 ---
 
 ## Tuition and Fees
