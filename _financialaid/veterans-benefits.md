@@ -1,5 +1,6 @@
 ---
 title: Veterans Benefits
+sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 ---
 
 <h2>Veterans Benefits and Financial Aid</h2>
