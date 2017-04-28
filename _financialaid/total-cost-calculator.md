@@ -1,5 +1,6 @@
 ---
 title: Total Cost Calculator
+sm-image: "/uploads/AdmissionFinAid_TotalCostCalculator.png"
 ---
 
  <div class="row">
