@@ -1,6 +1,6 @@
 ---
 title: MBA
-layout: mba
+sm-image: "/uploads/AcademicsGraduate_MBA.png"
 program-outline-text: |-
   Program-level Learning Outcomes
 
@@ -50,9 +50,7 @@ program-outline-text: |-
 
   6. $35 application fee
 courses-body:
-- number: BUS510
-  name: Enterprise and Public Policy
-  units: 3
+- 
 - number: BUS520
   name: Business Law
   units: 3
@@ -86,6 +84,7 @@ courses-body:
 - units: 3
   name: Leadership
   number: MGT590
+layout: mba
 ---
 
 ##
