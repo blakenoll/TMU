@@ -27,6 +27,92 @@ careers:
 - Operations Research Analyst
 - Data Warehousing
 - Modeling/Simulation
+required-courses-body: |-
+  ## CIS Core Courses
+
+  * CS111 Introduction to Computer Programming & Lab (4)
+
+  * CS122 Web Design & Programming (3)
+
+  * CS211 Data Structures & Lab (4)
+
+  * CS212 Computer Hardware (3)
+
+  * CS301 Computer Application Development (3)
+
+  * CS302 Software Development (3)
+
+  * CS321 Operating Systems (3)
+
+  * CS322 Networking Principles & Architecture (3)
+
+  Total core courses (26)
+
+  ## Computer Science Emphasis Courses
+
+  * CIS core courses (26)
+
+  * CS311 Computer Organization & Architecture (3)
+
+  * CS332 Programming Languages & Systems (3)
+
+  * CS402 Computer Algorithms (3)
+
+  * CS492 Computer Science Senior Seminar (3)
+
+  * MA121 Calculus I (4)
+
+  * MA122 Calculus II (4)
+
+  * MA253 Discrete Mathematics (3)
+
+  * Upper division CS electives (6)
+
+  Total units required for emphasis (55)\
+
+  ## Information Systems Emphasis Courses
+
+  * CIS core courses (26)
+
+  * ACC210 Accounting Fundamentals I (3)
+
+  * MGT310 Management Theory (3)
+
+  * MIS432 Database Management Systems (3)
+
+  * MIS441 Web Site Administration (3)
+
+  * MIS478 IS Internship (3)
+
+  * MIS492 IS Senior Seminar (3)
+
+  * Upper division IS electives (9)
+
+  Total units required for emphasis (53)
+
+  ---
+
+  ## Minor in Computer and Information Sciences
+
+  The following courses are required for a minor in Computer and Information Sciences:
+
+  * CS111 Introduction to Computer Programming/Lab (4)
+
+  * CS122 Web Design & Programming (3)
+
+  * CS211 Data Structures & Lab (4)
+
+  * CS212 Computer Hardware (3)
+
+  * CS301 Computer Application Development (3)
+
+  * CS302 Software Development (3)
+
+  * CS321 Operating Systems (3)
+
+  * CS322 Networking Principles & Architecture (3)
+
+  Total units required for minor (26)
 ---
 
 From phone apps and video games to InDesign and Spotify, technology and programming is a
