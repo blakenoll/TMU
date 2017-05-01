@@ -1,6 +1,6 @@
 ---
 title: MABS
-sm-image: "/uploads/AcademicsOnline_MABS.png"
+sm-image: "/uploads/AcademicsGraduate_MABS.png"
 level: grad
 ---
 
