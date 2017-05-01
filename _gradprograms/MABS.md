@@ -1,5 +1,6 @@
 ---
 title: MABS
+sm-image: "/uploads/AcademicsGraduate_MABS.png"
 program-outline-text: |-
   The M.A. in Biblical Studies is a 36 credit hour graduate degree program, designed to allow students to pursue in-depth training in Biblical Studies.
 
