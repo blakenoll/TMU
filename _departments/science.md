@@ -37,6 +37,18 @@ careers:
 - Laboratory Technician
 - Pharmacist
 - Physician
+why-at-masters-body: |-
+  * Academically successful and challenging while being doctrinally s und
+
+  * Science interpreted through faith rather than faith through science.
+
+  * Other places use science as a biblical hermeneutic to change Scripture yet how can one base their worldview off of a set of principles that is constantly changing?
+
+  * Historical Space-Time Fall
+
+  * send forth the saints with an understanding of science, so that through their professional, academic and spiritual testimony, the Master is presented and exalted
+
+  * close student-teacher relationships
 required-courses-body: |-
   ## Biology Core Courses
 
