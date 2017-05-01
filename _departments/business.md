@@ -42,6 +42,64 @@ careers:
 - Administration
 - Accounting
 - International Business
+why-at-masters-body: |-
+  ● Why at Master’s?
+
+  ○ TEST SCORES--use charts, etc.
+
+  ■ CPA pass scores: we rank above biggest and best schools in CA
+
+  ■ ETS test scores
+
+  ● Top 7% nationally overall
+
+  ● Top 5% in marketing, Top 3% in finance
+
+  ● Top school in CA
+
+  ■ NASBA report ranked TMU among the top 10 institutions nationally,
+
+  second of similar-sized schools
+
+  ■ “This is why we know we’re good, and this is why we put ourselves up
+
+  against anybody.”
+
+  ○ “We haven’t changed.”
+
+  ■ Profs won’t lower the workload or expectations, and students rise to the
+
+  occasion and become successful businesspeople
+
+  ■ “The program is strong and not watered down. You cannot just pass if you show
+
+  up and take notes, you cannot fake it, you need to put the effort in”
+
+  ○ Biblical filter
+
+  ■ “Our students are taught why things matter”
+
+  ○ Professional teachers committed to educating students
+
+  ■ Teacher’s assistants never teach class
+
+  ● B.A. grads in high demand
+
+  ○ Employers request more Master’s grads than we have to give them
+
+  ○ Most choose to get employed through networks
+
+  ○ Good, honest workers with integrity are very successful even without M.B.A.s
+
+  ■ Of CA resident business alumni, after two years have average $43,000
+
+  salaries, after 10 years average $112,709
+
+  ● Professors
+
+  ○ Have served or actively serve as elders, deacons, and pastors
+
+  ○ Experienced in business, ministry, communications, law, and education
 required-courses-body: |-
   ## **Business Administration Core Courses**
 
