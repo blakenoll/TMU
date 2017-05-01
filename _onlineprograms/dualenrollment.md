@@ -1,5 +1,6 @@
 ---
 title: Dual enrollment
+sm-image: "/uploads/AcademicsOnline_DualEnrollment.png"
 level: online
 Courses:
 - "#": B101
