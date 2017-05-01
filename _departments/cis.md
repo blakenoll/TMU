@@ -1,6 +1,13 @@
 ---
 title: Computer and Information Sciences
 sm-image: "/uploads/AcademicsUndergradIcons_Computer%20&%20Information%20Sciences.png"
+description: From phone apps and video games to InDesign and Spotify, technology and
+  programming is a dominant force in every country, business and stage of life. There
+  is no area it does not touch. The Master’s University offers a quality education
+  developing the individual for each avenue of computer science and IT work. With
+  an average class size of 10 students and invested teachers --- who are currently
+  working within their direct field --- the students learn the skills needed for today’s
+  rapidly changing technological advancements.
 emphasis:
 - Computer Science
 - Information Science
