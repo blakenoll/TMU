@@ -1,5 +1,6 @@
 ---
 title: MABC
+sm-image: "/uploads/AcademicsGraduate_MABC.png"
 program-outline-text: |-
   The M.A. in Biblical Counseling is a 34 credit hour graduate degree program, designed to allow students to pursue in-depth training in Biblical Counseling.
 
