@@ -28,6 +28,12 @@ careers:
 - Political Scientist
 - Lobbyist
 - Museum Curator
+why-at-masters-body: |-
+  ● Stats
+
+  ○ 2012 survey of grads: <⅛ in edu., >. in biz, ⅛ in ministry, nearly half in gov.
+
+  ○ 5-15 students in major classes
 required-courses-body: |-
   ## History Core Courses
 
