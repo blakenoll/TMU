@@ -50,11 +50,7 @@ layout: default
         </div>
         <div class="card-content grey lighten-4">
           <div id="wam">
-            <ol>
-              {% for point in page.why-at-masters %}
-              <li>{{ point }}</li>
-              {% endfor %}
-            </ol>
+            {{ page.why-at-masters-body | markdownify }}
           </div>
           <div id="sq">
             {{ page.quote }}
