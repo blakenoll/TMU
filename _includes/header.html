@@ -43,9 +43,17 @@
   <!-- end dropdown content -->
 
   <nav class="nav-extended">
-    <div class="container">
       <div class="nav-wrapper">
-        <a href="{{ site.url }}" class="brand-logo"><img src="{{ "/images/TMU_WebLogo_NavyGold.png" | prepend: site.url }}" id="home-logo" alt="{{ site.title }}"></a>
+        <ul id="nav-mobile" class="left hide-on-med-and-down nav-bottom">
+          <li><a href="{{ "/about" | prepend: site.url }}">About</a></li>
+          <li><a class="dropdown-button" href="#!" data-activates="dropdown2">Admissions</a></li>
+          <li><a class="dropdown-button" href="#!" data-activates="dropdown1">Academics</a></li>
+          <li><a href="sass.html">Athletics</a></li>
+        </ul>
+        <!--  regular logo -->
+        <a href="{{ site.url }}" class="brand-logo center hide-on-med-and-down"><img src="{{ "/images/TMU_Logo_200x100-01.png" | prepend: site.url }}" id="home-logo" alt="{{ site.title }}"></a>
+        <!--  mobile logo -->
+        <a href="{{ site.url }}" class="brand-logo center hide-on-large-only"><img src="{{ "/images/TMU_WebLogo_NavyGold.png" | prepend: site.url }}" id="home-logo" alt="{{ site.title }}"></a>
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
           <li><a href="{{ site.url }}">Online</a></li>
@@ -55,15 +63,14 @@
           <li><a href="{{ "/give" | prepend: site.url }}">Give</a></li>
         </ul>
       </div>
-      <div class="nav-wrapper hide-on-med-and-down">
+      <!-- <div class="nav-wrapper hide-on-med-and-down">
         <ul id="nav-mobile" class="left hide-on-med-and-down nav-bottom">
           <li><a href="{{ "/about" | prepend: site.url }}">About</a></li>
           <li><a class="dropdown-button" href="#!" data-activates="dropdown2">Admissions</a></li>
           <li><a class="dropdown-button" href="#!" data-activates="dropdown1">Academics</a></li>
           <li><a href="sass.html">Athletics</a></li>
         </ul>
-      </div>
-    </div>
+      </div> -->
   </nav>
 </div>
 

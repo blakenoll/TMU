@@ -100,6 +100,10 @@ a {
   border-radius: 0px;
 }
 
+#nav-mobile {
+  margin-top: 40px;
+}
+
 
 .navbar-inverse {
   background-color: $white;
@@ -297,6 +301,11 @@ a {
  }
 
 }
+@media only screen and (min-width: 993px) {
+  nav.nav-extended {
+    height: 150px;
+  }
+}
 
 @media only screen and (min-width: 601px) {
   .navbar-fixed {
@@ -321,6 +330,8 @@ a {
     padding-top: 12%;
   }
 }
+
+
 
 @media only screen and (max-width: 993px) {
   #second-navbar {
