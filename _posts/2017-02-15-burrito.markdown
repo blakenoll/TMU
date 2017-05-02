@@ -5,6 +5,11 @@ tags:
 - bible
 - blake
 - fun
+preview-text: Master’s was my last choice. Not only was it my last choice, but it
+  was the only choice I tried to run away from.  I have been around this school my
+  entire life. I was born and raised in the Santa Clarita Valley. I grew up going
+  to Placerita Bible Church, which is next to Masters, for the first seventeen years
+  of my life.
 author: Sabrina Michael
 catergory: Events
 image: "/uploads/WEB_TMU.jpg"
