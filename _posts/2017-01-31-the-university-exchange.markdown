@@ -1,21 +1,27 @@
 ---
 title: The University Exchange
 date: 2017-01-31 00:56:00 Z
+preview-text: Deciding where to go to college is one of the most important choices
+  we make in life. Wanting to be successful—which looks different for everyone—can
+  be a driving factor in choosing a school. For the first time we are on our own,
+  every decision impacting the person we will become
 image: "/uploads/TMUQuote%20copy.jpg"
+sm-image: https://www.masters.edu/media/869824/karkenny.jpg
 layout: news
 ---
 
-A bookstore is a physical representation of an institution; it represents who we are. October 2016 The Master’s University Bookstore closed its doors and was cleared out for renovation. Paper covered the windows and thin wood walls concealed the facade --- hiding the work being done, but unable to silence the sound of nails being hammered in or stifle the smell of fresh paint.
-On February 3rd the mystery will be revealed. The walls will come down and the students, faculty, staff, visitors and greater community will be welcomed to the new University Exchange, or UE for short.
+Deciding where to go to college is one of the most important choices we make in life. Wanting to be successful—which looks different for everyone—can be a driving factor in choosing a school. For the first time we are on our own, every decision impacting the person we will become.
 
-“This is one of the first big things that’s happened for the students in a while,” Robert Jensen of University Marketing said, “the University Exchange represents them. The students are the priority. You won’t recognize it from the old bookstore. The exterior framework did not change but the interior space was completely re-designed. The entire process has been an alumni effort as well, with the designers and general contractor all being graduates of Master’s U.”
-The change from college to university took place in early August and represents more than a lexical difference. It is an exciting step in not only highlighting the unique strengths already present here, but also elevating the standards and expectations by which the university functions.  The bookstore is only one step in the means to a greater end.
+As a high school athlete, it was so easy for me to get caught up in the ambition to play for a Division I school. I believed I would be defined by what college or division I played in, and it was a major factor in my choice: “Do I really want to go play baseball for this tiny NAIA school? What would my friends think? What would my high school coach think?”
 
-Jensen explained, “UE will no longer simply fill a need but create an experience. . . an experience that immediately fills students and alumni with a sense of pride in their university --- the moment you walk into this place you are going to feel a part of the school and actually want to represent it outside of the canyon.”
+In retrospect, I know I could not have answered these questions without the influence of my brother, Steven. The Lord divinely placed him at The Master’s University two years before me and opened up a door that would change me in many ways.
 
-There will be an entire section featuring the collected works of our president, Dr. John MacArthur, along with shelves filled with classic literature recommended by the English faculty, books suggested by the Business and History departments, biographies, entrepreneurial and more. The latter offered are all supplemental to the course textbooks students will be able to purchase online (ue.masters.edu).
+I saw firsthand what TMU had done for my brother academically, athletically and spiritually. So, choosing TMU myself became an easy decision. I saw how Master’s played an active role in molding him into the man of God that he is, I watched how all his like-minded friends pushed him to be like Christ and I noticed the success he was having playing baseball while having fun and still pursuing excellence in the classroom. His experience was exactly what I wanted, and I knew I could not get that anywhere but Master’s.
 
-However, UE will not only have books. Emily Clark, a senior Biblical Counseling major at Master’s U, commented, “It’s exciting because the staff is putting a lot of work into giving it a whole new look. It will be ivy league and collegiate, perhaps more so than any other university. It’s exciting to make our school presentable to people. Merchandise sells a school to high schoolers; when something looks nice it will bring people in.”
-The University Exchange is more than books or merchandise. Everything about the store --- the design, books, atmosphere, product and even the team behind it ---- brings together the past, present and future of The Master’s University. The UE will offer multiple generations of students and guests the opportunity to take a piece of the university with them, united under one cohesive identity.
+I could not play for a better coach or with better teammates, athletes who love the Lord and still have the passion and desire to win games. I get to play for a coach that pushes me on the field and, more importantly, pushes us all to do everything for the glory of God.
 
-We cannot wait for you, along with the Master’s U Board of Directors, to join us at The University Exchange for it’s official opening next Friday, February 3rd at 12 noon!
+Coach Monte Brooks has been one of the greatest blessings of my life, exhorting all of us to “love the Lord your God with all your heart, and with all your soul, and with all your mind” (Matthew 22:37). This is our team verse and Coach has used it to teach us that we must become slaves to Christ if we want to be excellent and successful in all that we do as Christians.
+
+The baseball team has opened one of the largest doors to my spiritual growth. On this team I have been tested and established lifelong friendships with guys focused on Christ. If I had chosen another school, I would have missed out on my two favorite memories as a Mustang: throwing a perfect game with my brother playing in the outfield and being a part of a team that reached the World Series.
+
+I am beyond grateful that the Lord’s plan for me included attending and playing baseball here. This university has completely shattered the roof of my expectations and has influenced my life more than I could have imagined, all by the grace of God. I am forever thankful for The Master’s University.
