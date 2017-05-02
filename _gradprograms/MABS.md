@@ -71,9 +71,9 @@ program-outline-text: |-
   In order to facilitate research from off campus locations, the [college library](http://www.masters.edu/academics/graduate/degree-programs/mabs/program-outline/#) provides remote access to many of The Master's College's online databases. This access allows the student to [search the available databases](http://www.masters.edu/academics/graduate/degree-programs/mabs/program-outline/#) from any computer off campus that has an Internet connection. Currently, The Master's College has over 20 databases available with remote access. Students are welcome to [contact the library](http://www.masters.edu/academics/graduate/degree-programs/mabs/program-outline/#) directly if they need help with their research needs.
 courses-body:
 - |-
-  BTS500\* - INTRODUCTION TO BIBLICAL STUDIES - 2 units
+  ## BTS500\* - INTRODUCTION TO BIBLICAL STUDIES - 2 units
 
-  A graduate seminar focusing on the foundational issues in the field of Biblical Studies. Seminar topics include inspiration, origin, authority, canonicity, transmission, and translation. Students will be exposed to the assumptions of critical scholarship related to the Bible and an evangelical response to those assumptions. Issues of special introduction to selected portions of the Old and New Testaments will be treated with particular attention to the conclusions of modern "higher criticism."
+  A graduate seminar focusing on the foundational issues in the field of Biblical Studies. Seminar topics include inspiration, origin, authority, canonicity, transmission, and translation. Students will be exposed to the assumptions of critical scholarship related to the Bible and an evangelical response to those assumptions. Issues of special introduction to selected portions of the Old and New Testaments will be treated with particular attention to the conclusions of modern "higher criticism."\*\*
 
   ## BTS501\* - HERMENEUTICS - 2 units
 
