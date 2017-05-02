@@ -33,7 +33,7 @@ careers:
 - Systems Analyst
 - Operations Research Analyst
 - Data Warehousing
-- Modeling/Simulation
+- Web Developer
 required-courses-body: |-
   ## CIS Core Courses
 
