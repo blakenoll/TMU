@@ -50,7 +50,6 @@ program-outline-text: |-
 
   6. $35 application fee
 courses-body:
-- 
 - number: BUS520
   name: Business Law
   units: 3
