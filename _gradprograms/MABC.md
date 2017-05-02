@@ -157,7 +157,7 @@ courses-body: |-
   ## BC599 - THESIS COMPOSITION
 
   This guided independent research requires the student to advance a thesis, presenting the biblical understanding and counseling methodology for a specific problem that could be encountered in counseling, taking the form of a 100 to 120 page, fully documented paper. Thesis topics are approved by the Department Chair and the Thesis Coordinator; research and composition are pursued under an appointed faculty advisor. Prerequisites: All core courses.
-eligibility-requirments-body: |-
+eligibility-requirements-body: |-
   In order to be considered for enrollment to the M.A. program at The Master's College, the following eligibility requirements must be met by the applicant. The administration and faculty of the College reserve the right to withdraw the privilege of enrollment or to place a student on probation if, after enrollment, the student proves to be lacking in these qualifications.
 
   ### Spiritual
@@ -238,4 +238,3 @@ framework-body: |-
 
   * BC598: Thesis Research (2)
 ---
-
