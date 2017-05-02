@@ -3,7 +3,7 @@ title: Gregg L. Frazer
 date: 2017-05-02 18:07:00 Z
 job-title: Professor of History & Political Studies
 image: "/uploads/FacultyHeadshots/Frazer,%20G.jpg"
-department: History
+department: "History Political Studies"
 degrees:
 - B.A., Los Angeles Baptist College
 - M.A., California State University, Los Angeles

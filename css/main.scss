@@ -71,10 +71,14 @@ a {
 }
 
 .fa {
-  font-size: 28pt;
+  font-size: 24pt;
   color: $white;
   letter-spacing: 10px;
   text-align: right;
+}
+
+.faculty-card {
+  height: 150px;
 }
 .fchip {
   line-height: 45px;
@@ -92,6 +96,13 @@ a {
   margin: auto;
   letter-spacing: 3px;
 
+}
+
+.footer-list ul li {
+   display: inline;
+   margin: 10px;
+   font-size: 16pt;
+   color: $white;
 }
 
 .fixed {

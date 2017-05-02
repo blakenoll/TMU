@@ -8,8 +8,8 @@ layout: default
   <h2>Bible</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "Bible"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "Bible"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -22,8 +22,8 @@ layout: default
   <h2>Business</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "Business"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "Business"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -36,8 +36,8 @@ layout: default
   <h2>Computer and Information Sciences</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "Computer and Information Sciences"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "Computer and Information Sciences"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -50,8 +50,8 @@ layout: default
   <h2>Communications</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "Communications"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "Communications"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -64,8 +64,8 @@ layout: default
   <h2>English</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "English"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "English"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -78,8 +78,8 @@ layout: default
   <h2>History</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "History"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "History"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -92,8 +92,8 @@ layout: default
   <h2>Kinesiology</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "Kinesiology"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "Kinesiology"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -106,8 +106,8 @@ layout: default
   <h2>Liberal Studies</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "Liberal Studies"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "Liberal Studies"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -120,8 +120,8 @@ layout: default
   <h2>Math</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "Math"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "Math"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -134,8 +134,8 @@ layout: default
   <h2>Music</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "Music"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "Music"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -148,8 +148,8 @@ layout: default
   <h2>Political Studies</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "Political Studies"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "Political Studies"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>
@@ -162,8 +162,8 @@ layout: default
   <h2>Sciences</h2>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department == "Sciences"%}
-   <div class="col s3 section"><a href="{{ faculty.url | prepend: site.url }}">
+   {% if faculty.department contains "Sciences"%}
+   <div class="col s4 m3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
    </a>

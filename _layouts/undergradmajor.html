@@ -23,7 +23,7 @@ layout: default
       <h2>Faculty</h2>
       <ul>
           {% for faculty in site.faculty %}
-          {% if faculty.department == page.title %}
+          {% if faculty.department contains page.title %}
           <div class="chip">
             <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
             <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
@@ -39,16 +39,12 @@ layout: default
         <div class="card-tabs">
           <ul class="tabs tabs-fixed-width">
             <li class="tab"><a class="active" href="#wam">Why at Master's</a></li>
-            <li class="tab"><a href="#sq">Student Quotes</a></li>
             <li class="tab"><a href="#mr">Major Requirements</a></li>
           </ul>
         </div>
         <div class="card-content grey lighten-4">
           <div id="wam">
             {{ page.why-at-masters-body | markdownify }}
-          </div>
-          <div id="sq">
-            {{ page.quote }}
           </div>
           <div id="mr">
             {{ page.required-courses-body | markdownify }}
