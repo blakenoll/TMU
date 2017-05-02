@@ -7,7 +7,7 @@ department: Sciences
 degrees:
 - 'B.S., The Master''s University '
 - M.S., CA State Polytechnic University, Pomona
-email: llawson@masters.edu
+email: biologicalsciences@masters.edu
 ---
 
 After graduating from The Master's College in 1987, Miss Lawson facilitated student learning through tutoring services, direction for student assistants in the science labs, and maintenance of the chemical inventory for lab experiments. Since joining TMU's faculty in 1995, she has taught fundamental biology courses for both majors and non-majors from a Biblical worldview, and provided college level teaching and laboratory experiences for students of diverse backgrounds and multi-cultural settings.
