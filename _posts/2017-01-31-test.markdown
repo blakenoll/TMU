@@ -8,6 +8,7 @@ preview-text: The Master’s University is pleased to announce the appointment o
   of history and political studies for 47 years, serving as the Vice President for
   Academic Affairs for over 21 of those years
 image: "/uploads/WelcomeWeb3.jpg"
+sm-image: https://www.masters.edu/media/869829/stead.jpg
 layout: news
 ---
 
