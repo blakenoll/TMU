@@ -5,7 +5,7 @@
       <div class="col s12 m6" style="display: table-cell;">
         {% for post in site.posts %}
           {% if forloop.first %}
-            <img src="https://dummyimage.com/960x540/oc2340/fff.jpg" alt="" width="100%">
+            <img src="https://dummyimage.com/960x540/oc2340/fff.jpg" alt="{{ post.title }} image" width="100%">
             <a class="secondary-content" href="#"><h4>{{ post.date | date: " %b %d, %Y"}}</h4></a>
             <a href="{{ post.url | prepend: site.url }}"><h3>{{ post.title }}</h3></a>
 

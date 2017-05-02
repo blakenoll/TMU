@@ -70,6 +70,12 @@ a {
   color: $white;
 }
 
+.fa {
+  font-size: 28pt;
+  color: $white;
+  letter-spacing: 10px;
+  text-align: right;
+}
 .fchip {
   line-height: 45px;
   height: 45px;
@@ -79,6 +85,13 @@ a {
 .fchip img {
   height: 45px;
   width: 45px;
+}
+
+.footer-img {
+  width: 50%;
+  margin: auto;
+  letter-spacing: 3px;
+
 }
 
 .fixed {
