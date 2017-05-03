@@ -1,5 +1,6 @@
 ---
 title: Student Leader Ship
+published: false
 sls-body: |-
   Those going to IBEX in Spring 2017 must complete the Application by *5pm on November 28, 2016.*
 
