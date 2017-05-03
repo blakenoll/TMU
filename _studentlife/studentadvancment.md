@@ -1,5 +1,6 @@
 ---
 title: Student Advancement
+sm-image: "/uploads/StudentLife_StudentAdvancement.png"
 group: studentlife
 international-students-body: The international community at The Master’s College includes
   over 100 international and third-culture kid (TCK) students from nearly 40 different
