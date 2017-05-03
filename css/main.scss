@@ -32,12 +32,12 @@ a {
 
 .about ul {
   display: block;
-list-style-type: disc;
--webkit-margin-before: 1em;
--webkit-margin-after: 1em;
--webkit-margin-start: 0px;
--webkit-margin-end: 0px;
--webkit-padding-start: 40px;
+  list-style-type: disc;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 40px;
 }
 .program-title {
   font-size: 24pt;
@@ -65,15 +65,15 @@ list-style-type: disc;
 }
 
 .carousel-control.right {
-    right: 0;
-    left: auto;
-    background-image: none;
-    background-repeat: repeat-x;
+  right: 0;
+  left: auto;
+  background-image: none;
+  background-repeat: repeat-x;
 }
 
 .carousel-control.left {
-    background-image: none;
-    background-repeat: repeat-x;
+  background-image: none;
+  background-repeat: repeat-x;
 }
 
 .centerimg {
@@ -116,10 +116,10 @@ list-style-type: disc;
 }
 
 .footer-list ul li {
-   display: inline;
-   margin: 10px;
-   font-size: 16pt;
-   color: $white;
+  display: inline;
+  margin: 10px;
+  font-size: 16pt;
+  color: $white;
 }
 
 .fixed {
@@ -153,7 +153,7 @@ list-style-type: disc;
 }
 
 .navbar-inverse .navbar-brand {
-    color: $white;
+  color: $white;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -161,37 +161,37 @@ list-style-type: disc;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover {
-    color: $gold;
+  color: $gold;
 
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
-    color: $gold;
-    background-color: $white;
+  color: $gold;
+  background-color: $white;
 }
 
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
-    background-color: $white;
+  background-color: $white;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: $white;
+  border-color: $white;
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: $white;
+  background-color: $white;
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-    border-color: $white;
+  border-color: $white;
 }
 
 .navbar-collapse {
-    box-shadow: inset 0 0px 0 rgba(255,255,255,.1);
+  box-shadow: inset 0 0px 0 rgba(255,255,255,.1);
 }
 
 .news {
-    padding-top: 30px;
+  padding-top: 30px;
 }
 .secondary-content {
   color: $navy;
@@ -210,20 +210,20 @@ list-style-type: disc;
 }
 
 #search {
-    background-color: #0c2340;
-    border-bottom: 1px solid #fff;
-    border-left: none;
-    border-right: none;
-    border-top: none;
-    border-radius: 1px;
-    color: #fff;
-    box-shadow: none;
+  background-color: #0c2340;
+  border-bottom: 1px solid #fff;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-radius: 1px;
+  color: #fff;
+  box-shadow: none;
 }
 
 #search-btn {
-    background-color: #0c2340;
-    color: #fff;
-    border: none;
+  background-color: #0c2340;
+  color: #fff;
+  border: none;
 }
 
 .navbar-form {
@@ -231,8 +231,8 @@ list-style-type: disc;
 }
 
 .card {
-      box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
-      margin-bottom: 15px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+  margin-bottom: 15px;
 }
 
 .card-block {
@@ -246,22 +246,22 @@ list-style-type: disc;
 }
 
 .absolute-bg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
 }
 
 
 .mast {
-    position: relative;
-    height: 35em;
-    color: #fff;
-    background-color: #0a0a0a;
+  position: relative;
+  height: 35em;
+  color: #fff;
+  background-color: #0a0a0a;
 }
 
 .news-parallax {
@@ -287,6 +287,10 @@ list-style-type: disc;
 
 #faculty-back {
   margin-bottom: 20px;
+}
+
+#faculty-list h4 {
+  color: $navy;
 }
 
 #top {
@@ -321,7 +325,7 @@ list-style-type: disc;
 
 @media screen and (max-width: 1024px) {
 
- .carousel-caption {
+  .carousel-caption {
     right: 20%;
     left: 20%;
     padding-bottom: 30px;
@@ -329,19 +333,19 @@ list-style-type: disc;
     position: static;
     color: #000;
     text-shadow: none;
- }
+  }
 
- .carousel-indicators {
-  display: none;
- }
+  .carousel-indicators {
+    display: none;
+  }
 
- #home-logo {
-   width: 180px;
- }
+  #home-logo {
+    width: 180px;
+  }
 
- .navbar-brand {
-   margin-bottom: 10px;
- }
+  .navbar-brand {
+    margin-bottom: 10px;
+  }
 
 }
 @media only screen and (min-width: 993px) {
@@ -358,7 +362,7 @@ list-style-type: disc;
 
 @media screen and (min-width: 1024px) {
   ul.nav li.dropdown:hover > ul.dropdown-menu {
-      display: block;
+    display: block;
   }
 }
 
