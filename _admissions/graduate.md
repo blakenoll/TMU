@@ -1,6 +1,6 @@
 ---
 title: Graduate
-position: 3
+position: 1
 ---
 
 <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">

@@ -1,6 +1,6 @@
 ---
 title: Dual Enrollment
-position: 1
+position: 3
 ---
 
 <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
