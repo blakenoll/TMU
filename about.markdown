@@ -1,7 +1,6 @@
 ---
 title: About
 date: 2017-04-18 21:56:00 Z
-layout: about
 mission-statement-body: |-
   The mission of The Master's University is to empower students for a life of enduring commitment to Christ, biblical fidelity, moral integrity, intellectual growth and lasting contribution to the Kingdom of God worldwide.
 
@@ -53,7 +52,7 @@ mission-statement-body: |-
 
   * A continuing development of professional expertise
 doctrinal-statement-body: |-
-  ## The Holy Scriptures
+  ### The Holy Scriptures
 
   We teach that the Bible is God’s written revelation to man, and thus the 66 books of the Bible given to us by the Holy Spirit constitute the plenary (inspired equally in all parts) Word of God (1 Corinthians 2:7-14; 2 Peter 1:20-21). We teach that the Word of God is an objective, propositional revelation (1 Thessalonians 2:13; 1 Corinthians 2:13), verbally inspired in every word (2 Timothy 3:16), absolutely inerrant in the original documents, infallible, and God-breathed.
 
@@ -65,13 +64,13 @@ doctrinal-statement-body: |-
 
   We teach that, whereas there may be several applications of any given passage of Scripture, there is but one true interpretation. The meaning of Scripture is to be found as one diligently applies the literal grammatical-historical method of interpretation under the enlightenment of the Holy Spirit (John 7:17; 16:12-15; 1 Corinthians 2:7-15; 1 John 2:20). It is the responsibility of believers to ascertain carefully the true intent and meaning of Scripture, recognizing that proper application is binding on all generations. Yet the truth of Scripture stands in judgment of men; never do men stand in judgment of it.
 
-  ## God
+  ### God
 
   We teach that there is but one living and true God (Deuteronomy 6:4; Isaiah 45:5-7; 1 Corinthians 8:4), an infinite, all-knowing Spirit (John 4:24), perfect in all His attributes, one in essence, eternally existing in three Persons—Father, Son, and Holy Spirit (Matthew 28:19; 2 Corinthians 13:14)—each equally deserving worship and obedience.
 
-  God the Father. We teach that God the Father, the first Person of the Trinity, orders and disposes all things according to His own purpose and grace (Psalm 145:8-9; 1 Corinthians 8:6). He is the Creator of all things (Genesis 1:1-31; Ephesians 3:9). As the only absolute and omnipotent Ruler in the universe, He is sovereign in creation, providence, and redemption (Psalm 103:19; Romans 11:36). His fatherhood involves both His designation within the Trinity and His relationship with mankind. As Creator He is Father to all men (Ephesians 4:6), but He is spiritual Father only to believers (Romans 8:14; 2 Corinthians 6:18). He has decreed for His own glory all things that come to pass (Ephesians 1:11). He continually upholds, directs, and governs all creatures and events (1 Chronicles 29:11). In His sovereignty He is neither the author nor approver of sin (Habakkuk 1:13; John 8:38-47), nor does He abridge the accountability of moral, intelligent creatures (1 Peter 1:17). He has graciously chosen from eternity past those whom He would have as His own (Ephesians 1:4-6); He saves from sin all who come to Him through Jesus Christ; He adopts as His own all those who come to Him; and He becomes, upon adoption, Father to His own (John 1:12; Romans 8:15; Galatians 4:5; Hebrews 12:5-9).
+  **God the Father**. We teach that God the Father, the first Person of the Trinity, orders and disposes all things according to His own purpose and grace (Psalm 145:8-9; 1 Corinthians 8:6). He is the Creator of all things (Genesis 1:1-31; Ephesians 3:9). As the only absolute and omnipotent Ruler in the universe, He is sovereign in creation, providence, and redemption (Psalm 103:19; Romans 11:36). His fatherhood involves both His designation within the Trinity and His relationship with mankind. As Creator He is Father to all men (Ephesians 4:6), but He is spiritual Father only to believers (Romans 8:14; 2 Corinthians 6:18). He has decreed for His own glory all things that come to pass (Ephesians 1:11). He continually upholds, directs, and governs all creatures and events (1 Chronicles 29:11). In His sovereignty He is neither the author nor approver of sin (Habakkuk 1:13; John 8:38-47), nor does He abridge the accountability of moral, intelligent creatures (1 Peter 1:17). He has graciously chosen from eternity past those whom He would have as His own (Ephesians 1:4-6); He saves from sin all who come to Him through Jesus Christ; He adopts as His own all those who come to Him; and He becomes, upon adoption, Father to His own (John 1:12; Romans 8:15; Galatians 4:5; Hebrews 12:5-9).
 
-  God the Son. We teach that Jesus Christ, the second Person of the Trinity, possesses all the divine excellencies, and in these He is coequal, consubstantial, and coeternal with the Father (John 10:30; 14:9).
+  **God the Son**. We teach that Jesus Christ, the second Person of the Trinity, possesses all the divine excellencies, and in these He is coequal, consubstantial, and coeternal with the Father (John 10:30; 14:9).
 
   We teach that God the Father created according to His own will, through His Son, Jesus Christ, by whom all things continue in existence and in operation (John 1:3; Colossians 1:15-17; Hebrews 1:2).
 
@@ -103,7 +102,7 @@ doctrinal-statement-body: |-
 
   As the Mediator between God and man (1 Timothy 2:5), the Head of His Body the church (Ephesians 1:22; 5:23; Colossians 1:18), and the coming universal King, who will reign on the throne of David (Isaiah 9:6; Luke 1:31-33), He is the final Judge of all who fail to place their trust in Him as Lord and Savior (Matthew 25:14-46; Acts 17:30-31).
 
-  God the Holy Spirit. We teach that the Holy Spirit is a divine Person, eternal, underived, possessing all the attributes of personality and deity, including intellect (1 Corinthians 2:10-13), emotions (Ephesians 4:30), will (1 Corinthians 12:11), eternality (Hebrews 9:14), omnipresence (Psalm 139:7-10), omniscience (Isaiah 40:13-14), omnipotence (Romans 15:13), and truthfulness (John 16:13). In all the divine attributes He is coequal and consubstantial with the Father and the Son (Matthew 28:19; Acts 5:3-4; 28:25-26; 1 Corinthians 12:4-6; 2 Corinthians 13:14; Jeremiah 31:31-34 with Hebrews 10:15-17).
+  **God the Holy Spirit**. We teach that the Holy Spirit is a divine Person, eternal, underived, possessing all the attributes of personality and deity, including intellect (1 Corinthians 2:10-13), emotions (Ephesians 4:30), will (1 Corinthians 12:11), eternality (Hebrews 9:14), omnipresence (Psalm 139:7-10), omniscience (Isaiah 40:13-14), omnipotence (Romans 15:13), and truthfulness (John 16:13). In all the divine attributes He is coequal and consubstantial with the Father and the Son (Matthew 28:19; Acts 5:3-4; 28:25-26; 1 Corinthians 12:4-6; 2 Corinthians 13:14; Jeremiah 31:31-34 with Hebrews 10:15-17).
 
   We teach that it is the work of the Holy Spirit to execute the divine will with relation to all mankind. We recognize His sovereign activity in creation (Genesis 1:2), the incarnation (Matthew 1:18), the written revelation (2 Peter 1:20-21), and the work of salvation (John 3:5-7).
 
@@ -119,7 +118,7 @@ doctrinal-statement-body: |-
 
   ## Man
 
-  We teach that man was directly and immediately created by God in His image and likeness. Man was created free of sin with a rational nature, intelligence, volition, self-determination, and moral responsibility to God (Genesis 2:7, 15-25; James 3:9). Man was also created by God as either male or female, biologically defined and distinct sexes (Gen. 1:27; 2:5-23; 1 Cor. 11:11-15; Rom. 1:26-27) set by God for each individual (Ps. 119:13-14). Confusion between the two is an abomination to Him (Lev. 8:22; Deut. 22:5; Rom. 1:26-27; 1 Cor. 6:9).\
+  We teach that man was directly and immediately created by God in His image and likeness. Man was created free of sin with a rational nature, intelligence, volition, self-determination, and moral responsibility to God (Genesis 2:7, 15-25; James 3:9). Man was also created by God as either male or female, biologically defined and distinct sexes (Gen. 1:27; 2:5-23; 1 Cor. 11:11-15; Rom. 1:26-27) set by God for each individual (Ps. 119:13-14). Confusion between the two is an abomination to Him (Lev. 8:22; Deut. 22:5; Rom. 1:26-27; 1 Cor. 6:9).
 
   We teach that God’s intention in the creation of man was that man should glorify God, enjoy God’s fellowship, live his life in the will of God, and by this accomplish God’s purpose for man in the world (Isaiah 43:7; Colossians 1:16; Revelation 4:11).
 
@@ -127,7 +126,7 @@ doctrinal-statement-body: |-
 
   We teach that, because all men were in Adam, a nature corrupted by Adam’s sin has been transmitted to all men of all ages, Jesus Christ being the only exception. All men are thus sinners by nature, by choice, and by divine declaration (Psalm 14:1-3; Jeremiah 17:9; Romans 3:9-18, 23; 5:10-12).
 
-  ## Salvation
+  ### Salvation
 
   We teach that salvation is wholly of God by grace on the basis of the redemption of Jesus Christ, the merit of His shed blood, and not on the basis of human merit or works (John 1:12; Ephesians 1:7; 2:8-10; 1 Peter 1:18-19).
 
@@ -161,7 +160,7 @@ doctrinal-statement-body: |-
 
   We teach that believers should be separated unto our Lord Jesus Christ (2 Thessalonians 1:11-12; Hebrews 12:1-2) and affirm that the Christian life is a life of obedient righteousness that reflects the teaching of the Beatitudes (Matthew 5:2-12) and a continual pursuit of holiness (Romans 12:1-2; 2 Corinthians 7:1; Hebrews 12:14; Titus 2:11-14; 1 John 3:1-10).
 
-  ## The Church
+  ### The Church
 
   We teach that all who place their faith in Jesus Christ are immediately placed by the Holy Spirit into one united spiritual Body, the church (1 Corinthians 12:12-13), the bride of Christ (2 Corinthians 11:2; Ephesians 5:23-32; Revelation 19:7-8), of which Christ is the Head (Ephesians 1:22; 4:15; Colossians 1:18).
 
@@ -193,7 +192,7 @@ doctrinal-statement-body: |-
 
   We teach that the Lord’s Supper is the commemoration and proclamation of His death until He comes, and should be always preceded by solemn self-examination (1 Corinthians 11:28-32). We also teach that, whereas the elements of Communion are only representative of the flesh and blood of Christ, participation in the Lord’s Supper is nevertheless an actual communion with the risen Christ, who indwells every believer, and so is present, fellowshipping with His people (1 Corinthians 10:16).
 
-  ## Angels
+  ### Angels
 
   Holy Angels. We teach that angels are created beings and are therefore not to be worshiped. Although they are a higher order of creation than man, they are created to serve God and to worship Him (Luke 2:9-14; Hebrews 1:6-7, 14; 2:6-7; Revelation 5:11-14; 19:10; 22:9).
 
@@ -201,7 +200,7 @@ doctrinal-statement-body: |-
 
   We teach that Satan is the open and declared enemy of God and man (Isaiah 14:13-14; Matthew 4:1-11; Revelation 12:9-10); that he is the prince of this world, who has been defeated through the death and resurrection of Jesus Christ (Romans 16:20); and that he shall be eternally punished in the lake of fire (Isaiah 14:12-17; Ezekiel 28:11-19; Matthew 25:41; Revelation 20:10).
 
-  ## Last Things
+  ### Last Things
 
   1. We teach that physical death involves no loss of our immaterial consciousness (Revelation 6:9-11), that the soul of the redeemed passes immediately into the presence of Christ (Luke 23:43; Philippians 1:23; 2 Corinthians 5:8), that there is a separation of soul and body (Philippians 1:21-24), and that, for the redeemed, such separation will continue until the rapture (1 Thessalonians 4:13-17), which initiates the first resurrection (Revelation 20:4-6), when our soul and body will be reunited to be glorified forever with our Lord (Philippians 3:21; 1 Corinthians 15:35-44, 50-54). Until that time, the souls of the redeemed in Christ remain in joyful fellowship with our Lord Jesus Christ (2 Corinthians 5:8).
 
@@ -209,37 +208,37 @@ doctrinal-statement-body: |-
 
   We teach that the souls of the unsaved at death are kept under punishment until the second resurrection (Luke 16:19-26; Revelation 20:13-15), when the soul and the resurrection body will be united (John 5:28-29). They shall then appear at the Great White Throne Judgment (Revelation 20:11-15) and shall be cast into hell, the lake of fire (Matthew 25:41-46), cut off from the life of God forever (Daniel 12:2; Matthew 25:41-46; 2 Thessalonians 1:7-9).
 
-  The Rapture of the Church. We teach the personal, bodily return of our Lord Jesus Christ before the seven-year tribulation (1 Thessalonians 4:16; Titus 2:13) to translate His church from this earth (John 14:1-3; 1 Corinthians 15:51-53; 1 Thessalonians 4:15-5:11) and, between this event and His glorious return with His saints, to reward believers according to their works (1 Corinthians 3:11-15; 2 Corinthians 5:10).
+  **The Rapture of the Church**. We teach the personal, bodily return of our Lord Jesus Christ before the seven-year tribulation (1 Thessalonians 4:16; Titus 2:13) to translate His church from this earth (John 14:1-3; 1 Corinthians 15:51-53; 1 Thessalonians 4:15-5:11) and, between this event and His glorious return with His saints, to reward believers according to their works (1 Corinthians 3:11-15; 2 Corinthians 5:10).
 
-  The Tribulation Period. We teach that immediately following the removal of the church from the earth (John 14:1-3; 1 Thessalonians 4:13-18) the righteous judgments of God will be poured out upon an unbelieving world (Jeremiah 30:7; Daniel 9:27; 12:1; 2 Thessalonians 2:7-12; Revelation 16), and that these judgments will be climaxed by the return of Christ in glory to the earth (Matthew 24:27-31; 25:31-46; 2 Thessalonians 2:7-12). At that time the Old Testament and tribulation saints will be raised and the living will be judged (Daniel 12:2-3; Revelation 20:4-6). This period includes the seventieth week of Daniel’s prophecy (Daniel 9:24-27; Matthew 24:15-31; 25:31-46).
+  **The Tribulation Period**. We teach that immediately following the removal of the church from the earth (John 14:1-3; 1 Thessalonians 4:13-18) the righteous judgments of God will be poured out upon an unbelieving world (Jeremiah 30:7; Daniel 9:27; 12:1; 2 Thessalonians 2:7-12; Revelation 16), and that these judgments will be climaxed by the return of Christ in glory to the earth (Matthew 24:27-31; 25:31-46; 2 Thessalonians 2:7-12). At that time the Old Testament and tribulation saints will be raised and the living will be judged (Daniel 12:2-3; Revelation 20:4-6). This period includes the seventieth week of Daniel’s prophecy (Daniel 9:24-27; Matthew 24:15-31; 25:31-46).
 
-  The Second Coming and the Millennial Reign. We teach that, after the tribulation period, Christ will come to earth to occupy the throne of David (Matthew 25:31; Luke 1:31-33; Acts 1:10-11; 2:29-30) and establish His messianic kingdom for 1,000 years on the earth (Revelation 20:1-7). During this time the resurrected saints will reign with Him over Israel and all the nations of the earth (Ezekiel 37:21-28; Daniel 7:17-22; Revelation 19:11-16). This reign will be preceded by the overthrow of the Antichrist and the False Prophet, and by the removal of Satan from the world (Daniel 7:17-27; Revelation 20:1-7).
+  **The Second Coming and the Millennial Reign**. We teach that, after the tribulation period, Christ will come to earth to occupy the throne of David (Matthew 25:31; Luke 1:31-33; Acts 1:10-11; 2:29-30) and establish His messianic kingdom for 1,000 years on the earth (Revelation 20:1-7). During this time the resurrected saints will reign with Him over Israel and all the nations of the earth (Ezekiel 37:21-28; Daniel 7:17-22; Revelation 19:11-16). This reign will be preceded by the overthrow of the Antichrist and the False Prophet, and by the removal of Satan from the world (Daniel 7:17-27; Revelation 20:1-7).
 
   We teach that the kingdom itself will be the fulfillment of God’s promise to Israel (Isaiah 65:17-25; Ezekiel 37:21-28; Zechariah 8:1-17) to restore them to the land that they forfeited through their disobedience (Deuteronomy 28:15-68). The result of their disobedience was that Israel was temporarily set aside (Matthew 21:43; Romans 11:1-26), but will again be awakened through repentance to enter into the land of blessing (Jeremiah 31:31-34; Ezekiel 36:22-32; Romans 11:25-29).
 
   We teach that this time of our Lord’s reign will be characterized by harmony, justice, peace, righteousness, and long life (Isaiah 11; 65:17-25; Ezekiel 36:33-38), and will be brought to an end with the release of Satan (Revelation 20:7).
 
-  The Judgment of the Lost. We teach that following the release of Satan after the 1,000-year reign of Christ (Revelation 20:7), Satan will deceive the nations of the earth and gather them to battle against the saints and the beloved city, at which time Satan and his army will be devoured by fire from heaven (Revelation 20:9). Following this, Satan will be thrown into the lake of fire and brimstone (Matthew 25:41; Revelation 20:10), whereupon Christ, who is the Judge of all men (John 5:22), will resurrect and judge the great and small at the Great White Throne Judgment.
+  **The Judgment of the Lost**. We teach that following the release of Satan after the 1,000-year reign of Christ (Revelation 20:7), Satan will deceive the nations of the earth and gather them to battle against the saints and the beloved city, at which time Satan and his army will be devoured by fire from heaven (Revelation 20:9). Following this, Satan will be thrown into the lake of fire and brimstone (Matthew 25:41; Revelation 20:10), whereupon Christ, who is the Judge of all men (John 5:22), will resurrect and judge the great and small at the Great White Throne Judgment.
 
   We teach that this resurrection of the unsaved dead to judgment will be a physical resurrection, whereupon receiving their judgment (John 5:28-29), they will be committed to an eternal conscious punishment in the lake of fire (Matthew 25:41; Revelation 20:11-15).
 
   1. We teach that after the closing of the millennium, the temporary release of Satan, and the judgment of unbelievers (2 Thessalonians 1:9; Revelation 20:7-15), the saved will enter the eternal state of glory with God, after which the elements of this earth are to be dissolved (2 Peter 3:10) and replaced with a new earth, wherein only righteousness dwells (Ephesians 5:5; Revelation 20:15; 21:1-27; 22:1-21). Following this, the heavenly city will come down out of heaven (Revelation 21:2) and will be the dwelling place of the saints, where they will enjoy forever fellowship with God and one another (John 17:3; Revelation 21-22). Our Lord Jesus Christ, having fulfilled His redemptive mission, will then deliver up the kingdom to God the Father (1 Corinthians 15:24-28), that in all spheres the triune God may reign forever and ever (1 Corinthians 15:28).
 
-  ## What It Means To Be a Christian
+  ### What It Means To Be a Christian
 
-  Being a Christian is more than identifying yourself with a particular religion or affirming a certain value system. Being a Christian means you have embraced what the Bible says about God, mankind, and salvation. Consider the following truths found in Scripture.
+  Being a Christian is more than identifying yourself with a particular religion or affirming a certain value system. Being a Christian means you have embraced what the Bible says about God, mankind, and salvation. Consider the following truths found in Scripture:
 
-  God Is Sovereign Creator. Contemporary thinking says man is the product of evolution. But the Bible says we were created by a personal God to love, serve, and enjoy endless fellowship with Him. The New Testament reveals it was Jesus Himself who created everything (John 1:3; Colossians 1:16). Therefore, He also owns and rules everything (Psalm 103:19). That means He has authority over our lives and we owe Him absolute allegiance, obedience, and worship.
+  **God Is Sovereign Creator**. Contemporary thinking says man is the product of evolution. But the Bible says we were created by a personal God to love, serve, and enjoy endless fellowship with Him. The New Testament reveals it was Jesus Himself who created everything (John 1:3; Colossians 1:16). Therefore, He also owns and rules everything (Psalm 103:19). That means He has authority over our lives and we owe Him absolute allegiance, obedience, and worship.
 
-  God Is Holy. God is absolutely and perfectly holy (Isaiah 6:3), therefore He cannot commit or approve of evil (James 1:13). God requires holiness of us as well. First Peter 1:16 says, "You shall be holy, for I am holy."
+  **God Is Holy**. God is absolutely and perfectly holy (Isaiah 6:3), therefore He cannot commit or approve of evil (James 1:13). God requires holiness of us as well. First Peter 1:16 says, "You shall be holy, for I am holy."
 
-  Mankind Is Sinful. According to Scripture, everyone is guilty of sin: "There is no man who does not sin" (1 Kings 8:46). That doesn’t mean we’re incapable of performing acts of human kindness. But we’re utterly incapable of understanding, loving, or pleasing God on our own. (Romans 3:10-12).
+  **Mankind Is Sinful**. According to Scripture, everyone is guilty of sin: "There is no man who does not sin" (1 Kings 8:46). That doesn’t mean we’re incapable of performing acts of human kindness. But we’re utterly incapable of understanding, loving, or pleasing God on our own. (Romans 3:10-12).
 
-  Sin Demands a Penalty. God’s holiness and justice demand that all sin be punished by death: (Ezekiel 18:4). That’s why simply changing our patterns of behavior can’t solve our sin problem or eliminate its consequences.
+  **Sin Demands a Penalty**. God’s holiness and justice demand that all sin be punished by death: (Ezekiel 18:4). That’s why simply changing our patterns of behavior can’t solve our sin problem or eliminate its consequences.
 
-  Jesus Is Lord and Savior. The New Testament reveals it was Jesus Himself who created everything (Colossians 1:16). Therefore He owns and rules everything (Psalm 103:19). That means He has authority over our lives and we owe Him absolute allegiance, obedience, and worship. Romans 10:9 says, “If you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you shall be saved.” Even though God’s justice demands death for sin, His love has provided a Savior who paid the penalty and died for sinners (1 Peter 3:18). Christ’s death satisfied the demands of God’s justice and Christ’s perfect life satisfied the demands of God’s holiness (2 Corinthians 5:21), thereby enabling Him to forgive and save those who place their faith in Him (Romans 3:26).
+  **Jesus Is Lord and Savior**. The New Testament reveals it was Jesus Himself who created everything (Colossians 1:16). Therefore He owns and rules everything (Psalm 103:19). That means He has authority over our lives and we owe Him absolute allegiance, obedience, and worship. Romans 10:9 says, “If you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you shall be saved.” Even though God’s justice demands death for sin, His love has provided a Savior who paid the penalty and died for sinners (1 Peter 3:18). Christ’s death satisfied the demands of God’s justice and Christ’s perfect life satisfied the demands of God’s holiness (2 Corinthians 5:21), thereby enabling Him to forgive and save those who place their faith in Him (Romans 3:26).
 
-  The Character of Saving Faith. True faith is always accompanied by repentance from sin. Repentance is agreeing with God that you are sinful, confessing your sins to Him, and making a conscious choice to turn from sin (Luke 13:3,5; 1 Thessalonians 1:9) and pursue Christ (Matthew 11:28-30; John 17:3) and obedience to Him (1 John 2:3). It isn’t enough to believe certain facts about Christ. Even Satan and his demons believe in the true God (James 2:19), but they don’t love and obey Him. True saving faith always responds in obedience (Ephesians 2:10).
+  **The Character of Saving Faith**. True faith is always accompanied by repentance from sin. Repentance is agreeing with God that you are sinful, confessing your sins to Him, and making a conscious choice to turn from sin (Luke 13:3,5; 1 Thessalonians 1:9) and pursue Christ (Matthew 11:28-30; John 17:3) and obedience to Him (1 John 2:3). It isn’t enough to believe certain facts about Christ. Even Satan and his demons believe in the true God (James 2:19), but they don’t love and obey Him. True saving faith always responds in obedience (Ephesians 2:10).
 history-body: |-
   “These first ten wonderful years prove beyond question the Lord has been our ‘Ebenezer’… In the light of this truth our faith cannot doubt that in the days ahead He will be our ‘Jehovah-Jireh’—‘The Lord will provide.’”
 
@@ -266,7 +265,9 @@ history-body: |-
 
   \
   ![Dr. John F. MacArthur](http://www.masters.edu/media/865425/history-of-tmc-dr-macarthur.jpg?width=212px&height=295px)\
-  Dr. John F. MacArthurWhen Dr. Dunkin announced his resignation in 1984, the board of directors began to search for a qualified successor, which they found in Dr. John MacArthur, pastor of Grace Community Church. Though Dr. MacArthur was not a part of the Baptist denomination, he was in complete agreement with the college’s doctrine and statement of faith and agreed to assume the position in 1985, while maintaining his pastorate and “Grace to You” radio ministry. That same year, LABC’s name was changed to The Master's College, a joint decision of Dr. MacArthur and the board of directors, who agreed that the school should become nondenominational.
+  Dr. John F. MacArthur
+
+  When Dr. Dunkin announced his resignation in 1984, the board of directors began to search for a qualified successor, which they found in Dr. John MacArthur, pastor of Grace Community Church. Though Dr. MacArthur was not a part of the Baptist denomination, he was in complete agreement with the college’s doctrine and statement of faith and agreed to assume the position in 1985, while maintaining his pastorate and “Grace to You” radio ministry. That same year, LABC’s name was changed to The Master's College, a joint decision of Dr. MacArthur and the board of directors, who agreed that the school should become nondenominational.
 
   One year after Dr. MacArthur’s inauguration, the student population nearly doubled in size, from 305 to 600. Today it continues to grow. Dr. MacArthur has remained the longest-serving president in the college’s history, overseeing another large academic expansion, including the addition of two Master’s Degree programs, an extension campus (IBEX) in the vicinity of Jerusalem, Israel, a Degree Completion Program for working adults, and an online degree program available to Christians around the world.
 
@@ -322,5 +323,6 @@ associated-organizations:
 - name: The Master's Seminary
   link: https://www.tms.edu/
   logo: 
+layout: about
 ---
 
