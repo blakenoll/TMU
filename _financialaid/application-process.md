@@ -16,16 +16,16 @@ what-is-financial-aid-body: |-
 helpful-links-body: |-
   ## Helpful Links
 
-  [The Student Guide](http://studentaid.ed.gov/students/publications/student_guide/index.html)\
+  [The Student Guide](http://studentaid.ed.gov/students/publications/student_guide/index.html)
   Published by the Department of Education, the Student Guide is the most comprehensive resource on student financial aid.
 
-  [FAFSA on the Web](http://www.fafsa.ed.gov/)\
+  [FAFSA on the Web](http://www.fafsa.ed.gov/)
   Complete your Free Application for Federal Student Aid (FAFSA) online.
 
-  [CollegeBoard](http://collegeboard.com/student/pay/)\
+  [CollegeBoard](http://collegeboard.com/student/pay/)
   From the creators of the SAT, PSAT and ACT, CollegeBoard.com is the “inside source” to all that is involved with preparing for, choosing, and financing college.
 
-  [Fastweb](http://www.fastweb.com/)\
+  [Fastweb](http://www.fastweb.com/)
   An easy to use, comprehensive scholarship search engine to help you find a variety of scholarships and loans that best fit your needs.
 financial-aid-terms-body: |-
   ## Financial Aid Terms
