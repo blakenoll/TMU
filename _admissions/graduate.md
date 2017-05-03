@@ -19,13 +19,11 @@ To be considered for admission into the graduate studies program, you will need 
 
 5. Reference forms: [academic](http://www.masters.edu/media/865707/grad-academic-reference-form.pdf), [pastoral](http://www.masters.edu/media/865706/grad-pastor-reference-update-form.pdf) (or other lay-leader), and [personal](http://www.masters.edu/media/865708/grad-personal-reference-form.pdf) (forms provided with application)
 
-6. MABC Applicants Only: Writing sample, a 10-15 page sample of your academic work, demonstrating graduate study capability.\
+6. MABC Applicants Only: Writing sample, a 10-15 page sample of your academic work, demonstrating graduate study capability.
 
 \*Prospective students of the Teaching Credential, Online program, or Seminary programs should consult those departments for application requirements and procedures.
 
 **Application Deadlines:**
-
-                              Domestic      International
 
 Summer Term -                  March 1          December 15
 
@@ -60,11 +58,11 @@ Applications may be submitted after the deadline, but we cannot guarantee that t
 
 * **[Supplemental Personal Statements Form](http://www.masters.edu/media/865705/grad-supplemental-personal-statements-form.pdf "grad supplemental personal statements form.pdf")**
 
-  * **NOTE: you do ***not* need to complete this document if you are a student from The Master’s Seminary looking to take only a small amount of MABC courses to satisfy electives for the TMS M.Div. program.
+  * \*\*NOTE: you do \*\**not* need to complete this document if you are a student from The Master’s Seminary looking to take only a small amount of MABC courses to satisfy electives for the TMS M.Div. program.
 
   * All other applicants (including TMS applicants who wish to complete the entire MABC or MABS program) *do* need to complete this form.
 
-  * You may email your completed Supplemental Personal Statements to [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu) (be sure to clearly indicate your full nameand which program you are applying for in your email); or if you prefer, you may mail a hard copy to the address below.
+  * You may email your completed Supplemental Personal Statements to [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu) (be sure to clearly indicate your full name and which program you are applying for in your email); or if you prefer, you may mail a hard copy to the address below.
 
 * **[Academic Reference Form](http://www.masters.edu/media/865707/grad-academic-reference-form.pdf "grad academic reference form.pdf")**
 
@@ -75,14 +73,14 @@ Applications may be submitted after the deadline, but we cannot guarantee that t
 
 * **[Pastor/Church Leader Reference Form](http://www.masters.edu/media/865706/grad-pastor-reference-update-form.pdf "grad pastor reference update form.pdf")**
 
-  * **Once you have completed the top portion of this form, please give this reference form to a pastor, elder, or leader in your local church who can confidently and accurately respond to these questions about you. ***NOTE: Do not give this form to a relative.*
+  * \*\*Once you have completed the top portion of this form, please give this reference form to a pastor, elder, or leader in your local church who can confidently and accurately respond to these questions about you. \*\**NOTE: Do not give this form to a relative.*
 
   * Please provide your reference with a stamped envelope to be mailed to the address listed below.
 
 
 * **[Personal Reference Form](http://www.masters.edu/media/865708/grad-personal-reference-form.pdf "grad personal reference form.pdf")**
 
-  * **Once you have completed the top portion of this form, please give this reference form to an individual who knows you well and can confidently andaccurately respond to these questions about you. ***NOTE: Do not give this form to a relative.*
+  * \*\*Once you have completed the top portion of this form, please give this reference form to an individual who knows you well and can confidently and accurately respond to these questions about you. \*\**NOTE: Do not give this form to a relative.*
 
   * Please provide your reference with a stamped envelope to be mailed to the address listed below.
 
@@ -116,4 +114,4 @@ Credits from other institutions are generally not accepted for transfer due to t
 
 ## International Students
 
-The Master's University is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the College. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.\
+The Master's University is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the College. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
