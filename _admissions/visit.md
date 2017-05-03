@@ -1,5 +1,6 @@
 ---
 title: Visit
+position: 2
 View-The-U-body: 
 Personal-Visit-body: |-
   **We Want You On Campus!**
