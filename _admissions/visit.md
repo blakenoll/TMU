@@ -22,7 +22,7 @@ Personal-Visit-body: |-
 
   **Please Note: If you are planning to stay with us overnight you MUST review our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/). This provides important information for individual and group visits. Every overnight visitor must turn in a completed [Overnight Stay Release Form](http://www.masters.edu/media/343794/activity%20release%20form.pdf).**
 
-  **Our offices are closed on the following dates during the 2016-2017 School Year (if your visit falls on a Mondays at Master’s or a College View Weekend, please sign up for either of those events on the M[ondays at Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays") page and the [View Weekend](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends") page):**
+  **Our offices are closed on the following dates during the 2016-2017 School Year (if your visit falls on a Mondays at Master’s or a College View Weekend, please sign up for either of those events on the [Mondays at Master’s](http://www.masters.edu/undergrad/visit/mondays/) page and the [View Weekend](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends") page):**
 
   > * **September 7, 2016: Closed for Labor Day**
   >
@@ -66,10 +66,13 @@ Mondays-At-Masters-body: |-
 
   ## **Mondays @ Master's Dates:**
 
-  **September 19, 2016\
-  November 14, 2016\
-  February 13, 2017\
-  April 10, 2017**
+  * **September 19, 2016**
+
+  * **November 14, 2016**
+
+  * **February 13, 2017**
+
+  * **April 10, 2017**
 
   **[CLICK HERE TO REGISTER](http://www.masters.edu/undergrad/visit/mondays/register/ "Register")**
 
