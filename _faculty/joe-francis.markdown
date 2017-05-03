@@ -1,9 +1,8 @@
 ---
 title: Joe Francis
 date: 2017-05-02 18:33:00 Z
-job-title: |-
-  Chairperson, Department of Biological and Physical Sciences and Department of Mathematics
-  Professor of Biological Sciences
+job-title: Chairperson, Department of Biological and Physical Sciences and Department
+  of Mathematics
 department: Sciences
 degrees:
 - B.S., Michigan State University
