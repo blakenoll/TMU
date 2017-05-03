@@ -26,7 +26,7 @@ layout: default
       {% for page in icons %}
       {% unless page.group == 'studentlife' %}
       <a href="{{ page.url | prepend: site.url }}">
-        <div class="col s6 m3">
+        <div class="col s6 m4">
           <div class="vector-card">
             <img src="{{ page.sm-image | prepend: site.url }}" alt="" width="100%">
             <h3 class="center">{{ page.title }}</h3>
