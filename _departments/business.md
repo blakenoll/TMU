@@ -43,63 +43,25 @@ careers:
 - Accounting
 - International Business
 why-at-masters-body: |-
-  ● Why at Master’s?
+  * The Master's University CPA scores rank above the biggest and best schools in California
 
-  ○ TEST SCORES--use charts, etc.
+  * Ranked top 7% nationally overall, top 5% in marketing, top 3% in finance
 
-  ■ CPA pass scores: we rank above biggest and best schools in CA
+  * NASBA report ranked TMU among the top 10 institutions nationally, and ranked second of similar-sized schools
 
-  ■ ETS test scores
+  * Our Professors won’t lower the workload or expectations, and students rise to the occasion and become successful businesspeople
 
-  ● Top 7% nationally overall
+  * “The program is strong and not watered down. You cannot just pass if you show up and take notes, you cannot fake it, you need to put the effort in”
 
-  ● Top 5% in marketing, Top 3% in finance
+  * B.A. grads in high demand
 
-  ● Top school in CA
+  * Employers request more Master’s grads than we have to give them
 
-  ■ NASBA report ranked TMU among the top 10 institutions nationally,
+  * Good, honest workers with integrity are very successful even without M.B.A.s
 
-  second of similar-sized schools
+  * Of CA resident business alumni, after two years have average $43,000 salaries, after 10 years average $112,709
 
-  ■ “This is why we know we’re good, and this is why we put ourselves up
-
-  against anybody.”
-
-  ○ “We haven’t changed.”
-
-  ■ Profs won’t lower the workload or expectations, and students rise to the
-
-  occasion and become successful businesspeople
-
-  ■ “The program is strong and not watered down. You cannot just pass if you show
-
-  up and take notes, you cannot fake it, you need to put the effort in”
-
-  ○ Biblical filter
-
-  ■ “Our students are taught why things matter”
-
-  ○ Professional teachers committed to educating students
-
-  ■ Teacher’s assistants never teach class
-
-  ● B.A. grads in high demand
-
-  ○ Employers request more Master’s grads than we have to give them
-
-  ○ Most choose to get employed through networks
-
-  ○ Good, honest workers with integrity are very successful even without M.B.A.s
-
-  ■ Of CA resident business alumni, after two years have average $43,000
-
-  salaries, after 10 years average $112,709
-
-  ● Professors
-
-  ○ Have served or actively serve as elders, deacons, and pastors
-
-  ○ Experienced in business, ministry, communications, law, and education
+  * Our professors have served or actively serve as elders, deacons, and pastors; they are experienced in business, ministry, communications, law, and education
 required-courses-body: |-
   ## **Business Administration Core Courses**
 
