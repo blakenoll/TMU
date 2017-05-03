@@ -2,6 +2,7 @@
 title: William C. Varner
 date: 2017-03-31 23:14:00 Z
 job-title: Professor of Bible & Greek
+image: "/uploads/varner.jpg"
 department: Bible
 grad-program: MABS
 degrees:

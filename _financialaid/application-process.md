@@ -16,57 +16,74 @@ what-is-financial-aid-body: |-
 helpful-links-body: |-
   ## Helpful Links
 
-  [The Student Guide](http://studentaid.ed.gov/students/publications/student_guide/index.html)\
+  [The Student Guide](http://studentaid.ed.gov/students/publications/student_guide/index.html)
+
   Published by the Department of Education, the Student Guide is the most comprehensive resource on student financial aid.
 
-  [FAFSA on the Web](http://www.fafsa.ed.gov/)\
+  [FAFSA on the Web](http://www.fafsa.ed.gov/)
+
   Complete your Free Application for Federal Student Aid (FAFSA) online.
 
-  [CollegeBoard](http://collegeboard.com/student/pay/)\
+  [CollegeBoard](http://collegeboard.com/student/pay/)
+
   From the creators of the SAT, PSAT and ACT, CollegeBoard.com is the “inside source” to all that is involved with preparing for, choosing, and financing college.
 
-  [Fastweb](http://www.fastweb.com/)\
+  [Fastweb](http://www.fastweb.com/)
+
   An easy to use, comprehensive scholarship search engine to help you find a variety of scholarships and loans that best fit your needs.
 financial-aid-terms-body: |-
   ## Financial Aid Terms
 
-  Free Application for Federal Student Aid (FAFSA)\
+  Free Application for Federal Student Aid (FAFSA)
+
   The [FAFSA](http://www.fafsa.ed.gov/) is the financial aid form used to determine eligibility for need-based aid. Available online, the FAFSA is submitted to the federal processor for evaluation. The evaluation is then sent to the student and to as many as six colleges of the student’s choosing.
 
-  **Student Aid Report (SAR)**\
+  **Student Aid Report (SAR)**
+
   Issued by the federal government and sent to the student after submitting the FAFSA, the SAR includes the information the student reported and an opportunity to make revisions or corrections. The SAR also informs the student of their Expected Family Contribution (EFC) and guides financial aid officers in determining federal and institutional monies
 
-  **Verification**\
+  **Verification**
+
   After completing the FAFSA, students and parents may be required to provide copies of their income tax returns and W-2s, as well as federal verification worksheets to the university. The federal processor often requires verification because the FAFSA is frequently filled out before taxes have been completed, and figures are based on estimated or projected information.
 
-  **Expected Family Contribution (EFC)**\
+  **Expected Family Contribution (EFC)**
+
   The amount the student and parents are expected to be able to pay toward educational expenses for the coming year. The EFC is calculated from a formula established by Congress, based on the information provided by the student on the FAFSA. The EFC is used by the school to determine what need-based aid a student qualifies for and may or may not reflect the actual amount that a family may be required to contribute for school costs.
 
-  **The Master’s University Financial Aid Application**\
+  **The Master’s University Financial Aid Application**
+
   This form is required by the TMU Office of Financial Aid in order to receive any federal, institutional or private aid. Both the [Financial Aid Application](http://www.masters.edu/media/869351/forms-application-faa.pdf "Forms- Application- FAA.pdf") and [FAFSA](http://www.fafsa.ed.gov/) are used to determine the aid offered to a student. Contact The Master’s University Office of Financial Aid if you have questions about this or if you would like our office to supply this form to you.
 
-  **FAFSA Waiver Form**\
+  **FAFSA Waiver Form**
+
   This form can be filled out by a student who wishes to be considered for merit-based aid *only* and does not wish to complete the FAFSA. It is recommended that a student thinking of waiving the FAFSA contact the TMU Office of Financial Aid before doing so.
 
-  **Financial Aid Package**\
+  **Financial Aid Package**
+
   The Financial Aid Package informs the student of the types and amounts of grants, scholarships, loans and/or work-study the student has been awarded. The student will be offered the Financial Aid Package in an Award Letter. He or she can then accept or decline the awards offered online.
 
-  **Stafford Loans**\
+  **Stafford Loans**
+
   Available to all students who file a FAFSA, Stafford Loans are federally funded and available through various lenders. Repayment on Stafford Loans begins six months after graduation. There are two types of Stafford Loans: Subsidized and Unsubsidized. The Subsidized Stafford Loan is available to students who demonstrate need. The Federal Government pays the interest on the loan until the student enters repayment. The Unsubsidized Stafford Loan is available to students who do not demonstrate need and does accrue interest while the student is in school.
 
-  **Parent Loan for Undergraduate Students (PLUS)**\
+  **Parent Loan for Undergraduate Students (PLUS)**
+
   Provided by the Federal Family Education Loan Program (FFELP), the PLUS is a loan for the parent of dependent students to help pay for college expenses. This loan is dependent on credit approval for the parent and may not exceed the institution’s estimated cost of attendance. For information on this loan, contact The Master’s University Office of Financial Aid.
 
-  **Pell Grants**\
+  **Pell Grants**
+
   Awarded by the Federal Government, Pell Grants are free money that does not have to be repaid. The student applies for the Pell Grant by filing the FAFSA and their eligibility is determined by the Federal Processor.
 
-  **Supplemental Education Opportunity Grants (SEOG)**\
+  **Supplemental Education Opportunity Grants (SEOG)**
+
   Financed by the Federal Government, SEOGs are free money that does not have to be repaid. They are awarded to students with exceptional need as determined by the institution based on the student’s SAR.
 
-  **Federal Work-Study**\
+  **Federal Work-Study**
+
   Awarded to students with financial need, federal work-study programs offer on or off-campus employment by which a student is able to earn money which is applied directly to college expenses.
 
-  **Special Circumstances**\
+  **Special Circumstances**
+
   Circumstances not reflected on the FAFSA may affect a student’s EFC. Such circumstances could include unusual medical or dental expenses, tuition expenses for younger siblings in private school or a change in employment for parent or student. The student should report any such conditions to the financial aid officer at the college(s) where the student is applying for financial aid.
 prior-year-body: |-
   ## Introduction:

@@ -33,13 +33,13 @@ title: Online
 
 ## **Graduate Admission Requirements**
 
-* **Application completed online which will inlcude:**
+* **Application completed online which will include:**
 
   * Your information, education, and personal testimony
 
 * 5-10 page research pager complete in your undergraduate programs
 
-* FOR MA - Biblical Studies Only:\
+* FOR MA - Biblical Studies Only:
 
   * Complete 18 semester units of undergraduate coursework that includes 6 units of New Testament, 6 units of Old Testament, and 6 units of Christian Theology OR,
 

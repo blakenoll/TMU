@@ -2,6 +2,7 @@
 title: Dennis L. Englin
 date: 2017-05-02 18:35:00 Z
 job-title: Professor of Biological Sciences
+image: "/uploads/englin.jpg"
 department: Sciences
 degrees:
 - B.A., Westmont College
