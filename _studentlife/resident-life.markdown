@@ -1,6 +1,7 @@
 ---
 title: Resident Life
 date: 2017-04-05 22:13:00 Z
+sm-image: "/uploads/StudentLife_ResidentLife.png"
 group: studentlife
 intro-body: 
 community-covenant-body: 
