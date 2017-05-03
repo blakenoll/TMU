@@ -4,7 +4,8 @@ sm-image: "/uploads/AcademicsGraduate_MABC.png"
 program-outline-text: |-
   The M.A. in Biblical Counseling is a 34 credit hour graduate degree program, designed to allow students to pursue in-depth training in Biblical Counseling.
 
-  Course Formats
+  ### Course Formats
+
 
   Courses are pursued through a combination of on-campus and distance education courses. The program is designed to give students maximum flexibility in progressing through the degree while also strategically offering instruction in the format best suited for effective educational training--serving both distance and local students. With these available formats, the entire degree may be earned without relocating to Southern California, although local students may experience additional mentoring because of their proximity to campus and additional ministry connections with the faculty.
 
@@ -14,19 +15,22 @@ program-outline-text: |-
 
   Intensive courses (available only during the Summer term) are designed to serve distance students especially, those in various parts of the world who are entrenched in their current ministries and without the ability to relocate to Southern California. Courses extend from May to August, but intensive lectures and classroom dialogue are conducted in a single week period always scheduled during the last two weeks of July. Preparatory and follow-up studies surround the intensive week. Students are encouraged to take four courses each summer (which include two weeks of intensive class meetings) in order to complete the on-campus requirement in 2 years. Each student will present his master’s thesis to the faculty and fellow students on-campus during the week of graduation, which is always held at the beginning of May.
 
-  Program Length
+  ### Program Length
+
 
   The program is optimally completed in two to four years, but program length may depend on the student's own schedule and external commitments. Typically, students complete their course work over a two to three year period, and their internship and research in an additional year. The degree must be completed within six years of enrollment.
 
-  Program Framework
+  **Program Framework**
+
 
   The M.A. in Biblical Counseling is awarded to students who succesfully fulfill the requirements of the following courses.
 
-  Pre-Requisite Course (Credits)
+  **Pre-Requisite Course (Credits)**
+
 
   BC090 Introduction to MABC Studies (0)
 
-  Required Courses (Credits)
+  **Required Courses (Credits)**
 
   BC501: Introduction to Biblical Counseling (2)
 
@@ -60,9 +64,11 @@ program-outline-text: |-
 
   BC598: Thesis Research (2)
 
-  \*Every student graduating from the MABC program will have completed all requirements for certification with the Association of Certified Biblical Counselors (ACBC), by nature of those requirements seamlessly woven into the curriculum of required courses.
 
-  Elective Course (Credits)
+  *Every student graduating from the MABC program will have completed all requirements for certification with the Association of Certified Biblical Counselors (ACBC), by nature of those requirements seamlessly woven into the curriculum of required courses.
+
+  **Elective Course (Credits)**
+
 
   The student will take an additional elective course, related to his specific research or counseling methodology interests.
 courses-body: |-
@@ -80,7 +86,7 @@ courses-body: |-
 
   This course is designed to critically analyze secular and evangelical integrationist theories of psychology and psychotherapy, and to recognize those theories or psychologies as part of larger belief systems, perhaps logically derived from erroneous starting points, while also comparing them to what has been revealed from Scripture and what falls into the study of theology, practical theology, and Biblical Counseling. The course will probe the anthropological presuppositions of treatment theory and seek to bring a thoroughly biblical critique to their foundational assumptions as well as methodology. Issues like theories of the subconscious, psychoanalytic approaches to personality, establishing norms, psychological testing, making the distinction between the normal and abnormal, major and mood disorders, schizophrenia and multiple personality disorders are among the psychological constructs and their popular theoreticians that will be explored. All persons encountered in counseling practice will have been exposed to foreign belief systems other than that promoted by the Scripture and, to various degrees, adopted those worldviews—even those who profess to know Christ in a saving way. Therefore, the wise counselor ought to be equipped to recognize points of departure from truth.
 
-  ## BC511 THEOLOGiCAL BASIS OF BIBLICAL COUNSELING\
+  ## BC511 THEOLOGiCAL BASIS OF BIBLICAL COUNSELING
 
   This course offers a consideration of the theological realities that form the basis of a proper approach to counseling. Special emphasis is given to the nature of God and of man (fallen and unfallen), a biblical definition of the image of God, the nature of sin, the realities of regeneration and progressive sanctification, the concept of “the flesh” (old man/new man), an understanding of the heart/mind as used in Scripture and the place of the local church in the ministry of counseling.
 
