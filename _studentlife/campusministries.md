@@ -1,5 +1,6 @@
 ---
 title: Director
+sm-image: "/uploads/StudentLife_Director.png"
 description: 
 director-body: |-
   ### Christian Johnson
