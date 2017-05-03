@@ -1,7 +1,7 @@
 ---
 title: Global Outreach
+sm-image: "/uploads/StudentLife_GlobalOutreach.png"
 group: studentlife
-layout: globo
 teams-body: |-
   The Master's University desires to provide each student with an opportunity to participate in and learn from the work of God in an overseas cross-cultural setting. Ministry opportunities are selected based on the following critical factors: partnership with a local church, evangelistic opportunities, vocational participation, length of service, and partnership with TMC alumni. Teams are formed at the end of the Fall semester, receive training during the spring semester, and serve overseas during the summer. All teams that minister through the Office of Global Outreach are led by students who are members of the Servant Leadership Staff.
 
@@ -477,5 +477,6 @@ faq-body: |-
   Tell your family and friends that they can give tax deductible donations toward your trip for Christmas. [www.masters.edu/supportGO](http://www.masters.edu/supportgo "Support GO")
 
   Gather addresses while you are home for people you will send letters to in late January.
+layout: globo
 ---
 
