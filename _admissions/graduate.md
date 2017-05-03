@@ -23,11 +23,17 @@ To be considered for admission into the graduate studies program, you will need 
 
 \*Prospective students of the Teaching Credential, Online program, or Seminary programs should consult those departments for application requirements and procedures.
 
-**Application Deadlines:**
+### **Application Deadlines**
 
-Summer Term -                  March 1          December 15
+**Summer Term **                 \
+Domestic: March 1
 
-Fall Term -                     July 1              April 15
+International: December 15
+
+**Fall Term **\
+Domestic: July 1 
+
+International: April 15
 
 Applications may be submitted after the deadline, but we cannot guarantee that they will be given equal consideration with those submitted on time. It is preferred that residential-local students begin studies in a fall term. Because the intensive-modular courses form both the foundation and anchor for the entire distance student's experience, we require distance students to start the program in a summer term. Exceptions are regularly made to this rule for applicants with a strong background in Biblical Studies (for MABS) or Biblical Counseling (for MABC) or for applicants starting their studies with a travel-study course; in such cases, permission for distance students to begin studies in the fall or spring terms is granted.
 
