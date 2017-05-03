@@ -22,8 +22,16 @@ a {
   color: $gold;
 }
 
+.admissions-a:before {
+  display: block;
+  content: " ";
+  margin-top: -285px;
+  height: 285px;
+  visibility: hidden;
+}
+
 .program-title {
-  font-size: 4rem;
+  font-size: 24pt;
 }
 .btn-navy {
   color: fff;
