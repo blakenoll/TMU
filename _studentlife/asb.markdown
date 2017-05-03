@@ -1,6 +1,7 @@
 ---
 title: ASB
 date: 2017-04-06 19:03:00 Z
+sm-image: "/uploads/StudentLife_ASB.png"
 your-asb-body: |-
   ASB exists as a student-led extension of the Student Life department. We are here to facilitate exciting social events and inspiring opportunities for service that promote community on campus. In addition we provide the students and administration of TMU with a vital communication link.
 
