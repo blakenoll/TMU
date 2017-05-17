@@ -168,3 +168,4 @@ required-courses-body: |-
 
   3. A maximum of two (non-general education) upper division courses from another department may be used to satisfy the “additional upper division mathematics courses” requirement, subject to the prior approval of the student’s adviser.
 ---
+
