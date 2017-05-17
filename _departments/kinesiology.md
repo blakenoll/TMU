@@ -1,5 +1,6 @@
 ---
 title: Kinesiology
+parallax-img: "/images/Parallax3.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Kinesiology.png"
 description: At the Master’s University the Kinesiology and Physical Education department
   prepares students to work with the human body as members of the Body of Christ.
@@ -261,4 +262,3 @@ required-courses-body: |-
 
   Total units required for minor (30)
 ---
-

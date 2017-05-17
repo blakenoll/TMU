@@ -1,5 +1,6 @@
 ---
 title: Sciences
+parallax-img: "/images/Parallax2.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Sciences.png"
 description: Dedicated to developing lifelong patterns of intellectual growth while
   also being uncompromising in the faith, the Science Department is committed to producing
@@ -267,4 +268,3 @@ required-courses-body: |-
 
   Total units required for minor (25)
 ---
-

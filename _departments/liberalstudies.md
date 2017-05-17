@@ -1,5 +1,6 @@
 ---
 title: Liberal Studies
+parallax-img: "/images/Parallax1.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Liberal%20Studies.png"
 description: The classroom and educational experience for each student, whether they
   are in kindergarten or college, falls largely on the attitude and skill of their
@@ -220,4 +221,3 @@ required-courses-body: |-
 
   The University policies for minimum course grades apply. Note: TMU’s Teaching Credential Program has minimum course grade requirements for courses with an ED prefix and a minimum grade point average requirement. See the Admissions portion of the Teaching Credential Program section of this catalog.
 ---
-

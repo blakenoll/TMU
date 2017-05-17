@@ -1,5 +1,6 @@
 ---
 title: English
+parallax-img: "/images/Parallax11.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_English.png"
 description: 'The Department of English at The Master’s University regards the study
   of language and literature as central to the Christian liberal arts education. It
@@ -121,4 +122,3 @@ required-courses-body: |-
 
   Total units required for minor (24)
 ---
-

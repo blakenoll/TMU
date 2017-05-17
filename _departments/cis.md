@@ -1,5 +1,6 @@
 ---
 title: Computer and Information Sciences
+parallax-img: "/images/Parallax8.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Computer%20&%20Information%20Sciences.png"
 description: From phone apps and video games to InDesign and Spotify, technology and
   programming is a dominant force in every country, business and stage of life. There

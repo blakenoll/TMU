@@ -1,5 +1,6 @@
 ---
 title: History
+parallax-img: "/images/Parallax9.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_History.png"
 description: |-
   The Department of History and Political Studies is designed to help all students develop an understanding of the complex factors that have produced the civilizations of the present and also aid students in becoming responsible Christian citizens. Especially because of our emphasis on systematic research and analysis, the History and Political Studies majors receive instruction in preparing for careers in education, business, government service, public relations, or library work, as well as graduate study in law, theology, history, or political science.
@@ -86,4 +87,3 @@ prof-publications-body: 'Prof. Owen--The Hidden History of the Historic Fundamen
   1933-1948: Reconsidering the Historic Fundamentalists'' Response to the Upheavals,
   Hardships and Horrors of the 1930s and 1940s'
 ---
-

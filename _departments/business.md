@@ -1,5 +1,6 @@
 ---
 title: Business
+parallax-img: "/images/Parallax3.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Business.png"
 description: |-
   The Master’s University Business department can’t keep up with the requests from satisfied

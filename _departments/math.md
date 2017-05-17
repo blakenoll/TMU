@@ -1,5 +1,6 @@
 ---
 title: Math
+parallax-img: "/images/Parallax4.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Math.png"
 description: There is a massive need for mathematicians and very few people to help
   fill that gap. The small class sizes are optimal for detailed, personal, and focused
@@ -167,4 +168,3 @@ required-courses-body: |-
 
   3. A maximum of two (non-general education) upper division courses from another department may be used to satisfy the “additional upper division mathematics courses” requirement, subject to the prior approval of the student’s adviser.
 ---
-
