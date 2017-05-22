@@ -142,7 +142,7 @@ a {
 }
 
 #nav-mobile {
-  margin-top: 40px;
+  margin-top: 0px;
 }
 
 
@@ -350,13 +350,13 @@ a {
 }
 @media only screen and (min-width: 993px) {
   nav.nav-extended {
-    height: 150px;
+    height: 100px;
   }
 }
 
 @media only screen and (min-width: 601px) {
   .navbar-fixed {
-    height: 150px;
+    height: 100px;
   }
 }
 
