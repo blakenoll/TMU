@@ -262,3 +262,4 @@ required-courses-body: |-
 
   Total units required for minor (30)
 ---
+

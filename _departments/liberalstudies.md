@@ -221,3 +221,4 @@ required-courses-body: |-
 
   The University policies for minimum course grades apply. Note: TMU’s Teaching Credential Program has minimum course grade requirements for courses with an ED prefix and a minimum grade point average requirement. See the Admissions portion of the Teaching Credential Program section of this catalog.
 ---
+

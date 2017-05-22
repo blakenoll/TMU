@@ -87,3 +87,4 @@ prof-publications-body: 'Prof. Owen--The Hidden History of the Historic Fundamen
   1933-1948: Reconsidering the Historic Fundamentalists'' Response to the Upheavals,
   Hardships and Horrors of the 1930s and 1940s'
 ---
+
