@@ -206,7 +206,7 @@ a {
 }
 
 #home-logo {
-  width: 255px;
+  width: 240px;
 }
 
 #search {
@@ -287,6 +287,14 @@ a {
 
 .no-boxshadow {
   box-shadow: none;
+}
+
+#header {
+  box-shadow: none;
+}
+
+#header.active {
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
 }
 
 .wht-a {
