@@ -314,15 +314,16 @@ associated-organizations:
   logo: https://www.gracechurch.org/Content/images/gcc-logo-2014@2x.png
 - name: 'Grace to You '
   link: https://gty.org
-  logo:
+  logo: 
 - name: Shepard's Conference
   link: http://www.shepherdsconference.org/
-  logo:
+  logo: 
 - name: The Master's Academy International
   link: http://tmai.org/
-  logo:
+  logo: 
 - name: The Master's Seminary
   link: https://www.tms.edu/
-  logo:
+  logo: 
 layout: about
 ---
+
