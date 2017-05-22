@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2017-04-18 21:56:00 Z
+parallax-img: "/images/Parallax4.jpg"
 mission-statement-body: |-
   The mission of The Master's University is to empower students for a life of enduring commitment to Christ, biblical fidelity, moral integrity, intellectual growth and lasting contribution to the Kingdom of God worldwide.
 
@@ -313,16 +314,15 @@ associated-organizations:
   logo: https://www.gracechurch.org/Content/images/gcc-logo-2014@2x.png
 - name: 'Grace to You '
   link: https://gty.org
-  logo: 
+  logo:
 - name: Shepard's Conference
   link: http://www.shepherdsconference.org/
-  logo: 
+  logo:
 - name: The Master's Academy International
   link: http://tmai.org/
-  logo: 
+  logo:
 - name: The Master's Seminary
   link: https://www.tms.edu/
-  logo: 
+  logo:
 layout: about
 ---
-

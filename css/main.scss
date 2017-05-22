@@ -291,6 +291,9 @@ a {
 
 #header {
   box-shadow: none;
+  a {
+    font-size: 20px;
+  }
 }
 
 #header.active {
