@@ -210,14 +210,30 @@ a {
 }
 
 #search {
-  background-color: #0c2340;
-  border-bottom: 1px solid #fff;
+  background-color: #fff;
+  border-bottom: 1px solid $navy;
   border-left: none;
   border-right: none;
   border-top: none;
   border-radius: 1px;
-  color: #fff;
+  color: #222;
   box-shadow: none;
+  margin: 0;
+}
+
+.nav-search {
+  margin: 0;
+}
+
+.top-banner {
+  height: 50px;
+}
+
+#upper-nav-text {
+  height: 100%;
+  a {
+    padding: 5px;
+  }
 }
 
 #search-btn {
@@ -266,6 +282,10 @@ a {
 
 .news-parallax {
   height: 200px;
+}
+
+.no-boxshadow {
+  box-shadow: none;
 }
 
 .wht-a {
@@ -355,9 +375,9 @@ a {
 }
 
 @media only screen and (min-width: 601px) {
-  .navbar-fixed {
-    height: 100px;
-  }
+  // .navbar-fixed {
+  //   height: 100px;
+  // }
 }
 
 @media screen and (min-width: 1024px) {
