@@ -1,6 +1,7 @@
 ---
 title: Music
 parallax-img: "/images/Parallax7.jpg"
+layout: music
 sm-image: "/uploads/AcademicsUndergradIcons_Music.png"
 description: The Master’s University equips musicians to glorify God with a program
   that exceeds small-school expectations. Besides its fully equipped facilities, beloved
@@ -28,6 +29,5 @@ bible-credits: 21
 GE-credits: 40
 core-courses: 29
 emphasis-electives: 65-72
-bm-credits: 
+bm-credits:
 ---
-

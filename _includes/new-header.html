@@ -94,6 +94,14 @@
     <li><a href="{{ "/alumni" | prepend: site.url }}">Alumni</a></li>
     <li><a href="{{ "/give" | prepend: site.url }}">Give</a></li>
     <li><a href="https://www.tms.edu/">TMS</a></li>
+    <li class="search">
+      <form class="nav-search"action="{{ "/search" | relative_url }}">
+        <div class="input-field nav-search">
+          <input id="search" name="q" type="search"  placeholder="Search"required>
+          <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+        </div>
+      </form>
+    </li>
   </ul>
   <!-- end mobile side menu -->
 
