@@ -29,5 +29,6 @@ bible-credits: 21
 GE-credits: 40
 core-courses: 29
 emphasis-electives: 65-72
-bm-credits:
+bm-credits: 
 ---
+
