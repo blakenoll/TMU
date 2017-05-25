@@ -273,8 +273,7 @@ why-at-masters-body: |-
 
   **Total units required for emphasis: 81**
 
-  **\*May be satisfied by MU340 Chamber Ensembles**
-  ---
+  \*May be satisfied by MU340 Chamber Ensembles**
 parallax-img: "/images/Parallax7.jpg"
 music-emphasis:
 - Composition
