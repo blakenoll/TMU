@@ -1,15 +1,10 @@
 ---
 title: Music
-parallax-img: "/images/Parallax7.jpg"
-layout: music
 sm-image: "/uploads/AcademicsUndergradIcons_Music.png"
-description: The Master’s University equips musicians to glorify God with a program
-  that exceeds small-school expectations. Besides its fully equipped facilities, beloved
-  and experienced faculty, and continual on-campus performance opportunities, TMU
-  is situated in the midst of a rich LA music scene open to participation and enjoyment.
-  Each year groups like Chorale perform in venues like Carnegie Hall or St. Peter’s
-  Cathedral, and have toured in Israel and Europe. The Music department trains students
-  to approach life with a musician’s work ethic and, uniquely, Christian humility.
+description: |-
+  Welcome to the Department of Music at The Master's University. Our mission is to inspire students toward excellence in every way for the Master, and we think we have a place for you!
+
+  The Master's University is accredited by [NASM](http://nasm.arts-accredit.org/), the National Association of Schools of Music. With 2 degrees and 14 emphases, our department is large enough to provide performance opportunities in state-of-the-art facilities and small enough to grant individual attention and a variety of experiences. Our Senior Bachelor of Music students recently scored in the 97th percentile in 2016 in the national standardized test (Education Testing Service, Princeton). Come find out how you can be a part of the music happening at TMU!
 emphasis:
 - Audio Technology
 - Biblical Studies
@@ -17,6 +12,12 @@ emphasis:
 - Communication
 - Modern Worship
 - Student Ministries
+total-credits: 155-162
+bible-credits: 21
+GE-credits: 40
+core-courses: 29
+emphasis-electives: 65-72
+parallax-img: "/images/Parallax7.jpg"
 music-emphasis:
 - Composition
 - Instrumental Performance
@@ -24,11 +25,7 @@ music-emphasis:
 - Piano Performance
 - Traditional Worship
 - Vocal Performance
-total-credits: 155-162
-bible-credits: 21
-GE-credits: 40
-core-courses: 29
-emphasis-electives: 65-72
 bm-credits: 
+layout: music
 ---
 
