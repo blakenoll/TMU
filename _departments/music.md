@@ -17,8 +17,9 @@ bible-credits: 21
 GE-credits: 40
 core-courses: 29
 emphasis-electives: 65-72
-why-at-masters-body: |-
-  ## Bachelor of Music
+why-at-masters-body: "## "
+required-courses-body: |-
+  # Bachelor of Music
 
   ---
 
@@ -74,10 +75,10 @@ why-at-masters-body: |-
 
   * Major Performing Ensemble (8)
 
-  **♦ Testing out allowed for any or all semesters for Piano Foundations 0-4\
-  Total core courses: 61**
+  ♦ Testing out allowed for any or all semesters for Piano Foundations 0-4\
+  Total core courses: 61
 
-  **\*Satisfies General Education Requirement**
+  \*Satisfies General Education Requirement
 
   ### Instrumental Performance
 
@@ -185,7 +186,7 @@ why-at-masters-body: |-
 
   **Total units required for emphasis: 80**
 
-  **\*2 units count toward B.M. Core requirement of Individual Instruction in Primary Instrument**
+  \*2 units count toward B.M. Core requirement of Individual Instruction in Primary Instrument
 
   ### Music Education
 
@@ -273,7 +274,462 @@ why-at-masters-body: |-
 
   **Total units required for emphasis: 81**
 
-  \*May be satisfied by MU340 Chamber Ensembles**
+  \*May be satisfied by MU340 Chamber Ensembles\*\*
+
+  # Bachelor of Arts
+
+  ---
+
+  ## Bachelor of Arts in Music
+
+  **The BACHELOR OF ARTS IN MUSIC serves students who choose music as the focus of a broader, liberal arts education. The program offers flexibility in focus and course content. The wide range of learning coupled with the discipline music engenders opens doors in numerous music-related and non-music fields.**
+
+  * MU131 Piano Foundations I ♦ (1)
+
+  * MU132 Piano Foundations II ♦ (1)
+
+  * MU141A Music Theory I (3)
+
+  * MU141B Aural Skills I (1)
+
+  * MU142A Music Theory II (3)
+
+  * MU142B Aural Skills II (1)
+
+  * MU160/360 Individual Instruction (8)
+
+  * MU241A Music Theory III (3)
+
+  * MU241B Aural Skills III (1)
+
+  * MU242A Music Theory IV (3)
+
+  * MU242B Music Theory IV (1)
+
+  * MU271 Basic Conducting (2)
+
+  * MU295 Music & Art for Musicians\* (3)
+
+  * MU310 Collegiate Singers/Orchestra (4)
+
+  * MU330 Concert Attendance (0)
+
+  * MU333 Worship and Songs of the Church (3)
+
+  * MU390 Performance Practicum (0)
+
+  * Choose one:
+
+    * MU393 Music History & Literature I (3)
+
+    * MU394 Music History & Literature II (3)
+
+  * MU396 World Music (3)
+
+  * MU411 Computers in Music (2)
+
+  * MU482 Senior Seminar (2)
+
+  * Non-Music Electives (8)
+
+  * Other Electives (4)
+
+  * Major Performing Ensemble (4)
+
+  * MU260 Recital (30 min.) or approved project (1)
+
+  **Total Bachelor of Arts in Music units: 65**
+
+  ♦Testing out allowed for any or all semesters\
+  \*Satisfies General Education Requirement
+
+  ## Audio Technology
+
+  **The BACHELOR OF ARTS IN MUSIC with EMPHASIS IN AUDIO TECHNOLOGY is an AVID accredited program designed to prepare students for working with the latest audio technology in numerous arenas in the media industry and in churches. Combined with their study in music, it becomes a unique preparation to better suit them for music recording and production.**
+
+  * MU131 Piano Foundations I ♦ (1)
+
+  * MU132 Piano Foundations II ♦ (1)
+
+  * MU141A Music Theory I (3)
+
+  * MU141B Aural Skills I (1)
+
+  * MU142A Music Theory II (3)
+
+  * MU142B Aural Skills II (1)
+
+  * MU160/360 Private Instruction (6)
+
+  * MU225 Introduction to Composition (2)
+
+  * MU271 Basic Conducting (2)
+
+  * MU295 Music and Art for Musicians\* (3)
+
+  * MU310 Collegiate Singers/Orchestra (4)
+
+  * MU330 Concert Attendance (0)
+
+  * MU333 Worship and Songs of the Church (3)
+
+  * MU390 Performance Practicum (0)
+
+  * MU396 World Music (3)
+
+  * MU406 Popular Music Since 1900 (3)
+
+  * MU411 Computers in Music (2)
+
+  * MU482 Senior Seminar (2)
+
+  * C394 Introduction to Computer Visual Effects (3)
+
+  * BCW364 Ethics\* (3)
+
+  * Major Performing Ensemble (4)
+
+  * MU251 Introduction to Audio Technology, Pro Tools 1 (3)
+
+  * MU354 Audio Editing, Pro Tools 2 (3)
+
+  * MU355 Audio Mixing, Pro Tools 3 (3)
+
+  * MU404 Recording Techniques (3)
+
+  * MU223 Audio Engineering I (3)
+
+  * MU426 Audio Engineering II (3)
+
+  * MU460e Senior Project (2)
+
+  * MU498 Internship in Audio Technology (2)
+
+  **Total Bachelor of Arts in Music units: 72**
+
+  ♦Testing out allowed for one or both semesters
+
+  \*Satisfies General Education Requirement
+
+  ## Biblical Studies
+
+  **The BACHELOR OF ARTS IN MUSIC with EMPHASIS IN BIBLICAL STUDIES provides a foundation in both music and selected areas of Biblical Studies such as counseling, Bible exposition, missions, languages, education and more. It also serves as a valuable precursor to seminary or graduate study in music, as well as preparing entry-level music pastors and assistant pastors.**
+
+  * MU131 Piano Foundations I ♦ (1)
+
+  * MU132 Piano Foundations II ♦ (1)
+
+  * MU141A Music Theory I (3)
+
+  * MU141B Aural Skills I (1)
+
+  * MU142A Music Theory II (3)
+
+  * MU142B Aural Skills II (1)
+
+  * MU160/360 Individual Instruction in Primary Instrument (6)
+
+  * MU271 Basic Conducting (2)
+
+  * MU295 Music & Art for Musicians\* (3)
+
+  * MU310 Collegiate Singers/Orchestra (4)
+
+  * MU330 Concert Attendance (0)
+
+  * MU333 Worship and Songs of the Church (3)
+
+  * MU334 Music Leadership and Administration (2)
+
+  * MU390 Performance Practicum (0)
+
+  * Choose One:
+
+    * MU393 Music History & Literature I (3)
+
+    * MU394 Music History & Literature II (3)
+
+
+  * **MU396 World Music (3)**
+
+  * MU411 Computers in Music (2)
+
+  * MU482 Senior Seminar (2)
+
+  * Major Performing Ensemble (4)
+
+  * Biblical Studies Electives (18)
+
+  * Music Electives (4)
+
+  * MU260 Recital (30 min.) or approved project (1)
+
+  **Total Bachelor of Arts in Music units: 67**
+
+  \*Satisfies General Education Requirement
+
+  ♦Testing out allowed for one or both semesters
+
+  ## Business
+
+  **The BACHELOR OF ARTS IN MUSIC with EMPHASIS IN BUSINESS provides a foundation in both music and selected areas of Business such as marketing, business management and more.**
+
+  * MU131 Piano Foundations I ♦ (1)
+
+  * MU132 Piano Foundations II ♦ (1)
+
+  * MU141A Music Theory I (3)
+
+  * MU141B Aural Skills I (1)
+
+  * MU142A Music Theory II (3)
+
+  * MU142B Aural Skills II (1)
+
+  * MU160/360 Individual Instruction in Primary Instrument (6)
+
+  * MU271 Basic Conducting (2)
+
+  * MU295 Music & Art for Musicians\* (3)
+
+  * MU310 University Singers/Orchestra (4)
+
+  * MU330 Concert Attendance (0)
+
+  * MU333 Worship and Songs of the Church (3)
+
+  * MU334 Music Leadership and Administration (2)
+
+  * MU390 Performance Practicum (0)
+
+  * MU406 Popular Music Since 1900 (3)
+
+  * MU396 World Music (3)
+
+  * MU411 Computers in Music (2)
+
+  * MU482 Senior Seminar (2)
+
+  * MU260 Recital (30 min.) or approved Project (1)
+
+  * Major Performing Ensemble (4)
+
+  * Music Electives (6)
+
+    * *Choose from the following:*
+
+      * MU223 Audio Engineering I (3)
+
+      * MU251 Introduction to Audio Technology (3)
+
+      * MU313 Percussion Techniques (1)
+
+      * MU314 Woodwind Techniques (1)
+
+      * MU315 Brass Techniques (1)\*
+
+      * MU316 String Techniques (1)
+
+      * MU348 Production Techniques (1)
+
+      * MU354 Introduction to Audio Editing, Pro Tools II (3)\*
+
+      * MU355 Introduction to Audio Mixing, Pro Tools III (3)\*
+
+      * MU385 Piano Pedagogy I (2)
+
+      * MU404 Recording Techniques (3)\*
+
+      * MU476 Advanced Conducting (2)\*
+
+      * Music Business Internship (1-2)
+
+      * Other choices available on request.
+
+  * MKT361 Marketing Strategies (3)
+
+  * MKT462 Sales and Customer Service (3)
+
+  * MGT330 Business Communications (3)
+
+  * BUS320 Business Law (3)
+
+  * Business Electives (6)
+
+  **Total Bachelor of Arts in Music units: 69**
+
+  \*Satisfies General Education Requirement
+
+  ♦Testing out allowed for one or both semesters
+
+  ## Communication
+
+  **The BACHELOR OF ARTS IN MUSIC with EMPHASIS IN COMMUNICATION gives rounded skills in both areas to prepare students for graduate school or for entry-level positions in a wide range of vocations. Examples include public relations, the recording industry, sound engineering, church music ministry, musical theater, music editing, music publishing, and teaching.**
+
+  * MU131 Piano Foundations I ♦ (1)
+
+  * MU132 Piano Foundations II ♦ (1)
+
+  * MU141A Music Theory I (3)
+
+  * MU141B Aural Skills I (1)
+
+  * MU142A Music Theory II (3)
+
+  * MU142B Aural Skills II (1)
+
+  * MU160/360 Individual Instruction in Primary Instrument (6)
+
+  * MU271 Basic Conducting (2)
+
+  * MU295 Music & Art for Musicians\* (3)
+
+  * MU310 Collegiate Singers/Orchestra (4)
+
+  * MU330 Concert Attendance (0)
+
+  * MU333 Worship and Songs of the Church (3)
+
+  * MU334 Music Leadership and Administration (2)
+
+  * MU390 Performance Practicum (0)
+
+  * Choose one:
+
+    * MU393 Music History & Literature I (3)
+
+    * MU394 Music History & Literature II (3)
+
+  * MU396 World Music (3)
+
+  * MU411 Computers in Music (2)
+
+  * MU482 Senior Seminar (2)
+
+  * C211 Intro to Mass Communication (3)
+
+  * C371 Interpersonal Communication (3)
+
+  * C472 Rhetorical Criticism (3)
+
+  * Major Performing Ensemble (4)
+
+  * Communication Electives (9)
+
+  * Music Electives (4)
+
+  * MU260 Recital (30 min.) or approved project (1)
+
+  \*\*Total Bachelor of Arts in Music units: 67\
+  \*\*\*Satisfies General Education Requirement
+
+  ♦ Testing out allowed for one or both semesters
+
+  ## Modern Worship
+
+  **The BACHELOR OF ARTS IN MUSIC with EMPHASIS IN MODERN WORSHIP prepares students to reach the whole body of worshipers in evangelical churches. It equips them with a foundation of theology and a variety of skills in music that will be applicable to the ever-changing climate of worship, including areas of worship band leadership, arranging, training in sound systems and multimedia and service design. A major component, the area of leadership and organization, enables students to have good interpersonal relationships with staff and provides hands-on experience with an internship in a local church.**
+
+  * MU131 Piano Foundations I ♦ (1)
+
+  * MU132 Piano Foundations II ♦ (1)
+
+  * MU141A Music Theory I (3)
+
+  * MU141B Aural Skills 1 (1)
+
+  * MU142A Music Theory II (3)
+
+  * MU142B Aural Skills II (1)
+
+  * MU160/360 Individual Instruction in Primary Instrument (6)
+
+  * MU160 Individual Instruction in worship band instruments other than primary instrument: guitar, piano, bass, drums (2)
+
+  * MU271 Basic Conducting (2)
+
+  * MU295 Music & Art for Musicians\* (3)
+
+  * MU310 Collegiate Singers/Orchestra (4)
+
+  * MU330 Concert Attendance (0)
+
+  * MU390 Performance Practicum (0)
+
+  * MU396 World Music (3)
+
+  * MU406 Popular Music Since 1900 (3)
+
+  * MU411 Computers in Music (2)
+
+  * MU482 Senior Seminar (2)
+
+  * MU233 Popular Music Theory I (3)
+
+  * MU251 Introduction to Audio Technology, Pro Tools I (3)
+
+  * MU324 Worship Band Leadership (2)
+
+  * MU333 Worship and Songs of the Church (3)
+
+  * MU334 Music Leadership and Administration (2)
+
+  * MU494 Worship Internship (2)
+
+  * Major Performing Ensemble (4)
+
+  * Electives (8)
+
+  choose at least 5 from the following
+
+  * Biblical Studies Courses
+
+  * MU348 Production Techniques (1)
+
+  * MU404 Recording Techniques (3)
+
+  * MU223 Audio Engineering I (3)
+
+  * MU354 Audio Editing, Pro Tools 2 (3)
+
+  * MU260 Recital (30 min.) or approved project (1)
+
+  **Total Bachelor of Arts in Music units: 65**
+
+  \*Satisfies General Education Requirement
+
+  ## ♦ Testing out allowed for one or both semesters
+
+  ---
+
+  ## **Minor in Music**
+
+  **The Minor in Music offers grounding in the basics of music and worship, along with individual training and ensemble performance opportunities. Music is so much a part of church life that the music minor is highly recommended to all who are involved in the church in any capacity. It also provides a well-rounded education for any major.**
+
+  * MU131 Piano Foundations I ♦ (1)
+
+  * MU132 Piano Foundations II ♦ (1)
+
+  * MU141.1,2 Music Theory & Aural Skills I (4)
+
+  * MU160/360 Individual Instruction (4)
+
+  * MU271 Basic Conducting (2)
+
+  * MU295 Music & Art for Musicians\* (3)
+
+  * MU310 Collegiate Singers/Orchestra (2)
+
+  * MU330 Concert Attendance (4 semesters) (0)
+
+  * MU333 Worship and Songs of the Church (3)
+
+  * Music Electives (4)
+
+  **Total units required: 24**
+
+  **\*Satisfies General Education Requirement**
+
+  **♦Testing out allowed for one or both semesters**
 parallax-img: "/images/Parallax7.jpg"
 music-emphasis:
 - Composition
