@@ -229,8 +229,19 @@ required-courses-body: "# Bachelor of Music\n\n---\n\n### Bachelor of Music Core
   Courses\n\n* MU348 Production Techniques (1)\n\n* MU404 Recording Techniques (3)\n\n*
   MU223 Audio Engineering I (3)\n\n* MU354 Audio Editing, Pro Tools 2 (3)\n\n* MU260
   Recital (30 min.) or approved project (1)\n\n**Total Bachelor of Arts in Music units:
-  65**\n\n\\*Satisfies General Education Requirement\n\n♦ Testing out allowed for
-  one or both semesters"
+  65**\n\n\\*Satisfies General Education Requirement\n\n## ♦ Testing out allowed for
+  one or both semesters\n\n---\n\n## **Minor in Music**\n\n**The Minor in Music offers
+  grounding in the basics of music and worship, along with individual training and
+  ensemble performance opportunities. Music is so much a part of church life that
+  the music minor is highly recommended to all who are involved in the church in any
+  capacity. It also provides a well-rounded education for any major.**\n\n* MU131
+  Piano Foundations I ♦ (1)\n\n* MU132 Piano Foundations II ♦ (1)\n\n* MU141.1,2 Music
+  Theory & Aural Skills I (4)\n\n* MU160/360 Individual Instruction (4)\n\n* MU271
+  Basic Conducting (2)\n\n* MU295 Music & Art for Musicians\\* (3)\n\n* MU310 Collegiate
+  Singers/Orchestra (2)\n\n* MU330 Concert Attendance (4 semesters) (0)\n\n* MU333
+  Worship and Songs of the Church (3)\n\n* Music Electives (4)\n\n**Total units required:
+  24**\n\n**\\*Satisfies General Education Requirement**\n\n**♦Testing out allowed
+  for one or both semesters**"
 parallax-img: "/images/Parallax7.jpg"
 music-emphasis:
 - Composition
