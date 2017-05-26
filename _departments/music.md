@@ -25,7 +25,7 @@ required-courses-body: |-
 
   ### Bachelor of Music Core
 
-  * **MU131 Piano Foundations I ♦ (1)**
+  * MU131 Piano Foundations I ♦ (1)
 
   * MU132 Piano Foundations II ♦ (1)
 
@@ -697,7 +697,7 @@ required-courses-body: |-
 
   \*Satisfies General Education Requirement
 
-  ## ♦ Testing out allowed for one or both semesters
+  ♦ Testing out allowed for one or both semesters
 
   ---
 
@@ -729,7 +729,7 @@ required-courses-body: |-
 
   **\*Satisfies General Education Requirement**
 
-  **♦Testing out allowed for one or both semesters**
+  ♦Testing out allowed for one or both semesters
 parallax-img: "/images/Parallax7.jpg"
 music-emphasis:
 - Composition
