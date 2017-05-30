@@ -286,7 +286,12 @@ youth-programs:
 
     For further information or to apply for the program, email Prof. Kellie Cunningham at [kcunningham@masters.edu](mailto:kcunningham@masters.edu)
   register-link: 
-Field name: 
+muisc-orders:
+- name: 
+  artist: 
+  album-image: 
+  tracks:
+  - 
 layout: pamusic
 ---
 
