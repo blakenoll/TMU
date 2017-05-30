@@ -2,7 +2,24 @@
 title: Music
 date: 2017-04-18 21:23:00 Z
 parallax-img: "/images/Parallax9.jpg"
-concerts-events-body: 
+concerts-events-body: |-
+  An Olympic gold medal, the Stanley cup, the Vince Lombardi trophy, the Larry O’Brien trophy, the Commissioner’s trophy, each presented in recognition of unsurpassed excellence.
+
+  No athlete merely stumbles upon the finish line, whatever it may look like. And yet, physical skill—speed, agility and strength—is nothing without the mind behind it.
+
+  “Winning isn’t everything, but *wanting* to win is.” So said one of the greatest coaches in the history of any sport, the man after which the Super Bowl trophy was named—Vince Lombardi.
+
+  Four-time Super Bowl Champion Ronnie Lot said, “If you can believe it, the *mind* can achieve it.” And Michael Jordan, who led his team to multiple NBA Championships and will forever be synonymous with the number 23 said, “You have to *expect* things of yourself before you can do them.”
+
+  The sports world is littered with proverbial sayings such as these, attributing achievement to “wanting” or “expecting.” There is no reference to physical skill at all. Success starts with the mind.
+
+  Athletes understand the importance of sacrificing present temptations—fatty foods, sleeping in, staying up late, apathy in practice, wallowing in past losses—because they envision the larger goal of winning.
+
+  The Master’s University baseball team won the 2017 GSAC Tournament Championship and is on their way to the NAIA World Series in Idaho following a 9-game winning streak. All of the players are quoting Proverbs 6:4, “give your eyes no sleep, and your eyelids no slumber” on social media.
+
+  Coach Monte Brooks wanted the team throughout the year to be motivated internally, like the ant described in Proverbs 6 who naturally goes about her work, preparing for whatever may come. Throughout the season, many of the team’s starters faced serious injuries. “I could see the morale of the team was a bit dejected because their expectations \[of the season\] weren’t going to be met” Brooks said.
+
+  He consistently reminded the team, “We can’t control everything but we can control our efforts. We know everything we are supposed to do is honor the Lord with all our heart, mind, soul and strength. We need to work hard and let Him take care of everything else. By God’s grace the injured players took their time in rehab seriously, knowing they wanted to be in good shape and prepared when they came back --- they did not quit but asked, ‘how best do I serve the Lord and my team in this time?’”
 youth-programs:
 - name: Songs of Summer
   body: |-
