@@ -34,7 +34,7 @@ layout: default
             <h3>Youth Programs</h3>
 
             {% for program in page.youth-programs %}
-            <span><!-- Modal Trigger -->
+            <!-- Modal Trigger -->
                <a class="waves-effect waves-light btn btn-navy" href="#{{ program.name }}">{{ program.name }}</a>
 
                <!-- Modal Structure -->
@@ -47,38 +47,44 @@ layout: default
                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Register</a>
                      <a href="#!" class="modal-action modal-close waves-effect waves-red btn-flat">Close</a>
                   </div>
-               </div></span>
+               </div>
                {% endfor %}
+            <!-- Modal Trigger -->
+ <a class="waves-effect waves-light btn btn-navy" href="#modal3">Album Order</a>
 
-            <ul class="collapsible" data-collapsible="accordion">
-               <li>
-                  <div class="collapsible-header">Album Orders</div>
-                  <div class="collapsible-body">
-                     <span>
-                        {% for album in page.music-orders %}
-                        <div class="col s12 m7">
-                           <h2 class="header">Horizontal Card</h2>
-                           <div class="card horizontal">
-                              <div class="card-image">
-                                 <img src="http://lorempixel.com/100/190/nature/6">
-                              </div>
-                              <div class="card-stacked">
-                                 <div class="card-content">
-                                    {% for track in music-orders.tracks %}
-                                    <li>{{ track }}</li>
-                                    {% endfor %}
-                                 </div>
-                                 <div class="card-action">
-                                    <a href="#">This is a link</a>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        {% endfor %}
-                     </span>
-                  </div>
-               </li>
-            </ul>
+ <!-- Modal Structure -->
+ <div id="modal3" class="modal bottom-sheet">
+   <div class="modal-content">
+     <h4>Music Samples & Orders</h4>
+     {% for album in page.music-orders %}
+     <div class="col s12 l6">
+        <div class="card horizontal">
+          <div class="card-image">
+             <img src="http://lorempixel.com/100/190/nature/6">
+          </div>
+          <div class="card-stacked">
+             <div class="card-content">
+                <ol class="browser-default">
+                   {% for track in album.tracks %}
+                   <li>{{ track }}</li>
+                   {% endfor %}
+                </ol>
+
+             </div>
+             <div class="card-action">
+                <a href="#">This is a link</a>
+             </div>
+          </div>
+       </div>
+     </div>
+
+
+     {% endfor %}
+   </div>
+   <div class="modal-footer">
+     <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+   </div>
+ </div>
 
           </div>
           <div id="music-btns" class="col s12 m3">
