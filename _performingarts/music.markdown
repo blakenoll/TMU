@@ -287,11 +287,13 @@ youth-programs:
     For further information or to apply for the program, email Prof. Kellie Cunningham at [kcunningham@masters.edu](mailto:kcunningham@masters.edu)
   register-link: 
 music-orders:
-- name: 
-  artist: 
+- name: Praise His Holy Name! (2016)
+  artist: The Master's University Choral
   album-image: 
   tracks:
-  - 
+  - Doxology
+  - Gracious Lord Thy Name is Love
+  - Holy, Holy, Holy
 layout: pamusic
 ---
 
