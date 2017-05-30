@@ -31,27 +31,62 @@ layout: default
         <div class="row">
           <div class="col s12 m9">
             <p>{{ content }}</p>
+            <h3>Youth Programs</h3>
+
+            {% for program in page.youth-programs %}
+            <span><!-- Modal Trigger -->
+               <a class="waves-effect waves-light btn btn-navy" href="#{{ program.name }}">{{ program.name }}</a>
+
+               <!-- Modal Structure -->
+               <div id="{{ program.name }}" class="modal modal-fixed-footer">
+                  <div class="modal-content">
+                     <h1 class="center">{{ program.name }}</h1>
+                     <p>{{ program.body | markdownify }}</p>
+                  </div>
+                  <div class="modal-footer">
+                     <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Register</a>
+                     <a href="#!" class="modal-action modal-close waves-effect waves-red btn-flat">Close</a>
+                  </div>
+               </div></span>
+               {% endfor %}
+
             <ul class="collapsible" data-collapsible="accordion">
                <li>
-                  <div class="collapsible-header">Concerts & Events</div>
-                  <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-               </li>
-               <li>
-                  <div class="collapsible-header">Youth Programs</div>
-                  <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-               </li>
-               <li>
                   <div class="collapsible-header">Album Orders</div>
-                  <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+                  <div class="collapsible-body">
+                     <span>
+                        {% for album in page.music-orders %}
+                        <div class="col s12 m7">
+                           <h2 class="header">Horizontal Card</h2>
+                           <div class="card horizontal">
+                              <div class="card-image">
+                                 <img src="http://lorempixel.com/100/190/nature/6">
+                              </div>
+                              <div class="card-stacked">
+                                 <div class="card-content">
+                                    {% for track in music-orders.tracks %}
+                                    <li>{{ track }}</li>
+                                    {% endfor %}
+                                 </div>
+                                 <div class="card-action">
+                                    <a href="#">This is a link</a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        {% endfor %}
+                     </span>
+                  </div>
                </li>
             </ul>
 
           </div>
-          <div class="col s12 m3">
+          <div id="music-btns" class="col s12 m3">
             <!-- Modal Trigger -->
             <p><a class="btn btn-navy" href="#modal1">Forest Lawn</a></p>
             <p><a class="btn btn-navy" href="http://portal.stretchinternet.com/tmuadmin/" target="_blank">Live Stream</a></p>
             <p><a class="btn btn-navy" href="{{ "/academics/undergraduate/music" | prepend: site.url }}" target="_blank">Music Degrees</a></p>
+            <p><a class="btn btn-navy" href="{{ "/performingarts/theater" | prepend: site.url }}" target="_blank">Theare Arts</a></p>
             <h2>Upcoming Events</h2>
             <ul>
               {% for event in page.upcoming-events %}
