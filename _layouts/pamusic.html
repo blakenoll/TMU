@@ -6,36 +6,43 @@ layout: default
 <div class="row">
    <div class="container">
       <br>
-     <div class="row">
-       <div class="col s12">
-         <nav>
-          <div class="nav-wrapper white">
-            <div class="col s12">
-              <a href="{{ "/performingarts" | prepend: site.url }}" class="breadcrumb">Perfoming Arts</a>
-              <a href="#!" class="breadcrumb">{{ page.title }}</a>
-            </div>
-          </div>
-        </nav>
-       </div>
-     </div>
+      <div class="row">
+         <div class="col s12">
+            <nav>
+               <div class="nav-wrapper white">
+                  <div class="col s12">
+                     <a href="{{ "/performingarts" | prepend: site.url }}" class="breadcrumb">Perfoming Arts</a>
+                     <a href="#!" class="breadcrumb">{{ page.title }}</a>
+                  </div>
+               </div>
+            </nav>
+         </div>
+      </div>
       <div class="col s12">
-        <ul class="tabs tabs-fixed-width">
-          <li class="tab"><a target="_self" href="{{ "/academics/undergraduate/music" | prepend: site.url }}">Academics</a></li>
-          <li class="tab"><a class="active" href="#concerts">Concerts & Events</a></li>
-        </ul>
+         <ul class="tabs tabs-fixed-width">
+            <li class="tab"><a target="_self" href="{{ "/academics/undergraduate/music" | prepend: site.url }}">Academics</a></li>
+            <li class="tab"><a class="active" href="#concerts">Concerts & Events</a></li>
+         </ul>
       </div>
    </div>
 
    <div id="concerts" class="col s12">
       <div class="container">
-        <div class="row">
-          <div class="col s12 m9">
-            <p>{{ content }}</p>
-            <h3>Youth Programs</h3>
-
-            {% for program in page.youth-programs %}
-            <!-- Modal Trigger -->
-               <a class="waves-effect waves-light btn btn-navy" href="#{{ program.name }}">{{ program.name }}</a>
+         <div class="row">
+            <div class="col s12 l8">
+               <p>{{ page.concerts-events-body }}</p>
+            </div>
+            <div id="music-btns" class="col s12 l4">
+               <!-- Modal Trigger -->
+               <p><a class="btn btn-navy music-btn" href="#modal1">Forest Lawn</a></p>
+               <p><a class="btn btn-navy music-btn" href="http://portal.stretchinternet.com/tmuadmin/" target="_blank">Live Stream</a></p>
+               <p><a class="btn btn-navy music-btn" href="{{ "/performingarts/theater" | prepend: site.url }}" target="_blank">Theare Arts</a></p>
+               <h2>Youth Programs</h2>
+               {% for program in page.youth-programs %}
+               <!-- Modal Trigger -->
+               <p>
+                  <a href="#{{ program.name }}">{{ program.name }}</a>
+               </p>
 
                <!-- Modal Structure -->
                <div id="{{ program.name }}" class="modal modal-fixed-footer">
@@ -49,87 +56,82 @@ layout: default
                   </div>
                </div>
                {% endfor %}
-            <!-- Modal Trigger -->
- <a class="waves-effect waves-light btn btn-navy" href="#modal3">Album Order</a>
+               <!-- Modal Trigger -->
+               <a class="waves-effect waves-light btn btn-navy music-btn" href="#modal3">Album Order</a>
 
- <!-- Modal Structure -->
- <div id="modal3" class="modal bottom-sheet">
-   <div class="modal-content">
-     <h4>Music Samples & Orders</h4>
-     {% for album in page.music-orders %}
-     <div class="col s12 l6">
-        <div class="card horizontal">
-          <div class="card-image">
-             <img src="http://lorempixel.com/100/190/nature/6">
-          </div>
-          <div class="card-stacked">
-             <div class="card-content">
-                <ol class="browser-default">
-                   {% for track in album.tracks %}
-                   <li>{{ track }}</li>
-                   {% endfor %}
-                </ol>
+               <!-- Modal Structure -->
+               <div id="modal3" class="modal bottom-sheet">
+                  <div class="modal-content">
+                     <h4>Music Samples & Orders</h4>
+                     <div class="row">
+                        {% for album in page.music-orders %}
+                        <div class="col s12 l6">
+                           <div class="card horizontal">
+                              <div class="card-image">
+                                 <img src="http://lorempixel.com/200/200/nature/6">
+                              </div>
+                              <div class="card-stacked">
+                                 <div class="card-content">
+                                    <ol class="browser-default">
+                                       {% for track in album.tracks %}
+                                       <li>{{ track }}</li>
+                                       {% endfor %}
+                                    </ol>
 
-             </div>
-             <div class="card-action">
-                <a href="#">This is a link</a>
-             </div>
-          </div>
-       </div>
-     </div>
-
-
-     {% endfor %}
-   </div>
-   <div class="modal-footer">
-     <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
-   </div>
- </div>
-
-          </div>
-          <div id="music-btns" class="col s12 m3">
-            <!-- Modal Trigger -->
-            <p><a class="btn btn-navy" href="#modal1">Forest Lawn</a></p>
-            <p><a class="btn btn-navy" href="http://portal.stretchinternet.com/tmuadmin/" target="_blank">Live Stream</a></p>
-            <p><a class="btn btn-navy" href="{{ "/academics/undergraduate/music" | prepend: site.url }}" target="_blank">Music Degrees</a></p>
-            <p><a class="btn btn-navy" href="{{ "/performingarts/theater" | prepend: site.url }}" target="_blank">Theare Arts</a></p>
-            <h2>Upcoming Events</h2>
-            <ul>
-              {% for event in page.upcoming-events %}
-              <li>{{ event.title}}<br>{{ event.date }}</li>
-              {% endfor %}
-            </ul>
+                                 </div>
+                                 <div class="card-action">
+                                    <a href="#">This is a link</a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
 
 
-            <!-- Modal Structure -->
-            <div id="modal1" class="modal">
-              <div class="modal-content">
-                <div class="row">
-                  <div class="col s6">
-                    <h4>Forest Lawn</h4>
-                    <p>Forest Lawn body text</p>
+                        {% endfor %}
+                     </div>
+
                   </div>
-                  <div class="col s6">
-                    <img src="https://dummyimage.com/300x400/oc2340/fff.jpg" alt="Forest Lawn" width="100%">
+                  <div class="modal-footer">
+                     <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
                   </div>
-                </div>
+               </div>
+               <h2>Upcoming Events</h2>
+               <ul>
+                  {% for event in page.upcoming-events %}
+                  <li>{{ event.title}}<br>{{ event.date }}</li>
+                  {% endfor %}
+               </ul>
 
-                <p><a class="btn btn-navy" href="http://masters-music.tix.com/Schedule.aspx?OrgNum=2178">Purchase Tickets</a></p>
-              </div>
-              <div class="modal-footer">
-                <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat"><i class="material-icons">close</i></a>
-              </div>
+
+               <!-- Modal Structure -->
+               <div id="modal1" class="modal">
+                  <div class="modal-content">
+                     <div class="row">
+                        <div class="col s6">
+                           <h4>Forest Lawn</h4>
+                           <p>Forest Lawn body text</p>
+                        </div>
+                        <div class="col s6">
+                           <img src="https://dummyimage.com/300x400/oc2340/fff.jpg" alt="Forest Lawn" width="100%">
+                        </div>
+                     </div>
+
+                     <p><a class="btn btn-navy" href="http://masters-music.tix.com/Schedule.aspx?OrgNum=2178">Purchase Tickets</a></p>
+                  </div>
+                  <div class="modal-footer">
+                     <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat"><i class="material-icons">close</i></a>
+                  </div>
+               </div>
+               <!-- end Modal -->
+
             </div>
-            <!-- end Modal -->
-
-          </div>
-        </div>
+         </div>
       </div>
       <script type="text/javascript">
       $(document).ready(function(){
-        // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
-        $('.modal').modal();
+         // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+         $('.modal').modal();
       });
       </script>
    </div>
- </div>
+</div>
