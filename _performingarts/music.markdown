@@ -252,6 +252,40 @@ youth-programs:
 
     E-mail [songsofsummer@masters.edu](mailto:songsofsummer@masters.edu)
   register-link: 
+- name: TMU Piano Kids
+  body: |-
+    About TMU Piano Kids
+
+    TMU Piano Kids is a laboratory teaching experience for college level pianists who are completing coursework in piano pedagogy. Beginning in January of odd-numbered years, children from our community who are approximately age seven participate weekly in both individual piano lessons and group piano classes at The Master’s University, under the instruction of college faculty and an assigned student teacher. Each qualifying child who applies for this program will be accepted pending numbers of student teachers.
+
+    * Children attend a 45-minute, weekly individual lesson (with a TMU student teacher) scheduled between the TMC student and the Piano Kid’s parents. Lessons focus on studying piano pieces, building proper technique, and reinforcing musical concepts.
+
+    * Children also attend a 45-minute, weekly group class (led by TMU faculty and students) scheduled from 5:45-6:30 on Thursdays throughout each semester. Classes focus on music theory games & activities, music history, performance, improvisation and other creative music making. This unique class facilitates learning music in an interactive context and is one of the primary distinctives of the piano pedagogy program at TMU. It supplements piano instruction in a way that is often not found in the private piano studio.
+
+    ## Schedule:
+
+    TMU Piano Kids consists of three consecutive 12-week sessions, beginning in January of odd-numbered years:
+
+    * Jan – May
+
+    * Sep – Dec
+
+    * Jan – May
+
+    Applying for TMU Piano Kids is a commitment to participating in all three semesters of piano study, including both weekly lessons and classes as well as daily practice at home. A more detailed schedule will be distributed at the beginning of each semester.
+
+    ## Tuition:
+
+    \$200 per child, per semester, to be paid at the beginning of each session.
+
+    ## Materials:
+
+    * It is crucial that each student have an instrument at home on which to practice piano daily. This must be provided by the parent.
+
+    * Each child will be required to purchase a standard beginning piano method, more details to be given at registration.
+
+    For further information or to apply for the program, email Prof. Kellie Cunningham at [kcunningham@masters.edu](mailto:kcunningham@masters.edu)
+  register-link: 
 Field name: 
 layout: pamusic
 ---
