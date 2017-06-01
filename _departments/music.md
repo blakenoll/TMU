@@ -739,6 +739,15 @@ music-emphasis:
 - Traditional Worship
 - Vocal Performance
 bm-credits: 
+ensembles:
+- name: 
+  image: 
+  body: 
+BA-entrance-file: 
+BM-entrance-file: 
+scholorship-file: 
+facilities-body: 
+new-student-info-body: 
 layout: music
 ---
 
