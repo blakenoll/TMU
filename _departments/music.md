@@ -746,7 +746,24 @@ ensembles:
 BA-entrance-file: 
 BM-entrance-file: 
 scholorship-file: 
-facilities-body: 
+facilities-body: |-
+  ## Recording Studio
+
+  A state-of-the-art recording facility is seamlessly integrated into the recital hall. Students within the audio technology emphasis are afforded the opportunity to garner accumulated knowledge and confidence that only a professional, hands-on environment such as this can provide. This all-digital room is anchored by a 32-fader ICON D-Control work surface and features an industry standard Avid Pro Tools HDX2 system with a variety of plug-ins and outboard processing. The studio is used for classes as well as department ensemble projects, giving audio technology students the opportunity to put their knowledge to the test in a real-world studio recording context.
+
+  ## Recital Hall
+
+  Acoustically mastered and flexible for rehearsals, concerts and recording sessions
+
+  ## Practice Rooms
+
+  Wenger sound-proof V-Rooms with built-in emulation of larger environments
+
+  Students have access to 33 pianos including 18 grands (one an upright, one seven-foot and one nine-foot Steinway concert grand), two organs: an Allen digital organ, 705 series two-manual with 32 pedals, the equivalent of 55 ranks, and a Rogers organ model 755; and two harpsichords, a Peter Tkach double manual harpsichord, and a Zuckermann single-manual.
+
+  ## Computer Lab
+
+  Featuring eight iMac workstations continually updated with the latest music production and notation software
 new-student-info-body: |-
   ## Music Major Entrance Auditions
 
