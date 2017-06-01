@@ -63,6 +63,49 @@ layout: default
                </div>
              </div>
             </div>
+
+            <div class="card">
+              <!-- <div class="card-content">
+                <p>{{ page.description }}</p>
+              </div> -->
+              <div class="card-tabs">
+                <ul class="tabs tabs-fixed-width">
+                  <li class="tab"><a class="active" href="#ensembles">Ensembles</a></li>
+                  <li class="tab"><a href="#prospective">Prospective Students</a></li>
+                  <li class="tab"><a href="#current">Current Students</a></li>
+                </ul>
+              </div>
+              <div class="card-content grey lighten-4">
+                <div id="ensembles">
+                   {% for ensemble in page.ensembles %}
+                   <!-- Modal Trigger -->
+                   <a class="waves-effect waves-light btn" href="#{{ ensemble.name }}">Modal</a>
+
+                   <!-- Modal Structure -->
+                   <div id="{{ ensemble.name }}" class="modal">
+                      <div class="modal-content">
+                        <h4>Modal Header</h4>
+                        <p>A bunch of text</p>
+                     </div>
+                     <div class="modal-footer">
+                        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+                     </div>
+                  </div>
+                  {% endfor %}
+                </div>
+                <div id="prospective">
+                  <a href="#">Bachelor of Arts entrance requirments</a><br>
+                  <a href="#">Bachelor of Music entrance requirments</a><br>
+                  <a href="#">Scholorships</a>
+                </div>
+                <div id="current">
+                  {{ page.new-student-info-body | markdownify }}
+                </div>
+              </div>
+             </div>
+
+
+
             <h2>Prof Publications</h2>
             {{ page.prof-publications-body | markdownify }}
          </div>
