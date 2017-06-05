@@ -79,7 +79,7 @@ layout: default
                 <div id="ensembles">
                    {% for ensemble in page.ensembles %}
                    <!-- Modal Trigger -->
-                   <a class="waves-effect waves-light btn" href="#{{ ensemble.name }}">Modal</a>
+                   <a class="waves-effect waves-light btn" href="#{{ ensemble.name }}">{{ ensemble.name }}</a>
 
                    <!-- Modal Structure -->
                    <div id="{{ ensemble.name }}" class="modal">
@@ -99,6 +99,7 @@ layout: default
                   <a href="#">Scholorships</a>
                 </div>
                 <div id="current">
+                   <p><a class="btn btn-navy" href="#">Department Handbook</a></p>
                   {{ page.new-student-info-body | markdownify }}
                 </div>
               </div>
