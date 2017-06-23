@@ -79,16 +79,16 @@ layout: default
                 <div id="ensembles">
                    {% for ensemble in page.ensembles %}
                    <!-- Modal Trigger -->
-                   <a class="waves-effect waves-light btn" href="#{{ ensemble.name }}">{{ ensemble.name }}</a>
+                   <a href="#{{ ensemble.name }}">{{ ensemble.name }}</a>
 
                    <!-- Modal Structure -->
                    <div id="{{ ensemble.name }}" class="modal">
                       <div class="modal-content">
-                        <h4>Modal Header</h4>
-                        <p>A bunch of text</p>
+                        <h4>{{ ensemble.name }}</h4>
+                        <p>{{ ensemble.body | markdownify }}</p>
                      </div>
                      <div class="modal-footer">
-                        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+                        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
                      </div>
                   </div>
                   {% endfor %}
@@ -139,6 +139,7 @@ layout: default
      <script type="text/javascript">
      $(document).ready(function(){
      $('.parallax').parallax();
+     $('.modal').modal();
      });
      </script>
    </div>
