@@ -125,6 +125,7 @@ team: |-
 
   Each dean, director, or department head is responsible for determining if materials to be distributed by the Campus Mail Center relate to official business of the College. When questions occur concerning such determination, the matter must be referred to the next level of college administration (dean, director, vice president, etc.). Material found within the Campus Mail Center to be in violation of this policy will be removed immediately and the appropriate administrator will be contacted.
 ---
+
 ![ARC Logo](/images/arc-logo.png)
 
 Welcome to ARC online!

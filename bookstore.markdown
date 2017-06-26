@@ -4,6 +4,7 @@ date: 2017-04-11 23:20:00 Z
 parallax-img: "/images/Parallax2.jpg"
 layout: bookstore
 ---
+
 ## Check out the new University Exchange site
 
 [Shop Now](https://ue.masters.edu/)
