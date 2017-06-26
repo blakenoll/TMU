@@ -1,6 +1,7 @@
 ---
 title: Mail Center
 date: 2017-04-11 23:22:00 Z
+parallax-img: "/images/Parallax7.jpg"
 layout: mailcenter
 new-students-parents-body: |-
   Student Addresses
@@ -101,26 +102,4 @@ policies-body: |-
   Each dean, director, or department head is responsible for determining if materials to be distributed by the Campus Mail Center relate to official business of the College. When questions occur concerning such determination, the matter must be referred to the next level of college administration (dean, director, vice president, etc.). Material found within the Campus Mail Center to be in violation of this policy will be removed immediately and the appropriate administrator will be contacted.
 ---
 
-## We're Eager to Serve
-
 Mail Center personnel are eager to serve the faculty, staff and students of The Master's College. While the Mail Center is not a branch of the U.S. Government, the Campus Mail Center is governed by U.S. Postal Service regulations; therefore, we must observe federal requirements in handling and processing the mail. We have also instituted other policies in order to maximize efficiency and provide a high level of service.
-
-## Campus Mail Center Customer Service Window Hours
-
-### Mid August through May:
-
-Monday, Wednesday, Friday - 10:00 a.m. to 4:00 p.m.
-
-Tuesday, Thursday - 9:00 a.m. to 4:00 p.m.
-
-Saturday package pick up - 11:00 a.m. to 1:00 p.m.
-
-Outgoing mail is taken to the post office at 3:45 p.m., Monday through Friday.
-
-### Summer Hours:
-
-Monday through Friday - 11:00 a.m. to 4:00 p.m.
-
-Saturday - CLOSED
-
-If you have any comments, please email Campus Mail Supervisor Jeanette Swanson at [jswanson@masters.edu](mailto:jswanson@masters.edu).
