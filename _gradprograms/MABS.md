@@ -198,43 +198,43 @@ courses-body: "## BTS500\\\\\\* - INTRODUCTION TO BIBLICAL STUDIES - 2 units\n\n
   MIDDLE EAST - 2 units\n\nA field-based exploration of the cultural, religious, and
   ethnic diversity of the land of Israel. Special attention is given to religious
   and cultural distinctives of the major ethnic communities and monotheistic religions
-  of the region.\n\n### \\*\\\\\\*\\\\\\* Required core classes are indicated by an
-  asterisk.\\*\\\\\n\neligibility-requirements-body: |-\\\nIn order to be considered
-  for enrollment to the M.A. program at The Master's College, the following eligibility
-  requirements must be met by the applicant. The administration and faculty of the
-  College reserve the right to withdraw the privilege of enrollment or to place a
-  student on probation if, after enrollment, the student proves to be lacking in these
-  qualifications.\n\n### Spiritual\n\n\\* Testimony of faith in Jesus Christ as Savior
-  and Lord.\n\n\\* Demonstration of submission to the will of God and obedience to
-  the Word of God.\n\n\\* Possession of the personal and spiritual gifts necessary
-  for counseling and discipleship (deacon/deaconness qualified).\n\n\\* Recommendation
-  by church leaders and other people who have had significant contact with the applicant.\n\n\\*
-  General agreement with the doctrinal statement of The Master's College.\n\n### Academic\n\nThe
-  goal of the academic admission requirements is to ensure that students who enter
-  the program are a theological match with the College's doctrinal position, and that
-  they have the academic capability and prerequisite preparation to successfully complete
-  and benefit from the coursework they will be required to take.\n\n\\* Bachelor's
-  degree from a regionally accredited college or university (official transcript required).
-  The prospective student must have a cumulative grade point average of 3.0 or above
-  on a 4.0 scale for all undergraduate work. The student will be expected to maintain
-  a 3.0 average in the M.A. program, with no grade less than a C.\n\n\\* It is highly
-  recommended that a student's undergraduate program be strong in a liberal arts emphasis,
-  including courses in literature, history, and philosophy.\n\n\\* While an undergraduate
-  degree in Biblical Studies is not required for entrance into this program, applicants
-  will still be required to demonstrate a threshold level of biblical and theological
-  knowledge in order to be admitted to the program. This requirement can be satisfied
-  by either of the following:\n\n    \\* Complete 18 semester units of undergraduate
-  coursework in biblical studies with a GPA of at least 3.0 that includes at least
-  6 units of New Testament (N.T.), 6 units of Old Testament (O.T.), and 6 units of
-  Christian Theology.\n    \n    \\* Complete a three-part comprehensive entrance
-  examination in O.T., N.T., and Christian Theology to certify a level of theological
-  knowledge necessary for graduate study. There is a $30 fee for the entrance exam.\n
-  \   \n    \\* Note: Applicants who fail a section of the entrance examination (N.T.,
-  O.T., or Christian Theology) may choose to retake that section of the exam or complete
-  6 units of undergraduate coursework with a minimum GPA of at least 3.0 in that subject
-  area in order to be admitted to the program.\n\n## Application Requirements\n\nThe
-  following documents must be submitted in order to apply to The Master's College:\n\n1.
-  \\[Application for Graduate Admission\\](https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersGrad&AID=207350&EXT=1&EXTID=&REFERER=)
+  of the region.\n\n### Required core classes are indicated by an asterisk.\\*\n\neligibility-requirements-body:
+  |-\\\nIn order to be considered for enrollment to the M.A. program at The Master's
+  College, the following eligibility requirements must be met by the applicant. The
+  administration and faculty of the College reserve the right to withdraw the privilege
+  of enrollment or to place a student on probation if, after enrollment, the student
+  proves to be lacking in these qualifications.\n\n### Spiritual\n\n\\* Testimony
+  of faith in Jesus Christ as Savior and Lord.\n\n\\* Demonstration of submission
+  to the will of God and obedience to the Word of God.\n\n\\* Possession of the personal
+  and spiritual gifts necessary for counseling and discipleship (deacon/deaconness
+  qualified).\n\n\\* Recommendation by church leaders and other people who have had
+  significant contact with the applicant.\n\n\\* General agreement with the doctrinal
+  statement of The Master's College.\n\n### Academic\n\nThe goal of the academic admission
+  requirements is to ensure that students who enter the program are a theological
+  match with the College's doctrinal position, and that they have the academic capability
+  and prerequisite preparation to successfully complete and benefit from the coursework
+  they will be required to take.\n\n\\* Bachelor's degree from a regionally accredited
+  college or university (official transcript required). The prospective student must
+  have a cumulative grade point average of 3.0 or above on a 4.0 scale for all undergraduate
+  work. The student will be expected to maintain a 3.0 average in the M.A. program,
+  with no grade less than a C.\n\n\\* It is highly recommended that a student's undergraduate
+  program be strong in a liberal arts emphasis, including courses in literature, history,
+  and philosophy.\n\n\\* While an undergraduate degree in Biblical Studies is not
+  required for entrance into this program, applicants will still be required to demonstrate
+  a threshold level of biblical and theological knowledge in order to be admitted
+  to the program. This requirement can be satisfied by either of the following:\n\n
+  \   * Complete 18 semester units of undergraduate coursework in biblical studies
+  with a GPA of at least 3.0 that includes at least 6 units of New Testament (N.T.),
+  6 units of Old Testament (O.T.), and 6 units of Christian Theology.\n    \n    *
+  Complete a three-part comprehensive entrance examination in O.T., N.T., and Christian
+  Theology to certify a level of theological knowledge necessary for graduate study.
+  There is a $30 fee for the entrance exam.\n    \n    * Note: Applicants who fail
+  a section of the entrance examination (N.T., O.T., or Christian Theology) may choose
+  to retake that section of the exam or complete 6 units of undergraduate coursework
+  with a minimum GPA of at least 3.0 in that subject area in order to be admitted
+  to the program.\n\n## Application Requirements\n\nThe following documents must be
+  submitted in order to apply to The Master's College:\n\n1. \\[Application for Graduate
+  Admission\\](https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersGrad&AID=207350&EXT=1&EXTID=&REFERER=)
   (Online)\n\n2. \\[Application fee\\](https://masters.formstack.com/forms/graduate_application_fee_credit_card_processing)
   ($50)\n\n3. \\[Supplementary personal statements\\](http://www.masters.edu/media/865705/grad-supplemental-personal-statements-form.pdf)\n\n4.
   Official transcripts indicating the completion of a bachelor's degree from a regionally
