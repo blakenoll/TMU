@@ -8,10 +8,8 @@ degrees:
 - B.A., York College
 - M.A., University of Alabama
 - PhD, Claremont University
-- |-
-  Doctoral Graduate Research Fellowship, Claremont Graduate University
-  Additional Ph.D. work at Duke University and
-  University of North Carolina-Chapel Hill
+- Additional Ph.D. work at Duke University and University of North Carolina-Chapel
+  Hill
 - Founder of The Master's University in Italy
 email: ghorner@masters.edu
 ---
