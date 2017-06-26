@@ -69,74 +69,73 @@ program-outline-text: |-
   ## Remote Library Access
 
   In order to facilitate research from off campus locations, the [college library](http://www.masters.edu/academics/graduate/degree-programs/mabs/program-outline/#) provides remote access to many of The Master's College's online databases. This access allows the student to [search the available databases](http://www.masters.edu/academics/graduate/degree-programs/mabs/program-outline/#) from any computer off campus that has an Internet connection. Currently, The Master's College has over 20 databases available with remote access. Students are welcome to [contact the library](http://www.masters.edu/academics/graduate/degree-programs/mabs/program-outline/#) directly if they need help with their research needs.
-courses-body: "## BTS500\\\\\\* - INTRODUCTION TO BIBLICAL STUDIES - 2 units\n\nA
-  graduate seminar focusing on the foundational issues in the field of Biblical Studies.
-  Seminar topics include inspiration, origin, authority, canonicity, transmission,
-  and translation. Students will be exposed to the assumptions of critical scholarship
-  related to the Bible and an evangelical response to those assumptions. Issues of
-  special introduction to selected portions of the Old and New Testaments will be
-  treated with particular attention to the conclusions of modern \"higher criticism.\"\n\n##
-  BTS501 - HERMENEUTICS - 2 units\n\nA graduate seminar focusing on hermeneutical
-  theory and practice related to the biblical text. Attention is given to the philosophical
-  and literary foundations that describe relationship between author, text, and reader;
-  the interpretive methodologies that are applied to various Scriptural genres; and
-  the application of interpretive theory to specific passages of Scripture.\n\n##
-  BTS511 - CREATION AND COVENANT - 2 units\n\nA graduate seminar focusing on the biblical-theological
-  study of the Pentateuch. Emphasis will be given to the foundational themes of creation
-  and covenant as essential to biblical theology; the exploration of critical issues
-  of authorship and composition, the discussion of interpretive options for crucial
-  passages, and the formative influence of creation on the current public debate on
-  origins and age of the earth.\n\n## BTS512 - HISTORY OF THE COVENANT PEOPLE - 2
-  units\n\nA graduate seminar focusing on the history of Israel from the period of
-  the patriarchs through the Babylonian exile. Emphasis will be given to placing the
-  history of Israel against the backdrop of the ancient Near East, from the perspective
-  that God used the nations surrounding Israel to accomplish His purposes for her
-  and orchestrated world history around her. Further attention will be given to the
-  historical method and historiography concerning ancient Israel. The current public
-  debate on the status and legitimacy of modern Israel will also be considered.\n\n##
-  BTS513 - PROPHECY AND PROPHETS IN CONTEXT - 2 units\n\nA graduate seminar focusing
-  on the Old Testament prophetical literature with attention given to historical backgrounds
-  and context, internal message, theological themes, and issues of criticism.\n\n##
-  BTS515 - WORSHIP AND WISDOM - 2 units\n\nA graduate seminar focusing on the worship
-  and wisdom literature of the Old Testament and its application to the contemporary
-  church and the sanctification of every believer. Issues like the problem of pain,
-  the value of worship, and the reason the wicked prosper will be addressed. The student
-  will learn to seek answers to life in the true worship of God and in the wisdom
-  of God provided in these books.\n\n## BTS521\\\\- HISTORICAL BACKGROUND OF THE NEW
-  TESTAMENT - 2 units\n\nA graduate seminar focusing on the history, literature, and
-  culture of the Inter-testamental period through the first century A.D.\n\n## BTS522
-  - LIFE, MINISTRY, AND THEOLOGY OF CHRIST - 2 units\n\nA graduate study of the earthly
-  life and ministry of Jesus Christ, including His role as Messiah and as Son of God.
-  Special attention will be given to the Jewish historical and cultural background
-  of His life, the implications of His true humanity, and the modern alternative theories
-  about the facts and meaning of His life.\n\n## BTS523\\\\- LIFE, MINISTRY, AND THEOLOGY
-  OF PAUL - 2 units\n\nA graduate seminar focusing on the writings of Paul. Attention
-  is given to historical and cultural settings, messages, theological themes, and
-  analysis of selected passages.\n\n## BTS524 - THEOLOGY OF GENERAL EPISTLES & REVELATION
-  - 2 units\n\nA graduate seminar focusing on the theology of General Epistles and
-  the Revelation. Emphasis will be placed on critical issues relating to authorship,
-  acceptance into the canon, historical settings, messages, theological themes, and
-  interpretive problems. Special emphasis will be placed on the high priesthood of
-  Jesus Christ as seen in Hebrews and the eschatology of 2 Peter 3 and the Book of
-  Revelation.\n\n## BTS571 - CONTEMPORARY ISSUES IN THEOLOGY - 2 units\n\nA culmination
-  seminar that seeks to integrate biblical studies with Christian faith and ministry.
-  Students will use an evangelical theological method to address contemporary trends
-  and emphases in theology confronting the contemporary Christian church. Students
-  will be exposed to a wide diversity of theological literature and perspectives within
-  and beyond the evangelical spectrum.\n\n## BTS572 - SEMINAR IN APPLIED BIBLICAL
-  STUDIES - 2 units\n\nA graduate seminar focusing on the application of biblical
-  studies to the life of the believer. Attention will be given to the priority of
-  Christ-likeness, the process by which this occurs in the life of the believer, and
-  the role of discipling towards this objective. The uniqueness of the biblical process
-  of change will also be addressed.\n\n## BTS531 - PRACTICUM IN BIBLICAL LEADERSHIP
-  - 2 units\n\nA faculty-directed independent study focusing on a biblical theology
-  and philosophy of leadership. Attention will be given to examples of leaders in
-  the Bible and an examination of the concept of spiritual leadership. Students will
-  be expected to articulate a philosophy of leadership and provide evidence of applying
-  that philosophy in a specific facet of their own ministry.\n\n## BTS533 - PRACTICUM
-  IN DISCIPLESHIP - 2 units\n\nA faculty-directed independent study focusing on the
-  analysis of discipleship models and the application of Scriptural principles in
-  the discipleship process.\n\n## BTS535 - PRACTICUM IN YOUTH MINISTRY - 2 units\n\nA
+courses-body: "## BTS500 - INTRODUCTION TO BIBLICAL STUDIES - 2 units\n\nA graduate
+  seminar focusing on the foundational issues in the field of Biblical Studies. Seminar
+  topics include inspiration, origin, authority, canonicity, transmission, and translation.
+  Students will be exposed to the assumptions of critical scholarship related to the
+  Bible and an evangelical response to those assumptions. Issues of special introduction
+  to selected portions of the Old and New Testaments will be treated with particular
+  attention to the conclusions of modern \"higher criticism.\"\n\n## BTS501 - HERMENEUTICS
+  - 2 units\n\nA graduate seminar focusing on hermeneutical theory and practice related
+  to the biblical text. Attention is given to the philosophical and literary foundations
+  that describe relationship between author, text, and reader; the interpretive methodologies
+  that are applied to various Scriptural genres; and the application of interpretive
+  theory to specific passages of Scripture.\n\n## BTS511 - CREATION AND COVENANT -
+  2 units\n\nA graduate seminar focusing on the biblical-theological study of the
+  Pentateuch. Emphasis will be given to the foundational themes of creation and covenant
+  as essential to biblical theology; the exploration of critical issues of authorship
+  and composition, the discussion of interpretive options for crucial passages, and
+  the formative influence of creation on the current public debate on origins and
+  age of the earth.\n\n## BTS512 - HISTORY OF THE COVENANT PEOPLE - 2 units\n\nA graduate
+  seminar focusing on the history of Israel from the period of the patriarchs through
+  the Babylonian exile. Emphasis will be given to placing the history of Israel against
+  the backdrop of the ancient Near East, from the perspective that God used the nations
+  surrounding Israel to accomplish His purposes for her and orchestrated world history
+  around her. Further attention will be given to the historical method and historiography
+  concerning ancient Israel. The current public debate on the status and legitimacy
+  of modern Israel will also be considered.\n\n## BTS513 - PROPHECY AND PROPHETS IN
+  CONTEXT - 2 units\n\nA graduate seminar focusing on the Old Testament prophetical
+  literature with attention given to historical backgrounds and context, internal
+  message, theological themes, and issues of criticism.\n\n## BTS515 - WORSHIP AND
+  WISDOM - 2 units\n\nA graduate seminar focusing on the worship and wisdom literature
+  of the Old Testament and its application to the contemporary church and the sanctification
+  of every believer. Issues like the problem of pain, the value of worship, and the
+  reason the wicked prosper will be addressed. The student will learn to seek answers
+  to life in the true worship of God and in the wisdom of God provided in these books.\n\n##
+  BTS521 - HISTORICAL BACKGROUND OF THE NEW TESTAMENT - 2 units\n\nA graduate seminar
+  focusing on the history, literature, and culture of the Inter-testamental period
+  through the first century A.D.\n\n## BTS522 - LIFE, MINISTRY, AND THEOLOGY OF CHRIST
+  - 2 units\n\nA graduate study of the earthly life and ministry of Jesus Christ,
+  including His role as Messiah and as Son of God. Special attention will be given
+  to the Jewish historical and cultural background of His life, the implications of
+  His true humanity, and the modern alternative theories about the facts and meaning
+  of His life.\n\n## BTS523 - LIFE, MINISTRY, AND THEOLOGY OF PAUL - 2 units\n\nA
+  graduate seminar focusing on the writings of Paul. Attention is given to historical
+  and cultural settings, messages, theological themes, and analysis of selected passages.\n\n##
+  BTS524 - THEOLOGY OF GENERAL EPISTLES & REVELATION - 2 units\n\nA graduate seminar
+  focusing on the theology of General Epistles and the Revelation. Emphasis will be
+  placed on critical issues relating to authorship, acceptance into the canon, historical
+  settings, messages, theological themes, and interpretive problems. Special emphasis
+  will be placed on the high priesthood of Jesus Christ as seen in Hebrews and the
+  eschatology of 2 Peter 3 and the Book of Revelation.\n\n## BTS571 - CONTEMPORARY
+  ISSUES IN THEOLOGY - 2 units\n\nA culmination seminar that seeks to integrate biblical
+  studies with Christian faith and ministry. Students will use an evangelical theological
+  method to address contemporary trends and emphases in theology confronting the contemporary
+  Christian church. Students will be exposed to a wide diversity of theological literature
+  and perspectives within and beyond the evangelical spectrum.\n\n## BTS572 - SEMINAR
+  IN APPLIED BIBLICAL STUDIES - 2 units\n\nA graduate seminar focusing on the application
+  of biblical studies to the life of the believer. Attention will be given to the
+  priority of Christ-likeness, the process by which this occurs in the life of the
+  believer, and the role of discipling towards this objective. The uniqueness of the
+  biblical process of change will also be addressed.\n\n## BTS531 - PRACTICUM IN BIBLICAL
+  LEADERSHIP - 2 units\n\nA faculty-directed independent study focusing on a biblical
+  theology and philosophy of leadership. Attention will be given to examples of leaders
+  in the Bible and an examination of the concept of spiritual leadership. Students
+  will be expected to articulate a philosophy of leadership and provide evidence of
+  applying that philosophy in a specific facet of their own ministry.\n\n## BTS533
+  - PRACTICUM IN DISCIPLESHIP - 2 units\n\nA faculty-directed independent study focusing
+  on the analysis of discipleship models and the application of Scriptural principles
+  in the discipleship process.\n\n## BTS535 - PRACTICUM IN YOUTH MINISTRY - 2 units\n\nA
   faculty-directed independent study focusing on the analysis of contemporary youth
   culture and ministry. Emphasis will be given to finding biblical solutions to the
   needs and challenges of contemporary youth culture.\n\n## BTS536 - PRACTICUM IN
