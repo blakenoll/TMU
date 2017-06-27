@@ -8,24 +8,24 @@ layout: bookstore
 ## Check out the new University Exchange site
 
 [Shop Now](https://ue.masters.edu/)
-
+<div class="video-container">
 <iframe src="https://player.vimeo.com/video/190782130?color=daaa00&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+</div>
 A bookstore is a physical representation of an institution; it represents who we are. October 2016 The Master’s University Bookstore closed its doors and was cleared out for renovation. Paper covered the windows and thin wood walls concealed the facade --- hiding the work being done, but unable to silence the sound of nails being hammered in or stifle the smell of fresh paint.
 
 
 On February 3rd the mystery will be revealed. The walls will come down and the students, faculty, staff, visitors and greater community will be welcomed to the new University Exchange, or UE for short.
 
 “This is one of the first big things that’s happened for the students in a while,” Robert Jensen of University Marketing said, “the University Exchange represents them. The students are the priority. You won’t recognize it from the old bookstore. The exterior framework did not change but the interior space was completely re-designed. The entire process has been an alumni effort as well, with the designers and general contractor all being graduates of Master’s U.”
-    
+
 The change from college to university took place in early August and represents more than a lexical difference. It is an exciting step in not only highlighting the unique strengths already present here, but also elevating the standards and expectations by which the university functions.  The bookstore is only one step in the means to a greater end.
-    
+
 Jensen explained, “UE will no longer simply fill a need but create an experience. . . an experience that immediately fills students and alumni with a sense of pride in their university --- the moment you walk into this place you are going to feel a part of the school and actually want to represent it outside of the canyon.”
-    
+
 There will be an entire section featuring the collected works of our president, Dr. John MacArthur, along with shelves filled with classic literature recommended by the English faculty, books suggested by the Business and History departments, biographies, entrepreneurial and more. The latter offered are all supplemental to the course textbooks students will be able to purchase online (ue.masters.edu).
-    
+
 However, UE will not only have books. Emily Clark, a senior Biblical Counseling major at Master’s U, commented, “It’s exciting because the staff is putting a lot of work into giving it a whole new look. It will be ivy league and collegiate, perhaps more so than any other university. It’s exciting to make our school presentable to people. Merchandise sells a school to high schoolers; when something looks nice it will bring people in.”
-    
+
 The University Exchange is more than books or merchandise. Everything about the store --- the design, books, atmosphere, product and even the team behind it ---- brings together the past, present and future of The Master’s University. The UE will offer multiple generations of students and guests the opportunity to take a piece of the university with them, united under one cohesive identity.
 
 <a class="btn btn-navy right" href="https://docs.google.com/spreadsheets/d/1YK8Hc7KptiX28D5INeIfN5jeXk6K-zQba5ijGgr33LI/pubhtml">Fall 2017 Books</a>
