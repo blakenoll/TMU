@@ -2,7 +2,6 @@
 title: Campus Safety
 date: 2017-04-11 23:21:00 Z
 parallax-img: "/images/Parallax10.jpg"
-layout: campussafety
 Directors-greeting-body: |-
   Welcome to The Master's University!
 
@@ -79,6 +78,7 @@ code-manual-body: |-
   ## Skateboards
 
   Skateboards, scooters, and roller blades may be ridden on campus sidewalks with due regard for pedestrian right of way, but there is no riding allowed on or across driveways, in parking lots, or on the adjacent roads in our community. Rule of Thumb: Skateboards cannot be ridden where cars can go. Skateboards may only be used at TMU for transportation and all 4 wheels need to stay grounded at all time. If you would like to perform those cool tricks, please do so at the local skate park using the right safety equipment (Santa Clarita Aquatic Center). The full content of this and all policies is found within the Campus Safety Codes.
+layout: campussafety
 ---
 
 ## Campus Safety exists to glorify God and supports the mission and values of the institution, by our:
@@ -89,25 +89,13 @@ code-manual-body: |-
 
 * Effectiveness: To excel as a competent and efficient campus safety team
 
-## Contacts
-
-* Emergencies: 911
-
-* 24 Hour Guard Shack: 661-362-2500
-
-* On Duty Supervisor: 661-713-7561
-
-* Director of Campus Safety: 661-362-2208
-
-* E-mail: campussafety@masters.edu
-
 ## TMU Alert
 
 In the event of a life threatening emergency, faculty, staff, and students registered with the campus mass notification service will receive emergency alerts via text message to cell phone. Students may register for TMU Alert during semester pre-registration and any student or staff member may register or update a primary cell phone at any time by navigating to Self-Service / My Profile / Phone Numbers.
 
 ## Active Shooter Training
 
-The following video presentation (TMU LOGIN REQUIRED) is provided as a service to the campus community:[ Active Shooter Training Presentation.](https://mix.office.com/watch/d8mtp1ue02zp) Remember: Always Call 911 AND Campus Safety.\
+The following video presentation (TMU LOGIN REQUIRED) is provided as a service to the campus community:[ Active Shooter Training Presentation.](https://mix.office.com/watch/d8mtp1ue02zp) Remember: Always Call 911 AND Campus Safety.\\
 
 ## Twitter Feed
 
