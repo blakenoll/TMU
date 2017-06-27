@@ -1,7 +1,6 @@
 ---
 title: Registrar
 date: 2017-04-11 23:23:00 Z
-layout: registrar
 articulation-body: |-
   Below are lists of courses that transfer from other colleges to TMU. If your college is not listed, please submit the name of the college, the name/code/description of the course(s) to [Registrar@masters.edu](mailto:Registrar@masters.edu) for approval.
 
@@ -1343,6 +1342,7 @@ general-education-body: |-
   **\*Please note that this checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.\
   \*\*AEW = American/English/World Literature. Any of the following fulfills this requirement: E211, E212, E221, E222, E231, and E232.\
   \*\*\* EE = English Elective. Any English course fulfills this requirement.**
+layout: registrar
 ---
 
 The Registrar's Office is committed to serving the students' academic needs in numerous ways.
@@ -1371,21 +1371,4 @@ The Registrar's Office is committed to serving the students' academic needs in n
 
 * Graduation Requirements
 
-## Office Hours
-
-M-F, 9:00 am - 4:30 pm (PT)
-
-Closed on school holidays and during Chapel. The Office of the Registrar is located in the back half of Vider Hall.
-
-## Contact Information
-
-The Master's University\
-Office of the Registrar\
-21726 Placerita Canyon Road\
-Santa Clarita, CA 91321
-
-**Phone: (661) 259-3540 (ask for the Registrar's office)**
-
-**Fax: (661) 362-2722**
-
-**Email: r[egistrar@masters.edu](mailto:Registrar@masters.edu)**
+  ## 
