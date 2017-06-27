@@ -1,6 +1,7 @@
 ---
 title: Campus Safety
 date: 2017-04-11 23:21:00 Z
+parallax-img: "/images/Parallax10.jpg"
 layout: campussafety
 Directors-greeting-body: |-
   Welcome to The Master's University!

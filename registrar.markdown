@@ -1,6 +1,7 @@
 ---
 title: Registrar
 date: 2017-04-11 23:23:00 Z
+parallax-img: "/images/Parallax9.jpg"
 articulation-body: |-
   Below are lists of courses that transfer from other colleges to TMU. If your college is not listed, please submit the name of the college, the name/code/description of the course(s) to [Registrar@masters.edu](mailto:Registrar@masters.edu) for approval.
 
@@ -1370,5 +1371,3 @@ The Registrar's Office is committed to serving the students' academic needs in n
 * Graduation Ceremony Details
 
 * Graduation Requirements
-
-  ## 
