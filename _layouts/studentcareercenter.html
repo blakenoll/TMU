@@ -2,43 +2,66 @@
 layout: default
 ---
 
+{% include parallax-header.html %}
 <div class="container">
-  <br>
   <div class="row">
-    <div class="col s12">
-      <nav>
-       <div class="nav-wrapper white">
-         <div class="col s12">
-           <a href="{{ "/financial-aid" | prepend: site.url }}" class="breadcrumb">Campus Services</a>
-           <a href="#!" class="breadcrumb">{{ page.title }}</a>
-         </div>
-       </div>
-     </nav>
-    </div>
-  </div>
-  {{ content }}
-  <ul class="collapsible" data-collapsible="accordion">
-      <li>
-        <div class="collapsible-header">Work Study</div>
-        <div class="collapsible-body"><span>{{ page.work-study-body | markdownify }}</span></div>
-      </li>
-      <li>
-        <div class="collapsible-header">Work Study Partnerships</div>
-        <div class="collapsible-body"><span>{{ page.work-study-part-body | markdownify }}</span></div>
-      </li>
-      <li>
-        <div class="collapsible-header">Student Career Library</div>
-        <div class="collapsible-body"><span>{{ page.student-career-body | markdownify }}</span></div>
-      </li>
-      <li>
-        <div class="collapsible-header">Choosing a Major</div>
-        <div class="collapsible-body"><span>{{ page.choosing-a-major-body | markdownify }}</span></div>
-      </li>
-      <li>
-        <div class="collapsible-header">Internships</div>
-        <div class="collapsible-body"><span>{{ page.internship-body | markdownify }}</span></div>
-      </li>
+    <!-- Table of Contents -->
+  <div class="col s12 m3 push-m9">
+          <h2 id="office-hours">Office Hours</h2>
+          <table class="bordered">
+              <thead>
+                <tr>
+                    <th>Monday - Friday</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>9:00 am - 5:00 pm </td>
+                </tr>
+              </tbody>
+            </table>
 
-    </ul>
+              <p>Closed on school holidays</p>
+
+              <h2 id="contact-information">Contact Information</h2>
+
+              <p>The Master’s University<br>
+              21726 Placerita Canyon Rd, Box 23<br>
+              Santa Clarita, CA 91321</p>
+
+          <p><strong>Email:</strong> <a href="mailto:osepd@masters.edu">osepd@masters.edu</a></p>
+          <p><strong>Phone:</strong> <a href="tel:16613622238">661-362-2238</a></p>
+          <p><strong>Fax:</strong> <a href="tel:16613622668">661-362-2668</a></p>
+          </div>
+    <div class="col s12 m9 pull-m3">
+
+      <h2>Welcome to {{ page.title }}</h2>
+      {{ content }}
+      {{ content }}
+      <ul class="collapsible" data-collapsible="accordion">
+          <li>
+            <div class="collapsible-header">Work Study</div>
+            <div class="collapsible-body"><span>{{ page.work-study-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Work Study Partnerships</div>
+            <div class="collapsible-body"><span>{{ page.work-study-part-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Student Career Library</div>
+            <div class="collapsible-body"><span>{{ page.student-career-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Choosing a Major</div>
+            <div class="collapsible-body"><span>{{ page.choosing-a-major-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Internships</div>
+            <div class="collapsible-body"><span>{{ page.internship-body | markdownify }}</span></div>
+          </li>
+
+        </ul>
+      </div>
+  </div>
 
 </div>
