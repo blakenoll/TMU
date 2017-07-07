@@ -379,3 +379,45 @@ handbook-body: "Credential Program Handbook\\\n\\\n\n## TMU Student Handbook\n\n
 layout: teachingcred
 ---
 
+Teaching Credential Programs
+
+### *Multiple Subject Teaching Credential Program –* for those who want to teach at the elementary school level
+
+### *Single Subject Teaching Credential Program – *for those who want to teach at the secondary (junior high/high school) level
+
+Each is a 30-unit, two-semester, cohort-style program with a start date in early Fall (early August).
+
+For important admissions criteria and procedures, including tuition and fees, please visit the [Credential Programs Admissions](https://www.masters.edu/academics/teaching-credential-programs/credential-program-admissions/ "Credential Program Admissions") page.
+
+The credential programs follow the [TMU Credential Program Calendar](https://www.masters.edu/media/870039/teaching-credential-program-calendar-fa17-sp18-candidates-copy.pdf "Teaching Credential Program Calendar"), designed to align with local school district calendars rather than the TMU undergraduate calendar. Accordingly, the credential programs begin earlier and finish later than the TMU undergraduate programs. See important dates on the calendar.
+
+Though they are fifth-year undergraduate programs, the credential programs maintain graduate-level quality and graduate-level expectations, resulting in high-quality preparation for teaching. As a result, our credential program alumni are well-qualified for teaching positions in public, private, and international schools, and are in high demand locally and elsewhere.
+
+Credential Program-plus-Master’s Degree pathway. Students who successfully complete a TMU credential program may apply for admission to the online TMU Master of Education degree program and transfer in up to 19 units of credential coursework toward that degree, meaning only 5 additional courses would be needed to earn the M.Ed degree. For more information, see the [TMU Online](http://www.masters.edu/academics/online.aspx "Online Education") page, or contact us.
+
+TUITION AND FEES:
+
+Tuition for credential program: $13,800 ($7,360/fall semester and $6440/spring semester).
+
+See the [Credential Programs Information](https://www.masters.edu/academics/teaching-credential-programs/credential-programs-information/ "Credential Programs Information") page[ ](https://www.masters.edu/umbraco/#_msocom_4)and the [TMU Catalog](http://www.masters.edu/catalog/2016-17/index.html "2016-2017 Academic Catalog") for more detailed information about the programs.
+
+### Pass Rate
+
+* [TMU Teacher Preparation Program Pass Rate](https://www.ctc.ca.gov/docs/default-source/commission/reports/titleii-2014-15-annualrpt.pdf?sfvrsn=df412dbd_0 "Annual Report Card 2016")
+
+### Gainful Employment
+
+* [Gainful Employment Disclosure Information](https://www.masters.edu/media/771563/CredentialGainfulEmployment2014.pdf)
+
+### Median Loan Debt
+
+* [Teaching Credential median loan debt incurred](https://www.masters.edu/academics/graduate/teacher-credential/median-loan-debt.aspx "Median Loan Debt")
+
+### Contact Information
+
+Mrs. Kathleen Thomson\
+Credential Analyst\
+Department of Teacher Education\
+[kthomson@masters.edu](mailto:kthomson@masters.edu)\
+Phone: 661.362.2233\
+Fax: 661.362.2684
