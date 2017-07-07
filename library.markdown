@@ -12,8 +12,8 @@ searchtools-body: |-
   [Find eBooks](https://masters.on.worldcat.org/atoztitles/#ebook)
 
   [Search LC Subject Headings](http://id.loc.gov/authorities/subjects.html)
-services-body:
-About:
+services-body: 
+About: 
 intelibraryloan-body: |-
   Click [here](http://www.formstack.com/forms/masters-interlibrary_loan_books) for books, chapters, pages (be sure to always request title and verso).
 
@@ -622,3 +622,4 @@ giving-body: |-
   Web of Science: Science Citation Index and BIOSIS - initial subscription cost is estimated at $18,000-$20,000\+. Annual subscription thereafter is estimated at $9,000-$11,000.
 layout: library
 ---
+
