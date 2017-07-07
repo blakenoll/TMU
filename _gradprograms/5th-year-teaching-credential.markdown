@@ -3,48 +3,177 @@ title: 5th Year Teaching Credential
 date: 2017-04-18 00:29:00 Z
 permalink: "/academics/teachingcredential"
 program-outline-text: |-
-  Teaching Credential Programs
+  ## CREDENTIAL PROGRAMS INFORMATION:
 
-  ### *Multiple Subject Teaching Credential Program –* for those who want to teach at the elementary school level
+  ## FALL SEMESTER
 
-  ### *Single Subject Teaching Credential Program – *for those who want to teach at the secondary (junior high/high school) level
+  During the first (Fall) semester, sometimes referred to as the Fieldwork Semester, credential program students (candidates) take a full-time course load of professional education courses covering specific subject matter strategies, including how to teach students who are learning English and/or who have special needs in the regular classroom. The courses are designed to be practical, emphasizing the development of teaching skills.
 
-  Each is a 30-unit, two-semester, cohort-style program with a start date in early Fall (early August).
+  In addition to Fall coursework, candidates also complete clinical practice (fieldwork) in two grade levels, paired with veteran master teachers in local public schools. Starting with classroom set-up and preparation prior to the start of school, candidates are both coached and evaluated on potential teaching ability throughout the semester. The program intentionally creates a strong connection between courses and clinical practice. Candidates are asked to reflect on and apply what they are learning in their courses to clinical practice, and vice versa. For more information on clinical practice, visit the [Clinical Practice](https://www.masters.edu/academics/teaching-credential-programs/clinical-practice/ "Clinical Practice") page.
 
-  For important admissions criteria and procedures, including tuition and fees, please visit the [Credential Programs Admissions](https://www.masters.edu/academics/teaching-credential-programs/credential-program-admissions/ "Credential Program Admissions") page.
+  ### Multiple Subject Credential Program Fall Semester Courses (16 units)
 
-  The credential programs follow the [TMU Credential Program Calendar](https://www.masters.edu/media/870039/teaching-credential-program-calendar-fa17-sp18-candidates-copy.pdf "Teaching Credential Program Calendar"), designed to align with local school district calendars rather than the TMU undergraduate calendar. Accordingly, the credential programs begin earlier and finish later than the TMU undergraduate programs. See important dates on the calendar.
+  Candidates must enroll in all of the following courses concurrently (a full-time load).
 
-  Though they are fifth-year undergraduate programs, the credential programs maintain graduate-level quality and graduate-level expectations, resulting in high-quality preparation for teaching. As a result, our credential program alumni are well-qualified for teaching positions in public, private, and international schools, and are in high demand locally and elsewhere.
+  * ED500 Practicum – 3 units
 
-  Credential Program-plus-Master’s Degree pathway. Students who successfully complete a TMU credential program may apply for admission to the online TMU Master of Education degree program and transfer in up to 19 units of credential coursework toward that degree, meaning only 5 additional courses would be needed to earn the M.Ed degree. For more information, see the [TMU Online](http://www.masters.edu/academics/online.aspx "Online Education") page, or contact us.
+  * ED510 Teaching Reading and Language Arts in Elementary - 3 units
 
-  TUITION AND FEES:
+  * ED530A Teaching Strategies for Elementary Math – 2 units
 
-  Tuition for credential program: $13,800 ($7,360/fall semester and $6440/spring semester).
+  * ED530B Teaching Strategies (Health, Social Studies, Visual/Performing Arts, & PE) –3 units
 
-  See the [Credential Programs Information](https://www.masters.edu/academics/teaching-credential-programs/credential-programs-information/ "Credential Programs Information") page[ ](https://www.masters.edu/umbraco/#_msocom_4)and the [TMU Catalog](http://www.masters.edu/catalog/2016-17/index.html "2016-2017 Academic Catalog") for more detailed information about the programs.
+  * ED550 Teaching English Language Learners – 2 units
 
-  ### Pass Rate
+  * ED560 Differentiation for Exceptional Learners – 3 units
 
-  * [TMU Teacher Preparation Program Pass Rate](https://www.ctc.ca.gov/docs/default-source/commission/reports/titleii-2014-15-annualrpt.pdf?sfvrsn=df412dbd_0 "Annual Report Card 2016")
+  ### Single Subject Credential Program Fall Semester Courses (16 units)
 
-  ### Gainful Employment
+  Candidates must enroll in all of the following courses concurrently (a full-time load).
 
-  * [Gainful Employment Disclosure Information](https://www.masters.edu/media/771563/CredentialGainfulEmployment2014.pdf)
+  * ED500 Practicum – 3 units
 
-  ### Median Loan Debt
+  * ED520 Teaching Reading in Secondary School – 3 units
 
-  * [Teaching Credential median loan debt incurred](https://www.masters.edu/academics/graduate/teacher-credential/median-loan-debt.aspx "Median Loan Debt")
+  * ED540 Teaching Strategies – 5 units (course sections labeled by credential subject area)
 
-  ### Contact Information
+  * ED550 Teaching English Language Learners – 2 units
 
-  Mrs. Kathleen Thomson\
-  Credential Analyst\
-  Department of Teacher Education\
-  [kthomson@masters.edu](mailto:kthomson@masters.edu)\
-  Phone: 661.362.2233\
-  Fax: 661.362.2684
+  * ED560 Differentiation for Exceptional Learners – 3 units
+
+  ### Fall Semester Clinical Practice Placements: two 7-week placements
+
+  Multiple Subject Candidates:
+
+  * First placement: Primary grade classroom (usually K-2)
+
+  * Second placement: Upper grade classroom (usually 4-6).
+
+  Required placement hours are start of school day through lunch, Monday – Thursday, approximately 8am – noon.
+
+  Single Subject Candidates:
+
+  * First placement: high school
+
+  * Second placement: junior high
+
+  Required placement hours vary by school site; the candidate is responsible for coordinating a schedule that is the equivalent of three periods, four days per week, usually Monday-Thursday. The goal is to “adopt” three classes and follow their schedule.
+
+  ### CLICK BELOW FOR THE CURRENT YEAR’S COURSE SCHEDULES FOR FALL.
+
+  * [Multiple Subject Course Schedule](https://www.masters.edu/media/870034/ms-teaching-credential-class-schedule-fall-2017-2018.pdf "MS- Teaching Credential Class Schedule - FALL 2017-2018")
+
+  * [Single Subject Course Schedule](https://www.masters.edu/media/870035/ss-teaching-credential-class-schedule-fall-2017-2018.pdf "SS- Teaching Credential Class Schedule- FALL 201-2018")
+
+  Application for Advancement to Spring Semester. Near the end of the Fall semester, candidates apply to advance to Spring semester. Advancement is determined at the sole discretion of the program, based on satisfactory completion of the following requirements:
+
+  * A minimum grade of B- in each Fall course
+
+  * Passing scores on any assigned Teaching Performance Assessment tasks
+
+  * Satisfactory (passing) recommendations from their master teachers
+
+  * Verification of being certified in adult, infant, and child CPR. (Certification must meet the standards set by the CTC – currently, those are the American Heart Association B-Level Course or the American Red Cross Community CPR course.)
+
+  ## SPRING SEMESTER
+
+  In the second (Spring) semester, sometimes referred to as the Student Teaching Semester, candidates are placed back in their Fall semester public school classrooms for all-day student teaching. In addition, candidates take the Student Teaching Colloquium course. As they assume most day-to-day responsibilities of full-time teaching, candidates are coached and formally evaluated on teaching skills throughout this semester.
+
+  ### Multiple Subject Credential Program Spring Semester Courses (14 units)
+
+  Candidates must enroll in all of the following courses concurrently (a full-time load).
+
+  * ED570 Colloquium – 2 units (letter grade)
+
+  * ED580 Elementary Student Teaching – 12 units (pass/fail)
+
+  ### Single Subject Credential Program Spring Semester Courses (14 units)
+
+  Candidates must enroll in all of the following courses concurrently (a full-time load).
+
+  * ED570 Colloquium – 2 units (letter grade)
+
+  * ED590 Secondary Student Teaching – 12 units (pass/fail)
+
+  ### Spring Semester Clinical Practice (Student Teaching) Placements: two 8-week placements
+
+  The goal is for candidates to return to the same placements as the Fall semester - for full-day, Monday-Friday student teaching placements.
+
+  Multiple Subject Candidates:
+
+  * First placement: upper grade (usually 4-6)
+
+  * Second placement: primary grade (usually K-2)
+
+  Single Subject Candidates:
+
+  * First placement: high school
+
+  * Second placement: junior high
+
+  ### CANDIDATE TRANSITION PLAN
+
+  As part of the credential program requirements, at the end of the program candidates will meet with TMU program faculty to create a Candidate Transition Plan. This document will outline the candidate’s strengths and areas of future growth relative to the state’s [Teaching Performance Expectations](https://www.ctc.ca.gov/docs/default-source/educator-prep/standards/adopted-tpes-2016.pdf?sfvrsn=8cb2c410_0 "California Teaching Performance Expectations"). Candidates who are employed in California will use this plan to begin their Induction program to clear their preliminary credential.
+
+  ## CALIFORNIA TEACHING CREDENTIALS
+
+  Upon completion of a California teaching credential program, candidates are recommended by their college or university to the California Commission on Teacher Credentialing (CTC).
+
+  At the end of their TMU Credential program, the candidate submits a Credential Recommendation Request to the Credential Analyst at TMU in order to be begin the recommendation process.The Master’s University is required to abide by the regulations and requirements of the CTC, as is the teaching credential candidate. Though it is the candidate’s responsibility to remain aware of and meet the credential requirements of the CTC, the programs provide guidance and support to candidates in meeting these requirements.
+
+  Upon receipt of the Credential Recommendation Request, the Credential Analyst will complete a review of the candidate’s status at program completion, verifying the following:
+
+  * Completion of all program and credential requirements, including passing all required exams (including TPAs)
+
+  * Completion of all program courses with minimum grade of B[-](https://www.masters.edu/umbraco/#_msocom_5)
+
+  * Passing score on the RICA exam (multiple subject candidates only)
+
+  * Successful completion of student teaching (passing grades), including receipt of all required evaluation forms from master teachers and university supervisor(s)
+
+  * Completion of Candidate Transition Plan
+
+  * Accuracy of “Credential Recommendation Request” submitted by candidate
+
+  NOTE: in addition to program completion requirements as outlined previously, multiple subject credential candidates must pass the Reading Instruction Competency Assessment (RICA exam) and submit official scores in order to be eligible to be recommended for the credential. Multiple subject candidates are provided with information about and preparation for this exam in their Fall semester ED510 course.
+
+  After an exit interview with the candidate ensuring all of the requirements are met, the credential analyst will submit a recommendation to the CTC for the candidate. The candidate will receive an email from the CTC when the recommendation is made, and will then complete his or her portion of the recommendation online and pay the required fees. (This online process requires payment be made by a Visa, MasterCard, or Debit Card with a Visa or MasterCard logo.) When the candidate has successfully completed his or her portion and paid the required fees, he or she will receive email verification of the completed process. Finally, the candidate will receive email notification from the CTC when the credential is granted.
+
+  ### OFFICIAL NAMES/TYPES OF CREDENTIALS
+
+  The TMU Credential Programs prepare students for the following credentials:
+
+  California Preliminary 2042 Multiple Subject Teaching Credential
+
+  Teachers in elementary schools need a Multiple Subject Credential, as they usually teach multiple subjects to the same group of students in a self-contained classroom. (The Multiple Subject credential includes authorization for the holder to teach English learners in the regular classroom.)
+
+  California Preliminary 2042 Single Subject Teaching Credential
+
+  Teachers in junior high or senior high schools need a Single Subject Credential in the subject area they wish to teach, as they usually teach a single subject to different groups of students (classes) in a departmentalized setting. (The 2042 Single Subject credential includes authorization for the holder to teach English learners in the regular classroom.)
+
+  ### LEVELS OF CREDENTIALS
+
+  Preliminary Credential
+
+  Candidates are recommended for a preliminary credential by The Master’s University upon satisfactory completion of a credential program. The Preliminary Credential is valid for five years, during which time candidates can be employed as teachers while completing the requirements needed for the Clear Credential (the next and final level) through a state-approved program.
+
+  Clear Credential
+
+  Currently, holders of a Preliminary Credential have three options to obtain a Clear Credential. More information about each of these options is available at the CTC website ([www.ctc.ca.gov](http://www.ctc.ca.gov/))
+
+  Option 1: A CTC-approved Teacher Induction Program through an approved school district, county office of education, college or university, consortium, or private school. This is the most common option.
+
+  Option 2: A CTC-approved Clear Credential or Induction Program through a university or other sponsoring agency. Individuals receive that institution's formal recommendation for the clear credential.
+
+  Option 3: Certification by the National Board of Professional Teaching Standards in a qualifying subject.
+
+  ### Additional Authorizations
+
+  Once a person is granted a multiple subject or a single subject credential by the CTC, it is possible to obtain additional authorizations to teach in additional subject areas. Check with the Credential Analyst to find out more about this process.
+
+  ### Candidate Files
+
+  The credential programs maintain electronic files for all candidates. In addition to required program forms and records, candidates may add to their file letters of recommendation from principals, teachers, or other school site personnel who observe them teaching during clinical practice.
 admissions-body: |-
   Credential Programs Admissions
 
