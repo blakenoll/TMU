@@ -1,24 +1,38 @@
 ---
 title: Building Schedules
 date: 2017-04-11 23:22:00 Z
+parallax-img: "/images/Parallax2.jpg"
 layout: buildingschedules
 schedules:
 - name: Help Desk
   ext: 2876
   days-body: Monday - Friday
   hours-body: |-
-    8:00am - 5:00pm;\
-    Closed 11:30am-12:30pm for lunch
+    8:00am - 5:00pm (Closed 11:30am-12:30pm for lunch)
 - name: Library
   ext: 2278
-  days-body: "Sunday  \\\nMonday - Thursday  \\\nFriday  \\\nSaturday  "
+  days-body: |-
+    Sunday
+
+    Monday & Wednesday
+
+    Tuesday & Thursday
+
+    Friday
+
+    Saturday
   hours-body: |-
-    7:30pm - midnight\
-    7:30am - midnight\
-    7:30am - 5:00pm\
-    12:00pm - 10:00pm
+    8:00pm - midnight
+
+    10:00am - midnight
+
+    9:00am - midnight
+
+    10:00am - 5:00pm
+
+    2:00pm - 10:00pm
 - name: Music Hall Practice Rooms
-  ext: 
+  ext:
   days-body: Everyday
   hours-body: 6:00am - midnight
 - name: Canyon Cafe
@@ -40,7 +54,7 @@ schedules:
 
     Closed
 - name: Mustang Grill
-  ext: 
+  ext:
   days-body: |-
     Monday-Friday
 
@@ -48,36 +62,45 @@ schedules:
 
     Sunday
   hours-body: |-
-    B- 6:45am - 9:00am\
-    L- 11:00am - 1:30pm\
-    D- 5:00pm - 6:45pm
+    Breakfast - 6:45am - 9:00am
+    Lunch - 11:00am - 1:30pm
+    Dinner - 5:00pm - 6:45pm
 
-    B- 10:30am - 11:30am\
-    D- 4:30pm - 5:30pm
+    Brunch - 10:30am - 11:30am
+    Dinner - 4:30pm - 5:30pm
 
-    B- 6:45am - 9:00am\
-    L- 12:00 pm - 1:15 pm\
-    D- 4:30 pm - 6:00 pm
+    Breakfast - 6:45am - 9:00am
+    Lunch - 12:00 pm - 1:15 pm
+    Dinner - 4:30 pm - 6:00 pm
 - name: Bookstore
   ext: 2862
   days-body: |-
-    Monday - Friday\
-    Saturday\
-    Sunday\
-    \(Please call for summer hours)
+    Monday - Friday
+
+    Saturday
+
+    Sunday
+
+    (Please call for summer hours)
   hours-body: |-
-    10:00am - 6:00pm\
-    10:00am - 1:00pm\
+    10:00am - 4:00pm
+
+    10:00am - 1:00pm
+
     Closed
 - name: Mail Center
   ext: 2349
   days-body: |-
-    Monday - Friday\
-    Saturday\*\
+    Monday - Friday
+
+    Saturday
+
     Sunday
   hours-body: |-
-    9:00am - 4:00pm\
-    11:00am - 1:00pm\
+    9:00am - 4:00pm
+
+    11:00am - 1:00pm
+
     Closed
 - name: Career Services
   ext: 2267
@@ -104,26 +127,30 @@ schedules:
 - name: Campus Safety
   ext: 2500
   days-body: Open 24/7
-  hours-body: 
+  hours-body:
 - name: Health Services
   ext: 3765
   days-body: |-
-    Monday\
-    Tuesday - Thursday\
-    Friday\
-    Weekends and Holidays
+    Monday
+
+    Tuesday - Thursday
+
+    Friday
   hours-body: |-
-    10:30am - 5:00pm\
-    8:30am - 5:00pm\
-    9:30am - 5:00pm\
-    Closed
+    10:30am - 5:00pm
+
+    8:30am - 5:00pm
+
+    9:30am - 5:00pm
 - name: Self Care/First Aid Center
-  ext: 
+  ext:
   days-body: |-
-    Monday - Friday\
+    Monday - Friday
+
     Weekends
   hours-body: |-
-    6:00am - 10:00pm\
+    6:00am - 10:00pm
+
     Call Campus Security and request access to CPS 2
 - name: Financial Aid
   ext: 2290
@@ -135,7 +162,7 @@ schedules:
   hours-body: 8:30am - 5:00pm
 - name: Fitness Center
   ext: 3940
-  days-body: Hours Vary
-  hours-body: 
+  days-body: Hours Vary, please call
+  hours-body:
 ---
-
+*Please note: all buildings and/or services will be closed M/W/F from 9:00-10:30 for chapel.*

@@ -5,12 +5,12 @@ parallax-img: "/images/Parallax2.jpg"
 layout: bookstore
 ---
 
-## Check out the new University Exchange site
+> ***Check out the new University Exchange site:***<a href="https://ue.masters.edu" class="btn btn-navy right">Shop Now</a>
 
-[Shop Now](https://ue.masters.edu/)
 <div class="video-container">
 <iframe src="https://player.vimeo.com/video/190782130?color=daaa00&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
+
 A bookstore is a physical representation of an institution; it represents who we are. October 2016 The Master’s University Bookstore closed its doors and was cleared out for renovation. Paper covered the windows and thin wood walls concealed the facade --- hiding the work being done, but unable to silence the sound of nails being hammered in or stifle the smell of fresh paint.
 
 

@@ -2,6 +2,7 @@
 title: Conference Services
 date: 2017-04-11 23:21:00 Z
 layout: conferenceservices
+parallax-img: "/images/Parallax10.jpg"
 contact-body: |-
   *For more information or to make a reservation, please contact...*
 
@@ -47,7 +48,7 @@ contact-body: |-
   Fax: 661.259.2151
 meeting-rooms-body: |-
   <h1>Meeting Rooms</h1>\
-  <p><img src="/media/747863/meeting rooms_593x156.jpg" alt="Meeting rooms" style="border: 3px solid black;" height="156" width="593" /></p>\
+  <p><img src="http://www.masters.edu/media/747863/meeting rooms_593x156.jpg" alt="Meeting rooms" style="border: 3px solid black;" height="156" width="593" /></p>\
   <p><span>We have a wide variety of meeting rooms, classrooms and dorms available.  Please see the attached <a href="/media/865644/meeting-rooms-rates-on-campus.pdf" title="Meeting Rooms &amp; Rates on Campus.pdf (1)">meeting room rates </a>for reference.</span></p>\
   <p><span>Below are photos of some of the classrooms available for use on our campus.  </span></p>\
   <p><span>Set-up Key:</span></p>\

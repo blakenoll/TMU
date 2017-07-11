@@ -2,15 +2,16 @@
 title: Employment
 date: 2017-04-11 23:22:00 Z
 layout: employment
+parallax-img: "/images/Parallax10.jpg"
 positions:
 - title: Staff Accountant
   position: staff
   about-body: |-
-    Summary
+    ### Summary
 
     The Staff Accountant will apply GAAP to conduct daily general ledger and other entries, analyze financial information, prepare financial reports, and assist the Controller & Assistant Controller in various activities.
 
-    Essential Functions
+    #### Essential Functions
 
     * Compiles and analyzes financial information to prepare entries to accounts, such as general ledger accounts, documenting business transactions.
 
@@ -32,7 +33,7 @@ positions:
 
     * Regular attendance is essential.
 
-    Competencies
+    #### Competencies
 
     * Must be computer proficient, especially in use of spreadsheet applications and database systems.
 
@@ -56,7 +57,7 @@ positions:
 
     * Reading and comprehending correspondence is imperative.
 
-    Qualifications
+    #### Qualifications
 
     List minimum requirements to be considered for this position:
 
@@ -90,7 +91,7 @@ positions:
 
     * Must successfully pass a background investigation.
 
-    Working Conditions
+    #### Working Conditions
 
     List general working conditions for this position:
 
@@ -100,7 +101,7 @@ positions:
 
     * Travel: Some travel required.
 
-    Additional Information
+    #### Additional Information
 
     Minimum Conditions for Beginning Employment:
 
@@ -114,7 +115,7 @@ positions:
 
     The Master’s College & Seminary does not discriminate on the basis of race, color, national origin, ancestry, gender, age, marital status, veteran status or prior military service, medical condition, or any physical or mental disability. We are committed to practicing principles of equal employment opportunity and diversity based upon sovereign Biblical principles.
 
-    Application Process
+    #### Application Process
 
     Completed application form from The Master’s College. This can be obtained at [www.masters.edu/jobs](http://www.masters.edu/jobs) or by contacting
 
@@ -124,29 +125,28 @@ positions:
 
     21726 Placerita Canyon Road • Santa Clarita, California • 91321-1200
 
-    \(800) 568-6248 • (661) 362-2844 ¨ FAX (661) 362-2717
+    (800) 568-6248 • (661) 362-2844 ¨ FAX (661) 362-2717
 
-    Selection Process:
+    #### Selection Process
 
     All applications will be reviewed by the Human Resources department. Selected candidates will be invited for a personal interview at The Master’s College. Any expense incurred in connection with these interviews will be the responsibility of the candidates.
 
-    Application Procedures:
+    #### Application Procedures
 
     All documents included in your application remain the sole property of The Master’s College and will not be returned. Your file for this opening will not be considered unless all requested items are submitted and are complete.
 ---
 
 Please see the list below for the faculty and staff positions that are currently available at The Master's University & Seminary. A basic description of each job and its requirements may be obtained by clicking on the corresponding job title.
 
-FOR FULL-TIME FACULTY POSITIONS: Please submit your cover letter and Curriculum Vitae to the Academic Affairs department by emailing: apari@masters.edu.
+**FOR FULL-TIME FACULTY POSITIONS**: Please submit your cover letter and Curriculum Vitae to the Academic Affairs department by emailing: apari@masters.edu.
 
-FOR STAFF POSITIONS: [Click here to download an application for employment (including doctrinal statement).](http://www.masters.edu/media/869616/tmus-application-for-employment.pdf "TMUS Application for Employment.pdf") Completed applications should be submitted to the Human Resources department via one of the following options:
+**FOR STAFF POSITIONS**: [Click here to download an application for employment (including doctrinal statement).](http://www.masters.edu/media/869616/tmus-application-for-employment.pdf "TMUS Application for Employment.pdf") Completed applications should be submitted to the Human Resources department via one of the following options:
+<ul class="browser-default">
+  <li>Email - humanresources@masters.edu</li>
+  <li>Fax - 661.362.2717</li>
+  <li>Regular mail - 21726 Placerita Canyon Road, Box 41 Santa Clarita, CA 91321</li>
+</ul>  
 
-* Email - humanresources@masters.edu
-
-* Fax - 661.362.2717
-
-* Regular mail - 21726 Placerita Canyon Road, Box 41 Santa Clarita, CA 91321
-
-FOR ADJUNCT FACULTY POSITIONS: Fill out the application listed above and send your completed application to the Chair of the department you wish to teach for.
+**FOR ADJUNCT FACULTY POSITIONS**: Fill out the application listed above and send your completed application to the Chair of the department you wish to teach for.
 
 Should you need further assistance please contact the Human Resources department at (661) 362.2843 or humanresources@masters.edu.
