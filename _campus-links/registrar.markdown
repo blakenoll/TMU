@@ -1,5 +1,5 @@
 ---
-title: Registrar
+title: The Office of the Registrar
 date: 2017-04-11 23:23:00 Z
 parallax-img: "/images/Parallax9.jpg"
 articulation-body: |-

@@ -2,6 +2,7 @@
 layout: default
 ---
 
+{% include parallax-header.html %}
 <div class="container">
   <br>
   <div class="row">
@@ -9,7 +10,7 @@ layout: default
       <nav>
        <div class="nav-wrapper white">
          <div class="col s12">
-           <a href="{{ "/financial-aid" | prepend: site.url }}" class="breadcrumb">Campus Services</a>
+           <a href="{{ "/campus-links" | prepend: site.url }}" class="breadcrumb">Campus Links</a>
            <a href="#!" class="breadcrumb">{{ page.title }}</a>
          </div>
        </div>
@@ -17,7 +18,15 @@ layout: default
     </div>
   </div>
   {{ content }}
-  <table>
+  <table class="bordered">
+    <thead>
+      <tr>
+          <th>Building</th>
+          <th>Days</th>
+          <th>Hours</th>
+      </tr>
+    </thead>
+    <tbody>
     {% for building in page.schedules %}
     <tr>
       <td>{{ building.name }}<br>ext: {{ building.ext }}</td>
@@ -25,6 +34,7 @@ layout: default
       <td>{{ building.hours-body | markdownify  }}</td>
     </tr>
     {% endfor %}
+  </tbody>
   </table>
 
 </div>

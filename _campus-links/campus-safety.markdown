@@ -33,7 +33,7 @@ preparedness-body: |-
 
   * [View Video: "Hands only CPR"](http://handsonlycpr.eisenberginc.com/video/Hands-Only-Promo-English.wmv)
 
-  * [Los Angeles County Emergency Survival Guide](http://lacoa.org/pdf/emergencysurvivalguide-lowres.pdf) \[.pdf\]\
+  * [Los Angeles County Emergency Survival Guide](http://lacoa.org/pdf/emergencysurvivalguide-lowres.pdf)
 
   ## Questions or Comments
 
@@ -95,7 +95,7 @@ In the event of a life threatening emergency, faculty, staff, and students regis
 
 ## Active Shooter Training
 
-The following video presentation (TMU LOGIN REQUIRED) is provided as a service to the campus community:[ Active Shooter Training Presentation.](https://mix.office.com/watch/d8mtp1ue02zp) Remember: Always Call 911 AND Campus Safety.\\
+The following video presentation (TMU LOGIN REQUIRED) is provided as a service to the campus community:[ Active Shooter Training Presentation.](https://mix.office.com/watch/d8mtp1ue02zp) Remember: Always Call 911 AND Campus Safety.
 
 ## Twitter Feed
 

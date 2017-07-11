@@ -1,6 +1,4 @@
----
-layout: default
----
+--- layout: default ---
 {% include parallax-header.html %}
 
 <div class="container">
@@ -38,6 +36,7 @@ layout: default
             <div class="col s4">
               <h3>Dianna Constazo</h3>
             </div>
+            <p>{{ page.resources | markdownify }}</p>
           </div>
         </div>
       </div>
@@ -50,16 +49,19 @@ layout: default
         <div class="card-tabs">
           <ul class="tabs tabs-fixed-width">
             <li class="tab"><a href="#tutoring">Tutoring Information</a></li>
+            <li class="tab"><a href="#team">The ARC Team</a></li>
             <li class="tab"><a href="#resources">Helpful Resources</a></li>
           </ul>
         </div>
         <div class="card-content grey lighten-4">
           <div id="tutoring" style="">
             {{ page.tutoring-info | markdownify}}
-          </div>
-          <div id="resources" style="">
-          {{ page.resources | markdownify}}
-          </div>
+            <div id="team" style="">
+            {{ page.team | markdownify}}
+            </div>
+            <div id="resources" style="">
+            {{ page.resources | markdownify}}
+            </div>
           </div>
         </div>
       </div>
