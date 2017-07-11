@@ -70,8 +70,8 @@ apply-body: |-
   [Click here](http://www.masters.edu/undergrad/apply/application-status.aspx "Application Status") to check the status of your online application in real time.
 
   If you've been admitted and have decided that TMU is the place for you, secure your spot today by submitting your $200 tuition/housing deposit [here](https://www.formstack.com/forms/masters-new_student_deposit_payment "Undergrad Deposit Form"). The deposit is fully refundable until May 1.
-staff-body: 
-intl-students-body: 
+staff-body: blah blah
+intl-students-body:
 layout: default
 ---
 
