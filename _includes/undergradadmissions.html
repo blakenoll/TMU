@@ -31,7 +31,25 @@
 </div>
 <div id="intl" class="col s12">
   <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
-  Intl students
+
+  <ul class="collapsible" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header">Step 1</div>
+      <div class="collapsible-body"><span>{{ page.intl.step1-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Step 2</div>
+      <div class="collapsible-body"><span>{{ page.intl.step2-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Step 3</div>
+      <div class="collapsible-body"><span>{{ page.intl.step3-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Step 4</div>
+      <div class="collapsible-body"><span>{{ page.intl.step4-body | markdownify }}</span></div>
+    </li>
+  </ul>
 </div>
 <div id="faq" class="col s12">
   <h1>Admissions - Frequently Asked Questions</h1>
