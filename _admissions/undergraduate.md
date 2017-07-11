@@ -73,7 +73,7 @@ apply-body: |-
 intl:
   step1-body: Apply
   step2-body: |-
-    Request Transcripts
+    ### 1. Request Transcripts
 
     A transcript is a document that reflects the completion of your secondary school education or the equivalent. Transcripts list the courses you took, the grading scale used, and the grades (marks) you obtained.
 
@@ -91,12 +91,12 @@ intl:
 
     All official and evaluated transcripts should be sent to:
 
-    \*The Master's University - Office of Admissions \*\
-    \*21726 Placerita Canyon Road \*\
-    \*Santa Clarita, CA 91321 \*\
+    The Master's University - Office of Admissions \
+    21726 Placerita Canyon Road \
+    Santa Clarita, CA 91321 \
     *USA*
 
-    Submit English Language Test Score
+    ### 2. Submit English Language Test Score
 
     Your academic success at The Master’s University depends a great deal upon your fluency in the English language. In order to determine your level of proficiency, international applicants must sit for the TOEFL (Test of English as a Foreign Language) or the IELTS (International English Language Testing System).
 
@@ -114,15 +114,15 @@ intl:
     Note to Transfer Students:\
     If you have completed 24 or more semester units of transferable coursework at an accredited American university or college (but not just in an ESL program), the requirements for submitting exam scores (TOEFL, IELTS, SAT, or ACT) are waived.
 
-    Send Pastor Recommendation
+    ### 3. Send Pastor Recommendation
   step3-body: |-
-    Complete Financial Aid Application
+    ### Complete Financial Aid Application
 
     At the present time, it costs approximately $42,000 (USD) to attend The Master’s University for one year (two semesters), including tuition, housing, and meals. Books, health insurance, and transportation may be extra.
 
     We are happy to say that—while The Master’s University is not able to give students a full scholarship—we do offer significant funds for qualified international students. We understand that this is a difficult process requiring a great deal of effort and faith. We are praying with you that God’s provision and guidance would be clear to you through this process. Currently, over 90% of our student population receives financial aid! Please note that individual awards cannot be determined until the student has been admitted to the college.
 
-    ## Important Background Information
+    ### Important Background Information
 
     You should be aware of the following regulations pertaining to international students in F-1 status:
 
@@ -138,7 +138,7 @@ intl:
 
     6. Student loans are not available, nor advisable, for international students.
 
-    ## Scholarships and Grants
+    ### Scholarships and Grants
 
     Please Note: Applicants must submit the following three forms in order to qualify for ANY financial aid.
 
@@ -212,7 +212,7 @@ intl:
 
     Our staff is here to guide you through this process—you’re not on your own! Please contact [Amy Bryerton](mailto:abryerton@masters.edu "Email Amy Bryerton"), International Admissions Counselor, with any additional questions you have about international financial aid.
   step4-body: |-
-    Finalize Visa Requirements
+    ### Finalize Visa Requirements
 
     Most international students will need an F-1 (student) visa to study at The Master’s University. Once an international student receives his or her acceptance letter and financial aid award package, an I-20 Certificate of Eligibility may be obtained with the assistance of our Designated School Official (DSO). The I-20 can in turn be used to apply for an F-1 visa as a U.S. embassy or consulate. Of course, you as an individual are responsible for obtaining and maintaining a valid passport from your home country.
 
