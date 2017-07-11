@@ -107,7 +107,7 @@ staff:
   phone: 16613622608
   video: <iframe src="https://player.vimeo.com/video/222389018" width="640" height="360"
     frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  about-body: 
+  about-body: morgan
 intl-students-body: 
 layout: default
 ---
