@@ -71,13 +71,14 @@ apply-body: |-
 
   If you've been admitted and have decided that TMU is the place for you, secure your spot today by submitting your $200 tuition/housing deposit [here](https://www.formstack.com/forms/masters-new_student_deposit_payment "Undergrad Deposit Form"). The deposit is fully refundable until May 1.
 staff:
-- name: 
-  about: 
-  email: 
-  phone: 
-  video: 
-intl-students-body: 
+- name:
+  about:
+  email:
+  phone:
+  video:
+intl-students-body:
 layout: default
 ---
 
 {% include undergradadmissions.html %}  
+why sync not working 
