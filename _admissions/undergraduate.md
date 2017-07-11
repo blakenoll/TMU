@@ -70,44 +70,6 @@ apply-body: |-
   [Click here](http://www.masters.edu/undergrad/apply/application-status.aspx "Application Status") to check the status of your online application in real time.
 
   If you've been admitted and have decided that TMU is the place for you, secure your spot today by submitting your $200 tuition/housing deposit [here](https://www.formstack.com/forms/masters-new_student_deposit_payment "Undergrad Deposit Form"). The deposit is fully refundable until May 1.
-staff:
-- name: Maddie Olling
-  about-body: |-
-    I was born and raised in Seattle, fully equipped with a plan to never leave. I stuck closely with my plan and followed my love of pine trees to Spokane, where I attended a small liberal arts school for a year and a half, before transferring to The Master’s University. The summer between my freshman and sophomore year of college, I worked at a summer camp high in the Cascade mountains, where I came to know Jesus Christ as my savior. Soon after, the Lord led me out of my home state to sunny California—which despite my objections, ended up being one of the sweetest gifts the Lord has given to me.
-
-    I graduated from The Master’s University in May of 2016 with a B.A. in Biblical Studies, and was offered the opportunity to serve as an admissions counselor the day I walked across the stage, and couldn’t say no! Now I get to tell other Pacific Northwesterners why it’s worth it to leave the rainy states for a few years in California, in return for a world class Bible education and the sweetest community you can find.
-
-    Other things about me? I love camp, I love pine trees, I love coffee, I love travel. But mostly, I love learning daily how to conform to the likeness of my Savior by his unending and undeserved grace.
-  email: molling@masters.edu
-  phone: 16613622604
-  video: <iframe src="https://player.vimeo.com/video/188209245" width="640" height="360"
-    frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-- name: Micah Dixon
-  email: mdixon@masters.edu
-  phone: 16613622216
-  video: <iframe width="640" height="360" src="https://player.vimeo.com/video/188209246"
-    frameborder="0" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen=""></iframe>
-  about-body: |-
-    I was born in beautiful Southern California, and growing up with the mountains and beach easily accessed in the same day was going to be a hard thing to leave for college. So although I checked out many other schools, TMU was where God had me. I did initially choose the college for its location, but reaped far more benefits in my 4 years there. The truth I learned and Christian world view I developed both grew me then, and continues to impact me now.\
-    \
-    I spent the first year out of college traveling as much as I could, and the second year at a corporate job. But after all that I am so thankful to now be a part of the Admissions Staff here at TMU. I look forward to helping many students come to a college where they’ll have a blast and learn how to honor Jesus Christ in all aspects of life.
-- name: Mike Jackson
-  email: mjackson@masters.edu
-  phone: 16613622606
-  video: <iframe src="https://player.vimeo.com/video/188209243" width="640" height="360"
-    frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-  about-body: |-
-    I was raised in the great state of Texas in a wonderful Christian home where I first heard about Master’s as my Dad is an alum of the college. I came to Master’s in 2012 to study biology pre-med and my time here ended up being more life changing than I could have ever imagined. It was during my four years at Master’s the Lord really showed me what it meant to live for Him through the examples of professors, mentors, and friends.
-
-    While at Master’s, along with studying biology, I was a part of the chorale, performed in theater productions, served as an RA in the dorms, and was given to opportunity to travel abroad to countries like Israel, France, Switzerland, Albania, and Croatia! Because of the size of Master’s I was able to utilize all of the resources and learn so much about life. The Lord also gave me brothers and sisters in Christ who I’ll be friends with for the rest of my life!
-
-    My plan is to eventually attend medical school and become and ER doctor; but I also knew I wanted to take some time off and work before starting medical school. When I started looking for jobs, I realized that I wanted to work somewhere I could invest into and really care about what the company or organization stood for. Then I realized, why not work and give back to a place that has already given so much to me? So right now I’m thrilled to be building relationships with students across the country. I love helping bring students to Master’s and watching them have their own fantastic experiences and grow in their knowledge and love of the Lord.
-- name: Morgon Pedrick
-  email: mpedrick@masters.edu
-  phone: 16613622608
-  video: <iframe src="https://player.vimeo.com/video/222389018" width="640" height="360"
-    frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  about-body: morgan
 intl-students-body:
 - step1-body: Apply
   step2-body: |-
