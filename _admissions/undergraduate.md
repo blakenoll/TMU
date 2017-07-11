@@ -108,7 +108,58 @@ staff:
   video: <iframe src="https://player.vimeo.com/video/222389018" width="640" height="360"
     frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   about-body: morgan
-intl-students-body: 
+intl-students-body: |2-
+    <ul class="collapsible" data-collapsible="accordion">
+      <li>
+        <div class="collapsible-header">Step 1</div>
+        <div class="collapsible-body"><span>Apply</span></div>
+      </li>
+      <li>
+        <div class="collapsible-header">Step 2</div>
+        <div class="collapsible-body"><span>**A transcript is a document that reflects the completion of your secondary school education or the equivalent. Transcripts list the courses you took, the grading scale used, and the grades (marks) you obtained.**
+
+  **The Master’s University prefers that all transcripts sent to us also be accompanied by an American GPA equivalent (given on a 4.0 scale). This evaluation should be done by a credential evaluation service. If your transcript does not already give a cumulative GPA on a 4.0 scale, then please have such an evaluation performed. We suggest the following two evaluators, though others are available. Look for a credential evaluation service that holds an NACES (National Association of Credential Evaluation Services) membership, to ensure the highest possible accuracy in your transcript evaluation. Please follow the instructions on the evaluators’ websites.**
+
+  * **[World Education Services](http://www.wes.org/ "WES")**
+
+  * [Educational Credential Evaluators](https://www.ece.org/ "ECE")
+
+  **All transcripts must be officially translated into English, and bear both the original signature (not a photocopy) of the school official and the official school seal.**
+
+  **Transfer Students (those who have completed any post-secondary coursework) should also have their college or university transcripts submitted, likewise officially translated into English. Transfer students seeking transfer credit should make sure to have a course-by-course evaluation performed, if needing their transcripts evaluated according to paragraph 2, above.**
+
+  **Please keep in mind that it may take several weeks for your school to process and mail an official transcript (in addition to the time the transcripts spend in transit, which varies from country to country). Likewise, the evaluation process may also take several days or weeks. Accordingly, please submit your transcripts requests early in the application process.**
+
+  **All official and evaluated transcripts should be sent to:**
+
+  ***The Master's University - Office of Admissions *****\
+  *21726 Placerita Canyon Road *\
+  *Santa Clarita, CA 91321 *\
+  *USA***
+
+  Submit English Language Score
+
+  **Your academic success at The Master’s University depends a great deal upon your fluency in the English language. In order to determine your level of proficiency, international applicants must sit for the TOEFL (Test of English as a Foreign Language) or the IELTS (International English Language Testing System).**
+
+  **The TOEFL is an official exam supervised by the Educational Testing Service (ETS). The service sends an official report noting your score on the exam to an institution of your choice. You may obtain information about this test at [www.toefl.org](http://www.toefl.org/). When you apply for the test you may have your results sent to The Master’s University by referencing our school code, which is 4411.**
+
+  **To be considered for admission to The Master’s University, applicants must earn a score of at least 80 on the internet-based (iBT) TOEFL or a 550 on paper-based version.**
+
+  **IELTS is jointly managed by the British Council, IDT:IELTS Australia, and the University of Cambridge ESOL Examinations. Information about sitting for the IELTS can be found on their web site at [www.ielts.org](http://www.ielts.org/). The Master’s University requires a band score of 6.5 or higher.**
+
+  **Registration for these exams often must be secured several months in advance. Please plan accordingly.**
+
+  **Note to Native English Speakers:\
+  If you are a native English speaker, you should take either the SAT or ACT, in lieu of the TOEFL or IELTS. Our school code for the SAT is 4411, and for the ACT it is 0303.**
+
+  **Note to Transfer Students:\
+  If you have completed 24 or more semester units of transferable coursework at an accredited American university or college (but not just in an ESL program), the requirements for submitting exam scores (TOEFL, IELTS, SAT, or ACT) are waived.**</span></div>
+      </li>
+      <li>
+        <div class="collapsible-header"><i class="material-icons">whatshot</i>Third</div>
+        <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+      </li>
+    </ul>
 layout: default
 ---
 
