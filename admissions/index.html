@@ -1,0 +1,23 @@
+---
+title: Admissions
+layout: default
+---
+
+<div class="container">
+  <h1 class="center">Admissions</h1>
+    <div class="row">
+    <div class="col s12">
+      <ul class="tabs tabs-fixed-width">
+        {% assign programs = site.admissions | sort: "position"%}
+        {% for program in programs %}
+        <li class="tab"><a href="#{{ program.title | remove: " " }}">{{ program.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  {% for program in programs %}
+   <div id="{{ program.title | remove: " " }}" class="col s12 admissions-a">
+     {{ program.content | markdownify }}
+   </div>
+  {% endfor %}
+</div>

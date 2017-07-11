@@ -1,0 +1,146 @@
+---
+layout: default
+---
+
+{% include parallax-header.html %}
+<div class="row">
+   <div class="container">
+      <br>
+      <div class="row">
+        <div class="col s12">
+          <nav>
+           <div class="nav-wrapper white">
+             <div class="col s12">
+               <a href="{{ "/academics/undergraduate" | prepend: site.url }}" class="breadcrumb">Undergrad</a>
+               <a href="#!" class="breadcrumb">{{ page.title }}</a>
+             </div>
+           </div>
+         </nav>
+        </div>
+      </div>
+      <div class="col s12">
+        <ul class="tabs tabs-fixed-width">
+          <li class="tab"><a href="#academics">Academics</a></li>
+          <li class="tab"><a target="_self" href="{{ "/performingarts/music" |prepend: site.url }}">Concerts & Events</a></li>
+        </ul>
+      </div>
+   </div>
+
+
+   <div id="academics" class="col s12">
+     <div class="container">
+       <div class="row">
+         <div class="col s12 m9">
+           <p>{{ page.description }}</p>
+           <h2>Faculty</h2>
+           <ul>
+               {% for faculty in site.faculty %}
+               {% if faculty.department contains page.title %}
+               <div class="chip">
+                 <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
+                 <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+               </div>
+               {% endif %}
+               {% endfor %}
+           </ul>
+
+           <div class="card">
+             <!-- <div class="card-content">
+               <p>{{ page.description }}</p>
+             </div> -->
+             <div class="card-tabs">
+               <ul class="tabs tabs-fixed-width">
+                 <li class="tab"><a class="active" href="#wam">Why at Master's</a></li>
+                 <li class="tab"><a href="#mr">Major Requirements</a></li>
+               </ul>
+             </div>
+             <div class="card-content grey lighten-4">
+               <div id="wam">
+                 {{ page.why-at-masters-body | markdownify }}
+               </div>
+               <div id="mr">
+                 {{ page.required-courses-body | markdownify }}
+               </div>
+             </div>
+            </div>
+
+            <div class="card">
+              <!-- <div class="card-content">
+                <p>{{ page.description }}</p>
+              </div> -->
+              <div class="card-tabs">
+                <ul class="tabs tabs-fixed-width">
+                  <li class="tab"><a class="active" href="#ensembles">Ensembles</a></li>
+                  <li class="tab"><a href="#prospective">Prospective Students</a></li>
+                  <li class="tab"><a href="#current">Current Students</a></li>
+                </ul>
+              </div>
+              <div class="card-content grey lighten-4">
+                <div id="ensembles">
+                   {% for ensemble in page.ensembles %}
+                   <!-- Modal Trigger -->
+                   <a href="#{{ ensemble.name }}">{{ ensemble.name }}</a>
+
+                   <!-- Modal Structure -->
+                   <div id="{{ ensemble.name }}" class="modal">
+                      <div class="modal-content">
+                        <h4>{{ ensemble.name }}</h4>
+                        <p>{{ ensemble.body | markdownify }}</p>
+                     </div>
+                     <div class="modal-footer">
+                        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+                     </div>
+                  </div>
+                  {% endfor %}
+                </div>
+                <div id="prospective">
+                  <a href="#">Bachelor of Arts entrance requirments</a><br>
+                  <a href="#">Bachelor of Music entrance requirments</a><br>
+                  <a href="#">Scholorships</a>
+                </div>
+                <div id="current">
+                   <p><a class="btn btn-navy" href="#">Department Handbook</a></p>
+                  {{ page.new-student-info-body | markdownify }}
+                </div>
+              </div>
+             </div>
+
+
+
+            <h2>Prof Publications</h2>
+            {{ page.prof-publications-body | markdownify }}
+         </div>
+         <div class="col s12 m3">
+           <h2>Emphasis</h2>
+            <ul>
+              {% for emphasis in page.emphasis %}
+              <li>{{ emphasis }}</li>
+              {% endfor %}
+            </ul>
+           <h2>Program Credits</h2>
+           <p>Total: {{ page.total-credits }}<br>
+           General Education: {{ page.GE-credits }}<br>
+           {% if page.bible-credits != '' %}
+           Bible: {{ page.bible-credits }}<br>
+           {% endif %}
+           Major Core Courses: {{ page.core-courses }}<br>
+           Emphasis/Electives: {{ page.emphasis-electives }}</p>
+           <h2>Sample Course Offerings:</h2>
+           <ul>
+             {% for course in page.course-offerings %}
+             <li>{{ course }}</li>
+             {% endfor %}
+           </ul>
+           <h2>Career Paths</h2>
+
+         </div>
+       </div>
+     </div>
+     <script type="text/javascript">
+     $(document).ready(function(){
+     $('.parallax').parallax();
+     $('.modal').modal();
+     });
+     </script>
+   </div>
+ </div>

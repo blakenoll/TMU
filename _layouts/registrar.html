@@ -1,0 +1,95 @@
+---
+layout: default
+---
+
+{% include parallax-header.html %}
+<div class="container">
+  <div class="row">
+    <!-- Table of Contents -->
+    <div class="col s12 m3 push-m9">
+      <h2 id="office-hours">Office Hours</h2>
+      <table class="bordered">
+        <thead>
+          <tr>
+            <th>Monday - Friday</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>9:00 am - 4:30 pm </td>
+          </tr>
+        </tbody>
+      </table>
+
+
+      <p>Closed on school holidays and during Chapel.</p>
+
+      <h2 id="contact-information">Contact Information</h2>
+
+      <p>The Master’s University<br>
+        Office of the Registrar<br>
+        21726 Placerita Canyon Rd<br>
+        Santa Clarita, CA 91321</p>
+        <p><strong>Phone:</strong> <a href="tel:16612593540">661-259-3540</a></p>
+        <p><strong>Fax:</strong> <a href="tel:16613622722">661-362-2722</a></p>
+        <p><strong>Email:</strong> <a href="mailto:registrar@masters.edu">registrar@masters.edu</a></p>
+      </div>
+      <div class="col s12 m9 pull-m3">
+
+        <h2>Welcome to {{ page.title }}</h2>
+        {{ content }}
+        <ul class="collapsible" data-collapsible="accordion">
+          <li>
+            <div class="collapsible-header">Articulation Agreements</div>
+            <div class="collapsible-body"><span>{{ page.articulation-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">FERPA</div>
+            <div class="collapsible-body"><span>{{ page.ferpa-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Finals Schedules</div>
+            <div class="collapsible-body"><span>{{ page.finals-schedule-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Forms</div>
+            <div class="collapsible-body"><span>{{ page.forms-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Grades</div>
+            <div class="collapsible-body"><span>{{ page.grades-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Media Ethics</div>
+            <div class="collapsible-body"><span>{{ page.media-ethics-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Policies</div>
+            <div class="collapsible-body"><span>{{ page.policies-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Register</div>
+            <div class="collapsible-body"><span>{{ page.register-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Senior</div>
+            <div class="collapsible-body"><span>{{ page.senior-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Transcript</div>
+            <div class="collapsible-body"><span>{{ page.transcript-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">Transfer Policy</div>
+            <div class="collapsible-body"><span>{{ page.transfer-policy-body | markdownify }}</span></div>
+          </li>
+          <li>
+            <div class="collapsible-header">General Education</div>
+            <div class="collapsible-body"><span>{{ page.general-education-body | markdownify }}</span></div>
+          </li>
+        </ul>
+
+      </div>
+    </div>
+
+  </div>

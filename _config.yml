@@ -1,0 +1,239 @@
+---
+title: The Master's University
+timezone: UTC
+collections:
+  admissions:
+    title: Admissions
+    output: true
+  alumni:
+    title: Alumni
+    output: false
+  performingarts:
+    title: Arts
+    output: true
+  authors:
+    title: Authors
+    output: false
+  campus-ministries:
+    title: Campus Ministries
+    output: true
+  categories:
+    title: Catergories
+    output: true
+  departments:
+    title: Departments
+    output: true
+  dorms:
+    title: Dorms
+    output: true
+  faculty:
+    title: Faculty
+    output: true
+  financialaid:
+    title: Financial Aid
+    output: true
+  give:
+    title: Give
+    output: true
+  gradprograms:
+    title: Grad-Programs
+    output: true
+  landingPageBanners:
+    title: Landing Page Banners
+    output: false
+  onlineprograms:
+    title: Online Programs
+    output: true
+  posts:
+    title: Posts
+    output: true
+  redirects:
+    title: Redirects
+    output: true
+  studentlife:
+    title: Student Life
+    output: true
+  upcomingevents:
+    title: Upcoming Events
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: admissions
+  values:
+    permalink: "/admissions/:title"
+- scope:
+    path: ''
+    type: landingPageBanners
+  values:
+    description: ''
+    image: ''
+    link: ''
+    title: ''
+    button-text: ''
+- scope:
+    path: ''
+    type: upcomingevents
+  values:
+    title: ''
+    image: ''
+    event_date: ''
+    description: ''
+    permalink: "/upcomingevents/:title"
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: news
+    title: ''
+    preview-text: ''
+    author: ''
+    catergory: ''
+    image: ''
+    sm-image: ''
+    permalink: "/news/:title"
+- scope:
+    path: ''
+    type: departments
+  values:
+    layout: undergradmajor
+    title: ''
+    sm-image: ''
+    description: ''
+    emphasis:
+    - 
+    - 
+    total-credits: ''
+    bible-credits: ''
+    GE-credits: ''
+    core-courses: ''
+    emphasis-electives: ''
+    course-offerings:
+    - 
+    - 
+    careers:
+    - 
+    - 
+    why-at-masters-body: ''
+    quote: ''
+    required-courses-body: ''
+    prof-publications-body: ''
+    permalink: "/academics/undergraduate/:title"
+- scope:
+    path: ''
+    type: dorms
+  values:
+    layout: dorm
+    permalink: "/:title"
+- scope:
+    path: ''
+    type: gradprograms
+  values:
+    layout: gradprogram
+    title: ''
+    sm-image: ''
+    program-outline-text: ''
+    courses-body:
+    - 
+    permalink: "/academics/graduate/:title"
+- scope:
+    path: ''
+    type: onlineprograms
+  values:
+    layout: onlineprogram
+    title: ''
+    sm-image: ''
+    permalink: "/academics/online/:title"
+- scope:
+    path: ''
+    type: faculty
+  values:
+    layout: faculty
+    title: ''
+    permalink: faculty/:title
+    job-title: ''
+    image: ''
+    department: ''
+    grad-program: ''
+    degrees:
+    - 
+    - 
+    email: ''
+- scope:
+    path: ''
+    type: authors
+  values:
+    title: ''
+    image: ''
+    twitter: ''
+    medium: ''
+- scope:
+    path: ''
+    type: studentlife
+  values:
+    sm-image: ''
+    permalink: "/studentlife/:title"
+- scope:
+    path: ''
+    type: campuslinks
+  values:
+    permalink: "/:title"
+- scope:
+    path: ''
+    type: categories
+  values:
+    layout: categories
+    permalink: "/news/:title"
+- scope:
+    path: ''
+    type: give
+  values:
+    layout: give
+    permalink: "/give/:title"
+- scope:
+    path: ''
+    type: financialaid
+  values:
+    sm-image: ''
+    layout: financialaid
+    permalink: "/financial-aid/:title"
+- scope:
+    path: ''
+    type: redirects
+  values:
+    permalink: "/:title"
+    redirect_to: ''
+    layout: redirect
+email: your-email@domain.com
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+baseurl: 
+url: https://blakenoll.github.io/TMU
+amazonurl: http://themastersuniv.s3-website-us-west-1.amazonaws.com
+githuburl: https://blakenoll.github.io/TMU
+twitter_username: jekyllrb
+github_username: jekyll
+markdown: kramdown
+tipue_search:
+  include:
+    pages: true
+    collections:
+    - departments
+    - gradprograms
+    - studentlife
+    - faculty
+    - give
+    - financialaid
+theme: 
+sass:
+  style: compressed
+gems:
+- jekyll-feed
+- jekyll-redirect-from
+exclude:
+- Gemfile
+- Gemfile.lock

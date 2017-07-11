@@ -1,0 +1,106 @@
+---
+title: Robert L. Powell Library
+layout: default
+---
+
+{% include parallax-header.html %}
+<div class="container">
+  <br>
+  <div class="row">
+    <form action="https://masters.on.worldcat.org/search"  method="GET">
+      <div class="col s8 m6">
+        <input name="queryString" class="input-field"  placeholder="Search here for books, articles, and more ..." type="search">
+      </div>
+      <div class="col s4 m2">
+        <button class="btn btn-navy" id="LibrarySearchButton" type="submit" style="width: 100%"><i class="material-icons">search</i></button>
+      </div>
+      <div class="col s12 m4">
+        <a href="https://masters.on.worldcat.org/advancedsearch?databaseList=" target="_blank" title="Discovery Advanced" class="btn btn-navy">ADVANCED SEARCH</a>
+      </div>
+    </form>
+
+  </div>
+
+
+
+  <script>
+  $(document).ready(function() {
+    $("#LibrarySearchButton").click(function(){
+      $(this).html("<i class="material-icons">refresh</i>")
+    });
+  });
+  </script>
+  <div class="row">
+   <div class="col s12">
+     <ul class="tabs">
+       <li class="tab"><a href="#test4">Hours</a></li>
+       <li class="tab"><a href="#test1">Search Tools</a></li>
+       <li class="tab"><a href="#test2">Services</a></li>
+       <li class="tab"><a href="#test3">About</a></li>
+     </ul>
+   </div>
+   <div id="test1" class="col s12">{{ page.searchtools-body | markdownify }}</div>
+   <div id="test2" class="col s12">
+    <div class="row">
+    <div class="col s12">
+      <ul class="tabs secondary-tab">
+        <li class="tab"><a class="active" href="#loan">InterLibrary Loan</a></li>
+        <li class="tab"><a href="#general">General Use Policies</a></li>
+        <li class="tab"><a href="#reference">Reference Services</a></li>
+        <li class="tab"><a href="#copy">Copying & Printing</a></li>
+      </ul>
+    </div>
+    <div id="loan" class="col s12">
+      {{ page.intelibraryloan-body | markdownify }}
+    </div>
+    <div id="general" class="col s12">
+      {{ page.general-use-policies-body | markdownify }}
+    </div>
+    <div id="reference" class="col s12">
+      {{ page.reference-services-body | markdownify }}
+    </div>
+    <div id="copy" class="col s12">
+      {{ page.copying-printing-body | markdownify }}
+    </div>
+  </div>
+
+   </div>
+   <div id="test3" class="col s12">
+     <div class="row">
+       <div class="col s12 m9 l10">
+         <div id="history" class="section scrollspy">
+           <p>{{ page.library-history-body | markdownify }}</p>
+         </div>
+
+         <div id="collection" class="section scrollspy">
+           <p>{{ page.library-collection-body | markdownify }}</p>
+         </div>
+
+         <div id="staff" class="section scrollspy">
+           <p>{{ page.library-personnel-body | markdownify }}</p>
+         </div>
+         <div id="giving" class="section scrollspy">
+           <p>{{ page.giving-body | markdownify }}</p>
+         </div>
+       </div>
+       <div class="col hide-on-small-only m3 l2">
+         <ul class="section table-of-contents fixed">
+           <li><a href="#history">Mission & History</a></li>
+           <li><a href="#collection">Collection Description</a></li>
+           <li><a href="#staff">Library Personnel</a></li>
+           <li><a href="#giving">Giving</a></li>
+         </ul>
+       </div>
+     </div>
+   </div>
+   <div id="test4" class="col s12">
+     {{ page.hours-body | markdownify }}
+   </div>
+ </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+$('.scrollspy').scrollSpy();
+});
+
+</script>

@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+  <div class="container">
+    <div class="row">
+      <div class="col s12 m8">
+        <h1>Why Give to The Master's University</h1>
+        <p>Generosity is a natural outcome of our relationship with Christ. God calls us to give Him everything: the time, talents and resources He has blessed us with here on earth.  As we do so, we become more like Him; the generous Giver of all things.</p>
+        <p>At The Master’s University we are dedicated to educating young men and women for eternal influence in all areas of their lives. Our educational approach is distinct, our mission is clear and our doctrine has not wavered throughout our rich history, making TMU a worthwhile and reliable investment.</p>
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+        </style>
+        <div class='embed-container'><iframe src='https://player.vimeo.com/video/190782131' width='640' height='360' frameborder='0' webkitallowfullscreen='' mozallowfullscreen='' allowfullscreen=''></iframe>
+        </div>
+
+        <p>Our PRIMARY objective is to make our biblically centered education affordable for those who desire it.</p>
+        <ul>
+          <li>94% of our students receive financial aid in order to attend TMU</li>
+          <li>The average amount of financial assistance our student's receive is $22,953 per academic year</li>
+          <li>69% of tuition costs are covered by TMU</li>
+        </ul>
+        <h2>How can you help?</h2>
+        <p>We need partners in our pursuit of tuition affordability. Our generous donors play a significant role in funding scholarships, without which many students would not be able to attend The Master's University. Other significant areas of giving are our endowment funds, estate gifts, and our music and athletic departments.</p>
+        {% for page in site.give %}
+          <div class="col s6">
+            <h3><a href="{{ page.url | prepend: site.url }}">{{ page.title }}</a></h3>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="col s12 m4">
+        <h2>Presidents Message</h2>
+        <hr>
+        <p>The Master's University equips young Christian men and women for spiritual service and leadership - on the job, in the home, and through their ministries.
+          <br><br>
+
+          Every class we teach and every degree we confer stand on the foundation of God's Word. Our students acquire knowledge from a biblical perspective, filtering everything they learn through the lens of God's Word. In other words, they gain wisdom to serve and wisdom to lead.
+          <br><br>
+
+          I invite you to join us in training the next generation of Christian leaders.</p>
+          <img src="{{'/uploads/macarthursignature5.png'| prepend: site.url }}" alt="" width="60%"><br>
+          <a class="btn btn-navy" href="https://give.cornerstone.cc/The+Masters+University">Give Now</a>
+          <hr>
+          <div class="row">
+            <div class="col s4"><a href="https://ecfa.org"><img src="{{ '/uploads/ecfa_accredited_final_rgb_small.png' | prepend: site.url }}"  width="100%"alt="ecfa.org"></a>
+            </div>
+            <div class="col s8">
+              <a href="{{ '/give/presidents-circle' | prepend: site.url }}"><img src="{{ '/uploads/presidentscircle.png' | prepend: site.url }}"  width="100%"alt="Presidents Circle"></a>
+            </div>
+
+            <!-- <h3 style="text-align: center;">Stay up to date with TMU from your mobile phone<a style="width: 100%;" class="btn btn-blue" data-toggle="modal" data-target="#subscribe-modal">Subscribe by clicking here</a></h3>
+
+            <div id="subscribe-modal" class="modal fade" tabindex="-1">
+              <div class="modal-dialog modal-sm" style="top: 200px;">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Subscribe to Text Alerts</h4>
+                  </div>
+                  <div class="modal-body">
+                    <a href="//www.mobilecause.com/feature/subscription-widget" id="powered-by-mobilecause">Mobile messaging powered by Mobilecause</a><script>!function(d,s){var s=d.createElement("script"),h=(document.head||d.getElementsByTagName('head')[0]);s.src="https://app.mobilecause.com/public/messaging_widgets/qehuo7/source";h.appendChild(s);}(document);</script>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div> -->
+
+          </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col s12">
+      <nav>
+       <div class="nav-wrapper white">
+         <div class="col s12">
+           <a href="{{ "/financial-aid" | prepend: site.url }}" class="breadcrumb">Financial Aid</a>
+           <a href="#!" class="breadcrumb">{{ page.title }}</a>
+         </div>
+       </div>
+     </nav>
+    </div>
+  </div>
+  <div class="row">
+   <div class="col s12">
+     <ul class="collapsible" data-collapsible="accordion">
+       <li>
+         <div class="collapsible-header">New/Transfer Student</div>
+         <div class="collapsible-body"><span>{{ page.new-transfer-student-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">Continuing Students</div>
+         <div class="collapsible-body"><span>{{ page.continuing-students-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">Endowed Scholarships</div>
+         <div class="collapsible-body"><span>{{ page.endowed-scholorship-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">International Students</div>
+         <div class="collapsible-body"><span>{{ page.intl-students-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">Cal Grant</div>
+         <div class="collapsible-body"><span>{{ page.cal-grant-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">Pastor/Missionary Dep. Grant</div>
+         <div class="collapsible-body"><span>{{ page.pastor-dep-grant-body | markdownify }}</span></div>
+       </li>
+       <li>
+         <div class="collapsible-header">Ministry Matching Grant</div>
+         <div class="collapsible-body"><span>{{ page.ministry-matching-body | markdownify }}</span></div>
+       </li>
+     </ul>
+   </div>
+ </div>
+</div>

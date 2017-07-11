@@ -1,0 +1,62 @@
+<footer class="page-footer">
+          <div class="container">
+            <div class="row">
+              <div class="col s12 m4 offset-m4 center">
+                <div class="footer-img">
+                  <img src="{{ "/images/MastersU_Seal_White.png" | prepend: site.url }}" alt="TMU Seal" width="100%">
+                </div>
+              </div>
+            </div>
+            <div class="row">
+            <div class="col l3 s6">
+              <h3 class="white-text">Undergraduate</h3>
+              <ul>
+                {% for program in site.departments %}
+                <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+              <div class="col l3 s6">
+                <h3 class="white-text">Graduate</h3>
+                <ul>
+                  {% for program in site.gradprograms %}
+                  <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+              <div class="col l3 s6">
+                <h3 class="white-text">Online</h3>
+                  <ul>
+                    {% assign programs = site.onlineprograms %}
+                    {% for program in programs %}
+                    <li><a class="grey-text text-lighten-3" href="{{ program.url | prepend: site.url }}">{{ program.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+              </div>
+              <div class="col l3 s6">
+                <h3 class="white-text">Campus Links</h3>
+                <ul>
+                  <li><a class="grey-text text-lighten-3" href="">Campus Safety</a></li>
+                  <li><a class="grey-text text-lighten-3" href="">Campus Directory</a></li>
+                  <li><a class="grey-text text-lighten-3" href="">Conference Services</a></li>
+                  <li><a class="grey-text text-lighten-3" href="">Employment</a></li>
+                  <li><a class="grey-text text-lighten-3" href="">Health Services</a></li>
+                  <li><a class="grey-text text-lighten-3" href="">IT Operations</a></li>
+                  <li><a class="grey-text text-lighten-3" href="">Library</a></li>
+                  <li><a class="grey-text text-lighten-3" href="">Ragistrar</a></li>
+                  <li><a class="grey-text text-lighten-3" href="">Studnet Accounts</a></li>
+                  <li><a class="grey-text text-lighten-3" href="">Student Career Center</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2017 Copyright Text
+            <a href="https://www.instagram.com/mastersuniversity/" class="fa fa-instagram right" target="_blank"></a>
+            <a href="https://www.facebook.com/mastersuniv/" class="fa fa-facebook right" target="_blank"></a>
+            <a href="https://twitter.com/mastersuniv?lang=en" class="fa fa-twitter right" target="_blank"></a>
+            <a href="https://www.linkedin.com/school/36767?pathWildcard=36767" class="fa fa-linkedin right" target="_blank"></a>
+            </div>
+          </div>
+</footer>

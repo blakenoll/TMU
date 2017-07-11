@@ -1,0 +1,32 @@
+---
+title: Graduate Degrees
+layout: default
+parallax-img: "/images/Parallax6.jpg"
+---
+
+{% include parallax-header.html %}
+<div class="container">
+<h2>Programs:</h2>
+  <div class="row">
+    {% for program in site.gradprograms %}
+    {% unless program.title == '5th Year Teaching Credential' %}
+    <a href="{{ program.url | prepend: site.url }}">
+      <div class="col s6 m3">
+        <div class="vector-card">
+          <img src="{{ program.sm-image | prepend:site.url }}" alt="" width="100%">
+          <h3 class="center">{{ program.title }}</h3>
+        </div>
+      </div>
+    </a>
+    {% endunless %}
+    {% endfor %}
+    <a href="https://tms.edu" target="_blank">
+      <div class="col s6 m3">
+        <div class="vector-card">
+          <img src="{{ "/uploads/AcademicsGraduate_TMS.png" | prepend:site.url }}" alt="" width="100%">
+          <h3 class="center">TMS</h3>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
