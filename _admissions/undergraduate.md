@@ -75,6 +75,7 @@ staff:
   about: 
   email: 
   phone: 
+  video: 
 intl-students-body: 
 layout: default
 ---
