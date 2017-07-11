@@ -107,19 +107,19 @@ defaults:
     sm-image: ''
     description: ''
     emphasis:
-    -
-    -
+    - 
+    - 
     total-credits: ''
     bible-credits: ''
     GE-credits: ''
     core-courses: ''
     emphasis-electives: ''
     course-offerings:
-    -
-    -
+    - 
+    - 
     careers:
-    -
-    -
+    - 
+    - 
     why-at-masters-body: ''
     quote: ''
     required-courses-body: ''
@@ -140,7 +140,7 @@ defaults:
     sm-image: ''
     program-outline-text: ''
     courses-body:
-    -
+    - 
     permalink: "/academics/graduate/:title"
 - scope:
     path: ''
@@ -162,8 +162,8 @@ defaults:
     department: ''
     grad-program: ''
     degrees:
-    -
-    -
+    - 
+    - 
     email: ''
 - scope:
     path: ''
@@ -219,7 +219,7 @@ email: your-email@domain.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl:
+baseurl: 
 url: https://blakenoll.github.io/TMU
 amazonurl: http://themastersuniv.s3-website-us-west-1.amazonaws.com
 githuburl: https://blakenoll.github.io/TMU
@@ -236,7 +236,7 @@ tipue_search:
     - faculty
     - give
     - financialaid
-theme:
+theme: 
 sass:
   style: compressed
 gems:
