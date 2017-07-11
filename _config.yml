@@ -195,6 +195,10 @@ defaults:
     type: counselors
   values:
     permalink: "/admissions/:title"
+    name: ''
+    email: ''
+    phone: ''
+    video: ''
 - scope:
     path: ''
     type: give
