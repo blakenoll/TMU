@@ -2,14 +2,7 @@
 title: Director
 sm-image: "/uploads/StudentLife_Director.png"
 description: 
-director-body: |-
-  ### Christian Johnson
-
-  CJ earned his B.A. in History from Master’s in 2014. While a student at Master's, CJ served as the ASB Chaplain. After graduating, he worked as the Media Production Coordinator of Chapel Media for two years until being hired on as the Director of Campus Ministries in 2016. He is recently married and is pursuing his M.div at The Master's Seminary.
-
-  ### A Favorite Scripture Verse: Ephesians 2:4-7
-
-  "But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved— and raised us up with him and seated us with him in the heavenly places in Christ Jesus, so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus."
+director-body: "### Adam Ashoff"
 director-image: 
 chapel-body: Chapel services are held three times a week in the MacArthur Center for
   students at The Master's University. Chapel is a worship service focused upon the
