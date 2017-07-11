@@ -71,7 +71,7 @@ apply-body: |-
 
   If you've been admitted and have decided that TMU is the place for you, secure your spot today by submitting your $200 tuition/housing deposit [here](https://www.formstack.com/forms/masters-new_student_deposit_payment "Undergrad Deposit Form"). The deposit is fully refundable until May 1.
 intl:
-- step1-body: Apply
+  step1-body: Apply
   step2-body: |-
     Request Transcripts
 
@@ -91,9 +91,9 @@ intl:
 
     All official and evaluated transcripts should be sent to:
 
-    *The Master's University - Office of Admissions *\
-    *21726 Placerita Canyon Road *\
-    *Santa Clarita, CA 91321 *\
+    \*The Master's University - Office of Admissions \*\
+    \*21726 Placerita Canyon Road \*\
+    \*Santa Clarita, CA 91321 \*\
     *USA*
 
     Submit English Language Test Score
