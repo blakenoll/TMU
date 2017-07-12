@@ -283,7 +283,7 @@ admissions-body: |-
   TB Test Fee: varies – consult your health care professional for details
 
   Books: vary by class, approximately $650 total for the Multiple Subject program or $450 total for Single Subject
-information-body:
+information-body: 
 clinical-body: |-
   CLINICAL PRACTICE
 
