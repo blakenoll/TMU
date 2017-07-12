@@ -1,6 +1,7 @@
 ---
 title: MBA
 sm-image: "/uploads/AcademicsGraduate_MBA.png"
+parallax-img: "/images/Parallax3.jpg"
 program-outline-text: |-
   Program-level Learning Outcomes
 
