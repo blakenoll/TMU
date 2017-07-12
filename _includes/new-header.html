@@ -37,6 +37,13 @@
     <li><a href="#">Chapel Announcement Request</a></li>
     <li><a href="https://workforcenow.adp.com/public/index.htm">ADP Login</a></li>
   </ul>
+
+  <ul id="dropdown5" class="dropdown-content">
+    {% for service in site.campus-links %}
+    <li><a href="{{ service.url | prepend: site.url }}">{{ service.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
   <!-- end dropdown content -->
   <div class="navbar-fixed">
     <nav id="header">
@@ -67,6 +74,7 @@
         <div id="upper-nav-text" class="col s8 ">
           <a class="dropdown-button" href="{{ "/students" | prepend: site.url }}" data-activates="dropdown3">Students</a>
           <a class="dropdown-button" href="{{ "/faculty&staff" | prepend: site.url }}" data-activates="dropdown4">Faculty/Staff</a>
+          <a class="dropdown-button" href="{{ "/faculty&staff" | prepend: site.url }}" data-activates="dropdown5">Campus Links</a>
           <a href="{{ "/alumni" | prepend: site.url }}">Alumni</a>
           <a href="{{ "/give" | prepend: site.url }}">Give</a>
         </div>
