@@ -12,7 +12,7 @@ preview-text: Master’s was my last choice. Not only was it my last choice, but
   of my life.
 author: Sabrina Michael
 catergory: Events
-image: "/uploads/WEB_TMU.jpg"
+image: "/images/Parallax_Focus.jpg"
 sm-image: http://www.masters.edu/media/869871/richardson.jpg
 ---
 
