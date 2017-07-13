@@ -1,14 +1,14 @@
 ---
 title: Business
-parallax-img: "/images/Parallax3.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Business.png"
-description: |-
-  The Master’s University Business department can’t keep up with the requests from satisfied
-  employers for more of our graduates. TMU produces excellent businesspeople. The Business
-  department ranks among the biggest and best institutions in the country, from CPA and ETS exams to
-  the NASBA’s national ranking. Credit it all to uncompromising high expectations and the faculty’s
-  commitment to personally instructing their students in “why things matter”: this is business through a
-  biblical lens. In the business world, integrity stands out, and that’s why our graduates have success.
+description: "The Master’s University Business department can’t keep up with the requests
+  from satisfied\nemployers for more of our graduates. TMU produces excellent businesspeople.
+  The Business\ndepartment ranks among the biggest and best institutions in the country,
+  from CPA and ETS exams to the NASBA’s national ranking. \n\nThis is all credited
+  to uncompromisingly high expectations and the faculty’s commitment to personally
+  instructing their students in “why things matter”: this is business through a biblical
+  lens. In the business world, integrity stands out, and that’s why our graduates
+  have success."
 emphasis:
 - Accounting
 - 'Christian Ministries Administration '
@@ -50,11 +50,7 @@ why-at-masters-body: |-
 
   * NASBA report ranked TMU among the top 10 institutions nationally, and ranked second of similar-sized schools
 
-  * Our Professors won’t lower the workload or expectations, and students rise to the occasion and become successful businesspeople
-
-  * “The program is strong and not watered down. You cannot just pass if you show up and take notes, you cannot fake it, you need to put the effort in”
-
-  * B.A. grads in high demand
+  * Professors do not curve scores, teaching students to rise to the occasion. Dr. Kevin Hill, head of the business department said, “The program is strong and not watered down. You cannot just pass if you show up and take notes, you cannot fake it, you need to put the effort in”
 
   * Employers request more Master’s grads than we have to give them
 
@@ -391,11 +387,11 @@ required-courses-body: |-
   * MKT350 Marketing (3)
 
   Total units required for minor (21)
+parallax-img: "/images/Parallax3.jpg"
 ---
 
 The Master’s University Business department can’t keep up with the requests from satisfied
 employers for more of our graduates. TMU produces excellent businesspeople. The Business
-department ranks among the biggest and best institutions in the country, from CPA and ETS exams to
-the NASBA’s national ranking. Credit it all to uncompromising high expectations and the faculty’s
-commitment to personally instructing their students in “why things matter”: this is business through a
-biblical lens. In the business world, integrity stands out, and that’s why our graduates have success.
+department ranks among the biggest and best institutions in the country, from CPA and ETS exams to the NASBA’s national ranking. 
+
+This is all credited to uncompromisingly high expectations and the faculty’s commitment to personally instructing their students in “why things matter”: this is business through a biblical lens. In the business world, integrity stands out, and that’s why our graduates have success.
