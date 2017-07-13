@@ -1,6 +1,5 @@
 ---
 title: Communications
-parallax-img: "/images/Parallax7.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Communications.png"
 description: |-
   In a world where communication touches every realm of life, The Master’s University disciplines students to not only excel in their chosen focus, but also do so in a way that will glorify God. One of the most basic elements of Christianity is evangelism and a degree in Communications will set a student up with some of the best skills to reach the largest number of people; whether supporting Christian organizations or working in a secular work environment.
@@ -30,58 +29,17 @@ careers:
 - Creative Writing and Publishing
 - Speech Communication
 - Cinema and Digital Arts
-why-at-masters-body: |-
-  ● Why at Master’s?
-
-  ○ Twenty-minute drive to Los Angeles
-
-  ○ We put students ahead of the curve in Communications so they can be pioneers
-
-  and entrepreneurial while still in school; teaching and challenging them to
-
-  combine all assets they possess to create new and unique forms of art.
-
-  ○ The short film “Drift” won an award at the Cliff Film Festival of which 13
-
-  countries participated in. Each student involved in its production received
-
-  IMDB credit.
-
-  ○ $100,000 worth of equipment donated by Black Magic Design – industry level
-
-  4k cameras, sound equipment and light equipment, podcast studio
-
-  ● Comm Dept. Vimeo Page: https://vimeo.com/user35546274
-
-  ● Working Professional Professors
-
-  ○ Bob Dickson: Associated Press News Executives Council award for sports
-
-  writing in 2003 and shared in a National Newspaper Association award for best
-
-  sports series with The Signal sports staff in 2006, published 3x in Chicken Soup
-
-  for the Soul
-
-  ○ Dr. Julie Larsen’s dissertation "A Narrative Analysis of the Scopes Trial"
-
-  ○ Matt Green produced film No Greater Love, co-wrote and directed Typecast
-
-  TV show, co-wrote script for Reckoning film going into production
-
-  ○ John Beck was CEO, General Manager of a local entertainment
-
-  software company
-
-  ○ Nicholas da Silva, Walt Disney Imagineer (adjunct)
-
-  ○ Scott Lang, editorial coordinator at Grace to You, past director of
-
-  communication and GComm, books and more published, adjunct
-
-  ○ Donna Morley 4 books including Choices that Lead to Godliness, Faith
-
-  and Reason forum (adjunct)
+why-at-masters-body: "○ Master's is only 20-30 miles away from all major studios in
+  Los Angeles: Disney (23.3 miles), Columbia Pictures (31.4 miles), 20thCentury Fox
+  (29.8 miles), Paramount Pictures (27.2 miles), Universal Pictures (23 miles), MGM
+  (28.5 miles) and more. \n\n○ Students are taught ahead of the trends, allowing them
+  to be pioneers and entreprenuers while still in school and leaders upon graduation.
+  \n\n○ The short film “Drift” won an award at the Cliff Film Festival of which 13\n\ncountries
+  participated in. Each student involved in its production received\n\nIMDB credit.\n\n○
+  $100,000 worth of equipment donated by Black Magic Design, including industry level\n\n4k
+  cameras, sound and light equipment,  a podcast studio and more.\n\n**To see our
+  previous work, go [here](https://vimeo.com/user35546274). **\n\n● Each of our professors
+  have either worked or are still working professionally in their fields. "
 required-courses-body: |-
   ## Communication Core Courses
 
@@ -406,5 +364,6 @@ required-courses-body: |-
   * *Electives in Communication (15)*
 
   Total units required for minor (24)
+parallax-img: "/images/Parallax7.jpg"
 ---
 
