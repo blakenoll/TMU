@@ -46,7 +46,7 @@ why-at-masters-body: |-
 
   * Through learning at Master’s U we focus on gaining right perceptions, sound judgment, critical thinking skills, all the while walking in obedience to our Savior.
 required-courses-body: |-
-  ## English Major Requirements
+  ## Major Requirements
 
   * E211, 212 English Literature I, II (3, 3)
 
