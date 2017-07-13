@@ -1,6 +1,5 @@
 ---
 title: Political Studies
-parallax-img: "/images/Parallax11.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Political%20Studies.png"
 description: Majoring in Political Studies at the Master’s University equips believers
   not only for effective careers in law, politics, or business but also for responsible
@@ -124,5 +123,8 @@ required-courses-body: |-
   * Upper Division Political Studies Electives (21)
 
   Total units required for minor (24)
+prof-publications-body: '**Dr. Gregg Frazer**: "The Religious Beliefs of Americas
+  Founders: Reason, Revelation, and Revolution" '
+parallax-img: "/images/Parallax11.jpg"
 ---
 
