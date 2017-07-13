@@ -10,12 +10,14 @@ layout: default
 </div>
 <div class="section white">
   <div class="row container">
-    <time>{{ page.date | date: "%b %-d, %Y" }}</time>
+    <h2><small>sub heading text...</small></h2>
+    <time id="news-date">{{ page.date | date: "%b %-d, %Y" }}</time>
     {% for author in site.authors %}
     {% if author.title == page.author %}
     <p>By: {{ author.title }}</p>
     {% endif %}
     {% endfor %}
+    <hr>
     <p class="flow-text">{{ content | markdownify }}</p>
   </div>
 </div>

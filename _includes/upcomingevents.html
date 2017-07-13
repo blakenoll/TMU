@@ -6,9 +6,9 @@
             <div class="event-container">
               {% for event in site.upcomingevents %}
               <div class="table-cell">
-                <div class="col s12 m6">
+                <div class="col s12 m6" style="padding-bottom: 15px;">
                   <div class="col s4">
-                    <img src="{{ event.image | prepend: site.url }}" alt="" width="100%">
+                    <img src="{{ event.image | prepend: site.url }}" alt="" width="90%">
                   </div>
                   <div class="col s8">
                    <h3 class="white-text">{{ event.title }}</h3>
