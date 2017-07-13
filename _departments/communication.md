@@ -25,10 +25,17 @@ course-offerings:
 - Computer Visual Effects
 - Film History
 careers:
-- Journalism
-- Creative Writing and Publishing
-- Speech Communication
-- Cinema and Digital Arts
+- 'Sports Journalist '
+- 'Novelist '
+- 'Producer '
+- 'Speech Writer '
+- 'Producer '
+- 'Director '
+- 'News Anchor '
+- 'Journalist '
+- 'Graphic Designer '
+- 'Podcaster '
+- 'Film/TV Editor '
 why-at-masters-body: "○ Master's is only 20-30 miles away from all major studios in
   Los Angeles: Disney (23.3 miles), Columbia Pictures (31.4 miles), 20thCentury Fox
   (29.8 miles), Paramount Pictures (27.2 miles), Universal Pictures (23 miles), MGM
