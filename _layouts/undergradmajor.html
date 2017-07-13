@@ -1,6 +1,5 @@
 ---
 layout: default
-parallax-img: "/images/Parallax2.jpg"
 ---
 
 {% include parallax-header.html %}
@@ -26,7 +25,11 @@ parallax-img: "/images/Parallax2.jpg"
           {% for faculty in site.faculty %}
           {% if faculty.department contains page.title %}
           <div class="chip">
+            {% if faculty.image != '' %}
             <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
+            {% else %}
+            <img src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="Contact Person">
+            {% endif %}
             <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
           </div>
           {% endif %}
@@ -39,7 +42,7 @@ parallax-img: "/images/Parallax2.jpg"
         </div> -->
         <div class="card-tabs">
           <ul class="tabs tabs-fixed-width">
-            <li class="tab"><a class="active" href="#wam">Why at Master's</a></li>
+            <li class="tab"><a class="active" href="#wam">{{page.title }} at Master's</a></li>
             <li class="tab"><a href="#mr">Major Requirements</a></li>
           </ul>
         </div>
