@@ -10,6 +10,7 @@ preview-text: "“I want to mimic what Jake \\[Litwin\\] said on Monday and than
   Piper, Charles H. Spurgeon is “considered by many to be one of the greatest preachers
   since the days of the apostles,” having preached over 600 times before the age of
   20. Named in reference to this famous and very quotable preacher"
+author: Blake Noll
 image: "/uploads/TMUQuote%20copy.jpg"
 sm-image: https://www.masters.edu/media/869762/spurgeonfest.jpg
 layout: news
