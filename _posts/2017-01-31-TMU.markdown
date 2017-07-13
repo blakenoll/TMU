@@ -5,7 +5,7 @@ preview-text: A few weeks ago, Mark Finster, Mitch Clevidence and I boarded a pl
   at LAX and flew to Ecuador for our TMU spring break. We planned to rent a car, drive
   around, shoot video for our video journalism class, eat local food and avoid suffering
   from altitude sickness
-author: Blake Noll
+author: Sabrina Michael
 image: "/uploads/WEB_TMU.jpg"
 sm-image: http://www.masters.edu/media/869834/junglefever.jpg
 layout: news
