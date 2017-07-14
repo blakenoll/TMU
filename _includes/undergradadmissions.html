@@ -19,7 +19,7 @@
     {% for staff in site.counselors%}
     <div class="col s12 m6 valign-wrapper">
       <div class="col s4">
-        <img src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" class="circle responsive-img">
+        <img src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="" class="circle responsive-img">
       </div>
       <div class="col s8">
         <h3><a href="{{ staff.url | prepend: site.url }}">{{ staff.name }}</a></h3>

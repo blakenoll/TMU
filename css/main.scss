@@ -314,6 +314,16 @@ footer {
   padding: 15px;
 }
 
+.card-content {
+  ul {
+    padding-left: 20px;
+    li {
+      list-style-type: disc;
+
+    }
+  }
+}
+
 .vector-card {
   height: 300px;
   max-width: 200px;
@@ -405,6 +415,10 @@ footer {
 
 #john {
   padding-top: 30px;
+
+  p {
+    font-size: 18pt;
+  }
 }
 
 #home-news {
