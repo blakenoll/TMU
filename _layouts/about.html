@@ -33,7 +33,7 @@ layout: default
       <div id="accreditation" class="section scrollspy">
         <ul class="collapsible" data-collapsible="accordion">
           <li>
-            <div class="collapsible-header"><h1>Accreditation's</h1></div>
+            <div class="collapsible-header"><h1>Accreditations</h1></div>
             <div class="collapsible-body"><span>{{ page.accredidations-body | markdownify }}</span></div>
           </li>
         </ul>
@@ -42,29 +42,9 @@ layout: default
         <ul class="collapsible" data-collapsible="accordion">
           <li>
             <div class="collapsible-header"><h1>Board of Directors</h1></div>
-            <div class="collapsible-body"><div class="row">
-              <div class="col s12 m6">
-                <div class="col s4">
-                </div>
-                <div class="col s8">
-                  <h3>Name</h3>
-                </div>
-              </div>
-              <div class="col s12 m6">
-                <div class="col s4">
-                </div>
-                <div class="col s8">
-                  <h3>Name</h3>
-                </div>
-              </div>
-              <div class="col s12 m6">
-                <div class="col s4">
-                </div>
-                <div class="col s8">
-                  <h3>Name</h3>
-                </div>
-              </div>
-            </div></div>
+            <div class="collapsible-body">
+              {{ page.board-members-body | markdownify }}
+            </div>
           </li>
         </ul>
       </div>

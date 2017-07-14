@@ -19,7 +19,6 @@ layout: default
   </div>
   <div class="row">
     <div class="col s12 m9">
-      <p>{{ page.description }}</p>
       <h2>Faculty</h2>
       <ul>
           {% for faculty in site.faculty %}
@@ -48,7 +47,7 @@ layout: default
         </div>
         <div class="card-content grey lighten-4">
           <div id="wam">
-            {{ page.why-at-masters-body | markdownify }}
+            {{ page.description | markdownify }}
           </div>
           <div id="mr">
             {{ page.required-courses-body | markdownify }}
