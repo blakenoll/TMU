@@ -1,6 +1,5 @@
 ---
 title: Kinesiology
-parallax-img: "/images/Parallax3.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Kinesiology.png"
 description: At the Master’s University the Kinesiology and Physical Education department
   prepares students to work with the human body as members of the Body of Christ.
@@ -28,9 +27,12 @@ course-offerings:
 - Psychology of Coaching
 - Reconditioning of Athletic Injuries
 careers:
-- Teaching/Coaching
-- 'Pre-Physical Therapy '
+- 'Doctor '
+- 'Physical Therapist  '
 - Exercise and Sport Science
+- 'Personal Trainer '
+- 'Coach '
+- 'Teacher '
 why-at-masters-body: |-
   ● Why at Master’s
 
@@ -261,5 +263,6 @@ required-courses-body: |-
     * *KPE266b Professional Activities II: Tennis (1)*
 
   Total units required for minor (30)
+parallax-img: "/images/Parallax3.jpg"
 ---
 

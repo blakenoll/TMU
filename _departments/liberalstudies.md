@@ -1,6 +1,5 @@
 ---
 title: Liberal Studies
-parallax-img: "/images/Parallax1.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Liberal%20Studies.png"
 description: The classroom and educational experience for each student, whether they
   are in kindergarten or college, falls largely on the attitude and skill of their
@@ -15,29 +14,28 @@ description: The classroom and educational experience for each student, whether 
 emphasis:
 - General
 - Teacher Education
-- Pre-reqs for multiple Subject Credential Filled
+- Pre-reqs for Multiple Subject Credential Filled
 total-credits: 122
 bible-credits: 21
 GE-credits: 40
 core-courses: 18-24
 careers:
-- 'Journalism '
+- Journalist
 - Public Relations
-- Business
+- 'Businessperson '
 - Health Care
 - Human Resources
-why-at-masters-body: |2-
-
-  * schools *ant *Master’s graduates because they are rigorously trained, in the classroom from the beginning
-
-  * 150 years of classroom experience combined in full-time faculty
-
-  * current on trends of education
-
-  * “we actually know your name” and pair students with master teachers personally
-
-
-  * strong partnership with local districts
+- 'Teacher '
+- 'Administrator '
+- 'Copywriter '
+- 
+why-at-masters-body: "* Local schools consistently ask for Master’s graduates. They
+  know our students are rigorously trained from the beginning\n\n* 150 years of classroom
+  experience combined in full-time faculty\n\n* Teach on all trends of education\n\n*
+  A department small enough that teachers know each students name and are paired with
+  students throughout their time at Master's. \n\n* Nearly one-hundred percent of
+  teaching credential alumni are employed within their first year of completing the
+  program. \n\n* Strong partnership with local districts"
 required-courses-body: |-
   ## B.A. in Liberal Studies: General Emphasis
 
@@ -220,5 +218,6 @@ required-courses-body: |-
   ## Minimum Grade for Courses in Major
 
   The University policies for minimum course grades apply. Note: TMU’s Teaching Credential Program has minimum course grade requirements for courses with an ED prefix and a minimum grade point average requirement. See the Admissions portion of the Teaching Credential Program section of this catalog.
+parallax-img: "/images/Parallax1.jpg"
 ---
 

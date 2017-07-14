@@ -1,6 +1,5 @@
 ---
 title: English
-parallax-img: "/images/Parallax11.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_English.png"
 description: 'The Department of English at The Master’s University regards the study
   of language and literature as central to the Christian liberal arts education. It
@@ -47,7 +46,7 @@ why-at-masters-body: |-
 
   * Through learning at Master’s U we focus on gaining right perceptions, sound judgment, critical thinking skills, all the while walking in obedience to our Savior.
 required-courses-body: |-
-  ## English Major Requirements
+  ## Major Requirements
 
   * E211, 212 English Literature I, II (3, 3)
 
@@ -121,5 +120,8 @@ required-courses-body: |-
   * Three upper division English electives (9)
 
   Total units required for minor (24)
+prof-publications-body: '**Dr. Grant Horner: **"Meaning at the Movies: Becoming a
+  Discerning Viewer," "John Milton: Classical Learning and the Progress of Virtue" '
+parallax-img: "/images/Parallax11.jpg"
 ---
 

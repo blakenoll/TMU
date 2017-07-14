@@ -749,6 +749,15 @@ ensembles:
 
     Clips from Light All Around, 2008:\
     The Master's Chorale
+- name: 'Wind Ensemble '
+  image: 
+  body: 
+- name: 'Women''s Chamber Choir '
+  image: 
+  body: 
+- name: 'Handbells '
+  image: 
+  body: 
 BA-entrance-file: 
 BM-entrance-file: 
 scholorship-file: 
