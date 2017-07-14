@@ -12,15 +12,14 @@ description: "Standing firm on Christ & Scripture since 1927, there is no better
   to each student.\n\nMore about our Bible department: \n\n*  We are the only campus
   to offer an entire semester abroad in Israel. Through  the **Israel Bible Extension
   program (IBEX)** a student can spend a semester studying the Bible in the land it
-  occurred. During this time students can earn 15-18 units towards a Bible Minor or
-  Major.\n\n* We have a 10:1 student- teacher ratio.\n\n* Are one of the first campuses
-  to offer a Biblical Counseling degree, and one of the few to hold to ACBC counseling
-  vs. integrational models.\n\n* Offer a bi-annual **Turkey & Greece Winter Break
-  Trip**. For only $4,000 current students and alumni study for two week by traveling
-  to ancient sites and places to which Paul addressed his letters.\n\n* Students in
-  any emphasis will have a working knowledge of Greek or Hebrew, be able to apply
-  hermeneutics to correctly interpret biblical text and understand ministry from a
-  biblical perspective."
+  occurred and earn 15-18 units towards a Bible Minor or Major.\n\n* We offer a bi-annual
+  **Turkey & Greece Winter Break Trip**. For only $4,000 current students and alumni
+  spend two weeks  traveling to ancient sites and places to which Paul addressed his
+  letters. Students can earn class credit. \n\n* We have a 10:1 student- teacher ratio.\n\n*
+  Are one of the first campuses to offer a Biblical Counseling degree, and one of
+  the few to hold to ACBC counseling vs. integrational models.\n\n* Students in any
+  emphasis will have a working knowledge of Greek or Hebrew, be able to apply hermeneutics
+  to correctly interpret biblical text and understand ministry from a biblical perspective."
 emphasis:
 - Bible General
 - Biblical Counseling
