@@ -1,7 +1,7 @@
 ---
-title: Dual enrollment
+title: Dual Enrollment
 sm-image: "/uploads/AcademicsOnline_DualEnrollment.png"
-level: online
+level: undergrad
 Courses:
 - "#": B101
   name: Old Testament I
