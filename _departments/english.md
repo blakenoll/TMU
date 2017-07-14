@@ -1,19 +1,14 @@
 ---
 title: English
 sm-image: "/uploads/AcademicsUndergradIcons_English.png"
-description: 'The Department of English at The Master’s University regards the study
-  of language and literature as central to the Christian liberal arts education. It
-  merits this centrality, in part, because of the very nature of the Christian faith:
-  God chose to reveal His dealings with humans in a historical and literary way –
-  the Word of God, a Word which employs literary forms and rhetorical strategies to
-  engage its audience. It also merits a central position because literature contains
-  God’s truth (e.g. the truthfulness to the human experience), occupies a place in
-  human culture receiving God’s blessing, and often fulfills the qualifications of
-  Philippians 4:8. We affirm that the noblest reasons for acquiring literacy are to
-  read the Scriptures with understanding and sympathy; to articulate the truth of
-  God clearly, attractively, and convincingly; and to be equipped to recognize truth
-  expressed in many sources, discerning it from partial truth and error, testing all
-  by the biblical standard.'
+description: |-
+  The Department of English at The Master’s University regards the study of language and literature as central to the Christian liberal arts education. It merits this centrality, in part, because of the very nature of the Christian faith: God chose to reveal His dealings with humans in a historical and literary way – the Word of God, a Word which employs literary forms and rhetorical strategies to engage its audience. It also merits a central position because literature contains God’s truth (e.g. the truthfulness to the human experience), occupies a place in human culture receiving God’s blessing, and often fulfills the qualifications of Philippians 4:8. We affirm that the noblest reasons for acquiring literacy are to read the Scriptures with understanding and sympathy; to articulate the truth of God clearly, attractively, and convincingly; and to be equipped to recognize truth expressed in many sources, discerning it from partial truth and error, testing all by the biblical standard.
+
+  * Our philosophy of education is classical and canonical in its approach.
+
+  * We study culture to understand it and by consequence understand ourselves.
+
+  * Through learning at Master’s U we focus on gaining right perceptions, sound judgment, critical thinking skills, all the while walking in obedience to our Savior.
 emphasis:
 - General
 total-credits: 112
@@ -37,14 +32,6 @@ careers:
 - Journalism
 - Law
 - Technical Writer
-why-at-masters-body: |-
-  Why at Masters
-
-  * Our philosophy of education is classical and canonical in its approach.
-
-  * We study culture to understand it and by consequence understand ourselves.
-
-  * Through learning at Master’s U we focus on gaining right perceptions, sound judgment, critical thinking skills, all the while walking in obedience to our Savior.
 required-courses-body: |-
   ## Major Requirements
 

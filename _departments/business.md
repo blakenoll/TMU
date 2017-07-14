@@ -1,14 +1,24 @@
 ---
 title: Business
 sm-image: "/uploads/AcademicsUndergradIcons_Business.png"
-description: "The Master’s University Business department can’t keep up with the requests
-  from satisfied\nemployers for more of our graduates. TMU produces excellent businesspeople.
-  The Business\ndepartment ranks among the biggest and best institutions in the country,
-  from CPA and ETS exams to the NASBA’s national ranking. \n\nThis is all credited
-  to uncompromisingly high expectations and the faculty’s commitment to personally
-  instructing their students in “why things matter”: this is business through a biblical
-  lens. In the business world, integrity stands out, and that’s why our graduates
-  have success."
+description: |-
+  The Master’s University Business department can’t keep up with the requests from satisfied employers for more of our graduates. TMU produces excellent businesspeople. The Business department ranks among the biggest and best institutions in the country, from CPA and ETS exams to the NASBA’s national ranking.
+
+  This is all credited to uncompromisingly high expectations and the faculty’s commitment to personally instructing their students in “why things matter”: this is business through a biblical lens. In the business world, integrity stands out, and that’s why our graduates have success.
+
+  * The Master's University CPA scores rank above the biggest and best schools in California
+
+
+  * Ranked top 7% nationally overall, top 5% in marketing, top 3% in finance
+
+
+  * NASBA report ranked TMU among the top 10 institutions nationally, and ranked us second of similar-sized school.
+
+  * Professors do not curve scores, teaching students to rise to the occasion. Dr. Kevin Hill, head of the business department said, “The program is strong and not watered down. You cannot just pass if you show up and take notes, you cannot fake it, you need to put the effort in”
+
+  * Of CA resident business alumni, after two years have average $43,000 salaries, after 10 years average $112,709
+
+  * Our professors have served or actively serve as elders, deacons, and pastors; they are experienced in business, ministry, communications, law, and education
 emphasis:
 - Accounting
 - 'Christian Ministries Administration '
