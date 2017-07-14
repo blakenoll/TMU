@@ -1,16 +1,18 @@
 ---
 title: Liberal Studies
 sm-image: "/uploads/AcademicsUndergradIcons_Liberal%20Studies.png"
-description: The classroom and educational experience for each student, whether they
-  are in kindergarten or college, falls largely on the attitude and skill of their
-  teacher. To learn from some of the most loving, intellectual, organized, hard-working,
-  and wise instructors while being trained to teach yourself is a rare opportunity.
-  Students are educated in the methodology behind the classroom, given hands on experience
-  in practicing to teach, and have wonderful examples to sit under and watch. The
-  influence teachers have on their students is vital for their personal growth. In
-  a world that is growing darker and darker, knowing how to be an example of Christ---
-  in a secular or religious school--- is an invaluable asset to teachers who want
-  to make a genuine impact in young lives.
+description: |-
+  The classroom and educational experience for each student, whether they are in kindergarten or college, falls largely on the attitude and skill of their teacher. To learn from some of the most loving, intellectual, organized, hard-working, and wise instructors while being trained to teach yourself is a rare opportunity. Students are educated in the methodology behind the classroom, given hands on experience in practicing to teach, and have wonderful examples to sit under and watch. The influence teachers have on their students is vital for their personal growth. In a world that is growing darker and darker, knowing how to be an example of Christ--- in a secular or religious school--- is an invaluable asset to teachers who want to make a genuine impact in young lives.
+
+  * Local schools consistently ask for Master’s graduates. They know our students are rigorously trained from the beginning
+
+  * 150 years of classroom experience combined in full-time faculty
+
+  * Teach on all trends of education
+
+  * Nearly one-hundred percent of teaching credential alumni are employed within their first year of completing the program
+
+  * Strong partnerships with local districts
 emphasis:
 - General
 - Teacher Education
@@ -29,13 +31,6 @@ careers:
 - 'Administrator '
 - 'Copywriter '
 - 
-why-at-masters-body: "* Local schools consistently ask for Master’s graduates. They
-  know our students are rigorously trained from the beginning\n\n* 150 years of classroom
-  experience combined in full-time faculty\n\n* Teach on all trends of education\n\n*
-  A department small enough that teachers know each students name and are paired with
-  students throughout their time at Master's. \n\n* Nearly one-hundred percent of
-  teaching credential alumni are employed within their first year of completing the
-  program. \n\n* Strong partnership with local districts"
 required-courses-body: |-
   ## B.A. in Liberal Studies: General Emphasis
 
