@@ -123,8 +123,8 @@ required-courses-body: |-
   * Upper Division Political Studies Electives (21)
 
   Total units required for minor (24)
-prof-publications-body: '**Dr. Gregg Frazer**: "The Religious Beliefs of Americas
-  Founders: Reason, Revelation, and Revolution" '
+prof-publications-body: "**Dr. Gregg Frazer**: *The Religious Beliefs of Americas
+  Founders: Reason, Revelation, and Revolution*"
 parallax-img: "/images/Parallax11.jpg"
 ---
 

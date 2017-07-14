@@ -1,15 +1,19 @@
 ---
 title: Sciences
-parallax-img: "/images/Parallax2.jpg"
 sm-image: "/uploads/AcademicsUndergradIcons_Sciences.png"
-description: Dedicated to developing lifelong patterns of intellectual growth while
+description: "Dedicated to developing lifelong patterns of intellectual growth while
   also being uncompromising in the faith, the Science Department is committed to producing
   students who are intellectually competent and an exemplary testimony no matter what
   discipline they study. Holding firm to the truth and inherency of Scripture, The
   Master’s University teaches all classes with the unshakeable foundation of the Bible.
   From Biology (General, Cellular, and Molecular) to Pre-Medical, students will graduate
   ready to go onto the next step in their field, and defend their faith as an equipped
-  and intellectual worker and break new ground.
+  and intellectual worker and break new ground.\n\n* Teach a literal six-day creation\n\n*
+  We are doctrinally sound: interpreting science through faith rather than faith through
+  science\n\n* Historical Space-Time Fall\n\n* Our goal is to send forth the saints
+  with an understanding of science, so that through their professional, academic and
+  spiritual testimony, the Master is presented and exalted\n\n* Close student-teacher
+  relationships\n\n* Ample opportunity to conduct and present research "
 emphasis:
 - Animal Science/Pre-Veterinary Medicine
 - Cellular & Molecular Biology
@@ -38,18 +42,6 @@ careers:
 - Laboratory Technician
 - Pharmacist
 - Physician
-why-at-masters-body: |-
-  * Academically successful and challenging while being doctrinally s und
-
-  * Science interpreted through faith rather than faith through science.
-
-  * Other places use science as a biblical hermeneutic to change Scripture yet how can one base their worldview off of a set of principles that is constantly changing?
-
-  * Historical Space-Time Fall
-
-  * send forth the saints with an understanding of science, so that through their professional, academic and spiritual testimony, the Master is presented and exalted
-
-  * close student-teacher relationships
 required-courses-body: |-
   ## Biology Core Courses
 
@@ -267,5 +259,6 @@ required-courses-body: |-
   * Upper division biology and chemistry electives (6)
 
   Total units required for minor (25)
+parallax-img: "/images/Parallax2.jpg"
 ---
 
