@@ -23,7 +23,7 @@ position: 3
 <h3>Admission Requirements</h3>
 <ol>
 <li>Statement of faith in Jesus Christ</li>
-<li>Must have completed the Sophomore year of High School</li>
+<li>Must have completed their sophomore year of high school</li>
 <li>Ability to study and write at the collegiate level</li>
 <li>Submission of application materials</li>
 <li>Be of ages 15-19</li>
