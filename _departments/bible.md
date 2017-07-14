@@ -6,13 +6,13 @@ description: |-
 
   Our professors are not just equipped scholarly, but are heavily involved in their local church and other ministries: practicing what they teach and standing as examples to each student.
 
-  * Master's is the only campus in the world that offers an entire semester abroad in Israel, which allows students to study the Bible in the land it occurred. Through the \*\*Israel Bible Extension program (IBEX) \*\*a student can earn 15-18 units towards a Bible Minor or Major.
+  * Master's is the only campus in the world that offers an entire semester abroad in Israel, which allows students to study the Bible in the land it occurred. Through the **Israel Bible Extension program (IBEX)** a student can earn 15-18 units towards a Bible Minor or Major.
 
   * A 10:1 student- teacher ratio.
 
   * One of the first campuses to offer a Biblical Counseling degree, and one of the few to hold to ACBC counseling vs. integrational models.
 
-  * Offers a bi-annual \*\*Turkey & Greece Winter Break Trip\*\*. For only $4,000 current students and alumni study for two week by traveling to ancient sites and places to which Paul addressed his letters.
+  * Offers a bi-annual **Turkey & Greece Winter Break Trip**. For only $4,000 current students and alumni study for two week by traveling to ancient sites and places to which Paul addressed his letters.
 
   * Students in any emphasis will have a working knowledge of Greek or Hebrew, be able to apply hermeneutics to correctly interpret biblical text and understand ministry from a biblical perspective.
 emphasis:
