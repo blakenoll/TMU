@@ -2,7 +2,6 @@
 title: Theater
 date: 2017-04-18 20:21:00 Z
 parallax-img: "/images/Parallax10.jpg"
-layout: theater
 about-us-body: |-
   ## Mission Statement
 
@@ -42,9 +41,18 @@ staff:
 
     If you are interested in being involved, contact Tricia Hulet or the office staff at [theatre@masters.edu](mailto:theatre@masters.edu).
   title: Assistant Director
-contact-body: "Mailing Adress  \n\nThe MAster's University\n\nTheatre Arts Department\n\n21726
-  Placerita Canyon Rd. #13\n\nSanta Clarita, CA 91321"
+contact-body: |-
+  Mailing Adress
+
+  The Master's University
+
+  Theatre Arts Department
+
+  21726 Placerita Canyon Rd. #13
+
+  Santa Clarita, CA 91321
 audition-body: 
+layout: theater
 ---
 
 If you are looking for a family-friendly play in the Los Angeles area, look no further! The Master's University Theatre Arts, located in Santa Clarita, produces clean, entertaining drama productions each year. From shows on Broadway to lesser-known plays,The Master's University Theatre Arts continually performs top-quality plays filled with intriguing plot lines and captivating characters that you are sure to enjoy. Don't miss our next show for a great night of entertainment!
