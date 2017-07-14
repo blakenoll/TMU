@@ -58,9 +58,9 @@ Personal-Visit-body: |-
   > * May 30, 2017: Closed for Memorial Day
   >
   > * July 4, 2017: Closed for Independence Day
-View-The-U:
-Personal-Visit:
-Mondays-At-Masters-body: |-
+View-The-U: 
+Personal-Visit: 
+Mondays-At-Masters-body: |2-
 
   **Mondays @ Master's**
 
