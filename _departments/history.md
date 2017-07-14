@@ -84,9 +84,9 @@ required-courses-body: |-
   Total units required for minor (18)
 
   \*The nine units in upper division electives must be courses listed by the TMU History Department (or IBEX course offerings that are clearly history courses). Courses that do not begin with an H, taken with other departments, will not count.
-prof-publications-body: '**Prof. John Owen**: "The Hidden History of the Historic
-  Fundamentalists 1933-1948: Reconsidering the Historic Fundamentalists'' Response
-  to the Upheavals, Hardships and Horrors of the 1930s and 1940s"'
+prof-publications-body: "**Prof. John Owen**: *The Hidden History of the Historic
+  Fundamentalists 1933-1948: Reconsidering the Historic Fundamentalists' Response
+  to the Upheavals, Hardships and Horrors of the 1930s and 1940s*"
 parallax-img: "/images/Parallax9.jpg"
 ---
 
