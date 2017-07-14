@@ -43,7 +43,7 @@
     <li><a href="{{ service.url | prepend: site.url }}">{{ service.title }}</a></li>
     {% endfor %}
   </ul>
-  
+
   <!-- end dropdown content -->
   <div class="navbar-fixed">
     <nav id="header">
@@ -78,7 +78,10 @@
           <a href="{{ "/alumni" | prepend: site.url }}">Alumni</a>
           <a href="{{ "/give" | prepend: site.url }}">Give</a>
         </div>
-        <div class="col s4">
+        <div class="col s2">
+          <a class="right btn btn-white btn-request" href="#">Request Info</a>
+        </div>
+        <div class="col s2">
           <form class="nav-search"action="{{ "/search" | relative_url }}">
             <div class="input-field nav-search">
               <input id="search" name="q" type="search"  placeholder="Search"required>
