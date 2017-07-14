@@ -39,44 +39,50 @@ layout: default
         </ul>
       </div>
       <div id="board" class="section scrollspy">
-        <h1 class="center">Board of Directors</h1>
-        <div class="row">
-          <div class="col s12 m6">
-            <div class="col s4">
-              <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
-            </div>
-            <div class="col s8">
-              <h3>Name</h3>
-            </div>
-          </div>
-          <div class="col s12 m6">
-            <div class="col s4">
-              <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
-            </div>
-            <div class="col s8">
-              <h3>Name</h3>
-            </div>
-          </div>
-          <div class="col s12 m6">
-            <div class="col s4">
-              <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
-            </div>
-            <div class="col s8">
-              <h3>Name</h3>
-            </div>
-          </div>
-        </div>
+        <ul class="collapsible" data-collapsible="accordion">
+          <li>
+            <div class="collapsible-header"><h1>Board of Directors</h1></div>
+            <div class="collapsible-body"><div class="row">
+              <div class="col s12 m6">
+                <div class="col s4">
+                </div>
+                <div class="col s8">
+                  <h3>Name</h3>
+                </div>
+              </div>
+              <div class="col s12 m6">
+                <div class="col s4">
+                </div>
+                <div class="col s8">
+                  <h3>Name</h3>
+                </div>
+              </div>
+              <div class="col s12 m6">
+                <div class="col s4">
+                </div>
+                <div class="col s8">
+                  <h3>Name</h3>
+                </div>
+              </div>
+            </div></div>
+          </li>
+        </ul>
       </div>
       <div id="associations" class="section scrollspy">
-        <h1 class="center">Associated Organizations</h1>
-        <div class="row">
-          {% for association in page.associated-organizations %}
-          <div class="col s4 m3 logo-div">
-            <img src="{{ association.logo }}" alt="{{ association.name }}" width="100%">
-            <a class="logo-link" href="{{ association.link }}">{{ association.name }}</a>
-          </div>
-          {% endfor %}
-        </div>
+        <ul class="collapsible" data-collapsible="accordion">
+          <li>
+            <div class="collapsible-header"><h1>Associated Ministries</h1></div>
+            <div class="collapsible-body">
+              <div class="row">
+                {% for association in page.associated-organizations %}
+                <div class="col s4 m3 logo-div">
+                  <a class="logo-link" href="{{ association.link }}"><img src="{{ association.logo }}" alt="{{ association.name }}" width="100%"></a>
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
     <div class="col hide-on-small-only m3 l2">

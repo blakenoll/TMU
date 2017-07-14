@@ -39,9 +39,11 @@ a {
   -webkit-margin-end: 0px;
   -webkit-padding-start: 40px;
 }
+
 .program-title {
-  font-size: 24pt;
+  font-size: 36pt;
 }
+
 .btn-navy {
   color: fff;
   background-color: $navy;
@@ -345,6 +347,9 @@ footer {
   box-shadow: none;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
 #header {
 
   a {
@@ -454,6 +459,7 @@ footer {
   .navbar-fixed {
     height: 70px;
   }
+
 }
 
 @media screen and (min-width: 1024px) {
@@ -482,5 +488,8 @@ footer {
   }
   .navbar-fixed {
     height: 56px;
+  }
+  .program-title {
+    font-size: 28pt;
   }
 }
