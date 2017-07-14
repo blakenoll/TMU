@@ -10,13 +10,13 @@ layout: default
       <ul class="tabs tabs-fixed-width">
         {% assign programs = site.admissions | sort: "position"%}
         {% for program in programs %}
-        <li class="tab"><a href="#{{ program.title | remove: " " }}">{{ program.title }}</a></li>
+        <li class="tab"><a href="#{{ program.title | remove: " " | downcase }}">{{ program.title }}</a></li>
         {% endfor %}
       </ul>
     </div>
   </div>
   {% for program in programs %}
-   <div id="{{ program.title | remove: " " }}" class="col s12 admissions-a">
+   <div id="{{ program.title | remove: " " | downcase }}" class="col s12 admissions-a">
      {{ program.content | markdownify }}
    </div>
   {% endfor %}

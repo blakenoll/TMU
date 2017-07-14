@@ -21,8 +21,8 @@
 </ul>
 </div>
 <div id="view" class="col s12">
-<img src="https://dummyimage.com/1920x670/oc2340/fff.jpg" alt="" width="100%">
-<h2>View The U</h2>
+<img src="{{ "/images/ViewWeekend_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
+
 <p>A TMU View Weekend is an unforgettable opportunity for prospective students to experience dorm life and attend classes, chapel services, and intercollegiate athletic events.
 <br>
 You will also be able to see our faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
@@ -31,14 +31,17 @@ Registration is closed</p>
 <h2>Schedule</h2>
 </div>
 <div id="personal" class="col s12">
+  <img src="{{ "/images/PersonalizedTour_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
 {{ page.Personal-Visit-body | markdownify }}
 </div>
 
 <div id="mondays" class="col s12">
+  <img src="{{ "/images/Mondays@Masters_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
 {{ page.Mondays-At-Masters-body | markdownify }}
 </div>
 
 <div id="music" class="col s12">
+  <img src="{{ "/images/Music@Masters_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
 {{ page.Music-at-Masters-body | markdownify }}
 </div>
 </div>

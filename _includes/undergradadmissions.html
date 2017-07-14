@@ -8,13 +8,13 @@
   </ul>
 </div>
 <div id="apply" class="col s12">
-  <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
+  <img src="{{ "/images/Apply.jpg" | prepend: site.url }}" alt="" width="100%">
   <a class="btn btn-navy" href="https://apply.masters.edu">Apply</a>
   {{ page.apply-body | markdownify }}
 
 </div>
 <div id="counselors" class="col s12">
-  <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
+  <img src="{{ "/images/Counselors.jpg" | prepend: site.url }}" alt="" width="100%">
   <div class="row">
     {% for staff in site.counselors%}
     <div class="col s12 m6 valign-wrapper">
@@ -30,7 +30,7 @@
 
 </div>
 <div id="intl" class="col s12">
-  <img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
+  <img src="{{ "/images/InternationalStudents.jpg" | prepend: site.url }}" alt="" width="100%">
 
   <ul class="collapsible" data-collapsible="accordion">
     <li>

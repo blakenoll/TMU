@@ -70,7 +70,7 @@ defaults:
     path: ''
     type: admissions
   values:
-    permalink: "/admissions/:title"
+    permalink: "/admissions/#:title"
 - scope:
     path: ''
     type: landingPageBanners

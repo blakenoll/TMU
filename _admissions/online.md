@@ -3,7 +3,7 @@ title: Online
 position: 2
 ---
 
-<img src="https://dummyimage.com/1920x500/oc2340/fff.jpg" alt="" width="100%">
+<img src="{{ "/images/Online.jpg" | prepend: site.url }}" alt="" width="100%">
 **The Master's University Online offers several different options for all levels of academia. For instructions specific to the program for which you are applying, please visit the appropriate link below.**
 
 ## **Undergraduate & Dual Enrollment Admission Requirements**
