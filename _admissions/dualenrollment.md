@@ -5,10 +5,8 @@ position: 3
 
 <img src="{{ "/images/DualEnrollment.jpg" | prepend: site.url }}" alt="" width="100%">
 <div class="row">
-<div class="col s12">
 <a href="http://bit.ly/TMUOLAPP" class="btn btn-navy right">Apply Now</a><br><br>
 <a href="http://bit.ly/TMUOLAPP" class="btn btn-navy right">Request Info</a>
-</div>
 </div>
 
 <p>High School juniors and seniors can get a jump start on their college degree and achieve dual credit through our online courses.  Students earn fully accredited units, taught from a Biblical worldview which are transferable to most colleges.</p>
