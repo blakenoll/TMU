@@ -20,7 +20,7 @@ position: 3
 </ul>
 <h3>Cost</h3>
 <p>The tuition cost for this program is $150 per unit</p>
-<h3>Admission Requirments</h3>
+<h3>Admission Requirements</h3>
 <ol>
 <li>Statement of faith in Jesus Christ</li>
 <li>Must have completed the Sophomore year of High School</li>
