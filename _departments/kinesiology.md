@@ -4,19 +4,13 @@ sm-image: "/uploads/AcademicsUndergradIcons_Kinesiology.png"
 description: |-
   At the Master’s University the Kinesiology and Physical Education department prepares students to work with the human body as members of the Body of Christ. There are few schools like TMU where the professors actively serve as athletic trainers also. Hands-on classes in functional anatomy and current corrective exercise and assessment techniques prepare Kinesiology students to enter their choice of top- tier graduate schools. Internships are required and facilitated for Kinesiology majors, leading to an array of graduate studies in allied health or careers such as physical training or firefighting, and Physical Education graduates can coach or credential to teach PE after graduating.
 
-  * Alumni come back and say they were prepared for grad school due to the
-
-  * hands-on experience in undergraduate classes and through their internships
+  * Alumni come back and say they were prepared for grad school due to the hands-on experience in their classes and through their internships
 
   * We facilitate and require internships in sports medicine and allied health throughout a students time at school
 
-  * Experienced trainers and coaches are main professors and part-time professors continue
+  * Our full-time professor are experienced trainers and coaches while our part-time professor continue to work in the professional field
 
-  * to work in the professional field.
-
-  * Closely works with the Biology Department, especially in the Pre-Physical Therapy
-
-  * Emphasis
+  * Closely works with the Biology Department, especially in the Pre-Physical Therapy Emphasis
 emphasis:
 - Pre-Physical Therapy
 - Exercise and Sport Science
