@@ -4,6 +4,12 @@ position: 2
 ---
 
 <img src="{{ "/images/Online.jpg" | prepend: site.url }}" alt="" width="100%">
+<div class="row">
+<div class="col s12">
+<a href="http://bit.ly/TMUOLAPP" class="btn btn-navy right">Apply Now</a><br><br>
+<a href="http://bit.ly/TMUOLAPP" class="btn btn-navy right">Request Info</a>
+</div>
+</div>
 **The Master's University Online offers several different options for all levels of academia. For instructions specific to the program for which you are applying, please visit the appropriate link below.**
 
 ## **Undergraduate & Dual Enrollment Admission Requirements**
