@@ -399,9 +399,9 @@ required-courses-body: |-
 
   **Total units required for minor (18)**
 prof-publications-body: |-
-  **Dr. Abner Chou:** "I Saw the Lord: A Biblical Theology of Vision; Evangelical Exegetical Commentary on Lamentations"
+  **Dr. Abner Chou:** *I Saw the Lord: A Biblical Theology of Vision; Evangelical Exegetical Commentary on Lamentations*
 
-  **Dr. Brian Morley:** "God in the Shadows: Evil in God’s World"
+  **Dr. Brian Morley:** *God in the Shadows: Evil in God’s World*
 
   **Dr. William Varner:** published author since 1984, Dr. Varner has written on a wide variety of biblical topics, including a devotional on the Psalms, a study of the tribes of Israel, a book about the Prophet Elijah, and an additional study of the book of James, Philippians: A Handbook on the Greek Text
 parallax-img: "/images/Parallax2.jpg"
