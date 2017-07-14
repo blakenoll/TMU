@@ -1,5 +1,5 @@
 ---
-title: Printable forms
+title: Printable Forms
 sm-image: "/uploads/AdmissionFinAid_PrintableForms.png"
 ---
 
