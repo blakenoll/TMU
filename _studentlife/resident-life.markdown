@@ -36,7 +36,7 @@ deans:
     ### Some Favorite Activities:
 
     Dave enjoys spending time with his wife, exploring L.A., the outdoors, wood-working and visiting new cities and national parks.
-- name: Jenn kintner
+- name: Jenn Kintner
   title: Associate Dean of Students
   image: 
   body-text: |-
