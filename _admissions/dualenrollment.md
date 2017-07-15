@@ -3,7 +3,7 @@ title: Dual Enrollment
 position: 3
 ---
 
-<img src="{{ "/images/DualEnrollment.jpg" | prepend: site.url }}" alt="" width="100%">
+<img src="{{ "/images/DualEnrollment_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
 <div class="row">
 <div class="col s12">
 <a href="http://bit.ly/TMUOLAPP" class="btn btn-navy right">Apply Now</a><br><br>

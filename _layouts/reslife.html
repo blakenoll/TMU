@@ -21,7 +21,7 @@ layout: default
     {% for dorm in site.dorms %}
     <div class="col s6 m4">
 
-      <a href="{{ dorm.url | prepend: site.url }}"><img class="" src="https://dummyimage.com/500x250/oc2340/fff.jpg" alt="" width="100%">{{ dorm.title }}</a>
+      <a href="{{ dorm.url | prepend: site.url }}"><img class="" src="{{ page.image | prepend: site.url }}" alt="" width="100%">{{ dorm.title }}</a>
     </div>
     {% endfor %}
   </div>
