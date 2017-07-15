@@ -31,7 +31,6 @@ layout: default
      <div class="container">
        <div class="row">
          <div class="col s12 m9">
-           <p>{{ page.description }}</p>
            <h2>Faculty</h2>
            <ul>
                {% for faculty in site.faculty %}
@@ -56,7 +55,7 @@ layout: default
              </div>
              <div class="card-content grey lighten-4">
                <div id="wam">
-                 {{ page.why-at-masters-body | markdownify }}
+                 {{ page.description | markdownify }}
                </div>
                <div id="mr">
                  {{ page.required-courses-body | markdownify }}
@@ -85,6 +84,7 @@ layout: default
                    <div id="{{ ensemble.name }}" class="modal">
                       <div class="modal-content">
                         <h4>{{ ensemble.name }}</h4>
+                        <img src="{{ ensemble.image }}" alt="" style="float: left; width:">
                         <p>{{ ensemble.body | markdownify }}</p>
                      </div>
                      <div class="modal-footer">
@@ -132,6 +132,11 @@ layout: default
              {% endfor %}
            </ul>
            <h2>Career Paths</h2>
+           <ul>
+              {% for career in page.careers %}
+              <li>{{ career }}</li>
+              {% endfor %}
+           </ul>
 
          </div>
        </div>
