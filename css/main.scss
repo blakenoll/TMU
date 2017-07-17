@@ -30,6 +30,13 @@ a {
   visibility: hidden;
 }
 
+.admissions-btns {
+  a {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+
+}
 .about ul {
   display: block;
   list-style-type: disc;
@@ -459,13 +466,20 @@ footer {
   }
 
 }
+
+
+@media only screen and (min-width: 601px) {
+
+  nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+    height: 56px;
+    line-height: 56px;
+  }
+}
+
 @media only screen and (min-width: 993px) {
   nav.nav-extended {
     height: 100px;
   }
-}
-
-@media only screen and (min-width: 601px) {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
     height: 70px;
     line-height: 70px;
@@ -473,8 +487,8 @@ footer {
   .navbar-fixed {
     height: 70px;
   }
-
 }
+
 
 @media screen and (min-width: 1024px) {
   ul.nav li.dropdown:hover > ul.dropdown-menu {

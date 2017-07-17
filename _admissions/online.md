@@ -5,9 +5,9 @@ position: 2
 
 <img src="{{ "/images/Online.jpg" | prepend: site.url }}" alt="" width="100%">
 <div class="row">
-<div class="col s12">
-<a href="http://bit.ly/TMUOLAPP" class="btn btn-navy right">Apply Now</a><br><br>
-<a href="http://bit.ly/TMUOLAPP" class="btn btn-navy right">Request Info</a>
+<div class="col s12 m4 l3 right admissions-btns">
+<a href="http://bit.ly/TMUOLAPP" class="btn btn-navy">Apply Now</a><br>
+<a href="http://bit.ly/TMUOLAPP" class="btn btn-navy">Request Info</a>
 </div>
 </div>
 **The Master's University Online offers several different options for all levels of academia. For instructions specific to the program for which you are applying, please visit the appropriate link below.**
