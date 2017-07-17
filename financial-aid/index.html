@@ -65,36 +65,61 @@ body: |-
 
 {% include parallax-header.html %}
 <div class="container">
-  <p>{{ page.hours-body | markdownify }}</p>
-    <div class="row">
-      {% assign topics = site.financialaid | sort: 'title' %}
-      {% for topic in topics %}
-      <a href="{{ topic.url | prepend: site.url }}">
-        <div class="col s6 m3">
-          <div class="vector-card">
-            <img src="{{ topic.sm-image | prepend: site.url }}" alt="" width="100%">
-            <h3 class="center">{{ topic.title }}</h3>
-          </div>
-        </div>
-      </a>
-      {% endfor %}
+  <div class="row">
+    <div class="col s12 m3 push-m9">
+      <h2 id="office-hours">Hours</h2>
+      <table class="bordered">
+        <thead>
+          <tr>
+            <th>Monday - Friday</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>8:30 am - 5:00 pm </td>
+          </tr>
+        </tbody>
+      </table>
 
 
-      <!-- <div class="col s3">
-        <ul>
+      <p>Closed on school holidays</p>
+      <p><strong>Federal School Code: </strong>001220</p>
+
+      <h2 id="contact-information">Contact Information</h2>
+
+      <p>The Master’s University<br>
+        Financial Aid Office<br>
+        21726 Placerita Canyon Rd<br>
+        Santa Clarita, CA 91321</p>
+
+        <p><strong>Email:</strong> <a href="mailto:financialaid@masters.edu">financialaid@masters.edu</a></p><hr>
+        <p><strong>Phone:</strong> <a href="tel:18005686248">1-800-568-6248</a><br>or <a href="tel:16613622290">661-362-2290</a></p><hr>
+        <p><strong>Fax:</strong> 661-362-2693</p>
+
+
+      </div>
+      <div class="col s12 m9 pull-m3">
+        <div class="row">
           {% assign topics = site.financialaid | sort: 'title' %}
           {% for topic in topics %}
-          <li><a href="{{ topic.url | prepend: site.url }}"><h4>{{ topic.title}}</h4></a></li>
+          <a href="{{ topic.url | prepend: site.url }}">
+            <div class="col s6 m4 l3">
+              <div class="vector-card">
+                <img src="{{ topic.sm-image | prepend: site.url }}" alt="" width="100%">
+                <h3 class="center">{{ topic.title }}</h3>
+              </div>
+            </div>
+          </a>
           {% endfor %}
-          <li></li>
-        </ul>
+
+        </div>
+
       </div>
-      <div class="col s6">
-        {{ page.body | markdownify }}
-      </div>
-      <div class="col s3">
-        {{ page.hours-body | markdownify }}
-      </div> -->
     </div>
+
+
+
+
+
 
 </div>
