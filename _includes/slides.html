@@ -1,21 +1,24 @@
-
-<div class="slideshow-container">
-{% for banner in site.landingPageBanners %}
-<div class="mySlides fade">
-  <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.description }}" style="width:100%">
-  <div class="text">
-    <span>{{ banner.description}}</span>
-  <a class="waves-effect waves-light btn btn-white">{{ banner.button-text }}</a>
-  </div>
-</div>
-{% endfor %}
-</div>
-<br>
-<br>
-<div style="text-align:center">
+<div class="navy-section" style="width: 100%">
+  <div class="slideshow-container">
   {% for banner in site.landingPageBanners %}
-  <span class="dot"></span>
+  <div class="mySlides fade">
+    <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.description }}" style="width:100%">
+    <div class="text">
+      <div class="container">
+        <span class="left">{{ banner.description}}</span>
+      <a class="waves-effect waves-light btn btn-white right">{{ banner.button-text }}</a>
+      </div>
+    </div>
+  </div>
   {% endfor %}
+  </div>
+  <br>
+  <br>
+  <div style="text-align:center">
+    {% for banner in site.landingPageBanners %}
+    <span class="dot"></span>
+    {% endfor %}
+  </div>
 </div>
 
 <script>
