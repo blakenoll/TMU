@@ -21,7 +21,8 @@ layout: default
     <div class="col s12 m9">
       <h2>Faculty</h2>
       <ul>
-          {% for faculty in site.faculty %}
+          {% assign profs = site.faculty | sort: 'title' %}
+          {% for faculty in profs %}
           {% if faculty.department contains page.title %}
           <div class="chip">
             {% if faculty.image != '' %}
