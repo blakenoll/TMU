@@ -1,6 +1,8 @@
 ---
 title: TMU Students Present Research at Nationally Recognized Science Conference
 date: 2017-02-13 22:15:00 Z
+categories:
+- src
 preview-text: "“Research is the undergirding of science… It is a publish or perish
   field,” said Dr. Joe Francis, chair of The Master’s University Department of Biological
   and Physical Sciences. This well-known fact among the science community is the driving

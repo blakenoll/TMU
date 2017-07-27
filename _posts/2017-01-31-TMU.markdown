@@ -1,6 +1,8 @@
 ---
 title: Stumbling Across the Gospel in the Jungle
 date: 2017-01-31 01:15:00 Z
+categories:
+- src
 preview-text: A few weeks ago, Mark Finster, Mitch Clevidence and I boarded a plane
   at LAX and flew to Ecuador for our TMU spring break. We planned to rent a car, drive
   around, shoot video for our video journalism class, eat local food and avoid suffering
