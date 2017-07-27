@@ -67,7 +67,7 @@ collections:
     output: true
 defaults:
 - scope:
-    path: '/src/_admissions'
+    path: "/src/_admissions"
     type: admissions
   values:
     permalink: "/admissions/#:title"
