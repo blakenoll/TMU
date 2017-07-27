@@ -5,10 +5,6 @@ collections:
   admissions:
     title: Admissions
     output: true
-<<<<<<< HEAD
-=======
-    path: src
->>>>>>> 99a5d28fb80434df050f880084287de44a4999af
   alumni:
     title: Alumni
     output: false
