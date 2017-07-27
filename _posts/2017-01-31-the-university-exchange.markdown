@@ -1,6 +1,8 @@
 ---
 title: The University Exchange
 date: 2017-01-31 00:56:00 Z
+categories:
+- src
 preview-text: Deciding where to go to college is one of the most important choices
   we make in life. Wanting to be successful—which looks different for everyone—can
   be a driving factor in choosing a school. For the first time we are on our own,

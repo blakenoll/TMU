@@ -2,6 +2,7 @@
 title: Welcome to Jekyll!
 date: 2017-01-12 21:51:00 Z
 categories:
+- src
 - jekyll
 - update
 preview-text: "“I want to mimic what Jake \\[Litwin\\] said on Monday and thank the
