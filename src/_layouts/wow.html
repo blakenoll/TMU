@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% include slides.html %}
+<div class="container">
+  <form action="{{ "/search" | prepend: site.url }}">
+    <div class="row">
+      <div class="col s4"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
+      <div style="clear: both;"></div>
+    </div>
+  </form>
+</div>

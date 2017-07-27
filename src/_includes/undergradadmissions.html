@@ -1,0 +1,163 @@
+<div class="row">
+<div class="col s12">
+  <ul class="tabs tabs-fixed-width secondary-tab">
+    <li class="tab"><a class="active" href="#apply">Application</a></li>
+    <li class="tab"><a href="#counselors">Counselors & Staff</a></li>
+    <li class="tab"><a href="#intl">International Students</a></li>
+    <li class="tab"><a href="#faq">FAQ</a></li>
+  </ul>
+</div>
+<div id="apply" class="col s12">
+  <img src="{{ "/images/Application_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
+  <a class="btn btn-navy" href="https://apply.masters.edu">Apply</a>
+  {{ page.apply-body | markdownify }}
+
+</div>
+<div id="counselors" class="col s12">
+  <img src="{{ "/images/Counselor_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
+  <div class="row">
+    {% for staff in site.counselors%}
+    <div class="col s12 m6 valign-wrapper">
+      <div class="col s4">
+        <img src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="" class="circle responsive-img">
+      </div>
+      <div class="col s8">
+        <h3><a href="{{ staff.url | prepend: site.url }}">{{ staff.name }}</a></h3>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+</div>
+<div id="intl" class="col s12">
+  <img src="{{ "/images/IntlAdmissions.jpg" | prepend: site.url }}" alt="" width="100%">
+
+  <ul class="collapsible" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header">Step 1</div>
+      <div class="collapsible-body"><span>{{ page.intl.step1-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Step 2</div>
+      <div class="collapsible-body"><span>{{ page.intl.step2-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Step 3</div>
+      <div class="collapsible-body"><span>{{ page.intl.step3-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Step 4</div>
+      <div class="collapsible-body"><span>{{ page.intl.step4-body | markdownify }}</span></div>
+    </li>
+  </ul>
+</div>
+<div id="faq" class="col s12">
+  <h1>Admissions - Frequently Asked Questions</h1>
+<h3>Where is The Master’s University Located?</h3>
+<p>We’re tucked into a cozy canyon community about 30 minutes up the freeway from downtown L.A , the beach or Hollywood!</p>
+<h3>When can I visit the school?</h3>
+<p>That’s a great question because there are so many choices. First off, you should know that our doors are always open. Drop in whenever you want. Mondays, Wednesdays, and Fridays are great because that’s when we hold chapel services, but you can experience our heart for the Lord any day of the week. If you’re up for a more structured event, we hold College View Weekends twice a year. You can also&nbsp;<a href="http://www.masters.edu/undergrad/visit/personalized-visit/" title="Personalized Visit">schedule a personalized tour</a> with a few mouse clicks.</p>
+<h3>What are the TMU school codes?</h3>
+<p>They are:</p>
+<ul>
+<li>FAFSA School Code: 001220</li>
+<li>SAT School Code: 4411</li>
+<li>ACT Code: 0303</li>
+</ul>
+<h3>What kind of financial aid is offered at TMU?</h3>
+<p>The important thing to know here is that a TMU education is a LOT more affordable than you think. We offer federal, state, institutional aid in the form of grants, loans, need based and merit based scholarships, and work study programs. Most of our students (93% at last count) receive some form of financial – why not you? The average TMU student receives over $20,000 in financial aid each year. Just make sure to get your application in early and to submit your FAFSA!</p>
+<h3>How much will TMU cost for&nbsp;<span>me personally</span>?</h3>
+<p>Great question! Seeing how everyone’s financial situation is different, we recommend using our Total Price Calculator. To access our Total Price Calculator,&nbsp;<a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="blank" title="Total Cost Calculator">click here</a>.</p>
+<h3>How many programs do we offer?</h3>
+<p>This answer surprises people because they think we only offer Bible classes. The truth is we are a liberal arts college built on a biblical foundation, and that means variety. We offer 13 majors and over 55 areas of study.</p>
+<h3>What are the top 6 majors?</h3>
+<p>Hmmm … that’s a tough question. We think all of our majors are great. But if we must rank them, our most attended are: Business, Biology, Communication, Bible, and Music.</p>
+<h3>Will my credits transfer from________________?</h3>
+<p>We get this one a lot. The answer depends on a few factors: Namely, where are the credits coming from (the college must be accredited) and what kind of grades did you earn (nothing below a C is accepted). And yes, we do accept CLEP, AP, and IB credits. Check out our articulation agreements with CA schools at <a href="/articulation" title="here">www.masters.edu/articulation</a></p>
+<h3>How many units do I need to be considered a transfer student?</h3>
+<p>The magic number here is 24 semester units (36 quarter units), and those need to be credits that you completed after high school graduation.&nbsp;But don’t sweat it. If you have less than 24 units, we’ll just go off your high school transcript and test scores.</p>
+<h3>What is the average class size at TMU?</h3>
+<p>We love this question because it highlights one of our best features: personal attention. Our lower division classes range from 30-40 students, and our upper division classes are limited to about 8-15. Some Bible classes are bigger (close to 100 students), but over the past four years, our average class size is 20-25 students. That’s a great environment in which too engage your professors – and for them to engage you!</p>
+<h3>What is the student/teacher ratio?</h3>
+<p>The ratio is 10-to-1. In other words, you will get to know your profs. And they will get to invest in you.</p>
+<h3>What classes should I take if I am transferring to TMU from a community college?</h3>
+<p>The first place to look for answers to this one is in our <a href="http://www.masters.edu/catalog">Academic Catalog</a> – lots of helpful specifics there. After that, you should talk to one of our <a href="http://www.masters.edu/undergrad/bios/" title="Bios">counselors </a>(they’re extremely helpful and they speak in plain English) or go straight to the Registrar’s Office – the buck stops there. You’ll be glad to know we have <a href="http://www.masters.edu/articulation">articulation agreements</a> with most community colleges in California, Oregon, Washington, and some in Arizona. We’ll contact them for you and help you sort it all out.</p>
+<h3>What kind of rules does TMU have?</h3>
+<p>The most important rule you need to know about is also the rule that’s most important to us: we call it the Rule of Grace. It governs the rest of them, so we’ll start there. After that, we have a small handful of parameters (recently revised). Check out the&nbsp;<a href="/handbook" target="_blank">Student Handbook</a> for the details.</p>
+<h3>Is chapel required?</h3>
+<p>Chapel is the hub of the TMU community and attendance is required. Chapel meets three times per week and students can miss up to six per semester.</p>
+<h3>What sports are offered at TMU?</h3>
+<p>You'll find Mustangs competing on the following teams:</p>
+<p><strong>MEN</strong></p>
+<ul>
+<li>Basketball</li>
+<li>Baseball</li>
+<li>Soccer</li>
+<li>X-Country</li>
+<li>Track</li>
+<li>Golf</li>
+</ul>
+<p><strong>WOMEN</strong></p>
+<ul>
+<li>Basketball</li>
+<li>Soccer</li>
+<li>X-Country</li>
+<li>Track</li>
+<li>Volleyball</li>
+</ul>
+<p>We also offer a fierce (and fun) menu of intramural sports: Basketball, Volleyball, Ultimate Frisbee, Softball, Golf, Tennis, Flag Football, Soccer, Dodge Ball.</p>
+<p>Pack your cleats.</p>
+<h3>What is the male/female ratio at TMU?</h3>
+<p>While many Christian colleges operate on a female/male ratio of two or even three to one, we’ve got a level playing field here. Translation: our guy-to-gal ratio is 1-to-1. Sorry, guys.</p>
+<h3>Can I bring a car to school?</h3>
+<p>Remember, this is L.A. Of course you can bring a car (but you can get by without it). Just pack an extra $45 per semester to cover the parking fee. And make sure to read the parking signs!</p>
+<h3>Are there any restrictions on having a car at TMU?</h3>
+<p>A few. The first is obvious – make sure your car is properly registered and adequately insured (the state of California came up with that one). You should also know that you can’t just park anywhere. But you do have dorm parking. Finally, for you do-it-yourselfers, make sure you get permission before you decide to throw your car up on blocks and change out the transmission in front of Hotchkiss Hall.</p>
+<h3>Is our campus secure?</h3>
+<p>Absolutely. Our students are our most precious commodity, and we take our stewardship of them seriously. We are situated in a quiet, safe neighborhood, but we take nothing for granted. Our campus security officers patrol the campus 24 hours a day, 7 days a week. Our annual crime report speaks for itself--find a copy <a href="http://www.masters.edu/campuslinks/campussafety.aspx">here</a>.</p>
+<h3>Can I live off campus?</h3>
+<p>What? And miss all the perks of campus life? If you must, there are some restrictions. Full-time students can live off campus, if they're over the age of 21 and have come in as freshmen or are married. Some students live off campus (usually with Mom and Dad) and commute. But most prefer the TMU community. You can check out the Student Handbook for more specifics.</p>
+<h3>What are TMU’s admission requirements?</h3>
+<ol>
+<li>Faith in Jesus Christ as your personal Lord and Savior</li>
+<li>High school graduate, GED, or California High School Proficiency Exam</li>
+<li>Application</li>
+<li>Pastor Recommendation</li>
+<li>Personal Statements</li>
+<li>SAT/ACT Scores</li>
+<li>High school and or college transcripts</li>
+<li>Application Fee: $40 (waived during Early Action)</li>
+</ol>
+<p><strong>Early Action Deadline:</strong> Your application must be postmarked by November 15, although financial aid applications can come later. We’ll let you know if you’ve been accepted within 2-3 weeks of receiving your completed application.</p>
+<p><strong>Priority Deadline:</strong> March 2nd. However, we continue to asked applications on a "rolling" basis even after our Priority Deadline.</p>
+<h3>Do I qualify for financial aid?</h3>
+<p>Let’s put it this way, if you don’t, you’re in the minority … way in the minority. About 93% of our students qualify for financial aid.</p>
+<h3>Does TMU prefer the SAT or ACT?</h3>
+<p>Take your pick. Either one works for us. But if you take the SAT, make sure it’s the SAT I because we don’t use the SAT II.</p>
+<h3>What are academic guidelines for GPA and test scores?</h3>
+<p>There are a number of factors, so we don't publish specific minimums. We're looking for students who have succeeded in college preparatory high school classes, and have earned above average test scores on the SAT or ACT. If a student falls below the recommended test score or grade point average, the student could still be admitted as part of our Program for Academic Support and Success (PASS).</p>
+<h3>What denomination is TMU?</h3>
+<p>We believe the Bible is literally true and divinely inspired. If that’s a denomination, then that’s us. Other than that we are non-denominational.&nbsp;<a href="http://www.masters.edu/abouttmc/doctrine/" target="_blank" title="Doctrine">Click here</a> to read over our doctrinal statement.</p>
+<h3>What percentage of the faculty uphold and affirm the TMU doctrinal statement?</h3>
+<p>Is this a trick question? We hold firm to our doctrinal statement and so does our faculty — all of our faculty … 100%.</p>
+<h3>How many countries are represented at TMU?</h3>
+<p>It may be easier to answer this one by telling you which countries aren’t represented. Right now, our student body looks like an international shepherd’s pie. We have students from 30 countries.</p>
+<h3>I’m from one of those other countries… how do I apply to TMU?</h3>
+<p>Check out our step-by-step guide for International Students&nbsp;<a href="http://www.masters.edu/undergrad/international" title="International Applicants">here</a>.</p>
+<h3>Is TMU accredited?</h3>
+<p>We love this question because we’re not only accredited, we’re WASC accredited (Western Association of Schools and Colleges) and a member ACSI (Association of Christian Schools International) and other associations. That’s a lot of letters, and they all add up to one thing: TMU is a seriously decorated, seriously recognized academic institution.</p>
+<h3>What can I do with my TMU degree?</h3>
+<p>What can’t you do with it? Build an economic empire, write the great American novel, cure the common cold. A TMU education will help you find God’s plan for your career … God’s unique and perfect use for your unique and perfect array of gifts. Can’t beat that.</p>
+<h3>Do TMU graduates attend Graduate School?</h3>
+<p>Yes. Our graduates continue their educations at such institutions as Pepperdine, UCLA, Georgetown, Oxford, Duke, and USC. Twenty percent of TMU students attend immediately and 35% attend within five years. Medical schools attended by TMU grads include Baylor College of Medicine, Johns Hopkins University, Loma Linda University, University of Michigan, and College of Osteopathic Medicine. About 95% of our students who apply to med school get in. Seminaries: TMU grads have attended Western Conservative Baptist, Talbot School of Theology, Dallas Theological Seminary, The Master’s Seminary, Southern Baptist Theological Seminary, and Trinity Evangelical Divinity School.</p>
+<h3>How many home school students attend Master’s?</h3>
+<p>Home school students constitute about a third of our student body, so we’ve got a nice mix. The other 2/3rds are split between public and private high school.</p>
+<h3>What is there to do for fun?</h3>
+<p>We can answer that question with two words in Spanish: Los Angeles. Being 30 minutes from the heart of L.A. means you are 30 minutes from (you can fill in the blank here). Want sun? How about a quick drive to Santa Monica or Malibu Beach? Like to shop? We’ve got a fantastic mall here in town, or you can always zip down the Hollywood freeway to Beverly Hills or Melrose Avenue. Like museums? The Getty is close and it’s free. How about a trip to Hollywoood, Disneyland, or Six Flags (which is right here in Santa Clarita)? You won’t ever be bored. Just don’t forget about your homework!</p>
+<h3>Do students stay on campus all weekend?</h3>
+<p>Even with everything Los Angeles has to offer, our students also enjoy just hanging out together on campus. Between dorm life, intramurals, sporting events, plays, concerts, or just kicking back at the Mustang Grill, there’s always plenty to do. Just make sure not to park your car next to Reese Field during a baseball game. Watching foul balls bounce off of windshields is another weekend pastime our students enjoy every spring.</p>
+<h3>How many dorms do you have on campus and are they co-ed?</h3>
+<p>We have 8 dorms on campus.&nbsp;<br>All-girl dorms –&nbsp;<a href="/student-life/residence-life/dorm-life/sweazy-hall.aspx">Sweazy</a> and&nbsp;<a href="/student-life/residence-life/dorm-life/dixon-hall.aspx">Dixon</a> Halls&nbsp;<br>All-guy dorms –&nbsp;<a href="/student-life/residence-life/dorm-life/slight-hall.aspx">Slight</a> and&nbsp;<a href="/student-life/residence-life/dorm-life/waldock-hall.aspx">Waldock</a> Halls<br>“Split” dorms (<span>guys’ halls separated from girls’ halls by a common lounge area</span>) –&nbsp;<a href="/student-life/residence-life/dorm-life/hotchkiss-hall.aspx">Hotchkiss</a> and&nbsp;<a href="/student-life/residence-life/dorm-life/smith-hall.aspx">Smith</a> Halls&nbsp;<br>For more information about dorm life check out our&nbsp;<a href="/student-life.aspx">student life page</a>.</p>
+<p>&nbsp;</p>
+</div>
+</div>

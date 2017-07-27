@@ -1,0 +1,97 @@
+---
+layout: default
+---
+
+{% include parallax-header.html %}
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col s12">
+      <nav>
+       <div class="nav-wrapper white">
+         <div class="col s12">
+           <a href="{{ "/academics/undergraduate" | prepend: site.url }}" class="breadcrumb">Undergrad</a>
+           <a href="#!" class="breadcrumb">{{ page.title }}</a>
+         </div>
+       </div>
+     </nav>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s12 m9">
+      <h2>Faculty</h2>
+      <ul>
+          {% assign profs = site.faculty | sort: 'title' %}
+          {% for faculty in profs %}
+          {% if faculty.department contains page.title %}
+          <div class="chip">
+            {% if faculty.image != '' %}
+            <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
+            {% else %}
+            <img src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="Contact Person">
+            {% endif %}
+            <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+          </div>
+          {% endif %}
+          {% endfor %}
+      </ul>
+
+      <div class="card">
+        <!-- <div class="card-content">
+          <p>{{ page.description }}</p>
+        </div> -->
+        <div class="card-tabs">
+          <ul class="tabs tabs-fixed-width">
+            <li class="tab"><a class="active" href="#wam">{{page.title }} at Master's</a></li>
+            <li class="tab"><a href="#mr">Major Requirements</a></li>
+          </ul>
+        </div>
+        <div class="card-content grey lighten-4">
+          <div id="wam">
+            {{ page.description | markdownify }}
+          </div>
+          <div id="mr">
+            {{ page.required-courses-body | markdownify }}
+          </div>
+        </div>
+       </div>
+       <h2>Prof Publications</h2>
+       {{ page.prof-publications-body | markdownify }}
+    </div>
+    <div class="col s12 m3">
+      <h2>Emphasis</h2>
+       <ul>
+         {% for emphasis in page.emphasis %}
+         <li>{{ emphasis }}</li>
+         {% endfor %}
+       </ul>
+      <h2>Program Credits</h2>
+      <p>
+      General Education: {{ page.GE-credits }}<br>
+      {% if page.bible-credits != '' %}
+      Bible: {{ page.bible-credits }}<br>
+      {% endif %}
+      Major Core Courses: {{ page.core-courses }}<br>
+      Emphasis/Electives: {{ page.emphasis-electives }}</p>
+      <h2>Sample Course Offerings:</h2>
+      <ul>
+        {% for course in page.course-offerings %}
+        <li>{{ course }}</li>
+        {% endfor %}
+      </ul>
+      <h2>Career Paths</h2>
+      <ul>
+        {% for career in page.careers %}
+        <li>{{ career }}</li>
+        {% endfor %}
+      </ul>
+
+
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+$('.parallax').parallax();
+});
+</script>

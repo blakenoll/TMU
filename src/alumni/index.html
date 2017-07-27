@@ -1,0 +1,64 @@
+---
+title: Alumni
+layout: default
+parallax-img: "/images/Parallax3.jpg"
+---
+
+{% include parallax-header.html %}
+<div class="container">
+  <h2>Alumni</h2>
+  <div class="row">
+    <div class="col s4 center">
+      <div class="vector-card">
+        <img src="{{ "/uploads/Alumni_Connect.png" | prepend: site.url }}" alt="" width="100%">
+        <h3><a href="https://masters.360alumni.com/">Connect With Alumni</a></h3>
+      </div>
+    </div>
+    <div class="col s4 center">
+      <div class="vector-card">
+        <img src="{{ "/uploads/Alumni_CreateProfile.png" | prepend: site.url }}" alt="" width="100%">
+        <h3><a href="https://masters.360alumni.com/signup">Create Alumni Profile</a></h3>
+      </div>
+    </div>
+    <div class="col s4 center">
+      <div class="vector-card">
+        <img src="{{ "/uploads/Alumni_WhereAlumniAre.png" | prepend: site.url }}" alt="" width="100%">
+        <h3><a href="https://masters.360alumni.com/search/">See Where Alumni Are</a></h3>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s4 center">
+      <div class="vector-card">
+        <img src="{{ "/uploads/Alumni_Jobs.png" | prepend: site.url }}" alt="" width="100%">
+        <h3><a href="https://masters.360alumni.com/job-board/">Post And Review Jobs</a></h3>
+      </div>
+    </div>
+    <div class="col s4 center">
+      <div class="vector-card">
+        <img src="{{ "/uploads/Alumni_News.png" | prepend: site.url }}" alt="" width="100%">
+        <h3><a href="https://masters.360alumni.com/">Alumni News</a></h3>
+      </div>
+    </div>
+    <div class="col s4 center">
+      <div class="vector-card">
+        <img src="{{ "/uploads/Alumni_Events.png" | prepend: site.url }}" alt="" width="100%">
+        <h3><a href="https://masters.360alumni.com/events/">Alumni Events</a></h3>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        {% for item in site.alumni %}
+        <li class="tab"><a href="#{{ item.title | remove: " " }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% for item in site.alumni %}
+    <div id="{{ item.title | remove: " " }}" class="col s12">
+      {{ item.content | markdownify }}
+    </div>
+    {% endfor %}
+  </div>
+</div>

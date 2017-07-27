@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Student Accounts | The Master's University</title>
+  <meta name="author" content="">
+  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
+  <meta property="og:title" content="Student Accounts | The Master's University">
+  <meta property="og:url" content="http://localhost:4000/student-accounts">
+  <meta property="og:site_name" content="The Master's University">
+  <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
+  <meta property="og:image" content="">
+  <meta property="og:type" content="blog">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
+  <meta name="twitter:title" content="Student Accounts | The Master's University">
+  <meta name="twitter:url" content="http://localhost:4000/student-accounts">
+  <meta name="twitter:site" content="The Master's University">
+  <meta name="twitter:creator" content="@jekyllrb">
+  <meta name="twitter:domain" content="http://localhost:4000">
+  <meta property="twitter:image" content="">
+
+  <!-- Fonts and Icons -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+  <!-- main css -->
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="alternate" type="application/rss+xml" title="The Master's University" href="http://localhost:4000/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/student-accounts">
+  <link rel="shortcut icon" type="image/png" href="http://localhost:4000/favicon.png">
+  <!-- moment.js -->
+  <script src="http://localhost:4000/fullcalendar/lib/moment.min.js"></script>
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <!-- fullcalendar -->
+  <script src="http://localhost:4000/fullcalendar/fullcalendar.min.js"></script>
+  <script src="http://localhost:4000/fullcalendar/gcal.min.js"></script>
+  <link href="http://localhost:4000/fullcalendar/fullcalendar.min.css" rel='stylesheet' />
+  <link href="http://localhost:4000/fullcalendar/fullcalendar.print.min.css"rel='stylesheet' media='print' />
+  <!-- search  -->
+    
+
+</head>
+
+  <body>
+    
+    <!--  Scripts-->
+    <script src="http://localhost:4000/js/materialize.js"></script>
+    <script src="http://localhost:4000/js/init.js"></script>
+    <header>
+  <!-- Dropdown Structure -->
+  <ul id="dropdown1" class="dropdown-content">
+    <li><a href="http://localhost:4000/academics/undergraduate">Undergraduate</a></li>
+    <li><a href="http://localhost:4000/academics/teachingcredential">Teaching Credential</a></li>
+    <li><a href="http://localhost:4000/academics/graduate">Graduate</a></li>
+    <li><a href="http://localhost:4000/academics/online">Online</a></li>
+    <li><a href="https://www.tms.edu/">TMS</a></li>
+  </ul>
+
+  <ul id="dropdown2" class="dropdown-content">
+    <li><a href="http://localhost:4000/admissions/#undergraduate">Undergraduate</a></li>
+    <li><a href="http://localhost:4000/admissions/#graduate">Graduate</a></li>
+    <li><a href="http://localhost:4000/admissions/#online">Online</a></li>
+    <li><a href="http://localhost:4000/admissions/#dualenrollment">Dual Enrollment</a></li>
+    <li><a href="http://localhost:4000/financial-aid">Financial Aid</a></li>
+  </ul>
+
+  <ul id="dropdown3" class="dropdown-content">
+    <li><a href="http://localhost:4000/studentlife">Student Life</a></li>
+    <li><a href="https://masters.instructure.com/login">Canvas</a></li>
+    <li><a href="https://portal.masters.edu/SelfService">Self Service</a></li>
+    <li><a href="https://www2.masters.edu/edit/WebDept/Logon.aspx?ToolID=&Error=&JumpURL=">Content Managment</a></li>
+    <li><a href="http://localhost:4000/library">Library</a></li>
+    <li><a href="#">Caf Menu</a></li>
+    <li><a href="https://outlook.com/mail.masters.edu">Email</a></li>
+    <li><a href="#">Printers</a></li>
+  </ul>
+
+  <ul id="dropdown4" class="dropdown-content">
+    <li><a href="http://localhost:4000/faculty">Faculty List</a></li>
+    <li><a href="https://masters.instructure.com/login">Canvas</a></li>
+    <li><a href="https://portal.masters.edu/SelfService">Self Service</a></li>
+    <li><a href="https://www2.masters.edu/edit/WebDept/Logon.aspx?ToolID=&Error=&JumpURL=">Content Managment</a></li>
+    <li><a href="https://outlook.com/mail.masters.edu">Email</a></li>
+    <li><a href="#">Marketing Request</a></li>
+    <li><a href="#">Chapel Announcement Request</a></li>
+    <li><a href="https://workforcenow.adp.com/public/index.htm">ADP Login</a></li>
+  </ul>
+
+  <ul id="dropdown5" class="dropdown-content">
+    
+    <li><a href="http://localhost:4000/arc">Academic Resource Center</a></li>
+    
+    <li><a href="http://localhost:4000/bookstore">University Exchange</a></li>
+    
+    <li><a href="http://localhost:4000/campus-safety">Campus Safety</a></li>
+    
+    <li><a href="http://localhost:4000/conference-services">Conference Services</a></li>
+    
+    <li><a href="http://localhost:4000/student-career-center">Student Career Center</a></li>
+    
+    <li><a href="http://localhost:4000/building-schedules">Building Schedules</a></li>
+    
+    <li><a href="http://localhost:4000/employment">Employment</a></li>
+    
+    <li><a href="http://localhost:4000/mail-center">Mail Center</a></li>
+    
+    <li><a href="http://localhost:4000/registrar">Registrar</a></li>
+    
+    <li><a href="http://localhost:4000/student-accounts">Student Accounts</a></li>
+    
+    <li><a href="http://localhost:4000/health-services">Health Services</a></li>
+    
+    <li><a href="http://localhost:4000/testing-and-proctoring">Testing and Proctoring</a></li>
+    
+  </ul>
+
+  <!-- end dropdown content -->
+  <div class="navbar-fixed">
+    <nav id="header">
+      <div class="nav-wrapper">
+        <div class="container">
+          <a href="http://localhost:4000" class="brand-logo center">
+            <img id="home-logo" src="http://localhost:4000/images/TMU_WebLogo_NavyGold.png" alt="">
+          </a>
+            <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+
+          <!-- <a href="#" class="brand-logo center">Logo</a> -->
+          <ul id="nav-mobile" class="left hide-on-med-and-down">
+            <li><a href="http://localhost:4000/about">About</a></li>
+            <li><a class="dropdown-button" href="http://localhost:4000/admissions" data-activates="dropdown2">Admissions</a></li>
+          </ul>
+          <ul id="nav-mobile" class="right hide-on-med-and-down">
+            <li><a class="dropdown-button" href="http://localhost:4000/academics" data-activates="dropdown1">Academics</a></li>
+            <li><a href="badges.html">Athletics</a></li>
+          </ul>
+        </div>
+
+      </div>
+    </nav>
+  </div>
+  <div class="top-banner hide-on-med-and-down">
+    <div class="container">
+      <div class="row valign-wrapper">
+        <div id="upper-nav-text" class="col s7">
+          <a class="dropdown-button" href="http://localhost:4000/students" data-activates="dropdown3">Students</a>
+          <a class="dropdown-button" href="http://localhost:4000/faculty&staff" data-activates="dropdown4">Faculty/Staff</a>
+          <a class="dropdown-button" href="http://localhost:4000/faculty&staff" data-activates="dropdown5">Campus Links</a>
+          <a href="http://localhost:4000/alumni">Alumni</a>
+          <a href="http://localhost:4000/give">Give</a>
+        </div>
+        <div class="col s3">
+          <a class="right btn btn-white btn-request" href="#">Request Info</a>
+        </div>
+        <div class="col s2">
+          <form class="nav-search"action="/search">
+            <div class="input-field nav-search">
+              <input id="search" name="q" type="search"  placeholder="Search"required>
+              <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <!-- mobile side menu -->
+  <ul class="side-nav" id="mobile-demo">
+    <li><a href="http://localhost:4000/admissions/#Undergraduate">Admissions</a></li>
+    <li><a href="http://localhost:4000/academics">Academics</a></li>
+    <li><a href="http://localhost:4000#">Athletics</a></li>
+    <li><a href="http://localhost:4000/performingarts">Performing Arts</a></li>
+    <li><a href="http://localhost:4000/academics/online">Online</a></li>
+    <li><a href="http://localhost:4000/students">Students</a></li>
+    <li><a href="http://localhost:4000/faculty&staff">Faculty/Staff</a></li>
+    <li><a href="http://localhost:4000/alumni">Alumni</a></li>
+    <li><a href="http://localhost:4000/give">Give</a></li>
+    <li><a href="https://www.tms.edu/">TMS</a></li>
+    <li class="search">
+      <form class="nav-search"action="/search">
+        <div class="input-field nav-search">
+          <input id="search" name="q" type="search"  placeholder="Search"required>
+          <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+        </div>
+      </form>
+    </li>
+  </ul>
+  <!-- end mobile side menu -->
+
+  <script>
+  $(document).ready(function(){
+    $(".dropdown-button").dropdown({hover: true, belowOrigin: true, constrainWidth: false});
+  });
+  $(window).scroll(function() {
+    var scroll = $(window).scrollTop();
+    if (scroll > 0) {
+      $("#header").addClass("active");
+    }
+    else {
+      $("#header").removeClass("active");
+    }
+  });
+  </script>
+</header>
+
+    <main>
+        <div class="parallax-container news-parallax">
+  <div class="parallax"><img src="http://localhost:4000/images/Parallax4.jpg" alt="Student Accounts header-img"></div>
+  <div class="container valign-wrapper" style="height: 100%">
+    <h1 class="program-title white-text">STUDENT ACCOUNTS</h1>
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+$('.parallax').parallax();
+});
+</script>
+
+
+<div class="container">
+  <div class="row">
+    <!-- Table of Contents -->
+  <div class="col s12 m3 push-m9">
+    <div class="toc-wrapper pin-top" style="top: 0px;">
+      <div class="buysellads">
+        <div section table-of-contents fixed>
+          <h2>Office Hours</h2>
+          <table class="bordered">
+              <thead>
+                <tr>
+                    <th>Monday - Friday</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>10:00 am - 5:00 pm </td>
+                </tr>
+              </tbody>
+            </table>
+              <h2 id="contact-information">Contact Information</h2>
+
+              <p>The Master’s University and Seminary <br /> Student Accounts Office <br /> 21726 Placerita Canyon Rd. <br /> Santa Clarita, CA 91321</p>
+
+
+          <p><strong>Email:</strong> <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col s12 m9 pull-m3">
+        <h2>Welcome to Student Accounts</h2>
+        <p>The Student Accounts Office is responsible for processing student account charges, collecting payments, processing refunds, distributing monthly itemized statements, and providing customer service to the students and families of The Master’s University and The Master’s Seminary.</p>
+
+<p>Our goal is to provide excellent service in a way that imitates The Master, while ensuring that student account transactions are accurately processed and properly recorded.</p>
+
+<p>We are located in Vider Hall, next to the main administration building on Upper Campus of The Master’s University.</p>
+
+        <div class="card horizontal">
+            <div class="card-stacked">
+              <div class="card-content">
+                <h2>Online Payment</h2>
+                <p>Welcome to Student Accounts Online Payments</p>
+
+<p><br />
+Online payments can be made by clicking “Make a Payment” below. Clicking this button will take you to our secure payment portal, hosted by Cornerstone Payment Systems. You will need the student’s Last Name and Student ID (available on the statement) to process a payment.</p>
+
+<p><br />
+Payments can be made using E-check (ACH) by entering your bank account and routing number. You may also set up recurring payments and save your information for future payments.</p>
+
+<p><br />
+<em>For Wire Transfer information, <a href="http://www.masters.edu/media/868264/wireinfo.pdf" title="WIREINFO.pdf">click here</a>.</em></p>
+
+<p><br />
+If you have any questions regarding the online payment portal, please <a href="http://www.masters.edu/media/867888/cornerstone-instructions-published.pdf" title="Student Account Payment Guide">click here</a> for a helpful step-by-step guide.</p>
+
+<p><br /></p>
+
+                </div>
+                <div class="card-action">
+                  <div class="center">
+                  <p><a href="https://give.cornerstone.cc/TMCS"><img src="http://www.masters.edu/media/723763/button_makeapayment.png" alt="button_makeapayment.png" /></a></p>
+
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+          <div class="card-tabs">
+            <ul class="tabs tabs-fixed-width">
+                <li class="tab"><a href="#general">General FAQs</a></li>
+                <li class="tab"><a href="#tmu-online">TMU Online Billing FAQ</a></li>
+                <li class="tab"><a href="#masters-degree">Master's Degree Billing Faq</a></li>
+           </ul>
+          </div>
+          <div class="card-content grey lighten-4">
+            <div id="general" style="">
+              <ul class="collapsible" data-collapsible="accordion">
+                  
+                  <li>
+                    <div class="collapsible-header">How do I make a payment online?</div>
+                    <div class="collapsible-body"><span><p>Online payments can be made by clicking “Make a Payment” when logged into Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.</p>
+<p>Begin by clicking the "Make a Payment" button on the page. &nbsp;Clicking this button will take you to our secured payment site. &nbsp;You will need your Student ID number (same as Account Number on the statements, ex. 000123456), last name, and bank account information. You will receive an auto-generated email receipt for the payment.</p>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">How do I change a choice I made during pre-registration?</div>
+                    <div class="collapsible-body"><span><p>Online payments can be made by clicking “Make a Payment” when logged into Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.</p>
+<p>Begin by clicking the "Make a Payment" button on the page. &nbsp;Clicking this button will take you to our secured payment site. &nbsp;You will need your Student ID number (same as Account Number on the statements, ex. 000123456), last name, and bank account information. You will receive an auto-generated email receipt for the payment.</p>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">How do I change my billing address?</div>
+                    <div class="collapsible-body"><span><ol class="browser-default"> <li class="browser-default">Log on to your Self-Service Account</li> <li class="browser-default">Click My Profile</li> <li class="browser-default">Under my profile, use the “Manage Addresses” feature to change your active home or billing address.</li> </ol>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">Why is there a charge for medical insurance on my bill?</div>
+                    <div class="collapsible-body"><span><p>All students are required to be covered by medical/accident insurance, whether it is through a plan contracted through TMUS or their own. An insurance premium will be charged to your account unless you complete an approved waiver through the waiver website and mail a copy of the front and backside of your insurance card to the Health Center (TMU) or to Academic Records (TMS).</p>
+<p>If you were already charged for the TMUS insurance premium, but have personal insurance and wish to waive your premium, you may do so by completing the waiver online. &nbsp;If you are approved, the charge will be removed. &nbsp;This can be done up to the end of add/drop period.</p>
+<p>The policy provided through TMUS covers the student from August 1st of the current year through July 31st of the following year (FALL premium), or January 1st through July 31st (SPRING only premium). All questions about the specific provisions of the plan should be directed to the plan provider.</p>
+<p>Information on the plan is available on the <a href="http://www.masters.edu/campuslinks/healthservices/" title="HealthServices">TMU Health Center website</a>.</p>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">How do I view my Student Account on Self-Service?</div>
+                    <div class="collapsible-body"><span><ol class="browser-default"> <li class="browser-default">Log on to your Self-Service Account</li> <li class="browser-default">Click the “Balance” option</li> <li class="browser-default">The site will default to a summary of the most current term. To view a different term, use the drop down on the left hand side&nbsp;called “Period.”</li> <li class="browser-default">You may choose one of the following viewing options:<br /><strong>&nbsp; &nbsp; Detail by Charges/ Credits</strong>: This view provides the details of all transactions marked for the period selected as either “charges” or “credits”. Typical charges include tuition, housing, meals, and fees. Typical credits include financial aid applied, payments received, or reversals of fees.<br /><strong>&nbsp; &nbsp; Detail by Summary Type</strong>: This view breaks the charges and credits into their respective summary types, such as Tuition, Additional Fees, or Financial Aid. This allows you to look at particular categories, such as how many payments were made for the period.<br /><strong>&nbsp; &nbsp; Balance Summary</strong>: This view summarizes all of the transactions viewed in the “Detail by Summary Type” view into single lines, showing the net total of each category. This is also the default view.</li> </ol>
+<p><span style="text-decoration: underline;"><strong>A Note On "Balance From Other Periods":</strong></span> This line&nbsp;shows any balance due (positive) or credit balance (negative) from other terms.&nbsp;This balance may include payments intended for the term being viewed, but applied to a different semester in our system. This may be due to not having a term attached to the payment, or the timing of the receipt of the payment. Because TMCS does not bill on a strict “per semester” basis, this should not cause you any concern as long as you are current on your payments. Should you have any questions, please contact the Student Accounts Office.</p>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">What are my payment options?</div>
+                    <div class="collapsible-body"><span><p class="boldText"><span>Traditional Undergraduate, Seminary, and Credentialing Students</span></p>
+<p><span style="text-decoration: underline;">FULL PAY</span> - Students will have the entire balance on their account due by July 10 for the Fall semester and December 10 for the Spring semester.&nbsp;If you register after the first bill is mailed, your payment will be due the 10th of the following month.</p>
+<p><span style="text-decoration: underline;">MONTHLY PAYMENT PLAN</span> - Students who select the 5 month payment option will have a payment plan fee charged to their account and will make 5 monthly payments each semester (July-November for Fall semester, December-April for Spring semester). Payments are due on the 10<span>th</span> of each month according to the schedules below:</p>
+<table border="1" cellspacing="0" cellpadding="0" style="width: 580px;"><caption>FALL SEMESTER</caption> <tbody> <tr> <td width="106"> <p><strong>Due Date</strong></p> </td> <td width="164"> <p align="center"><strong>Payments Remaining</strong></p> </td> <td width="194"> <p align="right"><strong>Payment Amount</strong></p> </td> </tr> <tr> <td width="106"> <p><strong>July 10th</strong></p> </td> <td width="164"> <p align="center">5</p> </td> <td width="194"> <p align="right">20% of Remaining Balance</p> </td> </tr> <tr> <td width="106"> <p><strong>August 10th</strong></p> </td> <td width="164"> <p align="center">4</p> </td> <td width="194"> <p align="right">25% of Remaining Balance</p> </td> </tr> <tr> <td width="106"> <p><strong>September 10th</strong></p> </td> <td width="164"> <p align="center">3</p> </td> <td width="194"> <p align="right">33% of Remaining Balance</p> </td> </tr> <tr> <td width="106"> <p><strong>October 10th</strong></p> </td> <td width="164"> <p align="center">2</p> </td> <td width="194"> <p align="right">50% of Remaining Balance</p> </td> </tr> <tr> <td width="106"> <p><strong>November 10th</strong></p> </td> <td width="164"> <p align="center">1</p> </td> <td width="194"> <p align="right">100% of Remaining Balance</p> </td> </tr> </tbody> </table>
+<table border="1" cellspacing="0" cellpadding="0" width="579" height="202"><caption>SPRING SEMESTER</caption> <tbody> <tr> <td width="106"> <p><strong>Due Date</strong></p> </td> <td width="164"> <p align="center"><strong>Payments Remaining</strong></p> </td> <td width="194"> <p align="right">Payment Amount</p> </td> </tr> <tr> <td width="106"> <p>December 10th</p> </td> <td width="164"> <p align="center">5</p> </td> <td width="194"> <p align="right">20% of Remaining Balance</p> </td> </tr> <tr> <td width="106"> <p>January 10th</p> </td> <td width="164"> <p align="center">4</p> </td> <td width="194"> <p align="right">25% of Remaining Balance</p> </td> </tr> <tr> <td width="106"> <p>February 10th</p> </td> <td width="164"> <p align="center">3</p> </td> <td width="194"> <p align="right">33% of Remaining Balance</p> </td> </tr> <tr> <td width="106"> <p>March 10th</p> </td> <td width="164"> <p align="center">2</p> </td> <td width="194"> <p align="right">50% of Remaining Balance</p> </td> </tr> <tr> <td width="106"> <p>April 10th</p> </td> <td width="164"> <p align="center">1</p> </td> <td width="194"> <p align="right">100% of Remaining Balance</p> </td> </tr> </tbody> </table>
+<p>Note:&nbsp; Students who register late will have fewer payments.&nbsp; The total balance due will be divided by the number of payments that are remaining. This payment schedule is based on registration before the first billing (June 20<span>th</span> for the Fall and November 20<span>th</span> for the Spring). If you register after these dates, you will pay in 4 months rather than 5.</p>
+<p>Students who register for Winterim classes will have the cost of the class rolled into their Spring bill.</p>
+<p>Students who register for Post-Session classes must pay in full <strong>by the first day of class</strong>.</p>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">Why was I charged a late fee?</div>
+                    <div class="collapsible-body"><span><p>A late fee will be assessed to the account if the full payment amount due is not received by the dates listed above. A partial payment or payment less than the amount due will still be assessed a late fee.</p>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">Why isn’t my financial aid posted to my account?</div>
+                    <div class="collapsible-body"><span><p>Financial aid includes institutional scholarships, federal and state financial aid, and federal and private loans.&nbsp; Financial aid is processed by the Office of Financial Aid and is awarded and applied according to applicable laws and regulations.&nbsp; If you believe you should have aid awarded to your account but do not see it listed, please do the following:</p>
+<ol class="browser-default"> <li class="browser-default"><span>Login on Self-Service and check your Financial Aid status under the Finances tab</span>.&nbsp; Missing paperwork may result in a delay of the application of financial aid funds or the removal of funds previously credited to the student account. Please review this screen to see if you have missing documents.</li> <li class="browser-default">If this screen does not list the aid you expected, or if all documents are complete and aid is still not applied to your account, please contact the Office of Financial Aid for further information.</li> </ol>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">Can I use my flex bucks next semester?</div>
+                    <div class="collapsible-body"><span><p>Yes and no! Unused flex bucks from the Fall semester WILL roll over to the Spring semester. However, unused flex bucks from the Spring semester WILL NOT carry over to the following academic year.&nbsp; Please plan your flex bucks usage and purchases accordingly.</p>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">I have a credit balance on my student account.  What can I do with it?</div>
+                    <div class="collapsible-body"><span><p>If you have a credit balance on your student account (excess of credits over charges), you may do any of the following:</p>
+<ol class="browser-default"> <li class="browser-default">Leave the credit balance on your account for future semester charges.<br /><span style="text-decoration: underline;">Note</span>: &nbsp;We are required by the Department of Education to refund you a credit balance created by an excess of Federal Student Aid over applicable charges. The refunds will be automatically sent to the student address on file or to campus mail. &nbsp;You are not required to request a refund in this case.</li> <li class="browser-default">Request a refund check be cut from your account. You may email us at accountinfo@masters.edu, call our office at 661.362.2212, or stop by in person. Please note that we are unable to process refund check requests until the add/drop period is over for the current semester. If you are a work study student, you may have further restrictions on the amount available to refund.</li> </ol>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">How much refund will I get if I drop a class?</div>
+                    <div class="collapsible-body"><span><p>Refunds are based upon the week that the official withdrawal form, signed by the Registrar and the appropriate Dean, is presented to the Student Accounts Office, NOT on the time a student ceases to attend classes.&nbsp; A student withdrawing from school without consultation or consent of an appropriate administrator will not be entitled to any refund.&nbsp; The percentage of tuition refunded is based on actual tuition cost charged to the student’s account.</p>
+<p><strong>TUITION</strong></p>
+<p><span>Traditional Undergraduate, Seminary, Master of Arts, and Credential:</span></p>
+<table border="1" cellspacing="0" cellpadding="0" height="257" style="width: 291px;"> <tbody> <tr> <td>No Attendance</td> <td>100%</td> </tr> <tr> <td>During first week</td> <td>100%</td> </tr> <tr> <td>During second week</td> <td>100%</td> </tr> <tr> <td>During third week</td> <td>75%</td> </tr> <tr> <td>During fourth week</td> <td>60%</td> </tr> <tr> <td>During fifth week</td> <td>45%</td> </tr> <tr> <td>During sixth week</td> <td>30%</td> </tr> <tr> <td>During seventh week</td> <td>15%</td> </tr> <tr> <td>During eighth week</td> <td>5%</td> </tr> <tr> <td>During ninth week</td> <td>0%</td> </tr> </tbody> </table>
+<p><br /><strong>Post-Session / Winterim</strong></p>
+<p>100% Refundable if dropped on or prior to first day of class.&nbsp; No refund if dropped later than 1st day of class.</p>
+<p>*Refund schedules subject to change.&nbsp; Please refer to your Student Handbook for the most recent information.</p>
+<p><strong>ROOM AND BOARD</strong></p>
+<p>Room and board will be prorated on a weekly basis for traditional programs. There will be no room and board refund for Post-Session or Winterim after the first day of classes.</p>
+<p><strong>COURSE FEES</strong></p>
+<p>Course fees, lab fees, and individual music lesson fees are fully refundable if the student drops the course during the first two weeks of class (add/drop period).&nbsp; After this point, they become non-refundable.</p>
+<p><a name="_Toc461715416"></a><strong>TRAD STUDENTS IN ONLINE COURSES</strong></p>
+<p>Undergraduate students may enroll in online courses offered within the fall or spring term up to one week after the start of the course and drop with a full refund within the first week. There are no partial refunds allowed after the first week. A Traditional Undergraduate student may withdraw (and receive a “W”) the 2<sup>nd</sup> through the 6<sup>th</sup> week of the course.</p>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">Beside tuition, room, and board, what other charges might I see on my bill?</div>
+                    <div class="collapsible-body"><span><p><strong>COURSE / LAB FEES</strong></p>
+<p>Fees are determined by course enrollment.&nbsp; Many courses have additional fees that help to offset the cost of course or lab materials; these are determined by the academic department and are listed on the course information during registration.</p>
+<p><strong>MANDATORY FEES</strong></p>
+<p>Depending on the program, various student activity, technology, or library fees may be included as mandatory fees for the program.&nbsp;&nbsp; These will be clearly defined and included in the information provided on cost of attendance.</p>
+<p><strong>FINES</strong></p>
+<p>Fines may be assessed for items such as overdue library books, broken equipment, dorm room damages, or campus security violations.&nbsp; These fines will be communicated directly to the student by the department assessing the fine, and an opportunity provided for the student to pay directly.&nbsp; If the student is non-responsive or gives permission, the department may choose to transfer these fines to the student account for payment.</p>
+<p>Questions about these fines should be directed to the department responsible for assessing the fines, as listed below.</p>
+<table border="1" cellspacing="0" cellpadding="0" width="718" height="137" style="width: 718px; height: 137px;"> <tbody> <tr> <td width="150" valign="bottom"> <p>Fine</p> </td> <td width="150" valign="bottom"> <p>Department</p> </td> <td width="227" valign="bottom"> <p>Contact</p> </td> </tr> <tr> <td width="150" valign="bottom"> <p>Overdue or Missing Book</p> </td> <td width="150" valign="bottom"> <p>Library</p> </td> <td width="227" valign="bottom"> <p>College: 661-362-2272 &nbsp;| &nbsp;Seminary: 800-CALL-TMS</p> </td> </tr> <tr> <td width="150" valign="bottom"> <p>Parking / Security Violation</p> </td> <td width="150" valign="bottom"> <p>Campus Security</p> </td> <td width="227" valign="bottom"> <p>campussecurity@masters.edu</p> </td> </tr> <tr> <td width="150" valign="bottom"> <p>Dorm Damages</p> </td> <td width="150" valign="bottom"> <p>Student Life</p> </td> <td width="227" valign="bottom"> <p>661-362-2821</p> </td> </tr> <tr> <td width="150" valign="bottom"> <p>Failure to Check Out of Dorm</p> </td> <td width="150" valign="bottom"> <p>Student Life</p> </td> <td width="227" valign="bottom"> <p>661-362-2821</p> </td> </tr> <tr> <td width="150" valign="bottom"> <p>NSF Check Fee</p> </td> <td width="150" valign="bottom"> <p>Student Accounts</p> </td> <td width="227" valign="bottom"> <p>661-362-2212</p> </td> </tr> </tbody> </table>
+</span></div>
+                  </li>
+                  
+              </ul>
+            </div>
+            <div id="tmu-online" style="">
+              <ul class="collapsible" data-collapsible="accordion">
+                  
+                  <li>
+                    <div class="collapsible-header">How do I make a payment online?</div>
+                    <div class="collapsible-body"><span><<p>Online payments can be made by clicking “Make a Payment” when logged into Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.</p>
+<p>Begin by clicking the "Make a Payment" button on the page. &nbsp;Clicking this button will take you to our secured payment site. &nbsp;You will need your Student ID number (same as Account Number on the statements, ex. 000123456), last name, and bank account information. You will receive an auto-generated email receipt for the payment.</p>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">How do I change a choice I made during pre-registration?</div>
+                    <div class="collapsible-body"><span><<p>Online payments can be made by clicking “Make a Payment” when logged into Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.</p>
+<p>Begin by clicking the "Make a Payment" button on the page. &nbsp;Clicking this button will take you to our secured payment site. &nbsp;You will need your Student ID number (same as Account Number on the statements, ex. 000123456), last name, and bank account information. You will receive an auto-generated email receipt for the payment.</p>
+</span></div>
+                  </li>
+                  
+              </ul>
+            </div>
+            <div id="masters-degree" style="">
+              <ul class="collapsible" data-collapsible="accordion">
+                  
+                  <li>
+                    <div class="collapsible-header">How do I make a payment online?</div>
+                    <div class="collapsible-body"><span><<p>Online payments can be made by clicking “Make a Payment” when logged into Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.</p>
+<p>Begin by clicking the "Make a Payment" button on the page. &nbsp;Clicking this button will take you to our secured payment site. &nbsp;You will need your Student ID number (same as Account Number on the statements, ex. 000123456), last name, and bank account information. You will receive an auto-generated email receipt for the payment.</p>
+</span></div>
+                  </li>
+                  
+                  <li>
+                    <div class="collapsible-header">How do I change a choice I made during pre-registration?</div>
+                    <div class="collapsible-body"><span><<p>Online payments can be made by clicking “Make a Payment” when logged into Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.</p>
+<p>Begin by clicking the "Make a Payment" button on the page. &nbsp;Clicking this button will take you to our secured payment site. &nbsp;You will need your Student ID number (same as Account Number on the statements, ex. 000123456), last name, and bank account information. You will receive an auto-generated email receipt for the payment.</p>
+</span></div>
+                  </li>
+                  
+              </ul>
+            </div>
+          </div>
+         </div>
+        <h2>Policies and Procedures</h2>
+        <div class="card">
+        <div class="card-tabs">
+          <ul class="tabs tabs-fixed-width">
+            
+              <li class="tab"><a href="#statements">Statement Printing</a></li>
+            
+              <li class="tab"><a href="#fin-aid">Recieving Financial Aid</a></li>
+            
+              <li class="tab"><a href="#d-accounts">Delinquent Accounts Notice</a></li>
+            
+         </ul>
+        </div>
+        <div class="card-content grey lighten-4">
+          
+          <div id="statements" style="">
+            <p>Statement periods are from the 21st of a month to the 20th of the following month. Statements will be sent by the 25th of each month for all accounts that have activity during the period or that have a balance (due or credit) at the end of the period.</p>
+
+          </div>
+          
+          <div id="fin-aid" style="">
+            <p>Financial aid is applied to accounts as directed by the Office of Financial Aid. Should a student become ineligible for financial aid that has been previously credited to the account, the amount previously credited will be charged back to the account. If the Office of Financial Aid has not received all necessary paperwork, they may withhold applying some or all financial aid to the account. Pending financial aid does not alleviate the responsibility for making payments. Students with pending aid should contact the Office of Financial Aid to resolve any issues prior to the payment due date. Otherwise, the statement balance should be paid by the due date to avoid a late payment fine. Any outside scholarships and loans will be credited to accounts when funds are received. Monthly payments will be adjusted after they are applied.</p>
+
+          </div>
+          
+          <div id="d-accounts" style="">
+            <p>If a student does not pay the required monthly minimum payment, he/she will receive a notification reminding them of the delinquent payment and his/her student account will be placed on “Stop” by Student Accounts. The stop is a tool used both to track delinquent student accounts and to prevent students from registering for additional classes or making schedule changes.</p>
+
+<p>Special arrangements may be made if a student is unable to pay according to the prescribed schedule or terms. Such arrangements must be requested in writing to the Student Accounts Office and will not be considered valid unless approved by the Director of Student Accounts.</p>
+
+          </div>
+          
+        </div>
+       </div>
+      </div>
+
+
+  </div>
+</div>
+
+    </main>
+
+  </body>
+  <footer class="page-footer">
+          <div class="container">
+            <div class="row">
+              <div class="col-container">
+                <div class="col s4 m2 l1">
+                  <div class="footer-img">
+                    <img src="http://localhost:4000/images/MastersU_Seal_White.png" alt="TMU Seal" width="100%">
+                  </div>
+                </div>
+                <div class="col s8 m6 footer-nav">
+                  <ul>
+                    <li><a href="#">Directions</a></li>
+                    <li><a href="#">Emergency Info</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Title IX</a></li>
+                  </ul>
+                  <p class="white-text">21726 Placerita Canyon Road Santa Clarita, CA 91321 <br />1-800-568-6248 © 2017 Copyright Text</p>
+                </div>
+                <div class="col s12 m4">
+                  <div class="social-icons right">
+                    <a href="https://www.instagram.com/mastersuniversity/" class="fa fa-instagram right" target="_blank"></a>
+                    <a href="https://www.facebook.com/mastersuniv/" class="fa fa-facebook right" target="_blank"></a>
+                    <a href="https://twitter.com/mastersuniv?lang=en" class="fa fa-twitter right" target="_blank"></a>
+                    <a href="https://www.linkedin.com/school/36767?pathWildcard=36767" class="fa fa-linkedin right" target="_blank"></a>
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+</footer>
+
+</html>

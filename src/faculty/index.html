@@ -1,0 +1,189 @@
+---
+title: Faculty
+layout: default
+parallax-img: "/images/Parallax7.jpg"
+exclude_from_search: true
+---
+
+{% include parallax-header.html %}
+<div id="faculty-list" class="container">
+  <h2>Bible</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "Bible"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>Business</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "Business"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>Computer and Information Sciences</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "Computer and Information Sciences"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>Communications</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "Communications"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>English</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "English"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>History</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "History"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>Kinesiology</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "Kinesiology"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>Liberal Studies</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "Liberal Studies"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>Math</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "Math"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>Music</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "Music"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>Political Studies</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department contains "Political Studies"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+
+  <h2>Sciences</h2>
+  <hr>
+  <div class="row">
+  {% for faculty in site.faculty %}
+   {% if faculty.department == "Sciences"%}
+   <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
+     <h4>{{ faculty.title }}</h4>
+     <p>{{ faculty.job-title }}</p>
+   </a>
+
+   </div>
+   {% endif %}
+  {% endfor %}
+</div>
+</div>
