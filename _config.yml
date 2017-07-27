@@ -5,6 +5,7 @@ collections:
   admissions:
     title: Admissions
     output: true
+    path: 'src'
   alumni:
     title: Alumni
     output: false
