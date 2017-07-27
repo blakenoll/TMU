@@ -5,11 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Events | The Master's University</title>
+  <title>The Master&#39;s University</title>
   <meta name="author" content="">
   <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
-  <meta property="og:title" content="Events | The Master's University">
-  <meta property="og:url" content="http://localhost:4000/news/events">
+  <meta property="og:title" content="The Master&#39;s University">
+  <meta property="og:url" content="http://localhost:4000/">
   <meta property="og:site_name" content="The Master's University">
   <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
   <meta property="og:image" content="">
@@ -17,8 +17,8 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.">
-  <meta name="twitter:title" content="Events | The Master's University">
-  <meta name="twitter:url" content="http://localhost:4000/news/events">
+  <meta name="twitter:title" content="The Master&#39;s University">
+  <meta name="twitter:url" content="http://localhost:4000/">
   <meta name="twitter:site" content="The Master's University">
   <meta name="twitter:creator" content="@jekyllrb">
   <meta name="twitter:domain" content="http://localhost:4000">
@@ -32,7 +32,7 @@
   <!-- main css -->
   <link rel="stylesheet" href="/css/main.css">
   <link rel="alternate" type="application/rss+xml" title="The Master's University" href="http://localhost:4000/feed.xml">
-  <link rel="canonical" href="http://localhost:4000/news/events">
+  <link rel="canonical" href="http://localhost:4000/">
   <link rel="shortcut icon" type="image/png" href="http://localhost:4000/favicon.png">
   <!-- moment.js -->
   <script src="http://localhost:4000/fullcalendar/lib/moment.min.js"></script>
@@ -210,29 +210,269 @@
 </header>
 
     <main>
-        <div class="container">
-  <br>
-  <div class="row">
-    <div class="col s12">
-      <nav>
-       <div class="nav-wrapper white">
-         <div class="col s12">
-           <a href="http://localhost:4000/news" class="breadcrumb">All News</a>
-           <a href="#!" class="breadcrumb">Events</a>
-         </div>
-       </div>
-     </nav>
+        <div class="navy-section" style="width: 100%">
+  <div class="slideshow-container">
+  
+  <div class="mySlides fade">
+    <img src="http://localhost:4000/images/BANNERImage6.jpg" alt="Welcome to The Master's University" style="width:100%">
+    <div class="text">
+      <div class="container">
+        <span class="left">Welcome to The Master's University</span>
+      <a class="waves-effect waves-light btn btn-white right">Welcome</a>
+      </div>
     </div>
   </div>
+  
+  <div class="mySlides fade">
+    <img src="http://localhost:4000/images/BANNERImage7.jpg" alt="Welcome to TMU" style="width:100%">
+    <div class="text">
+      <div class="container">
+        <span class="left">Welcome to TMU</span>
+      <a class="waves-effect waves-light btn btn-white right">More Info</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="mySlides fade">
+    <img src="http://localhost:4000/images/BANNERImage5.jpg" alt="Cha Cha" style="width:100%">
+    <div class="text">
+      <div class="container">
+        <span class="left">Cha Cha</span>
+      <a class="waves-effect waves-light btn btn-white right">click here</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="mySlides fade">
+    <img src="http://localhost:4000/images/BANNERImage3.jpg" alt="Welcome to TMU" style="width:100%">
+    <div class="text">
+      <div class="container">
+        <span class="left">Welcome to TMU</span>
+      <a class="waves-effect waves-light btn btn-white right">Register</a>
+      </div>
+    </div>
+  </div>
+  
+  </div>
+  <br>
+  <br>
+  <br>
+  <div style="text-align:center">
+    
+    <span class="dot" onclick="currentSlide(1)"></span>
+    
+    <span class="dot" onclick="currentSlide(2)"></span>
+    
+    <span class="dot" onclick="currentSlide(3)"></span>
+    
+    <span class="dot" onclick="currentSlide(4)"></span>
+    
+  </div>
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+
+
+
+}
+
+setInterval(function() {
+  plusSlides(1);
+}, 5000);
+</script>
+
+<div class="container">
   <div class="row">
-    <div class="col s12">
-      <h1>Events</h1>
-      <!-- for loop to cycle through posts with categories = to page.title -->
-      
-      <a class="btn btn-navy" href="http://localhost:4000/news">Back to Catergories</a>
+      <h1 class="center">Visit Masters</h1>
+    <div class="col s12 m4 center">
+      <a class="" href="http://localhost:4000/admissions/#visit"><img src="http://localhost:4000/images/ViewWeekend_960x540.jpg " alt="" width="100%"></a>
+    </div>
+    <div class="col s12 m4 center">
+      <a class="" href="#"><img src="http://localhost:4000/images/Mondays@Masters_960x540.jpg" alt="" width="100%"></a>
+    </div>
+    <div class="col s12 m4 center">
+      <a class="" href="http://localhost:4000/images/PersonalizedTour_960x540.jpg"><img src="http://localhost:4000/images/PersonalizedTour_960x540.jpg" alt="" width="100%"></a>
     </div>
   </div>
 </div>
+
+<div class="container news">
+  <h1 class="center">News</h1>
+  <div class="row">
+    <div class="col-container" style="display: table;">
+      <div class="col s12 m6" style="display: table-cell;">
+        
+          
+            <img src="http://www.masters.edu/media/869871/richardson.jpg" alt="Senior Memoir: Kailey Richardson image" width="100%">
+            <a class="secondary-content" href="#"><h4> Feb 15, 2017</h4></a>
+            <a href="http://localhost:4000/news/burrito"><h3>Senior Memoir: Kailey Richardson</h3></a>
+
+            Master’s was my last choice. Not only was it my last choice, but it was the only choice I tried to run away from. I have been around this school...
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </div>
+
+      <div class="col s12 m6" style="display: table-cell;">
+        <ul id="home-news" class="collection">
+          
+            
+          
+            
+              
+              <li id="home-news" class="collection-item">
+                <a class="secondary-content" href="http://localhost:4000/news/coffee"> Feb 13, 2017</a>
+                <a href="http://localhost:4000/news/coffee"><h3>TMU Students Present Research at Nationally Recognized Science Conference</h3></a>
+                <p>“Research is the undergirding of science… It is a publish or perish field,” said Dr....</p>
+              </li>
+              
+            
+          
+            
+              
+              <li id="home-news" class="collection-item">
+                <a class="secondary-content" href="http://localhost:4000/news/test"> Jan 31, 2017</a>
+                <a href="http://localhost:4000/news/test"><h3>Dr. John Stead Named TMU Provost</h3></a>
+                <p>The Master’s University is pleased to announce the appointment of Dr. John Stead to the...</p>
+              </li>
+              
+            
+          
+            
+              
+              <li id="home-news" class="collection-item">
+                <a class="secondary-content" href="http://localhost:4000/news/TMU"> Jan 31, 2017</a>
+                <a href="http://localhost:4000/news/TMU"><h3>Stumbling Across the Gospel in the Jungle</h3></a>
+                <p>A few weeks ago, Mark Finster, Mitch Clevidence and I boarded a plane at LAX...</p>
+              </li>
+              
+            
+          
+            
+              
+            
+          
+            
+              
+            
+          
+      </ul>
+      </div>
+    </div>
+  </div>
+  <div class="row center">
+    <a class="btn btn-navy center" href="news">All News</a>
+  </div>
+</div>
+
+<div class="parallax-container" style="height: auto">
+      <div class="parallax"><img src="http://localhost:4000/images/Parallax1.jpg"></div>
+      <div class="container">
+        <h1 class="center white-text">Upcoming Events</h1>
+          <div class="row">
+            <div class="event-container">
+              
+              <div class="table-cell">
+                <div class="col s12 m6" style="padding-bottom: 15px;">
+                  <div class="col s4">
+                    <img src="http://localhost:4000/uploads/MC_WOW_500x500.png" alt="" width="90%">
+                  </div>
+                  <div class="col s8">
+                   <h3 class="white-text">WOW 2017</h3>
+                   <p class="white-text">Mon, Aug 21, 2017</p>
+                   <a class="btn btn-white" href="/upcomingevents/half-marathon">More</a>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="table-cell">
+                <div class="col s12 m6" style="padding-bottom: 15px;">
+                  <div class="col s4">
+                    <img src="http://localhost:4000/uploads/MC_1stDayOfSchool_500x500.png" alt="" width="90%">
+                  </div>
+                  <div class="col s8">
+                   <h3 class="white-text">First Day of School</h3>
+                   <p class="white-text">Mon, Aug 28, 2017</p>
+                   <a class="btn btn-white" href="/upcomingevents/university-exchange-opening">More</a>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="table-cell">
+                <div class="col s12 m6" style="padding-bottom: 15px;">
+                  <div class="col s4">
+                    <img src="http://localhost:4000/uploads/MC_XCInvitational_500x500.png" alt="" width="90%">
+                  </div>
+                  <div class="col s8">
+                   <h3 class="white-text">XC Invitational</h3>
+                   <p class="white-text">Sat, Sep 30, 2017</p>
+                   <a class="btn btn-white" href="/upcomingevents/xc-invitational">More</a>
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <div class="row center">
+             <a class="btn btn-white" href="http://localhost:4000/calendar">Calendar</a>
+          </div>
+      </div>
+    </div>
+
+<div class="container">
+  <div id="john" class="row">
+    <div class="col s12 m3">
+      <img src="http://localhost:4000/images/john.png" alt="" width="100%">
+    </div>
+    <div class="col s12 m9">
+      <p class="uppercase"><b>Rooted in an unwavering devotion</b> to Jesus Christ and the inerrant word of god, our world-class faculty and dedicated administration prepare each student's heart and mind for a life of eternal influence.</p>
+      <img src="http://localhost:4000/images/JohnSignature.png" alt="" width="40%">
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('.parallax').parallax();
+});
+
+</script>
 
     </main>
 
