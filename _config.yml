@@ -35,7 +35,7 @@ collections:
   faculty:
     title: Faculty
     output: true
-  src-_financialaid:
+  financialaid:
     title: Financial Aid
     output: true
   give:
