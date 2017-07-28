@@ -18,6 +18,78 @@ about-body: |-
   ### Degree Requirements Summary
 
   [Click here](https://blakenoll.github.io/media/868240/ba-biblical-studies-olp-online-tmu.pdf "BA Biblical Studies - OLP Online-TMU.pdf") to print a summary of the degree requirements for BA in Biblical Studies.
+major-requirments-body: |-
+  ### Bible General
+
+  ---
+
+  * B310 Foundations of Biblical Study (3)
+
+  * B340 Biblical Interpretation (3)
+
+  * B300 The Land of the Bible (3)
+
+  * B364 History of Ancient Israel (3)
+
+  * BL305 Elementary Greek I (3)
+
+  * BL306 Elementary Greek II (3)
+
+  * BL307 Elementary Greek III (3)
+
+  * B306 Genesis (3)
+
+  * B346 Life of Christ (3)
+
+  * BC300 Introduction to Biblical Counseling (3)
+
+  * BTH377 Theology of God (3)
+
+  * B407 Isaiah (3)
+
+  * B342 Romans (3)
+
+  * B335 Revelation (3)
+
+  * BCW363 Apologetics (3)
+
+  * B400 (3) Senior Integration Seminar (3)
+
+  Total units required for core courses (48)
+
+  ### English Bible
+
+  ---
+
+  * B310 Foundations of Biblical Study (3)
+
+  * B340 Biblical Interpretation (3)
+
+  * B300 The Land of the Bible (3)
+
+  * B364 History of Ancient Israel (3)
+
+  * BL325 Intro to Biblical Langauges (3)
+
+  * B306 Genesis (3)
+
+  * B346 Life of Christ (3)
+
+  * BC300 Introduction to Biblical Counseling (3)
+
+  * BTH377 Theology of God (3)
+
+  * B407 Isaiah (3)
+
+  * B342 Romans (3)
+
+  * B335 Revelation (3)
+
+  * BCW363 Apologetics (3)
+
+  * B400 (3) Senior Integration Seminar (3)
+
+  Total units required for core courses (42)
 ---
 
 <h1>Biblical Studies</h1>
