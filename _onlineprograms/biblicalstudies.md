@@ -3,6 +3,10 @@ title: Biblical Studies
 sm-image: "/uploads/AcademicsOnline_BiblicalStudies.png"
 level: undergrad
 about-body: |-
+  The Master’s University is now offering a Bachelor of Arts in Biblical Studies with a choice of two possible emphases in an online format. The Biblical Studies: General emphasis includes nine semester units of Biblical Greek language study, while the Biblical Studies: English Bible emphasis includes a three semester unit introduction to biblical language.
+
+  Both emphases provide individuals with an in-depth study of the Old and New Testaments. The major coursework stresses the understanding, interpretation, and application of biblical literature. The biblical content is studied in light of its original historical context so that an authentically biblical understanding can be applied to the theological and cultural issues of the current day. The programs attempt to assist students in developing a biblical worldview in which the principles and norms derived from the Word of God are applied to the whole of life. Spiritual values are emphasized so that practical spiritual growth is experienced along with academic achievement.
+
   ### Scheduling
 
   Required major courses for the online Bible degree are taught in two 8-week blocks over three semesters each year. Students taking one course per block are able to complete the major coursework in 28 months. By taking more than one course per block, the program can be completed in as little as 14 months.
