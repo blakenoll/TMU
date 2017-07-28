@@ -94,6 +94,12 @@ major-requirments-body: |-
   * B400 (3) Senior Integration Seminar (3)
 
   Total units required for core courses (42)
+careers:
+- Pastor/ Associate Pastor
+- Para-church ministry positions
+- Christian education administration
+- Lay Leadership Ministry
+- Advanced degrees (M.Div, Th.M, etc.)
 ---
 
 <h1>Biblical Studies</h1>
