@@ -183,7 +183,7 @@ var tipuesearch = {"pages": [
   
   {
     "title": "Student Life",
-    "text": "STUDENT LIFE ASB Chapel Director Global Outreach Resident Life Student Advancement",
+    "text": "STUDENT LIFE ASB Campus Activities Chapel Global Outreach Resident Life Student Advancement",
     "tags": "",
     "url": "/studentlife/"
   },
@@ -452,10 +452,10 @@ var tipuesearch = {"pages": [
   
   
   {
-    "title": "Director",
+    "title": "Campus Activities",
     "text": "",
     "tags": "",
-    "url": "/studentlife/campusministries"
+    "url": "/studentlife/campusactivities"
   },
 
   
