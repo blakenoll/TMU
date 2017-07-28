@@ -2,8 +2,6 @@
 title: Christian Ministries
 sm-image: "/uploads/AcademicsOnline_ChristianMinistries.png"
 level: undergrad
-parallax-img: "/images/Parallax8.jpg"
-layout: undergradonline
 about-body: |-
   The online Christian Ministries degree is composed of 14 major courses totaling 42 semester units. Its primary purpose is to provide individuals with a comprehensive biblical philosophy of ministry through a systematic examination of key aspects of God’s program within a local church. The goal of the major is to provide graduates with a thorough understanding of what God is doing in the world through the church, and the role of each believer within that work.
 
@@ -29,33 +27,33 @@ about-body: |-
 major-requirments-body: |-
   ### Christian Ministries
 
-  BIB310 Foundations of Biblical Study (3)
+  * BIB310 Foundations of Biblical Study (3)
 
-  B340 Biblical Interpretation
+  * B340 Biblical Interpretation
 
-  BTH336 Theology of the Church (3)
+  * BTH336 Theology of the Church (3)
 
-  BIB349 Dynamics of Grace (3)
+  * BIB349 Dynamics of Grace (3)
 
-  BIB355 Worldview, Apologetics, Evangelism (3)
+  * BIB355 Worldview, Apologetics, Evangelism (3)
 
-  BIB375 Church History (3)
+  * BIB375 Church History (3)
 
-  BIB380 Christian Education (3)
+  * BIB380 Christian Education (3)
 
-  BIB390 Principles of Effective Teaching (3)
+  * BIB390 Principles of Effective Teaching (3)
 
-  BIB400 Church Administration (3)
+  * BIB400 Church Administration (3)
 
-  BIB410 Corporate Worship (3)
+  * BIB410 Corporate Worship (3)
 
-  BC300 Introduction to Biblical Counseling (3)
+  * BC300 Introduction to Biblical Counseling (3)
 
-  BIB430 Principles of Discipleship (3)
+  * BIB430 Principles of Discipleship (3)
 
-  BIB460 Missions (3)
+  * BIB460 Missions (3)
 
-  BIB470 Contemporary Issues in Church Ministry (3)
+  * BIB470 Contemporary Issues in Church Ministry (3)
 
   **\*\*Every third course, one unit of Distinctives of Biblical Living is required.**
 
