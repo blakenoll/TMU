@@ -2,6 +2,8 @@
 title: Biblical Studies
 sm-image: "/uploads/AcademicsOnline_BiblicalStudies.png"
 level: undergrad
+parallax-img: "/images/Parallax8.jpg"
+layout: undergradonline
 about-body: |-
   ### Scheduling
 
