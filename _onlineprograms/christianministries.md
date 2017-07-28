@@ -2,6 +2,8 @@
 title: Christian Ministries
 sm-image: "/uploads/AcademicsOnline_ChristianMinistries.png"
 level: undergrad
+parallax-img: "/images/Parallax8.jpg"
+layout: undergradonline
 about-body: |-
   The online Christian Ministries degree is composed of 14 major courses totaling 42 semester units. Its primary purpose is to provide individuals with a comprehensive biblical philosophy of ministry through a systematic examination of key aspects of God’s program within a local church. The goal of the major is to provide graduates with a thorough understanding of what God is doing in the world through the church, and the role of each believer within that work.
 
