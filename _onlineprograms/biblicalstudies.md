@@ -24,6 +24,8 @@ about-body: |-
   ### Degree Requirements Summary
 
   [Click here](https://blakenoll.github.io/media/868240/ba-biblical-studies-olp-online-tmu.pdf "BA Biblical Studies - OLP Online-TMU.pdf") to print a summary of the degree requirements for BA in Biblical Studies.
+
+  ### Textbooks
 major-requirments-body: |-
   ### Bible General
 
@@ -96,6 +98,12 @@ major-requirments-body: |-
   * B400 (3) Senior Integration Seminar (3)
 
   Total units required for core courses (42)
+careers:
+- Pastor/ Associate Pastor
+- Para-church ministry positions
+- Christian education administration
+- Lay Leadership Ministry
+- Advanced degrees (M.Div, Th.M, etc.)
 ---
 
 <h1>Biblical Studies</h1>
