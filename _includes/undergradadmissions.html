@@ -9,7 +9,12 @@
 </div>
 <div id="apply" class="col s12">
   <img src="{{ "/images/Application_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
-  <a class="btn btn-navy" href="https://apply.masters.edu">Apply</a>
+  <div class="row">
+  <div class="col s12 m4 l3 right admissions-btns">
+  <a href="http://bit.ly/TMUOLAPP" class="btn btn-navy">Apply Now</a><br>
+  <a href="http://bit.ly/TMUOLAPP" class="btn btn-navy">Request Info</a>
+  </div>
+  </div>
   {{ page.apply-body | markdownify }}
 
 </div>
@@ -31,6 +36,18 @@
 </div>
 <div id="intl" class="col s12">
   <img src="{{ "/images/IntlAdmissions.jpg" | prepend: site.url }}" alt="" width="100%">
+  <h3>International Admssions Counselor</h3>
+  <br>
+  <div class="row">
+    <div class="col s12 m3 center">
+      <img class="circle" src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="" width="100%">
+      <h3>{{ page.intl-counselor.name }}</h3>
+      <span>{{ page.intl-counselor.title }}</span>
+    </div>
+    <div class="col s12 m9">
+      {{ page.intl-counselor.bio-body }}
+    </div>
+  </div>
 
   <ul class="collapsible" data-collapsible="accordion">
     <li>

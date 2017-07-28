@@ -8,9 +8,8 @@ parallax-img: "/images/Parallax11.jpg"
 <div class="container">
   <br>
   <div class="row">
-    {% assign icons = site.studentlife %}
+    {% assign icons = site.studentlife | sort: 'title' %}
     {% for page in icons %}
-    {% if page.group == 'studentlife' %}
     <a href="{{ page.url | prepend: site.url }}">
       <div class="col s6 m4">
         <div class="vector-card">
@@ -19,22 +18,7 @@ parallax-img: "/images/Parallax11.jpg"
         </div>
       </div>
     </a>
-    {% endif %}
     {% endfor%}
   </div>
-    <div class="row">
-      <h1>Campus Ministries</h1>
-      {% for page in icons %}
-      {% unless page.group == 'studentlife' %}
-      <a href="{{ page.url | prepend: site.url }}">
-        <div class="col s6 m4">
-          <div class="vector-card">
-            <img src="{{ page.sm-image | prepend: site.url }}" alt="" width="100%">
-            <h3 class="center">{{ page.title }}</h3>
-          </div>
-        </div>
-      </a>
-      {% endunless %}
-      {% endfor%}
-    </div>
+
 </div>
