@@ -2,6 +2,22 @@
 title: Biblical Studies
 sm-image: "/uploads/AcademicsOnline_BiblicalStudies.png"
 level: undergrad
+about-body: |-
+  ### Scheduling
+
+  Required major courses for the online Bible degree are taught in two 8-week blocks over three semesters each year. Students taking one course per block are able to complete the major coursework in 28 months. By taking more than one course per block, the program can be completed in as little as 14 months.
+
+  ### General Education and Electives
+
+  * All TMU BA degrees require students to complete 122 semester units which includes major coursework (42 units), General Education (GE) requirements (65 units), and unrestricted electives (15 units).
+
+  * GE and elective courses can be taken through TMU Online, transferred in from another accredited college or university, and/or via Advanced Placement or CLEP (subject to TMU transfer credit policies).
+
+  * GE and elective courses can be taken prior to, concurrent with, or subsequent to completion of the major coursework.
+
+  ### Degree Requirements Summary
+
+  [Click here](https://blakenoll.github.io/media/868240/ba-biblical-studies-olp-online-tmu.pdf "BA Biblical Studies - OLP Online-TMU.pdf") to print a summary of the degree requirements for BA in Biblical Studies.
 ---
 
 <h1>Biblical Studies</h1>
