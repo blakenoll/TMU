@@ -1,5 +1,5 @@
 ---
-title: Director
+title: Campus Activities
 sm-image: "/uploads/StudentLife_Director.png"
 description: 
 director-body: "### Adam Ashoff"
