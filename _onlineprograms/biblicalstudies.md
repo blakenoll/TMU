@@ -22,6 +22,8 @@ about-body: |-
   ### Degree Requirements Summary
 
   [Click here](https://blakenoll.github.io/media/868240/ba-biblical-studies-olp-online-tmu.pdf "BA Biblical Studies - OLP Online-TMU.pdf") to print a summary of the degree requirements for BA in Biblical Studies.
+
+  ### Textbooks
 major-requirments-body: |-
   ### Bible General
 
