@@ -175,12 +175,6 @@ level: undergrad
 <li>Demonstrate, in a business management context, the application of analytical and critical thinking.</li>
 <li>Demonstrate an overall ability to use in an integrated manner all aspects of organizational management practices (including: business communication, management, finance, marketing, and human resources).</li>
 </ol>
-<h2>Textbooks</h2>
-<p><span style="color: #616161; font-family: Raleway, sans-serif; font-size: 22px; font-weight: 800; line-height: 28px;"><!--EndFragment--> </span></p>
-<div><hr /></div>
-<p><strong>Click <a href="/media/869526/ba-om-booklist-new.pdf" title="BA-OM Booklist NEW.pdf">here</a> to view the Textbooks for all Online Organizational Management courses.</strong></p>
-<p>To Order Textbooks: The following link will connect you to the <span style="background-color: #ffffff;">Master's University Bookstore</span><a style="background-color: #ffffff;" href="http://www.cbamatthews.com/masterscoll/buy_main.asp"> </a>where you can check out pricing to buy, rent, and order your texts from the convenience of your home.</p>
-<p> </p>
 <h2>Scheduling</h2>
 <hr />
 <p>Required major courses for the degree in Organizational Management online are taught in two 8-week blocks over three semesters each year.  Students taking one course per block are able to complete the major coursework in 28 months.  By taking more than one course per block, the program can be completed in as little as 14 months.</p>
@@ -207,3 +201,9 @@ level: undergrad
 <li>Entrepreneurship</li>
 <li>Administrators</li>
 </ul>
+<h2>Textbooks</h2>
+<p><span style="color: #616161; font-family: Raleway, sans-serif; font-size: 22px; font-weight: 800; line-height: 28px;"><!--EndFragment--> </span></p>
+<div><hr /></div>
+<p><strong>Click <a href="/media/869526/ba-om-booklist-new.pdf" title="BA-OM Booklist NEW.pdf">here</a> to view the Textbooks for all Online Organizational Management courses.</strong></p>
+<p>To Order Textbooks: The following link will connect you to the <span style="background-color: #ffffff;">Master's University Bookstore</span><a style="background-color: #ffffff;" href="http://www.cbamatthews.com/masterscoll/buy_main.asp"> </a>where you can check out pricing to buy, rent, and order your texts from the convenience of your home.</p>
+<p> </p>
