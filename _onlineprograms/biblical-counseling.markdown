@@ -45,7 +45,7 @@ about-body: |-
   5. High School and or College transcripts
 
   6. Application Fee: $35
-major-requirements-body: |-
+major-requirments-body: |-
   ### Biblical Counseling
 
   ---
