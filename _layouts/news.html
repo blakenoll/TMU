@@ -9,7 +9,7 @@ layout: default
   </div>
 </div>
 <div class="section white">
-  <div class="row container">
+  <div class="row container article-text">
     <h2><small>sub heading text...</small></h2>
     <time id="news-date">{{ page.date | date: "%b %-d, %Y" }}</time>
     {% for author in site.authors %}
@@ -17,7 +17,7 @@ layout: default
     <p>By: {{ author.title }}</p>
     {% endif %}
     {% endfor %}
-    <hr>
+    <hr class="article-hr">
     <p class="flow-text">{{ content | markdownify }}</p>
   </div>
 </div>
