@@ -81,6 +81,8 @@ major-requirments-body: |-
   * BC422 Problems & Procedures II \*\*
 
   * B400 Senior Integration Seminar \*\*
+
+  **Every third course, one unit of Distinctives of Biblical Living is required.**
 Field name: 
 ---
 
