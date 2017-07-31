@@ -1,5 +1,7 @@
 ---
 title: Christian Ministries
+layout: undergradonline
+parallax-img: "/images/Parallax6.jpg"
 sm-image: "/uploads/AcademicsOnline_ChristianMinistries.png"
 level: undergrad
 about-body: |-

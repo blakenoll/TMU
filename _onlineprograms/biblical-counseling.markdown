@@ -1,5 +1,7 @@
 ---
 title: Biblical Counseling
+layout: undergradonline
+parallax-img: "/images/Parallax6.jpg"
 date: 2017-04-26 19:19:00 Z
 sm-image: "/uploads/AcademicsGraduate_MABC.png"
 level: undergrad
@@ -81,7 +83,7 @@ major-requirements-body: |-
   * BC422 Problems & Procedures II \*\*
 
   * B400 Senior Integration Seminar \*\*
-Field name: 
+Field name:
 ---
 
 <h2>Biblical Counseling</h2>
