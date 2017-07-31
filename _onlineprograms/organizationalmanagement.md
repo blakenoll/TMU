@@ -32,6 +32,35 @@ about-body: |-
   ---
 
   Click [here](https://blakenoll.github.io/media/869526/ba-om-booklist-new.pdf "BA-OM Booklist NEW.pdf") to view the Textbooks for all Online Organizational Management courses.
+major-requirements-body: |-
+  ## Organizational Management
+  ---
+
+  * BIB306 Christian Worldview / Ethics
+
+  * MGT335 Organizational Communications - Fundamentals
+
+  * MGT336 Organizational Communications - Advanced
+
+  * MGT411 Organizational Management
+
+  * MGT409 Leadership Principles & Strategic Management
+
+  * ECN210 Microeconomics
+
+  * MGT413 Human Resource Management
+
+  * MGT430 Technology & Organizational Decision Making
+
+  * MGT345 Business Law
+
+  * BIB453 Biblical Ethics in a World of Business
+
+  * MGT425 Strategic Marketing
+
+  * MGT435 Financial & Managerial Accounting
+
+  * MGT461 Capstone- Management Project
 ---
 
 <h2>Organizational Management</h2>
