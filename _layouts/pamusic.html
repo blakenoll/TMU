@@ -30,7 +30,12 @@ layout: default
       <div class="container">
          <div class="row">
             <div class="col s12 l8">
-               <p>{{ page.concerts-events-body }}</p>
+              <h2>Upcoming Events</h2>
+              <ul>
+                 {% for event in page.upcoming-events %}
+                 <li>{{ event.title}}<br>{{ event.date }}</li>
+                 {% endfor %}
+              </ul>
             </div>
             <div id="music-btns" class="col s12 l4">
                <!-- Modal Trigger -->
@@ -41,7 +46,7 @@ layout: default
                {% for program in page.youth-programs %}
                <!-- Modal Trigger -->
                <p>
-                  <a href="#{{ program.name }}">{{ program.name }}</a>
+                  <a href="#{{ program.name }}" class="waves-effect waves-light btn btn-navy music-btn">{{ program.name }}</a>
                </p>
 
                <!-- Modal Structure -->
@@ -57,6 +62,7 @@ layout: default
                </div>
                {% endfor %}
                <!-- Modal Trigger -->
+               <h2>Album Orders</h2>
                <a class="waves-effect waves-light btn btn-navy music-btn" href="#modal3">Album Orders</a>
 
                <!-- Modal Structure -->
@@ -95,12 +101,7 @@ layout: default
                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
                   </div>
                </div>
-               <h2>Upcoming Events</h2>
-               <ul>
-                  {% for event in page.upcoming-events %}
-                  <li>{{ event.title}}<br>{{ event.date }}</li>
-                  {% endfor %}
-               </ul>
+
 
 
                <!-- Modal Structure -->
