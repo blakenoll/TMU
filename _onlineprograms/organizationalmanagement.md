@@ -34,6 +34,7 @@ about-body: |-
   Click [here](https://blakenoll.github.io/media/869526/ba-om-booklist-new.pdf "BA-OM Booklist NEW.pdf") to view the Textbooks for all Online Organizational Management courses.
 major-requirements-body: |-
   ## Organizational Management
+
   ---
 
   * BIB306 Christian Worldview / Ethics
@@ -61,6 +62,9 @@ major-requirements-body: |-
   * MGT435 Financial & Managerial Accounting
 
   * MGT461 Capstone- Management Project
+
+  **\*\*Every third course, one unit of Distinctives of Biblical Living is required.**
+layout: undergradonline
 ---
 
 <h2>Organizational Management</h2>
