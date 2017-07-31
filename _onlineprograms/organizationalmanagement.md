@@ -32,7 +32,7 @@ about-body: |-
   ---
 
   Click [here](https://blakenoll.github.io/media/869526/ba-om-booklist-new.pdf "BA-OM Booklist NEW.pdf") to view the Textbooks for all Online Organizational Management courses.
-major-requirements-body: |-
+major-requirments-body: |-
   ## Organizational Management
 
   ---
