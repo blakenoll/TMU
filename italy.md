@@ -36,5 +36,11 @@ offerings-text: 'We will offer a series of General Education required courses fo
   will have 2-5 students in socratic discussion—and in both the courses and the tutorials
   the major focus will be an exploratory discussion of Man: his origin, creative nature,
   purpose and end.'
+cost-text: Approximate cost of the program is 10K for airfare, room and board, side
+  trips to Italian cities, and tuition for 12 units.
+app-process-text: |-
+  For each student interested in The Master’s University in Italy Program, we will require a completed application and letters of recommendation, as listed on the application. We will begin collecting applications in late October to the beginning of November and will then contact students individually for individual and group interviews. Once selected, students are asked to give a refundable deposit and to enroll in our mandatory 1 unit Introduction to Italian Culture course in the spring semester.
+
+  **Turn in your application by December 9th to Professor Esther Chua either by delivering it to her office, sending it in the mail (TMU Box #15), or emailing it to italy@masters.edu. For further questions please email italy@masters.edu**
 layout: italy
 ---

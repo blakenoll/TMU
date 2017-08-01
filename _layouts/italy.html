@@ -30,18 +30,29 @@ layout: default
           {% endfor %}
       </ul>
       <h3>Cost</h3>
+      {{ page.cost-text }}
     </div>
   </div>
 
 </div>
-<div class="parallax-container" style="height: 200px">
-<div class="parallax"><img src="https://source.unsplash.com/mx_cm1GiiU8/1500x1000"></div>
+<div class="parallax-container news-parallax">
+  <div class="parallax"><img src="{{ page.parallax-img | prepend: site.url }}" alt="{{ page.title }} header-img"></div>
+  <div class="container valign-wrapper" style="height: 100%">
+    <h1 class="program-title white-text">Class Offerings</h1>
+  </div>
 </div>
 <div class="container">
   <div class="row">
     <div class="col s12">
-      <h3>Class Offerings</h3>
-      <span>{{ page.offerings-text}}</span>
+      <p>{{ page.offerings-text}}</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s12 m6">
+      <h3>Lower Division Gen-Ed courses</h3>
+    </div>
+    <div class="col s12 m6">
+      <h3>Upper Division Tutorials</h3>
     </div>
   </div>
 </div>
