@@ -1,8 +1,40 @@
 ---
+title: italy
+program-description-body: The Master’s University in Italy is a new study abroad program,
+  based in incomparably beautiful Italy! Our focus is to provide a unique, deeply
+  biblical approach to intellectual history, grounded in the study of the European
+  Renaissance and Reformation. Students will live in Florence for six weeks in the
+  summer and earn twelve (12) undergraduate credits in a variety of General Education
+  courses while deeply immersed in Italian culture and Renaissance history.The Master’s
+  University in Italy is a new study abroad program, based in incomparably beautiful
+  Italy! Our focus is to provide a unique, deeply biblical approach to intellectual
+  history, grounded in the study of the European Renaissance and Reformation. Students
+  will live in Florence for six weeks in the summer and earn twelve (12) undergraduate
+  credits in a variety of General Education courses while deeply immersed in Italian
+  culture and Renaissance history.
+importance-body: The modern world is the child of the Italian Renaissance. All modernist
+  worldview issues were first fully formulated in the Renaissance, in both the sciences
+  and the humanities. Florence, the city in which TMU in Italy will be based, is the
+  cradle of the Renaissance and the birthplace of the modern world. It is the city
+  of Dante, Petrarch, Giotto, Michelangelo, Da Vinci, Galileo, Boccaccio, Cimabue,
+  Brunelleschi and Donatello, the Medici banking family, Botticelli, Savonarola, Machiavelli,
+  Rossini. And, of course, Amerigo Vespucci—for whom America was named. With all this
+  in mind, we have created a program grounded in the exploration of the dual questions
+  “quid est homo?” (“what is Man?”) asked by the Italian Renaissance Christian Humanist
+  scholars , and the related biblical question “what is man that Thou art mindful
+  of him?” (Psalm 8). .
+locations-body: We will be living in a lovely Medieval/Renaissance period villa in
+  Florence with trips to Rome, Venice, and Pisa, as well as extensive time spent in
+  museums, palaces, classical-era ruins, Renaissance gardens, the Vatican museum and
+  libraries, and the famous Mediterranean Coast.
+offerings-text: 'We will offer a series of General Education required courses for
+  students to choose from. Our summer semesters are designed to help students graduate
+  on-time, or even early. Students can even go directly to IBEX after Italy, and save
+  the cost of airfare. The typical student will take two survey-level courses and
+  two upper division Oxford-style tutorials. The academically intensive tutorials
+  will have 2-5 students in socratic discussion—and in both the courses and the tutorials
+  the major focus will be an exploratory discussion of Man: his origin, creative nature,
+  purpose and end.'
 layout: default
-program-description-body: 
-importance-body: 
-locations-body: 
-offerings-text: 
 ---
 
