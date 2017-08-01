@@ -1,5 +1,6 @@
 ---
 title: italy
+parallax-img: /images/italy.jpg
 program-description-body: The Master’s University in Italy is a new study abroad program,
   based in incomparably beautiful Italy! Our focus is to provide a unique, deeply
   biblical approach to intellectual history, grounded in the study of the European
@@ -35,6 +36,5 @@ offerings-text: 'We will offer a series of General Education required courses fo
   will have 2-5 students in socratic discussion—and in both the courses and the tutorials
   the major focus will be an exploratory discussion of Man: his origin, creative nature,
   purpose and end.'
-layout: default
+layout: italy
 ---
-
