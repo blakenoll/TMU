@@ -1,6 +1,5 @@
 ---
 title: italy
-parallax-img: "/images/italy.jpg"
 program-description-body: The Master’s University in Italy is a new study abroad program,
   based in incomparably beautiful Italy! Our focus is to provide a unique, deeply
   biblical approach to intellectual history, grounded in the study of the European
@@ -42,6 +41,22 @@ app-process-text: |-
   For each student interested in The Master’s University in Italy Program, we will require a completed application and letters of recommendation, as listed on the application. We will begin collecting applications in late October to the beginning of November and will then contact students individually for individual and group interviews. Once selected, students are asked to give a refundable deposit and to enroll in our mandatory 1 unit Introduction to Italian Culture course in the spring semester.
 
   **Turn in your application by December 9th to Professor Esther Chua either by delivering it to her office, sending it in the mail (TMU Box #15), or emailing it to italy@masters.edu. For further questions please email italy@masters.edu**
-layout: italy
+lower-div-text: |-
+  * English Literature I or II; World Literature I or II; Italy in Literature (any for literature elective credit)
+
+  * World History I or II (either for history credit)
+
+  * Art History of the Western World (for Introduction to Music and Art credit)
+upper-div-text: |-
+  * Literature courses: Virgil (Aeneid); Homer (Iliad and/or Odyssey); Shakespeare; Milton; Dante; Romanticism; Ovid and Classical Mythology; The Life, Influences and Writings of Robert and Elizabeth Browning
+
+  * History credit: Renaissance Cultural History; European Intellectual History; History of Ancient Rome
+
+  * Theology: Reformation Historical Theology; Christian Worldview
+
+  * Language: Introductory Latin; Introductory Italian
+
+  * Communications/Writing: Travel Writing
+layout: default
 ---
 
