@@ -1,6 +1,6 @@
 ---
 title: italy
-parallax-img: /images/italy.jpg
+parallax-img: "/images/italy.jpg"
 program-description-body: The Master’s University in Italy is a new study abroad program,
   based in incomparably beautiful Italy! Our focus is to provide a unique, deeply
   biblical approach to intellectual history, grounded in the study of the European
@@ -44,3 +44,4 @@ app-process-text: |-
   **Turn in your application by December 9th to Professor Esther Chua either by delivering it to her office, sending it in the mail (TMU Box #15), or emailing it to italy@masters.edu. For further questions please email italy@masters.edu**
 layout: italy
 ---
+
