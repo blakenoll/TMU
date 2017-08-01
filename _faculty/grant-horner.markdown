@@ -12,6 +12,7 @@ degrees:
   Hill
 - Founder of The Master's University in Italy
 email: ghorner@masters.edu
+italy: true
 ---
 
 Professor Grant Horner’s academic specialty is the literature, theology and philosophy of the Renaissance and Reformation, with primary concentration in Milton, Shakespeare, Erasmus, Luther, Calvin and late sixteenth and seventeenth century intellectual and cultural history. His research and writing has focused on Christian Humanism in the Reformation, particularly the complex relationship between developing Reformed thought and Classical Graeco-Roman pagan mythology and philosophy. At Duke University he was taught and mentored by Stanley Fish, America’s leading literary theorist. He has worked on the citation of classical Greek and Latin authorities by Renaissance writers, published on theology and the arts, and recently completed a full-length work on John Milton and John Calvin. His first book, “Meaning at the Movies” on film and theology (Crossway, 2010) was an Amazon bestseller and nominated for Book of the Year in Christianity and Culture by the Book Retailers Association. His second book, “John Milton, Classical Learning, and the Progress of Virtue” was published by Classical Academic Press in 2015. Two shorter books are under contract and forthcoming in summer 2017: one on *Dracula*, and another on *Paradise Lost.*
