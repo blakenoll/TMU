@@ -1,6 +1,6 @@
 ---
 title: italy
-parallax-img: /images/italy.jpg
+parallax-img: "/images/italy.jpg"
 program-description-body: The Master’s University in Italy is a new study abroad program,
   based in incomparably beautiful Italy! Our focus is to provide a unique, deeply
   biblical approach to intellectual history, grounded in the study of the European
@@ -60,3 +60,4 @@ upper-div-text: |-
   * Communications/Writing: Travel Writing
 layout: italy
 ---
+
