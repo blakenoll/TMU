@@ -23,6 +23,25 @@ a {
   color: $gold;
 }
 
+#header {
+
+  a {
+    font-size: 16px;
+  }
+  .btn-request {
+    font-size: 13px;
+    padding: 0 1rem;
+    margin-right: 0;
+  }
+}
+
+#greybar {
+  a {
+    font-size: 14px;
+    padding: 0 5px 0 5px;
+  }
+}
+
 .admissions-a:before {
   display: block;
   content: " ";
@@ -78,10 +97,7 @@ a {
   background-color: $white;
 }
 
-.btn-request {
-  font-size: 13px;
-  padding: 0 1rem;
-}
+
 
 .btn-navy:hover {
   background-color: lighten($navy, 5%)
@@ -277,7 +293,7 @@ a {
 }
 
 #home-logo {
-  width: 240px;
+  width: 290px;
 }
 
 #search {
@@ -312,6 +328,7 @@ footer {
     padding-right: 5px;
     padding-bottom: 18px;
     color: #0c2340;
+    font-size: 14px;
   }
 }
 
@@ -384,12 +401,7 @@ footer {
 .uppercase {
   text-transform: uppercase;
 }
-#header {
 
-  a {
-    font-size: 20px;
-  }
-}
 
 .wht-a {
   color: $white;
@@ -494,15 +506,14 @@ footer {
 }
 
 @media only screen and (min-width: 993px) {
-  nav.nav-extended {
-    height: 100px;
-  }
-  nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-    height: 70px;
-    line-height: 70px;
-  }
-  .navbar-fixed {
-    height: 70px;
+  .top-nav {
+    nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+      height: 120px;
+      line-height: 90px;
+    }
+    .navbar-fixed {
+      height: 120px;
+    }
   }
 }
 
@@ -524,7 +535,6 @@ footer {
     padding-top: 12%;
   }
 }
-
 
 
 @media only screen and (max-width: 993px) {
