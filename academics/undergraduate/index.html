@@ -9,15 +9,16 @@ parallax-img: "/images/Parallax2.jpg"
   <h2>Majors:</h2>
   <div class="row">
     {% for major in site.departments %}
-    <a href="{{ major.url | prepend: site.url }}">
+
       <div class="col s6 m3 l2">
         <div class="vector-card">
-
-          <img src="{{ major.sm-image | prepend: site.url }}" alt="" width="100%">
+          <a href="{{ major.url | prepend: site.url }}">
+          <img class="card" src="{{ major.sm-image | prepend: site.url }}" alt="" width="100%">
           <h3 class="center">{{ major.title }}</h3>
+          </a>
         </div>
       </div>
-    </a>
+
     {% endfor %}
   </div>
 </div>

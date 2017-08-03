@@ -36,10 +36,15 @@ a {
 }
 
 #greybar {
+
+  height: 30px;
+  line-height: 30px;
+  background-color: #0C2340;
+
   a {
     font-size: 14px;
     padding: 0 5px 0 5px;
-    color: #000;
+    color: #fff;
   }
 }
 
@@ -136,7 +141,6 @@ a {
 
     }
   }
-
 }
 
 .dropdown-menu {
