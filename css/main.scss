@@ -127,6 +127,18 @@ a {
 .centerimg {
   margin-left: 25%;
 }
+
+.collapsible-body {
+  ul {
+    padding-left: 20px;
+    li {
+      list-style-type: disc;
+
+    }
+  }
+
+}
+
 .dropdown-menu {
   background-color: $navy;
 }

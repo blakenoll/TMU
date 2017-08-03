@@ -86,7 +86,7 @@ insurance-body: |-
 
   ### TMU Student Health Insurance Plan
 
-  * All students must create an account @ [www.jcbins.com ](http://www.jcbins.com/) and  [www.studentinsurance.com  ](https://https://studentinsurance.com/schools/?id=1021)to retrieve your online ID card
+  * All students must create an account @ [www.jcbins.com ](http://www.jcbins.com/) and  [www.studentinsurance.com  ](https://www.studentinsurance.com/schools/?id=1021)to retrieve your online ID card
 
 
   * The cost of health insurance coverage purchased through TMU will automatically appear on your tuition statement.
