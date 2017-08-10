@@ -1,6 +1,25 @@
 <div class="container news">
   <h1 class="center">News</h1>
+
   <div class="row">
+    {% for post in site.posts  limit:3 %}
+      <div class="col s12 m4 image">
+        <a href="{{ post.url | prepend: site.url }}">
+          <div class="card">
+              <div class="card-image">
+                <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
+                <span class="card-title">{{ post.title}}</span>
+              </div>
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+
+
+
+
+  <!-- <div class="row">
     <div class="col-container" style="display: table;">
       <div class="col s12 m6" style="display: table-cell;">
         {% for post in site.posts %}
@@ -9,7 +28,7 @@
             <a class="secondary-content" href="#"><h4>{{ post.date | date: " %b %d, %Y"}}</h4></a>
             <a href="{{ post.url | prepend: site.url }}"><h3>{{ post.title }}</h3></a>
 
-            {{ post.preview-text | truncatewords: 30 }}
+             {{ post.preview-text | truncatewords: 30 }}
           {% endif %}
         {% endfor %}
       </div>
@@ -22,7 +41,7 @@
               <li id="home-news" class="collection-item">
                 <a class="secondary-content" href="{{ post.url | prepend: site.url }}">{{ post.date | date: " %b %d, %Y"}}</a>
                 <a href="{{ post.url | prepend: site.url }}"><h3>{{ post.title }}</h3></a>
-                <p>{{ post.preview-text | truncatewords: 15 }}</p>
+                 <p>{{ post.preview-text | truncatewords: 15 }}</p>
               </li>
               {% endif %}
             {% endif %}
@@ -30,7 +49,7 @@
       </ul>
       </div>
     </div>
-  </div>
+  </div> -->
   <div class="row center">
     <a class="btn btn-navy center" href="news">All News</a>
   </div>

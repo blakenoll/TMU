@@ -46,6 +46,10 @@ a {
     padding: 0 5px 0 5px;
     color: #fff;
   }
+
+  .dropdown-content a {
+    color: #0C2340;
+  }
 }
 
 .admissions-a:before {
@@ -532,6 +536,15 @@ footer {
       height: 120px;
     }
   }
+
+  .article-text {
+    width: 50%;
+  }
+
+  .article-body {
+    font-size: 18px;
+    line-height: 30px;
+  }
 }
 
 
@@ -563,5 +576,9 @@ footer {
   }
   .program-title {
     font-size: 28pt;
+  }
+  .article-body {
+    font-size: 16px;
+    line-height: 30px;
   }
 }

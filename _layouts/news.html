@@ -18,7 +18,7 @@ layout: default
     {% endif %}
     {% endfor %}
     <hr class="article-hr">
-    <p class="flow-text">{{ content | markdownify }}</p>
+    <div class="article-body">{{ content | markdownify }}</div>
   </div>
 </div>
 
@@ -36,5 +36,6 @@ layout: default
 <script type="text/javascript">
 $(document).ready(function(){
 $('.parallax').parallax();
+$()
 });
 </script>

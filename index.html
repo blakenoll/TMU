@@ -4,8 +4,14 @@ exclude_from_search: true
 ---
 
 {% include slides.html %}
-{% include visit.html %}
 {% include news.html %}
+<div class="parallax-container news-parallax center">
+  <div class="parallax"><img src="https://source.unsplash.com/8_Rr7Opvc8Q/1500x1000" alt="{{ page.title }} header-img"></div>
+  <div class="container valign-wrapper" style="height: 100%">
+    <h1 class="program-title white-text">Something about LA location</h1>
+  </div>
+</div>
+{% include visit.html %}
 {% include upcomingevents.html %}
 {% include president.html %}
 
