@@ -2,7 +2,6 @@
 title: Mail Center
 date: 2017-04-11 23:22:00 Z
 parallax-img: "/images/Parallax7.jpg"
-layout: mailcenter
 new-students-parents-body: |-
   Student Addresses
 
@@ -31,7 +30,7 @@ new-students-parents-body: |-
 
   * Packages should be firmly packed and sealed with packing tape. Do not use rope, twine, masking tape or duct tape.
 
-  * The Master's College cannot assume responsibility for items stolen or damaged during shipment. Therefore, make sure all of your packages are insured.
+  * The Master's University cannot assume responsibility for items stolen or damaged during shipment. Therefore, make sure all of your packages are insured.
 
   * Refer to the UPS website for more packaging guidelines.
 
@@ -100,6 +99,129 @@ policies-body: |-
   ### a. Enforcement
 
   Each dean, director, or department head is responsible for determining if materials to be distributed by the Campus Mail Center relate to official business of the College. When questions occur concerning such determination, the matter must be referred to the next level of college administration (dean, director, vice president, etc.). Material found within the Campus Mail Center to be in violation of this policy will be removed immediately and the appropriate administrator will be contacted.
+urgent-body: |-
+  Priority Mail
+
+  * Priority Mail is available for any item.
+
+  * Anything over 13 ounces is automatically sent as Priority Mail.
+
+  * Anything under 13 ounces may be sent Priority Mail for a minimum charge.
+
+  * Flat rate envelopes are available. Postage rates for all flat rate packages are posted outside the Customer Service Window.
+
+  * Free tracking included on all Priority Mail packages.
+
+  * This service is not guaranteed, but the U.S. Postal Service claims it is faster than First Class Mail.
+
+  Advantages
+
+  * It's relatively inexpensive.
+
+  * It comes with First Class Mail privileges (forwarding, return service, etc.).
+
+  * Delivered to any address in the U.S.
+
+  * Packages can be tracked online.
+
+  * Flat rate Priority Mail packaging is provided free of charge.
+
+  Disadvantages
+
+  * It's not guaranteed.
+
+  ## UPS overnight
+
+  * This service is very reliable for guaranteed overnight, two-day or three-day delivery.
+
+  * Check with the Campus Mail Center for current rates that are based on weight and zone.
+
+  * Use the envelopes, packages, and boxes available specifically for UPS purposes. The packaging is free of charge.
+
+  * Packages or letters to be sent by UPS must be delivered to the Campus Mail Center by 3:00 p.m.
+
+  Advantages
+
+  * It's very reliable.
+
+  * Tracking is available.
+
+  * Insurance is provided.
+
+  Disadvantages
+
+  * Extra charge for Saturday delivery.
+
+  * Extra charge if the address is not exactly correct.
+
+  * It cannot be delivered to a P.O. Box.
+
+  ## U.S. Postal Service Priority Mail Express (PME)
+
+  * This service is available for guaranteed overnight or second-day delivery.
+
+  * Check with the Campus Mail Center for current rates.
+
+  * Use the Priority Mail Express envelopes and packages available free of charge.
+
+  * Items to be sent out PME must be delivered to the Campus Mail Center by 3:00 p.m.
+
+  Advantages
+
+  * It's slightly less expensive than other overnight services.
+
+  * No extra charge for Saturday delivery or address corrections.
+
+  * Delivery to P.O. boxes or any other address is available.
+
+  Disadvantages
+
+  * Not all locations guarantee overnight delivery.
+
+  * Not as reliable as other carriers.
+services-body: |-
+  First Class/Priority Mail
+
+  This is a class of mail we use daily. Personal letters, bills, postcards and similar items must be sent first class. Current rates are available in the Campus Mail Center.
+
+  Delivery Time: Average delivery time for First Class or Priority Mail is 1-4 days. Priority Mail packaging is available outside the Mail Center customer service window inside the Bookstore.
+
+  ## Media Mail
+
+  The Media Mail rate is for books, films and other educational or cultural materials. Media Mail must not contain any personal correspondence, and it can be opened and inspected by any postal employee, unlike all other classes of mail, which are sealed against inspection.
+
+  Delivery Time: Average delivery time is 1-10 days.
+
+  ## Certified Mail
+
+  Certified Mail is used when the sender would like confirmation that the recipient received the letter. A signed card can be returned to the sender, showing the recipient's signature and date received. Certified Mail may take a little longer for the addressee to receive than regular First Class Mail. Delays may occur if the recipient is not available to sign for the letter. The certified letter is held for pickup at the post office for a period of 15 days. If it is not picked up by the recipient within that period of time, it is returned to the sender. The Certified Mail will not be left at a residence. The mail carrier will leave a note for the recipient.
+
+  ## Registered Mail
+
+  Registered Mail is a service provided by the USPS for maximum security when sending valuables through the mail. We do not provide this service at the Campus Mail Center.
+
+  ## Insured Mail
+
+  The USPS provides insurance on parcels for a small fee. Insured values may be anything from $100 to $500. Any item insured for more than $500 must be taken to the Post Office--the Campus Mail Center will not handle those items. Keep in mind that Registered Mail and Insured Mail, like Certified Mail, may take a little longer because of special handling.
+
+  ## International Air Mail
+
+  International Air Mail is available to most countries. The country must be written in English on the last line of the address in all capital letters. A custom form must be included for packages weighing 16 ounces or more and for flat rate envelopes.
+
+  ## Postage Purchases
+
+  Available for purchase in the Campus Mail Center are:
+
+  * Stamps
+
+  * Postage for letters, packages and other courier services
+
+  Other packaging material and envelopes are available for purchase in the Bookstore. Stamps may be purchased using cash, personal check or a Faculty/Staff department account. We do not accept credit cards at this time.
+
+  ## Other Departmental Charges
+
+  Departments are charged not only for stamps but also for business reply mail, bulk mail, postage due letters and metered mail. Charges are calculated monthly and a monthly report is sent to the business office. If you have any questions about your charges, please contact the Campus Mail Center Supervisor at ext. 2348.
+layout: mailcenter
 ---
 
-Mail Center personnel are eager to serve the faculty, staff and students of The Master's College. While the Mail Center is not a branch of the U.S. Government, the Campus Mail Center is governed by U.S. Postal Service regulations; therefore, we must observe federal requirements in handling and processing the mail. We have also instituted other policies in order to maximize efficiency and provide a high level of service.
+Mail Center personnel are eager to serve the faculty, staff and students of The Master's University. While the Mail Center is not a branch of the U.S. Government, the Campus Mail Center is governed by U.S. Postal Service regulations; therefore, we must observe federal requirements in handling and processing the mail. We have also instituted other policies in order to maximize efficiency and provide a high level of service.
