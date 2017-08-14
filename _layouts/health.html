@@ -37,17 +37,20 @@ layout: default
     <div class="col s12 m9 pull-m3">
 
       <h2>Welcome to {{ page.title }}</h2>
-      <div class="row">
-        <div class="col s12">
+      <div class="card">
+        <div class="card-tabs">
           <ul class="tabs">
             <li class="tab"><a class="active" href="#test1">About</a></li>
             <li class="tab"><a href="#test2">Forms</a></li>
             <li class="tab"><a href="#test3">Self-Care/ First Aid</a></li>
           </ul>
         </div>
-        <div id="test1" class="col s12">{{ content }}</div>
-        <div id="test2" class="col s12">{{ page.forms-body | markdownify }}</div>
-        <div id="test3" class="col s12">{{ page.self-care-body | markdownify }}</div>
+        <div class="card-content grey lighten-4">
+          <div id="test1">{{ content }}</div>
+          <div id="test2">{{ page.forms-body | markdownify }}</div>
+          <div id="test3">{{ page.self-care-body | markdownify }}</div>
+        </div>
+
       </div>
       <ul class="collapsible" data-collapsible="accordion">
         <li>

@@ -17,12 +17,17 @@ layout: default
     </div>
   </div>
   {{ content }}
-  <table>
+  <table class="bordered">
+    <thead>
+      <th>Building</th>
+      <th>Days</th>
+      <th>Hours</th>
+    </thead>
     {% for building in page.schedules %}
     <tr>
       <td>{{ building.name }}<br>ext: {{ building.ext }}</td>
-      <td>{{ building.days-body | markdownify }}</td>
-      <td>{{ building.hours-body | markdownify  }}</td>
+      <td>{{ building.days-body | markdownify | replace: "\", "<br>"}}</td>
+      <td>{{ building.hours-body | markdownify | replace: "\", "<br>" }}</td>
     </tr>
     {% endfor %}
   </table>
