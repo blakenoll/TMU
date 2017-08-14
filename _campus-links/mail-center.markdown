@@ -3,7 +3,7 @@ title: Mail Center
 date: 2017-04-11 23:22:00 Z
 parallax-img: "/images/Parallax7.jpg"
 new-students-parents-body: |-
-  Student Addresses
+  ### Student Addresses
 
   All incoming mail and packages for students at The Master's University should be addressed:
 
@@ -100,7 +100,7 @@ policies-body: |-
 
   Each dean, director, or department head is responsible for determining if materials to be distributed by the Campus Mail Center relate to official business of the College. When questions occur concerning such determination, the matter must be referred to the next level of college administration (dean, director, vice president, etc.). Material found within the Campus Mail Center to be in violation of this policy will be removed immediately and the appropriate administrator will be contacted.
 urgent-body: |-
-  Priority Mail
+  ## Priority Mail
 
   * Priority Mail is available for any item.
 
@@ -114,7 +114,7 @@ urgent-body: |-
 
   * This service is not guaranteed, but the U.S. Postal Service claims it is faster than First Class Mail.
 
-  Advantages
+  ### Advantages
 
   * It's relatively inexpensive.
 
@@ -126,7 +126,7 @@ urgent-body: |-
 
   * Flat rate Priority Mail packaging is provided free of charge.
 
-  Disadvantages
+  ### Disadvantages
 
   * It's not guaranteed.
 
@@ -140,7 +140,7 @@ urgent-body: |-
 
   * Packages or letters to be sent by UPS must be delivered to the Campus Mail Center by 3:00 p.m.
 
-  Advantages
+  ### Advantages
 
   * It's very reliable.
 
@@ -148,7 +148,7 @@ urgent-body: |-
 
   * Insurance is provided.
 
-  Disadvantages
+  ### Disadvantages
 
   * Extra charge for Saturday delivery.
 
@@ -166,7 +166,7 @@ urgent-body: |-
 
   * Items to be sent out PME must be delivered to the Campus Mail Center by 3:00 p.m.
 
-  Advantages
+  ### Advantages
 
   * It's slightly less expensive than other overnight services.
 
@@ -174,13 +174,13 @@ urgent-body: |-
 
   * Delivery to P.O. boxes or any other address is available.
 
-  Disadvantages
+  ### Disadvantages
 
   * Not all locations guarantee overnight delivery.
 
   * Not as reliable as other carriers.
 services-body: |-
-  First Class/Priority Mail
+  ## First Class/Priority Mail
 
   This is a class of mail we use daily. Personal letters, bills, postcards and similar items must be sent first class. Current rates are available in the Campus Mail Center.
 
