@@ -44,6 +44,23 @@
     {% endfor %}
   </ul>
 
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <div class="container">
+        <form action="{{ "/search" | prepend: site.url }}">
+          <div class="row">
+            <div class="col s12"><input type="text" placeholder="Search" name="q" pattern=".{3,}" title="At least 3 characters" required></div>
+            <div style="clear: both;"></div>
+          </div>
+        </form>
+      </div>
+    </div>
+    <!-- <div class="modal-footer">
+      <a href="#!" class="modal-action modal-close waves-effect waves-red btn-flat"><i class="material-icons">clear</i></a>
+    </div> -->
+  </div>
+
 
 
   <!-- end dropdown content -->
@@ -57,14 +74,16 @@
 
           <div class="container menu-container">
 
+
             <ul id="nav-mobile" class="right  hide-on-med-and-down">
               <li><a class="dropdown-button" href="{{ "/students" | prepend: site.url }}" data-activates="dropdown3">Students</a></li>
               <li><a class="dropdown-button" href="{{ "/faculty&staff" | prepend: site.url }}" data-activates="dropdown4">Faculty/Staff</a></li>
               <li><a class="dropdown-button" href="{{ "/faculty&staff" | prepend: site.url }}" data-activates="dropdown5">Campus Links</a></li>
               <li><a href="{{ "/alumni" | prepend: site.url }}">Alumni</a></li>
               <li><a href="{{ "/give" | prepend: site.url }}">Give</a></li>
-
+              <li><a href="#modal1" class="material-icons">search</a></li>
             </ul>
+
           </div>
 
         </div>
@@ -120,6 +139,7 @@
   <script>
   $(document).ready(function(){
     $(".dropdown-button").dropdown({hover: true, belowOrigin: true, constrainWidth: false});
+    $('.modal').modal();
   });
   $(window).scroll(function() {
     var scroll = $(window).scrollTop();
