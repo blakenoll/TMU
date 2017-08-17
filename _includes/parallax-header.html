@@ -1,5 +1,5 @@
 <div class="parallax-container news-parallax">
-  <div class="parallax"><img src="{{ page.parallax-img | prepend: site.url }}" alt="{{ page.title }} header-img"></div>
+  <div class="parallax"><img src="{% if page.parallax-img %}{{ page.parallax-img | prepend: site.url }}{% else %}{{ '/images/Parallax10.jpg' | prepend: site.url }}{% endif %}" alt="{{ page.title }} header-img"></div>
   <div class="container valign-wrapper" style="height: 100%">
     <h1 class="program-title white-text">{{ page.title | upcase }}</h1>
   </div>

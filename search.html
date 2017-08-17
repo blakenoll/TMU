@@ -8,13 +8,8 @@ exclude_from_search: true
 ---
 
 <div class="container">
-  <!-- <form class="nav-search"action="{{ "/search" | relative_url }}">
-    <div class="input-field nav-search">
-      <input id="search" name="q" type="search"  placeholder="Search"required>
-      <label class="label-icon" for="search"><i class="material-icons">search</i></label>
-    </div>
-  </form> -->
-  <form action="{{ page.url | relative_url }}" class=" col s4 right">
+  <h1>Search Results</h1>
+  <form action="{{ page.url | relative_url }}" class=" col s4">
     <div class="input-field nav-search">
       <input type="search" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required>
       <label class="label-icon" for="tipue_search_input"><i class="material-icons">search</i></label>
