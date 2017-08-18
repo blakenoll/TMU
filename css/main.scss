@@ -472,7 +472,11 @@ footer {
 
 #john {
   padding-top: 30px;
+  min-height: 600px;
 
+  div.col {
+    height: 500px;
+  }
   p {
     font-size: 18pt;
   }

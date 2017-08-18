@@ -1,19 +1,24 @@
 <div class="container news">
-  <h1 class="center">News</h1>
+
 
   <div class="row">
-    {% for post in site.posts  limit:3 %}
-      <div class="col s12 m4 image">
+
+    {% for post in site.posts  limit:1 %}
+      <div class="col s12 m6 l4 image">
+        <h1 class="center">Latest News</h1>
         <a href="{{ post.url | prepend: site.url }}">
           <div class="card">
               <div class="card-image">
                 <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
-                <span class="card-title">{{ post.title}}</span>
               </div>
           </div>
         </a>
+        <a class="btn btn-navy right" href="news">All News</a>
       </div>
     {% endfor %}
+      <div class="col s12 m6 l8">
+        <h1 class="center">Stats info</h1>
+      </div>
   </div>
 
 
@@ -50,7 +55,7 @@
       </div>
     </div>
   </div> -->
-  <div class="row center">
-    <a class="btn btn-navy center" href="news">All News</a>
+  <div class="row">
+
   </div>
 </div>
