@@ -1,28 +1,22 @@
 ---
 title: Communications
 sm-image: "/uploads/AcademicsUndergradIcons_Communications.png"
-description: "In a world where communication touches every realm of life, The Master’s
-  University disciplines students to not only excel in their chosen focus, but also
-  do so in a way that will glorify God. One of the most basic elements of Christianity
-  is evangelism and a degree in Communications will set a student up with some of
-  the best skills to reach the largest number of people; whether supporting Christian
-  organizations or working in a secular work environment.\n\nIn a classroom taught
-  by working professional’s, students are equipped with hands-on experience as well
-  as working as a part of a team. There is synergy between all emphases, as required
-  in the professional world. Each year they work together to create projects like
-  short films and graphic novels which can later be used in their professional portfolios.
-  No graduate of the Communications department leaves unprepared.\n\n* Master's is
-  only 20-30 miles away from all major studios in Los Angeles: Disney (23.3 miles),
-  Columbia Pictures (31.4 miles), 20thCentury Fox (29.8 miles), Paramount Pictures
-  (27.2 miles), Universal Pictures (23 miles), MGM (28.5 miles) and more.\n\n*  Students
-  are taught ahead of the trends, allowing them to be pioneers and entreprenuers while
-  still in school and leaders upon graduation.\n\n* The short film “Drift” won an
-  award at the Cliff Film Festival of which 13\n\n* countries participated in. Each
-  student involved in its production received\n\n* IMDB credit.\n\n* $100,000 worth
-  of equipment donated by Black Magic Design, including industry level\n\n* 4k cameras,
-  sound and light equipment,  a podcast studio and more.\n\n* Each of our professors
-  have either worked or are still working professionally in their fields.\n\nTo see
-  our previous work, go [here](https://vimeo.com/user35546274). "
+description: |-
+  In a world where communication touches every realm of life, The Master’s University disciplines students to not only excel in their chosen focus, but also do so in a way that will glorify God. One of the most basic elements of Christianity is evangelism and a degree in Communications will set a student up with some of the best skills to reach the largest number of people; whether supporting Christian organizations or working in a secular work environment.
+
+  In a classroom taught by working professional’s, students are equipped with hands-on experience as well as working as a part of a team. There is synergy between all emphases, as required in the professional world. Each year they work together to create projects like short films and graphic novels which can later be used in their professional portfolios. No graduate of the Communications department leaves unprepared.
+
+  * Master's is only 20-30 miles away from all major studios in Los Angeles: Disney (23.3 miles), Columbia Pictures (31.4 miles), 20thCentury Fox (29.8 miles), Paramount Pictures (27.2 miles), Universal Pictures (23 miles), MGM (28.5 miles) and more.
+
+  * Students are taught ahead of the trends, allowing them to be pioneers and entreprenuers while still in school and leaders upon graduation.
+
+  * The short film “Drift” won an award at the Cliff Film Festival of which 13 countries participated in. Each student involved in its production received IMDB credit.
+
+  * $100,000 worth of equipment donated by Black Magic Design, including industry level 4k cameras, sound and light equipment,  a podcast studio and more.
+
+  * Each of our professors have either worked or are still working professionally in their fields.
+
+  To see our previous work, go [here](https://vimeo.com/user35546274).
 emphasis:
 - General
 - Cinema & Digital Arts
