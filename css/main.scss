@@ -254,6 +254,16 @@ a {
   float: right;
 }
 
+#stats {
+  height: 500px;
+  font-size: 18px;
+  text-transform: uppercase;
+
+  li {
+    padding-bottom: 5px;
+  }
+}
+
 .navbar-inverse {
   background-color: $white;
   border-color: $white;
@@ -300,6 +310,9 @@ a {
 
 .news {
   padding-top: 30px;
+  min-height: 500px;
+
+
 }
 .secondary-content {
   color: $navy;

@@ -2,60 +2,46 @@
 
 
   <div class="row">
-
-    {% for post in site.posts  limit:1 %}
-      <div class="col s12 m6 l4 image">
-        <h1 class="center">Latest News</h1>
-        <a href="{{ post.url | prepend: site.url }}">
-          <div class="card">
-              <div class="card-image">
-                <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
+    <div>
+      {% for post in site.posts  limit:1 %}
+        <div class="col s12 m12 l5 image valign-wrapper" style="height: 500px">
+          <div>
+            <h1 class="center">Latest News</h1>
+            <a href="{{ post.url | prepend: site.url }}">
+              <div class="card">
+                  <div class="card-image">
+                    <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
+                  </div>
               </div>
+            </a>
+            <a class="btn btn-navy center" href="news">More News</a>
+          </div>
+
+        </div>
+      {% endfor %}
+      <div class="col s12 m12 l7 valign-wrapper" style="height: 500px">
+        <div style="width: 100%;">
+        <a href="#">
+          <div class="valign-wrapper" style="width: 100%;">
+            <img src="/uploads/AdmissionFinAid_ApplicationProcess.png" alt="" width="90px">
+            <span>Apply</span>
           </div>
         </a>
-        <a class="btn btn-navy right" href="news">All News</a>
-      </div>
-    {% endfor %}
-      <div class="col s12 m6 l8">
-        <h1 class="center">Stats info</h1>
-      </div>
-  </div>
-
-
-
-
-  <!-- <div class="row">
-    <div class="col-container" style="display: table;">
-      <div class="col s12 m6" style="display: table-cell;">
-        {% for post in site.posts %}
-          {% if forloop.first %}
-            <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
-            <a class="secondary-content" href="#"><h4>{{ post.date | date: " %b %d, %Y"}}</h4></a>
-            <a href="{{ post.url | prepend: site.url }}"><h3>{{ post.title }}</h3></a>
-
-             {{ post.preview-text | truncatewords: 30 }}
-          {% endif %}
-        {% endfor %}
+        <a href="#">
+          <div class="valign-wrapper" style="width: 100%;">
+            <img src="/images/AcademicsUndergradIcons_Music.png" alt="" width="90px">
+            <span>Performing Arts</span>
+          </div>
+        </a>
+        <a href="#">
+          <div class="valign-wrapper" style="width: 100%;">
+            <img src="/uploads/StudentLife_ResidentLife.png" alt="" width="90px">
+            <span>Student Life</span>
+          </div>
+        </a>
+        </div>
       </div>
 
-      <div class="col s12 m6" style="display: table-cell;">
-        <ul id="home-news" class="collection">
-          {% for post in site.posts %}
-            {% if forloop.index > 1 %}
-              {% if forloop.index <= 4 %}
-              <li id="home-news" class="collection-item">
-                <a class="secondary-content" href="{{ post.url | prepend: site.url }}">{{ post.date | date: " %b %d, %Y"}}</a>
-                <a href="{{ post.url | prepend: site.url }}"><h3>{{ post.title }}</h3></a>
-                 <p>{{ post.preview-text | truncatewords: 15 }}</p>
-              </li>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-      </ul>
-      </div>
     </div>
-  </div> -->
-  <div class="row">
-
   </div>
 </div>
