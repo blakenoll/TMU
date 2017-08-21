@@ -1,68 +1,28 @@
-<div class="container news">
+<div class="">
+  <div class="container news">
 
 
-  <div class="row">
-    <div>
-      <div id="stats" class="col s12 m12 l8 valign-wrapper" style="height: 500px">
-        <ul>
-          <li>94% of full-time students recieve financial aid</li>
-          <li>#1 CPA Exam pass rate (77%)</li>
-          <li>Ranked #35 Best Universities (US regional west) US News 2017</li>
-          <li>Ranked #15 Best Value Schools in the US (US News 2017)</li>
-          <li>12:1 student-teacher ratio</li>
-        </ul>
-      </div>
-      {% for post in site.posts  limit:1 %}
-        <div class="col s12 m12 l4 image valign-wrapper" style="height: 500px">
-          <div>
-            <h1 class="center">Latest News</h1>
-            <a href="{{ post.url | prepend: site.url }}">
-              <div class="card">
-                  <div class="card-image">
-                    <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
-                  </div>
-              </div>
-            </a>
-            <a class="btn btn-navy center" href="news">More News</a>
-          </div>
-
+    <div class="row">
+      <div>
+        <div id="stats" class="col s12 m12 l8 home-spacers valign-wrapper">
+          <ul>
+            <li>94% of full-time students recieve financial aid</li>
+            <li>#1 CPA Exam pass rate (77%)</li>
+            <li>Ranked #35 Best Universities (US regional west) US News 2017</li>
+            <li>Ranked #15 Best Value Schools in the US (US News 2017)</li>
+            <li>12:1 student-teacher ratio</li>
+          </ul>
         </div>
-      {% endfor %}
-    </div>
-  </div>
+        {% for post in site.posts  limit:1 %}
+          <div class="col s12 m12 l4 home-spacers image valign-wrapper">
+            <div>
+              <h1 class="center">US news logo...</h1>
 
+            </div>
 
-
-
-  <!-- <div class="row">
-    <div class="col-container" style="display: table;">
-      <div class="col s12 m6" style="display: table-cell;">
-        {% for post in site.posts %}
-          {% if forloop.first %}
-            <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
-            <a class="secondary-content" href="#"><h4>{{ post.date | date: " %b %d, %Y"}}</h4></a>
-            <a href="{{ post.url | prepend: site.url }}"><h3>{{ post.title }}</h3></a>
-
-             {{ post.preview-text | truncatewords: 30 }}
-          {% endif %}
+          </div>
         {% endfor %}
       </div>
-
-      <div class="col s12 m6" style="display: table-cell;">
-        <ul id="home-news" class="collection">
-          {% for post in site.posts %}
-            {% if forloop.index > 1 %}
-              {% if forloop.index <= 4 %}
-              <li id="home-news" class="collection-item">
-                <a class="secondary-content" href="{{ post.url | prepend: site.url }}">{{ post.date | date: " %b %d, %Y"}}</a>
-                <a href="{{ post.url | prepend: site.url }}"><h3>{{ post.title }}</h3></a>
-                 <p>{{ post.preview-text | truncatewords: 15 }}</p>
-              </li>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-      </ul>
-      </div>
     </div>
-  </div> -->
+  </div>
 </div>

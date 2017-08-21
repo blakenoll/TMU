@@ -230,6 +230,17 @@ a {
 .fixed {
   position: fixed;
 }
+
+.home-spacers {
+    height: 300px;
+}
+
+.icon-links {
+  img {
+    width: 90px;
+  }
+}
+
 .logo-div {
   height: 120px;
   position: relative;
@@ -255,7 +266,7 @@ a {
 }
 
 #stats {
-  height: 500px;
+  
   font-size: 18px;
   text-transform: uppercase;
 
@@ -309,9 +320,9 @@ a {
 }
 
 .news {
-  padding-top: 30px;
-  min-height: 500px;
 
+  // min-height: 500px;
+  padding-top: 30px;
 
 }
 .secondary-content {
@@ -569,6 +580,10 @@ footer {
   ul.nav li.dropdown:hover > ul.dropdown-menu {
     display: block;
   }
+
+  .home-spacers {
+      height: 400px;
+  }
 }
 
 @media screen and (max-width: 1160px) {
@@ -607,5 +622,11 @@ footer {
 
   nav .brand-logo {
     padding-top: 9px;
+  }
+
+  .icon-links {
+    img {
+      width: 50px;
+    }
   }
 }

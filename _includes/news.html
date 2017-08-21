@@ -2,46 +2,66 @@
 
 
   <div class="row">
-    <div>
-      {% for post in site.posts  limit:1 %}
-        <div class="col s12 m12 l5 image valign-wrapper" style="height: 500px">
-          <div>
-            <h1 class="center">Latest News</h1>
-            <a href="{{ post.url | prepend: site.url }}">
-              <div class="card">
-                  <div class="card-image">
-                    <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
-                  </div>
-              </div>
-            </a>
-            <a class="btn btn-navy center" href="news">More News</a>
-          </div>
 
-        </div>
-      {% endfor %}
-      <div class="col s12 m12 l7 valign-wrapper" style="height: 500px">
-        <div style="width: 100%;">
-        <a href="#">
-          <div class="valign-wrapper" style="width: 100%;">
-            <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="" width="90px">
-            <span>Apply</span>
-          </div>
-        </a>
-        <a href="#">
-          <div class="valign-wrapper" style="width: 100%;">
-            <img src="{{'/images/AcademicsUndergradIcons_Music.png' | prepend: site.url }}" alt="" width="90px">
-            <span>Performing Arts</span>
-          </div>
-        </a>
-        <a href="#">
-          <div class="valign-wrapper" style="width: 100%;">
-            <img src="{{'/uploads/StudentLife_ResidentLife.png' | prepend: site.url }}" alt="" width="90px">
-            <span>Student Life</span>
-          </div>
-        </a>
-        </div>
-      </div>
 
-    </div>
+        <div class="col s12 m7 push-m5 icon-links home-spacers valign-wrapper" >
+          <div class="col s6">
+          <a href="#">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
+              <span>Apply</span>
+            </div>
+          </a>
+          <a href="#">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/images/AcademicsUndergradIcons_Music.png' | prepend: site.url }}" alt="">
+              <span>Performing Arts</span>
+            </div>
+          </a>
+          <a href="#">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/StudentLife_ResidentLife.png' | prepend: site.url }}" alt="">
+              <span>Student Life</span>
+            </div>
+          </a>
+          </div>
+          <div class="col s6">
+          <a href="#">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/AdmissionFinAid_Tuition.png' | prepend: site.url }}" alt="">
+              <span>Total Cost Calculator</span>
+            </div>
+          </a>
+          <a href="#">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/images/AcademicsUndergradIcons_Music.png' | prepend: site.url }}" alt="">
+              <span>Calender</span>
+            </div>
+          </a>
+          <a href="#">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/StudentLife_ResidentLife.png' | prepend: site.url }}" alt="">
+              <span>Give</span>
+            </div>
+          </a>
+          </div>
+        </div>
+        {% for post in site.posts  limit:1 %}
+          <div class="col s12 m5 pull-m7 home-spacers image valign-wrapper">
+            <div>
+              <h1 class="center">Latest News</h1>
+              <a href="{{ post.url | prepend: site.url }}">
+                <div class="card">
+                    <div class="card-image">
+                      <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
+                    </div>
+                </div>
+              </a>
+              <a class="btn btn-navy center" href="news">More News</a>
+            </div>
+
+          </div>
+        {% endfor %}
+
   </div>
 </div>
