@@ -751,13 +751,106 @@ ensembles:
     The Master's Chorale
 - name: 'Wind Ensemble '
   image: 
-  body: 
+  body: |-
+    Wind Ensemble
+
+    Dr. Stephen Opfer, Conductor
+
+    ![Wind Ensemble 2012](http://www.masters.edu/academics/undergraduate/music/ensemblesandtours/wind-ensemble/?width=650&height=500)
+
+    The Master's University Wind Ensemble is an auditioned group of approximately fifty music majors, non-music majors and community members. Literature performed includes classic band works to new wind band literature. The Wind Ensemble performs concerts throughout both semesters and members join with the Chamber Orchestra during the Christmas and Easter seasons. The Wind Ensemble has toured to Northern California and has produced several recordings.
+
+    Clips from The Master's Wind Ensemble, 2007:\
+    The Master's College Wind Ensemble
+
+    * [Fantasia in G](http://www.masters.edu/media/438296/09%20fantasia%20in%20g.mp3)
+
+    * [Four Maryland Songs: 1](http://www2.masters.edu/w/GetHostedFile.ashx?03\+Track\+03\+5.mp3&Id=48)
+
+    * [The Red Machine](http://www2.masters.edu/academics/departments/music/RedMachine.mp3)
 - name: 'Women''s Chamber Choir '
-  image: 
-  body: 
+  image: http://www.masters.edu/media/869341/wcc-17-formal.jpg?width=498&height=332
+  body: |
+    **Dr. Carolyn Simons, Director**
+
+    The Women's Chamber Choir is an auditioned group of fifteen to twenty women that performs both on and off campus throughout the semester as well as on a tour over spring break. They perform a variety of styles from every major period including sacred, classical and madrigal. The group has toured through various parts of the country and has sung at Lincoln Center in New York City. They have produced three recordings, the most recent being titled "The Mighty Power".
+
+    **Clips from Bow the Knee, 2008: The Women's Chamber Choir**
+
+    * **[Bow the Knee](http://www2.masters.edu/academics/departments/music/BowTheKnee.mp3)**
+
+    * [Sweet Hour of Prayer](http://www2.masters.edu/academics/departments/music/SweetHourofPrayer.mp3)
+
+    * [The Lord Bless You and Keep You](http://www2.masters.edu/academics/departments/music/TheLordBlessYouandKeepYou.mp3)
+
+    **Clips from The Mighty Power, 2013: The Women's Chamber Choir**
+
+    * **[Moses and Daniel](http://www.masters.edu/media/632589/moses%20and%20daniel.mp3)**
+
+    * [Nothin' Gonna Stumble My Feet](http://www.masters.edu/media/634819/nothingonnastumblemyfeet.mp3)
+
+    * [Jesu, Priceless Treasure](http://www.masters.edu/media/632595/jesu%20priceless%20treasure.mp3)
+
+    * [In the Beginning](http://www.masters.edu/media/632598/in%20the%20beginning.mp3)
+
+    **Tour 2017 Schedule**
+
+    Saturday March 11 7:00 pm New Hope Baptist Church, Sacramento, CA
+
+    Sunday March 12 10:45 am Sierra Baptist Church, Newcastle, CA
+
+    Sunday March 12 7:00 pm Grace Bible Church, Fair Oaks, CA
+
+    Monday March 13 7:00 pm Foothill Christian Fellowship, Meadow Vista,CA
+
+    Tuesday March 14 7:00 pm Baptist Temple Church of Modesto, Modesto, CA
+
+    Wednesday March 15 7:00 pm First Baptist Church, Cerres, CA
+
+    Thursday March 16 7:00 pmGrace Baptist Church, Redding, CA
+
+    Friday March 17 7:00 pm Grace Community Church, Minden, NV
+
+    Sunday March 1910:30 am Santa Clarita Baptist Church, Santa Clarita, CA\
 - name: 'Handbells '
   image: 
-  body: 
+  body: |-
+    Mrs. Claire Blackwell, Director
+
+    This group includes three handbell choirs: basic, advanced and a small ensemble. All handbell ensembles work with a five-octave and a three-octave bell set as well as a three-octave set of Choirchimes. The handbells perform in festivals and concerts on and off campus each year, and are also featured at the college's annual Come ChristmasSing concerts. Prof. Blackwell and her ringers host the "Bellfest" bell choir festival each November at the college.
+- name: Chamber Strings
+  image: 
+  body: |-
+    \
+    The Chamber Orchestra is an auditioned ensemble of students, faculty and musicians from the local community. Their repertory includes a broad array of pieces from the Baroque, Classical, Romantic and Contemporary eras, including world premiere performances of new works. In addition to their fall and spring concerts, members of the TMU Chamber Orchestra also perform at the annual Christmas and Forest Lawn concerts.
+- name: University Singers
+  image: 
+  body: |-
+    Dr. Paul T. Plew, Director
+
+    The University Singers is a non-auditioned, campus community choir of appoximately 150 members. Performances include a large Christmas production in the MacArthur Center as well as Easter concerts at the Hall of Crucifixion-Resurrection at Forest Lawn each year. A wide variety of classical and contemporary sacred music is performed. This group appeared at Lincoln Center in May of 2011 to perform Rutter's "Requiem".
+- name: The Master's University Orchestra
+  image: 
+  body: |-
+    Dr. Stephen R. Opfer, Conductor
+
+    The 70-member university orchestra personnel come from a mixture of both talented college students and accomplished instrumentalists from the northern Los Angeles area, many of whom are professional musicians. They perform concerts with musical literature ranging from classical and sacred to film and musicals. These concerts are provided throughout the academic year with some events in joint efforts with the university choirs.
+- name: TMU Opera Workshop
+  image: 
+  body: |-
+    Dr. Kimberlyn Jones, Director
+
+    The TMU Opera Workshop is a semester project that concludes in a staged and costumed production of selected opera scenes. Works of the masters as well as more contemporary composers are represented. All scenes are performed in English.
+- name: Other Ensembles
+  image: 
+  body: |-
+    Piano Ensembles at The Master's University come together every Christmas to perform arrangements of beloved carols with 12 and sometimes 24 pianists making up each group. Piano ensembles, directed by Dr. Ken Mays, also perform at various piano and chamber ensemble concerts throughout the year.
+
+    The Master's University Big Band, directed by Dr. Stephen Opfer in select semesters, provides students the experience of performing the various styles of big band music. This group provides concerts for the college in addition to performing at various community events and at Disneyland's Carnation Plaza.
+
+    Other: Instrumental Chamber Ensembles including a String Quartet, Brass Quartet and Woodwind Quintet, Guitar Ensemble, Percussion Ensemble, Pep Band, Vocal Jazz Quartet and Barbershop Quartet dependant on student availability.
+
+    Students regularly appear in studio and compostion recitals each semester.
 BA-entrance-file: 
 BM-entrance-file: 
 scholorship-file: 
