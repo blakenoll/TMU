@@ -12,7 +12,7 @@
               <span>Apply</span>
             </div>
           </a>
-          <a href="#">
+          <a href="{{ '/performingarts' | prepend: site.url }}">
             <div class="valign-wrapper card" style="width: 100%;">
               <img src="{{'/images/AcademicsUndergradIcons_Music.png' | prepend: site.url }}" alt="">
               <span>Performing Arts</span>
@@ -48,7 +48,7 @@
         </div>
         {% for post in site.posts  limit:1 %}
           <div class="col s12 m5 pull-m7 home-spacers image valign-wrapper">
-            <div>
+            <div class="center">
               <h1 class="center">Latest News</h1>
               <a href="{{ post.url | prepend: site.url }}">
                 <div class="card">
