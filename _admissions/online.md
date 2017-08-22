@@ -3,7 +3,7 @@ title: Online
 position: 2
 ---
 
-<img src="{{ "/images/Online.jpg" | prepend: site.url }}" alt="" width="100%">
+<img src="{{ "/images/Online_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
 <div class="row">
 <div class="col s12 m4 l3 right admissions-btns">
 <a href="http://bit.ly/TMUOLAPP" class="btn btn-navy">Apply Now</a><br>
