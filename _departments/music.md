@@ -746,9 +746,6 @@ ensembles:
     The Master's Chorale is a 60-member auditioned concert choir representing 30 states and virtually every major area of study. They perform sacred music from every major period, relating spiritual truth to people today. The Chorale performs throughout the year on and off campus. They have toured many parts of the United States, the United Kingdom, and have been guests of the Ministry of Tourism in Israel in 1993, 1997, 2001 and 2005.
 
     In 2003 and 2006, the Chorale performed at Carnegie Hall in New York City. They will travel to Israel and Italy this year on their summer tour. Along with their own albums, they have recorded for Phil Barfoot, Steve Bock, Don Marsh, David Clydesdale and Ligonier Ministries. They were the featured choir of a series of hymn-story books with CD, featuring John MacArthur, Joni Eareckson Tada and Robert and Bobbie Wolgumuth. They also recorded Let Heaven and Nature Sing, a Christmas album arranged by David T. Clydesdale. Most recently they recorded "Light All Around".
-
-    Clips from Light All Around, 2008:\
-    The Master's Chorale
 - name: 'Wind Ensemble '
   image: 
   body: |-
