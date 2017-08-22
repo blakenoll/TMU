@@ -6,8 +6,8 @@ position: 2
 <img src="{{ "/images/Online_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
 <div class="row">
 <div class="col s12 m4 l3 right admissions-btns">
-<a href="http://bit.ly/TMUOLAPP" class="btn btn-navy">Apply Now</a><br>
-<a href="http://bit.ly/TMUOLAPP" class="btn btn-navy">Request Info</a>
+<a href="https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB" class="btn btn-navy">Apply Now</a><br>
+<a href="https://masters.tfaforms.net/217726" class="btn btn-navy">Request Info</a>
 </div>
 </div>
 **The Master's University Online offers several different options for all levels of academia. For instructions specific to the program for which you are applying, please visit the appropriate link below.**

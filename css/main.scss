@@ -45,7 +45,12 @@ a {
     font-size: 14px;
     padding: 0 5px 0 5px;
     color: #fff;
+
+    &:hover {
+      color: #DAAA00;
+    }
   }
+
 
   .dropdown-content a {
     color: #0C2340;

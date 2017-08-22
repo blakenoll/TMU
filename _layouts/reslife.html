@@ -18,8 +18,9 @@ layout: default
   </div>
   <h3>Dorms</h3>
   <div class="row">
-    {% for dorm in site.dorms %}
-    <div class="col s6 m4">
+    {% assign dorms = site.dorms | sort: 'title' %}
+    {% for dorm in dorms %}
+    <div class="col s6 m3">
 
       <a href="{{ dorm.url | prepend: site.url }}"><img class="" src="{{ dorm.image | prepend: site.url }}" alt="" width="100%"></a>
     </div>
