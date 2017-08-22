@@ -2,7 +2,6 @@
 title: 5th Year Teaching Credential
 date: 2017-04-18 00:29:00 Z
 permalink: "/academics/teachingcredential"
-parallax-img: "/images/Parallax4.jpg"
 program-outline-text: |-
   ## CREDENTIAL PROGRAMS INFORMATION:
 
@@ -175,6 +174,7 @@ program-outline-text: |-
   ### Candidate Files
 
   The credential programs maintain electronic files for all candidates. In addition to required program forms and records, candidates may add to their file letters of recommendation from principals, teachers, or other school site personnel who observe them teaching during clinical practice.
+parallax-img: "/images/Parallax4.jpg"
 admissions-body: |-
   Credential Programs Admissions
 
@@ -380,11 +380,11 @@ handbook-body: "Credential Program Handbook\\\n\\\n\n## TMU Student Handbook\n\n
 layout: teachingcred
 ---
 
-Teaching Credential Programs
+## Teaching Credential Programs
 
 ### *Multiple Subject Teaching Credential Program –* for those who want to teach at the elementary school level
 
-### *Single Subject Teaching Credential Program – *for those who want to teach at the secondary (junior high/high school) level
+### \*Single Subject Teaching Credential Program – \*for those who want to teach at the secondary (junior high/high school) level
 
 Each is a 30-unit, two-semester, cohort-style program with a start date in early Fall (early August).
 
