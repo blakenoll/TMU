@@ -586,6 +586,12 @@ footer {
   }
 }
 
+@media screen and (max-width: 598px) {
+  .home-spacers {
+      height: auto;
+  }
+}
+
 @media screen and (max-width: 1160px) {
   .card .card-title {
     font-size: 20px;
