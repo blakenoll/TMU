@@ -78,13 +78,13 @@ layout: default
                 <div id="ensembles">
                    {% for ensemble in page.ensembles %}
                    <!-- Modal Trigger -->
-                   <a href="#{{ ensemble.name }}">{{ ensemble.name }}</a>
+                   <a href="#{{ ensemble.name }}">{{ ensemble.name }}</a><br>
 
                    <!-- Modal Structure -->
                    <div id="{{ ensemble.name }}" class="modal">
                       <div class="modal-content">
                         <h4>{{ ensemble.name }}</h4>
-                        <img src="{{ ensemble.image }}" alt="" style="float: left; width:">
+                        <img src="{{ ensemble.image }}" alt="" style="float: left; padding: 15px;">
                         <p>{{ ensemble.body | markdownify }}</p>
                      </div>
                      <div class="modal-footer">
