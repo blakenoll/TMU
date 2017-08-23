@@ -95,7 +95,7 @@ Music-at-Masters-body: |-
 
   Looking for a music program dedicated to growing and stretching your talent and your character? Come check out The Master’s University Music Department! While you're here, you'll have the opportunity to meet our faculty and current students, visit classes and chapel, stay in the dorms, tour the campus and hear our ensembles perform. You'll also be able to learn more about enrollment and financial aid at TMU as well as audition for a music scholarship.
 
-  [REGISTER HERE](https://www.formstack.com/forms/?1130716-KK3hEWI7MZ "Register Here")by November 6th.
+  [REGISTER HERE ](https://www.formstack.com/forms/?1130716-KK3hEWI7MZ "Register Here")  By November 6th.
 
   ### Prelude Scholarship Competition
 
