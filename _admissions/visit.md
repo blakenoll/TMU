@@ -60,43 +60,90 @@ Personal-Visit-body: |-
   > * July 4, 2017: Closed for Independence Day
 View-The-U: 
 Personal-Visit: 
-Mondays-At-Masters-body: |2-
+Mondays-At-Masters-body: |-
+  Mondays @ Master's
 
-  **Mondays @ Master's**
+  For the student who does not have much time to spare, Mondays @ Master’s is a great opportunity to get a snapshot of what TMU is all about. Come visit classes, take a campus tour, attend chapel, learn about financial aid opportunities, meet some of our current TMU students, and get all of your questions about TMU answered. It is the complete college visit packed into one fun-filled day!
 
+  ## Mondays @ Master's Dates:
 
-  **For the student who does not have much time to spare, Mondays @ Master’s is a great opportunity to get a snapshot of what TMU is all about. Come visit classes, take a campus tour, attend chapel, learn about financial aid opportunities, meet some of our current TMU students, and get all of your questions about TMU answered. It is the complete college visit packed into one fun-filled day!**
+  * September 19, 2016
 
-  ## **Mondays @ Master's Dates:**
+  * November 14, 2016
 
-  * **September 19, 2016**
+  * February 13, 2017
 
-  * **November 14, 2016**
+  * April 10, 2017
 
-  * **February 13, 2017**
+  [CLICK HERE TO REGISTER](http://www.masters.edu/undergrad/visit/mondays/register/ "Register")
 
-  * **April 10, 2017**
+  All we need is some basic information from you, and the best part about it is that it’s free! Once you have signed up we will send you a confirmation with all of the information you may need for your visit to TMU. Parents are also welcome and encouraged to attend. Let us know how we can help you make this college-decision process easier. We would love to see you here!
 
-  **[CLICK HERE TO REGISTER](http://www.masters.edu/undergrad/visit/mondays/register/ "Register")**
+  Though Mondays at Master’s is designed to be a condensed visit program and is not designed primarily to accommodate overnight visitors, it is possible that a Mondays at Master’s visitor might want to stay overnight in the dorms. If this is the case, any registered Mondays at Master’s attendee will need to read our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/) for details about staying overnight and email our Visit Coordinator. All overnight visitors need to bring a sleeping bag and pillow. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](http://www.masters.edu/visitorinfo.aspx) page to plan overnight housing at a local area hotel. If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page to rent a car.
 
-  **All we need is some basic information from you, and the best part about it is that it’s free! Once you have signed up we will send you a confirmation with all of the information you may need for your visit to TMU. Parents are also welcome and encouraged to attend. Let us know how we can help you make this college-decision process easier. We would love to see you here!**
+  ## Sample Schedule of Events:
 
-  **Though Mondays at Master’s is designed to be a condensed visit program and is not designed primarily to accommodate overnight visitors, it is possible that a Mondays at Master’s visitor might want to stay overnight in the dorms. If this is the case, any registered Mondays at Master’s attendee will need to read our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/) for details about staying overnight and email our Visit Coordinator. All overnight visitors need to bring a sleeping bag and pillow. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](http://www.masters.edu/visitorinfo.aspx) page to plan overnight housing at a local area hotel. If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page to rent a car.**
-
-  ## **Sample Schedule of Events:**
-
-  **8:30-9:00am Registration & Continental Breakfast\
+  8:30-9:00am Registration & Continental Breakfast\
   9:10-10:25am Chapel\
   10:45-11:35am Campus Tour or Class Visit\
   11:45am-12:40pm Campus Tour or Class Visit\
   12:50-1:45pm Lunch\
   2:00-3:00pm Student Q&A Panel\
-  3:30-4:30pm Admissions & Financial Aid Seminar**
+  3:30-4:30pm Admissions & Financial Aid Seminar
+Music-at-Masters-body: |-
+  November 12-13, 2017
 
-  **Music Department Auditions (optional)**
+  Looking for a music program dedicated to growing and stretching your talent and your character? Come check out The Master’s University Music Department! While you're here, you'll have the opportunity to meet our faculty and current students, visit classes and chapel, stay in the dorms, tour the campus and hear our ensembles perform. You'll also be able to learn more about enrollment and financial aid at TMU as well as audition for a music scholarship.
 
-  **For more information regarding Music Auditions, please email the [Music Department](mailto:music@masters.edu)**
-Music-at-Masters-body: Music at Masters
+  [REGISTER HERE](https://www.formstack.com/forms/?1130716-KK3hEWI7MZ "Register Here")by November 6th.
+
+  ### Prelude Scholarship Competition
+
+  All students who audition for a music scholarship during this semester's Prelude will be considered for a special one-year Prelude Scholarship in the amount of $2000. This award will be given in addition to any other earned scholarships, music or otherwise. The recipient of this scholarship will be chosen and awarded during Prelude weekend.
+
+  E-mail [music@masters.edu](mailto:music@masters.edu) with inquiries or call 800-568-6248 ×2279.
+
+  We want you to be a part of our growing music department!
+
+  Music Department Auditions (optional)
+
+  For more information regarding Music Auditions, please email the [Music Department](mailto:music@masters.edu)
+
+  Schedule:
+
+  **Sunday**
+
+  7:30-8:30 pm Registration, Dessert Reception & Meet the Dept. Chair
+
+  8:30-9:00 pm Chorale Concert Overnight Stay in Dorms
+
+  **MONDAY**
+
+  9:10-10:25 am Chapel
+
+  10:40-11:35 am Class Visits/Campus Tour
+
+  11:45-12:40 pm Class Visits/Campus Tour
+
+  12:45-1:45 pm Lunch with Music Faculty
+
+  2:00-4:00 pm Closed Music Scholarship Auditions
+
+  1:55-3:40 pm Ensemble Performances/Class Visits
+
+  3:30-4:30 pm Admissions and Financial Aid Seminar
+
+  4:20-5:00 pm Final Thoughts and Q&A with Dr. Plew
+
+  5:00-6:15 pm University Singers Rehearsal
+
+  **Important Information for Registrants:**
+
+  All overnight visitors need to bring a sleeping bag, pillow and a signed copy of the official [TMU Overnight Stay Release Form](http://www.masters.edu/media/868918/prelude-activity-release-form.pdf "Prelude Activity Release Form"). *(If the visiting student is under 18, this form must be signed by a legal parent or guardian.) *The cost of Prelude covers Sunday night; any additional overnight evenings in the dorm will cost $10 per night. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
+
+  TMU is only able to provide airport transportation for students flying unaccompanied. If possible, please make all attempts to fly into [Burbank Airport](http://www.burbankairport.com/) (BUR).
+
+  If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page for booking information. Complimentary campus parking passes are available [here](http://www.masters.edu/media/683327/CVW%20Parking%20Pass.pdf).
 layout: default
 ---
 
