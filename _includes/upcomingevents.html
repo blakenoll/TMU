@@ -1,12 +1,11 @@
 <div class="parallax-container" style="height: auto">
       <div class="parallax"><img src="{{ "/images/Parallax1.jpg" | prepend: site.url }}"></div>
-      <div class="container">
           <div class="row">
             <div class="event-container">
                 <div class="carousel center">
                     <h1 class="center white-text">Upcoming Events</h1>
                     {% for event in site.upcomingevents %}
-                    <a class="carousel-item" href="#one!">
+                    <a class="carousel-item" href="{{ event.url }}">
                         <!-- <h3 class="white-text">{{ event.title }}</h3> -->
                         <img src="{{ event.image | prepend: site.url }}">
 
@@ -31,5 +30,4 @@
           <div class="row center">
              <a class="btn btn-white" href="{{ "/calendar" | prepend: site.url }}">Calendar</a>
           </div>
-      </div>
     </div>
