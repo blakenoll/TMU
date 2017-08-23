@@ -20,9 +20,12 @@ layout: default
   <div class="row">
     {% assign dorms = site.dorms | sort: 'title' %}
     {% for dorm in dorms %}
-    <div class="col s6 m3">
+    <div class="col s6 m3 center">
 
-      <a href="{{ dorm.url | prepend: site.url }}"><img class="" src="{{ dorm.image | prepend: site.url }}" alt="" width="100%"></a>
+      <a href="{{ dorm.url | prepend: site.url }}">
+        <img class="" src="{{ dorm.image | prepend: site.url }}" alt="" width="100%">
+        <h4 class="black-text">{{ dorm.title }}</h4>
+      </a>
     </div>
     {% endfor %}
   </div>
