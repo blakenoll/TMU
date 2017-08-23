@@ -3,29 +3,29 @@ title: Visit
 position: 4
 View-The-U-body: test
 Personal-Visit-body: |-
-  **We Want You On Campus!**
+  We Want You On Campus!
 
-  **The things that make The Master's University so special can’t be experienced on your computer. You’ve got to see it for yourself! If you’re curious about the University, your next step should be to schedule a tour.**
+  The things that make The Master's University so special can’t be experienced on your computer. You’ve got to see it for yourself! If you’re curious about the University, your next step should be to schedule a tour.
 
-  **A *personalized* campus visit will show you Master’s in all of its wonderful dimensions. You’ll see the seniors praying together on a bench in front of the library, the professor who’s laughing with his students over a meal in the cafeteria, and the flurry of activity in the dorms because someone just returned from Starbucks. You’ll feel the crowd at Bross Court, experience the energy of our classrooms, and hear the power of our chapel service.**
+  A *personalized* campus visit will show you Master’s in all of its wonderful dimensions. You’ll see the seniors praying together on a bench in front of the library, the professor who’s laughing with his students over a meal in the cafeteria, and the flurry of activity in the dorms because someone just returned from Starbucks. You’ll feel the crowd at Bross Court, experience the energy of our classrooms, and hear the power of our chapel service.
 
-  **Visiting our site has provided a window… and the view’s pretty good. But a visit is the door, and what’s on the other side may just be your future.**
+  Visiting our site has provided a window… and the view’s pretty good. But a visit is the door, and what’s on the other side may just be your future.
 
-  ### **Schedule your Visit Today!**
+  ### Schedule your Visit Today!
 
-  **The Admissions Office is open Monday through Friday from 8:30 am to 5:00 pm. During the school year, we run campus tours M/W/F at 10:30 am and 2:00 pm and Tues/Thurs at 10:00 am and 2:30 pm from Rutherford Hall. During the summer our tours depart at 10:00 am & 2:00 pm, to schedule a tour this summer please call 661-362-2602. Sign up for one today!**
+  The Admissions Office is open Monday through Friday from 8:30 am to 5:00 pm. During the school year, we run campus tours M/W/F at 10:30 am and 2:00 pm and Tues/Thurs at 10:00 am and 2:30 pm from Rutherford Hall. During the summer our tours depart at 10:00 am & 2:00 pm, to schedule a tour this summer please call 661-362-2602. Sign up for one today!
 
-  **[CLICK HERE TO REGISTER](http://www.masters.edu/undergrad/visit/personalized-visit/register/ "Register")**
+  [CLICK HERE TO REGISTER](https://masters.tfaforms.net/217730)
 
-  **Can’t make it to the school during business hours? Contact our Admissions Office in advance for a copy of our self-guided tour!**
+  Can’t make it to the school during business hours? Contact our Admissions Office in advance for a copy of our self-guided tour!
 
-  ### **Important Information:**
+  ### Important Information:
 
-  **Please Note: If you are planning to stay with us overnight you MUST review our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/). This provides important information for individual and group visits. Every overnight visitor must turn in a completed [Overnight Stay Release Form](http://www.masters.edu/media/343794/activity%20release%20form.pdf).**
+  Please Note: If you are planning to stay with us overnight you MUST review our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/). This provides important information for individual and group visits. Every overnight visitor must turn in a completed [Overnight Stay Release Form](http://www.masters.edu/media/343794/activity%20release%20form.pdf).
 
-  **Our offices are closed on the following dates during the 2016-2017 School Year (if your visit falls on a Mondays at Master’s or a College View Weekend, please sign up for either of those events on the [Mondays at Master’s](http://www.masters.edu/undergrad/visit/mondays/) page and the [View Weekend](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends") page):**
+  Our offices are closed on the following dates during the 2016-2017 School Year (if your visit falls on a Mondays at Master’s or a College View Weekend, please sign up for either of those events on the [Mondays at Master’s](http://www.masters.edu/undergrad/visit/mondays/) page and the [View Weekend](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends") page):
 
-  > * **September 7, 2016: Closed for Labor Day**
+  > * September 7, 2016: Closed for Labor Day
   >
   > * September 19, 2016: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
   >
@@ -33,7 +33,7 @@ Personal-Visit-body: |-
   >
   > * October 27-29, 2016: [College View Weekend](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends")
   >
-  > * November 3, 2016: TMC Day of Prayer
+  > * November 3, 2016: TMU Day of Prayer
   >
   > * November 14, 2016: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
   >
@@ -47,7 +47,7 @@ Personal-Visit-body: |-
   >
   > * March 25, 2017: Closed for Good Friday
   >
-  > * March 23-25, 2017: [College View Weekend](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends")
+  > * March 23-25, 2017: [View the U](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends")
   >
   > * April 19, 2017: Closed for All School Test Day
   >
@@ -75,7 +75,7 @@ Mondays-At-Masters-body: |-
 
   * April 10, 2017
 
-  [CLICK HERE TO REGISTER](http://www.masters.edu/undergrad/visit/mondays/register/ "Register")
+  [CLICK HERE TO REGISTER](https://masters.tfaforms.net/217729)
 
   All we need is some basic information from you, and the best part about it is that it’s free! Once you have signed up we will send you a confirmation with all of the information you may need for your visit to TMU. Parents are also welcome and encouraged to attend. Let us know how we can help you make this college-decision process easier. We would love to see you here!
 
