@@ -1,4 +1,0 @@
----
-title: Political Studies
----
-
