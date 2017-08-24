@@ -2,7 +2,104 @@
 title: Student Resources
 sm-image: "/uploads/AcademicsOnline_StudentResources.png"
 level: online
-policies-body: 
+policies-body: |-
+  <h1 style="text-align: center;">Financial Information</h1>\
+  <h2>Student Accounts</h2>\
+  <p>Your bill will be sent to your student account and the email address you entered during pre-registration. These will be sent on the 20th of the month following the end of registration. Payments are due on the 10th of the month following the month of billing. If a student has not paid full within 1 day of the payment due date, their Canvas account will be disabled. This means they will no longer be able to access course materials or homepages and will be unable to register for future classes. Once payment has been settled, we will restore full account privileges. If a student continues to neglect payment, standard delinquent account policies will apply.</p>\
+  <p><strong>If your online access is suspended due to a past due account please contact the Student Finance Center at 661-362-2237 or by email, <a href="mailto:studentaccounts@masters.edu">studentaccounts@masters.edu</a></strong></p>\
+  <h2><strong>Payment Information</strong></h2>\
+  <p>You can make your payments by <a href="http://www.masters.edu/campuslinks/student-accounts/online-payment" target="_blank">CLICKING HERE</a></p>\
+  <h2>Add/Drop Policies</h2>\
+  <p>Students can add and drop courses with the open registration period before courses begin. After the first day of class, students must submit a Petition to Add or Drop a Class form and email it to their advisor or to <a href="mailto:tmuonline@masters.edu">tmuonline@masters.edu</a>.</p>\
+  <p>The session drop dates will be as follows:</p>\
+  <table border="0" width="704" height="264">\
+  <tbody>\
+  <tr>\
+  <td>\
+  <p>Online Courses Dropped</p>\
+  </td>\
+  <td>\
+  <p style="text-align: center;">Refund will be</p>\
+  </td>\
+  <td>\
+  <p style="text-align: center;">Grade will be</p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p>By the Tuesday of the second week</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>100%</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>No grade will be given</p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p>By the Tuesday of the third week</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>75%</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>W</p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p>By the Tuesday of the fourth week</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>50%</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>W</p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p>By the Tuesday of the fifth week</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>25%</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>W</p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p>After the Tuesday of the fifth week</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>0%</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>W</p>\
+  </td>\
+  </tr>\
+  <tr>\
+  <td>\
+  <p>After the Tuesday of the sixth week until the end of the course</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>0%</p>\
+  </td>\
+  <td style="text-align: center;">\
+  <p>F</p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <p> </p>\
+  <h3>Additional Notes:</h3>\
+  <p>Adds:</p>\
+  <p>Due to the accelerated pace of online courses, requests to add a course after Thursday of the first week of the classes will be considered on a case-by-case basis. <span>The add/drop will be effective based on the time-stamp of when the add/drop</span><span> from is submitted.</span></p>\
+  <p>Drops:</p>\
+  <p>The student is responsible for submitting the add/drop form to their advisor. The add/drop will be effective based on the time-stamp of the email received by their advisor. <span>The add/drop will be effective based on the time-stamp of when the add/drop</span><span> from is submitted.</span></p>\
+  <p> </p>
 forms-body: '**[Add Drop Form](http://www.masters.edu/academics/online/add-drop-form/
   "Add Drop Form")**'
 register-body: |-
