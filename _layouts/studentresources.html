@@ -29,7 +29,7 @@ layout: default
         {{ page.register-body | markdownify }}
       </div>
       <div id="tuition">
-        {{ page.tuition-body | markdownify }}
+        {{ page.tuition-body | markdownify | replace: '\', ' ' }}
       </div>
     </div>
    </div>
