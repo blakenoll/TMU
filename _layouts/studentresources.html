@@ -1,0 +1,36 @@
+---
+layout: default
+---
+{% include parallax-header.html %}
+<div class="container">
+  <div class="card">
+    <div class="card-tabs">
+      <ul class="tabs tabs-fixed-width">
+        <li class="tab"><a class="active" href="#info">Info</a></li>
+        <li class="tab"><a href="#policies">Policies</a></li>
+        <li class="tab"><a href="#forms">Forms</a></li>
+        <li class="tab"><a href="#register">Register for Classes</a></li>
+        <li class="tab"><a href="#tuition">Tuition & Fee's</a></li>
+      </ul>
+    </div>
+    <div class="card-content grey lighten-4">
+      <div id="info">
+        <p>{{ content | markdownify}}</p>
+
+      </div>
+      <div id="policies">
+        {{ page.policies-body | markdownify }}
+
+      </div>
+      <div id="forms">
+        {{ page.forms-body | markdownify }}
+      </div>
+      <div id="register">
+        {{ page.register-body | markdownify }}
+      </div>
+      <div id="tuition">
+        {{ page.tuition-body | markdownify }}
+      </div>
+    </div>
+   </div>
+</div>

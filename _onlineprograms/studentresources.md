@@ -2,6 +2,7 @@
 title: Student Resources
 sm-image: "/uploads/AcademicsOnline_StudentResources.png"
 level: online
+layout: studentresources
 ---
 
 **We are so proud of your progress in laboring to attain an education from a Biblical worldview! We recognize that you have made sacrifices to be here and pray that you will glean both knowledge and truth from your courses.**
