@@ -417,15 +417,13 @@ tuition-fees-body: |-
 
   The Master’s University strives to offer students a Christ-centered education within the financial reach of all. We endeavor to keep costs as low as possible, and consequently, our tuition is among the most economical for a private university. When calculating university costs, be sure to consider the total cost. Consider items like: books and supplies, transportation, and personal spending money. While these amounts vary with each student, it can raise the total cost of education above the published tuition and room and board amounts. Fortunately, when computing a student’s financial need, we take all these costs into consideration.
 
-  **2015-2016 Financial Information**
+  **2016-2011 Financial Information**
 
-  TMC Online Program                                     Price
+  TMU Online Program                                     Price
 
   General Education Courses, per unit     $265
 
   Major Courses, per unit                                $450
-
-  Audit, per unit                                                  $35
 
   High School Students, per unit                $150
 
@@ -444,12 +442,7 @@ tuition-fees-body: |-
   Course and Notebook Computer Fees
   Some courses have specific fees, noted on the course schedule. All full-time students are required to have a notebook computer. Students must ensure their computer meets minimum configuration specifications. For more information, see [Computer Services](http://www.masters.edu/campuslinks/computerservices/studentcompinfo/notebookguide.aspx "Computer Services").
 
-  **Payment Plan Administrative Fee**
-
-  A fee of $85 per semester is charged if the student chooses the 5 month payment plan.
-
-
-  *The Master’s University reserves the right to change, without notice, any charges, fees or policies listed on this website.
+  \*The Master’s University reserves the right to change, without notice, any charges, fees or policies listed on this website.
 loans-body: |-
   ## Student Loans
 
