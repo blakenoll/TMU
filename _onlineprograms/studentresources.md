@@ -2,7 +2,7 @@
 title: Student Resources
 sm-image: "/uploads/AcademicsOnline_StudentResources.png"
 level: online
-policies-body:
+policies-body: 
 forms-body: '**[Add Drop Form](http://www.masters.edu/academics/online/add-drop-form/
   "Add Drop Form")**'
 register-body: |-
