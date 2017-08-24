@@ -103,7 +103,7 @@ insurance-body: |-
 
   To download Booklet click below for coverage, and plan details.
 
-  <a class="btn btn-navy" href="http://www.masters.edu/media/870170/web-final-1718-the-masters-unv-and-seminary-08082017-tg.pdf">TMU Medical Insurance</a>
+  <a class="btn btn-navy" href="http://www.masters.edu/media/870170/web-final-1718-the-masters-unv-and-seminary-08082017-tg.pdf">TMU Medical Booklet</a>
 meningitus-body: |-
   ### What is meningococcal disease?
 
