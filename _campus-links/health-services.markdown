@@ -15,7 +15,9 @@ forms-body: |-
 
   * Copy of current health insurance card (front and back)
 
-  If you are a new student, please email, fax, or mail signed copies of the Student Health Record with a copy of your immunization records and a copy of your medical insurance card to the Health Center as soon as possible.
+  If you are a new student, please email [Healthassistant@masters.edu](mailto:Healthassistant@masters.edu) , fax 661-362-2663, or mail signed copies of the Student Health Record with a copy of your immunization records and a copy of your medical insurance card to the Health Center as soon as possible to 21726 PLacerita Canyon Road, Santa Clarita, California 91321.
+
+  The health forms are PDFs that may be filled out electronically, note signatures are required.
 
   ## Health Form Due Dates
 
@@ -23,11 +25,11 @@ forms-body: |-
 
   Spring Semester December 31
 
-  ### [New Student Health Record](http://www.masters.edu/media/869198/tmu-new-student-health-record.pdf "TMU New Student Health Record.pdf")
+  ### [New Student Health Record](https://www.masters.edu/media/870270/new-student-health-record-081617.pdf)
 
-  ### [Immunization Waiver](http://www.masters.edu/media/866210/fillable-immunization-waiver-v2.pdf "Fillable Immunization Waiver - V.2.pdf")
+  ### [Immunization Waiver](https://www.masters.edu/media/869955/immunization-waiver.pdf)
 
-  ### [Additional for Intercollegiate Student-Athletes](http://www.masters.edu/athletics/athleticslinks/medical-forms/)
+  ### [Additional for Intercollegiate Student-Athletes](https://www.masters.edu/athletics/athleticslinks/medical-forms/)
 self-care-body: |-
   Students can use the Self-Care First Aid and Cold Center to treat ailments such as colds, minor aches and pains, and minor injuries. It is stocked with over-the-counter medications and first aid supplies. Please take only what supplies you need.
 
@@ -97,11 +99,11 @@ insurance-body: |-
 
   Click below for quick FAQs regarding the student plan and coverage.
 
-  \(button)
+  <a class="btn btn-navy"href="http://www.masters.edu/media/870115/the-masters-u-and-seminary-1718-flyer-073117-km-v6-to-client.pdf">TMU Medical Insurance</a>
 
   To download Booklet click below for coverage, and plan details.
 
-  \(button for booklet)
+  <a class="btn btn-navy"href="http://www.masters.edu/media/870170/web-final-1718-the-masters-unv-and-seminary-08082017-tg.pdf">TMU Medical Insurance</a>
 meningitus-body: |-
   ### What is meningococcal disease?
 
