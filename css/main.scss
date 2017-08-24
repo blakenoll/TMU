@@ -100,10 +100,13 @@ a {
 
 
 .pa-titles {
+  position: absolute;
   font-size: 30px !important;
-  top: 0;
-  bottom: none;
+  font-weight: 300;
+  width: 100%;
+  text-align: center;
   text-transform: uppercase;
+  color: #fff;
 }
 .program-title {
   font-size: 36pt;
