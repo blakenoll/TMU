@@ -2,10 +2,7 @@
 title: Student Resources
 sm-image: "/uploads/AcademicsOnline_StudentResources.png"
 level: online
-<<<<<<< HEAD
 layout: studentresources
-policies-body:
-=======
 policies-body: |-
   <h1 style="text-align: center;">Financial Information</h1>\
   <h2>Student Accounts</h2>\
@@ -104,7 +101,6 @@ policies-body: |-
   <p>Drops:</p>\
   <p>The student is responsible for submitting the add/drop form to their advisor. The add/drop will be effective based on the time-stamp of the email received by their advisor. <span>The add/drop will be effective based on the time-stamp of when the add/drop</span><span> from is submitted.</span></p>\
   <p> </p>
->>>>>>> 91923e2efa212bbe16d4553c18d04d077ba5010e
 forms-body: '**[Add Drop Form](http://www.masters.edu/academics/online/add-drop-form/
   "Add Drop Form")**'
 register-body: |-

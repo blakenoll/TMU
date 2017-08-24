@@ -20,7 +20,7 @@ layout: default
 
       </div>
       <div id="policies">
-        {{ page.policies-body | markdownify }}
+        {{ page.policies-body | markdownify | replace: '\', ' ' }}
 
       </div>
       <div id="forms">
