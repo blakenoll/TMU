@@ -1,5 +1,8 @@
 ---
 title: Bible
+tags:
+- Bible
+- bible
 sm-image: "/uploads/AcademicsUndergradIcons_Bible.png"
 description: "Standing firm on Christ & Scripture since 1927, there is no better place
   to study the Bible than at The Master’s University. We hold the Word of God as sufficient
