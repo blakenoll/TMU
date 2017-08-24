@@ -1,24 +1,204 @@
 <div class="parallax-container news-parallax center">
   <div class="parallax"><img src="{{'/images/Location.jpg' | prepend: site.url }}" alt="{{ page.title }} header-img"></div>
   <div class="container valign-wrapper" style="height: 100%">
-    <h1 class="program-title white-text">Something about LA location</h1>
+    <h1 class="program-title white-text">Located in Southern California</h1>
   </div>
 </div>
+
+<script type="text/javascript">
+function initMap() {
+
+  // Create a new StyledMapType object, passing it an array of styles,
+  // and the name to be displayed on the map type control.
+  var styledMapType = new google.maps.StyledMapType(
+    [
+      {
+        "featureType": "administrative",
+        "elementType": "all",
+        "stylers": [
+          {
+            "saturation": "-100"
+          }
+        ]
+      },
+      {
+        "featureType": "administrative.province",
+        "elementType": "all",
+        "stylers": [
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "landscape",
+        "elementType": "all",
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": 65
+          },
+          {
+            "visibility": "on"
+          }
+        ]
+      },
+      {
+        "featureType": "poi",
+        "elementType": "all",
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "lightness": "50"
+          },
+          {
+            "visibility": "off"
+          }
+        ]
+      },
+      {
+        "featureType": "road",
+        "elementType": "all",
+        "stylers": [
+          {
+            "saturation": "-100"
+          }
+        ]
+      },
+      {
+        "featureType": "road.highway",
+        "elementType": "all",
+        "stylers": [
+          {
+            "visibility": "simplified"
+          }
+        ]
+      },
+      {
+        "featureType": "road.arterial",
+        "elementType": "all",
+        "stylers": [
+          {
+            "lightness": "30"
+          }
+        ]
+      },
+      {
+        "featureType": "road.local",
+        "elementType": "all",
+        "stylers": [
+          {
+            "lightness": "40"
+          }
+        ]
+      },
+      {
+        "featureType": "transit",
+        "elementType": "all",
+        "stylers": [
+          {
+            "saturation": -100
+          },
+          {
+            "visibility": "simplified"
+          }
+        ]
+      },
+      {
+        "featureType": "water",
+        "elementType": "geometry",
+        "stylers": [
+          {
+            "hue": "#ffff00"
+          },
+          {
+            "lightness": -25
+          },
+          {
+            "saturation": -97
+          }
+        ]
+      },
+      {
+        "featureType": "water",
+        "elementType": "labels",
+        "stylers": [
+          {
+            "lightness": -25
+          },
+          {
+            "saturation": -100
+          }
+        ]
+      }
+    ],
+    {name: 'Map'});
+
+    // Create a map object, and include the MapTypeId to add
+    // to the map type control.
+    var myLatLng = {lat: 34.38247, lng: -118.519341};
+
+    var map = new google.maps.Map(document.getElementById('map'), {
+      center: myLatLng,
+      zoom: 8,
+      disableDefaultUI: true,
+      mapTypeControlOptions: {
+        mapTypeIds: ['styled_map']
+      }
+    });
+
+    var marker = new google.maps.Marker({
+      position: myLatLng,
+      map: map,
+      title: 'Pour Choice'
+    });
+
+    google.maps.event.addListener(marker,'click',function() {
+
+      window.open('https://www.google.com/maps/dir//177+Sacramento+St,+Auburn,+CA+95603/@38.8950185,-121.0801006,17z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x809b04d4de5fafbd:0xd57719a620023a88!2m2!1d-121.0779119!2d38.8950185', '_blank');
+});
+
+    //Associate the styled map with the MapTypeId and set it to display.
+    map.mapTypes.set('styled_map', styledMapType);
+    map.setMapTypeId('styled_map');
+  }
+
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCe0QLUb8ZYDCLL7Od30e1dZqO8TUp1gXo&callback=initMap"
+async defer></script>
+
+
 <div class="container">
-  <div class="row valign-wrapper">
-    <div>
-      <h1 class="center">Visit Masters</h1>
-    <div class="col s12 m4 center">
-      <a class="" href="{{ "/admissions/#visit" | prepend: site.url }}"><img src="{{ "/images/ViewWeekend_960x540.jpg "| prepend: site.url }}" alt="" width="100%"></a>
+  <div class="row">
+    <!-- <div class="col s12 m12 l4">
+      <div id="map" style="height: 500px; width: 100%;"></div>
+    </div> -->
+    <div class="col s12 m4">
+
     </div>
-    <div class="col s12 m4 center">
-      <a class="" href="#"><img src="{{ "/images/Mondays@Masters_960x540.jpg"| prepend: site.url }}" alt="" width="100%"></a>
-    </div>
-    <div class="col s12 m4 center">
-      <a class="" href="{{ "/images/PersonalizedTour_960x540.jpg" | prepend: site.url }}"><img src="{{ "/images/PersonalizedTour_960x540.jpg"| prepend: site.url }}" alt="" width="100%"></a>
-    </div>
-    </div>
+    <div class="col s12 m8 center">
+      <h2>Come Visit today</h2>
+      <div class="col s12 m12 l4">
+        <h3>Personalized Visit</h3>
+        <span>Schedule a Personalized Visit Today</span><br>
+        <a class="btn tbn-navy"href="#">Schedule Visit</a>
+      </div>
+      <div class="col s12 m12 l4">
+        <h3>Mondays at Master's</h3>
+        <span>Schedule a Personalized Visit Today</span><br>
+        <a class="btn tbn-navy"href="#">Sign Up</a>
+      </div>
+      <div class="col s12 m12 l4">
+        <h3>View the U</h3>
+        <span>Schedule a Personalized Visit Today</span><br>
+        <a class="btn tbn-navy"href="#">Sign Up</a>
+      </div>
 
 
+    </div>
   </div>
 </div>
