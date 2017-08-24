@@ -99,11 +99,11 @@ insurance-body: |-
 
   Click below for quick FAQs regarding the student plan and coverage.
 
-  <a class="btn btn-navy"href="http://www.masters.edu/media/870115/the-masters-u-and-seminary-1718-flyer-073117-km-v6-to-client.pdf">TMU Medical Insurance</a>
+  <a class="btn btn-navy" href="http://www.masters.edu/media/870115/the-masters-u-and-seminary-1718-flyer-073117-km-v6-to-client.pdf">TMU Medical Insurance</a>
 
   To download Booklet click below for coverage, and plan details.
 
-  <a class="btn btn-navy"href="http://www.masters.edu/media/870170/web-final-1718-the-masters-unv-and-seminary-08082017-tg.pdf">TMU Medical Insurance</a>
+  <a class="btn btn-navy" href="http://www.masters.edu/media/870170/web-final-1718-the-masters-unv-and-seminary-08082017-tg.pdf">TMU Medical Insurance</a>
 meningitus-body: |-
   ### What is meningococcal disease?
 
