@@ -52,6 +52,13 @@ contact-body: |-
 
   Santa Clarita, CA 91321
 audition-body: 
+current-play:
+  image: 
+  title: OVER THE RIVER AND THROUGH THE WOODS
+  body: |-
+    By Joe DiPietroPresented by special arrangement with Dramatists Play Service, Inc. New York
+
+    Nick visits his grandparents in Hoboken, NJ every Sunday for dinner. But what lengths will his grandparents go to keep him from moving to Seattle? As they plan blind dates and tempt him with never-ending, mouthwatering meals, Nick has to evaluate what is important in life and learn to count the cost of his decisions. This show promises gut-wrenching laughter and a story that pulls on your heartstrings and causes you to consider, along with Nick, what matters most in life.
 layout: theater
 ---
 
