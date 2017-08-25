@@ -374,7 +374,7 @@ music-orders:
 upcoming-events:
 - title: Songs from the Heart" Piano Concert
   date: 2017-09-08 00:00:00 Z
-  description: "***featuring Dr. Ken Mays and TMU Alumni***"
+  description: featuring Dr. Ken Mays and TMU Alumni
 - title: Music Career Meeting with Stephanie Beals
   date: 2017-09-12 00:00:00 Z
   description: Time Management
