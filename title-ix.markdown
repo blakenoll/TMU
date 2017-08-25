@@ -1,6 +1,7 @@
 ---
 title: Title IX
 date: 2017-08-25 17:07:00 Z
+layout: page
 ---
 
 ## Title IX
