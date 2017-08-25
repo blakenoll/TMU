@@ -126,6 +126,15 @@ blockquote {
 }
 .program-title {
   font-size: 36pt;
+
+  span {
+    color: #DAAA00;
+    font-weight: bold;
+  }
+
+  small {
+    font-size: 50%;
+  }
 }
 
 .btn-navy {
