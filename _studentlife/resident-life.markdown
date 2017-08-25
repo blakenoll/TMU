@@ -7,7 +7,7 @@ intro-body:
 community-covenant-body: 
 deans:
 - name: Dr. Joe Keller
-  title: Vice President of Student Life
+  title: Dean of Students
   image: 
   body-text: |-
     Joe Keller joined The Master's University in 1996, where he currently serves as the Vice President of Student Life and teaches in the Biblical Counseling Department. He completed his undergraduate degree at The Master's University, his Master of Divinity degree at The Master’s Seminary, and his Doctor of Ministry degree at Westminster Theological Seminary.
