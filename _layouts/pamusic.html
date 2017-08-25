@@ -75,10 +75,11 @@ layout: default
                         <div class="col s12 l6">
                            <div class="card horizontal">
                               <div class="card-image">
-                                 <img src="http://lorempixel.com/200/200/nature/6">
+                                 <img src="{{ album.album-image }}" style="width: 150px;">
                               </div>
                               <div class="card-stacked">
                                  <div class="card-content">
+                                    <h4>{{ album.name}}<br><small>{{ album.artist }}</small></h4>
                                     <ol class="browser-default">
                                        {% for track in album.tracks %}
                                        <li>{{ track }}</li>
@@ -86,7 +87,7 @@ layout: default
                                     </ol>
 
                                  </div>
-                                 <div class="card-action">
+                                 <div class="card-action right-align">
                                     <a href="#">Order</a>
                                  </div>
                               </div>
