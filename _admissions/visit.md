@@ -1,7 +1,47 @@
 ---
 title: Visit
 position: 4
-View-The-U-body: test
+View-The-U-body: |-
+  ## View The U
+
+  A TMU View Weekend is an unforgettable opportunity for prospective students to experience dorm life and attend classes, chapel services, and intercollegiate athletic events.
+
+  You will also be able to see our faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
+
+  *Registration open beginning of school year*
+
+  ## Schedule
+
+  October 26 - October 27, 2017
+
+  ### Thursday, October 26th
+
+  6:30-7:30pm Check-in\
+  8:00pm Night of Welcome
+
+  ### Friday, October 27th
+
+  7:00-9:00am Breakfast in the Mustang Grill (Students)\
+  8:00-9:00am Class Visits (Students)\
+  8:00am Breakfast with the Vice President (Parents)\
+  9:10-10:25am Chapel (All)\
+  10:40am Select 1 (Campus Tour/ Class Visit)\
+  11:45am Select 1 (Campus Tour/ Class Visit/Student Lunch)\
+  12:50pm Select 1 (Campus Tour/ Class Visit/Student Lunch)\
+  12:45-2:00pm Student Life Luncheon (Parents)\
+  2:10-3:10pm Admissions & Financial Aid Seminar (All)\
+  3:15-4:30pm “Meet the Majors” Academic Department Fair (All)\
+  5:00-6:00pm Dinner in the Mustang Grill (Students)\
+  6:30-9:30pm Unfiltered Summit \
+  \
+
+  ## Important Information for Registrants:
+
+  All overnight visitors need to bring a sleeping bag and pillow. Any additional overnight evenings in the dorm will cost $10 per night. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](http://www.masters.edu/hotels)page to plan overnight housing at a local area hotel.
+
+  TMU is only able to provide airport transportation for students flying unaccompanied. If possible, please make all attempts to fly into [Burbank Airport](http://www.burbankairport.com/) (BUR).
+
+  If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page for booking information. Complimentary campus parking passes are available [here](http://www.masters.edu/media/683327/CVW%20Parking%20Pass.pdf).
 Personal-Visit-body: |-
   We Want You On Campus!
 
