@@ -1,7 +1,7 @@
 ---
 title: 'A Student''s Perspective: TMU Italy'
 date: 2017-08-25 23:37:00 Z
-author: Kieth Brooks
+author: Sabrina Michael
 catergory: TMU Abroud
 sm-image: http://www.masters.edu/media/870160/tmuitaly.jpg
 ---
