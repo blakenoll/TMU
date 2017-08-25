@@ -19,6 +19,7 @@ layout: default
       </div>
     </div>
       <div class="col s12 m12 l10">
+        {{ paginator.total_posts }}
         {% for post in site.posts %}
         <div class="col s12 m6 l4 image">
           <a href="{{ post.url | prepend: site.url }}">
@@ -32,8 +33,6 @@ layout: default
         {% endfor %}
 
       </div>
-
-
   </div>
 
 
