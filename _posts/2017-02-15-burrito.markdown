@@ -18,7 +18,7 @@ image: "/images/Parallax_Focus.jpg"
 sm-image: http://www.masters.edu/media/869871/richardson.jpg
 ---
 
-Master’s was my last choice. Not only was it my last choice, but it was the only choice I tried to run away from.
+> Master’s was my last choice. Not only was it my last choice, but it was the only choice I tried to run away from.
 
 I have been around this school my entire life. I was born and raised in the Santa Clarita Valley. I grew up going to Placerita Bible Church, which is next to Masters, for the first seventeen years of my life. My parents were involved in the college group, my dad is an adjunct professor at Master’s, my mom would eventually work here for a period of time, and both my siblings went to the college. I cannot remember a time that I didn’t know of Master’s.
 
