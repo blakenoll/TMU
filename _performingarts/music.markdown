@@ -306,11 +306,71 @@ youth-programs:
 music-orders:
 - name: Praise His Holy Name! (2016)
   artist: The Master's University Choral
-  album-image: 
+  album-image: http://www.masters.edu/media/867781/screen-shot-2016-05-10-at-115204-am.png
   tracks:
   - Doxology
   - Gracious Lord Thy Name is Love
   - Holy, Holy, Holy
+  - Sicut Cervus
+  - A Jubilant Song
+  - O Mary Don't You Weep
+  - And Can It Be?
+  - Praise His Holy Name!
+- name: And Can It Be (2014)
+  artist: The Master's University Chorale
+  album-image: http://www.masters.edu/media/865373/screen-shot-2015-02-04-at-13447-pm.png
+  tracks:
+  - God is My Rock
+  - And Can it Be
+  - Hark, I Hear the Harps Eternal
+  - O Love that Will Not Let Me Go
+  - Lamentations of Jeremiah
+  - Great is Thy Faithfulness
+  - My Soul's Been Anchored in the Lord
+  - Good Night, Dear Heart
+  - Cry No More
+  - Psalm 23
+  - Witness
+- name: Stand Among the Millions (2014)
+  artist: Majesty
+  album-image: http://www.masters.edu/media/865374/screen-shot-2015-02-04-at-13816-pm.png
+  tracks:
+  - Immortal Invisible
+  - There is a Higher Throne
+  - Pour My Love on You
+  - Nearer, Still Nearer
+  - All People That On Earth Do Dwell
+  - 'I Then Shall Live  '
+  - Jesus Saves
+  - Stand Among the Millions
+- name: Make a Joyful Noise Unto the Lord (2012)
+  artist: Featuring Musicians from The Master's University Department of Music
+  album-image: http://www.masters.edu/media/302329/music-samples-makeajoyfulnoise_200x176.jpg
+  tracks:
+  - Fantasia in G, The Master's University Wind Ensemble
+  - I Will Rise, Majesty
+  - Come Thou Fount, Concert Handbell Ensemble
+  - Voice Dance, The Women's Chamber Choir
+  - Brooke Green Suite, Chamber Orchestra
+  - For at last shall the trumpet sound, University Singers, Orchestra & Jason Hendrickson,
+    soloist
+  - Sonata in D Major, K448, Piano Ensemble
+  - John Saw de Numbuh, The Master's University Chorale
+  - The Four of Us, TMU Big Band
+- name: 'Clips from How Great Thou Art (2011):'
+  artist: The Master's University Chorale
+  album-image: http://www.masters.edu/media/40413/music-samples-mp3cover_200x176.jpg
+  tracks:
+  - How Great Thou Art
+  - Twa Tanbou
+  - Pilgrims' Hymn
+  - Gracious Lord Thy Name is Love
+  - Achieved is the Glorious Work
+  - The Conversion of Saul
+  - The Eyes of All
+  - Sicut Cervus
+  - When David Heard
+  - Soon-Ah Will Be Done
 layout: pamusic
 ---
 
