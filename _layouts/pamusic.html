@@ -33,7 +33,7 @@ layout: default
               <h2>Upcoming Events</h2>
               <ul>
                  {% for event in page.upcoming-events %}
-                 <li>{{ event.title}}<br>{{ event.date }}</li>
+                 <li><h3>{{ event.title}}</h3> {{ event.date | date: "%a, %b %d, %Y" }}<br><p>{{ event.description | markdownify }}</p></li>
                  {% endfor %}
               </ul>
             </div>
