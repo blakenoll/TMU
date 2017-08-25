@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 date: 2017-08-25 17:20:00 Z
+layout: page
 ---
 
 ## TMU Privacy Policy
