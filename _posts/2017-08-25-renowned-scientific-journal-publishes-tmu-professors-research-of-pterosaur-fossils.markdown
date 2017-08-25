@@ -1,0 +1,19 @@
+---
+title: Renowned Scientific Journal Publishes TMU Professor's Research of Pterosaur
+  Fossils
+date: 2017-08-25 23:17:00 Z
+author: Sabrina Michael
+sm-image: http://www.masters.edu/media/870175/sciencejournal.jpg
+---
+
+TMU professor, Dr. Matthew McLain, and his coauthor Robert Bakker from the Houston Museum of Natural Science have just published a new paper on pterosaurs ([/ˈtɛrəˌsɔːr, ˈtɛroʊ-/](https://en.wikipedia.org/wiki/Help:IPA/English)). Pterosaurs, or pterodactyls as you may know them, are extinct flying reptiles. We only know about pterosaurs because paleontologists find their fossils in Mesozoic (Triassic, Jurassic, and Cretaceous) rocks. Although many people think of pterodactyls as a type of dinosaur, this is actually incorrect. Both pterosaurs and dinosaurs are reptiles, but that doesn’t mean that pterosaurs are dinosaurs. After all, you’d never call a bat a type of monkey just because they’re both mammals.
+
+McLain and Bakker’s new paper describes pterosaur bones discovered in the Upper Jurassic Morrison Formation of Colorado. The Morrison is well known for its large dinosaurs, Brontosaurus, Brachiosaurus, and Apatosaurus, but there are also many small fossils including freshwater mollusks, fish, and pterosaurs. Although many of the pterosaur bones are broken, they are well-preserved in three-dimensions, which is rare for pterosaurs. Initially, the authors suspected that all of the bones may have come from the same species, but upon closer inspection they concluded that at least three different families of pterosaurs were represented.
+
+Notable among the fossils are two interesting discoveries. First, McLain and Bakker described two examples of a femur (thigh bone) with a hole at the bottom. Like in birds, some bones in pterosaurs had holes that allowed for air sacs connected to the lungs to invade their hollow bones, which is technically referred to as pneumatization. However, which bones were pneumatized differed from family to family among pterosaurs. Very few pterosaurs have pneumatized hind limbs, and all of the previously known examples came from Cretaceous rocks. This is the first example of pneumatized hind limbs found in Jurassic sediments. Additionally, this femur doesn’t belong to one of the groups that is previously known to have pneumatized thigh bones. That means that more pterosaur groups had air sacs in their hind limbs than scientists previously expected.
+
+The second fascinating discovery among the bones were some peculiar teeth. Unlike most pterosaur teeth, these teeth are not circular when viewed from above, but oval-shaped. Also, the teeth are recurved, which means that they point backwards. Recurved teeth are known from some other pterosaurs, but in those examples the teeth always gradually curve from their base to their tip. However, in this specimen, the teeth have a distinct bend with an associated change in angle. The authors are fairly confident that these teeth represent a new species of pterosaur.
+
+These discoveries give us a richer picture of pterosaur diversity from the Morrison Formation. Other Jurassic sites, such as the Solnhofen Limestone in Germany, show a great amount of pterosaur diversity, so it is not too surprising to see something similar in the Morrison. It was very surprising, however, to see these femur and tooth peculiarities, which gave these scientists a small, tantalizing glimpse into the unknown. There’s still so much more to discover out there, and it’s fossils like these that keep paleontologists digging.
+
+McLain and Bakker’s paper will be included in an upcoming book entitled New Perspectives on Pterosaur Palaeobiology published by the Journal of the Geological Society of London Special Publications.
