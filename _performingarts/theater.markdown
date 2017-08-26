@@ -1,5 +1,5 @@
 ---
-title: Theater
+title: Theatre Arts
 date: 2017-04-18 20:21:00 Z
 parallax-img: "/images/Parallax10.jpg"
 about-us-body: |-
@@ -58,9 +58,7 @@ current-play:
   body: |-
     By Joe DiPietro
 
-
     Presented by special arrangement with Dramatists Play Service, Inc. New York
-
 
     Nick visits his grandparents in Hoboken, NJ every Sunday for dinner. But what lengths will his grandparents go to keep him from moving to Seattle? As they plan blind dates and tempt him with never-ending, mouthwatering meals, Nick has to evaluate what is important in life and learn to count the cost of his decisions. This show promises gut-wrenching laughter and a story that pulls on your heartstrings and causes you to consider, along with Nick, what matters most in life.
 layout: theater
