@@ -1,6 +1,6 @@
 ---
 title: One Thing This Summer
-date: 2017-08-25 23:53:00 Z
+date: 2017-06-20 23:53:00 Z
 author: Sabrina Michael
 sm-image: http://www.masters.edu/media/870004/onething.jpg?width=500&height=320.03546099290776
 ---
