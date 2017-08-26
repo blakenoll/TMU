@@ -1,6 +1,6 @@
 ---
 title: More Than A Game
-date: 2017-08-25 23:54:00 Z
+date: 2017-06-13 23:54:00 Z
 author: Sabrina Michael
 sm-image: http://www.masters.edu/media/869979/game.jpg
 ---
