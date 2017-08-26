@@ -51,7 +51,62 @@ contact-body: |-
   21726 Placerita Canyon Rd. #13
 
   Santa Clarita, CA 91321
-audition-body: 
+audition-body: |-
+  ## Auditions for **OVER THE RIVER & THROUGH THE WOODS**
+
+  SYNOPSIS: Nick visits his grandparents in Hoboken, NJ every Sunday for dinner. But what lengths will his grandparents go to to keep him from moving to Seattle?! As they plan blind dates and tempt to lure him with never-ending, mouthwatering meals, Nick has to evaluate what is really important in life and learn to count the cost of his decisions. We can promise gut-wrenching laughter along with a story that pulls on your heartstrings and calls each member of the audience to consider along with Nick as sees things from a different perspective than he originally intended.
+
+  ### Tuesday or Wednesday, August 29 or 30, 2017
+
+  * Time: 7:00pm – 10:00pm
+
+  * Location: MC101
+
+  * Callbacks - Thursday, August 31 at 8:00pm in MC101
+
+  * Read-Through - Saturday, September 2 at 6:30pm in MC101
+
+  * NOTE: You can audition either Tuesday or Wednesday night!
+
+  ### Details:
+
+  * Auditions are open to all traditional TMU Students of all majors/disciplines/years!
+
+  * Cast Auditions/Crew Applications: You can audition/apply either night, Tuesday or Wednesday and you can come any time between 7-10. Once you arrive, you will fill out an audition/crew application form and sign up for an audition slot (actors only). Each acting audition will last approx. 10 minutes.
+
+    * Acting audition - cold read – chosen by the directors from the script depending on the part you are auditioning for. We do this intentionally to keep everyone on the same page. There will be scripts in the lobby during auditions for those of you who feel that they struggle to read out loud and would like a few minutes to become familiar with the story/characters, as well as there are 2 scripts on reserve in the library now.\
+
+
+  * Rehearsals: Mondays & Wednesday 7:00-10:30pm - Approx 4 extra rehearsals will be scheduled on either Tuesday or Thursday nights. All involved in the production (cast and crew) will receive up to 1unit of credit and must enroll for TH300. This is good to have on your transcript! If you want to be in the CAST please have a plan for no night classes on the evenings listed above.
+
+
+  * TMU Fac/Staff and TMU Online students are welcome to audition with the understanding that if a current traditional student is as capable of playing the part, they will always take precedence. Email directors for special Fac/Staff/Online Audition slot
+
+  ### Looking for:
+
+  * Looking for: 3 Men and 3 Women for a variety of FUNNY and RICH characters to bring to life this hysterical story. The actors must be able to play a wide variety of ages. The roles are genuine, humorous and relatable. New Jersey accents are preferred. OVER THE RIVER offers actors an opportunity to be a part of a wonderfully funny, warm and real story of love, character and values that will impact audiences in a theatre program that will push them towards Christ!
+
+  ### Production Opportunities:
+
+  * There are many opportunities to serve on production crews in the following areas.
+
+  * *You must come to auditions to fill out an application for production crew and then you will be notified when the crews are chosen.*
+
+    * Makeup | Hair
+
+    * Costuming
+
+    * Set Building & Design
+
+    * Props
+
+    * Photography | Videography | Social Media Marketing
+
+    * House Crew
+
+    * Tech Crew
+
+  ### Please email us at [theatre@masters.edu](mailto:theatre@masters.edu) or call us at 661-362-2255 with any questions
 current-play:
   image: 
   title: OVER THE RIVER AND THROUGH THE WOODS
