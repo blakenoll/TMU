@@ -6,7 +6,7 @@
           <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.title }}">
           <div class="caption right-align">
             <span>{{ banner.description}}</span>
-            <a class="waves-effect waves-light btn btn-white">{{ banner.button-text }}</a>
+            <a href="{{ banner.link }}"class="waves-effect waves-light btn btn-white">{{ banner.button-text }}</a>
           </div>
         </li>
       {% endfor %}
