@@ -1,6 +1,6 @@
 ---
 title: 'Dr. Abner Chou: the Student, the Teacher, the Fellow'
-date: 2017-08-25 23:49:00 Z
+date: 2017-08-02 23:49:00 Z
 author: Sabrina Michael
 sm-image: http://www.masters.edu/media/870112/abner.jpg?width=500&height=319.77559607293125
 ---

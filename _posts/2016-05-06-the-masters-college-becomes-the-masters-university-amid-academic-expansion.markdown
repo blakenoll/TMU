@@ -1,6 +1,7 @@
 ---
 title: The Master's College becomes The Master's University amid academic expansion
 date: 2016-05-06 00:08:00 Z
+sm-image: http://masters.edu/media/868025/collegekids-1.jpg
 ---
 
 The Master's College and Seminary Board of Directors voted unanimously on May 6, 2016 to change the name of The Master’s College to The Master’s University. The decision comes as a result of increasing academic growth in the school’s undergraduate and graduate divisions as well as the recent launch of numerous online degree programs that have attracted students from all around the world.
