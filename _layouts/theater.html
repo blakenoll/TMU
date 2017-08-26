@@ -57,22 +57,30 @@ layout: default
   </ul>
   </div>
   <div class="col s12 m3 center">
-    <h3>Past Shows</h3>
+    <h3>Recent Shows</h3>
     <!-- Modal Trigger -->
-
+    {% for show in page.past-performances %}
     <a class="center" href="#modal1">
-      <img class="card" src="https://dummyimage.com/800x500/oc2340/fff.jpg" alt="" width="100%">
+      <img class="card" src="{{ show.image | prepend: site.url }}" alt="" width="100%">
     </a>
     <!-- Modal Structure -->
     <div id="modal1" class="modal">
       <div class="modal-content">
-        <h4>Show Title</h4>
-        <p>Description</p>
+        <div class="row">
+          <div class="col s6">
+            <h4>{{ show.title}}</h4>
+            <p>{{ show.body | markdownify }}</p>
+          </div>
+          <div class="col s6">
+            <img src="{{ show.tall-image | prepend: site.url }}" alt="" width="100%">
+          </div>
+        </div>
       </div>
       <div class="modal-footer">
         <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
       </div>
     </div>
+    {% endfor %}
   </div>
 </div>
 
