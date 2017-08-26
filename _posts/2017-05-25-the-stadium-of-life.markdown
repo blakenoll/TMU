@@ -1,6 +1,6 @@
 ---
 title: The Stadium of Life
-date: 2017-08-26 00:14:00 Z
+date: 2017-05-25 00:14:00 Z
 author: Sabrina Michael
 sm-image: http://www.masters.edu/media/869934/stadium.jpg
 ---
