@@ -1,5 +1,5 @@
 ---
-title: Theater
+title: Theatre Arts
 date: 2017-04-18 20:21:00 Z
 parallax-img: "/images/Parallax10.jpg"
 about-us-body: |-
