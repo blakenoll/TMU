@@ -228,7 +228,7 @@ intl:
 intl-counselor:
   name: Joshua English
   title: 
-  bio-body: Bio...
+  bio-body: 
   img: "/images/IMG_1046.JPG"
 layout: default
 ---
