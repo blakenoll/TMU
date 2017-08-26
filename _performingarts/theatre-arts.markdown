@@ -81,7 +81,7 @@ past-performances:
     See photos on our [Facebook ](https://www.facebook.com/tmctheatrearts/photos_stream?tab=photos_albums "TMC Theatre Arts")page
 
     Contact the Box Office at 661.362.2255 or [theatre@masters.edu](mailto:theatre@masters.edu) for more information
-- title: You Cant Take it With You
+- title: You Can't Take it With You
   image: "/images/YCTIWY_1600x1000.jpg"
   tall-image: "/images/YCTIWY_1200x1600.jpg"
   body: |-
