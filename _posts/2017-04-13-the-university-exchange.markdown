@@ -1,6 +1,6 @@
 ---
-title: The University Exchange
-date: 2017-01-31 00:56:00 Z
+title: 'Senior Memoir: Jason Karkenny'
+date: 2017-04-13 00:56:00 Z
 categories:
 - src
 preview-text: Deciding where to go to college is one of the most important choices
@@ -8,6 +8,7 @@ preview-text: Deciding where to go to college is one of the most important choic
   be a driving factor in choosing a school. For the first time we are on our own,
   every decision impacting the person we will become
 author: Sabrina Michael
+catergory: Senior Memoir
 image: "/uploads/TMUQuote%20copy.jpg"
 sm-image: https://www.masters.edu/media/869824/karkenny.jpg
 layout: news
