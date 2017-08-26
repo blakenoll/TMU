@@ -5,7 +5,7 @@ image: "/images/Dorm_Sweazy.png"
 banner-img: "/images/Sweazy_Banner.jpg"
 ---
 
-Sweazy was completed in 1990 as part of an expansion project to accomodate the growing student population following Dr. John MacArthur's coming as President of the school in 1985. Dixon and Waldock Halls were a part of that expansion as well. The hall is named after Carl M. Sweazy, a professor at the school in the 1940's and 50's. He was the school's president from 1955-1959. He was instumental in bringing several other prominent faculty to the school including Milton Fish and Herbert Hotchkiss. These men together would bring the school through a tenuous time of financial pressure and external pressure to merge with another Baptist college.
+Sweazy was completed in 1990 as part of an expansion project to accomodate the growing student population following Dr. John MacArthur's coming as President of the school in 1985. Dixon and Waldock Halls were a part of that expansion as well. The hall is named after Carl M. Sweazy, a professor at the school in the 1940's and 50's. He was the school's president from 1955-1959. He was instrumental in bringing several other prominent faculty to the school including Milton Fish and Herbert Hotchkiss. These men together would bring the school through a tenuous time of financial pressure and external pressure to merge with another Baptist college.
 
 ## What is Sweazy Hall like?
 
