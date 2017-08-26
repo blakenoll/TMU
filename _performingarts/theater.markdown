@@ -67,11 +67,33 @@ past-performances:
 - title: Northanger Abbey
   image: "/images/NA_1600x1000.jpg"
   tall-image: "/images/NA_1200x1600.jpg"
-  body: 
+  body: |-
+    Directed & Produced by Tricia Hulet
+
+    James Phillipps, AD and Elisa Adams AD
+
+    ### March 24, 25, 31 & April 1 2017
+
+    Jane Austen wrote "Northanger Abbey" in a time when the overly dramatic Gothic Literature was quite in fashion and she observed the dangers of young people becoming too immersed in their novels. This story followed one such young woman named Catherine, making her first expedition out into the world. She interacts with real people in the real world while struggling to control an imagination that had been influenced by too many novels. This specific play was especially impactful in telling this story as it had a group of characters that depicted Catherine's thoughts/imaginations/mind. The climax of the story came after Catherine was painfully confronted by a true friend and asked "what ideas have you been admitting?" There was then a scene where she visibly had to take her thoughts captive and banish the undisciplined thoughts from her mind. The overwhelming majority of audience members were quite struck by this theme and many even used the word "convicted" by it, along with the themes of developing true character, having friends who speak the truth and not flattery, and more.
+
+    CAST: Micaiah Christopher, Rebecca Laird, Joshua Nelson, Rebeqah James, Kaitlynn Morgan, Abigail Olson, Jon Denys, Kailey Richardson, Luke Bailey, Daniel Barulich, Seth Bowling, Katie Pennington, Beth Cathcart, Faith Gates, Peter LaCom, Jennifer Martin, Christina Meitler, Jubilee Philipp, Dustin Dudley, Jeff Caparula, Robbie Provost and 40\+ others on our production crew!
+
+    See photos on our [Facebook ](https://www.facebook.com/tmctheatrearts/photos_stream?tab=photos_albums "TMC Theatre Arts")page
+
+    Contact the Box Office at 661.362.2255 or [theatre@masters.edu](mailto:theatre@masters.edu) for more information
 - title: You Cant Take it With You
   image: "/images/YCTIWY_1600x1000.jpg"
   tall-image: "/images/YCTIWY_1200x1600.jpg"
-  body: 
+  body: |-
+    Directed & Produced by Tricia Hulet
+
+    James Phillipps, AD and Elisa Adams AD
+
+    ### October 21, 22, 28, 29 2016
+
+    Audiences adored this classic comedy of errors! "You Can't Take It With You" delivered a fun, entertaining evening for all! Set in 1930's New York City, the Sycamore family, filled with aspiring artists, ballerinas, writers, inventors, amateur firework makers and more, seems a bit crazy! Especially when compared to the upper-crust, reliable, respectable Kirby family. But when Tony Kirby falls in love with Alice Sycamore, we start to wonder if perhaps the Sycamores have life figured out more than we think! After all, you can have all the riches in the world, but you can't take it with you!
+
+    CAST: Daniel Barulich, KariAnne Frazer, Emilio Gutierrez, Jubilee Philipp, Jeff Caparula, Christina Meitler, Luke Bailey, Ryan Selga, Kailey Richardson, Rebecca Meitler, Chandler Johnston, Kyle Shannon, Joshua Nelson, Tamar Butler-Robinson, Elizabeth Anderson, Peter LaCom and 38 others on our production crew!
 layout: theater
 ---
 
