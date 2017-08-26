@@ -1,12 +1,6 @@
 ---
 title: 'Senior Memoir: Kailey Richardson'
-date: 2017-02-15 22:24:00 Z
-categories:
-- src
-tags:
-- bible
-- blake
-- fun
+date: 2017-05-01 22:24:00 Z
 preview-text: Master’s was my last choice. Not only was it my last choice, but it
   was the only choice I tried to run away from.  I have been around this school my
   entire life. I was born and raised in the Santa Clarita Valley. I grew up going

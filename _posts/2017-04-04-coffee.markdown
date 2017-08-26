@@ -1,14 +1,13 @@
 ---
 title: TMU Students Present Research at Nationally Recognized Science Conference
-date: 2017-02-13 22:15:00 Z
-categories:
-- src
+date: 2017-04-04 22:15:00 Z
 preview-text: "“Research is the undergirding of science… It is a publish or perish
   field,” said Dr. Joe Francis, chair of The Master’s University Department of Biological
   and Physical Sciences. This well-known fact among the science community is the driving
   force behind the Annual West Coast Biological Sciences Undergraduate Research Conference
   (WCBSURC for short) held April 22, 2017"
 author: Sabrina Michael
+catergory: Events
 image: "/uploads/TMUQuote%20copy.jpg"
 sm-image: https://www.masters.edu/media/869841/science.jpg
 ---

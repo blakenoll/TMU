@@ -1,6 +1,6 @@
 ---
 title: 'Adam Ashoff: An Introduction'
-date: 2017-08-25 23:12:00 Z
+date: 2017-08-14 23:12:00 Z
 author: Sabrina Michael
 sm-image: http://www.masters.edu/media/870176/ashoff.jpg
 ---

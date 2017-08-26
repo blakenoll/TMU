@@ -1,8 +1,6 @@
 ---
 title: Dr. John Stead Named TMU Provost
-date: 2017-01-31 01:15:00 Z
-categories:
-- src
+date: 2017-04-17 01:15:00 Z
 preview-text: The Master’s University is pleased to announce the appointment of Dr.
   John Stead to the position of Senior Vice President and Provost. With a doctorate
   from the University of Southern California in the triumvirate of American politics,

@@ -1,20 +1,7 @@
 ---
-title: Welcome to Jekyll!
-date: 2017-01-12 21:51:00 Z
-categories:
-- src
-- jekyll
-- update
-preview-text: "“I want to mimic what Jake \\[Litwin\\] said on Monday and thank the
-  Bible Department for allowing me to have this opportunity,” said Nate Youtzy, his
-  deep voice booming as he opened his Spurgeonfest sermon. According to Pastor John
-  Piper, Charles H. Spurgeon is “considered by many to be one of the greatest preachers
-  since the days of the apostles,” having preached over 600 times before the age of
-  20. Named in reference to this famous and very quotable preacher"
-author: Blake Noll
-image: "/uploads/TMUQuote%20copy.jpg"
-sm-image: https://www.masters.edu/media/869762/spurgeonfest.jpg
-layout: news
+title: Spurgeonfest
+date: 2017-03-31 00:26:00 Z
+sm-image: http://www.masters.edu/media/869762/spurgeonfest.jpg
 ---
 
 “I want to mimic what Jake \[Litwin\] said on Monday and thank the Bible Department for allowing me to have this opportunity,” said Nate Youtzy, his deep voice booming as he opened his Spurgeonfest sermon.
@@ -25,7 +12,7 @@ The Biblical Studies Department along with the leadership of Student Life “tho
 
 Nominated and selected by the Bible faculty based on their achievement in the Sermon Preparation course, reputation in the department and credibility around campus, students consider it quite an honor to speak to their peers and represent the department. The two speakers selected this year? Jake Litwin and Nate Youtzy.
 
-![](https://www.masters.edu/media/869762/spurgeonfest.jpg?width=500&height=320)
+![](http://www.masters.edu/media/869762/spurgeonfest.jpg?width=500&height=320)
 
 Litwin, a resident assistant in C.W. Smith Hall, spoke Monday using 1 Corinthians 1:18-31 as his text, reminding himself and his audience to not follow the world’s wisdom but be confident in the wisdom of God and His saving gospel.
 

@@ -1,0 +1,25 @@
+---
+title: 'The Master''s University: Italy'
+date: 2016-10-28 00:40:00 Z
+catergory: TMU Abroud
+sm-image: http://masters.edu/media/868696/tmuitalia_graphic.jpg
+---
+
+\
+![](http://masters.edu/media/868700/13901995_10209708102796609_954218276_o.jpg)
+
+Each morning the residents of Florence, Italy, have heard the deep bronze song of ancient cathedral bells, making it hard at times to know with certainty in what century one has been awakened. All who visit this magical city—past, present, and future—have shared this sunrise ritual for generations. Not much has changed in Firenze since the 1400s. Visitors to what has been called the most beautiful city in the world have seen the lush Tuscan hills and marveled at the red-tiled roofs held up by their pale yellow walls, and many have sought rest under the shadow of the towering 376-foot Duomo, the cathedral of Santa Maria del Fiore, which stands watch over the city.
+
+Standing in that cool shade of the Duomo’s green, white, and pink marble edifice, if you were to walk northeast on the cobbled streets—the same streets artists like Da Vinci, Michelangelo, John Milton, and Robert and Elizabeth Barrett Browning walked—you would find yourself in front of the Galleria dell’Accademia. This long rectangular building was the original workshop of Michelangelo and houses his best-known work, the massive marble David.
+
+To say David is the crowning achievement of Michelangelo’s works, or even a summation of Renaissance art, would be an understatement. But though it is the most famous landmark in Florence, it is not alone. Merely walking from the Duomo to the statue you pass by centuries of history. If one were to continue strolling they could see the entirety of Florence in a single day, from the Centro Storico (the historic central city) to six major cathedrals and churches, along with several of the greatest museums in Europe. But such a tour would be far too brief: you could spend a year in Florence and still be discovering tiny nooks and interesting crannies. Is this Dante’s house? The Medici palace? Galileo’s home—and his tomb? Did Machiavelli live here?
+
+![](http://masters.edu/media/868704/13681925_10209708343362623_742451475_o.jpg)
+
+The Master’s University, under the leadership of Professors Grant Horner and Esther Chua, has opened a six-week summer program, where students will live in a Renaissance Villa in Florence. This is no trip: it is a fully functioning residency program, much like IBEX, allowing students an immersive study-abroad cultural experience. Using this central location as a meeting place, a kind of open-air classroom, students will encounter the very epicenter of modern Western culture, for Florence is the birthplace of the modern world. They may, in the garden of their villa, study World History, Shakespeare, or Ovid and Classical Mythology. In a Florentine café, over a cappucino, they will read and discuss Homer, Virgil, Milton, and Dante with Professor Horner in an Oxford-style tutorial. Prof Chua will teach the Brownings in the heart of the city they loved so much that they abandoned England for—and are now buried there. They will travel to the “eternal city” of Rome and see the Colosseum, the Roman Forum, the Pantheon, Paul’s cell in the Mamertine Prison, and the Vatican, with its endless museums and Sistine Chapel. In Venice, perhaps after studying introductory Latin and floating along magical canals, they will work to read the ancient inscriptions on the gold covered walls in the thousand-year-old St. Mark’s Basilica.
+
+In six intensive weeks, students will earn twelve undergraduate credits: both Gen-Ed courses and Upper-Division tutorials. What better location to consider the great question of the Renaissance “quid est homo?” (what is Man?) … Or more importantly, the related biblical one “what is man that Thou art mindful of him” (Ps. 8)? This opportunity is a hands-on learning experience where, like Michelangelo with his David, students will be sculpting, shaping, and refining their own minds, values, and view of the world. Each student will gain a better understanding of their place and role in history, and ultimately, as Horner hopes, “glorify God in Christ by careful study of the humanities, and its object—man—in the very location where such study originated . . . we hope to produce students informed about and sensitive to a fully ‘post-Christian’ culture, aware of how cultural production apart from Scripture leads to a vacuous human experience, and passionate about bringing the clarity of Christ to souls lost in a culture laden with statues but often devoid of the very truths the statues represent.”
+
+Like those who have dwelt in Florence for centuries, these students will wake up to those same ancient cathedral bells, live surrounded by the lush Tuscan hills and red-roofed homes, walk those worn cobblestone streets, and study the culture and art that has so deeply sculpted our own.
+
+Applications for this program are now open. For more information please go to [www.masters.edu/Italy](http://www.masters.edu/Italy)
