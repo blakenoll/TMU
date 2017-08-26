@@ -1,6 +1,6 @@
 ---
 title: 'A Student''s Perspective: TMU Italy'
-date: 2017-08-25 23:37:00 Z
+date: 2017-08-08 23:37:00 Z
 author: Sabrina Michael
 catergory: TMU Abroud
 sm-image: http://www.masters.edu/media/870160/tmuitaly.jpg
