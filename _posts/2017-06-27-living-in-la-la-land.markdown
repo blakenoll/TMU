@@ -1,6 +1,6 @@
 ---
 title: Living in La La Land
-date: 2017-08-25 23:52:00 Z
+date: 2017-06-27 23:52:00 Z
 sm-image: http://www.masters.edu/media/870030/lalaland.jpg
 ---
 
