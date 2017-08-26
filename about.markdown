@@ -315,7 +315,7 @@ associated-organizations:
 - name: 'Grace to You '
   link: https://gty.org
   logo: 
-- name: Shepard's Conference
+- name: Shepherd's Conference
   link: http://www.shepherdsconference.org/
   logo: 
 - name: The Master's Academy International
