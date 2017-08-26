@@ -1,6 +1,7 @@
 ---
 title: 'Student Focus: Humphrey Mahowa'
 date: 2016-10-12 00:29:00 Z
+catergory: Student Focus
 sm-image: http://masters.edu/media/868527/humphreyblue.jpg
 ---
 

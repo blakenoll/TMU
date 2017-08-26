@@ -1,6 +1,7 @@
 ---
 title: Students Travel to State Capitol to Confront Cal Grant Cut
 date: 2017-03-15 00:29:00 Z
+catergory: Life At TMU
 sm-image: http://www.masters.edu/media/869643/statecapitol.jpg
 ---
 
