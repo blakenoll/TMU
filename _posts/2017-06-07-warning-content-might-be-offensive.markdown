@@ -1,5 +1,5 @@
 ---
-title: 'Warning: Content Might Be Offensive'
+title: Triggers
 date: 2017-06-07 00:01:00 Z
 author: John MacArthur
 sm-image: http://www.masters.edu/media/869961/triggers.jpg
