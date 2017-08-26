@@ -1,7 +1,7 @@
 ---
 title: 2016 Presidential Election and Current Events
 date: 2016-09-28 00:25:00 Z
-catergory: Life At TMU
+catergory: Events
 sm-image: http://masters.edu/media/868414/updatedsummitgraphic.jpg
 ---
 
