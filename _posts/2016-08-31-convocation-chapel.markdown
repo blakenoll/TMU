@@ -1,6 +1,7 @@
 ---
 title: Convocation Chapel
 date: 2016-08-31 00:17:00 Z
+catergory: Life At TMU
 sm-image: http://masters.edu/media/868273/convocationchapel.jpg
 ---
 
