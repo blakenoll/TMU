@@ -3,6 +3,7 @@ title: Professional Fraud
 date: 2017-05-05 00:15:00 Z
 author: Sabrina Michael
 image: http://www.masters.edu/media/869914/profro.jpg
+sm-image: http://www.masters.edu/media/869914/profro.jpg
 ---
 
 Clopping around in shoes six sizes too big, wearing a dress that drowned my tiny five-year-old figure and carrying around a notepad with a tangle of crayon etchings on it, I asked my parents in the kitchen, “May I take your order?”
