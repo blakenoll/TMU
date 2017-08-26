@@ -1,8 +1,8 @@
 ---
-title: Welcome to TMU
-description: Welcome to TMU
-image: "/images/BANNERImage7.jpg"
-link: https://www.masters.edu
-button-text: More Info
+title: View The U
+description: 'Attention Future Mustangs! Join us for a weekend of #lifeattmu'
+image: "/uploads/ViewWeekend_WebBanner.jpg"
+link: "/admissions/#visit"
+button-text: MORE INFO
 ---
 
