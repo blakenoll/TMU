@@ -23,7 +23,7 @@ layout: default
 
 <div class="row">
   <div class="col s12 m9">
-    <img src="{{ '/images/OTR_Web_600x800.jpg' | prepend: site.url }}" alt="" width="30%">
+    <img class="card" src="{{ '/images/OTR_Web_600x800.jpg' | prepend: site.url }}" alt="" width="30%">
     <h2>{{ page.current-play.title}}</h2>
 
     <p>{{ page.current-play.body | markdownify }}</p>
@@ -35,7 +35,7 @@ layout: default
     </li>
     <li>
       <div class="collapsible-header">Audition Information</div>
-      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+      <div class="collapsible-body"><span>{{ page.audition-body | markdownify }}</span></div>
     </li>
     <li>
       <div class="collapsible-header">Staff</div>
@@ -59,20 +59,23 @@ layout: default
   <div class="col s12 m3 center">
     <h3>Past Shows</h3>
     <!-- Modal Trigger -->
+    {% for play in page.past-performances %}
 
-    <a class="center" href="#modal1">
-      <img class="card" src="https://dummyimage.com/800x500/oc2340/fff.jpg" alt="" width="100%">
+    <a class="center" href="#{{ forloop.index }}">
+      <img class="card" src="{{ play.image | prepend: site.url }}" alt="" width="100%">
     </a>
     <!-- Modal Structure -->
-    <div id="modal1" class="modal">
+    <div id="{{ forloop.index }}" class="modal">
       <div class="modal-content">
-        <h4>Show Title</h4>
-        <p>Description</p>
+        <h4>{{ play.title }}</h4>
+          <img  class="right theatre-play" src="{{ play.tall-image | prepend: site.url }}" alt="{{ play.title }}" width="50%">
+        <p>{{ play.body | markdownify }}</p>
       </div>
-      <div class="modal-footer">
+      <div class="modal-footer right">
         <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
       </div>
     </div>
+    {% endfor %}
   </div>
 </div>
 
