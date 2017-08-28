@@ -26,7 +26,7 @@ Slight Hall was finished in time for the fall 1978 school year. The Hall was nam
 
 Ralph S. Slight was elected to the Board of Directors of the Los Angeles Baptist seminary in 1946 and named chairman in 1947. He was awarded an honorary Doctor of Divinity degree the same year at commencement exercises. He served the school faithfully in that capacity long into Dr. Dunkin's term as president. He lead the school through many changes such as moving the campus to Placerita Canyon in 1960 and much of the initial development of that property. He stepped down from the Board when his family moved to northern California in 1970.
 
-## What is Slight Hall like?
+### What is Slight Hall like?
 
 Slight is a two-story building with apartment-style dorm rooms. It is layed-out as five apartments each per level on the front and back. The Resident Director lives in one of the apartments on "Lower-Front".
 
