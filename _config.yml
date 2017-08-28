@@ -135,9 +135,10 @@ defaults:
     layout: dorm
     image: ''
     permalink: "/:title"
-    name: ''
-    title: ''
-    body-text: ''
+    - ra:
+        name: ''
+        title: ''
+        body-text: ''
 - scope:
     path: ''
     type: gradprograms
