@@ -47,6 +47,22 @@ student-outcomes-body: |-
   ### [Retention Rates](http://www.masters.edu/media/866440/ipeds-tmcs-institution-profile-2013-14.pdf "2015 Student Outcomes Grad and Retention")
 
   ### [Graduation Rates](http://www.masters.edu/media/866440/ipeds-tmcs-institution-profile-2013-14.pdf "2015 Student Outcomes Grad and Retention")
+financial-assistance-body: |-
+  Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information. Certian links on this site are password protected. If you require access to password protected links please request username and passwords from your departments Vice President.
+
+  ### [Availablity of Institutional and Financial Aid Information](http://www.masters.edu/academics/online-catalog.aspx "TMC On Line Catalog")
+
+  ### (Password Protected Financial Aid Policy)
+
+  ### [Assistance Available from Federal, State, Local and Institutional Programs](http://www.masters.edu/academics/online-catalog.aspx "TMC On line Catalog")
+
+  ### (Password Protected Financial Aid Policy)
+
+  ### [Student Loan Information](http://www.masters.edu/undergrad/financial-aid/loans/ "TMC Loan Info Page")
+
+  ### [Loan Counseling for Student Borrowers](https://studentloans.gov/myDirectLoan/index.action "Studentloans.gov")
+
+  ### [Exit Counseling for Student Borrowers](https://studentloans.gov/myDirectLoan/index.action "studentloans.gov")
 layout: page
 ---
 
