@@ -1,7 +1,8 @@
 ---
 title: Undergrad
-description:
+description: 
 image: "/uploads/Undergrad_WebBanner.jpg"
 link: "/undergraduate"
 button-text: ACADEMICS
 ---
+
