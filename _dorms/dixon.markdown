@@ -7,7 +7,7 @@ banner-img: "/images/Dixon_Banner.jpg"
 
 Dixon was completed in 1990 as part of an expansion project to accomodate the growing student population following Dr. John MacArthur's coming as President of the school in 1985. Waldock and Sweazy Halls were a part of that expansion as well. The hall is named after Frank R. Dixon, a generous donor to the college that funded its construction.
 
-## What is Dixon Hall like?
+### What is Dixon Hall like?
 
 Dixon is a two-story building. Between two wings of rooms are two lounges, one on each floor. The Resident Director apartment is located in the middle as well on the second story.
 
