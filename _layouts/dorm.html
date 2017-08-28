@@ -24,11 +24,11 @@ layout: default
   <div class="row">
     <div class="col s12 m3 center">
       <img class="circle" src="{{ '/images/FacutyBlank_500x500.png' | prepend: site.url }}" alt="" width="100%">
-      <h3>{{ dean.name }}name</h3>
-      <span>{{ dean.title }}title</span>
+      <h3>{{ rd.name }}</h3>
+      <span>{{ rd.title }}</span>
     </div>
-    <div class="col s12 m9">bio...
-      {{ dean.body-text | markdownify }}
+    <div class="col s12 m9">
+      {{ rd.body-text | markdownify }}
     </div>
   </div>
   {% endfor %}
