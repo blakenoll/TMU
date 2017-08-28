@@ -27,7 +27,7 @@ Each subject heading is a hyperlink to the relevant web page or PDF document. Pl
 
 * ### [Net Price Calculator](http://www.masters.edu/tcc "Net Price Calulator")
 
-* ### Cost of Attendance
+### Cost of Attendance
 
 ### [Undergraduate](http://www.masters.edu/undergrad/financial-aid/tuitionandfees/ "Undergrad Tuition and Fees")
 
