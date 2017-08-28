@@ -47,41 +47,25 @@ student-outcomes-body: |-
   ### [Retention Rates](http://www.masters.edu/media/866440/ipeds-tmcs-institution-profile-2013-14.pdf "2015 Student Outcomes Grad and Retention")
 
   ### [Graduation Rates](http://www.masters.edu/media/866440/ipeds-tmcs-institution-profile-2013-14.pdf "2015 Student Outcomes Grad and Retention")
-financial-assistance-body: |-
-  Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information. Certian links on this site are password protected. If you require access to password protected links please request username and passwords from your departments Vice President.
-
-  ### [Availablity of Institutional and Financial Aid Information](http://www.masters.edu/academics/online-catalog.aspx "TMC On Line Catalog")
-
-  ### (Password Protected Financial Aid Policy)
-
-  ### [Assistance Available from Federal, State, Local and Institutional Programs](http://www.masters.edu/academics/online-catalog.aspx "TMC On line Catalog")
-
-  ### (Password Protected Financial Aid Policy)
-
-  ### [Student Loan Information](http://www.masters.edu/undergrad/financial-aid/loans/ "TMC Loan Info Page")
-
-  ### [Loan Counseling for Student Borrowers](https://studentloans.gov/myDirectLoan/index.action "Studentloans.gov")
-
-  ### [Exit Counseling for Student Borrowers](https://studentloans.gov/myDirectLoan/index.action "studentloans.gov")
-layout: page
+layout: heoa
 ---
 
 The Higher Education Opportunity Act (HEOA) (PL 110-315) was enacted on August 14, 2008, reauthorizing the Higher Education Act (HEA) of 1965. This law contains a number of important new provisions that improve access to postsecondary education for students. The following links provide information that colleges are required by federal law to make available to prospective and enrolled students. Please click the following links to access and review student consumer and compliance information. If you desire any of the following information in written form please contact the Office of Financial Aid during normal business hours (M-F 8:30 am to 5 pm) at 661-362-2290 and the information will be supplied to you in reasonable time.
 
 ### [Institutional Information](http://www.masters.edu/financial-aid/heoa-cc-info/institutional-information/ "Institutional Information")
 
-### [Student Financial Assistance](http://www.masters.edu/financial-aid/heoa-cc-info/student-financial-assistance/ "Student Financial Assistance")
+### [Student Financial Assistance](#modal1)
 
-### [Teacher Preparation](http://www.masters.edu/financial-aid/heoa-cc-info/teacher-preparation/ "Teacher Preparation")
+### [Teacher Preparation](#modal2)
 
-### [Health and Safety](http://www.masters.edu/financial-aid/heoa-cc-info/health-safety/ "Health & Safety")
+### [Health and Safety](#modal3)
 
-### [Equity in Athletics](http://www.masters.edu/financial-aid/heoa-cc-info/equity-in-athletics/ "Equity in Athletics")
+### [Equity in Athletics](#modal4)
 
-### [Voter Registration](http://www.masters.edu/financial-aid/heoa-cc-info/voter-registration/ "Voter Registration")
+### [Voter Registration](#modal5)
 
-### [Constitution Day](http://www.masters.edu/financial-aid/heoa-cc-info/constitution-day/ "Constitution Day")
+### [Constitution Day](#modal6)
 
-### [Student Outcomes](http://www.masters.edu/financial-aid/heoa-cc-info/student-outcomes/ "Student Outcomes")
+### [Student Outcomes](#modal7)
 
 Haga clic aquí ([https://www.masters.edu/financial-aid/heoa-cc-info-spanish/](http://www.masters.edu/financial-aid/heoa-cc-info-spanish/)) si usted se encuentra dentro del programa de Maestría en Ministerio Bíblico y desea información en español con respecto a HEOA.
