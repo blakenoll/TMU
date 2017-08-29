@@ -1,6 +1,7 @@
 ---
 title: downloads
 date: 2017-08-29 15:30:00 Z
+layout: page
 ---
 
 ## Undergraduate Registration Instructions
