@@ -1,5 +1,6 @@
 ---
 title: Student Advancement
+layout: studentadv
 sm-image: "/uploads/StudentLife_StudentAdvancement.png"
 group: studentlife
 international-students-body: The international community at The Master’s College includes
@@ -123,15 +124,9 @@ coordinator-body: |-
   ### Some Favorite Things:
 
   Kayaking, reading, and exploring Los Angeles.
-<<<<<<< HEAD
 coordinator-image:
 multicultural-students:
-- about-body: We are committed to developing a distinctively Christian multi-cultural
-=======
-coordinator-image: 
-multicultural-students:
   about-body: We are committed to developing a distinctively Christian multi-cultural
->>>>>>> 0b44ae6293260a31abfcf4e37fef29bed8bd68e6
     community under the lordship of Christ and according to His Word. We recognize
     that cultures not only stem from continents and countries, but arise within cities
     and regions in our nation. Through our Multi-Cultural Student Advancement Office,
@@ -211,7 +206,7 @@ multicultural-students:
     ### The development of culturally applicable programming and social support of underrepresented students
 
     ### Student organization involvement
-layout: studentadv
+
 ---
 
 The Master’s University is pleased to open its doors to students from many different backgrounds. The Office of Student Advancement provides a variety of services for students from multicultural, international, and military backgrounds including the following: orientation to assist in transition to life at The Master’s University, financial aid and admissions counseling, social activities, service opportunities, academic counseling, vocational planning, and discipleship.
