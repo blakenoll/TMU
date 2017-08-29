@@ -123,9 +123,15 @@ coordinator-body: |-
   ### Some Favorite Things:
 
   Kayaking, reading, and exploring Los Angeles.
+<<<<<<< HEAD
 coordinator-image:
 multicultural-students:
 - about-body: We are committed to developing a distinctively Christian multi-cultural
+=======
+coordinator-image: 
+multicultural-students:
+  about-body: We are committed to developing a distinctively Christian multi-cultural
+>>>>>>> 0b44ae6293260a31abfcf4e37fef29bed8bd68e6
     community under the lordship of Christ and according to His Word. We recognize
     that cultures not only stem from continents and countries, but arise within cities
     and regions in our nation. Through our Multi-Cultural Student Advancement Office,
@@ -137,7 +143,7 @@ multicultural-students:
     public forums provide opportunity for every student to grow in awareness and compassion
     toward multi-cultural issues.
   biblical-foundation-body: |-
-    The motto of The Master’s College –*For Christ and Scripture*- signifies our commitment to the reality of the universal lordship of Jesus Christ and the sufficiency of His Word. We are bound to this reality because of our anchoring in the Scriptures, which present Christ as Lord over all creation.[\[1\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn1) This confession of Christ’s preeminence gives TMC commanding reasons to welcome, affirm and celebrate diversities of gender, ethnicity, socioeconomic status, and culture in its population and programs.
+    The motto of The Master’s University –*For Christ and Scripture*- signifies our commitment to the reality of the universal lordship of Jesus Christ and the sufficiency of His Word. We are bound to this reality because of our anchoring in the Scriptures, which present Christ as Lord over all creation.[\[1\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn1) This confession of Christ’s preeminence gives TMU commanding reasons to welcome, affirm and celebrate diversities of gender, ethnicity, socioeconomic status, and culture in its population and programs.
 
     In creating man God elected to create him in the very likeness and image of Himself.[\[2\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn2) The Bible clearly points that all humans are made in the image of God. The image of God (*imago dei*) designates mankind as the image bearers of God, carrying the same attributes with their Creator.[\[3\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn3) This stems to every person from every tribe, tongue, and ethnicity that exists, since God made from one man every nation of mankind to live on all the face of the earth.[\[4\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn4) Understanding this then it is to be resolved that every human being possesses an inherent dignity, meaning, and worth –he or she being made in the *imago dei.*
 
@@ -146,34 +152,10 @@ multicultural-students:
     Given the divine intention for creation, then, we see human diversity as a feature of life worth savoring; a featured designed and embraced by God. The unity of the kingdom, attained and emulated on earth by Christian fellowship,[\[10\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn10) gladly acknowledges the variety of personal backgrounds, histories, and contexts out of which love, thanksgiving, and worship are rendered to God. The vision of heaven presented by the Apostle John in the book of Revelation is that of a diverse group of believers from every tribe, language, people and nation, who find their unity, not in similar cultural customs or linguistic patterns, but rather in their worship of the one and only King of kings and Lord of lords, the Lamb upon the throne, Jesus. [\[11\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn11)
 
     Anticipating this fulfillment, Christian relationships across differences are to be unbiased and impartial rather than repressive, joyful and loving rather than dismissive. Individuals must not be stigmatized for being different; rather within the church, diversity is a glorious property of the whole. *“We”* are a diverse body of many members, from various languages, cultures and continents, which have been *united together* in Christ eternally is the sentiment shared by all true Christians. This is only achievable through the gospel which gives us new eyes to see from the vantage point(s) of creation/redemption, to our future hope and glory.[\[12\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn12)
-
-    [\[1\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref1) Colossians 1:15-20; Philippians 2:9-11
-
-    [\[2\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref2) Genesis 1:26
-
-    [\[3\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref3) Human beings carry the same attributes with the creator even though he is infinite and perfect, whereas we are finite by creation and imperfect because of the fall.
-
-    [\[4\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref4) Acts 17:26
-
-    [\[5\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref5) Beginning in Genesis 3-4
-
-    [\[6\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref6) 1 Peter 1:17-21
-
-    [\[7\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref7) Ephesians 2:14-16; Colossians 3:11; Galatians 3:25-28
-
-    [\[8\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref8) John 17:20-23
-
-    [\[9\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref9) Mark 1:15; John 17:17; John 8:33; Matthew23:23; Luke 10:37; Matthew 18:21-35; Matthew 28:19-20
-
-    [\[10\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref10) Acts 2:42-47
-
-    [\[11\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref11) Revelation 5:9, 7:9, 14:6, 22:2
-
-    [\[12\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref12) 2 Corinthians 4:6, 16-18
   mission-objectives-body: |-
-    ## Our Mission
+    Our Mission
 
-    The office of Multicultural Student Advancement (MCSA) serves to help develop and maintain a distinctively Christian, diverse community at the Master’s University (TMU). We desire to see students, from different cultures and from various contexts, participating in and contributing to the overall educational experience of campus life at TMU.
+    The office of Multicultural Student Advancement (MCSA) serves to help develop and maintain a distinctively Christian, diverse community at the Master’s College (TMU). We desire to see students, from different cultures and from various contexts, participating in and contributing to the overall educational experience of campus life at TMU.
 
     ## Our Vision
 
@@ -197,10 +179,10 @@ multicultural-students:
     ## Our Method:
 
     As a hybrid office between the Student Life and Admissions departments, MCSA specializes in both the recruitment and retention of students from among the diverse cultural contexts within the United States. Focusing on urban centers and the inner city, we seek to establish relationships with churches and leaders in these communities that will assist us in identifying “mission-match” recruits for TMU, while developing culturally applicable programming and social support for the underrepresented student population of our school.
-  programs-resources-body: |-
-    ## C3Unity- Student led club
+  programs-body: |-
+    C3Unity- Student led club
 
-    Founded on the premise of Colossians 3:11- “Here there is not Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave, free; but Christ is all, and in all”, C3Unity works to grow interpersonal relationships on campus and promote genuine Christian unity among the students of TMC. The club gives students an opportunity to interact and network with others from diverse contexts as well as to learn how they can live as effective Christian witnesses in a multicultural environment on the campus of TMC and around the world. Throughout the year C3Unity organizes events, field trips, forums, and workshops alongside the Student Life Staff, Associate Academic Dean, and Faculty. Be a part of [C3Unity - Join the Facebook Group](https://www.facebook.com/groups/220366394683071/ "C3Unity on Facebook")
+    Founded on the premise of Colossians 3:11- “Here there is not Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave, free; but Christ is all, and in all”, C3Unity works to grow interpersonal relationships on campus and promote genuine Christian unity among the students of TMU. The club gives students an opportunity to interact and network with others from diverse contexts as well as to learn how they can live as effective Christian witnesses in a multicultural environment on the campus of TMU and around the world. Throughout the year C3Unity organizes events, field trips, forums, and workshops alongside the Student Life Staff, Associate Academic Dean, and Faculty. Be a part of [C3Unity - Join the Facebook Group](https://www.facebook.com/groups/220366394683071/ "C3Unity on Facebook")
 
     ## Engage!
 
