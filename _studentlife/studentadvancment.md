@@ -123,8 +123,8 @@ coordinator-body: |-
   ### Some Favorite Things:
 
   Kayaking, reading, and exploring Los Angeles.
-coordinator-image: 
-mulitcultural-students:
+coordinator-image:
+multicultural-students:
 - about-body: We are committed to developing a distinctively Christian multi-cultural
     community under the lordship of Christ and according to His Word. We recognize
     that cultures not only stem from continents and countries, but arise within cities
