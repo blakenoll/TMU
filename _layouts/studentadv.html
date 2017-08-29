@@ -32,7 +32,7 @@ layout: default
         <ul class="tabs">
           <li class="tab"><a class="active" href="#program">Programs & Resources</a></li>
           <li class="tab"><a href="#meet">Meet the Coordinator</a></li>
-          <li class="tab"><a href="#">INTl Admissions</a></li>
+          <li class="tab"><a href="{{ '/admissions/#intl' | prepend: site.url }}" target="_blank">INTl Admissions</a></li>
         </ul>
       </div>
       <div id="program" class="col s12">
@@ -42,7 +42,7 @@ layout: default
         <br>
         <div class="row">
           <div class="col s12 m3">
-            <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
+            <img class="circle" src="{{ page.coordinator-image | prepend: site.url }}" alt="" width="100%">
           </div>
           <div class="col s12 m9">
             {{ page.coordinator-body | markdownify }}
@@ -73,7 +73,27 @@ layout: default
       </div>
     </div>
 
-    <div id="test3" class="col s12">Multicultural Students</div>
+    <div id="test3" class="col s12">
+      <img src="{{ '/images/MultiCultural_1920x500.jpg' | prepend: site.url }}" width="100%"/>
+      <ul class="tabs">
+        <li class="tab"><a class="active" href="#info">About</a></li>
+        <li class="tab"><a href="#foundation">Biblical Foundation</a></li>
+        <li class="tab"><a href="#mission" >Mission & Objectives</a></li>
+        <li class="tab"><a href="#resource" >Programs & Resources</a></li>
+      </ul>
+      <div id="info" class="col s12">
+        {{ page.mulitcultural-students.about-body }}
+      </div>
+      <div id="foundation" class="col s12">
+        {{ page.mulitcultural-students.biblical-foundation-body }}
+      </div>
+      <div id="mission" class="col s12">
+        {{ page.mulitcultural-students.mission-objectives-body }}
+      </div>
+      <div id="resource" class="col s12">
+        {{ page.mulitcultural-students.mission-objectives-body }}
+      </div>
+    </div>
 
 
 </div>

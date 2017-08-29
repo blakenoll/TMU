@@ -26,7 +26,8 @@ layout: default
       </div>
       <div class="col s12">
       <ul class="tabs">
-        <li class="tab"><a href="#test1">Meet The Director</a></li>
+        <li class="tab"><a href="#test1">About</a></li>
+        <li class="tab"><a href="#engage">Engage!</a></li>
         <li class="tab"><a href="#test2">2017 Teams</a></li>
         <li class="tab"><a href="#test3">Missions Resources</a></li>
         <li class="tab"><a href="#test5">Go Application</a></li>
@@ -34,16 +35,20 @@ layout: default
       </ul>
     </div>
     <div id="test1" class="col s12">
+      {{ page.about-body | markdownify }}
       <br>
+      <h3>Meet The Director</h3>
       <div class="row">
         <div class="col s12 m3 center">
           <img class="circle" src="{{ '/uploads/FacultyHeadshots/La%20George,%20L.jpg' | prepend: site.url }}" alt="" width="100%">
-          <h3>Lisa La George</h3>
         </div>
         <div class="col s12 m9">
           {{ page.director-body | markdownify }}
         </div>
       </div>
+    </div>
+    <div id="engage" class="col s12">
+        {{ page.engage-body | markdownify }}
     </div>
     <div id="test2" class="col s12">
       {{ page.teams-body | markdownify }}

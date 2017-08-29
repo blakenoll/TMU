@@ -43,7 +43,7 @@ layout: default
         {% for person in page.staff %}
         <div class="row">
           <div class="col s12 m3">
-            <img class="circle" src="https://dummyimage.com/500x500/oc2340/fff.jpg" alt="" width="100%">
+            <img class="circle" src="{{ '/images/FacutyBlank_500x500.png' | prepend: site.url }}" alt="" width="100%">
             <h3 class="center">{{ person.name }}</h3>
             <p class="center">{{ person.title }}</p>
           </div>
