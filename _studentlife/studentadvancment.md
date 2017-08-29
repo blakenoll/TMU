@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: Student Advancement
 layout: studentadv
 sm-image: "/uploads/StudentLife_StudentAdvancement.png"
@@ -232,9 +231,6 @@ multicultural-students:
 
     ### Student organization involvement
 
-=======
-title: Studentadvancment
->>>>>>> 11f42d02785890713a269b05ab6c8c0ded1f786c
 ---
 
 The Master’s University is pleased to open its doors to students from many different backgrounds. The Office of Student Advancement provides a variety of services for students from multicultural, international, and military backgrounds including the following: orientation to assist in transition to life at The Master’s University, financial aid and admissions counseling, social activities, service opportunities, academic counseling, vocational planning, and discipleship.
