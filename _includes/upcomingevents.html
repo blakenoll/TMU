@@ -2,7 +2,7 @@
       <div class="parallax"><img src="{{ "/images/Parallax1.jpg" | prepend: site.url }}"></div>
           <div class="row">
             <!-- <div class="event-container"> -->
-            <h1 class="center white-text">Upcoming Events</h1>
+            <!-- <h1 class="center white-text">Upcoming Events</h1> -->
                 <div class="carousel center">
                     {% for event in site.upcomingevents %}
                     <a class="carousel-item white-text" href="{{ event.url }}">
@@ -11,19 +11,6 @@
                     </a>
                     {% endfor %}
                 </div>
-              <!-- <div class="table-cell">
-                <div class="col s12 m6" style="padding-bottom: 15px;">
-                  <div class="col s4">
-                    <img src="{{ event.image | prepend: site.url }}" alt="" width="90%">
-                  </div>
-                  <div class="col s8">
-                   <h3 class="white-text">{{ event.title }}</h3>
-
-                   <a class="btn btn-white" href="{{ event.url }}">More</a>
-                  </div>
-                </div>
-              </div> -->
-            <!-- </div> -->
           </div>
           <div class="row center">
              <a class="btn btn-white" href="{{ "/calendar" | prepend: site.url }}">Calendar</a>
