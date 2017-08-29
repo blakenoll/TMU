@@ -17,11 +17,10 @@ Directors-greeting-body: |-
 
   Again, on behalf of the entire Safety staff, I want to personally welcome you as a student of The Master's University!
 
-  C. Powell
-
-  Director of Campus Safety\
-  The Master's College\
-  661\.362.2208
+  **C. Powell**
+  Director of Campus Safety
+  The Master's College
+  661.362.2208
 preparedness-body: |-
   The Campus Safety Department works in close partnership with the Los Angeles County Fire and Sheriff's Department, who have stations within close proximity to the University. The Campus Safety Department plays one part in a larger Emergency Management Plan which the college incorporates to facilitate effective coordination of resources in any emergency. In the event of a life threatening emergency, cellular text messages to registered users will be distributed to communicate important instructions on how Faculty, Staff, and Students should respond.
 

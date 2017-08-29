@@ -9,8 +9,7 @@ ra:
 - name: Jessica Rosenbaum
   title: Women's Resident Director
   body-text: |-
-    *B.A., Biblical Studies
-    The Master's University
+    *B.A., Biblical Studies The Master's University
     Joined TMU in 2016*
 
     Jessica moved to California in 2014 to attend TMU and earned a BA in Biblical Counseling in May of 2016. She moved from Cleveland, OH where she was (and still is) a proud Clevelander and dedicated sports fan. She lived in Hotchkiss as a student and is blessed and humbled to be back as its Resident Director. She has a passion for God’s Word and a desire to help other’s apply it to their lives, especially those who are going through trials. She has seen the Lord’s faithfulness in her life time and time again, most prominently in allowing her to be a student, and now an employee of TMU. Her life was significantly shaped by the older woman in her life when she was 18, and she’s beyond excited to minister to the women in Hotchkiss.

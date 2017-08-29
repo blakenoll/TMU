@@ -2,6 +2,9 @@
 title: Waldock
 date: 2017-07-11 22:13:00 Z
 image: "/images/Dorm_Waldock.png"
+ra:
+- name: Sergio Arechiga
+  title: Resident Director
 banner-img: "/images/Waldock_Banner.jpg"
 ---
 
