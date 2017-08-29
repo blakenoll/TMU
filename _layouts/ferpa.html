@@ -7,14 +7,14 @@ layout: page
   {% for section in page.ferpa %}
     {% if forloop.last %}
     <!-- Modal Structure -->
-    <div id="{{ forloop.index }}" class="modal modal-fixed-footer">
+    <div id="{{ forloop.index }}" class="modal">
       <div class="modal-content">
         <p>{{ section.body | markdownify }}</p>
       </div>
     </div>
     {% endif %}
   <!-- Modal Structure -->
-  <div id="{{ forloop.index }}" class="modal modal-fixed-footer">
+  <div id="{{ forloop.index }}" class="modal">
     <div class="modal-content">
       <p>{{ section.body | markdownify }}</p>
 
