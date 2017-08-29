@@ -15,7 +15,7 @@ health-safety-body: |-
 
   ### [Biennial Review -- 2015-2017](http://www.masters.edu/media/870023/2015-17-biennial-report.pdf "2015-17 Biennial Report.pdf (1)")
 
-  ### [Clery Act Policy (Annual Campus Security and Fire Safety Report)](http://www.masters.edu/campuslinks/campussafety.aspx "2016 Annual Security and Fire Safety Report.pdf")
+  ### [Clery Act Policy (Annual Campus Security and Fire Safety Report)](/campus-safety)
 
   ### [Title IX Policy](/title-ix)
 equity-athletics-body: |-
@@ -53,7 +53,7 @@ financial-assistance-body: |-
 
   ### (Password Protected Financial Aid Policy)
 
-  ### [Student Loan Information](http://www.masters.edu/undergrad/financial-aid/loans/ "TMC Loan Info Page")
+  ### [Student Loan Information](/financial-aid/loans)
 
   ### [Loan Counseling for Student Borrowers](https://studentloans.gov/myDirectLoan/index.action "Studentloans.gov")
 
@@ -81,11 +81,11 @@ institutional-info-body: |-
 
   * ### **[Faculty](http://www.masters.edu/academics/online-catalog.aspx "TMU On Line Catalog")**
 
-  * ### **[Net Price Calculator](http://www.masters.edu/tcc "Net Price Calulator")**
+  * ### **[Net Price Calculator](/financial-aid/total-cost-calculator)**
 
   ### **Cost of Attendance**
 
-  ### **[Undergraduate](http://www.masters.edu/undergrad/financial-aid/tuitionandfees/ "Undergrad Tuition and Fees")**
+  ### **[Undergraduate](/financial-aid/tuition-fees)**
 
   ### **[Degree Completion Program](http://www.masters.edu/academics/degreecompletion/prospective-students/tuition.aspx "DCP Tuition and Fees")**
 
@@ -99,9 +99,9 @@ institutional-info-body: |-
 
   * ### **[Student Diversity](http://www.masters.edu/media/870053/2017-student-diversity-fall-2016-tmus-enrollment-report.pdf "2017 Student Diversity - Fall 2016 TMUS Enrollment Report.pdf")**
 
-  * ### **[Textbook Information](https://docs.google.com/spreadsheets/d/1YK8Hc7KptiX28D5INeIfN5jeXk6K-zQba5ijGgr33LI/pubhtml "Textbook Information")**
+  * ### **[Textbook Information](https://docs.google.com/spreadsheets/d/1M7831_d3lXA0KR4AeyYhCTzIh8YyaoHpeplIwSG-8XY/pubhtml)**
 
-  * ### **[Transfer of Credit Policies ](http://www.masters.edu/academics/online-catalog.aspx "TMU catalogue")and [Articulation Agreements](http://www.masters.edu/campuslinks/registrar/articulation-agreements.aspx "Articulation Agreements")**
+  * ### **[Transfer of Credit Policies ](http://www.masters.edu/academics/online-catalog.aspx "TMU catalogue")and [Articulation Agreements](/registrar)**
 
     * ### **[TMU](http://www.masters.edu/academics/online-catalog.aspx "TMU catalog")**
 
