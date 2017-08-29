@@ -164,6 +164,7 @@ talk-body: "Every year, as we experience life together at TMU, life can sometime
   \"ASB Constituion 2011-2012\").\n\n### Full Council Meeting Schedule\n\nMondays
   at 10:15pm  \\\nMacArthur Center Meeting Room   \\\nContact: [asbmail@masters.edu
   \ ](mailto:asbmail@masters.edu)\\\n661-362-2835  "
+director-body: 
 layout: asb
 ---
 
