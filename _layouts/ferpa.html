@@ -2,31 +2,31 @@
 layout: page
 ---
 
-<div class="carousel carousel-slider center" data-indicators="true">
-    <div class="carousel-item red white-text" href="#one!">
-      <h2>First Panel</h2>
-      <p class="white-text">This is your first panel</p>
+  {{ content }}
+  <a class="btn tbn-navy" href="#1">Start FERPA Training</a>
+  {% for section in page.ferpa %}
+    {% if forloop.last %}
+    <!-- Modal Structure -->
+    <div id="{{ forloop.index }}" class="modal modal-fixed-footer">
+      <div class="modal-content">
+        <p>{{ section.body | markdownify }}</p>
+      </div>
     </div>
-    <div class="carousel-item amber white-text" href="#two!">
-      <h2>Second Panel</h2>
-      <p class="white-text">This is your second panel</p>
-    </div>
-    <div class="carousel-item green white-text" href="#three!">
-      <h2>Third Panel</h2>
-      <p class="white-text">This is your third panel</p>
-    </div>
-    <div class="carousel-item blue white-text" href="#four!">
-      <h2>Fourth Panel</h2>
-      <p class="white-text">This is your fourth panel</p>
+    {% endif %}
+  <!-- Modal Structure -->
+  <div id="{{ forloop.index }}" class="modal modal-fixed-footer">
+    <div class="modal-content">
+      <p>{{ section.body | markdownify }}</p>
+
+      <button class="btn tbn-navy" type="button" name="button" onclick="$('#{{ forloop.index }}').modal('close');$('#{{ forloop.index | minus: 1 }}').modal('open');">Previous</button>
+      <button class="btn tbn-navy" type="button" name="button" onclick="$('#{{ forloop.index | plus: 1 }}').modal('open');$('#{{ forloop.index }}').modal('close');">Next</button>
     </div>
   </div>
-  <button class="btn tbn-navy"type="button" name="button" onclick="$('.carousel').carousel('prev');">Previous</button>
-  <button class="btn tbn-navy"type="button" name="button" onclick="$('.carousel').carousel('next');">Next</button>
+  {% endfor %}
 
 
 <script type="text/javascript">
 $(document).ready(function(){
-  $('.carousel.carousel-slider').carousel({fullWidth: true, noWrap: true});
 
 });
 
