@@ -477,15 +477,10 @@ faq-body: |-
   Tell your family and friends that they can give tax deductible donations toward your trip for Christmas. [www.masters.edu/supportGO](http://www.masters.edu/supportgo "Support GO")
 
   Gather addresses while you are home for people you will send letters to in late January.
-director-body: Prior to coming to The Master’s University in 1998, Lisa spent five
-  years involved in cross-cultural youth ministry in Alaska. She has traveled in over
-  45 countries to encourage cross-cultural workers, provide teacher training workshops,
-  and supervise student teachers. In addition to teaching in the area of ESL and Intercultural
-  Studies, Lisa administers and trains cross-cultural vocational student trips. Her
-  research and writing includes the topics of short-term missions, cross-cultural
-  teaching methodologies, missionary biographies, and Third-Culture Kid transitions.
-  She is rarely without a book, loves to cook, and enjoys opening her home for global
-  gatherings.
+director-body: |-
+  ### Lisa La George
+
+  Prior to coming to The Master’s University in 1998, Lisa spent five years involved in cross-cultural youth ministry in Alaska. She has traveled in over 45 countries to encourage cross-cultural workers, provide teacher training workshops, and supervise student teachers. In addition to teaching in the area of ESL and Intercultural Studies, Lisa administers and trains cross-cultural vocational student trips. Her research and writing includes the topics of short-term missions, cross-cultural teaching methodologies, missionary biographies, and Third-Culture Kid transitions. She is rarely without a book, loves to cook, and enjoys opening her home for global gatherings.
 engage-body: 
 about-body: 
 layout: globo
