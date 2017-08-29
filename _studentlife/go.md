@@ -486,6 +486,7 @@ director-body: Prior to coming to The Master’s University in 1998, Lisa spent 
   teaching methodologies, missionary biographies, and Third-Culture Kid transitions.
   She is rarely without a book, loves to cook, and enjoys opening her home for global
   gatherings.
+engage-body: 
 layout: globo
 ---
 
