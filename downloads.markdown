@@ -14,37 +14,37 @@ layout: page
 
 ## Undergraduate Application Forms
 
-[Complete TMU Undergraduate Admissions and Financial Aid Application](http://www.masters.edu/media/868819/undergrad-app-for-web-form.pdf "Undergrad App for Web Form.pdf")\
-\*Note: The Master’s University continues to accept applications on a rolling basis after the March 2nd priority deadline.
+[Complete TMU Undergraduate Admissions and Financial Aid Application](http://www.masters.edu/media/868819/undergrad-app-for-web-form.pdf "Undergrad App for Web Form.pdf")
+*Note: The Master’s University continues to accept applications on a rolling basis after the March 2nd priority deadline.
 
-[Pastor Recommendation Form – Undergraduate Application](http://www.masters.edu/media/868817/pastorrecommendation.pdf "PastorRecommendation.pdf")\
-\(To be completed by pastor)
+[Pastor Recommendation Form – Undergraduate Application](http://www.masters.edu/media/868817/pastorrecommendation.pdf "PastorRecommendation.pdf")
+(To be completed by pastor)
 
 [Program of Transfer Form](http://www.masters.edu/media/868815/program-transfer-form.pdf "Program Transfer Form.pdf") (To be completed by students who are moving from one TMU program to another TMU program - example: a student moving from the Traditional program to the TMU Online program)
 
-[Educator Recommendation Form – Undergraduate Application](http://www.masters.edu/media/868814/educatorrecommendation.pdf "EducatorRecommendation.pdf")\
-\*ONLY required if requested by your TMU admissions counselor (To be completed by teacher or employer)
+[Educator Recommendation Form – Undergraduate Application](http://www.masters.edu/media/868814/educatorrecommendation.pdf "EducatorRecommendation.pdf")
+*ONLY required if requested by your TMU admissions counselor (To be completed by teacher or employer)
 
-[Application Update](http://www.masters.edu/media/868816/undergrad-app-update.pdf "Undergrad App Update.pdf")\
-\(To be completed by students who have previously applied and currently have an application on file, but have never enrolled)
+[Application Update](http://www.masters.edu/media/868816/undergrad-app-update.pdf "Undergrad App Update.pdf")
+(To be completed by students who have previously applied and currently have an application on file, but have never enrolled)
 
-[Application for Re-Admission – Undergraduate](http://www.masters.edu/media/868818/re-admit-app.pdf "Re-Admit App.pdf")\
-\(To be completed by students who have previously attended The Master’s University)
+[Application for Re-Admission – Undergraduate](http://www.masters.edu/media/868818/re-admit-app.pdf "Re-Admit App.pdf")
+(To be completed by students who have previously attended The Master’s University)
 
 [Doctrinal Statement](http://www2.masters.edu/admissions/downloads/TMC%20Doctrinal%20Statement.pdf) or read the [Doctrinal Statement on-line](http://www2.masters.edu/undergrad/doctrine)
 
-\(Please read the Doctrinal Statement to complete the application process)
+(Please read the Doctrinal Statement to complete the application process)
 
 [Application Fee Waiver](http://www.nacacnet.org/studentinfo/feewaiver/Documents/ApplicationFeeWaiver.pdf "NACAC Application Fee Waiver") (NACAC)
 
-[Homeschool Requirements and Sample Transcript](http://www2.masters.edu/admissions/downloads/HomeschoolTranscriptForm.pdf)\
-\(additional details available [here](http://www.masters.edu/undergrad/apply/downloads/# "Homeschool").)
+[Homeschool Requirements and Sample Transcript](http://www2.masters.edu/admissions/downloads/HomeschoolTranscriptForm.pdf)
+(additional details available [here](http://www.masters.edu/undergrad/apply/downloads/# "Homeschool").)
 
-[Christian College Transfer Recommendation Form](http://www.masters.edu/media/816508/cc-transfer-form-form.pdf "Christian College Transfer Form")\
-\(To be completed by applicants who have attended another Christian College/University, Bible College or Bible Institute)
+[Christian College Transfer Recommendation Form](http://www.masters.edu/media/816508/cc-transfer-form-form.pdf "Christian College Transfer Form")
+(To be completed by applicants who have attended another Christian College/University, Bible College or Bible Institute)
 
-[Credit by Examination](http://www2.masters.edu/admissions/downloads/CreditbyExamination.pdf)\
-\(Lists AP, CLEP, and IB tests accepted for college credit)
+[Credit by Examination](http://www2.masters.edu/admissions/downloads/CreditbyExamination.pdf)
+(Lists AP, CLEP, and IB tests accepted for college credit)
 
 [Activity Release Form](http://www.masters.edu/media/869661/activity-release-form-tmu.pdf "ACTIVITY RELEASE FORM (TMU).pdf")
 
@@ -70,7 +70,7 @@ layout: page
 
 [Ministry Matching Grant Application](http://www.masters.edu/media/869687/forms-application-mmg.pdf "Forms- Application- MMG.pdf")
 
-[President’s Scholarship Application](http://www.masters.edu/media/869263/17-18-presidents-scholarship-application_fillable.pdf "17-18 President's Scholarship Application_Fillable.pdf")\
+[President’s Scholarship Application](http://www.masters.edu/media/869263/17-18-presidents-scholarship-application_fillable.pdf "17-18 President's Scholarship Application_Fillable.pdf")
 The President’s Scholarship is a competitive merit based scholarship awarded to full-time incoming freshman. Applicants must have a high school GPA of 3.85 and a SAT score of 1400 (Critical Reading and Math only) or ACT composite score of 32.
 
 [Bible Bee Scholarship Application](http://www.masters.edu/media/868514/forms-application-bible-bee.pdf "Forms- Application- Bible Bee.pdf")
@@ -85,8 +85,8 @@ The President’s Scholarship is a competitive merit based scholarship awarded t
 
 ## International Student Forms and Scholarships
 
-[International Student Financial Aid Supplement](http://www.masters.edu/media/868511/forms-int-student-financial-aid-supplemental-form.pdf "Forms- INT- Student Financial Aid Supplemental Form.pdf")\
-\(Required for all International Students)
+[International Student Financial Aid Supplement](http://www.masters.edu/media/868511/forms-int-student-financial-aid-supplemental-form.pdf "Forms- INT- Student Financial Aid Supplemental Form.pdf")
+(Required for all International Students)
 
 [International Grant Application Form](http://www.masters.edu/media/869288/isg-app-2.pdf "ISG App 2.pdf")
 
