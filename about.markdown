@@ -308,22 +308,22 @@ board-members-body: "Scott Ardavanis\n\nBrad Armstrong\n\nJohn (Jack) Babbitt\\*
 associated-organizations:
 - name: Grace Books International
   link: http://www.gbibooks.com/
-  logo: https://www.gracebooks.com/images/logo.png
+  logo: "/images/AssociatedMinistries_GBI.png"
 - name: Grace Community Church
   link: https://www.gracechurch.org/
-  logo: https://www.gracechurch.org/Content/images/gcc-logo-2014@2x.png
+  logo: "/images/AssociatedMinistries_GCC.png"
 - name: 'Grace to You '
   link: https://gty.org
-  logo: 
+  logo: "/images/AssociatedMinistries_GTY.png"
 - name: Shepherd's Conference
   link: http://www.shepherdsconference.org/
-  logo: 
+  logo: "/images/AssociatedMinistries_SC.png"
 - name: The Master's Academy International
   link: http://tmai.org/
-  logo: 
+  logo: "/images/AssociatedMinistries_TMAI.png"
 - name: The Master's Seminary
   link: https://www.tms.edu/
-  logo: 
+  logo: "/images/AssociatedMinistries_TMS.png"
 layout: about
 ---
 
