@@ -398,3 +398,10 @@ ferpa:
 layout: ferpa
 ---
 
+Welcome to On-Line Family Educational Rights and Privacy Act (FERPA) Training
+
+The Master's University is using advances in information technology to enhance teaching and learning, streamline business processes, and improve student services. There is a delicate balance between the responsibility for maintaining student privacy rights and the responsibility for providing effective and efficient service to students. To preserve that balance, it is essential that all members of the campus community who gather, store, access, or use student data understand the legal, ethical, and policy issues related to privacy and the handling of student information.
+
+This process should start with the legal implications of the Family Educational Rights and Privacy Act (FERPA). FERPA is a federal law and is the touchstone of student information privacy practices at The Master's University and other institutions of higher education. The tutorial that follows is designed to prepare authorized members of the campus community to fully understand the responsibilities of handling student record information under FERPA and the College's student records policy:Disclosure of Student Information.
+
+After reading the educational portion of the tutorial, you will be asked to take a short quiz.
