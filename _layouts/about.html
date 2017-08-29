@@ -57,7 +57,7 @@ layout: default
                 {% for association in page.associated-organizations %}
                 <div class="col s4 m3 logo-div">
                   <a class="logo-link" href="{{ association.link }}">
-                    <!-- <img src="{{ association.logo }}" alt="{{ association.name }}" width="100%"> -->
+                    <img src="{{ association.logo | prepend: site.url }}" alt="{{ association.name }}" width="100%">
                     {{ association.name }}</a>
                 </div>
                 {% endfor %}

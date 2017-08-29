@@ -5,7 +5,7 @@
             <!-- <h1 class="center white-text">Upcoming Events</h1> -->
                 <div class="carousel center">
                     {% for event in site.upcomingevents %}
-                    <a class="carousel-item white-text" href="{{ event.link }}">
+                    <a class="carousel-item white-text" href="{{ event.link | prepend: site.url }}">
                         <img src="{{ event.image | prepend: site.url }}">
                         {{ event.event_date | date: "%a, %b %d, %Y"}}
                     </a>
