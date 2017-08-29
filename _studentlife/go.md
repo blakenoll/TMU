@@ -487,6 +487,7 @@ director-body: Prior to coming to The Master’s University in 1998, Lisa spent 
   She is rarely without a book, loves to cook, and enjoys opening her home for global
   gatherings.
 engage-body: 
+about-body: 
 layout: globo
 ---
 
