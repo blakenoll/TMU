@@ -123,6 +123,12 @@ coordinator-body: |-
   ### Some Favorite Things:
 
   Kayaking, reading, and exploring Los Angeles.
+coordinator-image: 
+mulitcultural-students:
+- about-body: 
+  biblical-foundation-body: 
+  mission-objectives-body: 
+  programs-resources-body: 
 layout: studentadv
 ---
 
