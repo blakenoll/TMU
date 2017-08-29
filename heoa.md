@@ -17,7 +17,7 @@ health-safety-body: |-
 
   ### [Clery Act Policy (Annual Campus Security and Fire Safety Report)](http://www.masters.edu/campuslinks/campussafety.aspx "2016 Annual Security and Fire Safety Report.pdf")
 
-  ### [Title IX Policy](http://www.masters.edu/financial-aid/heoa-cc-info/health-safety/title-ix-information/ "Title IX Information")
+  ### [Title IX Policy](/title-ix)
 equity-athletics-body: |-
   Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information.
 
@@ -30,17 +30,12 @@ voter-body: |-
   ### [Register to Vote](http://registertovote.ca.gov/ "California Voter Registration")
 
   ### [TMU Voter Registration Policy](http://www.masters.edu/media/868519/student-voter-registration-policy.pdf "Student Voter Registration Policy.pdf")
-constitution-body: |-
-  **The Master’s University celebrates Constitution Day every Sept. 17th. Here at The Master’s College we are grateful for the liberty the Constitution grants to us to practice our faith in our Lord and Savior and to operate as a Christian Institution. Please click on the following links to find out more about our Constitution. **
-
-  **\
-  [National Constitution Center](http://constitutioncenter.org/constitutionday/)\
-  \
-  \
-  [Constitution Day, Inc.](http://www.constitutionday.com/)\
-  \
-  \
-  [Constitution Facts](http://constitutionday.cc/)**
+constitution-body: "The Master’s University celebrates Constitution Day every Sept.
+  17th. Here at The Master’s University we are grateful for the liberty the Constitution
+  grants to us to practice our faith in our Lord and Savior and to operate as a Christian
+  Institution. Please click on the following links to find out more about our Constitution.
+  \n\n**\\\n[National Constitution Center](http://constitutioncenter.org/constitutionday/)\\\n\\\n\\\n[Constitution
+  Day, Inc.](http://www.constitutionday.com/)\\\n\\\n\\\n[Constitution Facts](http://constitutionday.cc/)**"
 student-outcomes-body: |-
   Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information.
 
@@ -48,7 +43,7 @@ student-outcomes-body: |-
 
   ### [Graduation Rates](http://www.masters.edu/media/866440/ipeds-tmcs-institution-profile-2013-14.pdf "2015 Student Outcomes Grad and Retention")
 financial-assistance-body: |-
-  Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information. Certian links on this site are password protected. If you require access to password protected links please request username and passwords from your departments Vice President.
+  Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information. Certain links on this site are password protected. If you require access to password protected links please request username and passwords from your departments Vice President.
 
   ### [Availablity of Institutional and Financial Aid Information](http://www.masters.edu/academics/online-catalog.aspx "TMC On Line Catalog")
 
@@ -116,7 +111,7 @@ layout: heoa
 
 The Higher Education Opportunity Act (HEOA) (PL 110-315) was enacted on August 14, 2008, reauthorizing the Higher Education Act (HEA) of 1965. This law contains a number of important new provisions that improve access to postsecondary education for students. The following links provide information that colleges are required by federal law to make available to prospective and enrolled students. Please click the following links to access and review student consumer and compliance information. If you desire any of the following information in written form please contact the Office of Financial Aid during normal business hours (M-F 8:30 am to 5 pm) at 661-362-2290 and the information will be supplied to you in reasonable time.
 
-### [Institutional Information](#modal8)
+### [Institutional Information](http://www.masters.edu/financial-aid/heoa-cc-info/institutional-information/ "Institutional Information")
 
 ### [Student Financial Assistance](#modal1)
 
