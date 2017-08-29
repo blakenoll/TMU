@@ -124,7 +124,7 @@ coordinator-body: |-
   ### Some Favorite Things:
 
   Kayaking, reading, and exploring Los Angeles.
-coordinator-image:
+coordinator-image: 
 multicultural-students:
   about-body: We are committed to developing a distinctively Christian multi-cultural
     community under the lordship of Christ and according to His Word. We recognize
@@ -230,7 +230,6 @@ multicultural-students:
     ### The development of culturally applicable programming and social support of underrepresented students
 
     ### Student organization involvement
-
 ---
 
 The Master’s University is pleased to open its doors to students from many different backgrounds. The Office of Student Advancement provides a variety of services for students from multicultural, international, and military backgrounds including the following: orientation to assist in transition to life at The Master’s University, financial aid and admissions counseling, social activities, service opportunities, academic counseling, vocational planning, and discipleship.
