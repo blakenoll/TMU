@@ -1005,7 +1005,7 @@ general-education-body: |-
   <tbody>\
   <tr style="text-align: center;">\
   <td>\
-  <p style="text-align: left;"><strong>COURSE&nbsp;NUMBER</strong></p>\
+  <p style="text-align: left;"><strong>COURSE NUMBER</strong></p>\
   </td>\
   <td>\
   <p><strong>COURSE TITLE</strong></p>\
@@ -1014,9 +1014,9 @@ general-education-body: |-
   <p><strong>SEM. <br>UNITS</strong></p>\
   </td>\
   <td style="text-align: left;">\
-  <p><strong>&nbsp;</strong></p>\
+  <p><strong> </strong></p>\
   </td>\
-  <td style="text-align: left;">&nbsp;</td>\
+  <td style="text-align: left;"> </td>\
   </tr>\
   <tr style="text-align: left;">\
   <td>\
@@ -1029,10 +1029,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1046,10 +1046,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1063,10 +1063,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1080,10 +1080,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1097,10 +1097,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1114,10 +1114,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1131,10 +1131,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1148,10 +1148,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1165,10 +1165,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1182,10 +1182,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1199,10 +1199,10 @@ general-education-body: |-
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   </tr>\
   <tr style="text-align: left;">\
@@ -1210,177 +1210,177 @@ general-education-body: |-
   <p>MU190</p>\
   </td>\
   <td style="text-align: center;">\
-  <p>ESSENTIALS OF MUSIC &amp; ART</p>\
+  <p>ESSENTIALS OF MUSIC & ART</p>\
   </td>\
   <td style="text-align: right;">\
   <p>3</p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
+  <p> </p>\
   </td>\
   <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  </tr>\
-  <tr style="text-align: left;">\
-  <td>\
-  <p>P311</p>\
-  </td>\
-  <td style="text-align: center;">\
-  <p>ESSENTIALS OF PHILOSOPHY</p>\
-  </td>\
-  <td style="text-align: right;">\
-  <p>3</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  </tr>\
-  <tr style="text-align: left;">\
-  <td>\
-  <p>H211</p>\
-  </td>\
-  <td style="text-align: center;">\
-  <p>ESSENTIALS OF WORLD HISTORY 1</p>\
-  </td>\
-  <td style="text-align: right;">\
-  <p>3</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  </tr>\
-  <tr style="text-align: left;">\
-  <td>\
-  <p>H212</p>\
-  </td>\
-  <td style="text-align: center;">\
-  <p>ESSENTIALS OF WORLD HISTORY 2</p>\
-  </td>\
-  <td style="text-align: right;">\
-  <p>3</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  </tr>\
-  <tr style="text-align: left;">\
-  <td>\
-  <p>H230</p>\
-  </td>\
-  <td style="text-align: center;">\
-  <p>ESSENTIALS OF U.S. HISTORY</p>\
-  </td>\
-  <td style="text-align: right;">\
-  <p>3</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  </tr>\
-  <tr style="text-align: left;">\
-  <td>\
-  <p>POL220</p>\
-  </td>\
-  <td style="text-align: center;">\
-  <p>U.S. GOVERNMENT</p>\
-  </td>\
-  <td style="text-align: right;">\
-  <p>3</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  </tr>\
-  <tr style="text-align: left;">\
-  <td>\
-  <p>ECN200</p>\
-  </td>\
-  <td style="text-align: center;">\
-  <p>ESSENTIALS OF ECONOMICS &amp; SOCIETY</p>\
-  </td>\
-  <td style="text-align: right;">\
-  <p>3</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  </tr>\
-  <tr style="text-align: left;">\
-  <td>\
-  <p>LS150</p>\
-  </td>\
-  <td style="text-align: center;">\
-  <p>ESSENTIALS OF BIOLOGY</p>\
-  </td>\
-  <td style="text-align: right;">\
-  <p>3</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  </tr>\
-  <tr style="text-align: left;">\
-  <td>\
-  <p>LS150L</p>\
-  </td>\
-  <td style="text-align: center;">\
-  <p>LAB: ESSENTIALS OF BIOLOGY</p>\
-  </td>\
-  <td style="text-align: right;">\
-  <p>1</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  <td>\
-  <p>&nbsp;</p>\
-  </td>\
-  </tr>\
-  <tr style="text-align: left;">\
-  <td style="text-align: left;">\
-  <p>MA240</p>\
-  </td>\
-  <td style="text-align: center;">\
-  <p>CRIT. THINKING &amp; QUANT ANALYSIS</p>\
-  </td>\
-  <td style="text-align: right;">\
-  <p>3</p>\
-  </td>\
-  <td style="text-align: center;">\
-  <p>&nbsp;</p>\
-  </td>\
-  <td>\
-  <p style="text-align: center;">&nbsp;</p>\
-  </td>\
-  </tr>\
-  </tbody>\
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>P311</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF PHILOSOPHY</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>H211</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF WORLD HISTORY 1</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>H212</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF WORLD HISTORY 2</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>H230</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF U.S. HISTORY</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>POL220</p>
+  </td>
+  <td style="text-align: center;">
+  <p>U.S. GOVERNMENT</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>ECN200</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF ECONOMICS & SOCIETY</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>LS150</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF BIOLOGY</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>LS150L</p>
+  </td>
+  <td style="text-align: center;">
+  <p>LAB: ESSENTIALS OF BIOLOGY</p>
+  </td>
+  <td style="text-align: right;">
+  <p>1</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td style="text-align: left;">
+  <p>MA240</p>
+  </td>
+  <td style="text-align: center;">
+  <p>CRIT. THINKING & QUANT ANALYSIS</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p> </p>
+  </td>
+  <td>
+  <p style="text-align: center;"> </p>
+  </td>
+  </tr>
+  </tbody>
   </table>
 
-  **\*Please note that this checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.\
-  \*\*AEW = American/English/World Literature. Any of the following fulfills this requirement: E211, E212, E221, E222, E231, and E232.\
-  \*\*\* EE = English Elective. Any English course fulfills this requirement.**
+  ***Please note that this checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.
+  **AEW = American/English/World Literature. Any of the following fulfills this requirement: E211, E212, E221, E222, E231, and E232.
+  *** EE = English Elective. Any English course fulfills this requirement.**
 layout: registrar
 ---
 
