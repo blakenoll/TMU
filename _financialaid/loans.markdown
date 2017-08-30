@@ -44,7 +44,55 @@ loan-counseling-body: |-
   This session will take about 30-40 minutes to complete.
 
   #### [Exit Loan Counseling](https://studentloans.gov/myDirectLoan/index.action)
-parent-loans-body: 
+parent-loans-body: |-
+  The Federal Direct Parent PLUS Loan is available to parents of dependent undergraduate students. The student must be enrolled in at least six units and the loan is limited to the cost of attendance. PLUS loans have a fixed interest rate of 7%, and the borrower must have no adverse credit history. Fees of 4.276% will be deducted from the loan principal at the time of disbursement. \
+  \
+  If you have any questions about parent loans, please contact the Office of Financial Aid at (661) 362-2290 or by email at financialaid@masters.edu.
+
+  ### Follow these easy steps to complete your PLUS Loan application!
+
+  \*Returning borrowers may go directly to Step Three.
+
+  ### 1. APPLY
+
+  Applications are processed directly through [www.studentloans.gov](https://studentloans.gov/myDirectLoan/index.action). The parent will sign with their FAFSA PIN.
+
+  ### 2. COMPLETE A MASTER PROMISSORY NOTE
+
+  This is the parent’s contract on the loan, and can also be completed at [www.studentloans.gov](https://studentloans.gov/myDirectLoan/index.action).
+
+  ### 3. SEND US A PLUS LOAN AMOUNT REQUEST FORM
+
+  [2017-2018 PLUS Loan Request Form](http://www.masters.edu/media/869877/plus_loan_amount_request_form_fillable.pdf "PLUS_Loan_Amount_Request_Form_Fillable.pdf") (This can also be found at [www.masters.edu/downloads](http://www.masters.edu/downloads)). Fax to 661-362-2693, email to financialaid@masters.edu, or mail to: The Master's University, 21726 Placerita Canyon Rd #38, Santa Clarita, CA 91321.
+
+  ## FAQ
+
+  1. What is the Office of Financial Aid's fax number?\
+     \(661)362-2693
+
+  2. Will my credit be checked?\
+     Yes. A parent borrower can request a credit check on the Direct Loan website, or the school can do it. By signing the PLUS Loan Amount Request Form, the parent is authorizing the Office of Financial Aid to run a credit check as part of the PLUS loan request. Credit checks are good for 90 days.
+
+  3. If I have questions about the Direct Loan PLUS Loan program, where can I go for more information?\
+     Parents can [click here](https://studentaid.ed.gov/sa/types/loans/plus) for more information about PLUS loans, or call the Direct Loan Origination Center (Applicant Services) 1-800-557-7394.
+
+  4. When does the PLUS loan go into repayment?\
+     Typically loans go into repayment within 60 days of the final disbursement. You can also call Direct Loan Borrower Services at 800-848-0979 to choose to defer the loan repayment until up to 6 months after your student is out of school.
+
+  5. Will I be able to consolidate all of my PLUS loans?\
+     Yes, all PLUS loans for each borrower can be consolidated into the Direct Loan program.
+
+  6. If I have another Direct PLUS loan from another school, do I need to complete a new MPN?\
+     No. A parent borrower with Direct PLUS loans from other schools just needs to complete a PLUS Loan Amount Request Form for our office and does not need to complete an additional MPN.
+
+  7. How can I calculate what my payments on a PLUS loan will be?\
+     [Click here](https://studentloans.gov/myDirectLoan/mobile/repayment/repaymentEstimator.action) for a loan calculator. PLUS loans are typically paid over 10 years or 120 months. The interest rate is 6.31%. Type in the loan amount and click “Compute Payment & Cost.”
+
+  8. Can I pay down the PLUS Loan early?\
+     There is no penalty for early repayment. If the loan is reduced by the Office of Financial Aid during the school year, the loan fees are credited back to the loan. Contact us for more information.
+
+  9. How do I add an endorser to my PLUS loan?\
+     Your endorser will need to add themselves to your PLUS loan. They will need their own FSA ID, which they can apply for at[ ](http://www.masters.edu/umbraco/fsaid.ed.gov)[fsaid.ed.gov](http://fsaid.ed.gov/). To complete their addition to your application they will need your PLUS loan application confirmation number, which can be found under the "PLUS Loan Requests" link on the left-hand side after you log into [www.studentloans.gov](http://www.studentloans.gov/). Once they have this number, they can select the "Complete Endorser Addenda" link.
 private-loans-body: 
 faq-body: |-
   ### Questions...
