@@ -1,5 +1,5 @@
 ---
-title: Communications
+title: Communication
 sm-image: "/uploads/AcademicsUndergradIcons_Communications.png"
 description: |-
   In a world where communication touches every realm of life, The Master’s University disciplines students to not only excel in their chosen focus, but also do so in a way that will glorify God. One of the most basic elements of Christianity is evangelism and a degree in Communications will set a student up with some of the best skills to reach the largest number of people; whether supporting Christian organizations or working in a secular work environment.
