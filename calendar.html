@@ -23,18 +23,36 @@ $(document).ready(function() {
 			},
 
       googleCalendarApiKey: 'AIzaSyDt87P0ZlRrdUVSH9fygbhMkNQ7Un5-jRw',
-        events: {
+      eventSources: [
+          {
             googleCalendarId: 'tmuadmissionsint@gmail.com',
-            color: '#0c2340;'
-        },
+            color: '#0c2340;',
+          },
+          {
+            googleCalendarId: 'masters.edu_dsllfd5r5asmuj73enpob6sk4c@group.calendar.google.com',
+            color: '#5E8Ab4;',
+          },
+          {
+            googleCalendarId: 'masters.edu_680837qa9n6ip72vdojm4teuqs@group.calendar.google.com',
+            color: '#DAAA00;',
+          },
+          ,
+          {
+            googleCalendarId: 'asbmail@masters.edu',
+            color: '#5B6770;',
+          }
+
+        ],
+
+
 
       eventClick: function(event) {
         if (event.url) {
           return false;
         }
-      },
+      }
 
-  })
+  });
 
 });
 </script>
