@@ -1,5 +1,5 @@
 ---
-title: webinarregistration
+title: webinar registration
 date: 2017-08-30 18:09:00 Z
 permalink: "/undergrad/webinarregistration/"
 layout: page
