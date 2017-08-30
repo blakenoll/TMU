@@ -632,6 +632,12 @@ footer {
   }
 }
 
+@media screen and (max-width: 360px) {
+  .stats {
+      height: 550px;
+  }
+}
+
 @media screen and (max-width: 598px) {
   .home-spacers {
       height: auto;
