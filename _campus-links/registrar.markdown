@@ -600,11 +600,11 @@ grades-body: |-
   <tr>
   <td>B+</td>
   <td>3.3</td>
+  <td>Good mastery of subject material, and evidences ability to effectively use acquired knowledge.</td>
   </tr>
   <tr>
   <td>B</td>
   <td>3</td>
-  <td>Good mastery of subject material, and evidences ability to effectively use acquired knowledge.</td>
   </tr>
   <tr>
   <td>B-</td>
@@ -613,11 +613,11 @@ grades-body: |-
   <tr>
   <td>C+</td>
   <td>2.3</td>
+  <td>Average grasp of subject material.</td>
   </tr>
   <tr>
   <td>C</td>
   <td>2</td>
-  <td>Average grasp of subject material.</td>
   </tr>
   <tr>
   <td>C-</td>
@@ -626,11 +626,12 @@ grades-body: |-
   <tr>
   <td>D+</td>
   <td>1.3</td>
+  <td>Minimal grasp of subject material.</td>
   </tr>
   <tr>
   <td>D</td>
   <td>1</td>
-  <td>Minimal grasp of subject material.</td>
+
   </tr>
   <tr>
   <td>D-</td>
