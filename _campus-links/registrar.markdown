@@ -581,67 +581,67 @@ forms-body: |-
 
   ## **[Weekly Schedule](http://www.masters.edu/media/617023/Weekly%20Schedule.pdf)**
 grades-body: |-
-  <table border="0" class="tmc_tblTmcTable">\
-  <tbody>\
-  <tr>\
-  <td class="tmc_tblTmcTableHeader"><span>Symbol</span></td>\
-  <td class="tmc_tblTmcTableHeader"><span>Grade Points</span></td>\
-  <td class="tmc_tblTmcTableHeader"><span>Explanation</span></td>\
-  </tr>\
-  <tr>\
-  <td valign="top">A</td>\
-  <td valign="top">4</td>\
-  <td valign="top">Thorough mastery of a subject material &amp; demonstrated effective use of creative resourcefulness.</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">A-</td>\
-  <td valign="top">3.7</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">B\+</td>\
-  <td valign="top">3.3</td>\
-  <td valign="top">Good mastery of subject material, and evidences ability to effectively use acquired knowledge.</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">B</td>\
-  <td valign="top">3</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">B-</td>\
-  <td valign="top">2.7</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">C\+</td>\
-  <td valign="top">2.3</td>\
-  <td valign="top">Average grasp of subject material.</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">C</td>\
-  <td valign="top">2</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">C-</td>\
-  <td valign="top">1.7</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">D\+</td>\
-  <td valign="top">1.3</td>\
+  <table border="0" class="tmc_tblTmcTable">
+  <tbody>
+  <tr>
+  <td class="tmc_tblTmcTableHeader"><span>Symbol</span></td>
+  <td class="tmc_tblTmcTableHeader"><span>Grade Points</span></td>
+  <td class="tmc_tblTmcTableHeader"><span>Explanation</span></td>
+  </tr>
+  <tr>
+  <td valign="top">A</td>
+  <td valign="top">4</td>
+  <td valign="top">Thorough mastery of a subject material & demonstrated effective use of creative resourcefulness.</td>
+  </tr>
+  <tr>
+  <td valign="top">A-</td>
+  <td valign="top">3.7</td>
+  </tr>
+  <tr>
+  <td valign="top">B\+</td>
+  <td valign="top">3.3</td>
+  <td valign="top">Good mastery of subject material, and evidences ability to effectively use acquired knowledge.</td>
+  </tr>
+  <tr>
+  <td valign="top">B</td>
+  <td valign="top">3</td>
+  </tr>
+  <tr>
+  <td valign="top">B-</td>
+  <td valign="top">2.7</td>
+  </tr>
+  <tr>
+  <td valign="top">C\+</td>
+  <td valign="top">2.3</td>
+  <td valign="top">Average grasp of subject material.</td>
+  </tr>
+  <tr>
+  <td valign="top">C</td>
+  <td valign="top">2</td>
+  </tr>
+  <tr>
+  <td valign="top">C-</td>
+  <td valign="top">1.7</td>
+  </tr>
+  <tr>
+  <td valign="top">D\+</td>
+  <td valign="top">1.3</td>
   <td valign="top">Minimal grasp of subject material.</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">D</td>\
-  <td valign="top">1</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">D-</td>\
-  <td valign="top">0.7</td>\
-  </tr>\
-  <tr>\
-  <td valign="top">F</td>\
-  <td valign="top">0</td>\
+  </tr>
+  <tr>
+  <td valign="top">D</td>
+  <td valign="top">1</td>
+  </tr>
+  <tr>
+  <td valign="top">D-</td>
+  <td valign="top">0.7</td>
+  </tr>
+  <tr>
+  <td valign="top">F</td>
+  <td valign="top">0</td>
   <td valign="top">Failure to attain minimal grasp of subject material.</td>\
-  </tr>\
-  </tbody>\
+  </tr>
+  </tbody>
   </table>
 media-ethics-body: |-
   ## I. Philosophy
