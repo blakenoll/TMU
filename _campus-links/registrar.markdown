@@ -626,7 +626,7 @@ grades-body: |-
   <tr>
   <td valign="top">D\+</td>
   <td valign="top">1.3</td>
-  <td valign="top">Minimal grasp of subject material.</td>\
+  <td valign="top">Minimal grasp of subject material.</td>
   </tr>
   <tr>
   <td valign="top">D</td>
@@ -639,7 +639,7 @@ grades-body: |-
   <tr>
   <td valign="top">F</td>
   <td valign="top">0</td>
-  <td valign="top">Failure to attain minimal grasp of subject material.</td>\
+  <td valign="top">Failure to attain minimal grasp of subject material.</td>
   </tr>
   </tbody>
   </table>
