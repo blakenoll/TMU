@@ -589,57 +589,57 @@ grades-body: |-
   <td class="tmc_tblTmcTableHeader"><span>Explanation</span></td>
   </tr>
   <tr>
-  <td valign="top">A</td>
-  <td valign="top">4</td>
-  <td valign="top">Thorough mastery of a subject material & demonstrated effective use of creative resourcefulness.</td>
+  <td>A</td>
+  <td>4</td>
+  <td>Thorough mastery of a subject material & demonstrated effective use of creative resourcefulness.</td>
   </tr>
   <tr>
-  <td valign="top">A-</td>
-  <td valign="top">3.7</td>
+  <td>A-</td>
+  <td>3.7</td>
   </tr>
   <tr>
-  <td valign="top">B+</td>
-  <td valign="top">3.3</td>
+  <td>B+</td>
+  <td>3.3</td>
   </tr>
   <tr>
-  <td valign="top">B</td>
-  <td valign="top">3</td>
-  <td valign="top">Good mastery of subject material, and evidences ability to effectively use acquired knowledge.</td>
+  <td>B</td>
+  <td>3</td>
+  <td>Good mastery of subject material, and evidences ability to effectively use acquired knowledge.</td>
   </tr>
   <tr>
-  <td valign="top">B-</td>
-  <td valign="top">2.7</td>
+  <td>B-</td>
+  <td>2.7</td>
   </tr>
   <tr>
-  <td valign="top">C+</td>
-  <td valign="top">2.3</td>
+  <td>C+</td>
+  <td>2.3</td>
   </tr>
   <tr>
-  <td valign="top">C</td>
-  <td valign="top">2</td>
-  <td valign="top">Average grasp of subject material.</td>
+  <td>C</td>
+  <td>2</td>
+  <td>Average grasp of subject material.</td>
   </tr>
   <tr>
-  <td valign="top">C-</td>
-  <td valign="top">1.7</td>
+  <td>C-</td>
+  <td>1.7</td>
   </tr>
   <tr>
-  <td valign="top">D+</td>
-  <td valign="top">1.3</td>
+  <td>D+</td>
+  <td>1.3</td>
   </tr>
   <tr>
-  <td valign="top">D</td>
-  <td valign="top">1</td>
-  <td valign="top">Minimal grasp of subject material.</td>
+  <td>D</td>
+  <td>1</td>
+  <td>Minimal grasp of subject material.</td>
   </tr>
   <tr>
-  <td valign="top">D-</td>
-  <td valign="top">0.7</td>
+  <td>D-</td>
+  <td>0.7</td>
   </tr>
   <tr>
-  <td valign="top">F</td>
-  <td valign="top">0</td>
-  <td valign="top">Failure to attain minimal grasp of subject material.</td>
+  <td>F</td>
+  <td>0</td>
+  <td>Failure to attain minimal grasp of subject material.</td>
   </tr>
   </tbody>
   </table>
