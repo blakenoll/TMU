@@ -110,7 +110,7 @@ The following video presentation (TMU LOGIN REQUIRED) is provided as a service t
 
 [Drug and Alcohol Abuse Prevention Program](http://www.masters.edu/financial-aid/heoa-cc-info/health-safety/drug-and-alcohol-abuse-prevention/)
 
-[Campus Safety Codes (Vehicle and Safety Policies)](http://www.masters.edu/media/868132/campus-safety-codes_aug-2016.pdf "Campus Safety Codes_Aug 2016.pdf (1)")
+[Campus Safety Codes (Vehicle and Safety Policies)](http://www.masters.edu/media/870173/campus-safety-codes_aug-2017.pdf "Campus Safety Codes_Aug 2017.pdf (1)")
 
 [Parking Map](http://www.masters.edu/visitorinfo/parking-information/)
 
