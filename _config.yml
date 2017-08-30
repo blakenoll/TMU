@@ -230,9 +230,8 @@ defaults:
     redirect_to: ''
     layout: redirect
 email: your-email@domain.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: Under the leadership of president Dr. John MacArthur, The Master's University
+  provides quality education both on campus and through online distance education.
 baseurl: 
 url: "//www.masters.edu"
 amazonurl: http://themastersuniv.s3-website-us-west-1.amazonaws.com
