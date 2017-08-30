@@ -527,14 +527,14 @@ ferpa-body: |-
 
   * To the governmental officials designated by law, or in compliance with a judicial order.
 finals-schedule-body: |-
-  <table border="1" cellspacing="0" cellpadding="7" width="631" height="328">\
+  <table class="bordered">\
   <tbody>\
   <tr>\
   <td class="boldText" style="text-align: center;">Exam Period</td>\
   <td class="boldText" style="text-align: center;">Mon, May 1</td>\
-  <td class="boldText" style="text-align: center;">Tues,&nbsp;May 2</td>\
-  <td class="boldText" style="text-align: center;">Wed,&nbsp;May 3</td>\
-  <td class="boldText" style="text-align: center;">Thur,&nbsp;May 4</td>\
+  <td class="boldText" style="text-align: center;">Tues, May 2</td>\
+  <td class="boldText" style="text-align: center;">Wed, May 3</td>\
+  <td class="boldText" style="text-align: center;">Thur, May 4</td>\
   </tr>\
   <tr>\
   <td style="text-align: center;"><strong>9:00-11:00am</strong></td>\
@@ -575,13 +575,13 @@ finals-schedule-body: |-
   </tbody>\
   </table>
 forms-body: |-
-  **[Add/Drop](http://www.masters.edu/media/869463/add-drop.pdf)**
+  ### **[Add/Drop](http://www.masters.edu/media/869463/add-drop.pdf)**
 
-  ## **[Change of Major](http://www.masters.edu/media/384460/Change%20of%20Major.pdf)**
+  ### **[Change of Major](http://www.masters.edu/media/384460/Change%20of%20Major.pdf)**
 
-  ## **[Weekly Schedule](http://www.masters.edu/media/617023/Weekly%20Schedule.pdf)**
+  ### **[Weekly Schedule](http://www.masters.edu/media/617023/Weekly%20Schedule.pdf)**
 grades-body: |-
-  <table border="0" class="tmc_tblTmcTable">
+  <table class="bordered">
   <tbody>
   <tr>
   <td class="tmc_tblTmcTableHeader"><span>Symbol</span></td>
@@ -598,7 +598,7 @@ grades-body: |-
   <td valign="top">3.7</td>
   </tr>
   <tr>
-  <td valign="top">B\+</td>
+  <td valign="top">B+</td>
   <td valign="top">3.3</td>
   <td valign="top">Good mastery of subject material, and evidences ability to effectively use acquired knowledge.</td>
   </tr>
@@ -611,7 +611,7 @@ grades-body: |-
   <td valign="top">2.7</td>
   </tr>
   <tr>
-  <td valign="top">C\+</td>
+  <td valign="top">C+</td>
   <td valign="top">2.3</td>
   <td valign="top">Average grasp of subject material.</td>
   </tr>
@@ -624,7 +624,7 @@ grades-body: |-
   <td valign="top">1.7</td>
   </tr>
   <tr>
-  <td valign="top">D\+</td>
+  <td valign="top">D+</td>
   <td valign="top">1.3</td>
   <td valign="top">Minimal grasp of subject material.</td>
   </tr>
