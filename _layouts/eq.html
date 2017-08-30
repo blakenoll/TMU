@@ -9,7 +9,7 @@ layout: page
 
     </ul>
   </div>
-  <div id="test1" class="col s12">{{ page.ssi-body }}</div>
-  <div id="test2" class="col s12">{{ page.aims-body }}</div>
+  <div id="test1" class="col s12">{{ page.ssi-body | replace: '\', '' }}</div>
+  <div id="test2" class="col s12">{{ page.aims-body | replace: '\', '' }}</div>
 
 </div>
