@@ -1,6 +1,154 @@
 ---
 title: Registrar
-articulation-body: 
+articulation-body: "ARTICULATION AGREEMENTS\nBelow are lists of courses that transfer
+  from other colleges to TMU. If your college is not listed, please submit the name
+  of the college, the name/code/description of the course(s) to Registrar@masters.edu
+  for approval.\n\n**NOTE** The General Education requirements changed for new students
+  entering the 2015 Fall semester. Lists that reflect the new General Education requirements
+  are indicated by FA15. For a helpful document outlining the changes for transfer
+  students, please click here. \n\nAlaska\n\nAlaska-Anchorage Community Colleges /
+  Alaska-Anchorage Community Colleges FA15\n\nArizona\n\nArizona Western College /
+  Arizona Western College FA15\n\nCentral Arizona College / Central Arizona College
+  FA15\n\nChandler Gilbert Community College / Chandler Gilbert Community College
+  FA15\n\nCochise College / Cochise College FA15\n\nCoconino County Community College
+  / Coconino County Community College FA15\n\nEastern Arizona College / Eastern Arizona
+  College FA15\n\nEstrella Mountain Community College / Estrella Mountain Community
+  College FA15\n\nGateWay Community College / GateWay Community College FA15\n\nGlendale
+  Community College / Glendale Community College FA15\n\nMesa Community College /
+  Mesa Community College FA15\n\nMohave Community College / Mohave Community College
+  FA15\n\nNorthland Pioneer College / Northland Pioneer College FA15\n\nParadise Valley
+  Community College / Paradise Valley Community College FA15\n\nPhoenix College /
+  Phoenix College FA15\n\nPima Community College / Pima Community College FA15\n\nRio
+  Salado Community College / Rio Salado Community College FA15\n\nScottsdale Community
+  College / Scottsdale Community College FA15\n\nSouth Mountain Community College
+  / South Mountain Community College FA15\n\nYavapai College / Yavapai College FA15\n\nCalifornia\n\nAllan
+  Hancock College / Allan Hancock College FA15\n\nAmerican River College / American
+  River College FA15\n\nAntelope Valley College / Antelope Valley College FA15\n\nBakersfield
+  College / Bakersfield College FA15\n\nBarstow College / Barstow College FA15\n\nBerkeley
+  City College / Berkeley City College FA15\n\nButte College / Butte College FA15\n\nCabrillo
+  College / Cabrillo College FA15\n\nCañada College / Cañada College FA15\n\nCerritos
+  College / Cerritos College FA15\n\nCerro Coso Community College / Cerro Coso Community
+  College FA15\n\nChabot College / Chabot College FA15\n\nChaffey College / Chaffey
+  College FA15\n\nCitrus College / Citrus College FA15\n\nCity College of San Francisco
+  / City College of San Francisco FA15\n\nClovis College FA15\n\nCoastline Community
+  College / Coastline Community College FA15\n\nCollege of Alameda / College of Alameda
+  FA15\n\nCollege of Marin / College of Marin FA15\n\nCollege of San Mateo / College
+  of San Mateo FA15\n\nCollege of the Canyons / College of the Canyons FA15\n\nCollege
+  of the Desert / College of the Desert FA15\n\nCollege of the Redwoods / College
+  of the Redwoods FA15\n\nCollege of the Sequoias / College of the Sequoias FA15\n\nCollege
+  of the Siskiyous / College of the Siskiyous FA15\n\nColumbia College / Columbia
+  College FA15\n\nContra Costa College / Contra Costa College FA15\n\nCopper Mountain
+  College / Copper Mountain College FA15\n\nCosumnes River College / Cosumnes River
+  College FA15\n\nCrafton Hills College / Crafton Hills College FA15\n\nCuesta College
+  / Cuesta College FA15\n\nCuyamaca College / Cuyamaca College FA15\n\nCypress College
+  / Cypress College FA15\n\nDeAnza College / DeAnza College FA15\n\nDiablo Valley
+  College / Diablo Valley College FA15\n\nEast Los Angeles College / East Los Angeles
+  College FA15\n\nEl Camino College / El Camino College FA15\n\nEvergreen Valley College
+  / Evergreen Valley College FA15\n\nFeather River College / Feather River College
+  FA15\n\nFolsom Lake College / Folsom Lake College FA15\n\nFoothill College / Foothill
+  College FA15\n\nFresno City College / Fresno City College FA15\n\nFullerton College
+  / Fullerton College FA15\n\nGavilan College / Gavilan College FA15\n\nGlendale Community
+  College / Glendale Community College FA15\n\nGolden West College / Golden West College
+  FA15\n\nGrossmont College / Grossmont College FA15\n\nHartnell College / Hartnell
+  College FA15\n\nImperial Valley College / Imperial Valley College FA15\n\nIrvine
+  Valley College / Irvine Valley College FA15\n\nLake Tahoe Community College / Lake
+  Tahoe Community College FA15\n\nLaney College / Laney College FA15\n\nLas Positas
+  College / Las Positas College FA15\n\nLassen College / Lassen College FA15\n\nLong
+  Beach City College / Long Beach City College FA15\n\nLos Angeles Bible Training
+  School FA15\n\nLos Angeles City College / Los Angeles City College FA15\n\nLos Angeles
+  Harbor College / Los Angeles Harbor College FA15\n\nLos Angeles Mission College
+  / Los Angeles Mission College FA15\n\nLos Angeles Pierce College / Los Angeles Pierce
+  College FA15\n\nLos Angeles Southwest College / Los Angeles Southwest College FA15\n\nLos
+  Angeles Trade-Tech College / Los Angeles Trade-Tech College FA15\n\nLos Angeles
+  Valley College / Los Angeles Valley College FA15\n\nLos Medanos College / Los Medanos
+  College FA15\n\nMendocino College / Mendocino College FA15\n\nMerced College / Merced
+  College FA15\n\nMerritt College / Merritt College FA15\n\nMiracosta College / Miracosta
+  College FA15\n\nMission College / Mission College FA15\n\nModesto Junior College
+  / Modesto Junior College FA15\n\nMonterey Peninsula College / Monterey Peninsula
+  College FA15\n\nMoorpark College / Moorpark College FA15\n\nMoreno Valley College
+  / Moreno Valley College FA15\n\nMt. San Antonio College / Mt. San Antonio College
+  FA15\n\nMt. San Jacinto College / Mt. San Jacinto College FA15\n\nNapa Valley College
+  / Napa Valley College FA15\n\nNorco College / Norco College FA15\n\nOhlone College
+  / Ohlone College FA15\n\nOrange Coast College / Orange Coast College FA15\n\nOxnard
+  College / Oxnard College FA15\n\nPalo Verde College / Palo Verde College FA15\n\nPalomar
+  College / Palomar College FA15\n\nPasadena City College / Pasadena City College
+  FA15\n\nPorterville College / Porterville College FA15\n\nReedley College / Reedley
+  College FA15\n\nRio Hondo College / Rio Hondo College FA15\n\nRiverside City College
+  / Riverside City College FA15\n\nSacramento City College / Sacramento City College
+  FA15\n\nSaddleback College / Saddleback College FA15\n\nSan Bernardino Valley College
+  / San Bernardino Valley College FA15\n\nSan Diego City College / San Diego City
+  College FA15\n\nSan Diego Mesa College / San Diego Mesa College FA15\n\nSan Diego
+  Miramar College / San Diego Miramar College FA15\n\nSan Joaquin Delta College /
+  San Joaquin Delta College FA15\n\nSan Jose City College / San Jose City College
+  FA15\n\nSanta Ana College / Santa Ana College FA15\n\nSanta Barbara City College
+  / Santa Barbara City College FA15\n\nSanta Monica College / Santa Monica College
+  FA15\n\nSanta Rosa Junior College / Santa Rosa Junior College FA15\n\nSantiago Canyon
+  College /Santiago  Canyon College FA15\n\nShasta College / Shasta College FA15\n\nSierra
+  College / Sierra College FA15\n\nSkyline College / Skyline College FA15\n\nSolano
+  Community College / Solano Community College FA15\n\nSouthwestern College / Southwestern
+  College FA15\n\nTaft College / Taft College FA15\n\nVentura College / Ventura College
+  FA15\n\nVictor Valley College / Victor Valley College FA15\n\nWest Hills College
+  Coalinga / West Hills College Coalinga FA15\n\nWest Hills College Lemoore / West
+  Hills College Lemoore FA15\n\nWest Los Angeles College / West Los Angeles College
+  FA15\n\nWest Valley College / West Valley College FA15\n\nWoodland Community College
+  / Woodland Community College FA15\n\nYuba College / Yuba College FA15\n\nColorado\n\nMorgan
+  Community College / Morgan Community College FA15\n\nHawaii\n\nLeeward Community
+  College FA15\n\nWindward COmmunity College FA15\n\nIdaho\n\nCollege of Western Idaho
+  / College of Western Idaho FA15\n\nNorth Idaho College / North Idaho College FA15\n\nUniversity
+  of Idaho (On-line) / University of Idaho (On-line) FA15\n\nIowa\n\nDes Moines Area
+  Community College FA15\n\nIllinois\n\nCollege of Lake County FA15\n\nIllinois Central
+  College FA15\n\nKansas\n\nButler Community College / Butler Community College FA15\n\nOklahoma\n\nTulsa
+  Community College FA15\n\nNebraska\n\nMid-Plain Community College FA15\n\nNevada\n\nWestern
+  Nevada College FA15\n\nNew Mexico\n\nClovis College FA15\n\nOregon\n\nBlue Mountain
+  Community College / Blue Mountain Community College FA15\n\nCentral Oregon Community
+  College / Central Oregon Community College FA15\n\nChemeketa Community College /
+  Chemeketa Community College FA15\n\nClackamas Community College / Clackamas Community
+  College FA15\n\nClatsop Community College / Clatsop Community College FA15\n\nColumbia
+  Gorge Community College FA15\n\nKlamath Community College / Klamath Community College
+  FA15\n\nLane Community College / Lane Community College FA15\n\nLinn-Benton Community
+  College / Linn-Benton Community College FA15\n\nMount Hood Community College / Mount
+  Hood Community College FA15\n\nOregon Coast Community College / Oregon Coast Community
+  College FA15\n\nPortland Community College / Portland Community College FA15\n\nRogue
+  Community College / Rogue Community College FA15\n\nSouthwestern Oregon Community
+  College / Southwestern Oregon Community College FA15\n\nTillamook Bay Community
+  College / Tillamook Bay Community College FA15\n\nTreasure Valley Community College
+  / Treasure Valley Community College FA15\n\nUmpqua Community College / Umpqua Community
+  College FA15\n\nTexas\n\nCedar Valley College / Cedar Valley College FA15\n\nCentral
+  Texas College / Central Texas College FA15\n\nDallas County College FA15\n\nHouston
+  Community College / Houston Community College FA15\n\nSt. Philip's Community College
+  FA15\n\nNorthwest Vista College / Northwest Vista College FA15\n\nTarrant County
+  College / Tarrant County College F15\n\nVictoria College FA15\n\nWestern Texas College
+  FA15\n\nWharton County Junior College FA15\n\nUtah\n\nSalt Lake City Community College
+  FA15\n\nWashington\n\nBellevue College / Bellevue College FA15\n\nBig Bend Community
+  College / Big Bend Community College FA15\n\nCascadia Community College / Cascadia
+  Community College FA15\n\nCentralia College / Centralia College FA15\n\nClark College
+  / Clark College FA15\n\nColumbia Basin College / Columbia Basin College FA15\n\nEdmonds
+  Community College / Edmonds Community College FA15\n\nEverett Community College
+  / Everett Community College FA15\n\nGrays Harbor College / Grays Harbor College
+  FA15\n\nGreen River Community College / Green River Community College FA15\n\nHighline
+  Community College / Highline Community College FA15\n\nLower Columbia College /
+  Lower Columbia College FA15\n\nNorth Seattle Community College / North Seattle Community
+  College FA15\n\nOlympic College / Olympic College FA15\n\nPeninsula College / Peninsula
+  College FA15\n\nPierce College / Pierce College FA15\n\nSeattle Central Community
+  College / Seattle Central Community College FA15\n\nShoreline Community College
+  / Shoreline Community College FA15\n\nSkagit Valley College / Skagit Valley College
+  FA15\n\nSouth Puget Sound Community College / South Puget Sound Community College
+  FA15\n\nSouth Seattle Community College / South Seattle Community College FA15\n\nSpokane
+  Community College / Spokane Community College FA15\n\nSpokane Falls Community College
+  / Spokane Falls Community College FA15\n\nTacoma Community College / Tacoma Community
+  College FA15\n\nWalla Walla Community College / Walla Walla Community College FA15\n\nWenatchee
+  Valley College / Wenatchee Valley College FA15\n\nWhatcom Community College / Whatcom
+  Community College FA15\n\nYakima Valley Community College / Yakima Valley Community
+  College FA15\n\nOther Colleges \n\nAmerican Public University / American Public
+  University FA15\n\nAmerican Samoa Community College / American Samoa Community College
+  FA15\n\nCentral Carolina Community College / Central Carolina Community College
+  FA15\n\nCentral Lakes College / Central Lakes College (MN) FA15\n\nCentury College
+  / Century College (MN) FA15\n\nLiberty University / Liberty University FA15\n\nLouisiana
+  State University / Louisiana State University FA15\n\nNashville State Community
+  College FA15\n\nNorth Central Michigan College FA15\n\nTruckee Meadows Community
+  College / Truckee Meadows Community College F15\n\nWord of Life / Word of Life FA15\n\nTests\n\nAP
+  Tests / AP Tests FA15\n\nCLEP Tests / CLEP Tests FA15\n\nDSST Tests / DSST Tests
+  FA15\n\nIB Exams / IB Exams FA15"
 ferpa-body: |-
   ## Family Education Rights and Privacy Act of 1974 as Amended
 
