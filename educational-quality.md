@@ -1,5 +1,5 @@
 ---
-title: educational equality
+title: educational quality
 ssi-body: |-
   <h1 style="text-align: left;">Noel-Levitz Student Satisfaction Inventory Summary Reports</h1>\
   <p>The Noel-Levitz Student Satisfaction Inventory (SSI) is a 100\+ item national survey which asks students to use two 7-step scales to rate the relative <span style="text-decoration: underline;">importance</span> and their relative <span style="text-decoration: underline;">satisfaction</span> with virtually every aspect of college life.  The Master's University administered the SSI annually from 1997 to 2008 during the month of November.  Beginning in 2010, the schedule was shifted to administer the survey to its students during the fall semester of every even-numbered years.</p>\
