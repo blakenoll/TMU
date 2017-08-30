@@ -77,7 +77,7 @@ layout: default
           </li>
           <li>
             <div class="collapsible-header">Transcript</div>
-            <div class="collapsible-body"><span>{{ page.transcript-body | markdownify }}</span></div>
+            <div class="collapsible-body"><span>{{ page.transcript-body | markdownify | replace: '\', '' }}</span></div>
           </li>
           <li>
             <div class="collapsible-header">Transfer Policy</div>
