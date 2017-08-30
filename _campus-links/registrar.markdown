@@ -820,30 +820,67 @@ senior-body: |-
   Summa Cum Laude........3.85-4.00
 
   Honors recognized in the graduation ceremony may be changed based on the processing of final grades.
-transcript-body: "To better serve the needs of our students and alumni, we are implementing
-  the use of Transcripts on Demand for online ordering and Credentials eScrip-Safe
-  for electronic delivery. Academic transcripts are maintained for every student ever
-  in attendance at The Master's University, The Master's Institute, The Master's Seminary,
-  Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. An official
-  transcript will not be released if the student is indebted to the university or
-  seminary.\n\n\\*\\*\\*Students applying to The Master's Seminary do not need to
-  order an official transcript. Please contact TMS for assistance. \\\n\n## Official
-  Transcript Requests\n\n\\*\\*\\*Processing time may be delayed at the beginning
-  and end of the semester. Thank you for your patience! \n\n### Electronic delivery\n\n###
-  $7\n\n### Mail delivery\n\n### $9\n\n## [The Master's University, LABC, The Master's
-  Institute](https://www.iwantmytranscript.com/masterscollege \"TMU Transcripts on
-  Demand\")\n\n## [The Master's Seminary, LABTS](https://www.iwantmytranscript.com/mastersseminary
-  \"TMS Transcripts on Demand\")\n\n*(For attendance at both TMU & TMS, ordering is
-  separate and there will be a charge per institution.)*\n\n## [SPECIAL CIRCUMSTANCES](http://www.masters.edu/media/656301/Transcript%20Request%20Form%20NEW.pdf
-  \"Transcript Request Form\")\n\nPaper form ordering required: Please use [this form](http://www.masters.edu/media/869316/transcript-request-form-new-081216.pdf
-  \"Transcript Request Form NEW 081216.pdf\")\n\nScholarships for attendance at TMU/TMS
-  (*no charge*)\\\nStaff/Faculty (*no charge*)\n\n### [Unofficial Transcript Request
-  Form](http://www.masters.edu/media/455937/unofficial-transcript-request.pdf \"Unofficial
-  Transcript Request\") *(no charge)*\n\n### [Copy of Diploma Request Form](http://www.masters.edu/media/868032/diploma-request-form.pdf
-  \"Diploma Request Form\") *$10*\n\n## Contact Us\n\nPhone: (661) 362-2813 or (800)
-  568-6248 x2813\n\nFax: (661) 362-2722 (*private & secure*)\n\nEmail: [Registrar@masters.edu](mailto:Registrar@masters.edu)
-  (*if scanning paper form, call in credit card info*)\n\nMail: The Master's University,
-  Office of the Registrar, 21726 Placerita Canyon Road, Santa Clarita, CA 91321"
+transcript-body: |-
+  <h1><strong><span>Transcripts</span></strong></h1>\
+  <p><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&amp;s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services" class="btn btn-blue"><strong><span>ORDER TRANSCRIPTS</span></strong></a></p>\
+  <p><strong>\*Update: Effective June 30, 2017 (Friday), The Registrar's Office will be implementing the use of Parchment for online ordering and electronic delivery. The Master's University and Seminary students will have the option to order transcripts with mail delivery, eTranscript, and/or campus pick-up.</strong></p>\
+  <p><strong>\*\*The Master's University students applying to The Master's Seminary do not need to order an official transcript. Please contact TMS for assistance. Separate orders are no longer required for those attending both TMU and TMS and only one fee will be charged per order. </strong></p>\
+  <p>Academic transcripts are maintained for every student ever in attendance at The Master's University, The Master's Institute, The Master's Seminary, Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. Transcripts will not be released unless all financial obligations to the University or Seminary have been met. It is the student's responsibility to clear all holds on his/her account before ordering a transcript. If you have questions regarding a STOP, please contact the Student Accounts Office at <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a> or call (661)362-2212.  </p>\
+  <p><span> <br /> </span></p>\
+  <h2><strong><span>Processing time</span></strong></h2>\
+  <p><span>Please allow 3-5 business days for processing. Rush processing is available for $10 in addition to transcript fee and is processed within 2 business days. Processing time may be delayed at the beginning and end of the semester. Thank you for your patience! <br /> <br /> </span></p>\
+  <h2><strong><span>Official Transcript Fees </span></strong></h2>\
+  <table border="0" width="196" height="102">\
+  <tbody>\
+  <tr>\
+  <td> </td>\
+  <td style="text-align: center;"><strong> </strong></td>\
+  </tr>\
+  <tr>\
+  <td><strong>Electronic delivery</strong></td>\
+  <td style="text-align: center;"><strong><strong>$12</strong></strong></td>\
+  </tr>\
+  <tr>\
+  <td><strong>Mail delivery</strong></td>\
+  <td style="text-align: center;"><strong>$15</strong></td>\
+  </tr>\
+  <tr>\
+  <td><strong>Campus Pick-up</strong></td>\
+  <td style="text-align: center;"><strong>$10</strong></td>\
+  </tr>\
+  </tbody>\
+  </table>\
+  <h2><strong style="color: #7a7a7a; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;">\*\*\*Please be aware that if you order an eTranscript to be sent to your own email, it will no longer be considered official when it is printed. The word COPY will appear as latent images across the face of the transcript.</strong></h2>\
+  <p> </p>\
+  <h2><strong><span>Delivery Options and Fees</span></strong></h2>\
+  <ul>\
+  <li><strong><span><strong><strong>The Registrar's Office Rush Processing (within 2 business days): </strong></strong></span></strong>$10<strong><span><strong><br /></strong></span></strong></li>\
+  <li><strong><span>USPS First Class Mail: </span></strong><span>No additional charge</span></li>\
+  <li><strong><span>FedEx Overnight Domestic Fee with a tracking number: </span></strong><span>$28 per address (in addition to transcript fee)</span></li>\
+  <li><strong><span>USPS International: </span></strong><span>$5 per address (in addition to transcript fee)</span></li>\
+  <li><strong><span>FedEx Overnight International Fee with a tracking number:</span></strong><span> $50.50 per address (in addition to transcript fee)</span></li>\
+  <li><strong><span>Electronic Delivery: </span></strong><span>No additional charge<br /> <br /> </span></li>\
+  </ul>\
+  <h3><strong>Unofficial Transcript </strong></h3>\
+  <p>Current students may obtain their unofficial transcript by logging onto <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">Self-Service</a>. If you are a former student/alumni and have a <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">TMU Login</a> or <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">Self-Service</a> account but do not remember your username and password, please contact IT Service Desk for assistance at servicedesk@masters.edu and/or (661)362-2876. Online unofficial transcripts are not available for students who attended prior 2000, you may request unofficial transcripts by filling out the form below. </p>\
+  <p><a href="/media/455937/unofficial-diploma-request-82217.pdf" target="_blank"><strong>Unofficial Transcript Request Form</strong></a><strong> (no charge) </strong></p>\
+  <p> </p>\
+  <h3><strong>Diploma Replacement</strong></h3>\
+  <p><a href="http://www.masters.edu/media/868032/diploma-request-form.pdf" target="_blank"><strong>Diploma Request Form</strong></a><strong> $10</strong></p>\
+  <p> </p>\
+  <h2><strong>Special Circumstances</strong></h2>\
+  <p><span>For <strong>scholarship or TMU staff/faculty</strong>, no transcript fees for First Class mail delivery or campus pick-up. Email delivery is $4 and an account must be created. </span></p>\
+  <p><strong>First Class mail delivery</strong>: please complete and email/mail/fax the <a href="/media/870273/transcript-request-form-81717-new.pdf" target="_blank"><span style="text-decoration: underline;">Transcript Request Form</span></a> below to the Office of the Registrar.<br /><strong>Email Delivery: </strong>Please <span style="text-decoration: underline;"><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&amp;s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services">click here</a></span> and create an account. Once you have created an account under Step 1, do not proceed to Step 2. Contact the Office of the Registrar at (661)362-2813 and/or registrar@masters.edu to complete the process. </p>\
+  <h2><strong><br />How to Order Transcripts </strong></h2>\
+  <p><a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&amp;feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a><iframe src="https://www.youtube.com/embed/_QtJ0uny2SA" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>\
+  <h2> </h2>\
+  <h2><strong>Frequently Asked Questions </strong></h2>\
+  <p><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&amp;s_id=L4S7GNOkItUPs1U3" target="_blank">Please click here<br /></a></strong><strong> </strong><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&amp;s_id=L4S7GNOkItUPs1U3" target="_blank"><br /></a></strong></p>\
+  <h2><strong><span>Contact Us</span></strong></h2>\
+  <p><span><strong>Phone</strong>: (661) 362-2813 or (800) 568-6248 x2813</span></p>\
+  <p><span><strong>Fax</strong>: (661) 362-2722 (private &amp; secure)</span></p>\
+  <p><span><strong>Email</strong>: </span><a href="mailto:Registrar@masters.edu"><span>Registrar@masters.edu</span></a><span> (if scanning paper form, call in credit card info)</span></p>\
+  <p><span><strong>Mail</strong>: The Master's University, Office of the Registrar, 21726 Placerita Canyon Road, Santa Clarita, CA 91321</span></p>
 transfer-policy-body: "## Transfer Students\n\n### Transfer Credit Policies\n\nTMU
   grants credit for college level coursework from other colleges and universities
   based on the following criteria:\n\n1. The student must have good standing at the
