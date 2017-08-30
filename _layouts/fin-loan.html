@@ -5,7 +5,7 @@ layout: financialaid
 <ul class="collapsible" data-collapsible="accordion">
   <li>
     <div class="collapsible-header">Student Loans</div>
-    <div class="collapsible-body"><span>{{ content | markdownify | replace '\', ''}}</span></div>
+    <div class="collapsible-body"><span>{{ content | markdownify | replace: '\' , '' }}</span></div>
   </li>
   <li>
     <div class="collapsible-header">Stafford Loans</div>
