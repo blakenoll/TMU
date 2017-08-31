@@ -380,7 +380,7 @@ upcoming-events:
   description: Time Management
 - title: Guest Recital with Armen Anassian, violin
   date: 2017-09-21 00:00:00 Z
-  description: Opera Orchestra
+  description: " Los Angeles Opera Orchestra"
 layout: pamusic
 ---
 
