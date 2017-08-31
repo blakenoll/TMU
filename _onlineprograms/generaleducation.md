@@ -4,7 +4,7 @@ sm-image: "/uploads/AcademicsOnline_OnlineGenEd.png"
 level: undergrad
 ---
 
-<h1>Online General Education &amp; Elective Courses</h1>
+<h1>Online General Education & Elective Courses</h1>
 <ul class="button-list" style="float: right; width: 250px; margin-left: 10px;">
 <li><a href="https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB" target="_blank" class="btn btn-navy">Apply Now</a></li>
 <li><a href="https://masters.tfaforms.net/217726" target="_top" title="TMU Online Inquiry" class="btn btn-navy">Request Information</a></li>
@@ -19,7 +19,7 @@ level: undergrad
 <div>
 <h2>Required General Education Courses</h2>
 <p>Click on the name of the course to view the description . All currently available courses are offered every session. </p>
-<table border="3" width="803" height="958" style="width: 849px; height: 958px; margin-left: auto; margin-right: auto;">
+<table class="bordered">
 <tbody>
 <tr>
 <td style="text-align: center;">
@@ -52,7 +52,7 @@ level: undergrad
 <p>Mike Grisanti</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ level: undergrad
 <p>Mike Grisanti</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ level: undergrad
 <p>Tom Halstead</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ level: undergrad
 <p>Tom Halstead</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ level: undergrad
 <p>TBA</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 <p>Course will be available 2018</p>
 </td>
 </tr>
@@ -138,7 +138,7 @@ level: undergrad
 <p>Brian Morley</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ level: undergrad
 <p>Brian Morley</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ level: undergrad
 <p>Bob Dickson</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ level: undergrad
 <p>Morgan Voorhis</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ level: undergrad
 <p>Kevin Hill</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ level: undergrad
 <p>Dan Roland</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +257,7 @@ level: undergrad
 <p>Dan Roland/John Melcon</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +274,7 @@ level: undergrad
 <p>Clyde Greer</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -291,7 +291,7 @@ level: undergrad
 <p>Joe Francis</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -308,7 +308,7 @@ level: undergrad
 <p>Joe Francis</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ level: undergrad
 <p>MA240</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23537}" target="_blank" title="MA240">Critical Thinking &amp; Problem Solving</a></p>
+<p><a href="/{localLink:23537}" target="_blank" title="MA240">Critical Thinking & Problem Solving</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -325,7 +325,7 @@ level: undergrad
 <p>Claire Blackwell</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -333,7 +333,7 @@ level: undergrad
 <p>MU190</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23538}" target="_blank" title="MU190">Essentials of Music &amp; Art</a></p>
+<p><a href="/{localLink:23538}" target="_blank" title="MU190">Essentials of Music & Art</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -342,7 +342,7 @@ level: undergrad
 <p>Ruta Bloomfield</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -359,7 +359,7 @@ level: undergrad
 <p>Brian Morley</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 <tr>
@@ -376,7 +376,7 @@ level: undergrad
 <p>Dan Roland</p>
 </td>
 <td style="text-align: center;">
-<p>YES*</p>
+<p>YES\*</p>
 </td>
 </tr>
 </tbody>
@@ -386,9 +386,9 @@ level: undergrad
 <p><!--EndFragment--></p>
 </div>
 <h2>Elective Courses</h2>
-<table border="3" class="table table-responsive">
+<table class="bordered">
 <tbody>
-<tr bordercolor="black"><th align="left" style="text-align: center;"><span>Course #</span></th><th align="left" style="text-align: center;"><span>Course &amp; Sample Clip<br /></span></th><th align="center" style="text-align: center;"><span>Units</span></th><th align="left" style="text-align: center;"><span>Facilitator</span></th><th align="left" style="text-align: center;"><span>Special Notes</span></th></tr>
+<tr bordercolor="black"><th align="left" style="text-align: center;"><span>Course #</span></th><th align="left" style="text-align: center;"><span>Course & Sample Clip<br /></span></th><th align="center" style="text-align: center;"><span>Units</span></th><th align="left" style="text-align: center;"><span>Facilitator</span></th><th align="left" style="text-align: center;"><span>Special Notes</span></th></tr>
 <tr>
 <td style="text-align: center;">B340</td>
 <td style="text-align: center;"><a href="/{localLink:23526}" title="B340">Biblical Interpretation</a></td>
@@ -412,7 +412,7 @@ level: undergrad
 </tr>
 <tr>
 <td style="text-align: center;">BC300</td>
-<td style="text-align: center;"><a rel="overlay_iframe" href="/academics/online/courses/BC300.aspx?width=610&amp;height=1320" title="BC300: Introduction to Biblical Counseling"></a><a href="/{localLink:23529}" title="BC300">Introduction to Biblical Counseling</a></td>
+<td style="text-align: center;"><a rel="overlay_iframe" href="/academics/online/courses/BC300.aspx?width=610&height=1320" title="BC300: Introduction to Biblical Counseling"></a><a href="/{localLink:23529}" title="BC300">Introduction to Biblical Counseling</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Dr. Ernie Baker</td>
 <td style="text-align: center;"> </td>
@@ -433,14 +433,14 @@ level: undergrad
 </tr>
 <tr>
 <td style="text-align: center;">CH260</td>
-<td style="text-align: center;"><a href="/{localLink:40209}" title="CH260">Introduction to General, Organic, &amp; Biochemistry</a></td>
+<td style="text-align: center;"><a href="/{localLink:40209}" title="CH260">Introduction to General, Organic, & Biochemistry</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Ross Anderson</td>
 <td style="text-align: center;">This is a 16 week course</td>
 </tr>
 <tr>
 <td style="text-align: center;">E211</td>
-<td style="text-align: center;"><a rel="overlay_iframe" href="/academics/online/courses/E211.aspx?width=610&amp;height=800" title="E211: English Literature I"></a><a href="/{localLink:23533}" title="E211">English Literature I</a></td>
+<td style="text-align: center;"><a rel="overlay_iframe" href="/academics/online/courses/E211.aspx?width=610&height=800" title="E211: English Literature I"></a><a href="/{localLink:23533}" title="E211">English Literature I</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Bob Dickson</td>
 <td style="text-align: center;">Fulfills Either GE Literature Course*</td>
@@ -450,7 +450,7 @@ level: undergrad
 <td style="text-align: center;"><a href="/{localLink:23541}" title="E221">World Literature I</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Bob Dickson</td>
-<td style="text-align: center;">Fulfills Either GE Literature Course*</td>
+<td style="text-align: center;">Fulfills Either GE Literature Course\*</td>
 </tr>
 <tr>
 <td style="text-align: center;">ECN210</td>
