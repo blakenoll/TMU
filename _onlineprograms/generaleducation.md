@@ -44,7 +44,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>B101</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23522}" target="_blank" title="B101">Old Testament Survey I</a></p>
+<p><a href="#" target="_blank" title="B101">Old Testament Survey I</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -61,7 +61,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>B102</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23523}" target="_blank" title="B102">Old Testament Survey II</a></p>
+<p><a href="#" target="_blank" title="B102">Old Testament Survey II</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -78,7 +78,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>B201</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23524}" target="_blank" title="B201">New Testament Survey I</a></p>
+<p><a href="#" target="_blank" title="B201">New Testament Survey I</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -95,7 +95,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>B202</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23525}" target="_blank" title="B202">New Testament Survey II</a></p>
+<p><a href="#" target="_blank" title="B202">New Testament Survey II</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -112,7 +112,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>B221</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:40946}" target="_blank" title="B221 Essentials of Christian Thought">Essentials of Christian Thought</a></p>
+<p><a href="#" target="_blank" title="B221 Essentials of Christian Thought">Essentials of Christian Thought</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -130,7 +130,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>BTH321</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23530}" target="_blank" title="BTH321">Christian Theology I</a></p>
+<p><a href="#" target="_blank" title="BTH321">Christian Theology I</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -147,7 +147,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>BTH322</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23531}" target="_blank" title="BTH322">Christian Theology II</a></p>
+<p><a href="#" target="_blank" title="BTH322">Christian Theology II</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -164,7 +164,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>C100</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23546}" target="_blank" title="C100">Spoken Communications</a></p>
+<p><a href="#" target="_blank" title="C100">Spoken Communications</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -181,7 +181,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>E110</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23532}" target="_blank" title="E110">English Composition</a></p>
+<p><a href="#" target="_blank" title="E110">English Composition</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -232,7 +232,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>H211</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23534}" target="_blank" title="H211">World History I</a></p>
+<p><a href="#" target="_blank" title="H211">World History I</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -249,7 +249,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>H212</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23535}" target="_blank" title="H212">World History II</a></p>
+<p><a href="#" target="_blank" title="H212">World History II</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -266,7 +266,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>H230</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:42539}" target="_blank" title="H230 U.S. History">U.S. History</a></p>
+<p><a href="#" target="_blank" title="H230 U.S. History">U.S. History</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -283,7 +283,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>LS200</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23536}" target="_blank" title="LS200">Foundations of Science</a></p>
+<p><a href="#" target="_blank" title="LS200">Foundations of Science</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -300,7 +300,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>LS150L</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:40206}" target="_blank" title="LS150L">Lab: Essentials of Biology</a></p>
+<p><a href="#" target="_blank" title="LS150L">Lab: Essentials of Biology</a></p>
 </td>
 <td style="text-align: center;">
 <p>1</p>
@@ -317,7 +317,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>MA240</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23537}" target="_blank" title="MA240">Critical Thinking & Problem Solving</a></p>
+<p><a href="#" target="_blank" title="MA240">Critical Thinking & Problem Solving</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -334,7 +334,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>MU190</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23538}" target="_blank" title="MU190">Essentials of Music & Art</a></p>
+<p><a href="#" target="_blank" title="MU190">Essentials of Music & Art</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -351,7 +351,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>P311</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23539}" target="_blank" title="P311">Introduction to Philosophy</a></p>
+<p><a href="#" target="_blank" title="P311">Introduction to Philosophy</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -368,7 +368,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>POL220</p>
 </td>
 <td style="text-align: center;">
-<p><a href="/{localLink:23540}" target="_blank" title="POL220">U.S. Government</a></p>
+<p><a href="#" target="_blank" title="POL220">U.S. Government</a></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
@@ -392,98 +392,98 @@ parallax-img: "/images/Parallax3.jpg"
 <tr bordercolor="black"><th align="left" style="text-align: center;"><span>Course #</span></th><th align="left" style="text-align: center;"><span>Course & Sample Clip<br /></span></th><th align="center" style="text-align: center;"><span>Units</span></th><th align="left" style="text-align: center;"><span>Facilitator</span></th><th align="left" style="text-align: center;"><span>Special Notes</span></th></tr>
 <tr>
 <td style="text-align: center;">B340</td>
-<td style="text-align: center;"><a href="/{localLink:23526}" title="B340">Biblical Interpretation</a></td>
+<td style="text-align: center;"><a href="#" title="B340">Biblical Interpretation</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Abner Chou</td>
 <td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;">B342</td>
-<td style="text-align: center;"><a href="/{localLink:23527}" title="B342">Romans</a></td>
+<td style="text-align: center;"><a href="#" title="B342">Romans</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Scott Bashoor</td>
 <td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;">B346</td>
-<td style="text-align: center;"><a href="/{localLink:23528}" title="B346">Life of Christ</a></td>
+<td style="text-align: center;"><a href="#" title="B346">Life of Christ</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Aaron Valdizan</td>
 <td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;">BC300</td>
-<td style="text-align: center;"><a rel="overlay_iframe" href="/academics/online/courses/BC300.aspx?width=610&height=1320" title="BC300: Introduction to Biblical Counseling"></a><a href="/{localLink:23529}" title="BC300">Introduction to Biblical Counseling</a></td>
+<td style="text-align: center;"><a rel="overlay_iframe" href="/academics/online/courses/BC300.aspx?width=610&height=1320" title="BC300: Introduction to Biblical Counseling"></a><a href="#" title="BC300">Introduction to Biblical Counseling</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Dr. Ernie Baker</td>
 <td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;">BL325</td>
-<td style="text-align: center;"><a href="/{localLink:38153}" title="BL325">Introduction to Biblical Languages</a></td>
+<td style="text-align: center;"><a href="#" title="BL325">Introduction to Biblical Languages</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Brad Pixley</td>
 <td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;">CH151</td>
-<td style="text-align: center;"><a href="/{localLink:39800}" target="_blank" title="CH151 General Chemistry 1">General Chemistry 1</a></td>
+<td style="text-align: center;"><a href="#" target="_blank" title="CH151 General Chemistry 1">General Chemistry 1</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Matt Ingle</td>
 <td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;">CH260</td>
-<td style="text-align: center;"><a href="/{localLink:40209}" title="CH260">Introduction to General, Organic, & Biochemistry</a></td>
+<td style="text-align: center;"><a href="#" title="CH260">Introduction to General, Organic, & Biochemistry</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Ross Anderson</td>
 <td style="text-align: center;">This is a 16 week course</td>
 </tr>
 <tr>
 <td style="text-align: center;">E211</td>
-<td style="text-align: center;"><a rel="overlay_iframe" href="/academics/online/courses/E211.aspx?width=610&height=800" title="E211: English Literature I"></a><a href="/{localLink:23533}" title="E211">English Literature I</a></td>
+<td style="text-align: center;"><a rel="overlay_iframe" href="/academics/online/courses/E211.aspx?width=610&height=800" title="E211: English Literature I"></a><a href="#" title="E211">English Literature I</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Bob Dickson</td>
 <td style="text-align: center;">Fulfills Either GE Literature Course*</td>
 </tr>
 <tr>
 <td style="text-align: center;">E221</td>
-<td style="text-align: center;"><a href="/{localLink:23541}" title="E221">World Literature I</a></td>
+<td style="text-align: center;"><a href="#" title="E221">World Literature I</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Bob Dickson</td>
 <td style="text-align: center;">Fulfills Either GE Literature Course\*</td>
 </tr>
 <tr>
 <td style="text-align: center;">ECN210</td>
-<td style="text-align: center;"><a href="/{localLink:32287}" title="ECN 210">Microeconomics</a></td>
+<td style="text-align: center;"><a href="#" title="ECN 210">Microeconomics</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Kevin Hill</td>
 <td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;">LS140</td>
-<td style="text-align: center;"><a href="/{localLink:23543}" target="_blank" title="LS140">Principles of Biology</a></td>
+<td style="text-align: center;"><a href="#" target="_blank" title="LS140">Principles of Biology</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Joe Francis</td>
 <td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;">MGT422</td>
-<td style="text-align: center;"><a href="/{localLink:32285}" title="MGT422">Business Strategy</a></td>
+<td style="text-align: center;"><a href="#" title="MGT422">Business Strategy</a></td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Kevin Hill</td>
 <td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;"> SP220A</td>
-<td style="text-align: center;"><a href="/{localLink:39801}" target="_blank" title="SP220">Introductory Spanish 1A</a></td>
+<td style="text-align: center;"><a href="#" target="_blank" title="SP220">Introductory Spanish 1A</a></td>
 <td align="center" style="text-align: center;">2</td>
 <td style="text-align: center;">Ricardo Morales</td>
 <td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;">SP220B</td>
-<td style="text-align: center;"><a href="/{localLink:39801}" target="_blank" title="SP220">Introductory Spanish 1B</a></td>
+<td style="text-align: center;"><a href="#" target="_blank" title="SP220">Introductory Spanish 1B</a></td>
 <td align="center" style="text-align: center;">2</td>
 <td style="text-align: center;">Ricardo Morales</td>
 <td style="text-align: center;"> </td>
