@@ -908,7 +908,7 @@ new-student-info-body: |-
 
   Mandatory Placement Auditions:
 
-  Date & Time TBA\
+  Date & Time TBA
   *Sign ups for specific times will be available at the Music Department table during WOW check-in and at the Music Major Orientation Meeting.*
 
   All students must take a Piano Foundations audition at the beginning of their time as a TMU music major. The purpose of these auditions is to allow entering students to place into the course most suited to their current level of ability. Students are permitted to audition once; multiple auditions are not permitted. Once a student has auditioned and been placed into the sequence, all remaining levels of the Piano Foundations courses must be completed.
