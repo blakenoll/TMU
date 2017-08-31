@@ -1,6 +1,7 @@
 ---
 title: Dr. Paul Plew Awarded the Fred Bock Lifetime Service Award
 date: 2017-08-11 22:05:00 Z
+published: false
 catergory: Faculty Spotlight
 ---
 
