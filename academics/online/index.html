@@ -11,7 +11,7 @@ parallax-img: "/images/Parallax5.jpg"
     {% for program in site.onlineprograms %}
     {% if program.level == "undergrad" %}
     <a href="{{ program.url | prepend: site.url }}">
-      <div class="col s6 m3">
+      <div class="col s6 m3 l2">
         <div class="vector-card">
           <img src="{{ program.sm-image | prepend: site.url }}" alt="" width="100%">
           <h3 class="center">{{ program.title }}</h3>
@@ -27,7 +27,7 @@ parallax-img: "/images/Parallax5.jpg"
     {% for program in site.onlineprograms %}
     {% if program.level == "grad" %}
     <a href="{{ program.url | prepend: site.url }}">
-      <div class="col s6 m3">
+      <div class="col s6 m3 l2">
         <div class="vector-card">
           <img src="{{ program.sm-image | prepend: site.url }}" alt="" width="100%">
           <h3 class="center">{{ program.title }}</h3>
@@ -43,7 +43,7 @@ parallax-img: "/images/Parallax5.jpg"
     {% for program in site.onlineprograms %}
     {% if program.level == "online" %}
     <a href="{{ program.url | prepend: site.url }}">
-      <div class="col s6 m3">
+      <div class="col s6 m3 l2">
         <div class="vector-card">
           <img src="{{ program.sm-image | prepend: site.url }}" alt="" width="100%">
           <h3 class="center">{{ program.title }}</h3>
