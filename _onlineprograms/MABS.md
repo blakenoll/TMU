@@ -249,7 +249,7 @@ parallax-img: "/images/Parallax8.jpg"
 <p><span style="color: #616161; font-family: 'Crimson Text', serif; font-size: 22px; font-weight: 800; line-height: 28px;">Application Requirements</span></p>
 <ol>
 <li>Faith in Jesus Christ as your personal Lord and Savior</li>
-<li><a href="https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersDeg&amp;AID=207235&amp;EXT=1&amp;EXTID=www.masters.edu&amp;REFERER=www.masters.edu" target="_blank">Application</a></li>
+<li><a href="https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB" target="_blank">Application</a></li>
 <li>A sealed official College transcript</li>
 <li>A 5-10 page research paper (A paper from your undergraduate program will work)
 <ul>
