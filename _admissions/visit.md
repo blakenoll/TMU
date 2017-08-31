@@ -17,6 +17,7 @@ View-The-U-body: |-
   ### Thursday, October 26th
 
   6:30-7:30pm Check-in
+
   8:00pm Night of Welcome
 
   ### Friday, October 27th
