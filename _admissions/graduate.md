@@ -36,9 +36,9 @@ Only for students in which English is not their first language, you will need to
 
 When all of the application items have been completed and sent to us (online application, recommendations, official transcripts, TOEFL), then your application will be ready for review by the Admissions Committee in the Graduate Studies Office.
 
-*Those who went to schools under a previous last name, please make sure to provide your Former Last Name in the application so that we can identify your transcripts. Thank you!
+\*Those who went to schools under a previous last name, please make sure to provide your Former Last Name in the application so that we can identify your transcripts. Thank you!
 
-**Prospective students of the Teaching Credential, Online program, or Seminary programs should consult those departments for application requirements and procedures.
+\*\*Prospective students of the Teaching Credential, Online program, or Seminary programs should consult those departments for application requirements and procedures.
 
 Former or Current TMS Students: Your application will be shorter than what is prescribed above. Please designate that you are a Former/Current TMS Student at the beginning of the application. This will prompt the system to reduce your application requirements automatically. In the application, you will NOT be prompted to provide us a writing sample, pastor/elder reference, personal reference, or TOEFL (for those in which English is not their first language). For your transcripts, we have your TMS record already, so you will not need to request that from the Seminary. However, we will need you to request for copies of your other school transcripts from the TMS secretary (Jennifer Baughman). Please email Jennifer at [jbaughman@tms.edu](mailto:jbaughman@tms.edu) and request from her copies of your transcripts to be sent to Box #50, the Graduate Studies Office at The Master's University.
 
@@ -79,7 +79,7 @@ Credits from other institutions are generally not accepted for transfer due to t
 
 The Master's University is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the University. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
 
-**Contact Information:
+Contact Information:
 
 The Master's University
 Office of Graduate Studies, Box #50
@@ -89,5 +89,5 @@ Santa Clarita, CA 91321
 Jay Street
 Graduate Studies Admissions Coordinator
 [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu)
-P: 661.362.2652; 800.568.6248 x2652 
+P: 661.362.2652; 800.568.6248 x2652
 F: 661.362.2712
