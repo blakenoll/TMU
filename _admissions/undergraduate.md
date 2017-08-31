@@ -57,13 +57,13 @@ apply-body: |-
 
   ### We have two application deadlines for Fall 2017:
 
-  * Early Action – November 15
+  Early Action – November 15\
   No application fee; admission decision within 2-3 weeks\*
 
-  * Priority Decision – March 2
+  Priority Decision – March 2\
   To receive full consideration for the Fall 2017 semester, applicants should complete their admissions and financial aid applications by March 2nd. However, The Master's University will continue to accept applications on a rolling basis after our priority deadline.
 
-  **Only applies to fall applicants*
+  \**Only applies to fall applicants*
 
   ## Already Applied? Check your application status online!
 
