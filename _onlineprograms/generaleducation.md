@@ -2,6 +2,7 @@
 title: Online General Education
 sm-image: "/uploads/AcademicsOnline_OnlineGenEd.png"
 level: undergrad
+parallax-img: "/images/Parallax3.jpg"
 ---
 
 <h1>Online General Education & Elective Courses</h1>
