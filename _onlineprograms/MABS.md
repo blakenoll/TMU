@@ -2,6 +2,7 @@
 title: MABS
 sm-image: "/uploads/AcademicsGraduate_MABS.png"
 level: grad
+parallax-img: "/images/Parallax8.jpg"
 ---
 
 <h1>Master of Arts Biblical Studies </h1>
