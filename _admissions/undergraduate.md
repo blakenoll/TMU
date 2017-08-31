@@ -57,13 +57,13 @@ apply-body: |-
 
   ### We have two application deadlines for Fall 2017:
 
-  * Early Action – November 15
+  **Early Action – November 15:**
   No application fee; admission decision within 2-3 weeks\*
 
-  * Priority Decision – March 2
+  **Priority Decision – March 2:**
   To receive full consideration for the Fall 2017 semester, applicants should complete their admissions and financial aid applications by March 2nd. However, The Master's University will continue to accept applications on a rolling basis after our priority deadline.
 
-  **Only applies to fall applicants*
+  \**Only applies to fall applicants*
 
   ## Already Applied? Check your application status online!
 
@@ -91,9 +91,9 @@ intl:
 
     All official and evaluated transcripts should be sent to:
 
-    The Master's University - Office of Admissions \
-    21726 Placerita Canyon Road \
-    Santa Clarita, CA 91321 \
+    The Master's University - Office of Admissions
+    21726 Placerita Canyon Road
+    Santa Clarita, CA 91321
     *USA*
 
     ### 2. Submit English Language Test Score
@@ -108,10 +108,10 @@ intl:
 
     Registration for these exams often must be secured several months in advance. Please plan accordingly.
 
-    Note to Native English Speakers:\
+    Note to Native English Speakers:
     If you are a native English speaker, you should take either the SAT or ACT, in lieu of the TOEFL or IELTS. Our school code for the SAT is 4411, and for the ACT it is 0303.
 
-    Note to Transfer Students:\
+    Note to Transfer Students:
     If you have completed 24 or more semester units of transferable coursework at an accredited American university or college (but not just in an ESL program), the requirements for submitting exam scores (TOEFL, IELTS, SAT, or ACT) are waived.
 
     ### 3. Send Pastor Recommendation
@@ -142,19 +142,20 @@ intl:
 
     Please Note: Applicants must submit the following three forms in order to qualify for ANY financial aid.
 
-    1. [TMU Financial Aid Application](http://www.masters.edu/media/868180/student-financial-aid-application.pdf "TMC Fin Aid App") \
-       This form has now been incorporated into our online application, so students only need to complete this version if they applied for admission to TMU using a paper or pdf application. Contact the International Admissions Counselor if you are not sure whether you need to submit this application. Important note: continuing international students already enrolled at TMU should complete this form using the “Financial Aid Renewal Form” link in Self-Service.
+    1. [TMU Financial Aid Application](http://www.masters.edu/media/868180/student-financial-aid-application.pdf "TMC Fin Aid App")
+    This form has now been incorporated into our online application, so students only need to complete this version if they applied for admission to TMU using a paper or pdf application. Contact the International Admissions Counselor if you are not sure whether you need to submit this application. Important note: continuing international students already enrolled at TMU should complete this form using the “Financial Aid Renewal Form” link in Self-Service.
 
-    2. [International Student Financial Aid Supplement](http://www.masters.edu/media/868161/international-student-financial-aid-supplemental-form.pdf "ISFAS")\
-       Completing this form is required before international students can receive any need-based Financial Aid from The Master’s University.
+    2. [International Student Financial Aid Supplement](http://www.masters.edu/media/868161/international-student-financial-aid-supplemental-form.pdf "ISFAS")
+    Completing this form is required before international students can receive any need-based Financial Aid from The Master’s University.
 
-    3. [Satisfactory Academic Progress Policy](http://www.masters.edu/media/868183/undergrad-satisfactory-academic-progress-policy.pdf "SAPP")\
-       Signing this form is also required before any student can receive any Financial Aid from The Master’s University (not required for current/returning TMU students).
+    3. [Satisfactory Academic Progress Policy](http://www.masters.edu/media/868183/undergrad-satisfactory-academic-progress-policy.pdf "SAPP")
+    Signing this form is also required before any student can receive any Financial Aid from The Master’s University (not required for current/returning TMU students).
 
     ### President’s Scholarship ($15,000)
 
-    Application Deadline: Late January \
-    This is our largest and most competitive scholarship, available to full-time incoming freshmen (including international students). Applicants must have a high school GPA of 3.85 and a SAT I score (Critical Reasoning and Math sub-tests only) of 1400 or ACT score of 32. International students who have not taken the SAT may still apply. Renewable with a college GPA of 3.5. Note: replaces academic scholarship (see below). Not available for transfer or Spring students. \
+    **Application Deadline: Late January**
+    This is our largest and most competitive scholarship, available to full-time incoming freshmen (including international students). Applicants must have a high school GPA of 3.85 and a SAT I score (Critical Reasoning and Math sub-tests only) of 1400 or ACT score of 32. International students who have not taken the SAT may still apply. Renewable with a college GPA of 3.5. Note: replaces academic scholarship (see below). Not available for transfer or Spring students.
+
     [President’s Scholarship Application](http://www.masters.edu/media/868336/17-18-presidents-scholarship-application-fillable.pdf "President's Scholarship Application")
 
     ### Academic Scholarships ($2,000-$11,000)
@@ -167,19 +168,23 @@ intl:
 
     ### International Student Grant ($-varies)
 
-    Priority Application Deadline: March 2\
-    The International Grant is an award given to international students based on financial need, academic achievement, and local church recommendation. The amounts range from $500 to $3,500. The Grant Recommendation must be filled out and submitted by a local church leader who is not related to you. Scholarships are awarded as long as funds are available.\
-    [International Student Grant Application Form](http://www.masters.edu/media/869264/isg-app-2.pdf "ISG App 2.pdf")\
+    **Priority Application Deadline: March 2**
+    The International Grant is an award given to international students based on financial need, academic achievement, and local church recommendation. The amounts range from $500 to $3,500. The Grant Recommendation must be filled out and submitted by a local church leader who is not related to you. Scholarships are awarded as long as funds are available.
+
+    [International Student Grant Application Form](http://www.masters.edu/media/869264/isg-app-2.pdf "ISG App 2.pdf")
+
     [International Student Grant Recommendation Form](http://www.masters.edu/media/868165/international-student-grant-recommendation-form.pdf "Intl Student Grant Rec Form.pdf")
 
     ### Christian Ministry Dependent Grant ($3000)
 
-    This $3,000 grant is given to students who have at least one parent employed in full time Christian ministry. The grant application must be submitted with a copy of the organization’s doctrinal statement. \
+    This $3,000 grant is given to students who have at least one parent employed in full time Christian ministry. The grant application must be submitted with a copy of the organization’s doctrinal statement.
+
     [Click here for the Christian Ministry Dependent Grant Application](http://www.masters.edu/media/868184/christian-ministry-dependent-grant-recreation.pdf "CMD Application")
 
     ### Pastor and Missionary Dependent Scholarship ($5,000)
 
-    For those students who are children of full-time pastors or missionaries who provide the primary income for their family. Only applicable to students entering the college in the Fall of 2014 and subsequent years. \
+    For those students who are children of full-time pastors or missionaries who provide the primary income for their family. Only applicable to students entering the college in the Fall of 2014 and subsequent years.
+
     [Click here for the Pastor and Missionary Dependent Grant Application](http://www.masters.edu/media/868169/pmd-application.pdf "Pastor and Missionary Dependent Grant Application")
 
     ### Ministry Matching Grant (up to $1500)
@@ -210,7 +215,7 @@ intl:
 
     Keep in mind that we will not be able to process or guarantee any Financial Aid until all of your admissions application documents have been received.
 
-    Our staff is here to guide you through this process—you’re not on your own! Please contact [Amy Bryerton](mailto:abryerton@masters.edu "Email Amy Bryerton"), International Admissions Counselor, with any additional questions you have about international financial aid.
+    Our staff is here to guide you through this process—you’re not on your own! Please contact [Josh English](mailto:jenglish@masters.edu "Email Josh English"), International Admissions Counselor, with any additional questions you have about international financial aid.
   step4-body: |-
     ### Finalize Visa Requirements
 
