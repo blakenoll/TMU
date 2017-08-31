@@ -24,10 +24,10 @@ The application will ask a variety of questions regarding personal, contact, fam
 
 After the application has been submitted, the system will automatically assemble all previous schools you provided in the application and create a list of official transcripts that you will need to mail to our Graduate Studies Office. If your school uses a secure electronic system to email official transcripts, you may do this as well. But please be advised that these transcripts must be official (meaning that they cannot be copies of your transcripts, and they come directly from your school and have not been open by you or anyone else). Of most importance, students applying for graduate studies must have a bachelor's degree from a school that meets the accreditation standards of the Higher Learning Commission in the United States, with few exceptions. If you are unsure about the accreditation of your school or have any problems sending us a transcript, please contact the Graduate Admissions Coordinator at [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu) or 661-362-2652. For mailed transcripts, please have your school send them to this address:
 
-**THE MASTER'S UNIVERSITY\
-Office of Graduate Admissions Box #50\
-21726 Placerita Canyon Road\
-Santa Clarita, CA 91321\
+**THE MASTER'S UNIVERSITY
+Office of Graduate Admissions Box #50
+21726 Placerita Canyon Road
+Santa Clarita, CA 91321
 UNITED STATES**
 
 Please make sure to remind your school that the "Box #50" must be included in the address. Some schools have our basic address in their system without the "Box #50." They may need prompting to include this number. If it is not included, the transcript will arrive in another department on our campus, and it may take some time to track it down. Thank you in advance!
@@ -36,38 +36,38 @@ Only for students in which English is not their first language, you will need to
 
 When all of the application items have been completed and sent to us (online application, recommendations, official transcripts, TOEFL), then your application will be ready for review by the Admissions Committee in the Graduate Studies Office.
 
-\*Those who went to schools under a previous last name, please make sure to provide your Former Last Name in the application so that we can identify your transcripts. Thank you!
+*Those who went to schools under a previous last name, please make sure to provide your Former Last Name in the application so that we can identify your transcripts. Thank you!
 
-\*\*Prospective students of the Teaching Credential, Online program, or Seminary programs should consult those departments for application requirements and procedures.
+**Prospective students of the Teaching Credential, Online program, or Seminary programs should consult those departments for application requirements and procedures.
 
 Former or Current TMS Students: Your application will be shorter than what is prescribed above. Please designate that you are a Former/Current TMS Student at the beginning of the application. This will prompt the system to reduce your application requirements automatically. In the application, you will NOT be prompted to provide us a writing sample, pastor/elder reference, personal reference, or TOEFL (for those in which English is not their first language). For your transcripts, we have your TMS record already, so you will not need to request that from the Seminary. However, we will need you to request for copies of your other school transcripts from the TMS secretary (Jennifer Baughman). Please email Jennifer at [jbaughman@tms.edu](mailto:jbaughman@tms.edu) and request from her copies of your transcripts to be sent to Box #50, the Graduate Studies Office at The Master's University.
 
 Re-Admit Students: Your application process will be shorter than what is prescribed above. Please designate that you are a Re-Admit Student at the beginning of the application. This will prompt the system to reduce your application requirements automatically. In the application, you will NOT be prompted to provide us a writing sample, educator reference, personal reference, or TOEFL (for those in which English is not their first language). Also, the short answers in the application will be uniquely fitted for you. For your transcripts, please send us only official transcripts of any schools you have attended since the last time you were enrolled as a student in our Graduate Studies programs.
 
-<table class="bordered">\
-<tbody>\
-<tr>\
-<td> </td>\
-<td style="text-align: center;"><strong>  Domestic  </strong></td>\
-<td style="text-align: center;"><strong>  International  </strong></td>\
-</tr>\
-<tr>\
-<td style="text-align: right;"><strong>    Spring Term - </strong></td>\
-<td style="text-align: center;">November 1 (of previous year) </td>\
-<td style="text-align: center;">July 15 (of previous year)</td>\
-</tr>\
-<tr>\
-<td style="text-align: right;"><strong>    Summer Term - </strong></td>\
-<td style="text-align: center;">March 1</td>\
-<td style="text-align: center;">December 15</td>\
-</tr>\
-<tr>\
-<td style="text-align: right;"><strong>Fall Term - </strong></td>\
-<td style="text-align: center;">July 1</td>\
-<td style="text-align: center;">April 15</td>\
-</tr>\
-</tbody>\
-</table>\
+<table class="bordered">
+<tbody>
+<tr>
+<td> </td>
+<td style="text-align: center;"><strong>  Domestic  </strong></td>
+<td style="text-align: center;"><strong>  International  </strong></td>
+</tr>
+<tr>
+<td style="text-align: right;"><strong>    Spring Term - </strong></td>
+<td style="text-align: center;">November 1 (of previous year) </td>
+<td style="text-align: center;">July 15 (of previous year)</td>
+</tr>
+<tr>
+<td style="text-align: right;"><strong>    Summer Term - </strong></td>
+<td style="text-align: center;">March 1</td>
+<td style="text-align: center;">December 15</td>
+</tr>
+<tr>
+<td style="text-align: right;"><strong>Fall Term - </strong></td>
+<td style="text-align: center;">July 1</td>
+<td style="text-align: center;">April 15</td>
+</tr>
+</tbody>
+</table>
 
 Applications may be submitted after the deadline, but we cannot guarantee that they will be given equal consideration with those submitted on time. It is preferred that residential-local students begin studies in a fall term. Because the intensive-modular courses form both the foundation and anchor for the entire distance student's experience, we highly recommend distance students to start the program in a summer term. A distant student may begin in the fall or spring semesters but the he/she must realize that he/she will necessarily need to take classes out of the prescribed order (see [what we prescribe here](http://www.masters.edu/academics/graduate/degree-programs/mabc/program-outline/)) and thus be initially limited as to which courses he/she may take in the first couple of semesters. Moreover, students should be aware that some classes will assume the student's familiarity of previous content from courses that would normally be taken in the prescribed order. In this way, all students will be held to the same academic standards whether he/she is taking the classes in the prescribed order or not. The Graduate Studies Office will help students minimize any potential problems that may result from taking classes out of the preferred order, but it is important that the student is aware of these potential challenges.
 
@@ -81,13 +81,13 @@ The Master's University is authorized under Federal law to enroll nonimmigrant a
 
 **Contact Information:**
 
-**The Master's University\
-Office of Graduate Studies, Box #50\
-21726 Placerita Canyon Road\
-Santa Clarita, CA 91321**
+**The Master's University
+**Office of Graduate Studies, Box #50
+**21726 Placerita Canyon Road
+**Santa Clarita, CA 91321
 
-**Jay Street\
-Graduate Studies Admissions Coordinator\
-[graduatestudies@masters.edu](mailto:graduatestudies@masters.edu)\
-P: 661.362.2652; 800.568.6248 x2652 \
-F: 661.362.2712**
+**Jay Street
+**Graduate Studies Admissions Coordinator
+**[graduatestudies@masters.edu](mailto:graduatestudies@masters.edu)
+**P: 661.362.2652; 800.568.6248 x2652 
+**F: 661.362.2712
