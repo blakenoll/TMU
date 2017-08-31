@@ -84,6 +84,7 @@ courses-body:
 - units: 3
   name: Leadership
   number: MGT590
+level: grad
 layout: mba
 ---
 
