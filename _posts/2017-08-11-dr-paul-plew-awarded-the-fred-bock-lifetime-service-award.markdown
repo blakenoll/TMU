@@ -1,8 +1,8 @@
 ---
 title: Dr. Paul Plew Awarded the Fred Bock Lifetime Service Award
 date: 2017-08-11 22:05:00 Z
-published: false
 catergory: Faculty Spotlight
+sm-image: "/uploads/PPlew_ServiceAward_NewsImage.jpg"
 ---
 
 > \[The Fred Bock/NACM Lifetime Service Award was established in 2005. Past recipients are: Paul Salamunovich, Sheldon Disrud, Albert McNeil, Fred Swann, Bryan Jeffery Leech, William Lock, Dan Bird, Doug Lawrence, Myron Tweed, Ed Willmington, Steve Amerson and Geraldine Biggs McGrath.\]
