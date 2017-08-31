@@ -235,25 +235,24 @@ intl-counselor:
   title: 
   bio-body: 
   img: "/images/IMG_1046.JPG"
-accepted-students-body: "Congratulations on being accepted to The Master’s University!
-  \ We believe the best way to be a testimony to Jesus Christ is our excellence in
-  all areas of life, so our desire is to equip Christ-followers to go out into the
-  world as leaders and pioneers in their field, on the foundation of Christ and Scripture.
-  We are so excited to invite you to be a part of everything that is happening here
-  at TMU!\n\nNow that you have been accepted, there are a few things we need you to
-  do to secure your spot here! Once all of these are completed, you can rest easy
-  and start your dorm shopping!\n\nStep 1:\nAccept Your Offer: Let us know if you
-  plan on attending next semester by clicking here!  This is a $200 deposit refundable
-  through May 1st 2017 that reserves a seat for you in the next incoming class.\n\nStep
-  2:\nPre-Registration: This is where you will tell us your roommate preferences,
-  request a dorm, select a meal plan, and all the other fun stuff!  Click here for
-  directions on how to pre-register for next semester. \n\nStep 3:\nSign up for an
-  advising appointment! During your advising appointment you will officially enroll
-  in classes for the upcoming semester! Don’t worry, we will have a schedule ready
-  for your appointment so it can be as quick and seamless as possible.  Click here
-  for step-by-step directions on scheduling an advising appointment.\n\nIf you have
-  questions on any of these steps, pick up the phone and call us at 661-362-2363 or
-  shoot us an email at admissions@masters.edu.  We can’t wait for you to come!"
+accepted-students-body: |-
+  Congratulations on being accepted to The Master’s University! We believe the best way to be a testimony to Jesus Christ is our excellence in all areas of life, so our desire is to equip Christ-followers to go out into the world as leaders and pioneers in their field, on the foundation of Christ and Scripture. We are so excited to invite you to be a part of everything that is happening here at TMU!
+
+  Now that you have been accepted, there are a few things we need you to do to secure your spot here! Once all of these are completed, you can rest easy and start your dorm shopping!
+
+  ### Step 1:
+
+  Accept Your Offer: Let us know if you plan on attending next semester by clicking [here](https://athletics.masters.edu/undergrad/apply/acceptance-application-fee-form/)! This is a $200 deposit refundable through May 1st 2017 that reserves a seat for you in the next incoming class.
+
+  ### Step 2:
+
+  Pre-Registration: This is where you will tell us your roommate preferences, request a dorm, select a meal plan, and all the other fun stuff! Click [here](http://www.masters.edu/register) for directions on how to pre-register for next semester.
+
+  ### Step 3:
+
+  Sign up for an advising appointment! During your advising appointment you will officially enroll in classes for the upcoming semester! Don’t worry, we will have a schedule ready for your appointment so it can be as quick and seamless as possible. Click [here](http://www.masters.edu/enroll) for step-by-step directions on scheduling an advising appointment.
+
+  If you have questions on any of these steps, pick up the phone and call us at 661-362-2363 or shoot us an email at [admissions@masters.edu](mailto:admissions@masters.edu). We can’t wait for you to come!
 layout: default
 ---
 
