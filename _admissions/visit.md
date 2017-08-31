@@ -122,13 +122,13 @@ Mondays-At-Masters-body: |-
 
   ## Sample Schedule of Events:
 
-  8:30-9:00am Registration & Continental Breakfast\
-  9:10-10:25am Chapel\
-  10:45-11:35am Campus Tour or Class Visit\
-  11:45am-12:40pm Campus Tour or Class Visit\
-  12:50-1:45pm Lunch\
-  2:00-3:00pm Student Q&A Panel\
-  3:30-4:30pm Admissions & Financial Aid Seminar
+  * 8:30-9:00am Registration & Continental Breakfast
+  * 9:10-10:25am Chapel
+  * 10:45-11:35am Campus Tour or Class Visit
+  * 11:45am-12:40pm Campus Tour or Class Visit
+  * 12:50-1:45pm Lunch
+  * 2:00-3:00pm Student Q&A Panel
+  * 3:30-4:30pm Admissions & Financial Aid Seminar
 Music-at-Masters-body: |-
   November 12-13, 2017
 
