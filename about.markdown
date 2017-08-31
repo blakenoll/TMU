@@ -131,11 +131,11 @@ doctrinal-statement-body: |-
 
   We teach that salvation is wholly of God by grace on the basis of the redemption of Jesus Christ, the merit of His shed blood, and not on the basis of human merit or works (John 1:12; Ephesians 1:7; 2:8-10; 1 Peter 1:18-19).
 
-  1. We teach that regeneration is a supernatural work of the Holy Spirit by which the divine nature and divine life are given (John 3:3-7; Titus 3:5). It is instantaneous and is accomplished solely by the power of the Holy Spirit through the instrumentality of the Word of God (John 5:24) when the repentant sinner, as enabled by the Holy Spirit, responds in faith to the divine provision of salvation. Genuine regeneration is manifested by fruits worthy of repentance as demonstrated in righteous attitudes and conduct. Good works are the proper evidence and fruit of regeneration (1 Corinthians 6:19-20; Ephesians 2:10), and will be experienced to the extent that the believer submits to the control of the Holy Spirit in his life through faithful obedience to the Word of God (Ephesians 5:17-21; Philippians 2:12b; Colossians 3:16; 2 Peter 1:4-10). This obedience causes the believer to be increasingly conformed to the image of our Lord Jesus Christ (2 Corinthians 3:18).
+  We teach that regeneration is a supernatural work of the Holy Spirit by which the divine nature and divine life are given (John 3:3-7; Titus 3:5). It is instantaneous and is accomplished solely by the power of the Holy Spirit through the instrumentality of the Word of God (John 5:24) when the repentant sinner, as enabled by the Holy Spirit, responds in faith to the divine provision of salvation. Genuine regeneration is manifested by fruits worthy of repentance as demonstrated in righteous attitudes and conduct. Good works are the proper evidence and fruit of regeneration (1 Corinthians 6:19-20; Ephesians 2:10), and will be experienced to the extent that the believer submits to the control of the Holy Spirit in his life through faithful obedience to the Word of God (Ephesians 5:17-21; Philippians 2:12b; Colossians 3:16; 2 Peter 1:4-10). This obedience causes the believer to be increasingly conformed to the image of our Lord Jesus Christ (2 Corinthians 3:18).
 
   Such a conformity is climaxed in the believer’s glorification at Christ’s coming (Romans 8:17; 2 Peter 1:4; 1 John 3:2-3).
 
-  1. We teach that election is the act of God by which, before the foundation of the world, He chose in Christ those whom He graciously regenerates, saves, and sanctifies (Romans 8:28-30; Ephesians 1:4-11; 2 Thessalonians 2:13; 2 Timothy 2:10; 1 Peter 1:1-2).
+  We teach that election is the act of God by which, before the foundation of the world, He chose in Christ those whom He graciously regenerates, saves, and sanctifies (Romans 8:28-30; Ephesians 1:4-11; 2 Thessalonians 2:13; 2 Timothy 2:10; 1 Peter 1:1-2).
 
   We teach that sovereign election does not contradict or negate the responsibility of man to repent and trust Christ as Savior and Lord (Ezekiel 18:23, 32; 33:11; John 3:18-19, 36; 5:40; Romans 9:22-23; 2 Thessalonians 2:10-12; Revelation 22:17). Nevertheless, since sovereign grace includes the means of receiving the gift of salvation as well as the gift itself, sovereign election will result in what God determines. All whom the Father calls to Himself will come in faith, and all who come in faith the Father will receive (John 6:37-40, 44; Acts 13:48; James 4:8).
 
@@ -143,19 +143,19 @@ doctrinal-statement-body: |-
 
   We teach that election should not be looked upon as based merely on abstract sovereignty. God is truly sovereign, but He exercises this sovereignty in harmony with His other attributes, especially His omniscience, justice, holiness, wisdom, grace, and love (Romans 9:11-16). This sovereignty will always exalt the will of God in a manner totally consistent with His character as revealed in the life of our Lord Jesus Christ (Matthew 11:25-28; 2 Timothy 1:9).
 
-  1. We teach that justification before God is an act of God (Romans 8:33) by which He declares righteous those who, through faith in Christ, repent of their sins (Luke 13:3; Acts 2:38; 3:19; 11:18; Romans 2:4; 2 Corinthians 7:10; Isaiah 55:6-7) and confess Him as sovereign Lord (Romans 10:9-10; 1 Corinthians 12:3; 2 Corinthians 4:5; Philippians 2:11). This righteousness is apart from any virtue or work of man (Romans 3:20; 4:6) and involves the imputation of our sins to Christ (Colossians 2:14; 1 Peter 2:24) and the imputation of Christ’s righteousness to us (1 Corinthians 1:30; 2 Corinthians 5:21). By this means God is enabled to “be just and the justifier of the one who has faith in Jesus” (Romans 3:26).
+  We teach that justification before God is an act of God (Romans 8:33) by which He declares righteous those who, through faith in Christ, repent of their sins (Luke 13:3; Acts 2:38; 3:19; 11:18; Romans 2:4; 2 Corinthians 7:10; Isaiah 55:6-7) and confess Him as sovereign Lord (Romans 10:9-10; 1 Corinthians 12:3; 2 Corinthians 4:5; Philippians 2:11). This righteousness is apart from any virtue or work of man (Romans 3:20; 4:6) and involves the imputation of our sins to Christ (Colossians 2:14; 1 Peter 2:24) and the imputation of Christ’s righteousness to us (1 Corinthians 1:30; 2 Corinthians 5:21). By this means God is enabled to “be just and the justifier of the one who has faith in Jesus” (Romans 3:26).
 
-  2. We teach that every believer is sanctified (set apart) unto God by justification and is therefore declared to be holy and is therefore identified as a saint. This sanctification is positional and instantaneous and should not be confused with progressive sanctification. This sanctification has to do with the believer’s standing, not his present walk or condition (Acts 20:32; 1 Corinthians 1:2, 30; 6:11; 2 Thessalonians 2:13; Hebrews 2:11; 3:1; 10:10, 14; 13:12; 1 Peter 1:2).
+  We teach that every believer is sanctified (set apart) unto God by justification and is therefore declared to be holy and is therefore identified as a saint. This sanctification is positional and instantaneous and should not be confused with progressive sanctification. This sanctification has to do with the believer’s standing, not his present walk or condition (Acts 20:32; 1 Corinthians 1:2, 30; 6:11; 2 Thessalonians 2:13; Hebrews 2:11; 3:1; 10:10, 14; 13:12; 1 Peter 1:2).
 
   We teach that there is also, by the work of the Holy Spirit, a progressive sanctification by which the state of the believer is brought closer to the standing the believer positionally enjoys through justification. Through obedience to the Word of God and the empowering of the Holy Spirit, the believer is able to live a life of increasing holiness in conformity to the will of God, becoming more and more like our Lord Jesus Christ (John 17:17, 19; Romans 6:1-22; 2 Corinthians 3:18; 1 Thessalonians 4:3-4; 5:23).
 
   In this respect, we teach that every saved person is involved in a daily conflict—the new creation in Christ doing battle against the flesh—but adequate provision is made for victory through the power of the indwelling Holy Spirit. The struggle nevertheless stays with the believer all through this earthly life and is never completely ended. All claims to the eradication of sin in this life are unscriptural. Eradication of sin is not possible, but the Holy Spirit does provide for victory over sin (Galatians 5:16-25; Ephesians 4:22-24; Philippians 3:12; Colossians 3:9-10; 1 Peter 1:14-16; 1 John 3:5-9).
 
-  1. We teach that all the redeemed, once saved, are kept by God’s power and are thus secure in Christ forever (John 5:24; 6:37-40; 10:27-30; Romans 5:9-10; 8:1, 31-39; 1 Corinthians 1:4-8; Ephesians 4:30; Hebrews 7:25; 13:5; 1 Peter 1:5; Jude 24).
+  We teach that all the redeemed, once saved, are kept by God’s power and are thus secure in Christ forever (John 5:24; 6:37-40; 10:27-30; Romans 5:9-10; 8:1, 31-39; 1 Corinthians 1:4-8; Ephesians 4:30; Hebrews 7:25; 13:5; 1 Peter 1:5; Jude 24).
 
   We teach that it is the privilege of believers to rejoice in the assurance of their salvation through the testimony of God’s Word, which, however, clearly forbids the use of Christian liberty as an occasion for sinful living and carnality (Romans 6:15-22; 13:13-14; Galatians 5:13, 25-26; Titus 2:11-14).
 
-  1. We teach that separation from sin is clearly called for throughout the Old and New Testaments, and that the Scriptures clearly indicate that in the last days apostasy and worldliness shall increase (2 Corinthians 6:14-7:1; 2 Timothy 3:1-5).
+  We teach that separation from sin is clearly called for throughout the Old and New Testaments, and that the Scriptures clearly indicate that in the last days apostasy and worldliness shall increase (2 Corinthians 6:14-7:1; 2 Timothy 3:1-5).
 
   We teach that, out of deep gratitude for the undeserved grace of God granted to us, and because our glorious God is so worthy of our total consecration, all the saved should live in such a manner as to demonstrate our adoring love to God and so as not to bring reproach upon our Lord and Savior. We also teach that separation from all religious apostasy and worldly and sinful practices is commanded of us by God (Romans 12:1-2, 1 Corinthians 5:9-13; 2 Corinthians 6:14-7:1; 1 John 2:15-17; 2 John 9-11).
 
@@ -203,7 +203,7 @@ doctrinal-statement-body: |-
 
   ### Last Things
 
-  1. We teach that physical death involves no loss of our immaterial consciousness (Revelation 6:9-11), that the soul of the redeemed passes immediately into the presence of Christ (Luke 23:43; Philippians 1:23; 2 Corinthians 5:8), that there is a separation of soul and body (Philippians 1:21-24), and that, for the redeemed, such separation will continue until the rapture (1 Thessalonians 4:13-17), which initiates the first resurrection (Revelation 20:4-6), when our soul and body will be reunited to be glorified forever with our Lord (Philippians 3:21; 1 Corinthians 15:35-44, 50-54). Until that time, the souls of the redeemed in Christ remain in joyful fellowship with our Lord Jesus Christ (2 Corinthians 5:8).
+  We teach that physical death involves no loss of our immaterial consciousness (Revelation 6:9-11), that the soul of the redeemed passes immediately into the presence of Christ (Luke 23:43; Philippians 1:23; 2 Corinthians 5:8), that there is a separation of soul and body (Philippians 1:21-24), and that, for the redeemed, such separation will continue until the rapture (1 Thessalonians 4:13-17), which initiates the first resurrection (Revelation 20:4-6), when our soul and body will be reunited to be glorified forever with our Lord (Philippians 3:21; 1 Corinthians 15:35-44, 50-54). Until that time, the souls of the redeemed in Christ remain in joyful fellowship with our Lord Jesus Christ (2 Corinthians 5:8).
 
   We teach the bodily resurrection of all men, the saved to eternal life (John 6:39; Romans 8:10-11, 19-23; 2 Corinthians 4:14), and the unsaved to judgment and everlasting punishment (Daniel 12:2; John 5:29; Revelation 20:13-15).
 
@@ -222,8 +222,6 @@ doctrinal-statement-body: |-
   **The Judgment of the Lost**. We teach that following the release of Satan after the 1,000-year reign of Christ (Revelation 20:7), Satan will deceive the nations of the earth and gather them to battle against the saints and the beloved city, at which time Satan and his army will be devoured by fire from heaven (Revelation 20:9). Following this, Satan will be thrown into the lake of fire and brimstone (Matthew 25:41; Revelation 20:10), whereupon Christ, who is the Judge of all men (John 5:22), will resurrect and judge the great and small at the Great White Throne Judgment.
 
   We teach that this resurrection of the unsaved dead to judgment will be a physical resurrection, whereupon receiving their judgment (John 5:28-29), they will be committed to an eternal conscious punishment in the lake of fire (Matthew 25:41; Revelation 20:11-15).
-
-  1. We teach that after the closing of the millennium, the temporary release of Satan, and the judgment of unbelievers (2 Thessalonians 1:9; Revelation 20:7-15), the saved will enter the eternal state of glory with God, after which the elements of this earth are to be dissolved (2 Peter 3:10) and replaced with a new earth, wherein only righteousness dwells (Ephesians 5:5; Revelation 20:15; 21:1-27; 22:1-21). Following this, the heavenly city will come down out of heaven (Revelation 21:2) and will be the dwelling place of the saints, where they will enjoy forever fellowship with God and one another (John 17:3; Revelation 21-22). Our Lord Jesus Christ, having fulfilled His redemptive mission, will then deliver up the kingdom to God the Father (1 Corinthians 15:24-28), that in all spheres the triune God may reign forever and ever (1 Corinthians 15:28).
 
   ### What It Means To Be a Christian
 
@@ -245,28 +243,28 @@ history-body: |-
 
   When the staff of Los Angeles Baptist Theological Seminary wrote this in 1937, they had already weathered much of the Great Depression. They could not know that World War II and the tumultuous postwar years were still ahead of them. But, they had a passion for biblical inerrancy and sufficiency, and they trusted that God would see them through.
 
-  ![Boyle Heights Campus](http://www.masters.edu/media/865427/history-of-tmc-boyle-heights.jpg?width=345px&height=282px)\
-  Boyle Heights Campus
+  ![Boyle Heights Campus](http://www.masters.edu/media/865427/history-of-tmc-boyle-heights.jpg?width=345px&height=282px)
+  *Boyle Heights Campus*
 
   LABTS first opened its doors in 1927, with 24 students and no permanent campus. During the first few years, the faculty and administration willingly forwent salaries and sold their land to keep the seminary open. The first president, Dr. William A. Matthews, tells the story of his own attempt to sell a piece land in 1928. The tract of 35 acres flooded easily, and Matthews despaired of ever selling it—until a goat farm decided that it was exactly suited for their purposes and offered him an excellent price. “Never again shall we say that any land is good for nothing,” he wrote at the time, “because it may be good for raising goats!” The Lord was faithful to provide.
 
-  ![Dr. John R. Dunkin](http://www.masters.edu/media/865428/history-of-tmc-dr-dunkin.jpg?width=199px&height=299px)\
-  Dr. John R. Dunkin
+  ![Dr. John R. Dunkin](http://www.masters.edu/media/865428/history-of-tmc-dr-dunkin.jpg?width=199px&height=299px)
+  *Dr. John R. Dunkin*
 
   By 1933, LABTS had moved from a temporary location on the campus of Calvary Baptist Church to their first permanent home at the Kaspar Cohn Hospital in Los Angeles, and then to another building in Boyle Heights in 1942. In the following years, the seminary experienced a record amount of growth, launching its first Bachelor of Arts program in 1946 to accommodate the WWII veterans coming home and looking for a college education. The college division of LABTS was officially established in 1950.
 
   The school grew so much during this period that by the mid-fifties, the Boyle Heights location could no longer accommodate them.
 
-  ![Powell Library under construction](http://www.masters.edu/media/865426/history-of-tmc-library-beginning.jpg?width=249px&height=331px)\
-  Powell Library under construction
+  ![Powell Library under construction](http://www.masters.edu/media/865426/history-of-tmc-library-beginning.jpg?width=249px&height=331px)
+  *Powell Library under construction*
 
   President Dr. John Dunkin (inaugurated in 1959) began looking for a new home. The home he found in 1961 was more than 35 miles away in the Santa Clarita Valley, on the property of Happy Jack’s Dude Ranch. This 27-acre piece of land in quiet Placerita Canyon became home to 375 students by 1977.
 
   Dr. Dunkin’s 26-year presidency of LABC included the addition of many undergraduate academic programs, including History, English, Music, Biology, Business Administration and Physical Education between 1964 and 1977. In the midst of this expansion, Dr. Dunkin and the student body came together on March 3, 1975 to celebrate another important milestone: accreditation. Only a couple years shy of its 50th anniversary, LABC had received official accreditation from the Western Association of Schools and Colleges.
 
-  \
-  ![Dr. John F. MacArthur](http://www.masters.edu/media/865425/history-of-tmc-dr-macarthur.jpg?width=212px&height=295px)\
-  Dr. John F. MacArthur
+
+  ![Dr. John F. MacArthur](http://www.masters.edu/media/865425/history-of-tmc-dr-macarthur.jpg?width=212px&height=295px)
+  *Dr. John F. MacArthur*
 
   When Dr. Dunkin announced his resignation in 1984, the board of directors began to search for a qualified successor, which they found in Dr. John MacArthur, pastor of Grace Community Church. Though Dr. MacArthur was not a part of the Baptist denomination, he was in complete agreement with the college’s doctrine and statement of faith and agreed to assume the position in 1985, while maintaining his pastorate and “Grace to You” radio ministry. That same year, LABC’s name was changed to The Master's College, a joint decision of Dr. MacArthur and the board of directors, who agreed that the school should become nondenominational.
 
@@ -278,7 +276,7 @@ accredidations-body: |-
 
   **The Master's University is accredited to award bachelor's and master's degrees by the Accrediting Commission for Senior Colleges and Universities of the:**
 
-  **\
+  **
   Western Association of Schools and Colleges\
   985 Atlantic Avenue, Suite 100\
   Alameda, CA 94504\
@@ -288,7 +286,7 @@ accredidations-body: |-
 
   **Membership in the Association of Christian Schools International provides The Master's University involvement in programs and services that aid our educational ministry.**
 
-  **![undefined](http://www.masters.edu/media/865339/nasm.gif?width=123&height=42)\
+  **![undefined](http://www.masters.edu/media/865339/nasm.gif?width=123&height=42)
   NASM is the national accrediting agency for music and music-related disciplines. Membership certifies that The Master's University has met the Association's standards for music degrees and verifies the quality of the music program on a national level.**
 
   **[![ECFA_Accredited_Final_RGB_Small.png](http://www.masters.edu/media/730347/ecfa_accredited_final_rgb_small.png)](http://ecfa.org/)**
