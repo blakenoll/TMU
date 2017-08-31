@@ -19,7 +19,7 @@ level: undergrad
 <div>
 <h2>Required General Education Courses</h2>
 <p>Click on the name of the course to view the description . All currently available courses are offered every session. </p>
-<table class="bordered">
+<table class="bordered responsive-table">
 <tbody>
 <tr>
 <td style="text-align: center;">
@@ -386,7 +386,7 @@ level: undergrad
 <p><!--EndFragment--></p>
 </div>
 <h2>Elective Courses</h2>
-<table class="bordered">
+<table class="bordered responsive-table">
 <tbody>
 <tr bordercolor="black"><th align="left" style="text-align: center;"><span>Course #</span></th><th align="left" style="text-align: center;"><span>Course & Sample Clip<br /></span></th><th align="center" style="text-align: center;"><span>Units</span></th><th align="left" style="text-align: center;"><span>Facilitator</span></th><th align="left" style="text-align: center;"><span>Special Notes</span></th></tr>
 <tr>
