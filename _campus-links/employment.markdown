@@ -1,7 +1,6 @@
 ---
 title: Employment
 date: 2017-04-11 23:22:00 Z
-layout: employment
 positions:
 - title: Staff Accountant
   position: staff
@@ -133,6 +132,7 @@ positions:
     Application Procedures:
 
     All documents included in your application remain the sole property of The Master’s College and will not be returned. Your file for this opening will not be considered unless all requested items are submitted and are complete.
+layout: employment
 ---
 
 Please see the list below for the faculty and staff positions that are currently available at The Master's University & Seminary. A basic description of each job and its requirements may be obtained by clicking on the corresponding job title.
