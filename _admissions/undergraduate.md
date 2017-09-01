@@ -2,9 +2,9 @@
 title: Undergraduate
 position: 0
 apply-body: |-
-  Apply Now for Fall 2017!
+  Apply Now for Fall 2018!
 
-  We invite all students considering admission for Fall 2017 to begin the application process now. Don't miss out on a life-changing TMU education--complete your application as soon as possible! Below we’ve listed what components are needed to complete the application process.
+  We invite all students considering admission for Fall 2018 to begin the application process now. Don't miss out on a life-changing TMU education--complete your application as soon as possible! Below we’ve listed what components are needed to complete the application process.
 
   Have questions? Contact your [admissions counselor](http://www.masters.edu/undergrad/bios/ "Counselors").
 
@@ -61,7 +61,7 @@ apply-body: |-
   No application fee; admission decision within 2-3 weeks\*
 
   **Priority Decision – March 2:**
-  To receive full consideration for the Fall 2017 semester, applicants should complete their admissions and financial aid applications by March 2nd. However, The Master's University will continue to accept applications on a rolling basis after our priority deadline.
+  To receive full consideration for the Fall 2018 semester, applicants should complete their admissions and financial aid applications by March 2nd. However, The Master's University will continue to accept applications on a rolling basis after our priority deadline.
 
   \**Only applies to fall applicants*
 
