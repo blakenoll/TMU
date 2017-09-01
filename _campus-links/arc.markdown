@@ -2,7 +2,6 @@
 title: Academic Resource Center
 date: 2017-04-11 22:49:00 Z
 parallax-img: "/images/Parallax4.jpg"
-layout: arc
 tutoring-info: |-
   ## For One on One Tutoring
 
@@ -124,19 +123,18 @@ team: |-
   ### a. Enforcement
 
   Each dean, director, or department head is responsible for determining if materials to be distributed by the Campus Mail Center relate to official business of the College. When questions occur concerning such determination, the matter must be referred to the next level of college administration (dean, director, vice president, etc.). Material found within the Campus Mail Center to be in violation of this policy will be removed immediately and the appropriate administrator will be contacted.
+layout: arc
 ---
-
-![ARC Logo](/images/arc-logo.png)
 
 Welcome to ARC online!
 
 Written and selected by all of us who are part of ARC, the website will allow our TMU community to encourage and help one another towards academic success.  Our website provides you with:
 
 <ul class="browser-default">
-  <li>Free online resources chosen (and used) by our tutors and staff.</li>
-  <li>Short bios on our tutors as a way to get to know us.</li>
-  <li>Information regarding our free workshops and tutoring labs.</li>
-  <li>A place to send your own tips and resources to help others, as they have helped you.</li>
+<li>Free online resources chosen (and used) by our tutors and staff.</li>
+<li>Short bios on our tutors as a way to get to know us.</li>
+<li>Information regarding our free workshops and tutoring labs.</li>
+<li>A place to send your own tips and resources to help others, as they have helped you.</li>
 </ul>
 
 Feel free to email us at ARC@masters.edu for questions, tips, and resources on being a more effective student.Let's help each other excel still more, together!
