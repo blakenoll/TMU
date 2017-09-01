@@ -3,7 +3,7 @@ title: Employment
 date: 2017-04-11 23:22:00 Z
 positions:
 - title: Staff Accountant
-  position: staff
+  position: Staff
   about-body: |-
     Summary
 
@@ -132,6 +132,94 @@ positions:
     Application Procedures:
 
     All documents included in your application remain the sole property of The Master’s College and will not be returned. Your file for this opening will not be considered unless all requested items are submitted and are complete.
+- title: Campus Safety Officer, Unarmed (Full-time) (University)
+  position: Staff
+  about-body: "SUMMARY\nWe seek a Campus Safety Officer – Armed to join our Campus
+    Safety team! The Campus Safety Officer – Unarmed position provides service functions
+    to support the general safety of the university community. Patrols an assigned
+    area and responds to radio and/or telephonic calls for routine and/or emergency
+    assistance in both criminal and non-criminal matters. Performs investigations
+    and makes arrests when necessary. Deters and prevents unlawful behavior, and performs
+    internal and external public safety functions. May function as a patrol lead on
+    shift with other campus safety officers. \nESSENTIAL FUNCTIONS\n\tMust be able
+    to work varied days and rotating shifts: 8 hours per day, 4 days a week, 32 hours
+    per week. Examples of schedules are 8:00 AM – 4:00 PM, 4:00 PM – 12:00 AM, 12:00
+    AM – 8:00 AM. Must be able to report for work in case of emergencies.\n\tPatrols
+    an assigned area on foot or in a vehicle and may serve as a patrol lead to other
+    campus safety officers on patrol shifts. \n\tResponds to telephonic and/or radio
+    calls for routine and emergency assistance in both criminal and non-criminal situations.
+    Assesses circumstances and conditions at the scene of an incident and determines
+    the appropriate response.\n\tConducts preliminary investigations of criminal
+    and non-criminal incidents. Interviews victims, witnesses, suspects, and others.
+    Issues citations and/or makes arrests. Conducts follow-up investigations as required.\n\tMaintains
+    an accurate record of daily activities. Prepares comprehensive incident and crime
+    reports. Ensures reports are legally sufficient through consultation with supervisors.\n\tAssesses
+    severity of medical emergencies, provides first aid, summons medical assistance
+    as required, and transports non-life threatening sick and injured.\n\tTestifies
+    in court on criminal and civil matters affecting the interests of the university.\n\tMaintains
+    perimeter and crowd control in the areas of crimes, emergencies, and special activities.\n\tEscorts
+    university and hospital employees, faculty, staff, students and/or hospital patients
+    between facilities and their vehicles.\n\tPresents crime prevention and public
+    information programs.\n\tMaintains security of buildings and university related
+    property by controlling access, and the opening and securing of buildings.\n\tPerform
+    related duties as assigned.\nCOMPETENCIES\nKNOWLEDGE OF:  \n\tCity, State and
+    federal civil and criminal statutes\n\tPolicies and procedures for performing
+    citizen’s arrests\n\tProvisions pertaining to traffic and crowd control\n\tInvestigating
+    and report writing\n\tOperation of a computer and assigned equipment\n\tRecord-keeping
+    techniques\n\tOral and written communication skills\nABILITY TO: \n\tDemonstrate
+    understanding of, sensitivity to, and respect for the diverse academic, socio-economic,
+    ethnic, cultural, disability, religious background and sexual orientation of community
+    University students, faculty and staff\n\tPatrol assigned areas and issue citations
+    to illegally parked vehicles to maintain control of vehicles parked on campus\n\tPromote
+    campus safety and control\n\tInterpret, apply and explain rules, regulations,
+    policies and procedures.\n\tAnalyze situations accurately and adopt an effective
+    course of action.\n\tEstablish and maintain cooperative and effective working
+    relationships with others.\n\tCommunicate effectively both orally and in writing.\n\tOperate
+    a computer and assigned equipment.\n\tObserve legal and defensive driving practices.\n\tWork
+    independently with little direction.\n\tProactive\n\tLeadership ability\n\tTeam
+    Player\n\tPositive mental attitude\n\tStrong customer service skills\n\tGodly
+    and humble character \n\tCourageous \n\tConfident decision maker\n\tAble to
+    exercise wisdom, discernment and sound judgment\n\tAbility to give and receive
+    encouragement and constructive criticism\n\tAble to work creatively and collaborate
+    with other leaders to set vision for department\nQUALIFICATIONS\n•\tBe at least
+    21 years of age\n•\tPersonal relationship with Jesus Christ and a demonstrated
+    commitment to the doctrinal position of TMU&S and exhibition of a desire to minister
+    and serve others in varied capacities\n•\tHigh school diploma or equivalent \n•\tCalifornia
+    Class C driver’s license; out of state applicants not intending to establish residency
+    must have valid out of state driver’s license \n•\tValid California Guard Card\nSELECTION
+    PROCESS \n•\tStep 1: Application and resume submitted to Human Resources\n•\tStep
+    2: Initial Job Interview  \n•\tStep 3: Admin Review / Job offer\n•\tStep 4: Background
+    Investigation – verification of qualifications, references\n•\tStep 5: Drug screening,
+    Physical Exam, PAT conducted by US Health Works\nWORKING CONDITIONS\nENVIRONMENT:\n•\tIndoor
+    and outdoor work environment.\n•\tDriving a vehicle to conduct work.\n•\tAdverse
+    weather conditions.\n•\tRegular exposure to fumes and odors.\n\nPHYSICAL ABILITIES:\n•\tHearing
+    and speaking to exchange information.\n•\tDexterity of hands and fingers to operate
+    assigned equipment.\n•\tSeeing to read various materials.\n•\tStanding or walking
+    for extended periods of time; bending at the waist, kneeling or crouching.\n•\tLifting
+    moderately heavy objects; reaching overhead, above the shoulders and horizontally
+    during traffic control.\n\nHAZARDS:\n•\tContact with dissatisfied or abusive individuals\nADDITIONAL
+    INFORMATION\nMinimum Conditions for Beginning Employment:\n\t\nPrior to beginning
+    employment, in accordance with The Master’s University policy and/or under federal
+    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
+    employment.\n2.\tPresent verification of their identity and authorization to work
+    in the United States.\n\nIf, because of a disability, you need special services
+    or facilities in order to apply or interview for this opening please contact the
+    Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
+    on the basis of race, color, national origin, ancestry, gender, age, marital status,
+    veteran status or prior military service, medical condition, or any physical or
+    mental disability.  We are committed to practicing principles of equal employment
+    opportunity and diversity based upon sovereign Biblical principles.\nAPPLICATION
+    PROCESS\nCompleted application form from The Master’s University.  This can be
+    obtain at www.masters.edu/jobs or by contacting\nThe Master’s University and Seminary\nHuman
+    Resources Department\n21726 Placerita Canyon Road • Santa Clarita, California
+    • 91321-1200\n(800) 568-6248 • (661) 362-2844 • FAX (661) 362-2717\nSelection
+    Process:\nAll applications will be reviewed by the Human Resources department.
+    \ Selected candidates will be invited for a personal interview at The Master’s
+    University.  Any expense incurred in connection with these interviews will be
+    the responsibility of the candidates.\n\nApplication Procedures:\nAll documents
+    included in your application remain the sole property of The Master’s University
+    and will not be returned.   Your file for this opening will not be considered
+    unless all requested items are submitted and are complete.\n"
 layout: employment
 ---
 
