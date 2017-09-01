@@ -1,8 +1,7 @@
 ---
 title: Christian Ministries
-layout: undergradonline
-parallax-img: "/images/Parallax6.jpg"
 sm-image: "/uploads/AcademicsOnline_ChristianMinistries.png"
+parallax-img: "/images/Parallax6.jpg"
 level: undergrad
 about-body: |-
   The online Christian Ministries degree is composed of 14 major courses totaling 42 semester units. Its primary purpose is to provide individuals with a comprehensive biblical philosophy of ministry through a systematic examination of key aspects of God’s program within a local church. The goal of the major is to provide graduates with a thorough understanding of what God is doing in the world through the church, and the role of each believer within that work.
@@ -21,11 +20,11 @@ about-body: |-
 
   ### Degree Requirements Summary
 
-  [Click here](http://localhost:4000/media/868242/christian-ministries-dcp-online-cm_tmu.pdf "Christian Ministries - DCP Online CM_TMU.pdf")to print a summary of the degree requirements for BA in Christian Ministries.
+  [Click here](/media/868242/christian-ministries-dcp-online-cm_tmu.pdf) to print a summary of the degree requirements for BA in Christian Ministries.
 
   ### Textbooks
 
-  [Click here](http://localhost:4000/media/869756/ba-cm-booklist-33017.pdf "BA-CM Booklist 3.30.17.pdf (1)") to view the Textbooks for all Online Christian Ministries courses.
+  [Click here](/media/869756/ba-cm-booklist-33017.pdf) to view the Textbooks for all Online Christian Ministries courses.
 major-requirments-body: |-
   ### Christian Ministries
 
@@ -66,5 +65,6 @@ careers:
 - Christian education administration
 - Lay leadership ministry
 - Advanced degrees (M.Div, Th.M, etc.)
+layout: undergradonline
 ---
 

@@ -16,24 +16,23 @@ View-The-U-body: |-
 
   ### Thursday, October 26th
 
-  6:30-7:30pm Check-in\
-  8:00pm Night of Welcome
+  * 6:30-7:30pm Check-in
+  * 8:00pm Night of Welcome
 
   ### Friday, October 27th
 
-  7:00-9:00am Breakfast in the Mustang Grill (Students)\
-  8:00-9:00am Class Visits (Students)\
-  8:00am Breakfast with the Vice President (Parents)\
-  9:10-10:25am Chapel (All)\
-  10:40am Select 1 (Campus Tour/ Class Visit)\
-  11:45am Select 1 (Campus Tour/ Class Visit/Student Lunch)\
-  12:50pm Select 1 (Campus Tour/ Class Visit/Student Lunch)\
-  12:45-2:00pm Student Life Luncheon (Parents)\
-  2:10-3:10pm Admissions & Financial Aid Seminar (All)\
-  3:15-4:30pm “Meet the Majors” Academic Department Fair (All)\
-  5:00-6:00pm Dinner in the Mustang Grill (Students)\
-  6:30-9:30pm Unfiltered Summit \
-  \
+  * 7:00-9:00am Breakfast in the Mustang Grill (Students)
+  * 8:00-9:00am Class Visits (Students)
+  * 8:00am Breakfast with the Vice President (Parents)
+  * 9:10-10:25am Chapel (All)
+  * 10:40am Select 1 (Campus Tour/ Class Visit)
+  * 11:45am Select 1 (Campus Tour/ Class Visit/Student Lunch)
+  * 12:50pm Select 1 (Campus Tour/ Class Visit/Student Lunch)
+  * 12:45-2:00pm Student Life Luncheon (Parents)
+  * 2:10-3:10pm Admissions & Financial Aid Seminar (All)
+  * 3:15-4:30pm “Meet the Majors” Academic Department Fair (All)
+  * 5:00-6:00pm Dinner in the Mustang Grill (Students)
+  * 6:30-9:30pm Unfiltered Summit
 
   ## Important Information for Registrants:
 
@@ -123,13 +122,13 @@ Mondays-At-Masters-body: |-
 
   ## Sample Schedule of Events:
 
-  8:30-9:00am Registration & Continental Breakfast\
-  9:10-10:25am Chapel\
-  10:45-11:35am Campus Tour or Class Visit\
-  11:45am-12:40pm Campus Tour or Class Visit\
-  12:50-1:45pm Lunch\
-  2:00-3:00pm Student Q&A Panel\
-  3:30-4:30pm Admissions & Financial Aid Seminar
+  * 8:30-9:00am Registration & Continental Breakfast
+  * 9:10-10:25am Chapel
+  * 10:45-11:35am Campus Tour or Class Visit
+  * 11:45am-12:40pm Campus Tour or Class Visit
+  * 12:50-1:45pm Lunch
+  * 2:00-3:00pm Student Q&A Panel
+  * 3:30-4:30pm Admissions & Financial Aid Seminar
 Music-at-Masters-body: |-
   November 12-13, 2017
 

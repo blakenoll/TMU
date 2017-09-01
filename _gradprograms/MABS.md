@@ -1,7 +1,6 @@
 ---
 title: MABS
 sm-image: "/uploads/AcademicsGraduate_MABS.png"
-parallax-img: "/images/Parallax9.jpg"
 program-outline-text: |-
   The M.A. in Biblical Studies is a 36 credit hour graduate degree program, designed to allow students to pursue in-depth training in Biblical Studies.
 
@@ -198,76 +197,77 @@ courses-body: "## BTS500 - INTRODUCTION TO BIBLICAL STUDIES - 2 units\n\nA gradu
   MIDDLE EAST - 2 units\n\nA field-based exploration of the cultural, religious, and
   ethnic diversity of the land of Israel. Special attention is given to religious
   and cultural distinctives of the major ethnic communities and monotheistic religions
-  of the region.\n\n### Required core classes are indicated by an asterisk.\\*\n\neligibility-requirements-body:
-  |-\\\nIn order to be considered for enrollment to the M.A. program at The Master's
-  College, the following eligibility requirements must be met by the applicant. The
-  administration and faculty of the College reserve the right to withdraw the privilege
-  of enrollment or to place a student on probation if, after enrollment, the student
-  proves to be lacking in these qualifications.\n\n### Spiritual\n\n\\* Testimony
-  of faith in Jesus Christ as Savior and Lord.\n\n\\* Demonstration of submission
-  to the will of God and obedience to the Word of God.\n\n\\* Possession of the personal
-  and spiritual gifts necessary for counseling and discipleship (deacon/deaconness
-  qualified).\n\n\\* Recommendation by church leaders and other people who have had
-  significant contact with the applicant.\n\n\\* General agreement with the doctrinal
-  statement of The Master's College.\n\n### Academic\n\nThe goal of the academic admission
-  requirements is to ensure that students who enter the program are a theological
-  match with the College's doctrinal position, and that they have the academic capability
-  and prerequisite preparation to successfully complete and benefit from the coursework
-  they will be required to take.\n\n\\* Bachelor's degree from a regionally accredited
-  college or university (official transcript required). The prospective student must
-  have a cumulative grade point average of 3.0 or above on a 4.0 scale for all undergraduate
-  work. The student will be expected to maintain a 3.0 average in the M.A. program,
-  with no grade less than a C.\n\n\\* It is highly recommended that a student's undergraduate
-  program be strong in a liberal arts emphasis, including courses in literature, history,
-  and philosophy.\n\n\\* While an undergraduate degree in Biblical Studies is not
-  required for entrance into this program, applicants will still be required to demonstrate
-  a threshold level of biblical and theological knowledge in order to be admitted
-  to the program. This requirement can be satisfied by either of the following:\n\n
-  \   * Complete 18 semester units of undergraduate coursework in biblical studies
-  with a GPA of at least 3.0 that includes at least 6 units of New Testament (N.T.),
-  6 units of Old Testament (O.T.), and 6 units of Christian Theology.\n    \n    *
-  Complete a three-part comprehensive entrance examination in O.T., N.T., and Christian
-  Theology to certify a level of theological knowledge necessary for graduate study.
-  There is a $30 fee for the entrance exam.\n    \n    * Note: Applicants who fail
-  a section of the entrance examination (N.T., O.T., or Christian Theology) may choose
-  to retake that section of the exam or complete 6 units of undergraduate coursework
-  with a minimum GPA of at least 3.0 in that subject area in order to be admitted
-  to the program.\n\n## Application Requirements\n\nThe following documents must be
-  submitted in order to apply to The Master's College:\n\n1. \\[Application for Graduate
-  Admission\\](https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersGrad&AID=207350&EXT=1&EXTID=&REFERER=)
-  (Online)\n\n2. \\[Application fee\\](https://masters.formstack.com/forms/graduate_application_fee_credit_card_processing)
-  ($50)\n\n3. \\[Supplementary personal statements\\](http://www.masters.edu/media/865705/grad-supplemental-personal-statements-form.pdf)\n\n4.
-  Official transcripts indicating the completion of a bachelor's degree from a regionally
-  accredited college or university\n\n5. Reference forms: \\[academic\\](http://www.masters.edu/media/865707/grad-academic-reference-form.pdf),
+  of the region.\n\n### Required core classes are indicated by an asterisk.\\*\n\nIn
+  order to be considered for enrollment to the M.A. program at The Master's College,
+  the following eligibility requirements must be met by the applicant. The administration
+  and faculty of the College reserve the right to withdraw the privilege of enrollment
+  or to place a student on probation if, after enrollment, the student proves to be
+  lacking in these qualifications.\n\n### Spiritual\n\n* Testimony of faith in Jesus
+  Christ as Savior and Lord.\n\n* Demonstration of submission to the will of God and
+  obedience to the Word of God.\n\n* Possession of the personal and spiritual gifts
+  necessary for counseling and discipleship (deacon/deaconness qualified).\n\n* Recommendation
+  by church leaders and other people who have had significant contact with the applicant.\n\n*
+  General agreement with the doctrinal statement of The Master's University.\n\n###
+  Academic\n\nThe goal of the academic admission requirements is to ensure that students
+  who enter the program are a theological match with the College's doctrinal position,
+  and that they have the academic capability and prerequisite preparation to successfully
+  complete and benefit from the coursework they will be required to take.\n\n* Bachelor's
+  degree from a regionally accredited college or university (official transcript required).
+  The prospective student must have a cumulative grade point average of 3.0 or above
+  on a 4.0 scale for all undergraduate work. The student will be expected to maintain
+  a 3.0 average in the M.A. program, with no grade less than a C.\n\n* It is highly
+  recommended that a student's undergraduate program be strong in a liberal arts emphasis,
+  including courses in literature, history, and philosophy.\n\n* While an undergraduate
+  degree in Biblical Studies is not required for entrance into this program, applicants
+  will still be required to demonstrate a threshold level of biblical and theological
+  knowledge in order to be admitted to the program. This requirement can be satisfied
+  by either of the following:\n\n* Complete 18 semester units of undergraduate coursework
+  in biblical studies with a GPA of at least 3.0 that includes at least 6 units of
+  New Testament (N.T.), 6 units of Old Testament (O.T.), and 6 units of Christian
+  Theology.\n    \n* Complete a three-part comprehensive entrance examination in O.T.,
+  N.T., and Christian Theology to certify a level of theological knowledge necessary
+  for graduate study. There is a $30 fee for the entrance exam.\n    \nNote: Applicants
+  who fail a section of the entrance examination (N.T., O.T., or Christian Theology)
+  may choose to retake that section of the exam or complete 6 units of undergraduate
+  coursework with a minimum GPA of at least 3.0 in that subject area in order to be
+  admitted to the program.\n\n## Application Requirements\n\nThe following documents
+  must be submitted in order to apply to The Master's University:\n\n* Application
+  for Graduate Admission\n(https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersGrad&AID=207350&EXT=1&EXTID=&REFERER=)
+  (Online)\n\n* Application fee\n(https://masters.formstack.com/forms/graduate_application_fee_credit_card_processing)
+  ($50)\n\n* Supplementary personal statements\n(http://www.masters.edu/media/865705/grad-supplemental-personal-statements-form.pdf)\n\nOfficial
+  transcripts indicating the completion of a bachelor's degree from a regionally accredited
+  college or university\n\n* Reference forms: \\[academic\\](http://www.masters.edu/media/865707/grad-academic-reference-form.pdf),
   \\[pastoral\\](http://www.masters.edu/media/865706/grad-pastor-reference-update-form.pdf)
   (or other lay-leader), and \\[personal\\](http://www.masters.edu/media/865708/grad-personal-reference-form.pdf)
   (forms provided with application)\n\n## Application Deadlines\n\nThe Master of Arts
-  in Biblical Studies at The Master's College is a three term program. The core courses
-  are offered on the campus of The Master's College each summer during the last two
-  full weeks of July. Twenty four (24) units must be completed on campus. The remaining
-  12 units are completed by correspondence or travel-study format. The application
-  deadlines are:\n\n\\* Summer Term - March 1\n\n\\* Fall Term - July 1\n\n\\* Spring
-  Term - November 1\n\nApplications may be submitted after the deadline, but we cannot
-  guarantee that they will be given equal consideration with those submitted on time.\n\n##
-  Transfer Credits\n\nAny graduate from TMC's undergraduate Biblical Studies major
-  program who has earned at least 36 credits of Bible will be allowed a maximum of
-  six (6) credits of advanced standing in the program. A student transferring from
-  another graduate program will be allowed credit for a maximum of six (6) credits
+  in Biblical Studies at The Master's University is a three term program. The core
+  courses are offered on the campus of The Master's College each summer during the
+  last two full weeks of July. Twenty four (24) units must be completed on campus.
+  The remaining 12 units are completed by correspondence or travel-study format. The
+  application deadlines are:\n\n\\* Summer Term - March 1\n\n\\* Fall Term - July
+  1\n\n\\* Spring Term - November 1\n\nApplications may be submitted after the deadline,
+  but we cannot guarantee that they will be given equal consideration with those submitted
+  on time.\n\n## Transfer Credits\n\nAny graduate from TMU's undergraduate Biblical
+  Studies major program who has earned at least 36 credits of Bible will be allowed
+  a maximum of six (6) credits of advanced standing in the program. A student transferring
+  from another graduate program will be allowed credit for a maximum of six (6) credits
   for courses that correspond to those offered in the MABS program. Decisions regarding
   advanced standing and transfer credits are only determined through the transcript
   review step of the application process by the faculty chair of the MABS program
   in consultation with the Registrar.\n\n## International Students\n\nThe Master's
-  College is authorized under Federal law to enroll nonimmigrant alien students. Students
-  from abroad are welcome, provided they meet the admission requirements of the College.
-  For applicants, for whom English is a second language, a minimum score of 100 is
-  required on the TOEFL exam in order to be considered for admission. While all classroom
-  instruction is conducted in English, the administration, faculty and staff attempt
-  to be sensitive to the needs of our international students. As foreign students'
-  legal needs are different from those of U.S. citizens, there are additional requirements.
-  Foreign students are urged to contact the \\[Office of International Student Advancement\\](mailto:iso@masters.edu
-  \"Office of International Student Advancement\") to obtain the appropriate information."
+  University is authorized under Federal law to enroll nonimmigrant alien students.
+  Students from abroad are welcome, provided they meet the admission requirements
+  of the College. For applicants, for whom English is a second language, a minimum
+  score of 100 is required on the TOEFL exam in order to be considered for admission.
+  While all classroom instruction is conducted in English, the administration, faculty
+  and staff attempt to be sensitive to the needs of our international students. As
+  foreign students' legal needs are different from those of U.S. citizens, there are
+  additional requirements. Foreign students are urged to contact the \\[Office of
+  International Student Advancement\\](mailto:iso@masters.edu \"Office of International
+  Student Advancement\") to obtain the appropriate information."
+parallax-img: "/images/Parallax9.jpg"
 eligibility-requirements-body: |-
-  In order to be considered for enrollment to the M.A. program at The Master's College, the following eligibility requirements must be met by the applicant. The administration and faculty of the College reserve the right to withdraw the privilege of enrollment or to place a student on probation if, after enrollment, the student proves to be lacking in these qualifications.
+  In order to be considered for enrollment to the M.A. program at The Master's University, the following eligibility requirements must be met by the applicant. The administration and faculty of the College reserve the right to withdraw the privilege of enrollment or to place a student on probation if, after enrollment, the student proves to be lacking in these qualifications.
 
   ### Spiritual
 
@@ -283,7 +283,7 @@ eligibility-requirements-body: |-
 
   ### Academic
 
-  The goal of the academic admission requirements is to ensure that students who enter the program are a theological match with the College's doctrinal position, and that they have the academic capability and prerequisite preparation to successfully complete and benefit from the coursework they will be required to take.
+  The goal of the academic admission requirements is to ensure that students who enter the program are a theological match with the university's doctrinal position, and that they have the academic capability and prerequisite preparation to successfully complete and benefit from the coursework they will be required to take.
 
   * Bachelor's degree from a regionally accredited college or university (official transcript required). The prospective student must have a cumulative grade point average of 3.0 or above on a 4.0 scale for all undergraduate work. The student will be expected to maintain a 3.0 average in the M.A. program, with no grade less than a C.
 
@@ -299,7 +299,7 @@ eligibility-requirements-body: |-
 
   ## Application Requirements
 
-  The following documents must be submitted in order to apply to The Master's College:
+  The following documents must be submitted in order to apply to The Master's University:
 
   1. [Application for Graduate Admission](https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersGrad&AID=207350&EXT=1&EXTID=&REFERER=) (Online)
 
@@ -313,7 +313,7 @@ eligibility-requirements-body: |-
 
   ## Application Deadlines
 
-  The Master of Arts in Biblical Studies at The Master's College is a three term program. The core courses are offered on the campus of The Master's College each summer during the last two full weeks of July. Twenty four (24) units must be completed on campus. The remaining 12 units are completed by correspondence or travel-study format. The application deadlines are:
+  The Master of Arts in Biblical Studies at The Master's University is a three term program. The core courses are offered on the campus of The Master's College each summer during the last two full weeks of July. Twenty four (24) units must be completed on campus. The remaining 12 units are completed by correspondence or travel-study format. The application deadlines are:
 
   * Summer Term - March 1
 
@@ -325,10 +325,10 @@ eligibility-requirements-body: |-
 
   ## Transfer Credits
 
-  Any graduate from TMC's undergraduate Biblical Studies major program who has earned at least 36 credits of Bible will be allowed a maximum of six (6) credits of advanced standing in the program. A student transferring from another graduate program will be allowed credit for a maximum of six (6) credits for courses that correspond to those offered in the MABS program. Decisions regarding advanced standing and transfer credits are only determined through the transcript review step of the application process by the faculty chair of the MABS program in consultation with the Registrar.
+  Any graduate from TMU's undergraduate Biblical Studies major program who has earned at least 36 credits of Bible will be allowed a maximum of six (6) credits of advanced standing in the program. A student transferring from another graduate program will be allowed credit for a maximum of six (6) credits for courses that correspond to those offered in the MABS program. Decisions regarding advanced standing and transfer credits are only determined through the transcript review step of the application process by the faculty chair of the MABS program in consultation with the Registrar.
 
   ## International Students
 
-  The Master's College is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the College. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
+  The Master's University is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the College. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
 ---
 

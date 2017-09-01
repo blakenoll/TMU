@@ -1,6 +1,7 @@
 ---
 title: Graduate
 position: 1
+app-deadlines: 
 ---
 
 <img src="{{ "/images/Grad_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
@@ -10,116 +11,65 @@ position: 1
 <a href="https://masters.secure.force.com/form/?formid=217725" class="btn btn-navy">Request Info</a>
 </div>
 </div>
-The Graduate Studies department of the Master's University welcomes applications from prospective students who are able to present strong academic records and a clear testimony of faith in Jesus Christ. In selecting students, the graduate admissions committee admits those for whom graduation is a reasonable expectation and who offer potential to contribute positively to the graduate studies community.
+
+**Application Information**
+
+The Graduate Studies department of the Master's University welcomes applications from prospective students who are able to present strong academic records and a clear testimony of faith in Jesus Christ. In selecting students, the Graduate Admissions Committee admits those for whom graduation is a reasonable expectation and who offer potential to contribute positively to the graduate studies community.
 
 ### Steps to Apply
 
-To be considered for admission into the graduate studies program, you will need to provide the following application components:
+To be considered for admission into the graduate studies program, you can [Apply](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB) here!
 
-1. [Application for Graduate Admission](https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersGrad&AID=207350&EXT=1&EXTID=&REFERER=) (Online)
+The application will ask a variety of questions regarding personal, contact, family, education history, employment history, and church related information. Also included in the application will be several short answer questions about some key theological positions as well as your involvement with your local church and your reason to pursue Graduate Studies with us. You will also be prompted to provide us a brief description of your personal testimony and a 10-15 page writing sample of previous academic work, demonstrating graduate study proficiency (instructions will be included in that section of the application). There is no assigned topic for this writing sample - you are free to submit a paper you have already written for another class or program. However, be advised that in reviewing this writing sample, the MABC Admissions Committee will look not only for content, but also for acceptable formatting, syntax, grammar, and citation. Also, you will be able to provide the names and email addresses of three different references - Pastor or Elder, Educator, Personal (these cannot be relatives). Once you provide the name and the email address of the reference in the application, the system will automatically send the reference the appropriate electronic form and your reference can fill out that form without having to confer with you. If the reference delays in filling out the form, there will be an option to change the reference when you sign-in again to the application, if necessary. Finally, when you submit the application, you will be prompted to pay the application fee ($50) through our electronic portal (PayPal). If you cannot complete the payment using our electronic portal, please contact the Graduate Admissions Coordinator at [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu) or 661-362-2652 for other methods of payment. You will always be able to save your application and return to it later to finish at another time.
 
-2. [Application fee](https://masters.formstack.com/forms/graduate_application_fee_credit_card_processing) ($50)
+After the application has been submitted, the system will automatically assemble all previous schools you provided in the application and create a list of official transcripts that you will need to mail to our Graduate Studies Office. If your school uses a secure electronic system to email official transcripts, you may do this as well. But please be advised that these transcripts must be official (meaning that they cannot be copies of your transcripts, and they come directly from your school and have not been open by you or anyone else). Of most importance, students applying for graduate studies must have a bachelor's degree from a school that meets the accreditation standards of the Higher Learning Commission in the United States, with few exceptions. If you are unsure about the accreditation of your school or have any problems sending us a transcript, please contact the Graduate Admissions Coordinator at [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu) or 661-362-2652. For mailed transcripts, please have your school send them to this address:
 
-3. [Supplementary personal statements](http://www.masters.edu/media/865705/grad-supplemental-personal-statements-form.pdf)
+**THE MASTER'S UNIVERSITY
+Office of Graduate Admissions Box #50
+21726 Placerita Canyon Road
+Santa Clarita, CA 91321
+UNITED STATES**
 
-4. Official transcripts indicating the completion of a bachelor's degree from a regionally accredited college or university
+Please make sure to remind your school that the "Box #50" must be included in the address. Some schools have our basic address in their system without the "Box #50." They may need prompting to include this number. If it is not included, the transcript will arrive in another department on our campus, and it may take some time to track it down. Thank you in advance!
 
-5. Reference forms: [academic](http://www.masters.edu/media/865707/grad-academic-reference-form.pdf), [pastoral](http://www.masters.edu/media/865706/grad-pastor-reference-update-form.pdf) (or other lay-leader), and [personal](http://www.masters.edu/media/865708/grad-personal-reference-form.pdf) (forms provided with application)
+Only for students in which English is not their first language, you will need to complete and score a minimum of 100 on the Test of English as a Foreign Language (TOEFL). Please visit their [website here](https://www.toeflgoanywhere.org/search-who-accepts-toefl) and search for "Master's College" or "Master's University" in Santa Clarita as the school where you would like your exam scores sent.
 
-6. MABC Applicants Only: Writing sample, a 10-15 page sample of your academic work, demonstrating graduate study capability.
+When all of the application items have been completed and sent to us (online application, recommendations, official transcripts, TOEFL), then your application will be ready for review by the Admissions Committee in the Graduate Studies Office.
 
-\*Prospective students of the Teaching Credential, Online program, or Seminary programs should consult those departments for application requirements and procedures.
+\*Those who went to schools under a previous last name, please make sure to provide your Former Last Name in the application so that we can identify your transcripts. Thank you!
 
-### **Application Deadlines**
+\*\*Prospective students of the Teaching Credential, Online program, or Seminary programs should consult those departments for application requirements and procedures.
 
-**Summer Term **                 \
-Domestic: March 1
+Former or Current TMS Students: Your application will be shorter than what is prescribed above. Please designate that you are a Former/Current TMS Student at the beginning of the application. This will prompt the system to reduce your application requirements automatically. In the application, you will NOT be prompted to provide us a writing sample, pastor/elder reference, personal reference, or TOEFL (for those in which English is not their first language). For your transcripts, we have your TMS record already, so you will not need to request that from the Seminary. However, we will need you to request for copies of your other school transcripts from the TMS secretary (Jennifer Baughman). Please email Jennifer at [jbaughman@tms.edu](mailto:jbaughman@tms.edu) and request from her copies of your transcripts to be sent to Box #50, the Graduate Studies Office at The Master's University.
 
-International: December 15
+Re-Admit Students: Your application process will be shorter than what is prescribed above. Please designate that you are a Re-Admit Student at the beginning of the application. This will prompt the system to reduce your application requirements automatically. In the application, you will NOT be prompted to provide us a writing sample, educator reference, personal reference, or TOEFL (for those in which English is not their first language). Also, the short answers in the application will be uniquely fitted for you. For your transcripts, please send us only official transcripts of any schools you have attended since the last time you were enrolled as a student in our Graduate Studies programs.
 
-**Fall Term **\
-Domestic: July 1
+<table class="bordered">
+<tbody>
+<tr>
+<td> </td>
+<td style="text-align: center;"><strong>  Domestic  </strong></td>
+<td style="text-align: center;"><strong>  International  </strong></td>
+</tr>
+<tr>
+<td style="text-align: right;"><strong>    Spring Term - </strong></td>
+<td style="text-align: center;">November 1 (of previous year) </td>
+<td style="text-align: center;">July 15 (of previous year)</td>
+</tr>
+<tr>
+<td style="text-align: right;"><strong>    Summer Term - </strong></td>
+<td style="text-align: center;">March 1</td>
+<td style="text-align: center;">December 15</td>
+</tr>
+<tr>
+<td style="text-align: right;"><strong>Fall Term - </strong></td>
+<td style="text-align: center;">July 1</td>
+<td style="text-align: center;">April 15</td>
+</tr>
+</tbody>
+</table>
 
-International: April 15
-
-Applications may be submitted after the deadline, but we cannot guarantee that they will be given equal consideration with those submitted on time. It is preferred that residential-local students begin studies in a fall term. Because the intensive-modular courses form both the foundation and anchor for the entire distance student's experience, we require distance students to start the program in a summer term. Exceptions are regularly made to this rule for applicants with a strong background in Biblical Studies (for MABS) or Biblical Counseling (for MABC) or for applicants starting their studies with a travel-study course; in such cases, permission for distance students to begin studies in the fall or spring terms is granted.
-
-**Application Forms**
-
-* **[Main](https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersGrad&AID=207350&EXT=1&EXTID=&REFERER= "TMC Grad App EM link")** Graduate Application Form
-
-  * **[Click here](https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersGrad&AID=207350&EXT=1&EXTID=&REFERER= "TMC Grad App EM link (2)") to complete the Main Graduate Application Form. This link will take you to our main online application, where you will need to create a user name and password. Please remember your user name and password, or you will need to create a new one and start the application over.**
-
-  * BEFORE YOU BEGIN: You may find it helpful at this point to review the following two documents, as you will be asked about both of these documents as you complete the application.
-
-    * The Master’s College Doctrinal Statement at [www.masters.edu/doctrine](http://www.masters.edu/doctrine), and
-
-    * The Master’s College Student Handbook at [www.masters.edu/handbook](http://www.masters.edu/handbook)
-
-      * Please especially read the section of the handbook entitled “Student Standards of Conduct”
-
-      * *Note: graduate students are not required to attend chapel, nor are they typically eligible for on-campus housing, so those sections of the handbook do not apply to graduate students.*
-
-  * A hard-copy application form is available from your admissions counselor upon request.
-
-* **[Application Fee](https://masters.formstack.com/forms/graduate_application_fee_credit_card_processing)**
-
-  * If you prefer not to pay by credit card, the $50 application fee can also be submitted either in cash or check. Please make all checks out to “The Master’s College” and mail to the address listed below.
-
-  * The application fee can be paid by credit card through our website at [this link](https://masters.formstack.com/forms/graduate_application_fee_credit_card_processing).
-
-
-* **[Supplemental Personal Statements Form](http://www.masters.edu/media/865705/grad-supplemental-personal-statements-form.pdf "grad supplemental personal statements form.pdf")**
-
-  * \*\*NOTE: you do \*\**not* need to complete this document if you are a student from The Master’s Seminary looking to take only a small amount of MABC courses to satisfy electives for the TMS M.Div. program.
-
-  * All other applicants (including TMS applicants who wish to complete the entire MABC or MABS program) *do* need to complete this form.
-
-  * You may email your completed Supplemental Personal Statements to [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu) (be sure to clearly indicate your full name and which program you are applying for in your email); or if you prefer, you may mail a hard copy to the address below.
-
-* **[Academic Reference Form](http://www.masters.edu/media/865707/grad-academic-reference-form.pdf "grad academic reference form.pdf")**
-
-  * Once you have completed the top portion of this form, please give this reference form to a teacher or professor who can who can confidently and accurately respond to these questions about you. *NOTE: Do not give this form to a relative.*
-
-  * Please provide your reference with a stamped envelope to be mailed to the address listed below.
-
-
-* **[Pastor/Church Leader Reference Form](http://www.masters.edu/media/865706/grad-pastor-reference-update-form.pdf "grad pastor reference update form.pdf")**
-
-  * \*\*Once you have completed the top portion of this form, please give this reference form to a pastor, elder, or leader in your local church who can confidently and accurately respond to these questions about you. \*\**NOTE: Do not give this form to a relative.*
-
-  * Please provide your reference with a stamped envelope to be mailed to the address listed below.
-
-
-* **[Personal Reference Form](http://www.masters.edu/media/865708/grad-personal-reference-form.pdf "grad personal reference form.pdf")**
-
-  * \*\*Once you have completed the top portion of this form, please give this reference form to an individual who knows you well and can confidently and accurately respond to these questions about you. \*\**NOTE: Do not give this form to a relative.*
-
-  * Please provide your reference with a stamped envelope to be mailed to the address listed below.
-
-
-* **Academic Transcripts**
-
-  * **We require that all your official transcripts** from all post-high school academic institutions which you have attended (i.e. – all colleges, universities, junior colleges you have attended). Be sure to especially include your official transcript(s) which indicate(s) the completion of a bachelor’s degree from a regionally accredited college or university.
-
-  * Please have all transcripts mailed to the address listed below.
-
-
-* **Graduate-Level Writing Sample (MABC Applicants Only)**
-
-  * **We will also require a 10-15 page writing sample** of your academic work, demonstrating graduate-level ability in research and writing skills.
-
-  * There is no assigned topic for this writing sample - you are free to submit a paper you have already written for another class or program. However, be advised that in reviewing this writing sample, the MABC Admissions Committee will look not only for content, but also for acceptable formatting, syntax, grammar, and citation.
-
-  * You may email your writing sample to [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu) (be sure to clearly indicate your full name and which program you are applying for in your email); or if you prefer, you may mail a hard copy to the address listed below.
-
-**Please have all official transcripts, and hard copy reference forms and your Supplemental Personal Statements and Writing Sample (only if you prefer not to email those) mailed to this address:**
-
-The Master's University
-
-Office of Graduate Admissions
-
-21726 Placerita Canyon Road, Box #50
+Applications may be submitted after the deadline, but we cannot guarantee that they will be given equal consideration with those submitted on time. It is preferred that residential-local students begin studies in a fall term. Because the intensive-modular courses form both the foundation and anchor for the entire distance student's experience, we highly recommend distance students to start the program in a summer term. A distant student may begin in the fall or spring semesters but the he/she must realize that he/she will necessarily need to take classes out of the prescribed order (see [what we prescribe here](http://www.masters.edu/academics/graduate/degree-programs/mabc/program-outline/)) and thus be initially limited as to which courses he/she may take in the first couple of semesters. Moreover, students should be aware that some classes will assume the student's familiarity of previous content from courses that would normally be taken in the prescribed order. In this way, all students will be held to the same academic standards whether he/she is taking the classes in the prescribed order or not. The Graduate Studies Office will help students minimize any potential problems that may result from taking classes out of the preferred order, but it is important that the student is aware of these potential challenges.
 
 ## Transfer Credits
 
@@ -127,4 +77,17 @@ Credits from other institutions are generally not accepted for transfer due to t
 
 ## International Students
 
-The Master's University is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the College. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
+The Master's University is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the University. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
+
+Contact Information:
+
+The Master's University
+Office of Graduate Studies, Box #50
+21726 Placerita Canyon Road
+Santa Clarita, CA 91321
+
+Jay Street
+Graduate Studies Admissions Coordinator
+[graduatestudies@masters.edu](mailto:graduatestudies@masters.edu)
+P: 661.362.2652; 800.568.6248 x2652
+F: 661.362.2712

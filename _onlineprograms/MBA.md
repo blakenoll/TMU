@@ -39,7 +39,7 @@ program-outline-text: |-
 
   1. Faith in Jesus Christ as your personal Lord and Savior
 
-  2. [Application](https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersDeg&AID=207235&EXT=1&EXTID=www.masters.edu&REFERER=www.masters.edu)
+  2. [Application](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB)
 
   3. A sealed official College transcript
 

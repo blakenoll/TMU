@@ -31,9 +31,9 @@ emphasis:
 - Public Relations
 total-credits: 154
 bible-credits: 21
-GE-credits: 40
+GE-credits: 34
 core-courses: 40
-emphasis-electives: 53-61
+emphasis-electives: 15-24
 course-offerings:
 - International Business Marketing
 - Real Estate Principles
@@ -96,7 +96,7 @@ required-courses-body: |-
 
   * MGT330 Business Communications (3)
 
-  * MIS320 Information Systems Applications (3) *OR *ACC329 Accounting IS Applications (3)
+  * MIS320 Information Systems Applications (3) \*OR \*ACC329 Accounting IS Applications (3)
 
   * MKT350 Marketing Fundamentals (3)
 
@@ -120,7 +120,7 @@ required-courses-body: |-
 
   * ACC462 Tax Accounting II (3)
 
-  Total units required for emphasis (64)
+  Total units required for emphasis (65)
 
   Accounting Emphasis Note: In addition, to qualify for the CPA license, accounting majors need to take an ethics course for their philosophy studies general education requirement and need to complete a total of 150 semester units.
 
@@ -139,8 +139,6 @@ required-courses-body: |-
     * *BUS483 Business Internship (3)*
 
     * *POL445 The Church as a Legal Institution (3)*
-
-    * *______ Bible Elective (3)*
 
   Total units required for emphasis (53)
 
@@ -202,7 +200,7 @@ required-courses-body: |-
 
   * MGT351 Human Resource Management (3)
 
-  * Three of the following (9)
+  * Any three business courses with Business Prefixes (9)
 
     * *ACC302 Accounting for Non-Profits (3)*
 

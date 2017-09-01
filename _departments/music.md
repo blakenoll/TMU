@@ -872,9 +872,12 @@ facilities-body: |-
 new-student-info-body: |-
   ## Music Major Entrance Auditions
 
-  Friday, August 18, 2017, 2:00-4:00 pm, MC203\
-  Tuesday, August 29, 2017, 4:00-6:00 pm, MC203\
-  For all entering music majors who have not yet performed a music scholarship audition.\
+  Friday, August 18, 2017, 2:00-4:00 pm, MC203
+
+  Tuesday, August 29, 2017, 4:00-6:00 pm, MC203
+
+  For all entering music majors who have not yet performed a music scholarship audition.
+
   Contact Caroline Peters at [cgmartin@masters.edu](mailto:cemartin@masters.edu) to schedule your audition.
 
   ## Music Theory Placement Exams
@@ -905,7 +908,7 @@ new-student-info-body: |-
 
   Mandatory Placement Auditions:
 
-  Date & Time TBA\
+  Date & Time TBA
   *Sign ups for specific times will be available at the Music Department table during WOW check-in and at the Music Major Orientation Meeting.*
 
   All students must take a Piano Foundations audition at the beginning of their time as a TMU music major. The purpose of these auditions is to allow entering students to place into the course most suited to their current level of ability. Students are permitted to audition once; multiple auditions are not permitted. Once a student has auditioned and been placed into the sequence, all remaining levels of the Piano Foundations courses must be completed.
@@ -923,7 +926,6 @@ new-student-info-body: |-
   ## Private Lesson Fees
 
   \$485 per unit (30 minute lesson) *in addition to regular tuition fees*\
-  \
 
   ## Accompanists
 

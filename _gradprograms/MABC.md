@@ -1,12 +1,10 @@
 ---
 title: MABC
 sm-image: "/uploads/AcademicsGraduate_MABC.png"
-parallax-img: "/images/Parallax8.jpg"
 program-outline-text: |-
   The M.A. in Biblical Counseling is a 34 credit hour graduate degree program, designed to allow students to pursue in-depth training in Biblical Counseling.
 
   ### Course Formats
-
 
   Courses are pursued through a combination of on-campus and distance education courses. The program is designed to give students maximum flexibility in progressing through the degree while also strategically offering instruction in the format best suited for effective educational training--serving both distance and local students. With these available formats, the entire degree may be earned without relocating to Southern California, although local students may experience additional mentoring because of their proximity to campus and additional ministry connections with the faculty.
 
@@ -18,18 +16,11 @@ program-outline-text: |-
 
   ### Program Length
 
-
   The program is optimally completed in two to four years, but program length may depend on the student's own schedule and external commitments. Typically, students complete their course work over a two to three year period, and their internship and research in an additional year. The degree must be completed within six years of enrollment.
 
   **Program Framework**
 
-
   The M.A. in Biblical Counseling is awarded to students who succesfully fulfill the requirements of the following courses.
-
-  **Pre-Requisite Course (Credits)**
-
-
-  BC090 Introduction to MABC Studies (0)
 
   **Required Courses (Credits)**
 
@@ -65,14 +56,14 @@ program-outline-text: |-
 
   BC598: Thesis Research (2)
 
-
-  *Every student graduating from the MABC program will have completed all requirements for certification with the Association of Certified Biblical Counselors (ACBC), by nature of those requirements seamlessly woven into the curriculum of required courses.
+  \*Every student graduating from the MABC program will have completed all requirements for certification with the Association of Certified Biblical Counselors (ACBC), by nature of those requirements seamlessly woven into the curriculum of required courses.
 
   **Elective Course (Credits)**
 
-
   The student will take an additional elective course, related to his specific research or counseling methodology interests.
 courses-body: |-
+  ## BC501- Introduction to Biblical Counseling
+
   This course offers a general introduction to basic concepts and distinctive features of biblical counseling. Students will discuss what biblical counseling is and what it involves, the role of the counselor in biblical counseling, the different kinds of counseling that are needed, the place of counseling in the ministry of the church and how biblical counseling theory and practice relate to and differ from some of the more common secular models and theories. Part of the course will involve a personal improvement project in which the student will evaluate his own counseling qualifications, design a plan for improving some area of his life, put that plan into action, and then evaluate his progress as the course draws to a close.
 
   ## BC502 - ESSENTIAL QUALITIES OF A BIBLICAL COUNSELOR
@@ -164,8 +155,9 @@ courses-body: |-
   ## BC599 - THESIS COMPOSITION
 
   This guided independent research requires the student to advance a thesis, presenting the biblical understanding and counseling methodology for a specific problem that could be encountered in counseling, taking the form of a 100 to 120 page, fully documented paper. Thesis topics are approved by the Department Chair and the Thesis Coordinator; research and composition are pursued under an appointed faculty advisor. Prerequisites: All core courses.
+parallax-img: "/images/Parallax8.jpg"
 eligibility-requirements-body: |-
-  In order to be considered for enrollment to the M.A. program at The Master's College, the following eligibility requirements must be met by the applicant. The administration and faculty of the College reserve the right to withdraw the privilege of enrollment or to place a student on probation if, after enrollment, the student proves to be lacking in these qualifications.
+  In order to be considered for enrollment to the M.A. program at The Master's University, the following eligibility requirements must be met by the applicant. The administration and faculty of the University reserve the right to withdraw the privilege of enrollment or to place a student on probation if, after enrollment, the student proves to be lacking in these qualifications.
 
   ### Spiritual
 
@@ -177,27 +169,23 @@ eligibility-requirements-body: |-
 
   * Recommendation by church leaders and other people who have had significant contact with the applicant.
 
-  * General agreement with the doctrinal statement of The Master's College.
+  * General agreement with the doctrinal statement of The Master's University.
 
   ### Academic
 
   * Bachelor's degree from a regionally accredited college or university (official transcript required). The prospective student must have a cumulative grade point average of 3.0 or above on a 4.0 scale for all undergraduate work. The student will be expected to maintain a 3.0 average in the M.A. program.
 
-  * All applicants without an undergraduate or graduate degree in biblical studies prior to pursuing this master's degree will be required to complete pre-requisite courses--Introduction to the Biblical Text, and Introduction to Biblical Interpretation--by the end of their first trimester of study.
-
   ## Application Requirements
 
-  The following documents must be submitted in order to apply to The Master's College:
+  The following documents must be submitted in order to apply to The Master's University:
 
-  1. [Application for Graduate Admission](http://www.masters.edu/academics/graduate/downloads.aspx "Grad Forms Page")
+  1. [Application for Graduate Admission](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB)
 
-  2. [Application fee](https://masters.formstack.com/forms/graduate_application_fee_credit_card_processing) ($50)
+  2. Official transcripts indicating the completion of a bachelor's degree from a regionally accredited college or university
 
-  3. Official transcripts indicating the completion of a bachelor's degree from a regionally accredited college or university
+  3. Reference forms: academic, pastoral (or other lay-leader), and personal (forms provided with application)
 
-  4. Reference forms: academic, pastoral (or other lay-leader), and personal (forms provided with application)
-
-  5. Writing sample (a 10-15 page sample of your academic work, demonstrating graduate study capability)
+  4. Writing sample (a 10-15 page sample of your academic work, demonstrating graduate study capability)
 
   ## Transfer Credits
 
@@ -205,7 +193,7 @@ eligibility-requirements-body: |-
 
   ## International Students
 
-  The Master's College is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the College. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
+  The Master's University is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the College. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
 framework-body: |-
   **Pre-Requisite Course (Credits)**
 
