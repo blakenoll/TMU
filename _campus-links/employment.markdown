@@ -422,7 +422,7 @@ positions:
     to twelve essential job functions that comprise the job; describe in terms of
     actions (verbs) and desired outcomes in order of most important first:\n\n•\tCoordinate
     technical processing in the office\n\n          o\tOversee Direct loan processing\n\n
-    \         o\tPell Program\n\n           o\tCal Grant Program\n\n          o\tPrivate
+    \         o\tPell Program\n\n          o\tCal Grant Program\n\n          o\tPrivate
     Lending\n \n          o\tVeteran’s Benefits\n \n          o\tElectronic retrieval
     of student information from Federal Student Aid Programs\n\n          o\tUtilize
     the PowerFAIDS package in data collection, interpretation and distribution\n\n
