@@ -134,36 +134,37 @@ positions:
     All documents included in your application remain the sole property of The Master’s College and will not be returned. Your file for this opening will not be considered unless all requested items are submitted and are complete.
 - title: Campus Safety Officer, Unarmed (Full-time) (University)
   position: Staff
-  about-body: "SUMMARY\nWe seek a Campus Safety Officer – Armed to join our Campus
+  about-body: "SUMMARY\n\nWe seek a Campus Safety Officer – Armed to join our Campus
     Safety team! The Campus Safety Officer – Unarmed position provides service functions
     to support the general safety of the university community. Patrols an assigned
     area and responds to radio and/or telephonic calls for routine and/or emergency
     assistance in both criminal and non-criminal matters. Performs investigations
     and makes arrests when necessary. Deters and prevents unlawful behavior, and performs
     internal and external public safety functions. May function as a patrol lead on
-    shift with other campus safety officers. \nESSENTIAL FUNCTIONS\n\tMust be able
+    shift with other campus safety officers. \n\nESSENTIAL FUNCTIONS\n\tMust be able
     to work varied days and rotating shifts: 8 hours per day, 4 days a week, 32 hours
     per week. Examples of schedules are 8:00 AM – 4:00 PM, 4:00 PM – 12:00 AM, 12:00
-    AM – 8:00 AM. Must be able to report for work in case of emergencies.\n\tPatrols
+    AM – 8:00 AM. Must be able to report for work in case of emergencies.\n\n\tPatrols
     an assigned area on foot or in a vehicle and may serve as a patrol lead to other
-    campus safety officers on patrol shifts. \n\tResponds to telephonic and/or radio
-    calls for routine and emergency assistance in both criminal and non-criminal situations.
-    Assesses circumstances and conditions at the scene of an incident and determines
-    the appropriate response.\n\tConducts preliminary investigations of criminal
-    and non-criminal incidents. Interviews victims, witnesses, suspects, and others.
-    Issues citations and/or makes arrests. Conducts follow-up investigations as required.\n\tMaintains
-    an accurate record of daily activities. Prepares comprehensive incident and crime
-    reports. Ensures reports are legally sufficient through consultation with supervisors.\n\tAssesses
-    severity of medical emergencies, provides first aid, summons medical assistance
-    as required, and transports non-life threatening sick and injured.\n\tTestifies
-    in court on criminal and civil matters affecting the interests of the university.\n\tMaintains
-    perimeter and crowd control in the areas of crimes, emergencies, and special activities.\n\tEscorts
+    campus safety officers on patrol shifts. \n\n\tResponds to telephonic and/or
+    radio calls for routine and emergency assistance in both criminal and non-criminal
+    situations. Assesses circumstances and conditions at the scene of an incident
+    and determines the appropriate response.\n\n\tConducts preliminary investigations
+    of criminal and non-criminal incidents. Interviews victims, witnesses, suspects,
+    and others. Issues citations and/or makes arrests. Conducts follow-up investigations
+    as required.\n\n\tMaintains an accurate record of daily activities. Prepares
+    comprehensive incident and crime reports. Ensures reports are legally sufficient
+    through consultation with supervisors.\n\n\tAssesses severity of medical emergencies,
+    provides first aid, summons medical assistance as required, and transports non-life
+    threatening sick and injured.\n\n\tTestifies in court on criminal and civil matters
+    affecting the interests of the university.\n\n\tMaintains perimeter and crowd
+    control in the areas of crimes, emergencies, and special activities.\n\n\tEscorts
     university and hospital employees, faculty, staff, students and/or hospital patients
-    between facilities and their vehicles.\n\tPresents crime prevention and public
-    information programs.\n\tMaintains security of buildings and university related
-    property by controlling access, and the opening and securing of buildings.\n\tPerform
-    related duties as assigned.\nCOMPETENCIES\nKNOWLEDGE OF:  \n\tCity, State and
-    federal civil and criminal statutes\n\tPolicies and procedures for performing
+    between facilities and their vehicles.\n\n\tPresents crime prevention and public
+    information programs.\n\n\tMaintains security of buildings and university related
+    property by controlling access, and the opening and securing of buildings.\n\n\tPerform
+    related duties as assigned.\n\nCOMPETENCIES\nKNOWLEDGE OF:  \n\n\tCity, State
+    and federal civil and criminal statutes\n\tPolicies and procedures for performing
     citizen’s arrests\n\tProvisions pertaining to traffic and crowd control\n\tInvestigating
     and report writing\n\tOperation of a computer and assigned equipment\n\tRecord-keeping
     techniques\n\tOral and written communication skills\nABILITY TO: \n\tDemonstrate
