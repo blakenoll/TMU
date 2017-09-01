@@ -900,109 +900,7 @@ transcript-body: |+
   <p><span><strong>Fax</strong>: (661) 362-2722 (private & secure)</span></p>
   <p><span><strong>Email</strong>: </span><a href="mailto:Registrar@masters.edu"><span>Registrar@masters.edu</span></a><span> (if scanning paper form, call in credit card info)</span></p>
   <p><span><strong>Mail</strong>: The Master's University, Office of the Registrar, 21726 Placerita Canyon Road, Santa Clarita, CA 91321</span></p>
-  transfer-policy-body: "## Transfer Studentsnn### Transfer Credit PoliciesnnTMU
-  grants credit for college level coursework from other colleges and universities
-  based on the following criteria:nn1. The student must have good standing at the
-  institution(s) previously attended. Students who have been dismissed or suspended
-  from another college for disciplinary reasons must request that a letter be sent
-  by the dean of the college involved, detailing the reasons for such dismissal.nn2.
-  No courses will be transferred in which the grade earned was less than C (2.0).
-  Credit will be given for accepted courses which will apply toward the student's
-  course of study at The Master's University.nn3. No more than 70 units of credit
-  will be accepted from a junior/community college. Courses for which credit is allowed
-  toward the bachelor's degree must be university transfer level.nn4. No more than
-  94 units from other accredited institutions may apply toward fulfillment of degree
-  requirements at The Master's University. Transfer students must take at least 12
-  semester units of upper division work in their major at TMU.nn5. Students who
-  are transferring from an accredited institution and who have completed a lower division
-  course which had content comparable to an upper division course at The Master's
-  University may: (a) choose to retake the course at TMU to earn upper division credit
-  for the course; or (b) choose to pass a competency exam to verify that the lower
-  division course was comparable in rigor to the upper division course at TMU. Passing
-  the competency exam entitles the student to enroll in another upper division course
-  to earn sufficient upper division credits.nn6. Transfer credit may be granted
-  to students from unaccredited schools of collegiate rank upon approval of the Vice-President
-  for Academic Affairs.nn7. The Master's University will grant credit for transferable
-  college coursework taken before high school graduation if taken from an accredited
-  college. Official transcripts must be submitted and all other transfer requirements
-  met.nn8. The maximum number of transfer credits which will be awarded for various
-  types of "non-traditional" college coursework from accredited institutions are
-  as follows:nn   \* 32 units of Advanced Placement (maximum of 32 units), CLEP examinations
-  \(maximum of 18 units), or credit by TMU assessment (maximum of 12 units).nn   \*
-  45 units of transfer credit from military transcript with maximum of 30 units applicable
-  toward meeting TMU general education requirements.nn   \* 36 units of non-traditional
-  course work including: directed studies courses, correspondence courses, computer
-  and WWW-based distance education courses, or video/ITV-based courses.nn## Credit
-  Limits for Non-Traditional TMU CourseworknnThe maximum number of semester units
-  from non-traditional format TMU courses that a student may count toward a degree
-  program is as follows:nn* 13 units of TMU Directed Studies courses.nn 24 units
-  of intensive format TMU courses (Post-session, Winterim, or GE school).nn 24
-  units of credit for life experience assessment.nn## Credit by ExaminationnnThe
-  Master's University, as a member of the College Entrance Examination Board, recognizes
-  the merits of the Advanced Placement (AP), College Level Examination Program (CLEP),
-  and the International Baccalaureate (IB), and will grant credit for passing scores
-  in certain tests offered through these programs. A student may earn a maximum of
-  32 semester units of AP/CLEP exam transfer credit. If a student takes a college
-  course for which he/she has already received AP/CLEP credit, then he/she forfeits
-  that transfer credit.nnThe Master's University reserves the right to determine
-  the amount of credit that will be awarded for all AP/CLEP transfer credit examinations.
-  Credit for all AP courses other than Math and Science, is awarded based on a score
-  of "3", "4", or "5". Credit for Math and Science AP courses is awarded based
-  on a score of "4" or "5". CLEP examination credit may be granted for all courses
-  based on a CLEP score of 55 or above. The university will grant credit for IB examinations
-  with scores of "5", "6", or "7".nnNote: The Master's University has been
-  designated as a national testing facility for the CLEP examination. If CLEP examinations
-  have already been taken, contact the Registrar's Office for information regarding
-  acceptance of CLEP scores. For testing information, see our CLEP Testing pages.nn##
-  The Master's Universitynn### AP Information & PoliciesnnHigh school students
-  may receive advanced collegiate standing by participating in the Advanced Placement
-  \(AP) program. Up to 32 credits may be earned through this program or by other test-out
-  procedures. Hours earned through Advanced Placement do not count as hours in residence
-  toward graduation with honors.nnTo earn credit through Advanced Placement, students
-  must enroll in specific AP courses offered by their respective high schools. Upon
-  completing these courses, students take individual Advanced Placement examinations
-  in each Advanced Placement course. Students may earn college credit for AP scores
-  of three, four, or five. Students should request that scores from these examinations
-  be sent directly to The Master's University by entering code number 4411 on their
-  registration forms. Upon receiving these scores, the university awards the appropriate
-  amount and type of credit for each examination as determined by each academic department.
-  No fees other than the fees accompanying the examinations, must be paid in order
-  to receive the college credit. In some cases, sophomore standing in particular subject
-  areas may be earned through these examinations. Students should contact their local
-  high schools to obtain Advanced Placement course and registration information.nn##
-  The Master's Universitynn### CLEP Information & PoliciesnnThe Master's University
-  participates in the College-Level Examination Program (CLEP) sponsored by The College
-  Board and administered nationally by Educational Testing Services through participating
-  colleges and universities. This program is designed to provide the opportunity for
-  students to earn college credit by passing examinations in subject areas in which
-  they have already developed college-level knowledge and understanding. The examinations
-  are composed of various multiple-choice questions and are administered in timed
-  segments totaling 90 minutes.nnThe Master's University offers CLEP tests to current
-  TMU students, as well as to individuals who have been accepted for admission to
-  the university. For information on CLEP testing, [click here](http://www.masters.edu/campuslinks/testing/cleptesting/ "ClepTesting").nnCLEP examinations and the scores required to qualify for credit
-  at The Master's University are reviewed annually are effective from July 1 through
-  the following June. Score reports are evaluated by the standards being utilized
-  at the time the exam was taken.nnStudents may not pursue credit by CLEP examination
-  for any course in which they have been enrolled. Additionally, students may not
-  CLEP a course if they have taken a more advanced level course in that discipline.
-  Hours earned through CLEP examinations do not count as hours in residence toward
-  graduation with honors.nnNote: For students entering TMU as freshmen or sophomores,
-  CLEP credit will only be awarded up to the end of the student's first semester of
-  his/her senior year. For transfer juniors or seniors, CLEP credit will be awarded
-  up to the fourth week of the final semester of the senior year.nnA maximum of
-  32 semester units of test-out credit (including CLEP, AP, IB, and other department-approved
-  test outs) may be earned toward a degree at The Master's University.nnThe CLEP
-  program requires a minimum 6-month waiting period before repeating any test. CLEP
-  exam results for high school students will be applied to the student's TMU transcript
-  upon matriculation at the university.nnStudents may take CLEP exams at other institutions
-  and request the scores be sent to The Master's University. This is done by designating
-  The Master's University in the appropriate place when taking the exam. The Master's
-  CLEP number is 4411. A complete list of test centers throughout the country is available
-  from The College Board in Princeton, New Jersey, or can be referenced in the Career
-  Services Center at The Master's University.nnFor more information contact:nnTMU
-  Testing Center                                  CLEPnnThe Master's University
-  P.O. Box 6600nn21726 Placerita Canyon Road             Princeton,
-  NJ 08541-6600nnSanta Clarita, CA 91321-1200              CLEP@ets.orgnn661-259-3540[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi\+4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy\+09555LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab\+MNd4ghhQ2adIc1\+ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD\+SZ7DQesIkCG5S/JpkHYERQRmuNsrZ7Grc\+Ef8/Bcoslkfae8Wc7CUHZ\+\+TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg== "Call: 661-259-3540")](http://www.masters.edu/campuslinks/registrar/transferpolicy/# "Call: 661-259-3540"), ext. 2267 | testingservices@masters.edu nn800-568-6248[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi\+4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy\+09555LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab\+MNd4ghhQ2adIc1\+ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD\+SZ7DQesIkCG5S/JpkHYERQRmuNsrZ7Grc\+Ef8/Bcoslkfae8Wc7CUHZ\+\+TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg== "Call: 800-568-6248")](http://www.masters.edu/campuslinks/registrar/transferpolicy/# "Call: 800-568-6248")"
+  *
 
 general-education-body: |-
   This checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.
@@ -1395,6 +1293,111 @@ general-education-body: |-
   \*\*\*Please note that this checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.
   **AEW = American/English/World Literature. Any of the following fulfills this requirement: E211, E212, E221, E222, E231, and E232.
   \*\*\* EE = English Elective. Any English course fulfills this requirement.**
+transfer-policy-body: |-
+  ## Transfer Students / New Transfer Credit Policies TMU
+
+  grants credit for college level coursework from other colleges and universities
+  based on the following criteria:nn1. The student must have good standing at the
+  institution(s) previously attended. Students who have been dismissed or suspended
+  from another college for disciplinary reasons must request that a letter be sent
+  by the dean of the college involved, detailing the reasons for such dismissal.nn2.
+  No courses will be transferred in which the grade earned was less than C (2.0).
+  Credit will be given for accepted courses which will apply toward the student's
+  course of study at The Master's University.nn3. No more than 70 units of credit
+  will be accepted from a junior/community college. Courses for which credit is allowed
+  toward the bachelor's degree must be university transfer level.nn4. No more than
+  94 units from other accredited institutions may apply toward fulfillment of degree
+  requirements at The Master's University. Transfer students must take at least 12
+  semester units of upper division work in their major at TMU.nn5. Students who
+  are transferring from an accredited institution and who have completed a lower division
+  course which had content comparable to an upper division course at The Master's
+  University may: (a) choose to retake the course at TMU to earn upper division credit
+  for the course; or (b) choose to pass a competency exam to verify that the lower
+  division course was comparable in rigor to the upper division course at TMU. Passing
+  the competency exam entitles the student to enroll in another upper division course
+  to earn sufficient upper division credits.nn6. Transfer credit may be granted
+  to students from unaccredited schools of collegiate rank upon approval of the Vice-President
+  for Academic Affairs.nn7. The Master's University will grant credit for transferable
+  college coursework taken before high school graduation if taken from an accredited
+  college. Official transcripts must be submitted and all other transfer requirements
+  met.nn8. The maximum number of transfer credits which will be awarded for various
+  types of "non-traditional" college coursework from accredited institutions are
+  as follows:nn   \* 32 units of Advanced Placement (maximum of 32 units), CLEP examinations
+  \(maximum of 18 units), or credit by TMU assessment (maximum of 12 units).nn   \*
+  45 units of transfer credit from military transcript with maximum of 30 units applicable
+  toward meeting TMU general education requirements.nn   \* 36 units of non-traditional
+  course work including: directed studies courses, correspondence courses, computer
+  and WWW-based distance education courses, or video/ITV-based courses.nn## Credit
+  Limits for Non-Traditional TMU CourseworknnThe maximum number of semester units
+  from non-traditional format TMU courses that a student may count toward a degree
+  program is as follows:nn 13 units of TMU Directed Studies courses.nn 24 units
+  of intensive format TMU courses (Post-session, Winterim, or GE school).nn 24
+  units of credit for life experience assessment.nn## Credit by ExaminationnnThe
+  Master's University, as a member of the College Entrance Examination Board, recognizes
+  the merits of the Advanced Placement (AP), College Level Examination Program (CLEP),
+  and the International Baccalaureate (IB), and will grant credit for passing scores
+  in certain tests offered through these programs. A student may earn a maximum of
+  32 semester units of AP/CLEP exam transfer credit. If a student takes a college
+  course for which he/she has already received AP/CLEP credit, then he/she forfeits
+  that transfer credit.nnThe Master's University reserves the right to determine
+  the amount of credit that will be awarded for all AP/CLEP transfer credit examinations.
+  Credit for all AP courses other than Math and Science, is awarded based on a score
+  of "3", "4", or "5". Credit for Math and Science AP courses is awarded based
+  on a score of "4" or "5". CLEP examination credit may be granted for all courses
+  based on a CLEP score of 55 or above. The university will grant credit for IB examinations
+  with scores of "5", "6", or "7".nnNote: The Master's University has been
+  designated as a national testing facility for the CLEP examination. If CLEP examinations
+  have already been taken, contact the Registrar's Office for information regarding
+  acceptance of CLEP scores. For testing information, see our CLEP Testing pages.nn##
+  The Master's Universitynn### AP Information & PoliciesnnHigh school students
+  may receive advanced collegiate standing by participating in the Advanced Placement
+  \(AP) program. Up to 32 credits may be earned through this program or by other test-out
+  procedures. Hours earned through Advanced Placement do not count as hours in residence
+  toward graduation with honors.nnTo earn credit through Advanced Placement, students
+  must enroll in specific AP courses offered by their respective high schools. Upon
+  completing these courses, students take individual Advanced Placement examinations
+  in each Advanced Placement course. Students may earn college credit for AP scores
+  of three, four, or five. Students should request that scores from these examinations
+  be sent directly to The Master's University by entering code number 4411 on their
+  registration forms. Upon receiving these scores, the university awards the appropriate
+  amount and type of credit for each examination as determined by each academic department.
+  No fees other than the fees accompanying the examinations, must be paid in order
+  to receive the college credit. In some cases, sophomore standing in particular subject
+  areas may be earned through these examinations. Students should contact their local
+  high schools to obtain Advanced Placement course and registration information.nn##
+  The Master's Universitynn### CLEP Information & PoliciesnnThe Master's University
+  participates in the College-Level Examination Program (CLEP) sponsored by The College
+  Board and administered nationally by Educational Testing Services through participating
+  colleges and universities. This program is designed to provide the opportunity for
+  students to earn college credit by passing examinations in subject areas in which
+  they have already developed college-level knowledge and understanding. The examinations
+  are composed of various multiple-choice questions and are administered in timed
+  segments totaling 90 minutes.nnThe Master's University offers CLEP tests to current
+  TMU students, as well as to individuals who have been accepted for admission to
+  the university. For information on CLEP testing, click here.nnCLEP examinations and the scores required to qualify for credit
+  at The Master's University are reviewed annually are effective from July 1 through
+  the following June. Score reports are evaluated by the standards being utilized
+  at the time the exam was taken.nnStudents may not pursue credit by CLEP examination
+  for any course in which they have been enrolled. Additionally, students may not
+  CLEP a course if they have taken a more advanced level course in that discipline.
+  Hours earned through CLEP examinations do not count as hours in residence toward
+  graduation with honors.nnNote: For students entering TMU as freshmen or sophomores,
+  CLEP credit will only be awarded up to the end of the student's first semester of
+  his/her senior year. For transfer juniors or seniors, CLEP credit will be awarded
+  up to the fourth week of the final semester of the senior year.nnA maximum of
+  32 semester units of test-out credit (including CLEP, AP, IB, and other department-approved
+  test outs) may be earned toward a degree at The Master's University.nnThe CLEP
+  program requires a minimum 6-month waiting period before repeating any test. CLEP
+  exam results for high school students will be applied to the student's TMU transcript
+  upon matriculation at the university.nnStudents may take CLEP exams at other institutions
+  and request the scores be sent to The Master's University. This is done by designating
+  The Master's University in the appropriate place when taking the exam. The Master's
+  CLEP number is 4411. A complete list of test centers throughout the country is available
+  from The College Board in Princeton, New Jersey, or can be referenced in the Career
+  Services Center at The Master's University.nnFor more information contact:nnTMU
+  Testing Center                                  CLEPnnThe Master's University
+  P.O. Box 6600nn21726 Placerita Canyon Road             Princeton,
+  NJ 08541-6600nnSanta Clarita, CA 91321-1200              CLEP@ets.orgnn661-259-3540, ext. 2267 | testingservices@masters.edu nn800-568-6248"
 layout: registrar
 ---
 
