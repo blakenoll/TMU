@@ -593,11 +593,11 @@ finals-schedule-body: |-
     </tbody>
     </table>
 forms-body: |-
-  ### **[Add/Drop](http://www.masters.edu/media/869463/add-drop.pdf)**
+  ### [Add/Drop](http://www.masters.edu/media/869463/add-drop.pdf)
 
-    ### **[Change of Major](http://www.masters.edu/media/384460/Change%20of%20Major.pdf)**
+  ### [Change of Major](http://www.masters.edu/media/384460/Change%20of%20Major.pdf)
 
-    ### **[Weekly Schedule](http://www.masters.edu/media/617023/Weekly%20Schedule.pdf)**
+  ### [Weekly Schedule](http://www.masters.edu/media/617023/Weekly%20Schedule.pdf)
 grades-body: |-
   <table class="bordered">
     <tbody>
