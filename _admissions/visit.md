@@ -126,13 +126,13 @@ Mondays-At-Masters-body: |-
 
   ## Mondays @ Master's Dates:
 
-  * September 19, 2016
+  * September 18, 2017
 
-  * November 14, 2016
+  * November 13, 2017
 
-  * February 13, 2017
+  * February 19, 2018
 
-  * April 10, 2017
+  * April 9, 2018
 
   [CLICK HERE TO REGISTER](https://masters.tfaforms.net/217729)
 
@@ -143,11 +143,17 @@ Mondays-At-Masters-body: |-
   ## Sample Schedule of Events:
 
   * 8:30-9:00am Registration & Continental Breakfast
+
   * 9:10-10:25am Chapel
+
   * 10:45-11:35am Campus Tour or Class Visit
+
   * 11:45am-12:40pm Campus Tour or Class Visit
+
   * 12:50-1:45pm Lunch
+
   * 2:00-3:00pm Student Q&A Panel
+
   * 3:30-4:30pm Admissions & Financial Aid Seminar
 Music-at-Masters-body: |-
   November 12-13, 2017
