@@ -24,7 +24,7 @@ layout: page
 <p>This credit hour policy applies to all courses at all levels (graduate, professional, and undergraduate) that award academic credit (i.e. any course that appears on an official transcript issued by the College) regardless of the mode of delivery including, but not limited to, self-paced, online, hybrid, lecture, seminar, and laboratory.</p>
 <h2>Credit Hour Calculations (per semester):</h2>
 <p>Example: a 1-unit course equates to 50 in-class minutes X (times) 15 semester weeks = (equals) 750 in-class minutes</p>
-<table border="0" class="table table-responsive table-bordered text-center">
+<table class="bordered">
 <tbody>
 <tr>
 <td>
@@ -45,10 +45,10 @@ layout: page
 </tr>
 <tr>
 <td>
-<p style="text-align: center;">1</p>
+<p>1</p>
 </td>
 <td>
-<p style="text-align: center;">750</p>
+<p>750</p>
 </td>
 <td>
 <p>1500</p>
@@ -62,7 +62,7 @@ layout: page
 </tr>
 <tr>
 <td>
-<p style="text-align: center;">2</p>
+<p>2</p>
 </td>
 <td>
 <p>1500</p>
