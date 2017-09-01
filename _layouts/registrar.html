@@ -40,6 +40,10 @@ layout: default
         {{ content }}
         <ul class="collapsible" data-collapsible="accordion">
           <li>
+            <div class="collapsible-header">Academic Calendar</div>
+            <div class="collapsible-body"><span>{{ page.academic-calendar-body | markdownify }}</span></div>
+          </li>
+          <li>
             <div class="collapsible-header">FERPA</div>
             <div class="collapsible-body"><span>{{ page.ferpa-body | markdownify }}</span></div>
           </li>
