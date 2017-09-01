@@ -1,6 +1,7 @@
 ---
 title: credit-hour-policy
 date: 2017-09-01 22:12:00 Z
+permalink: "/academics/credit-hour-policy"
 ---
 
 <h1>Credit Hour Policy</h1>\
