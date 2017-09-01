@@ -952,9 +952,9 @@ general-education-body: |-
 
   TMU GENERAL EDUCATION REQUIREMENTS
 
-  \(Effective FALL 2015)
+  (Effective FALL 2015)
 
-  <table border="0">
+  <table class="bordered">
   <tbody>
   <tr style="text-align: center;">
   <td>
