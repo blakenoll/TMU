@@ -141,10 +141,10 @@ positions:
     assistance in both criminal and non-criminal matters. Performs investigations
     and makes arrests when necessary. Deters and prevents unlawful behavior, and performs
     internal and external public safety functions. May function as a patrol lead on
-    shift with other campus safety officers. \n\nESSENTIAL FUNCTIONS\n\tMust be able
-    to work varied days and rotating shifts: 8 hours per day, 4 days a week, 32 hours
-    per week. Examples of schedules are 8:00 AM – 4:00 PM, 4:00 PM – 12:00 AM, 12:00
-    AM – 8:00 AM. Must be able to report for work in case of emergencies.\n\n\tPatrols
+    shift with other campus safety officers. \n\nESSENTIAL FUNCTIONS\n\n\tMust be
+    able to work varied days and rotating shifts: 8 hours per day, 4 days a week,
+    32 hours per week. Examples of schedules are 8:00 AM – 4:00 PM, 4:00 PM – 12:00
+    AM, 12:00 AM – 8:00 AM. Must be able to report for work in case of emergencies.\n\n\tPatrols
     an assigned area on foot or in a vehicle and may serve as a patrol lead to other
     campus safety officers on patrol shifts. \n\n\tResponds to telephonic and/or
     radio calls for routine and emergency assistance in both criminal and non-criminal
@@ -164,63 +164,64 @@ positions:
     information programs.\n\n\tMaintains security of buildings and university related
     property by controlling access, and the opening and securing of buildings.\n\n\tPerform
     related duties as assigned.\n\nCOMPETENCIES\nKNOWLEDGE OF:  \n\n\tCity, State
-    and federal civil and criminal statutes\n\tPolicies and procedures for performing
-    citizen’s arrests\n\tProvisions pertaining to traffic and crowd control\n\tInvestigating
-    and report writing\n\tOperation of a computer and assigned equipment\n\tRecord-keeping
-    techniques\n\tOral and written communication skills\nABILITY TO: \n\tDemonstrate
+    and federal civil and criminal statutes\n\n\tPolicies and procedures for performing
+    citizen’s arrests\n\n\tProvisions pertaining to traffic and crowd control\n\n\tInvestigating
+    and report writing\n\n\tOperation of a computer and assigned equipment\n\n\tRecord-keeping
+    techniques\n\n\tOral and written communication skills\n\nABILITY TO: \n\n\tDemonstrate
     understanding of, sensitivity to, and respect for the diverse academic, socio-economic,
     ethnic, cultural, disability, religious background and sexual orientation of community
-    University students, faculty and staff\n\tPatrol assigned areas and issue citations
-    to illegally parked vehicles to maintain control of vehicles parked on campus\n\tPromote
-    campus safety and control\n\tInterpret, apply and explain rules, regulations,
-    policies and procedures.\n\tAnalyze situations accurately and adopt an effective
-    course of action.\n\tEstablish and maintain cooperative and effective working
-    relationships with others.\n\tCommunicate effectively both orally and in writing.\n\tOperate
-    a computer and assigned equipment.\n\tObserve legal and defensive driving practices.\n\tWork
-    independently with little direction.\n\tProactive\n\tLeadership ability\n\tTeam
-    Player\n\tPositive mental attitude\n\tStrong customer service skills\n\tGodly
-    and humble character \n\tCourageous \n\tConfident decision maker\n\tAble to
-    exercise wisdom, discernment and sound judgment\n\tAbility to give and receive
-    encouragement and constructive criticism\n\tAble to work creatively and collaborate
-    with other leaders to set vision for department\nQUALIFICATIONS\n•\tBe at least
-    21 years of age\n•\tPersonal relationship with Jesus Christ and a demonstrated
+    University students, faculty and staff\n\n\tPatrol assigned areas and issue citations
+    to illegally parked vehicles to maintain control of vehicles parked on campus\n\n\tPromote
+    campus safety and control\n\n\tInterpret, apply and explain rules, regulations,
+    policies and procedures.\n\n\tAnalyze situations accurately and adopt an effective
+    course of action.\n\n\tEstablish and maintain cooperative and effective working
+    relationships with others.\n\n\tCommunicate effectively both orally and in writing.\n\n\tOperate
+    a computer and assigned equipment.\n\n\tObserve legal and defensive driving practices.\n\n\tWork
+    independently with little direction.\n\n\tProactive\n\n\tLeadership ability\n\n\tTeam
+    Player\n\n\tPositive mental attitude\n\n\tStrong customer service skills\n\n\tGodly
+    and humble character \n\n\tCourageous \n\n\tConfident decision maker\n\n\tAble
+    to exercise wisdom, discernment and sound judgment\n\n\tAbility to give and receive
+    encouragement and constructive criticism\n\n\tAble to work creatively and collaborate
+    with other leaders to set vision for department\n\nQUALIFICATIONS\n\n•\tBe at
+    least 21 years of age\n\n•\tPersonal relationship with Jesus Christ and a demonstrated
     commitment to the doctrinal position of TMU&S and exhibition of a desire to minister
-    and serve others in varied capacities\n•\tHigh school diploma or equivalent \n•\tCalifornia
-    Class C driver’s license; out of state applicants not intending to establish residency
-    must have valid out of state driver’s license \n•\tValid California Guard Card\nSELECTION
-    PROCESS \n•\tStep 1: Application and resume submitted to Human Resources\n•\tStep
-    2: Initial Job Interview  \n•\tStep 3: Admin Review / Job offer\n•\tStep 4: Background
-    Investigation – verification of qualifications, references\n•\tStep 5: Drug screening,
-    Physical Exam, PAT conducted by US Health Works\nWORKING CONDITIONS\nENVIRONMENT:\n•\tIndoor
-    and outdoor work environment.\n•\tDriving a vehicle to conduct work.\n•\tAdverse
-    weather conditions.\n•\tRegular exposure to fumes and odors.\n\nPHYSICAL ABILITIES:\n•\tHearing
-    and speaking to exchange information.\n•\tDexterity of hands and fingers to operate
-    assigned equipment.\n•\tSeeing to read various materials.\n•\tStanding or walking
-    for extended periods of time; bending at the waist, kneeling or crouching.\n•\tLifting
+    and serve others in varied capacities\n\n•\tHigh school diploma or equivalent
+    \n\n•\tCalifornia Class C driver’s license; out of state applicants not intending
+    to establish residency must have valid out of state driver’s license \n\n•\tValid
+    California Guard Card\n\nSELECTION PROCESS \n\n•\tStep 1: Application and resume
+    submitted to Human Resources\n\n•\tStep 2: Initial Job Interview  \n\n•\tStep
+    3: Admin Review / Job offer\n\n•\tStep 4: Background Investigation – verification
+    of qualifications, references\n\n•\tStep 5: Drug screening, Physical Exam, PAT
+    conducted by US Health Works\n\nWORKING CONDITIONS\nENVIRONMENT:\n\n•\tIndoor
+    and outdoor work environment.\n\n•\tDriving a vehicle to conduct work.\n\n•\tAdverse
+    weather conditions.\n\n•\tRegular exposure to fumes and odors.\n\n\nPHYSICAL ABILITIES:\n\n•\tHearing
+    and speaking to exchange information.\n\n•\tDexterity of hands and fingers to
+    operate assigned equipment.\n\n•\tSeeing to read various materials.\n\n•\tStanding
+    or walking for extended periods of time; bending at the waist, kneeling or crouching.\n\n•\tLifting
     moderately heavy objects; reaching overhead, above the shoulders and horizontally
-    during traffic control.\n\nHAZARDS:\n•\tContact with dissatisfied or abusive individuals\nADDITIONAL
-    INFORMATION\nMinimum Conditions for Beginning Employment:\n\t\nPrior to beginning
-    employment, in accordance with The Master’s University policy and/or under federal
-    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
-    employment.\n2.\tPresent verification of their identity and authorization to work
-    in the United States.\n\nIf, because of a disability, you need special services
-    or facilities in order to apply or interview for this opening please contact the
-    Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
-    on the basis of race, color, national origin, ancestry, gender, age, marital status,
-    veteran status or prior military service, medical condition, or any physical or
-    mental disability.  We are committed to practicing principles of equal employment
-    opportunity and diversity based upon sovereign Biblical principles.\nAPPLICATION
-    PROCESS\nCompleted application form from The Master’s University.  This can be
-    obtain at www.masters.edu/jobs or by contacting\nThe Master’s University and Seminary\nHuman
-    Resources Department\n21726 Placerita Canyon Road • Santa Clarita, California
-    • 91321-1200\n(800) 568-6248 • (661) 362-2844 • FAX (661) 362-2717\nSelection
-    Process:\nAll applications will be reviewed by the Human Resources department.
-    \ Selected candidates will be invited for a personal interview at The Master’s
-    University.  Any expense incurred in connection with these interviews will be
-    the responsibility of the candidates.\n\nApplication Procedures:\nAll documents
-    included in your application remain the sole property of The Master’s University
-    and will not be returned.   Your file for this opening will not be considered
-    unless all requested items are submitted and are complete.\n"
+    during traffic control.\n\n\nHAZARDS:\n\n•\tContact with dissatisfied or abusive
+    individuals\n\nADDITIONAL INFORMATION\n\nMinimum Conditions for Beginning Employment:\n\n\t\nPrior
+    to beginning employment, in accordance with The Master’s University policy and/or
+    under federal or state law, all employees must:\n\n\n1.\tSign and return an offer
+    of “At Will” employment.\n\n2.\tPresent verification of their identity and authorization
+    to work in the United States.\n\n\nIf, because of a disability, you need special
+    services or facilities in order to apply or interview for this opening please
+    contact the Human Resources department.\n\n\nThe Master’s University & Seminary
+    does not discriminate on the basis of race, color, national origin, ancestry,
+    gender, age, marital status, veteran status or prior military service, medical
+    condition, or any physical or mental disability.  We are committed to practicing
+    principles of equal employment opportunity and diversity based upon sovereign
+    Biblical principles.\n\nAPPLICATION PROCESS\n\nCompleted application form from
+    The Master’s University.  This can be obtain at www.masters.edu/jobs or by contacting\n\nThe
+    Master’s University and Seminary\n\nHuman Resources Department\n\n21726 Placerita
+    Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248 • (661)
+    362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications will be
+    reviewed by the Human Resources department.  Selected candidates will be invited
+    for a personal interview at The Master’s University.  Any expense incurred in
+    connection with these interviews will be the responsibility of the candidates.\n\n\nApplication
+    Procedures:\n\nAll documents included in your application remain the sole property
+    of The Master’s University and will not be returned.   Your file for this opening
+    will not be considered unless all requested items are submitted and are complete.\n"
 layout: employment
 ---
 
