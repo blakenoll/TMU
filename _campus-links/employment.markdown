@@ -421,24 +421,24 @@ positions:
     position has no supervisory responsibilities.\n\nESSENTIAL FUNCTIONS\n\nList seven
     to twelve essential job functions that comprise the job; describe in terms of
     actions (verbs) and desired outcomes in order of most important first:\n\n•\tCoordinate
-    technical processing in the office\n\no\tOversee Direct loan processing\n\no\tPell
-    Program\n\no\tCal Grant Program\n\no\tPrivate Lending\n \no\tVeteran’s Benefits\n
-    \no\tElectronic retrieval of student information from Federal Student Aid Programs\n\no\tUtilize
-    the PowerFAIDS package in data collection, interpretation and distribution\n\no\tCounsel
-    students and parents regarding loans and loan counseling\n\n•\tFile processing
-    which includes:  verification process, packaging of aid, and counseling students
-    and parents.\n\n•\tProvide service excellence to the campus community and prospective
-    students and families\n\no\tResearch, develop and implement programs to increase
-    our service to students in the areas of loan counseling, financial aid workshops
-    and financial planning.\n\no\tFunction as liaison between the Office of Financial
-    Aid and other offices on campus.\n\n•\tParticipation in the professional community\n\no\tMaintain
-    an intellectual curiosity of state and federal issues in higher education\n\no\tPursue
-    opportunities for professional development. (FSA, NASFAA and PowerFAIDS Conference’s)\n
-    \ \no\tEstablish and maintain positive professional relationships throughout the
-    education sector.\n\n•\tRegular attendance is essential\n\n•\tOther duties as
-    assigned\n\nCOMPETENCIES\n\n•\tComputer proficiency and well as basic mathematics
-    and accounting knowledge is necessary.\n\n•\tAcumen for conflict resolution and
-    servant-leader qualities are ideal; the sensitive nature of the position requires
+    technical processing in the office\n\n     o\tOversee Direct loan processing\n\n
+    \    o\tPell Program\n\no\tCal Grant Program\n\no\tPrivate Lending\n \no\tVeteran’s
+    Benefits\n \no\tElectronic retrieval of student information from Federal Student
+    Aid Programs\n\no\tUtilize the PowerFAIDS package in data collection, interpretation
+    and distribution\n\no\tCounsel students and parents regarding loans and loan counseling\n\n•\tFile
+    processing which includes:  verification process, packaging of aid, and counseling
+    students and parents.\n\n•\tProvide service excellence to the campus community
+    and prospective students and families\n\no\tResearch, develop and implement programs
+    to increase our service to students in the areas of loan counseling, financial
+    aid workshops and financial planning.\n\no\tFunction as liaison between the Office
+    of Financial Aid and other offices on campus.\n\n•\tParticipation in the professional
+    community\n\no\tMaintain an intellectual curiosity of state and federal issues
+    in higher education\n\no\tPursue opportunities for professional development. (FSA,
+    NASFAA and PowerFAIDS Conference’s)\n  \no\tEstablish and maintain positive professional
+    relationships throughout the education sector.\n\n•\tRegular attendance is essential\n\n•\tOther
+    duties as assigned\n\nCOMPETENCIES\n\n•\tComputer proficiency and well as basic
+    mathematics and accounting knowledge is necessary.\n\n•\tAcumen for conflict resolution
+    and servant-leader qualities are ideal; the sensitive nature of the position requires
     a high degree of professionalism coupled with mild temperament, self-control and
     grace.\n\n•\tPossess outstanding interpersonal skills with demonstrated ability
     to establish and maintain effective working relationships with staff, faculty,
