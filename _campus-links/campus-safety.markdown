@@ -102,7 +102,7 @@ The following video presentation (TMU LOGIN REQUIRED) is provided as a service t
 
 ## Campus Community "Need to know"
 
-[2016 The Master's University Annual Campus Security and Fire Safety Report](http://www.masters.edu/media/868280/2016-annual-security-and-fire-safety-report.pdf "2016 Annual Security and Fire Safety Report.pdf")
+[2017 The Master's University Annual Campus Security and Fire Safety Report](/media/870363/2017-annual-security-and-fire-safety-report.pdf)
 
 [Campus Safety and Security Survey on Department of Education Website](http://ope.ed.gov/security/Index.aspx)
 
