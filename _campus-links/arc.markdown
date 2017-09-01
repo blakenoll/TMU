@@ -137,6 +137,8 @@ Written and selected by all of us who are part of ARC, the website will allow ou
 <li>A place to send your own tips and resources to help others, as they have helped you.</li>
 </ul>
 
+## **To schedule an appointment with the Academic Counselor, Kara Antariksa, [click here](https://snapappointments.com/listing/1x0#booking_module).**
+
 Feel free to email us at ARC@masters.edu for questions, tips, and resources on being a more effective student.Let's help each other excel still more, together!
 
 *From the ARC Team*
