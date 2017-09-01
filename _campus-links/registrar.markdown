@@ -839,566 +839,562 @@ senior-body: |-
     Summa Cum Laude........3.85-4.00
 
     Honors recognized in the graduation ceremony may be changed based on the processing of final grades.
-transcript-body: |-
+transcript-body: |+
   <h1><strong><span>Transcripts</span></strong></h1>
-    <p><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&amp;s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services" class="btn btn-blue"><strong><span>ORDER TRANSCRIPTS</span></strong></a></p>
-    <p><strong>*Update: Effective June 30, 2017 (Friday), The Registrar's Office will be implementing the use of Parchment for online ordering and electronic delivery. The Master's University and Seminary students will have the option to order transcripts with mail delivery, eTranscript, and/or campus pick-up.</strong></p>
-    <p><strong>**The Master's University students applying to The Master's Seminary do not need to order an official transcript. Please contact TMS for assistance. Separate orders are no longer required for those attending both TMU and TMS and only one fee will be charged per order. </strong></p>
-    <p>Academic transcripts are maintained for every student ever in attendance at The Master's University, The Master's Institute, The Master's Seminary, Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. Transcripts will not be released unless all financial obligations to the University or Seminary have been met. It is the student's responsibility to clear all holds on his/her account before ordering a transcript. If you have questions regarding a STOP, please contact the Student Accounts Office at <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a> or call (661)362-2212.  </p>
-    <p><span> <br /> </span></p>
-    <h2><strong><span>Processing time</span></strong></h2>
-    <p><span>Please allow 3-5 business days for processing. Rush processing is available for $10 in addition to transcript fee and is processed within 2 business days. Processing time may be delayed at the beginning and end of the semester. Thank you for your patience! <br /> <br /> </span></p>
-    <h2><strong><span>Official Transcript Fees </span></strong></h2>
-    <table border="0" width="196" height="102">
-    <tbody>
-    <tr>
-    <td> </td>
-    <td style="text-align: center;"><strong> </strong></td>
-    </tr>
-    <tr>
-    <td><strong>Electronic delivery</strong></td>
-    <td style="text-align: center;"><strong><strong>$12</strong></strong></td>
-    </tr>
-    <tr>
-    <td><strong>Mail delivery</strong></td>
-    <td style="text-align: center;"><strong>$15</strong></td>
-    </tr>
-    <tr>
-    <td><strong>Campus Pick-up</strong></td>
-    <td style="text-align: center;"><strong>$10</strong></td>
-    </tr>
-    </tbody>
-    </table>
-    <h2><strong style="color: #7a7a7a; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;">***Please be aware that if you order an eTranscript to be sent to your own email, it will no longer be considered official when it is printed. The word COPY will appear as latent images across the face of the transcript.</strong></h2>
-    <p> </p>
-    <h2><strong><span>Delivery Options and Fees</span></strong></h2>
-    <ul>
-    <li><strong><span><strong><strong>The Registrar's Office Rush Processing (within 2 business days): </strong></strong></span></strong>$10<strong><span><strong><br /></strong></span></strong></li>
-    <li><strong><span>USPS First Class Mail: </span></strong><span>No additional charge</span></li>
-    <li><strong><span>FedEx Overnight Domestic Fee with a tracking number: </span></strong><span>$28 per address (in addition to transcript fee)</span></li>
-    <li><strong><span>USPS International: </span></strong><span>$5 per address (in addition to transcript fee)</span></li>
-    <li><strong><span>FedEx Overnight International Fee with a tracking number:</span></strong><span> $50.50 per address (in addition to transcript fee)</span></li>
-    <li><strong><span>Electronic Delivery: </span></strong><span>No additional charge<br /> <br /> </span></li>
-    </ul>
-    <h3><strong>Unofficial Transcript </strong></h3>
-    <p>Current students may obtain their unofficial transcript by logging onto <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">Self-Service</a>. If you are a former student/alumni and have a <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">TMU Login</a> or <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">Self-Service</a> account but do not remember your username and password, please contact IT Service Desk for assistance at servicedesk@masters.edu and/or (661)362-2876. Online unofficial transcripts are not available for students who attended prior 2000, you may request unofficial transcripts by filling out the form below. </p>
-    <p><a href="/media/455937/unofficial-diploma-request-82217.pdf" target="_blank"><strong>Unofficial Transcript Request Form</strong></a><strong> (no charge) </strong></p>
-    <p> </p>
-    <h3><strong>Diploma Replacement</strong></h3>
-    <p><a href="http://www.masters.edu/media/868032/diploma-request-form.pdf" target="_blank"><strong>Diploma Request Form</strong></a><strong> $10</strong></p>
-    <p> </p>
-    <h2><strong>Special Circumstances</strong></h2>
-    <p><span>For <strong>scholarship or TMU staff/faculty</strong>, no transcript fees for First Class mail delivery or campus pick-up. Email delivery is $4 and an account must be created. </span></p>
-    <p><strong>First Class mail delivery</strong>: please complete and email/mail/fax the <a href="/media/870273/transcript-request-form-81717-new.pdf" target="_blank"><span style="text-decoration: underline;">Transcript Request Form</span></a> below to the Office of the Registrar.<br /><strong>Email Delivery: </strong>Please <span style="text-decoration: underline;"><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&amp;s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services">click here</a></span> and create an account. Once you have created an account under Step 1, do not proceed to Step 2. Contact the Office of the Registrar at (661)362-2813 and/or registrar@masters.edu to complete the process. </p>
-    <h2><strong><br />How to Order Transcripts </strong></h2>
-    <p><a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&amp;feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a><iframe src="https://www.youtube.com/embed/_QtJ0uny2SA" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
-    <h2> </h2>
-    <h2><strong>Frequently Asked Questions </strong></h2>
-    <p><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&amp;s_id=L4S7GNOkItUPs1U3" target="_blank">Please click here<br /></a></strong><strong> </strong><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&amp;s_id=L4S7GNOkItUPs1U3" target="_blank"><br /></a></strong></p>
-    <h2><strong><span>Contact Us</span></strong></h2>
-    <p><span><strong>Phone</strong>: (661) 362-2813 or (800) 568-6248 x2813</span></p>
-    <p><span><strong>Fax</strong>: (661) 362-2722 (private &amp; secure)</span></p>
-    <p><span><strong>Email</strong>: </span><a href="mailto:Registrar@masters.edu"><span>Registrar@masters.edu</span></a><span> (if scanning paper form, call in credit card info)</span></p>
-    <p><span><strong>Mail</strong>: The Master's University, Office of the Registrar, 21726 Placerita Canyon Road, Santa Clarita, CA 91321</span></p>
+  <p><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services" class="btn btn-blue"><strong><span>ORDER TRANSCRIPTS</span></strong></a></p>
+  <p><strong>\*Update: Effective June 30, 2017 (Friday), The Registrar's Office will be implementing the use of Parchment for online ordering and electronic delivery. The Master's University and Seminary students will have the option to order transcripts with mail delivery, eTranscript, and/or campus pick-up.</strong></p>
+  <p><strong>\*\*The Master's University students applying to The Master's Seminary do not need to order an official transcript. Please contact TMS for assistance. Separate orders are no longer required for those attending both TMU and TMS and only one fee will be charged per order. </strong></p>
+  <p>Academic transcripts are maintained for every student ever in attendance at The Master's University, The Master's Institute, The Master's Seminary, Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. Transcripts will not be released unless all financial obligations to the University or Seminary have been met. It is the student's responsibility to clear all holds on his/her account before ordering a transcript. If you have questions regarding a STOP, please contact the Student Accounts Office at <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a> or call (661)362-2212.  </p>
+  <p><span> <br /> </span></p>
+  <h2><strong><span>Processing time</span></strong></h2>
+  <p><span>Please allow 3-5 business days for processing. Rush processing is available for $10 in addition to transcript fee and is processed within 2 business days. Processing time may be delayed at the beginning and end of the semester. Thank you for your patience! <br /> <br /> </span></p>
+  <h2><strong><span>Official Transcript Fees </span></strong></h2>
+  <table border="0" width="196" height="102">
+  <tbody>
+  <tr>
+  <td> </td>
+  <td style="text-align: center;"><strong> </strong></td>
+  </tr>
+  <tr>
+  <td><strong>Electronic delivery</strong></td>
+  <td style="text-align: center;"><strong><strong>$12</strong></strong></td>
+  </tr>
+  <tr>
+  <td><strong>Mail delivery</strong></td>
+  <td style="text-align: center;"><strong>$15</strong></td>
+  </tr>
+  <tr>
+  <td><strong>Campus Pick-up</strong></td>
+  <td style="text-align: center;"><strong>$10</strong></td>
+  </tr>
+  </tbody>
+  </table>
+  <h2><strong style="color: #7a7a7a; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;">*Please be aware that if you order an eTranscript to be sent to your own email, it will no longer be considered official when it is printed. The word COPY will appear as latent images across the face of the transcript.</strong></h2>
+  <p> </p>
+  <h2><strong><span>Delivery Options and Fees</span></strong></h2>
+  <ul>
+  <li><strong><span><strong><strong>The Registrar's Office Rush Processing (within 2 business days): </strong></strong></span></strong>$10<strong><span><strong><br /></strong></span></strong></li>
+  <li><strong><span>USPS First Class Mail: </span></strong><span>No additional charge</span></li>
+  <li><strong><span>FedEx Overnight Domestic Fee with a tracking number: </span></strong><span>$28 per address (in addition to transcript fee)</span></li>
+  <li><strong><span>USPS International: </span></strong><span>$5 per address (in addition to transcript fee)</span></li>
+  <li><strong><span>FedEx Overnight International Fee with a tracking number:</span></strong><span> $50.50 per address (in addition to transcript fee)</span></li>
+  <li><strong><span>Electronic Delivery: </span></strong><span>No additional charge<br /> <br /> </span></li>
+  </ul>
+  <h3><strong>Unofficial Transcript </strong></h3>
+  <p>Current students may obtain their unofficial transcript by logging onto <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">Self-Service</a>. If you are a former student/alumni and have a <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">TMU Login</a> or <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">Self-Service</a> account but do not remember your username and password, please contact IT Service Desk for assistance at servicedesk@masters.edu and/or (661)362-2876. Online unofficial transcripts are not available for students who attended prior 2000, you may request unofficial transcripts by filling out the form below. </p>
+  <p><a href="/media/455937/unofficial-diploma-request-82217.pdf" target="_blank"><strong>Unofficial Transcript Request Form</strong></a><strong> (no charge) </strong></p>
+  <p> </p>
+  <h3><strong>Diploma Replacement</strong></h3>
+  <p><a href="http://www.masters.edu/media/868032/diploma-request-form.pdf" target="_blank"><strong>Diploma Request Form</strong></a><strong> $10</strong></p>
+  <p> </p>
+  <h2><strong>Special Circumstances</strong></h2>
+  <p><span>For <strong>scholarship or TMU staff/faculty</strong>, no transcript fees for First Class mail delivery or campus pick-up. Email delivery is $4 and an account must be created. </span></p>
+  <p><strong>First Class mail delivery</strong>: please complete and email/mail/fax the <a href="/media/870273/transcript-request-form-81717-new.pdf" target="_blank"><span style="text-decoration: underline;">Transcript Request Form</span></a> below to the Office of the Registrar.<br /><strong>Email Delivery: </strong>Please <span style="text-decoration: underline;"><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services">click here</a></span> and create an account. Once you have created an account under Step 1, do not proceed to Step 2. Contact the Office of the Registrar at (661)362-2813 and/or registrar@masters.edu to complete the process. </p>
+  <h2><strong><br />How to Order Transcripts </strong></h2>
+  <p><a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a><iframe src="https://www.youtube.com/embed/_QtJ0uny2SA" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
+  <h2> </h2>
+  <h2><strong>Frequently Asked Questions </strong></h2>
+  <p><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank">Please click here<br /></a></strong><strong> </strong><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank"><br /></a></strong></p>
+  <h2><strong><span>Contact Us</span></strong></h2>
+  <p><span><strong>Phone</strong>: (661) 362-2813 or (800) 568-6248 x2813</span></p>
+  <p><span><strong>Fax</strong>: (661) 362-2722 (private & secure)</span></p>
+  <p><span><strong>Email</strong>: </span><a href="mailto:Registrar@masters.edu"><span>Registrar@masters.edu</span></a><span> (if scanning paper form, call in credit card info)</span></p>
+  <p><span><strong>Mail</strong>: The Master's University, Office of the Registrar, 21726 Placerita Canyon Road, Santa Clarita, CA 91321</span></p>
   transfer-policy-body: "## Transfer Studentsnn### Transfer Credit PoliciesnnTMU
-    grants credit for college level coursework from other colleges and universities
-    based on the following criteria:nn1. The student must have good standing at the
-    institution(s) previously attended. Students who have been dismissed or suspended
-    from another college for disciplinary reasons must request that a letter be sent
-    by the dean of the college involved, detailing the reasons for such dismissal.nn2.
-    No courses will be transferred in which the grade earned was less than C (2.0).
-    Credit will be given for accepted courses which will apply toward the student's
-    course of study at The Master's University.nn3. No more than 70 units of credit
-    will be accepted from a junior/community college. Courses for which credit is allowed
-    toward the bachelor's degree must be university transfer level.nn4. No more than
-    94 units from other accredited institutions may apply toward fulfillment of degree
-    requirements at The Master's University. Transfer students must take at least 12
-    semester units of upper division work in their major at TMU.nn5. Students who
-    are transferring from an accredited institution and who have completed a lower division
-    course which had content comparable to an upper division course at The Master's
-    University may: (a) choose to retake the course at TMU to earn upper division credit
-    for the course; or (b) choose to pass a competency exam to verify that the lower
-    division course was comparable in rigor to the upper division course at TMU. Passing
-    the competency exam entitles the student to enroll in another upper division course
-    to earn sufficient upper division credits.nn6. Transfer credit may be granted
-    to students from unaccredited schools of collegiate rank upon approval of the Vice-President
-    for Academic Affairs.nn7. The Master's University will grant credit for transferable
-    college coursework taken before high school graduation if taken from an accredited
-    college. Official transcripts must be submitted and all other transfer requirements
-    met.nn8. The maximum number of transfer credits which will be awarded for various
-    types of "non-traditional" college coursework from accredited institutions are
-    as follows:nn   * 32 units of Advanced Placement (maximum of 32 units), CLEP examinations
-    (maximum of 18 units), or credit by TMU assessment (maximum of 12 units).nn   *
-    45 units of transfer credit from military transcript with maximum of 30 units applicable
-    toward meeting TMU general education requirements.nn   * 36 units of non-traditional
-    course work including: directed studies courses, correspondence courses, computer
-    and WWW-based distance education courses, or video/ITV-based courses.nn## Credit
-    Limits for Non-Traditional TMU CourseworknnThe maximum number of semester units
-    from non-traditional format TMU courses that a student may count toward a degree
-    program is as follows:nn* 13 units of TMU Directed Studies courses.nn* 24 units
-    of intensive format TMU courses (Post-session, Winterim, or GE school).nn* 24
-    units of credit for life experience assessment.nn## Credit by ExaminationnnThe
-    Master's University, as a member of the College Entrance Examination Board, recognizes
-    the merits of the Advanced Placement (AP), College Level Examination Program (CLEP),
-    and the International Baccalaureate (IB), and will grant credit for passing scores
-    in certain tests offered through these programs. A student may earn a maximum of
-    32 semester units of AP/CLEP exam transfer credit. If a student takes a college
-    course for which he/she has already received AP/CLEP credit, then he/she forfeits
-    that transfer credit.nnThe Master's University reserves the right to determine
-    the amount of credit that will be awarded for all AP/CLEP transfer credit examinations.
-    Credit for all AP courses other than Math and Science, is awarded based on a score
-    of "3", "4", or "5". Credit for Math and Science AP courses is awarded based
-    on a score of "4" or "5". CLEP examination credit may be granted for all courses
-    based on a CLEP score of 55 or above. The university will grant credit for IB examinations
-    with scores of "5", "6", or "7".nnNote: The Master's University has been
-    designated as a national testing facility for the CLEP examination. If CLEP examinations
-    have already been taken, contact the Registrar's Office for information regarding
-    acceptance of CLEP scores. For testing information, see our CLEP Testing pages.nn##
-    The Master's Universitynn### AP Information & PoliciesnnHigh school students
-    may receive advanced collegiate standing by participating in the Advanced Placement
-    (AP) program. Up to 32 credits may be earned through this program or by other test-out
-    procedures. Hours earned through Advanced Placement do not count as hours in residence
-    toward graduation with honors.nnTo earn credit through Advanced Placement, students
-    must enroll in specific AP courses offered by their respective high schools. Upon
-    completing these courses, students take individual Advanced Placement examinations
-    in each Advanced Placement course. Students may earn college credit for AP scores
-    of three, four, or five. Students should request that scores from these examinations
-    be sent directly to The Master's University by entering code number 4411 on their
-    registration forms. Upon receiving these scores, the university awards the appropriate
-    amount and type of credit for each examination as determined by each academic department.
-    No fees other than the fees accompanying the examinations, must be paid in order
-    to receive the college credit. In some cases, sophomore standing in particular subject
-    areas may be earned through these examinations. Students should contact their local
-    high schools to obtain Advanced Placement course and registration information.nn##
-    The Master's Universitynn### CLEP Information & PoliciesnnThe Master's University
-    participates in the College-Level Examination Program (CLEP) sponsored by The College
-    Board and administered nationally by Educational Testing Services through participating
-    colleges and universities. This program is designed to provide the opportunity for
-    students to earn college credit by passing examinations in subject areas in which
-    they have already developed college-level knowledge and understanding. The examinations
-    are composed of various multiple-choice questions and are administered in timed
-    segments totaling 90 minutes.nnThe Master's University offers CLEP tests to current
-    TMU students, as well as to individuals who have been accepted for admission to
-    the university. For information on CLEP testing, [click here](http://www.masters.edu/campuslinks/testing/cleptesting/
-    "ClepTesting").nnCLEP examinations and the scores required to qualify for credit
-    at The Master's University are reviewed annually are effective from July 1 through
-    the following June. Score reports are evaluated by the standards being utilized
-    at the time the exam was taken.nnStudents may not pursue credit by CLEP examination
-    for any course in which they have been enrolled. Additionally, students may not
-    CLEP a course if they have taken a more advanced level course in that discipline.
-    Hours earned through CLEP examinations do not count as hours in residence toward
-    graduation with honors.nnNote: For students entering TMU as freshmen or sophomores,
-    CLEP credit will only be awarded up to the end of the student's first semester of
-    his/her senior year. For transfer juniors or seniors, CLEP credit will be awarded
-    up to the fourth week of the final semester of the senior year.nnA maximum of
-    32 semester units of test-out credit (including CLEP, AP, IB, and other department-approved
-    test outs) may be earned toward a degree at The Master's University.nnThe CLEP
-    program requires a minimum 6-month waiting period before repeating any test. CLEP
-    exam results for high school students will be applied to the student's TMU transcript
-    upon matriculation at the university.nnStudents may take CLEP exams at other institutions
-    and request the scores be sent to The Master's University. This is done by designating
-    The Master's University in the appropriate place when taking the exam. The Master's
-    CLEP number is 4411. A complete list of test centers throughout the country is available
-    from The College Board in Princeton, New Jersey, or can be referenced in the Career
-    Services Center at The Master's University.nnFor more information contact:nnTMU
-    Testing Center                                  CLEPnnThe Master's University
-                            P.O. Box 6600nn21726 Placerita Canyon Road             Princeton,
-    NJ 08541-6600nnSanta Clarita, CA 91321-1200              CLEP@ets.orgnn661-259-3540[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi+4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy+09555LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab+MNd4ghhQ2adIc1+ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD+SZ7DQesIkCG5S/JpkHYERQRmuNsrZ7Grc+Ef8/Bcoslkfae8Wc7CUHZ++TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg==
-    "Call: 661-259-3540")](http://www.masters.edu/campuslinks/registrar/transferpolicy/#
-    "Call: 661-259-3540"), ext. 2267 | testingservices@masters.edu nn800-568-6248[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi+4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy+09555LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab+MNd4ghhQ2adIc1+ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD+SZ7DQesIkCG5S/JpkHYERQRmuNsrZ7Grc+Ef8/Bcoslkfae8Wc7CUHZ++TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg==
-    "Call: 800-568-6248")](http://www.masters.edu/campuslinks/registrar/transferpolicy/#
-    "Call: 800-568-6248")"
-  general-education-body: |-
-    This checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.
+  grants credit for college level coursework from other colleges and universities
+  based on the following criteria:nn1. The student must have good standing at the
+  institution(s) previously attended. Students who have been dismissed or suspended
+  from another college for disciplinary reasons must request that a letter be sent
+  by the dean of the college involved, detailing the reasons for such dismissal.nn2.
+  No courses will be transferred in which the grade earned was less than C (2.0).
+  Credit will be given for accepted courses which will apply toward the student's
+  course of study at The Master's University.nn3. No more than 70 units of credit
+  will be accepted from a junior/community college. Courses for which credit is allowed
+  toward the bachelor's degree must be university transfer level.nn4. No more than
+  94 units from other accredited institutions may apply toward fulfillment of degree
+  requirements at The Master's University. Transfer students must take at least 12
+  semester units of upper division work in their major at TMU.nn5. Students who
+  are transferring from an accredited institution and who have completed a lower division
+  course which had content comparable to an upper division course at The Master's
+  University may: (a) choose to retake the course at TMU to earn upper division credit
+  for the course; or (b) choose to pass a competency exam to verify that the lower
+  division course was comparable in rigor to the upper division course at TMU. Passing
+  the competency exam entitles the student to enroll in another upper division course
+  to earn sufficient upper division credits.nn6. Transfer credit may be granted
+  to students from unaccredited schools of collegiate rank upon approval of the Vice-President
+  for Academic Affairs.nn7. The Master's University will grant credit for transferable
+  college coursework taken before high school graduation if taken from an accredited
+  college. Official transcripts must be submitted and all other transfer requirements
+  met.nn8. The maximum number of transfer credits which will be awarded for various
+  types of "non-traditional" college coursework from accredited institutions are
+  as follows:nn   \* 32 units of Advanced Placement (maximum of 32 units), CLEP examinations
+  \(maximum of 18 units), or credit by TMU assessment (maximum of 12 units).nn   \*
+  45 units of transfer credit from military transcript with maximum of 30 units applicable
+  toward meeting TMU general education requirements.nn   \* 36 units of non-traditional
+  course work including: directed studies courses, correspondence courses, computer
+  and WWW-based distance education courses, or video/ITV-based courses.nn## Credit
+  Limits for Non-Traditional TMU CourseworknnThe maximum number of semester units
+  from non-traditional format TMU courses that a student may count toward a degree
+  program is as follows:nn* 13 units of TMU Directed Studies courses.nn 24 units
+  of intensive format TMU courses (Post-session, Winterim, or GE school).nn 24
+  units of credit for life experience assessment.nn## Credit by ExaminationnnThe
+  Master's University, as a member of the College Entrance Examination Board, recognizes
+  the merits of the Advanced Placement (AP), College Level Examination Program (CLEP),
+  and the International Baccalaureate (IB), and will grant credit for passing scores
+  in certain tests offered through these programs. A student may earn a maximum of
+  32 semester units of AP/CLEP exam transfer credit. If a student takes a college
+  course for which he/she has already received AP/CLEP credit, then he/she forfeits
+  that transfer credit.nnThe Master's University reserves the right to determine
+  the amount of credit that will be awarded for all AP/CLEP transfer credit examinations.
+  Credit for all AP courses other than Math and Science, is awarded based on a score
+  of "3", "4", or "5". Credit for Math and Science AP courses is awarded based
+  on a score of "4" or "5". CLEP examination credit may be granted for all courses
+  based on a CLEP score of 55 or above. The university will grant credit for IB examinations
+  with scores of "5", "6", or "7".nnNote: The Master's University has been
+  designated as a national testing facility for the CLEP examination. If CLEP examinations
+  have already been taken, contact the Registrar's Office for information regarding
+  acceptance of CLEP scores. For testing information, see our CLEP Testing pages.nn##
+  The Master's Universitynn### AP Information & PoliciesnnHigh school students
+  may receive advanced collegiate standing by participating in the Advanced Placement
+  \(AP) program. Up to 32 credits may be earned through this program or by other test-out
+  procedures. Hours earned through Advanced Placement do not count as hours in residence
+  toward graduation with honors.nnTo earn credit through Advanced Placement, students
+  must enroll in specific AP courses offered by their respective high schools. Upon
+  completing these courses, students take individual Advanced Placement examinations
+  in each Advanced Placement course. Students may earn college credit for AP scores
+  of three, four, or five. Students should request that scores from these examinations
+  be sent directly to The Master's University by entering code number 4411 on their
+  registration forms. Upon receiving these scores, the university awards the appropriate
+  amount and type of credit for each examination as determined by each academic department.
+  No fees other than the fees accompanying the examinations, must be paid in order
+  to receive the college credit. In some cases, sophomore standing in particular subject
+  areas may be earned through these examinations. Students should contact their local
+  high schools to obtain Advanced Placement course and registration information.nn##
+  The Master's Universitynn### CLEP Information & PoliciesnnThe Master's University
+  participates in the College-Level Examination Program (CLEP) sponsored by The College
+  Board and administered nationally by Educational Testing Services through participating
+  colleges and universities. This program is designed to provide the opportunity for
+  students to earn college credit by passing examinations in subject areas in which
+  they have already developed college-level knowledge and understanding. The examinations
+  are composed of various multiple-choice questions and are administered in timed
+  segments totaling 90 minutes.nnThe Master's University offers CLEP tests to current
+  TMU students, as well as to individuals who have been accepted for admission to
+  the university. For information on CLEP testing, [click here](http://www.masters.edu/campuslinks/testing/cleptesting/ "ClepTesting").nnCLEP examinations and the scores required to qualify for credit
+  at The Master's University are reviewed annually are effective from July 1 through
+  the following June. Score reports are evaluated by the standards being utilized
+  at the time the exam was taken.nnStudents may not pursue credit by CLEP examination
+  for any course in which they have been enrolled. Additionally, students may not
+  CLEP a course if they have taken a more advanced level course in that discipline.
+  Hours earned through CLEP examinations do not count as hours in residence toward
+  graduation with honors.nnNote: For students entering TMU as freshmen or sophomores,
+  CLEP credit will only be awarded up to the end of the student's first semester of
+  his/her senior year. For transfer juniors or seniors, CLEP credit will be awarded
+  up to the fourth week of the final semester of the senior year.nnA maximum of
+  32 semester units of test-out credit (including CLEP, AP, IB, and other department-approved
+  test outs) may be earned toward a degree at The Master's University.nnThe CLEP
+  program requires a minimum 6-month waiting period before repeating any test. CLEP
+  exam results for high school students will be applied to the student's TMU transcript
+  upon matriculation at the university.nnStudents may take CLEP exams at other institutions
+  and request the scores be sent to The Master's University. This is done by designating
+  The Master's University in the appropriate place when taking the exam. The Master's
+  CLEP number is 4411. A complete list of test centers throughout the country is available
+  from The College Board in Princeton, New Jersey, or can be referenced in the Career
+  Services Center at The Master's University.nnFor more information contact:nnTMU
+  Testing Center                                  CLEPnnThe Master's University
+  P.O. Box 6600nn21726 Placerita Canyon Road             Princeton,
+  NJ 08541-6600nnSanta Clarita, CA 91321-1200              CLEP@ets.orgnn661-259-3540[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi\+4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy\+09555LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab\+MNd4ghhQ2adIc1\+ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD\+SZ7DQesIkCG5S/JpkHYERQRmuNsrZ7Grc\+Ef8/Bcoslkfae8Wc7CUHZ\+\+TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg== "Call: 661-259-3540")](http://www.masters.edu/campuslinks/registrar/transferpolicy/# "Call: 661-259-3540"), ext. 2267 | testingservices@masters.edu nn800-568-6248[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi\+4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy\+09555LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab\+MNd4ghhQ2adIc1\+ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD\+SZ7DQesIkCG5S/JpkHYERQRmuNsrZ7Grc\+Ef8/Bcoslkfae8Wc7CUHZ\+\+TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg== "Call: 800-568-6248")](http://www.masters.edu/campuslinks/registrar/transferpolicy/# "Call: 800-568-6248")"
 
-    Please click the link below for the General Education Requirements Checklist.
+general-education-body: |-
+  This checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.
 
-    ## [General Education Requirements Checklist](http://www.masters.edu/media/869322/general-education-requirements-checklist.pdf "GE Requirements Checklist")
+  Please click the link below for the General Education Requirements Checklist.
 
-    TMU GENERAL EDUCATION REQUIREMENTS
+  ## [General Education Requirements Checklist](http://www.masters.edu/media/869322/general-education-requirements-checklist.pdf "GE Requirements Checklist")
 
-    (Effective FALL 2015)
+  TMU GENERAL EDUCATION REQUIREMENTS
 
-    <table border="0">
-    <tbody>
-    <tr style="text-align: center;">
-    <td>
-    <p style="text-align: left;"><strong>COURSE NUMBER</strong></p>
-    </td>
-    <td>
-    <p><strong>COURSE TITLE</strong></p>
-    </td>
-    <td style="text-align: right;">
-    <p><strong>SEM. <br>UNITS</strong></p>
-    </td>
-    <td style="text-align: left;">
-    <p><strong> </strong></p>
-    </td>
-    <td style="text-align: left;"> </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>B101</p>
-    </td>
-    <td style="text-align: center;">
-    <p>OLD TESTAMENT SURVEY 1</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>B102</p>
-    </td>
-    <td style="text-align: center;">
-    <p>OLD TESTAMENT SURVEY 2</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>B201</p>
-    </td>
-    <td style="text-align: center;">
-    <p>NEW TESTAMENT SURVEY 1</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>B202</p>
-    </td>
-    <td style="text-align: center;">
-    <p>NEW TESTAMENT SURVEY 2</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>BTH321</p>
-    </td>
-    <td style="text-align: center;">
-    <p>CHRISTIAN THEOLOGY 1</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>BTH322</p>
-    </td>
-    <td style="text-align: center;">
-    <p>CHRISTIAN THEOLOGY 2</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>B121</p>
-    </td>
-    <td style="text-align: center;">
-    <p>ESSENTIALS OF CHRISTIAN THOUGHT</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>E110</p>
-    </td>
-    <td style="text-align: center;">
-    <p>ENGLISH COMPOSITION</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>AEW**</p>
-    </td>
-    <td style="text-align: center;">
-    <p>ESSENTIALS OF LITERATURE</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>EE***</p>
-    </td>
-    <td style="text-align: center;">
-    <p>GENERAL LITERATURE ELECTIVE</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>C100</p>
-    </td>
-    <td style="text-align: center;">
-    <p>SPOKEN COMMUNICATION</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>MU190</p>
-    </td>
-    <td style="text-align: center;">
-    <p>ESSENTIALS OF MUSIC & ART</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>P311</p>
-    </td>
-    <td style="text-align: center;">
-    <p>ESSENTIALS OF PHILOSOPHY</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>H211</p>
-    </td>
-    <td style="text-align: center;">
-    <p>ESSENTIALS OF WORLD HISTORY 1</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>H212</p>
-    </td>
-    <td style="text-align: center;">
-    <p>ESSENTIALS OF WORLD HISTORY 2</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>H230</p>
-    </td>
-    <td style="text-align: center;">
-    <p>ESSENTIALS OF U.S. HISTORY</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>POL220</p>
-    </td>
-    <td style="text-align: center;">
-    <p>U.S. GOVERNMENT</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>ECN200</p>
-    </td>
-    <td style="text-align: center;">
-    <p>ESSENTIALS OF ECONOMICS & SOCIETY</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>LS150</p>
-    </td>
-    <td style="text-align: center;">
-    <p>ESSENTIALS OF BIOLOGY</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td>
-    <p>LS150L</p>
-    </td>
-    <td style="text-align: center;">
-    <p>LAB: ESSENTIALS OF BIOLOGY</p>
-    </td>
-    <td style="text-align: right;">
-    <p>1</p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    <td>
-    <p> </p>
-    </td>
-    </tr>
-    <tr style="text-align: left;">
-    <td style="text-align: left;">
-    <p>MA240</p>
-    </td>
-    <td style="text-align: center;">
-    <p>CRIT. THINKING & QUANT ANALYSIS</p>
-    </td>
-    <td style="text-align: right;">
-    <p>3</p>
-    </td>
-    <td style="text-align: center;">
-    <p> </p>
-    </td>
-    <td>
-    <p style="text-align: center;"> </p>
-    </td>
-    </tr>
-    </tbody>
-    </table>
+  \(Effective FALL 2015)
 
-    ***Please note that this checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.
-    **AEW = American/English/World Literature. Any of the following fulfills this requirement: E211, E212, E221, E222, E231, and E232.
-    *** EE = English Elective. Any English course fulfills this requirement.**
+  <table border="0">
+  <tbody>
+  <tr style="text-align: center;">
+  <td>
+  <p style="text-align: left;"><strong>COURSE NUMBER</strong></p>
+  </td>
+  <td>
+  <p><strong>COURSE TITLE</strong></p>
+  </td>
+  <td style="text-align: right;">
+  <p><strong>SEM. <br>UNITS</strong></p>
+  </td>
+  <td style="text-align: left;">
+  <p><strong> </strong></p>
+  </td>
+  <td style="text-align: left;"> </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>B101</p>
+  </td>
+  <td style="text-align: center;">
+  <p>OLD TESTAMENT SURVEY 1</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>B102</p>
+  </td>
+  <td style="text-align: center;">
+  <p>OLD TESTAMENT SURVEY 2</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>B201</p>
+  </td>
+  <td style="text-align: center;">
+  <p>NEW TESTAMENT SURVEY 1</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>B202</p>
+  </td>
+  <td style="text-align: center;">
+  <p>NEW TESTAMENT SURVEY 2</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>BTH321</p>
+  </td>
+  <td style="text-align: center;">
+  <p>CHRISTIAN THEOLOGY 1</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>BTH322</p>
+  </td>
+  <td style="text-align: center;">
+  <p>CHRISTIAN THEOLOGY 2</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>B121</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF CHRISTIAN THOUGHT</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>E110</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ENGLISH COMPOSITION</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>AEW\*\*</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF LITERATURE</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>EE\*\*\*</p>
+  </td>
+  <td style="text-align: center;">
+  <p>GENERAL LITERATURE ELECTIVE</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>C100</p>
+  </td>
+  <td style="text-align: center;">
+  <p>SPOKEN COMMUNICATION</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>MU190</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF MUSIC & ART</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>P311</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF PHILOSOPHY</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>H211</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF WORLD HISTORY 1</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>H212</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF WORLD HISTORY 2</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>H230</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF U.S. HISTORY</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>POL220</p>
+  </td>
+  <td style="text-align: center;">
+  <p>U.S. GOVERNMENT</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>ECN200</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF ECONOMICS & SOCIETY</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>LS150</p>
+  </td>
+  <td style="text-align: center;">
+  <p>ESSENTIALS OF BIOLOGY</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td>
+  <p>LS150L</p>
+  </td>
+  <td style="text-align: center;">
+  <p>LAB: ESSENTIALS OF BIOLOGY</p>
+  </td>
+  <td style="text-align: right;">
+  <p>1</p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  <td>
+  <p> </p>
+  </td>
+  </tr>
+  <tr style="text-align: left;">
+  <td style="text-align: left;">
+  <p>MA240</p>
+  </td>
+  <td style="text-align: center;">
+  <p>CRIT. THINKING & QUANT ANALYSIS</p>
+  </td>
+  <td style="text-align: right;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p> </p>
+  </td>
+  <td>
+  <p style="text-align: center;"> </p>
+  </td>
+  </tr>
+  </tbody>
+  </table>
+
+  \*\*\*Please note that this checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.
+  **AEW = American/English/World Literature. Any of the following fulfills this requirement: E211, E212, E221, E222, E231, and E232.
+  \*\*\* EE = English Elective. Any English course fulfills this requirement.**
 layout: registrar
 ---
 
