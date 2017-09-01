@@ -1,0 +1,6 @@
+---
+title: catalog
+date: 2017-09-01 19:12:00 Z
+redirect_to: "/academics/online-catalog.html"
+---
+
