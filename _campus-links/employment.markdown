@@ -421,36 +421,37 @@ positions:
     position has no supervisory responsibilities.\n\nESSENTIAL FUNCTIONS\n\nList seven
     to twelve essential job functions that comprise the job; describe in terms of
     actions (verbs) and desired outcomes in order of most important first:\n\n•\tCoordinate
-    technical processing in the office\n\n     o\tOversee Direct loan processing\n\n
-    \    o\tPell Program\n\no\tCal Grant Program\n\no\tPrivate Lending\n \no\tVeteran’s
-    Benefits\n \no\tElectronic retrieval of student information from Federal Student
-    Aid Programs\n\no\tUtilize the PowerFAIDS package in data collection, interpretation
-    and distribution\n\no\tCounsel students and parents regarding loans and loan counseling\n\n•\tFile
+    technical processing in the office\n\n          o\tOversee Direct loan processing\n\n
+    \         o\tPell Program\n\n           o\tCal Grant Program\n\n          o\tPrivate
+    Lending\n \n          o\tVeteran’s Benefits\n \n          o\tElectronic retrieval
+    of student information from Federal Student Aid Programs\n\n          o\tUtilize
+    the PowerFAIDS package in data collection, interpretation and distribution\n\n
+    \         o\tCounsel students and parents regarding loans and loan counseling\n\n•\tFile
     processing which includes:  verification process, packaging of aid, and counseling
     students and parents.\n\n•\tProvide service excellence to the campus community
-    and prospective students and families\n\no\tResearch, develop and implement programs
-    to increase our service to students in the areas of loan counseling, financial
-    aid workshops and financial planning.\n\no\tFunction as liaison between the Office
-    of Financial Aid and other offices on campus.\n\n•\tParticipation in the professional
-    community\n\no\tMaintain an intellectual curiosity of state and federal issues
-    in higher education\n\no\tPursue opportunities for professional development. (FSA,
-    NASFAA and PowerFAIDS Conference’s)\n  \no\tEstablish and maintain positive professional
-    relationships throughout the education sector.\n\n•\tRegular attendance is essential\n\n•\tOther
-    duties as assigned\n\nCOMPETENCIES\n\n•\tComputer proficiency and well as basic
-    mathematics and accounting knowledge is necessary.\n\n•\tAcumen for conflict resolution
-    and servant-leader qualities are ideal; the sensitive nature of the position requires
-    a high degree of professionalism coupled with mild temperament, self-control and
-    grace.\n\n•\tPossess outstanding interpersonal skills with demonstrated ability
-    to establish and maintain effective working relationships with staff, faculty,
-    vendors, students and other community members of diverse academic, socio-economic,
-    cultural and ethnic backgrounds.\n\n•\tAbility to be clear and concise in verbal
-    and written communication is essential; excellent oral and written command of
-    the English language is required.\n\n•\tMust be detail oriented and accurate with
-    good organizational and problem solving skills.\n\n•\tAbility to multitask in
-    an environment with many distractions is a must.\n\nQUALIFICATIONS\n\n•\tHas a
-    personal relationship with Jesus Christ and a demonstrated commitment to the doctrinal
-    position of TMCS and a continuous exhibition of a desire to minister and serve
-    others in varied capacities.\n \n•\tEducation:  Bachelor’s degree required.\n\n•\tExperience:
+    and prospective students and families\n\n          o\tResearch, develop and implement
+    programs to increase our service to students in the areas of loan counseling,
+    financial aid workshops and financial planning.\n\n          o\tFunction as liaison
+    between the Office of Financial Aid and other offices on campus.\n\n•\tParticipation
+    in the professional community\n\n          o\tMaintain an intellectual curiosity
+    of state and federal issues in higher education\n\no\tPursue opportunities for
+    professional development. (FSA, NASFAA and PowerFAIDS Conference’s)\n  \n          o\tEstablish
+    and maintain positive professional relationships throughout the education sector.\n\n•\tRegular
+    attendance is essential\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tComputer
+    proficiency and well as basic mathematics and accounting knowledge is necessary.\n\n•\tAcumen
+    for conflict resolution and servant-leader qualities are ideal; the sensitive
+    nature of the position requires a high degree of professionalism coupled with
+    mild temperament, self-control and grace.\n\n•\tPossess outstanding interpersonal
+    skills with demonstrated ability to establish and maintain effective working relationships
+    with staff, faculty, vendors, students and other community members of diverse
+    academic, socio-economic, cultural and ethnic backgrounds.\n\n•\tAbility to be
+    clear and concise in verbal and written communication is essential; excellent
+    oral and written command of the English language is required.\n\n•\tMust be detail
+    oriented and accurate with good organizational and problem solving skills.\n\n•\tAbility
+    to multitask in an environment with many distractions is a must.\n\nQUALIFICATIONS\n\n•\tHas
+    a personal relationship with Jesus Christ and a demonstrated commitment to the
+    doctrinal position of TMCS and a continuous exhibition of a desire to minister
+    and serve others in varied capacities.\n \n•\tEducation:  Bachelor’s degree required.\n\n•\tExperience:
     \ 3+ years administration in an educational institution preferred\n\n•\tAbility
     to exercise confidentiality, good judgment and discernment is imperative.\n\n•\tMust
     successfully pass a background investigation.\n\nWORKING CONDITIONS\n\n•\tWorking
