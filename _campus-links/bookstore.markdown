@@ -28,4 +28,4 @@ However, UE will not only have books. Emily Clark, a senior Biblical Counseling 
 
 The University Exchange is more than books or merchandise. Everything about the store --- the design, books, atmosphere, product and even the team behind it ---- brings together the past, present and future of The Master’s University. The UE will offer multiple generations of students and guests the opportunity to take a piece of the university with them, united under one cohesive identity.
 
-<a class="btn btn-navy right" href="https://docs.google.com/spreadsheets/d/1YK8Hc7KptiX28D5INeIfN5jeXk6K-zQba5ijGgr33LI/pubhtml">Fall 2017 Books</a>
+<a class="btn btn-navy right" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVIpA6J5xwzED0VgXCTkN7DYwBfc9tZSA9g-yH6Q2cPI0jw9D2QWFr5Yk1m4gbHUi4AxBIguAd5UML/pubhtml">Fall 2017 Books</a>
