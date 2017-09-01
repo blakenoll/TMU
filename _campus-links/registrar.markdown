@@ -807,38 +807,79 @@ register-body: |-
 
     The purpose of Check-In is to verify the enrollment of students and enable them to complete the processes in a one-stop format. New Student Check-In for the fall is held on the Saturday of Week of Welcome while in the spring it is held in conjunction with Continuing Student Check-In. Continuing Student Check-In in the fall is held the day prior to the first day of classes and on the Tuesday before the first day of classes in the spring. Late Check-In begins the first day of classes following the final scheduled day of regular check-in and continues for five days.
 senior-body: |-
+  ## **Important Dates for Seniors/Graduates in May 2018**
+
+  <table class="bordered">\
+  <tbody>\
+  <tr>\
+  <td>\
+  <p>Senior Contract Start Period</p>\
+  <p>CLEP Tests Completed for Spring Graduation</p>\
+  <p>Senior Contract Finalized for Spring Graduation</p>\
+  <p>Graduation Celebration Open House</p>\
+  <p>Submit Proof of Enrollment for all Transfer Courses</p>\
+  <p>Mandatory Graduation Meeting</p>\
+  <p>Cap &amp; Gown Portraits</p>\
+  <p>Graduation Practice</p>\
+  <p>Faculty/Graduate Luncheon</p>\
+  <p>Spring 2018 Commencement, College of the Canyons       </p>\
+  </td>\
+  <td>   </td>\
+  <td>\
+  <p>Before registration of final two semesters</p>\
+  <p>Dec 14, 2017</p>\
+  <p>Feb 15, 2018</p>\
+  <p>Mar 6, 2018 - 11:00a-2:00p</p>\
+  <p>Mar 20, 2018</p>\
+  <p>April 19, 2018 - 4:00-5:00p</p>\
+  <p>TBA</p>\
+  <p>May 4, 2018 - 9:30-11:00a</p>\
+  <p>May 4, 2018 - 12:00-1:30p</p>\
+  <p>May 4, 2018 - 7:00pm</p>\
+  </td>\
+  </tr>\
+  </tbody>\
+  </table>\
+
   ## Senior/Graduate Contract
 
-    Students intending to graduate must make a Graduation Contract appointment with the Registrar to start a "Senior Contract and Application for Graduation". The contract declares intent to graduate on a certain date, and allows the Registrar's Office to collect the necessary graduation information from the student. It also provides a method to specify exactly what coursework will be required of the student during his/her final year/semester. Once completed and signed, this form is a contract between the student, his/her advisor and the Registrar's Office. This form should be completed during the student's next-to-last semester before graduation.
+  Students intending to graduate must make a Graduation Contract appointment with the Registrar to start a "Senior Contract and Application for Graduation". The contract declares intent to graduate on a certain date, and allows the Registrar's Office to collect the necessary graduation information from the student. It also provides a method to specify exactly what coursework will be required of the student during his/her final year/semester. Once completed and signed, this form is a contract between the student, his/her advisor and the Registrar's Office. This form should be completed during the student's next-to-last semester before graduation.
 
-    ## Undergraduate Graduation Requirements
+  ## Undergraduate Graduation Requirements
 
-    The Master's University grants bachelor's degrees to students who satisfy the graduation requirements described below:
-    1. Complete a minimum of 122 semester units of credit.
-    2. Complete a minimum of 40 semester units in upper division courses.
-    3. Satisfy all General Education requirements.
-    4. Complete the required curriculum for the chosen major field(s) of study.
-    5. Maintain a minimum GPA of 2.00 (cumulative) in all TMU courses and in one's major(s).
-    6. Complete a minimum of 32 semester units of non-Directed Studies coursework at TMU or 32 semester units of TMU Degree Completion Program major courses.
-    7. Complete at least 12 of the final 24 semester units at TMU.
+  The Master's University grants bachelor's degrees to students who satisfy the graduation requirements described below:
 
-    Please note that degree requirements within each major are determined by the departmental faculty. Many majors feature a variety of emphases which may have different unit requirements for graduation. Progress toward fulfillment of these major requirements is monitored by departmental faculty and by the Registrar through senior contracts.
+  1. Complete a minimum of 122 semester units of credit.
 
-    Students are held to the unit requirements within general education and their major/emphasis according to the Academic Catalog under which they initially enter The Master's University. This applies, as well, to those students whose continuous enrollment is interrupted and then return to the university.
+  2. Complete a minimum of 40 semester units in upper division courses.
 
-    Graduation ceremonies are held once a year with the conclusion of the spring semester, usually in May. Students who finish their degree in the fall semester will receive their degree immediately and are invited to walk in commencement exercises the following May.
+  3. Satisfy all General Education requirements.
 
-    It is expected that all graduating students will be present at commencement ceremonies except in cases of extreme emergency or other similarly difficult circumstances. Permission to graduate in absentia must be secured from the Office of the Registrar well in advance.
+  4. Complete the required curriculum for the chosen major field(s) of study.
 
-    ## Undergraduate Graduation Honors
+  5. Maintain a minimum GPA of 2.00 (cumulative) in all TMU courses and in one's major(s).
 
-    Honors at graduation for baccalaureate recipients are granted to students who have completed at least 60 semester units at The Master's University and have attained the following cumulative grade point average:
+  6. Complete a minimum of 32 semester units of non-Directed Studies coursework at TMU or 32 semester units of TMU Degree Completion Program major courses.
 
-    Cum Laude....................3.50-3.64
-    Magna Cum Laude.........3.65-3.84
-    Summa Cum Laude........3.85-4.00
+  7. Complete at least 12 of the final 24 semester units at TMU.
 
-    Honors recognized in the graduation ceremony may be changed based on the processing of final grades.
+  Please note that degree requirements within each major are determined by the departmental faculty. Many majors feature a variety of emphases which may have different unit requirements for graduation. Progress toward fulfillment of these major requirements is monitored by departmental faculty and by the Registrar through senior contracts.
+
+  Students are held to the unit requirements within general education and their major/emphasis according to the Academic Catalog under which they initially enter The Master's University. This applies, as well, to those students whose continuous enrollment is interrupted and then return to the university.
+
+  Graduation ceremonies are held once a year with the conclusion of the spring semester, usually in May. Students who finish their degree in the fall semester will receive their degree immediately and are invited to walk in commencement exercises the following May.
+
+  It is expected that all graduating students will be present at commencement ceremonies except in cases of extreme emergency or other similarly difficult circumstances. Permission to graduate in absentia must be secured from the Office of the Registrar well in advance.
+
+  ## Undergraduate Graduation Honors
+
+  Honors at graduation for baccalaureate recipients are granted to students who have completed at least 60 semester units at The Master's University and have attained the following cumulative grade point average:
+
+  Cum Laude....................3.50-3.64
+  Magna Cum Laude.........3.65-3.84
+  Summa Cum Laude........3.85-4.00
+
+  Honors recognized in the graduation ceremony may be changed based on the processing of final grades.
 transcript-body: |+
   <h1><strong><span>Transcripts</span></strong></h1>
   <p><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services" class="btn btn-blue"><strong><span>ORDER TRANSCRIPTS</span></strong></a></p>
