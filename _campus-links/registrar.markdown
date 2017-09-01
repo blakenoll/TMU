@@ -809,37 +809,37 @@ register-body: |-
 senior-body: |-
   ## **Important Dates for Seniors/Graduates in May 2018**
 
-  <table class="bordered">\
-  <tbody>\
-  <tr>\
-  <td>\
-  <p>Senior Contract Start Period</p>\
-  <p>CLEP Tests Completed for Spring Graduation</p>\
-  <p>Senior Contract Finalized for Spring Graduation</p>\
-  <p>Graduation Celebration Open House</p>\
-  <p>Submit Proof of Enrollment for all Transfer Courses</p>\
-  <p>Mandatory Graduation Meeting</p>\
-  <p>Cap &amp; Gown Portraits</p>\
-  <p>Graduation Practice</p>\
-  <p>Faculty/Graduate Luncheon</p>\
-  <p>Spring 2018 Commencement, College of the Canyons       </p>\
-  </td>\
-  <td>   </td>\
-  <td>\
-  <p>Before registration of final two semesters</p>\
-  <p>Dec 14, 2017</p>\
-  <p>Feb 15, 2018</p>\
-  <p>Mar 6, 2018 - 11:00a-2:00p</p>\
-  <p>Mar 20, 2018</p>\
-  <p>April 19, 2018 - 4:00-5:00p</p>\
-  <p>TBA</p>\
-  <p>May 4, 2018 - 9:30-11:00a</p>\
-  <p>May 4, 2018 - 12:00-1:30p</p>\
-  <p>May 4, 2018 - 7:00pm</p>\
-  </td>\
-  </tr>\
-  </tbody>\
-  </table>\
+  <table class="bordered">
+  <tbody>
+  <tr>
+  <td>
+  <p>Senior Contract Start Period</p>
+  <p>CLEP Tests Completed for Spring Graduation</p>
+  <p>Senior Contract Finalized for Spring Graduation</p>
+  <p>Graduation Celebration Open House</p>
+  <p>Submit Proof of Enrollment for all Transfer Courses</p>
+  <p>Mandatory Graduation Meeting</p>
+  <p>Cap & Gown Portraits</p>
+  <p>Graduation Practice</p>
+  <p>Faculty/Graduate Luncheon</p>
+  <p>Spring 2018 Commencement, College of the Canyons       </p>
+  </td>
+  <td>   </td>
+  <td>
+  <p>Before registration of final two semesters</p>
+  <p>Dec 14, 2017</p>
+  <p>Feb 15, 2018</p>
+  <p>Mar 6, 2018 - 11:00a-2:00p</p>
+  <p>Mar 20, 2018</p>
+  <p>April 19, 2018 - 4:00-5:00p</p>
+  <p>TBA</p>
+  <p>May 4, 2018 - 9:30-11:00a</p>
+  <p>May 4, 2018 - 12:00-1:30p</p>
+  <p>May 4, 2018 - 7:00pm</p>
+  </td>
+  </tr>
+  </tbody>
+  </table>
 
   ## Senior/Graduate Contract
 
