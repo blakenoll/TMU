@@ -48,7 +48,7 @@ View-The-U-body: |-
 
   ## Important Information for Registrants:
 
-  All overnight visitors need to bring a sleeping bag and pillow. Any additional overnight evenings in the dorm will cost $10 per night. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](http://www.masters.edu/hotels)page to plan overnight housing at a local area hotel.
+  All overnight visitors need to bring a sleeping bag and pillow. Any additional overnight evenings in the dorm will cost $10 per night. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
 
   TMU is only able to provide airport transportation for students flying unaccompanied. If possible, please make all attempts to fly into [Burbank Airport](http://www.burbankairport.com/) (BUR).
 Personal-Visit-body: |-
@@ -70,7 +70,7 @@ Personal-Visit-body: |-
 
   ### Important Information:
 
-  Please Note: If you are planning to stay with us overnight you MUST review our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/). This provides important information for individual and group visits. Every overnight visitor must turn in a completed [Overnight Stay Release Form](http://www.masters.edu/media/343794/activity%20release%20form.pdf).
+  Please Note: If you are planning to stay with us overnight you MUST review our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/). This provides important information for individual and group visits. Every overnight visitor must turn in a completed [Overnight Stay Release Form](/media/870365/tmu_activityrelease-2017.pdf).
 
   Our offices are closed on the following dates during the 2016-2017 School Year (if your visit falls on a Mondays at Master’s or a College View Weekend, please sign up for either of those events on the [Mondays at Master’s](http://www.masters.edu/undergrad/visit/mondays/) page and the [View Weekend](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends") page):
 
@@ -126,13 +126,13 @@ Mondays-At-Masters-body: |-
 
   ## Mondays @ Master's Dates:
 
-  * September 19, 2016
+  * September 18, 2017
 
-  * November 14, 2016
+  * November 13, 2017
 
-  * February 13, 2017
+  * February 19, 2018
 
-  * April 10, 2017
+  * April 9, 2018
 
   [CLICK HERE TO REGISTER](https://masters.tfaforms.net/217729)
 
@@ -143,11 +143,17 @@ Mondays-At-Masters-body: |-
   ## Sample Schedule of Events:
 
   * 8:30-9:00am Registration & Continental Breakfast
+
   * 9:10-10:25am Chapel
+
   * 10:45-11:35am Campus Tour or Class Visit
+
   * 11:45am-12:40pm Campus Tour or Class Visit
+
   * 12:50-1:45pm Lunch
+
   * 2:00-3:00pm Student Q&A Panel
+
   * 3:30-4:30pm Admissions & Financial Aid Seminar
 Music-at-Masters-body: |-
   November 12-13, 2017
