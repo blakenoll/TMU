@@ -17,12 +17,12 @@ layout: default
     </div>
   </div>
   {{ content }}
-<h2>Available Postions</h2>
+<h2>Available Positions</h2>
   <ul class="collapsible popout" data-collapsible="accordion">
     {% for postion in page.positions %}
     <li>
       <div class="collapsible-header">{{ postion.title }}</div>
-      <div class="collapsible-body"><span>{{ postion.about-body | markdownify }}</span></div>
+      <div class="collapsible-body"><span class="card-content">{{ postion.about-body | markdownify }}</span></div>
     </li>
     {% endfor %}
   </ul>
