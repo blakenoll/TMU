@@ -414,6 +414,74 @@ positions:
     Procedures:\nAll documents included in your application remain the sole property
     of The Master’s College and will not be returned.   Your file for this opening
     will not be considered unless all requested items are submitted and are complete.\n\n"
+- title: Loan and Veterans Benefits Counselor (full-time)  (University)
+  position: Staff
+  about-body: "SUMMARY\n\nProcesses all Title IV aid and informs individuals regarding
+    financial aid awards, payments and documentation regarding verification.  This
+    position has no supervisory responsibilities.\n\nESSENTIAL FUNCTIONS\n\nList seven
+    to twelve essential job functions that comprise the job; describe in terms of
+    actions (verbs) and desired outcomes in order of most important first:\n\n•\tCoordinate
+    technical processing in the office\n\no\tOversee Direct loan processing\n\no\tPell
+    Program\n\no\tCal Grant Program\n\no\tPrivate Lending\n \no\tVeteran’s Benefits\n
+    \no\tElectronic retrieval of student information from Federal Student Aid Programs\n\no\tUtilize
+    the PowerFAIDS package in data collection, interpretation and distribution\n\no\tCounsel
+    students and parents regarding loans and loan counseling\n\n•\tFile processing
+    which includes:  verification process, packaging of aid, and counseling students
+    and parents.\n\n•\tProvide service excellence to the campus community and prospective
+    students and families\n\no\tResearch, develop and implement programs to increase
+    our service to students in the areas of loan counseling, financial aid workshops
+    and financial planning.\n\no\tFunction as liaison between the Office of Financial
+    Aid and other offices on campus.\n\n•\tParticipation in the professional community\n\no\tMaintain
+    an intellectual curiosity of state and federal issues in higher education\n\no\tPursue
+    opportunities for professional development. (FSA, NASFAA and PowerFAIDS Conference’s)\n
+    \ \no\tEstablish and maintain positive professional relationships throughout the
+    education sector.\n\n•\tRegular attendance is essential\n\n•\tOther duties as
+    assigned\n\nCOMPETENCIES\n\n•\tComputer proficiency and well as basic mathematics
+    and accounting knowledge is necessary.\n\n•\tAcumen for conflict resolution and
+    servant-leader qualities are ideal; the sensitive nature of the position requires
+    a high degree of professionalism coupled with mild temperament, self-control and
+    grace.\n\n•\tPossess outstanding interpersonal skills with demonstrated ability
+    to establish and maintain effective working relationships with staff, faculty,
+    vendors, students and other community members of diverse academic, socio-economic,
+    cultural and ethnic backgrounds.\n\n•\tAbility to be clear and concise in verbal
+    and written communication is essential; excellent oral and written command of
+    the English language is required.\n\n•\tMust be detail oriented and accurate with
+    good organizational and problem solving skills.\n\n•\tAbility to multitask in
+    an environment with many distractions is a must.\n\nQUALIFICATIONS\n\n•\tHas a
+    personal relationship with Jesus Christ and a demonstrated commitment to the doctrinal
+    position of TMCS and a continuous exhibition of a desire to minister and serve
+    others in varied capacities.\n \n•\tEducation:  Bachelor’s degree required.\n\n•\tExperience:
+    \ 3+ years administration in an educational institution preferred\n\n•\tAbility
+    to exercise confidentiality, good judgment and discernment is imperative.\n\n•\tMust
+    successfully pass a background investigation.\n\nWORKING CONDITIONS\n\n•\tWorking
+    Environment: Mostly indoors in a typical office environment, with an occasional
+    need to visit other areas on campus.\n  \n•\tPhysical Demands: Must be able to
+    lift, pull, push, grasp and bend while lifting up to 30lbs.\n\n•\tRepetitive motions
+    on a keyboard and looking at a computer monitor for an extended duration of time
+    is required.\n\n•\tTravel: Some travel involved including overnight stays.\n\nADDITIONAL
+    INFORMATION\n\nMinimum Conditions for Beginning Employment:\n\n\tPrior to beginning
+    employment, in accordance with The Master’s College policy and/or under federal
+    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
+    employment.\n\n2.\tPresent verification of their identity and authorization to
+    work in the United States.\n\nIf, because of a disability, you need special services
+    or facilities in order to apply or interview for this opening please contact the
+    Human Resources department.\n\nThe Master’s College & Seminary does not discriminate
+    on the basis of race, color, national origin, ancestry, gender, age, marital status,
+    veteran status or prior military service, medical condition, or any physical or
+    mental disability.  We are committed to practicing principles of equal employment
+    opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
+    PROCESS\n\nSubmit completed Application for Employment to the Human Resources
+    Department.  The application can be obtained at www.masters.edu/jobs or by contacting:\n\nThe
+    Master’s College and Seminary\n\nHuman Resources Department\n\n21726 Placerita
+    Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248 • (661)
+    362-2843 • FAX (661) 362-2717 • humanresources@masters.edu\n\nSelection Process:\n\nAll
+    applications will be reviewed by the Human Resources department.  Selected candidates
+    will be invited for a personal interview at The Master’s College.  Any expense
+    incurred in connection with these interviews will be the responsibility of the
+    candidates.\n\nApplication Procedures:\nAll documents included in your application
+    remain the sole property of The Master’s College and will not be returned.   Your
+    file for this opening will not be considered unless all requested items are submitted
+    and are complete.\n\n"
 layout: employment
 ---
 
