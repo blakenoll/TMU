@@ -797,15 +797,123 @@ policies-body: |-
 
     A student who, for any reason, finds it necessary to withdraw from the university during the course of the semester must do so through the Registrar's Office. The student must complete the Complete Withdrawal form. Failure to comply with these regulations will result in failing grades entered on the student's record. Any refund due the student is according to the refund policy available in the Student Accounts Center.
 register-body: |-
-  ## Registration
-
-    Registration for the fall semester is held during the months of March and April, and for the spring semester in October and November. All students are required to register if they plan to return to school the following semester.
-
-    Students register on-line with their advisors during their scheduled registration days. Registration is completed when students have completed Pre-Registration and have registered for classes using their Self-Service account.
-
-    ## Check-In
-
-    The purpose of Check-In is to verify the enrollment of students and enable them to complete the processes in a one-stop format. New Student Check-In for the fall is held on the Saturday of Week of Welcome while in the spring it is held in conjunction with Continuing Student Check-In. Continuing Student Check-In in the fall is held the day prior to the first day of classes and on the Tuesday before the first day of classes in the spring. Late Check-In begins the first day of classes following the final scheduled day of regular check-in and continues for five days.
+  <h1><strong>Registration/Check-in</strong></h1>
+  <h2><strong>Registration</strong></h2>
+  <p>Registration for the fall semester is held during the months of March and April for the spring semester and during the months of October and November for the fall semester. All students are required to register if they plan to return to school the following semester.</p>
+  <p>Students register online with their advisors during their scheduled registration days. Registration is completed when students have completed Pre-Registration and have registered for classes using their Self-Service account.</p>
+  <h2><strong>Check-In</strong></h2>
+  <p>The purpose of Check-In is to verify the enrollment of students and enable them to complete the processes in a one-stop format. New Student Check-In for the fall is held on the Monday of Week of Welcome while in the spring it is held in conjunction with Continuing Student Check-In. Continuing Student Check-In in the fall is held the Saturday prior to the first day of classes and on the Wednesday before the first day of classes in the spring. Late Check-In begins the first day of classes following the final scheduled day of regular check-in and continues for five days.</p>
+  <p><strong style="color: #616161; font-family: Roboto; font-size: 14px;"> </strong></p>
+  <h2><strong>When do I register?</strong></h2>
+  <p>Every fall and spring semester, the University sets a specific date and time for current students to enroll in their classes for the following semester. You can view your registration time on the Self-Service Reminder Box. Registration times are determined by the number of units the student has completed at the time of registration. Units the student is taking in the current semester do not count for this purpose.</p>
+  <h2><strong><br />When is ADD/DROP period?</strong></h2>
+  <p>This is the last day a student can register for classes. View the <a href="http://www.masters.edu/campuslinks/registrar/academiccalendar/" target="_blank" title="Academic Calendar">Academic Calendar</a> to see the ADD/DROP period.</p>
+  <h2><strong><br />How do I complete Pre-Registration?</strong></h2>
+  <ol>
+  <li>Open your internet browser and access <a href="http://www.masters.edu/">www.masters.edu</a>.</li>
+  <li>Select the Students link and go to Self-Service.</li>
+  <li>Click the link on the home page titled “Pre-Registration.”</li>
+  </ol>
+  <p> <img alt="" src="/media/870069/pre-reg.png?width=318px&amp;height=277px" rel="42479" style="width: 318px; height: 277px;" /></p>
+  <p> 4. Click on the link labeled “Register for The Master’s University as a traditionalUndergraduate Student.”</p>
+  <p><img alt="" src="/media/870070/pre-reg-1.png?width=500&amp;height=121.88208616780045" rel="42480" style="width: 500px; height: 121.88208616780045px;" /></p>
+  <p> </p>
+  <p> 5. Complete/verify the information on each page until you reach the “<strong>Confirmation and Signature</strong>” section. Review the displayed summary of your selections on this page and read the terms of the Student Agreement. Type your Self-Service username/password in the Electronic Signature portion of this page. Select “<strong>Sign and Submit</strong>” to submit your Pre-Registration. You should see a “Congratulations” message. <strong>You will not be allowed to register for classes until you have completed this step.</strong></p>
+  <p>We recommend that you talk with your parents and seek their support, advice or answers before completing these sections:</p>
+  <ul>
+  <li>Emergency Contact</li>
+  <li>Billing and Payment</li>
+  <li>Housing Preferences</li>
+  <li>Meal Plan</li>
+  <li>Health Insurance</li>
+  <li>Vehicle</li>
+  </ul>
+  <h2> <br /><strong>How do I add classes to my cart?</strong></h2>
+  <p>You will need to use the Self-Service section of the University’s website to “shop” for classes.  Using the steps outlined below, you will be able to select as many courses as you would like to place in your electronic “shopping cart.”  Placing a course in your cart <strong>DOES NOT</strong> reserve a seat for you in that class.  It does, however, give you a “short list” of classes so that you can be more efficient in finalizing your schedule when you meet with your advisor.  You may shop for courses at any time.  However, you <strong>must complete Pre-Registration &amp; Course Shopping</strong> <strong>before you meet with your advisor</strong>.  Please use the following steps to shop for classes: </p>
+  <p> 1. Open your internet browser, and access <a href="http://www.masters.edu/">www.masters.edu</a>. Click on the Students tab, then select the Self-Service icon.</p>
+  <ol start="2">
+  <li>Log in to Self-Service using your student username and password. If you cannot log in, please click “Forgot your password?” under the login area. If you still cannot log in, please contact the IT Service Desk at <a href="mailto:servicedesk@masters.edu">servicedesk@masters.edu</a> and/or (661)362-2876.</li>
+  </ol>
+  <p> <img alt="" src="/media/870072/ss-password.png?width=204&amp;height=304" rel="42482" style="width: 204px; height: 304px;" /></p>
+  <p> 3. On the home page, under the column labeled Students, click on Find Courses.</p>
+  <p> 4. You can enter various information to find your classes. In the Section Search, enter a keyword such as “Bible.” Or, you can enter the Course Code such as “B” or “B101”.  You do not have to enter information into both the Keywords and the Course Code boxes.</p>
+  <p>    The period is the semester you wish to add classes in, i.e Fall 2017. <br />    The Registration Type is Traditional. <br />    The Session is Traditional.</p>
+  <p>*Please select session according to your program. For example, if you are an MABC/S student, please select MABC/S session; or if you are an Online Degree Program student, you should select Online Degree Program. </p>
+  <p><img alt="" src="/media/870073/section-search.png?width=500&amp;height=199.87309644670052" rel="42483" style="width: 500px; height: 199.87309644670052px;" /></p>
+  <p>Click “Search” and a list of classes meeting your specifications will show up.</p>
+  <p> 5. Click “Add” to add classes to your cart. The class may already be full before you add it to your cart. If it is, select “Wait.” It will still be added to your cart.</p>
+  <p> <img alt="" src="/media/870074/add-class.png?width=617px&amp;height=105px" rel="42484" style="width: 617px; height: 105px;" /></p>
+  <p> </p>
+  <p>A box will appear after you click “Add” or “Wait.” Simply hide this box and continue to make your selections. An inventory of your cart can be seen on the right side of the screen.</p>
+  <p>  <img alt="" src="/media/870075/cart.png?width=500&amp;height=258.11001410437234" rel="42485" style="width: 500px; height: 258.11001410437234px;" /></p>
+  <p> </p>
+  <p><strong>Note:</strong>  Your cart has an unlimited holding capacity.  You can place as many classes in it as you want.  However, you won’t be able to empty your cart until you meet with your advisor.  The more courses you place in it, the longer the list will be that you will need to sort through every time you try to find the classes you actually want.  If you need assistance in the procedure to shop for classes, the Registrar’s Office will be available to help you at (661) 362-2813 or (661) 362-2812.</p>
+  <p> 6. To start a new search, click on the “New Search” link on the left of the screen.</p>
+  <p> <img alt="" src="/media/870076/new-search.png?width=250&amp;height=384" rel="42486" style="width: 250px; height: 384px;" /></p>
+  <ol start="7">
+  <li>If you want to see the weekly schedule of the classes in your cart, click on “View Schedule.”</li>
+  </ol>
+  <p> <img alt="" src="/media/870077/view-schedule.png?width=655px&amp;height=127px" rel="42487" style="width: 655px; height: 127px;" /></p>
+  <p> </p>
+  <p> </p>
+  <p>This will open up a new window. Classes listed in Blue are Registered courses. Classes listed in Orange    are Waitlisted/Pending classes, and classes in Green are classes in your shopping cart. </p>
+  <p><img alt="" src="/media/870078/student-schedule.png?width=575px&amp;height=122px" rel="42488" style="width: 575px; height: 122px;" /></p>
+  <p>Close this window to go back to the standard view of your cart.</p>
+  <p> <br />8. When you have completed shopping, log out of Self-Service or simply exit your browser. </p>
+  <p><strong>     </strong><strong>Note:</strong>  The classes you place in your shopping cart will stay there until you empty them (when you meet with your advisor).  You are free      to access the class shopping option as many times as you want.  You do NOT need to complete all of your shopping in one sitting. </p>
+  <h2><strong> <br /></strong><strong>How do I complete class registration?</strong></h2>
+  <p>You <strong>MUST</strong> complete <strong>Pre-Registration and Course Shopping</strong> <strong>BEFORE</strong> you meet with your faculty advisor.  He/she will <strong>NOT </strong>be able to register you for classes unless you have completed pre-registration and shopped for classes.  Also, your advisor will <strong>NOT</strong> be able to register you for classes until your registration period begins.  The registration schedule is as follows for Fall 2017:</p>
+  <p> <img alt="" src="/media/870087/registration-dates.png?width=589px&amp;height=192px" rel="42497" style="width: 589px; height: 192px;" /></p>
+  <p> You may schedule an advising appointment as early as possible, however, you will not be able to process your course selections until the date(s) listed above.</p>
+  <ul>
+  <li> If you have a laptop, you are encouraged to bring it and log into Self-Service as soon as you arrive for your advising appointment.  If you do not have a laptop, your advisor will still be able to register you.  <strong>Advising and Class Selection</strong> will proceed as follows: </li>
+  </ul>
+  <ol>
+  <li>BEFORE you register for classes, please make sure you do not have any stops on your account. To see if you have any stops on your account, log in to Self-Service. Then, click on the “Register” tab. Click “Traditional Courses.” This will show you a list of stops (if any) on your account.</li>
+  </ol>
+  <p>Note: If you have a stop on your account, you will not be able to register for classes. The reason(s) for your stop will be displayed if you click on “Register.” Please correct the issues and make another advising appointment.</p>
+  <p> <img alt="" src="/media/870080/stop.png?width=500&amp;height=78.10499359795134" rel="42490" style="width: 500px; height: 78.10499359795134px;" /></p>
+  <ol start="2">
+  <li>Your advisor will access Self-Service on his/her computer and authorize you to select classes.</li>
+  </ol>
+  <p> 3. Using your laptop (or logging into a separate session on your advisor’s computer), log in to Self-Service (if you have not already done so.)</p>
+  <p>4. Click “Cart” at the top of the screen to view classes added to your cart.</p>
+  <p><img alt="" src="/media/870081/cart-1.png?width=500&amp;height=107.25552050473186" rel="42491" style="width: 500px; height: 107.25552050473186px;" /></p>
+  <p>5. Click the Register box at the top of the screen.</p>
+  <p><img alt="" src="/media/870082/register.png?width=585px&amp;height=110px" rel="42492" style="width: 585px; height: 110px;" /></p>
+  <p>6. All classes will have check marks in boxes next to the course name. Click on boxes next to courses that you do not want to register for and the check mark will disappear. Verify the classes you want to register for are selected and the classes you don’t want to register for are not selected.</p>
+  <p> <img alt="" src="/media/870083/class-review.png?width=570px&amp;height=139px" rel="42493" style="width: 570px; height: 139px;" /></p>
+  <p><strong>Note:</strong>  If you need to register for a course that is not in your shopping cart, click on the <strong>Section Search</strong> icon to return to the <strong>Section Search </strong>screen.  Find and add the class(es) you need to your cart &amp; then click on the <strong>Registration</strong> link on the left of the page to return to the <strong>Registration</strong> screen.</p>
+  <p> 7. After all selections are made, click “Next.”  This shows your “Updated Schedule.” The system will check to see if the classes you’ve selected are open and have no time conflicts.  If the classes you’ve selected meet these criteria, you will be added to each of the classes.  At this point, you have a reserved seat in the class.  If any of the criteria are not met for any of the classes, the system will NOT process any of your requests.   </p>
+  <p><strong>Note</strong>: If you do not see your updated schedule, click the “Previous” button.</p>
+  <ol start="8">
+  <li>Once the updated schedule is confirmed, click the “Next” button.</li>
+  <li>Once you are finished, the following screen will appear:<br /><img alt="" src="/media/870084/congrats.png?width=500&amp;height=80.7909604519774" rel="42494" style="width: 500px; height: 80.7909604519774px;" /></li>
+  </ol>
+  <p> </p>
+  <h2><strong>How do I drop classes?</strong></h2>
+  <p>At this point, you may add additional classes (from your shopping cart) and/or drop classes you didn’t want.  Continue to work with your advisor to add and drop classes until you get the schedule you want.  If you do not need to make any changes, please proceed to number 8.</p>
+  <p>1. Click on the “Register” tab.</p>
+  <p>2. Click the “Traditional Courses” link.</p>
+  <p>3. Click the semester, i.e. Fall 2017, link.</p>
+  <p>4. Under the section labeled “Registered Courses” click on the box to <strong>check</strong> the course you want to drop.</p>
+  <p><img alt="" src="/media/870085/drop-schedule.png?width=500&amp;height=98.9010989010989" rel="42495" style="width: 500px; height: 98.9010989010989px;" /></p>
+  <p>5. After all selections are made, click “Next.” This shows your “Updated Schedule.”</p>
+  <p><strong>Note</strong>: If you do not see your updated schedule, click the “Previous” button.</p>
+  <p>6. Once the updated schedule is confirmed, click the “Next” button.</p>
+  <p>7. After you are finished, the following screen will appear:</p>
+  <p><img alt="" src="/media/870084/congrats.png?width=500&amp;height=80.7909604519774" rel="42494" style="width: 500px; height: 80.7909604519774px;" /></p>
+  <p>8. When you and your advisor have arrived at a mutually acceptable schedule, we recommend that you print out your copy of the class schedule by clicking on the <strong>Print</strong> option at the top of the screen.  This will open up a new “printable” window. To begin printing, click on the <strong>Print </strong>icon in the Microsoft tool bar.  You may then close this window.</p>
+  <p>9. At this point, you should empty your shopping cart of all the extra courses that will not be needed. </p>
+  <p>    To empty the shopping cart, you should:  </p>
+  <ul>
+  <li>Click on the<strong> “Cart”</strong> link.</li>
+  <li>Click “<strong>Remove</strong>” next to the classes that you will not be adding to your schedule. This will remove them from your cart.</li>
+  </ul>
+  <p> <img alt="" src="/media/870086/empty-cart.png?width=500&amp;height=103.90243902439025" rel="42496" style="width: 500px; height: 103.90243902439025px;" /></p>
+  <p> </p>
+  <h2>How does the waitlist work?</h2>
+  <p>Students are notified by email to their TMU email at 6pm for openings. You must reply by 5pm the following day (weekends excepted). Otherwise, your seat will be given to the next student on the waitlist.</p>
 senior-body: |-
   ## **Important Dates for Seniors/Graduates in May 2018**
 
@@ -952,9 +1060,9 @@ general-education-body: |-
 
   TMU GENERAL EDUCATION REQUIREMENTS
 
-  \(Effective FALL 2015)
+  (Effective FALL 2015)
 
-  <table border="0">
+  <table class="bordered">
   <tbody>
   <tr style="text-align: center;">
   <td>
