@@ -28,19 +28,19 @@ layout: page
 <tbody>
 <tr>
 <td>
-<p style="text-align: center;"><strong>Semester<br />Course Units</strong></p>
+<p><strong>Semester<br />Course Units</strong></p>
 </td>
 <td>
-<p style="text-align: center;"><strong>Semester<br />In-Class Minutes</strong></p>
+<p><strong>Semester<br />In-Class Minutes</strong></p>
 </td>
 <td>
-<p style="text-align: center;"><strong>Semester<br />Out-of-Class-Minutes</strong></p>
+<p><strong>Semester<br />Out-of-Class-Minutes</strong></p>
 </td>
 <td>
-<p style="text-align: center;"><strong>Total Minutes<br />(In + Out)</strong></p>
+<p><strong>Total Minutes<br />(In + Out)</strong></p>
 </td>
 <td>
-<p style="text-align: center;"><strong>Minimum Total Student Work<br />(expressed in 60-minute hours)</strong></p>
+<p><strong>Minimum Total Student Work<br />(expressed in 60-minute hours)</strong></p>
 </td>
 </tr>
 <tr>
