@@ -11,12 +11,11 @@ layout: default
 <div class="section white">
   <div class="row container article-text">
     <!-- <h2><small>sub heading text...</small></h2> -->
-    <time id="news-date">{{ page.date | date: "%b %-d, %Y" }}</time>
+    <time id="news-date">{{ page.date | date: "%b %-d, %Y" }}</time><br>
     {% for author in site.authors %}
     {% if author.title == page.author %}
     <p>By: {{ author.title }}</p>
     {% else %}
-    <p> </p>
     {% endif %}
 
     {% endfor %}
