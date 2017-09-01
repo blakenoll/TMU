@@ -1,46 +1,64 @@
----
-layout: default
----
-
-<div class="parallax-container news-parallax">
-  <div class="parallax"><img src="{% if page.images %}{{ page.image | prepend: site.url }}{% else %}{{ '/images/Parallax1.jpg' | prepend: site.url }}{% endif %}"></div>
-  <div class="container valign-wrapper" style="height: 100%">
-    <h1 class="program-title white-text">{{ page.title }}</h1>
-  </div>
-</div>
-<div class="section white">
-  <div class="row container article-text">
-    <!-- <h2><small>sub heading text...</small></h2> -->
-    <time id="news-date">{{ page.date | date: "%b %-d, %Y" }}</time><br>
-    {% for author in site.authors %}
-    {% if author.title == page.author %}
-    <p>By: {{ author.title }}</p>
-    {% else %}
+<!DOCTYPE html>
+<html>
+  {% include newshead.html %}
+  <body>
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
     {% endif %}
+    <!--  Scripts-->
+    <script src="{{ "/js/materialize.js" | prepend: site.url }}"></script>
+    <script src="{{ "/js/init.js" | prepend: site.url }}"></script>
+    {% include new-header.html %}
+    <main>
+      <div class="parallax-container news-parallax">
+        <div class="parallax"><img src="{% if page.images %}{{ page.image | prepend: site.url }}{% else %}{{ '/images/Parallax1.jpg' | prepend: site.url }}{% endif %}"></div>
+        <div class="container valign-wrapper" style="height: 100%">
+          <h1 class="program-title white-text">{{ page.title }}</h1>
+        </div>
+      </div>
+      <div class="section white">
+        <div class="row container article-text">
+          <!-- <h2><small>sub heading text...</small></h2> -->
+          <time id="news-date">{{ page.date | date: "%b %-d, %Y" }}</time><br>
+          {% for author in site.authors %}
+          {% if author.title == page.author %}
+          <p>By: {{ author.title }}</p>
+          {% endif %}
+          {% endfor %}
+          <hr class="article-hr">
+          <div class="article-body">{{ content | markdownify }}</div>
+        </div>
+      </div>
 
-    {% endfor %}
-    <hr class="article-hr">
-    <div class="article-body">{{ content | markdownify }}</div>
-  </div>
-</div>
-
-{% if page.previous.url %}
-<div class="parallax-container news-parallax valign-wrapper">
-  <div class="parallax">
-    <!-- <img src="{{ page.previous.image | prepend: site.url }}"> -->
-    <img src="{{ '/images/Parallax2.jpg' | prepend: site.url }}">
-  </div>
-  <div class="container">
-      <h3 class="program-title white-text">{{ page.previous.title }}</h3>
-      <h4><a class="white-text"href="{{ page.previous.url | prepend: site.url }}">Read Next</a></h4>
-  </div>
-</div>
-{% endif %}
+      {% if page.previous.url %}
+      <div class="parallax-container news-parallax valign-wrapper">
+        <div class="parallax">
+          <!-- <img src="{{ page.previous.image | prepend: site.url }}"> -->
+          <img src="{{ '/images/Parallax2.jpg' | prepend: site.url }}">
+        </div>
+        <div class="container">
+            <h3 class="program-title white-text">{{ page.previous.title }}</h3>
+            <h4><a class="white-text"href="{{ page.previous.url | prepend: site.url }}">Read Next</a></h4>
+        </div>
+      </div>
+      {% endif %}
 
 
-<script type="text/javascript">
-$(document).ready(function(){
-$('.parallax').parallax();
-$()
-});
-</script>
+      <script type="text/javascript">
+      $(document).ready(function(){
+      $('.parallax').parallax();
+      $()
+      });
+      </script>
+    </main>
+
+  </body>
+  {% include footer.html %}
+</html>
