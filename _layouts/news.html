@@ -15,7 +15,10 @@ layout: default
     {% for author in site.authors %}
     {% if author.title == page.author %}
     <p>By: {{ author.title }}</p>
+    {% else %}
+    <p> </p>
     {% endif %}
+
     {% endfor %}
     <hr class="article-hr">
     <div class="article-body">{{ content | markdownify }}</div>
