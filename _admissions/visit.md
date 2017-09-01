@@ -42,7 +42,7 @@ View-The-U-body: |-
 
   If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page for booking information. Complimentary campus parking passes are available [here](http://www.masters.edu/media/683327/CVW%20Parking%20Pass.pdf).
 Personal-Visit-body: |-
-  We Want You On Campus!
+  ## We Want You On Campus!
 
   The things that make The Master's University so special can’t be experienced on your computer. You’ve got to see it for yourself! If you’re curious about the University, your next step should be to schedule a tour.
 
@@ -64,39 +64,49 @@ Personal-Visit-body: |-
 
   Our offices are closed on the following dates during the 2016-2017 School Year (if your visit falls on a Mondays at Master’s or a College View Weekend, please sign up for either of those events on the [Mondays at Master’s](http://www.masters.edu/undergrad/visit/mondays/) page and the [View Weekend](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends") page):
 
-  > * September 7, 2016: Closed for Labor Day
+  > * September 4, 2017: Closed for Labor Day
   >
-  > * September 19, 2016: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
+  > * September 18, 2017: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
   >
-  > * October 15-18, 2016: Closed for Outreach Week
+  > * October 12-15, 2017: Closed for Outreach Week
   >
-  > * October 27-29, 2016: [College View Weekend](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends")
+  > * October 16, 2017: Closed for Reading Day
   >
-  > * November 3, 2016: TMU Day of Prayer
+  > * October 26-27 2017: [View the U](/visit)
   >
-  > * November 14, 2016: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
+  > * November 7, 2017: TMU Day of Prayer
   >
-  > * November 26-29, 2016: Closed for Thanksgiving Holiday
+  > * November 13, 2017: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
   >
-  > * December 18, 2016 – January 13, 2016: Closed for Christmas Break
+  > * November 20-24, 2017: Closed for Thanksgiving Holiday
   >
-  > * February 11-12, 2017: Closed for President's Scholarship Weekend
+  > * December 18, 2017 – January 12, 2018: Closed for Christmas Break
   >
-  > * February 13, 2017: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
+  > * January 13, 2018: Closed for Martin Luther King Day
   >
-  > * March 25, 2017: Closed for Good Friday
+  > * February 13, 2018: Closed for Reading Day
   >
-  > * March 23-25, 2017: [View the U](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends")
+  > * February 19, 2018: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
   >
-  > * April 19, 2017: Closed for All School Test Day
+  > * March 12-16, 2018: Closed for Spring Break
   >
-  > * April 10, 2017: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
+  > * March 30, 2018: Closed for Good Friday
   >
-  > * April 29, 2017: Admitted Students Day
+  > * March 22-23, 2018: [View the U](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends")
   >
-  > * May 30, 2017: Closed for Memorial Day
+  > * April 2, 2018: Closed for Reading Day
   >
-  > * July 4, 2017: Closed for Independence Day
+  > * April 17, 2018: Closed for All School Test Day
+  >
+  > * April 9, 2018: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
+  >
+  > * April 21, 2018: Admitted Students Day
+  >
+  > * May 4, 2018: Closed for TMU Graduation
+  >
+  > * May 28, 2018: Closed for Memorial Day
+  >
+  > * July 4, 2018: Closed for Independence Day
 View-The-U: 
 Personal-Visit: 
 Mondays-At-Masters-body: |-
