@@ -77,7 +77,7 @@ required-courses-body: |-
 
   * *C472 Rhetorical Criticism (3)*
 
-  Total units required for core courses (15)\
+  Total units required for core courses (15)
 
   ## General Communication Emphasis Courses
 
@@ -87,7 +87,7 @@ required-courses-body: |-
 
   Total units required for emphasis (48)
 
-  ## Cinema & Digital Arts Emphasis Courses\
+  ## Cinema & Digital Arts Emphasis Courses
 
   * Communication core courses (15)
 
@@ -216,8 +216,6 @@ required-courses-body: |-
     * *C482 The Graphic Novel (3)*
 
   * Also Acceptable (maximum of 3 units applicable to the General emphasis):
-
-    * *E322 Children’s Literature (3)*
 
     * *E333 Drama as Literature (3)*
 
