@@ -5,20 +5,14 @@ layout: default
 {% include parallax-header.html %}
 <div class="container">
   <div class="row">
-    <div class="col s12">
-      <h3>Program Description</h3>
-      <span>{{ page.program-description-body}}</span>
-    </div>
-  </div>
-  <div class="row">
     <div class="col s12 m6">
-      <h3>Importance</h3>
-      <span>{{ page.importance-body }}</span>
+      <h3>Program Description</h3>
+      <span>{{ content }}</span>
     </div>
     <div class="col s12 m6">
       <h3>Faculty</h3>
       <ul>
-          {% assign profs = site.faculty | where: "italy", "true" %}
+          {% assign profs = site.faculty | where: "ibex", "true" %}
           {% for faculty in profs %}
           <div class="chip">
             {% if faculty.image != '' %}
@@ -31,47 +25,37 @@ layout: default
           {% endfor %}
       </ul>
       <h3>Cost</h3>
-      {{ page.cost-text }}
+      {{ page.cost-body }}
       <h3>Locations</h3>
-      {{ page.locations-body }}
+      {{ page.location-body | markdownify }}
     </div>
   </div>
 
 </div>
 <div class="parallax-container news-parallax center">
-  <div class="parallax"><img src="https://source.unsplash.com/zunQwMy5B6M/1500x1000" alt="{{ page.title }} header-img"></div>
+  <div class="parallax"><img src="https://source.unsplash.com/VkZuNpXxdIg/1500x1000" alt="{{ page.title }} header-img"></div>
   <div class="container valign-wrapper" style="height: 100%">
-    <h1 class="program-title white-text">Class Offerings</h1>
+    <h1 class="program-title white-text">Programs</h1>
   </div>
 </div>
 <div class="container">
   <div class="row">
     <div class="col s12">
-      <p>{{ page.offerings-text}}</p>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col s12 m6">
-      <h3>Lower Division Gen-Ed courses</h3>
-      {{ page.lower-div-text | markdownify }}
-    </div>
-    <div class="col s12 m6">
-      <h3>Upper Division Tutorials</h3>
-      {{ page.upper-div-text | markdownify }}
+      <p>{{ page.programs-body | markdownify }}</p>
     </div>
   </div>
 </div>
 <div class="parallax-container news-parallax center">
-  <div class="parallax"><img src="https://source.unsplash.com/qf2Lg1ZtxDc/1500x1000" alt="{{ page.title }} header-img"></div>
+  <div class="parallax"><img src="https://source.unsplash.com/6PLB5SKWiIY/1500x1000" alt="{{ page.title }} header-img"></div>
   <div class="container valign-wrapper" style="height: 100%">
-    <h1 class="program-title white-text">Application</h1>
+    <h1 class="program-title white-text">Applications</h1>
   </div>
 </div>
 <div class="container">
   <div class="row">
     <div class="col s12">
       <h3>Application Process Descriptions</h3>
-      {{ page.app-process-text | markdownify }}
+      {{ page.app-body | markdownify }}
     </div>
   </div>
   <div class="row">
