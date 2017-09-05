@@ -1,6 +1,7 @@
 ---
 title: Scholarship search
 date: 2017-09-05 15:13:00 Z
+sm-image: "/images/AcademicsUndergradIcons_Liberal Studies.png"
 ---
 
 ## Welcome to the TMU scholarship search!
