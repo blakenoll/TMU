@@ -685,6 +685,14 @@ positions:
     included in your application remain the sole property of The Master’s University
     and will not be returned.   Your file for this opening will not be considered
     unless all requested items are submitted and are complete.\n\n"
+- title: VOLUNTEER Welcome Center Greeter (Part-time)  (University)
+  position: Staff
+  about-body: |-
+    This position is a volunteer position with flexible hours.
+
+    This individual will be greeting people at the front lobby, answering basic questions, and giving directions.
+
+    For more information, please contact Human Resources at:  661-362-2843 0r 661-362-2844
 layout: employment
 ---
 
