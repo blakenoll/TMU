@@ -94,7 +94,7 @@ In the event of a life threatening emergency, faculty, staff, and students regis
 
 ## Active Shooter Training
 
-The following video presentation (TMU LOGIN REQUIRED) is provided as a service to the campus community:[ Active Shooter Training Presentation.](https://mix.office.com/watch/d8mtp1ue02zp) Remember: Always Call 911 AND Campus Safety.\\
+The following video presentation (TMU LOGIN REQUIRED) is provided as a service to the campus community:[ Active Shooter Training Presentation.](https://mix.office.com/watch/d8mtp1ue02zp) Remember: Always Call 911 AND Campus Safety.
 
 ## Twitter Feed
 
@@ -108,7 +108,7 @@ The following video presentation (TMU LOGIN REQUIRED) is provided as a service t
 
 [Title IX Information](http://www.masters.edu/financial-aid/heoa-cc-info/health-safety/title-ix-information/)
 
-[Drug and Alcohol Abuse Prevention Program](http://www.masters.edu/financial-aid/heoa-cc-info/health-safety/drug-and-alcohol-abuse-prevention/)
+[Drug and Alcohol Abuse Prevention Program ](/media/870369/tmu-daapp-2017-2018-4.pdf)
 
 [Campus Safety Codes (Vehicle and Safety Policies)](http://www.masters.edu/media/870173/campus-safety-codes_aug-2017.pdf "Campus Safety Codes_Aug 2017.pdf (1)")
 

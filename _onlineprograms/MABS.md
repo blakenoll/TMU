@@ -41,7 +41,7 @@ parallax-img: "/images/Parallax8.jpg"
 <p>BTS500</p>
 </td>
 <td style="text-align: center;">
-<p>Introduction to Biblical Studies *</p>
+<p>Introduction to Biblical Studies \*</p>
 </td>
 <td style="text-align: center;">
 <p>2</p>
@@ -50,7 +50,7 @@ parallax-img: "/images/Parallax8.jpg"
 <p>BTS523</p>
 </td>
 <td colspan="2" style="text-align: center;">
-<p>Letters &amp; Theology of Paul</p>
+<p>Letters & Theology of Paul</p>
 </td>
 <td style="text-align: center;">
 <p>2</p>
@@ -61,7 +61,7 @@ parallax-img: "/images/Parallax8.jpg"
 <p>BTS501</p>
 </td>
 <td style="text-align: center;">
-<p>Hermeneutics **</p>
+<p>Hermeneutics \*\*</p>
 </td>
 <td style="text-align: center;">
 <p>2</p>
@@ -70,7 +70,7 @@ parallax-img: "/images/Parallax8.jpg"
 <p>BTS524</p>
 </td>
 <td colspan="2" style="text-align: center;">
-<p>General Epistles &amp; Revelation</p>
+<p>General Epistles & Revelation</p>
 </td>
 <td style="text-align: center;">
 <p>2</p>
@@ -168,7 +168,7 @@ parallax-img: "/images/Parallax8.jpg"
 <p>2</p>
 </td>
 <td colspan="3" style="text-align: center;">
-<p>Independent Study Electives ****</p>
+<p>Independent Study Electives \*\*\*\*</p>
 </td>
 <td style="text-align: center;">
 <p>6</p>
@@ -179,7 +179,7 @@ parallax-img: "/images/Parallax8.jpg"
 <p>BTS522</p>
 </td>
 <td>
-<p style="text-align: center;">  Life, Ministry, &amp; Theology of Christ  </p>
+<p style="text-align: center;">  Life, Ministry, & Theology of Christ  </p>
 </td>
 <td style="text-align: center;">
 <p>2</p>
@@ -188,7 +188,7 @@ parallax-img: "/images/Parallax8.jpg"
 <p>BTS572</p>
 </td>
 <td colspan="2" style="text-align: center;">
-<p>Seminar in Applied Biblical Studies ***</p>
+<p>Seminar in Applied Biblical Studies \*\*\*</p>
 </td>
 <td style="text-align: center;">
 <p>2</p>
@@ -199,7 +199,7 @@ parallax-img: "/images/Parallax8.jpg"
 <p>BTS520</p>
 </td>
 <td style="text-align: center;">
-<p>  Early Church &amp; Book of Acts      </p>
+<p>  Early Church & Book of Acts      </p>
 </td>
 <td style="text-align: center;">
 <p>2</p>
@@ -215,7 +215,7 @@ parallax-img: "/images/Parallax8.jpg"
 </table>
 <p> </p>
 <h2>Program-level Learning Outcomes</h2>
-<p>A graduate from TMC Online MA program in Biblical Studies should be able to:</p>
+<p>A graduate from TMU Online MA program in Biblical Studies should be able to:</p>
 <ol>
 <li>Research available biblical and theological literature to develop a concise, biblically-supported synthesis of the supernatural and historical origin, the primary purposes, focus, and content outline of each of the 66 books of the Biblical canon.</li>
 <li>Use correct hermeneutical principles to present a theologically-defensible explanation, interpretation, and application(s) of any given biblical text in its historical and theological dimensions.</li>
@@ -243,10 +243,11 @@ parallax-img: "/images/Parallax8.jpg"
 </ul>
 <h2>Format and Schedule</h2>
 <p>All required courses are taught in an online format during two 8-week sessions over three semesters each year. This schedule enables students to qualify for federal financial aid. </p>
-<p>TMU Online courses contain a variety of proven online instructional approaches including brief video lectures, topical videos from the Internet or other resources, interactive exercises &amp; lessons. In addition, students will engage each other and the instructor through online discussion forums, chat and video conferencing sessions, and instant messaging. Student assessments will include online quizzes and exams, written papers, online speeches, role-plays, and presentations, depending on the program.  </p>
-<p><span style="color: #616161; font-family: 'Crimson Text', serif; font-size: 22px; font-weight: 800; line-height: 28px;">Degree Requirement Summary</span></p>
+<p>TMU Online courses contain a variety of proven online instructional approaches including brief video lectures, topical videos from the Internet or other resources, interactive exercises & lessons. In addition, students will engage each other and the instructor through online discussion forums, chat and video conferencing sessions, and instant messaging. Student assessments will include online quizzes and exams, written papers, online speeches, role-plays, and presentations, depending on the program.  </p>
+<h2>Degree Requirement Summary</h2>
 <p><a href="/media/868243/ma-bs-olp-tmu.pdf" title="MA-BS-OLP-TMU.pdf"> </a><a href="/media/868300/ma-bs-olp-tmu.pdf" title="MA-BS-OLP-TMU.pdf (1)"><span style="background-color: #ffffff;">Click here</span></a><a style="background-color: #ffffff;" href="/media/793588/organizational management - dcp online (2).pdf"> </a>to print a summary of the degree requirements for the Master of Biblical Studies. </p>
-<p><span style="color: #616161; font-family: 'Crimson Text', serif; font-size: 22px; font-weight: 800; line-height: 28px;">Application Requirements</span></p>
+
+<h2>Application Requirements</h2>
 <ol>
 <li>Faith in Jesus Christ as your personal Lord and Savior</li>
 <li><a href="https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB" target="_blank">Application</a></li>

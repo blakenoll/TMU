@@ -1,7 +1,7 @@
 ---
 title: Organizational Management
-parallax-img: "/images/Parallax9.jpg"
 sm-image: "/uploads/AcademicsOnline_OrganizationalMgmt.png"
+parallax-img: "/images/Parallax9.jpg"
 level: undergrad
 about-body: |-
   Our online Organizational Management degree is composed of 13 major courses totaling 39 semester units. This program has been designed to help students develop effective leadership and management skills in the business arena from a distinctly biblical perspective. The curriculum is organized to provide a greater understanding of the management field, the communication tools necessary for success, and the biblical framework for a Christian in the workplace.
@@ -26,7 +26,7 @@ about-body: |-
 
   ---
 
-  [Click here](https://blakenoll.github.io/media/868245/olp-organizational-management-tmu.pdf "OLP Organizational Management-TMU.pdf")to print a summary of the degree requirements for BA in Organizational Management.
+  [Click here ](https://blakenoll.github.io/media/868245/olp-organizational-management-tmu.pdf "OLP Organizational Management-TMU.pdf")to print a summary of the degree requirements for BA in Organizational Management.
 
   ### Textbooks
 
