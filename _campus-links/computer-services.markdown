@@ -1,5 +1,6 @@
 ---
 title: Computer Services
+layout: computerservices
 ---
 
 ## Welcome to IT Operations
