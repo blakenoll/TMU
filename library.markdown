@@ -239,7 +239,7 @@ general-use-policies-body: |-
 
   ## [Audio/Video Equipment](http://masters.libguides.com/welcome/libraryservices "Reciprocal Arrangements")
 
-  [DVD players are available for use in the library. Data Projectors are available for faculty and staff. All audio-video equipment must remain in the library at all times unless required for classroom use and reserved in advance. Reservations for data projectors may be made only by TMU faculty or staff for campus related activities. There is no pick up and delivery service available. Contact the circulation desk for further details on policy and procedure. In keeping with copyright law (Title 17 of the United States Code,), data projectors may not be used by anyone on campus except by faculty for in class related activities.](http://masters.libguides.com/welcome/libraryservices "Reciprocal Arrangements")
+  DVD players are available for use in the library. Data Projectors are available for faculty and staff. All audio-video equipment must remain in the library at all times unless required for classroom use and reserved in advance. Reservations for data projectors may be made only by TMU faculty or staff for campus related activities. There is no pick up and delivery service available. Contact the circulation desk for further details on policy and procedure. In keeping with copyright law (Title 17 of the United States Code,), data projectors may not be used by anyone on campus except by faculty for in class related activities.
 
   ## [Reciprocal Arrangements](http://masters.libguides.com/welcome/libraryservices "Reciprocal Arrangements")
 
