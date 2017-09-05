@@ -23,12 +23,11 @@ intelibraryloan-body: |-
 
   Interlibrary Loan (ILL) is a voluntary system of sharing materials between libraries. ILL provides access to items not currently available in our own library collection or not available in full-text through our online databases.
 
-  This service is available to all TMU students, faculty and staff who reside locally. Online Program students, Summer Institute Program students and Non TMU patrons, who hold a current TMU library card, should request ILL items through a local public library. International students may contact the Reference Librarian, Miss T., for other possible alternatives ([jtillman@masters.edu](mailto:jtillman@masters.edu))). Master's Seminary students must request ILL through The Master's Seminary Library.
+  This service is available to all TMU students, faculty and staff who reside locally. Online Program students, Summer Institute Program students and Non TMU patrons, who hold a current TMU library card, should request ILL items through a local public library. International students may contact the Reference Librarian, Miss T., for other possible alternatives ([jtillman@masters.edu](mailto:jtillman@masters.edu)). Master's Seminary students must request ILL through The Master's Seminary Library.
 
   ## Interlibrary Loan Manager
 
-  Grace Kamffer may be contacted by email.\
-  [gkamffer@masters.edu](mailto:gkamffer@masters.edu)
+  Grace Kamffer may be contacted by email [gkamffer@masters.edu](mailto:gkamffer@masters.edu)
 
   ## Requesting Material
 
