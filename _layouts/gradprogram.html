@@ -33,22 +33,26 @@ layout: default
       <div class="card">
         <div class="card-tabs">
           <ul class="tabs tabs-fixed-width">
-            <li class="tab"><a class="active" href="#test4">Program Outline</a></li>
-            <li class="tab"><a href="#test5">Courses</a></li>
-            <li class="tab"><a href="#test6">Eligibility Requirments</a></li>
+            <li class="tab"><a class="active" href="#outline">Program Outline</a></li>
+            <li class="tab"><a href="#courses">Courses</a></li>
+            <li class="tab"><a href="#requirements">Eligibility Requirments</a></li>
+            <li class="tab"><a href="#tuition">Eligibility Requirments</a></li>
           </ul>
         </div>
         <div class="card-content grey lighten-4">
-          <div id="test4">
+          <div id="outline">
             <p>{{ page.program-outline-text | markdownify}}</p>
 
           </div>
-          <div id="test5">
+          <div id="courses">
             {{ page.courses-body | markdownify }}
 
           </div>
-          <div id="test6">
+          <div id="requirements">
             {{ page.eligibility-requirements-body | markdownify }}
+          </div>
+          <div id="tuition">
+            {{ page.tuition-body | markdownify }}
           </div>
         </div>
        </div>
