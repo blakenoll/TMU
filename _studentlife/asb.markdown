@@ -155,15 +155,14 @@ talk-body: "Every year, as we experience life together at TMU, life can sometime
   so please feel free to contact us!\n\nOur hope is to encourage every person and
   distinct community at Master's to communicate more openly and lovingly. Together
   we strive for solutions that build our school and honor the Lord.\n\nYou can contact
-  us at:\\\n[g](mailto:fukudamd@mail.masters.edu)rimesds@mail.masters.edu\\\nasbmail@masters.edu\n\nPhone:
-  661-362-2835\n\n### Full Council Meetings\n\nAttendance is limited to ASB members,
-  club representatives, and any member of the Student Life Staff. If a non-ASB member
-  desires to attend a Full Council meeting, a written request must be submitted to
-  the Executive Council one week in advance of the meeting.\n\nTo see the guidelines
-  by which ASB operates, please see our full [Constitution and By-laws](http://www.masters.edu/media/43566/ASB%20Constitution%202011-2012.pdf
-  \"ASB Constituion 2011-2012\").\n\n### Full Council Meeting Schedule\n\nMondays
-  at 10:15pm  \\\nMacArthur Center Meeting Room   \\\nContact: [asbmail@masters.edu
-  \ ](mailto:asbmail@masters.edu)\\\n661-362-2835  "
+  us at:\n\nasbmail@masters.edu\n\nPhone: 661-362-2835\n\n### Full Council Meetings\n\nAttendance
+  is limited to ASB members, club representatives, and any member of the Student Life
+  Staff. If a non-ASB member desires to attend a Full Council meeting, a written request
+  must be submitted to the Executive Council one week in advance of the meeting.\n\nTo
+  see the guidelines by which ASB operates, please see our full [Constitution and
+  By-laws](http://www.masters.edu/media/43566/ASB%20Constitution%202011-2012.pdf \"ASB
+  Constituion 2011-2012\").\n\n### Full Council Meeting Schedule\n\nMondays at 10:15pm
+  \ \n\nMacArthur Center Meeting Room   \n\nContact: [asbmail@masters.edu  ](mailto:asbmail@masters.edu)\n\n661-362-2835"
 director-body: 
 layout: asb
 ---

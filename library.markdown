@@ -23,12 +23,11 @@ intelibraryloan-body: |-
 
   Interlibrary Loan (ILL) is a voluntary system of sharing materials between libraries. ILL provides access to items not currently available in our own library collection or not available in full-text through our online databases.
 
-  This service is available to all TMU students, faculty and staff who reside locally. Online Program students, Summer Institute Program students and Non TMU patrons, who hold a current TMU library card, should request ILL items through a local public library. International students may contact the Reference Librarian, Miss T., for other possible alternatives ([jtillman@masters.edu](mailto:jtillman@masters.edu))). Master's Seminary students must request ILL through The Master's Seminary Library.
+  This service is available to all TMU students, faculty and staff who reside locally. Online Program students, Summer Institute Program students and Non TMU patrons, who hold a current TMU library card, should request ILL items through a local public library. International students may contact the Reference Librarian, Miss T., for other possible alternatives ([jtillman@masters.edu](mailto:jtillman@masters.edu)). Master's Seminary students must request ILL through The Master's Seminary Library.
 
   ## Interlibrary Loan Manager
 
-  Grace Kamffer may be contacted by email.\
-  [gkamffer@masters.edu](mailto:gkamffer@masters.edu)
+  Grace Kamffer may be contacted by email [gkamffer@masters.edu](mailto:gkamffer@masters.edu)
 
   ## Requesting Material
 
@@ -240,7 +239,7 @@ general-use-policies-body: |-
 
   ## [Audio/Video Equipment](http://masters.libguides.com/welcome/libraryservices "Reciprocal Arrangements")
 
-  [DVD players are available for use in the library. Data Projectors are available for faculty and staff. All audio-video equipment must remain in the library at all times unless required for classroom use and reserved in advance. Reservations for data projectors may be made only by TMU faculty or staff for campus related activities. There is no pick up and delivery service available. Contact the circulation desk for further details on policy and procedure. In keeping with copyright law (Title 17 of the United States Code,), data projectors may not be used by anyone on campus except by faculty for in class related activities.](http://masters.libguides.com/welcome/libraryservices "Reciprocal Arrangements")
+  DVD players are available for use in the library. Data Projectors are available for faculty and staff. All audio-video equipment must remain in the library at all times unless required for classroom use and reserved in advance. Reservations for data projectors may be made only by TMU faculty or staff for campus related activities. There is no pick up and delivery service available. Contact the circulation desk for further details on policy and procedure. In keeping with copyright law (Title 17 of the United States Code,), data projectors may not be used by anyone on campus except by faculty for in class related activities.
 
   ## [Reciprocal Arrangements](http://masters.libguides.com/welcome/libraryservices "Reciprocal Arrangements")
 

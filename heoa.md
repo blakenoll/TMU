@@ -93,7 +93,7 @@ institutional-info-body: |-
 
   ### **[Seminary](https://www.tms.edu/academics/tuition-fee/ "TMS Tuition and Fees")**
 
-  * ### **[FERPA](http://www.masters.edu/ferpa-training.aspx "FERPA Training")**
+  * ### **[FERPA](/ferpa)**
 
   * ### **[Refund Policy and Requirements for Withdrawal and Return of Federal Financial Aid](http://www.masters.edu/academics/online-catalog.aspx "TMU On line Catalog")**
 

@@ -5,7 +5,6 @@ group: studentlife
 teams-body: |-
   The Master's University desires to provide each student with an opportunity to participate in and learn from the work of God in an overseas cross-cultural setting. Ministry opportunities are selected based on the following critical factors: partnership with a local church, evangelistic opportunities, vocational participation, length of service, and partnership with TMC alumni. Teams are formed at the end of the Fall semester, receive training during the spring semester, and serve overseas during the summer. All teams that minister through the Office of Global Outreach are led by students who are members of the Servant Leadership Staff.
 
-  \
   Each participant takes semester-long the Preparation for Global Outreach class (BMS312) trains students in theological, philosophical, and practical aspects of short term mission: theology of missions, cultural research methods, logistical details, team-building, and health and safety, among others.
 
   Global Outreach teams will be serving in the following countries during the summer of 2017:
@@ -71,7 +70,7 @@ travelars-health-body: |-
 
   ## U.S. Center for Disease Control Health Information
 
-  You can find out information about our destinations here: h[ttp://wwwnc.cdc.gov/travel/destinations/list/](http://wwwnc.cdc.gov/travel/destinations/list/)
+  You can find out information about our destinations here: [http://wwwnc.cdc.gov/travel/destinations/list/](http://wwwnc.cdc.gov/travel/destinations/list/)
 
   ## Travel Medicine Providers
 
@@ -79,10 +78,10 @@ travelars-health-body: |-
 
   The Office of Global Outreach recommends the following provider for complete travel medical advice and vaccinations:
 
-  WellnessMart\
-  1610 E. Thousand Oaks Blvd.\
-  Thousand Oaks, CA 91362\
-  \(805) 496-7148
+  WellnessMart
+  1610 E. Thousand Oaks Blvd.
+  Thousand Oaks, CA 91362
+  (805) 496-7148
 
   Many Walgreens, Costcos, and Walmarts also give regular vaccines.
 
@@ -136,7 +135,7 @@ travelars-health-body: |-
 
   * Poliovirus vaccine
 traveling-tips-body: |-
-  Here are some helpful websites to get you started as you plan for your international travel! Please note that these links are not sponsored or endorsed by TMC.
+  Here are some helpful websites to get you started as you plan for your international travel! Please note that these links are not sponsored or endorsed by TMU.
 
   ### Library Database
 
@@ -144,15 +143,11 @@ traveling-tips-body: |-
 
   Once on the Library Databases/Indexes page, search for "Global Road Warrior." Click database and search for your country.
 
-
-
   ### CDC Travelers' Health
 
   [www.cdc.gov/travel](http://www.cdc.gov/travel)
 
   The National Center for Disease Control provides health information for international travel. They have tips on recent outbreaks, vaccinations, safe food and water and information on specific destinations.
-
-
 
   ### Steve Kropla's Help for World Travelers!
 
@@ -160,14 +155,11 @@ traveling-tips-body: |-
 
   This site includes info on making international phone calls, telephone and electrical accessories, an international electrical plug guide and more. If you are wondering what electronics to bring, this site will be helpful.
 
-
   ### Trip Spot
 
   [tripspot.com/international](http://www.tripspot.com/international)
 
   Info on U.S. customs, travel warnings, metric conversions, etc. This page also allows you to search for travel info by region.
-
-
 
   ### Travel Channel Tips and Tools
 
@@ -175,13 +167,11 @@ traveling-tips-body: |-
 
   This site contains articles on security, money matters, currency conversion, travel news, measurement conversion and more.
 
-
   ### U.S. Department of State Bureau of Consular Affairs
 
   [travel.state.gov](http://travel.state.gov/)
 
   The U.S. government provides current headlines of world affairs and travel warnings. A good site for travel security and health.
-
 
   ### World Travel Guide Online
 
@@ -363,19 +353,24 @@ missions-resources-body: |-
 
   ## Recommended Resources:
 
-  Serving with Eyes Wide Open by David Livermore\
-  Your passport to learning how short-term missions can best serve Christ's kingdom. Short-term mission trips are great ways to impact the kingdom. Yet they can lack effectiveness because of mistakes or naivete on the part of participants. In this insightful and timely book, David A. Livermore calls us to serve with our eyes open to global and cultural realities so we can become more effective cross-cultural ministers. Serving with Eyes Wide Open is a must-have book for anyone doing a short-term mission or service project, whether domestic or overseas.
+  **Serving with Eyes Wide Open by David Livermore**
 
-  The Essential Guide to the Short Term Mission Trip by David C. Forward\
+  Your passport to learning how short-term missions can best serve Christ's kingdom. Short-term mission trips are great ways to impact the kingdom. Yet they can lack effectiveness because of mistakes or naïveté on the part of participants. In this insightful and timely book, David A. Livermore calls us to serve with our eyes open to global and cultural realities so we can become more effective cross-cultural ministers. Serving with Eyes Wide Open is a must-have book for anyone doing a short-term mission or service project, whether domestic or overseas.
+
+  **The Essential Guide to the Short Term Mission Trip by David C. Forward**
+
   A helpful and concise guide to the most essential preparatory aspects for a STM. This is the most holistic guide to determining whether to organize a STM all the way through the return. The narrative is easy to read and insightful. Chapters are organized chronologically through the process of leading a STM.
 
-  Stepping Out: A Guide to Short Term Missions by Tim Gibson, Steve Hawthorne, Richard Krekel, and Kn Moy.\
+  **Stepping Out: A Guide to Short Term Missions by Tim Gibson, Steve Hawthorne, Richard Krekel, and Kn Moy.**
+
   A compilation of short articles by numerous facilitators of STM. This is not a step by step guide for leaders but rather provides bite-size chunks of food for thought to team members. Recommended uses include assigning relevant chapters to team members for reading and discussion. Almost all chapters are less than 8 pages in length. Though some of the material is dated (published in 1992), the last section on returning home contains timeless principles for debriefing.
 
-  A Guide to Short Term Missions by H. Leon Greene\
+  **A Guide to Short Term Missions by H. Leon Greene**
+
   The main chapters of this book contain helpful material, but the real benefit of this resource is found in the appendix. The author is a medical doctor with extensive experience on medical ministry trips. His quick reference guide to illnesses, diseases and immunizations is a helpful introduction to the uninitiated lay leader. Overall, this is a good supplemental resource, but not a comprehensive guide as the title indicates.
 
-  Short-term Missions Workbook by Tim Dearborn\
+  **Short-term Missions Workbook by Tim Dearborn**
+
   A pre-field curriculum for teams to work through individually and as a group. This resource helps a leader prepare a team in cross-cultural communication, team dynamics, and spiritual readiness for the mission ministry. The author does an excellent job of rooting the principles he is communicating in scripture and calling the team member to dig and reflect on his own. Even if not used as a curriculum for a team, STM leaders may find the group exercises for team development and the bible studies fodder for team devotions.
 
   ## Bibliography of Resources:
@@ -414,9 +409,9 @@ application-body: |-
 
   \*Please note that completing an application does not guarantee a place on a team.
 faq-body: |-
-  What is the priority deadline for applying to join a Global Outreach team?
+  ### What is the priority deadline for applying to join a Global Outreach team?
 
-  December 5, 2016.
+  December 5, 2017.
 
   ### Can I apply for a Global Outreach team after the deadline?
 

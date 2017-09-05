@@ -28,58 +28,43 @@ military-student-body: |-
 
   The Master's University has developed relationships, or "Cross-Town Agreements," with ROTC detachments at other nearby major state universities. These agreements allow students to attend The Master's University full-time while participating in ROTC at another local school. TMU students participating in ROTC may qualify for competitive scholarships covering up to full tuition. For a list of our affiliated schools and more information about ROTC, please click [here](http://www.masters.edu/student-life/student-advancement/military-students/rotc/).
 
-  To contact the Military Student Advancement Office you may call 661-362-2814, or send an e-mail to [military@masters.edu](mailto: military@masters.edu).
-military-resources-body: |-
-  Veterans Affairs Resources
-
-  [VA Education Benefits - Home Page\
-  ](http://www.benefits.va.gov/gibill/education_programs.asp)[VA Form Finder](http://www.va.gov/vaforms/)[\
-  ](http://www.benefits.va.gov/gibill/education_programs.asp)[Vocational Rehabilitation and Employment (VR&E) - Home Page](http://www.benefits.va.gov/vocrehab/index.asp)[\
-  ](http://www.benefits.va.gov/gibill/education_programs.asp)[California Veteran's Resource Book (2016)\
-  ](https://www.calvet.ca.gov/VetServices/Documents/Veteran_%20Resource_%20Book_2016.pdf)[eBenefits - Home Page](https://www.ebenefits.va.gov/ebenefits/homepage)[\
-  ](http://www.benefits.va.gov/gibill/education_programs.asp)[Joint Services Transcript (JST)](https://jst.doded.mil/smart/signIn.do)
-
-  ## Post-9/11 GI Bill (Chapter 33)
-
-  [Chapter 33: Pamphlet](http://www.benefits.va.gov/gibill/docs/pamphlets/ch33_pamphlet.pdf)\
-  [Yellow Ribbon Program\
-  ](http://www.benefits.va.gov/gibill/yellow_ribbon.asp)[GI Bill Benefits Calculator](https://www.vets.gov/gi-bill-comparison-tool)
-
-  ## ROTC
-
-  ### National ROTC Websites
-
-  [Army ROTC](http://www.goarmy.com/rotc)\
-  [Air Force ROTC](http://www.afrotc.com/)
-
-  ### Local ROTC Units
-
-  Air Force ROTC\
-  [AFROTC Detachment 040](http://academics.lmu.edu/afrotc/) (LMU)\
-  [AFROTC Detachment 055](http://www.afrotc.ucla.edu/) (UCLA)\
-  [AFROTC Detachment 060](http://www.usc.edu/dept/afrotc/) (USC)
-
-  Army ROTC\
-  [AROTC Bruin Battalion](http://www.milsci.ucla.edu/) (UCLA)\
-  [AROTC Bruin Battalion](http://www.milsci.ucla.edu/) (CSUN - a branch of UCLA)
-
-  To contact the Military Student Advancement Office you may call 661-362-2814, or send an e-mail to [military@masters.edu](mailto: military@masters.edu).
+  To contact the Military Student Advancement Office you may call 661-362-2814, or send an e-mail to \[military@masters.edu\](mailto: military@masters.edu).
+military-resources-body: "Veterans Affairs Resources\n\n[VA Education Benefits - Home
+  Page\n](http://www.benefits.va.gov/gibill/education_programs.asp)\n\n[VA Form Finder](http://www.va.gov/vaforms/)\n\n(http://www.benefits.va.gov/gibill/education_programs.asp)[Vocational
+  Rehabilitation and Employment (VR&E) - Home Page](http://www.benefits.va.gov/vocrehab/index.asp)\n\n(http://www.benefits.va.gov/gibill/education_programs.asp)[California
+  Veteran's Resource Book (2016)\n](https://www.calvet.ca.gov/VetServices/Documents/Veteran_%20Resource_%20Book_2016.pdf)[eBenefits
+  - Home Page](https://www.ebenefits.va.gov/ebenefits/homepage)\n\n(http://www.benefits.va.gov/gibill/education_programs.asp)[Joint
+  Services Transcript (JST)](https://jst.doded.mil/smart/signIn.do)\n\n## Post-9/11
+  GI Bill (Chapter 33)\n\n[Chapter 33: Pamphlet](http://www.benefits.va.gov/gibill/docs/pamphlets/ch33_pamphlet.pdf)\n\n[Yellow
+  Ribbon Program\n](http://www.benefits.va.gov/gibill/yellow_ribbon.asp)[GI Bill Benefits
+  Calculator](https://www.vets.gov/gi-bill-comparison-tool)\n\n## ROTC\n\n### National
+  ROTC Websites\n\n[Army ROTC](http://www.goarmy.com/rotc)\n[Air Force ROTC](http://www.afrotc.com/)\n\n###
+  Local ROTC Units\n\nAir Force ROTC\n\n[AFROTC Detachment 040](http://academics.lmu.edu/afrotc/)
+  \n\n(LMU)\n[AFROTC Detachment 055](http://www.afrotc.ucla.edu/)(UCLA)\n[AFROTC Detachment
+  060](http://www.usc.edu/dept/afrotc/) (USC)\n\nArmy ROTC\n[AROTC Bruin Battalion](http://www.milsci.ucla.edu/)
+  (UCLA)\n\n[AROTC Bruin Battalion](http://www.milsci.ucla.edu/) (CSUN - a branch
+  of UCLA)\n\nTo contact the Military Student Advancement Office you may call 661-362-2814,
+  or send an e-mail to [military@masters.edu](mailto: military@masters.edu)."
 ROTC-body: |-
   Cross-Town Agreements
 
   The Master's University has developed relationships, or "Cross-Town Agreements" with other major state universities. These agreements are designed to give students the opportunity to join ROTC while studying full-time at The Master's University. Below is a list of ROTC units that TMU has agreements with:
 
-  Air Force ROTC\
-  [AFROTC Detachment 040](http://academics.lmu.edu/afrotc/) (LMU)\
-  [AFROTC Detachment 055](http://www.afrotc.ucla.edu/) (UCLA)\
+  Air Force ROTC
+  [AFROTC Detachment 040](http://academics.lmu.edu/afrotc/) (LMU
+
+  [AFROTC Detachment 055](http://www.afrotc.ucla.edu/) (UCLA)
+
   [AFROTC Detachment 060](http://www.usc.edu/dept/afrotc/) (USC)
 
-  Army ROTC\
-  [AROTC Bruin Battalion](http://www.milsci.ucla.edu/) (UCLA)\
+  Army ROTC
+  [AROTC Bruin Battalion](http://www.milsci.ucla.edu/) (UCLA)
+
   [AROTC Bruin Battalion](http://www.milsci.ucla.edu/) (CSUN - a branch of UCLA)
 
-  National ROTC Websites\
-  [Air Force ROTC](http://www.afrotc.com/)\
+  National ROTC Websites
+  [Air Force ROTC](http://www.afrotc.com/)
+
   [Army ROTC](http://www.goarmy.com/rotc.html)
 
   ## Specific Information about ROTC and Scholarships
@@ -172,22 +157,27 @@ multicultural-students:
 
     ### To enroll students from ethnically and culturally diverse contexts:
 
-    Recruiting students of color and students from other underrepresented groups\
-    Assisting prospective “minority” students considering study at TMU\
-    Providing academic advising and student advocacy\
+    Recruiting students of color and students from other underrepresented groups
+
+    Assisting prospective “minority” students considering study at TMU
+
+    Providing academic advising and student advocacy
+
     Helping with the procurement of scholarship and sponsorship grant monies
 
     ### To share cultural experience(s) and insight with the student body that will assist in:
 
-    Creating a supportive campus culture, through culturally relevant programs and events\
-    Strengthening cross-cultural relationships\
+    Creating a supportive campus culture, through culturally relevant programs and events
+
+    Strengthening cross-cultural relationships
+
     Cultivating awareness and sensitivity related to issues of culture and ethnicity
 
     ## Our Method:
 
     As a hybrid office between the Student Life and Admissions departments, MCSA specializes in both the recruitment and retention of students from among the diverse cultural contexts within the United States. Focusing on urban centers and the inner city, we seek to establish relationships with churches and leaders in these communities that will assist us in identifying “mission-match” recruits for TMU, while developing culturally applicable programming and social support for the underrepresented student population of our school.
   programs-body: |-
-    C3Unity- Student led club
+    ## C3Unity- Student led club
 
     Founded on the premise of Colossians 3:11- “Here there is not Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave, free; but Christ is all, and in all”, C3Unity works to grow interpersonal relationships on campus and promote genuine Christian unity among the students of TMU. The club gives students an opportunity to interact and network with others from diverse contexts as well as to learn how they can live as effective Christian witnesses in a multicultural environment on the campus of TMU and around the world. Throughout the year C3Unity organizes events, field trips, forums, and workshops alongside the Student Life Staff, Associate Academic Dean, and Faculty. Be a part of [C3Unity - Join the Facebook Group](https://www.facebook.com/groups/220366394683071/ "C3Unity on Facebook")
 
@@ -205,19 +195,19 @@ multicultural-students:
 
     ## The Multicultural Student Advancement office also serves TMU through:
 
-    ### The recruiting and acquisition of students from ethnically and culturally diverse contexts
+    The recruiting and acquisition of students from ethnically and culturally diverse contexts
 
-    ### The procurement of scholarship and sponsorship monies
+    The procurement of scholarship and sponsorship monies
 
-    ### Academic advising and student advocacy
+    Academic advising and student advocacy
 
-    ### The coordinating of campus wide educational workshops/seminars
+    The coordinating of campus wide educational workshops/seminars
 
-    ### Referrals to urban and ethnic church and community outreach organizations
+    Referrals to urban and ethnic church and community outreach organizations
 
-    ### The development of culturally applicable programming and social support of underrepresented students
+    The development of culturally applicable programming and social support of underrepresented students
 
-    ### Student organization involvement
+    Student organization involvement
 layout: studentadv
 ---
 
