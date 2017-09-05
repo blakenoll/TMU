@@ -422,7 +422,6 @@ studentCompModules:
     ## Remote Support
 
     If you are currently receiving help with your issue from a Service Desk technician and they request that you download the remote support tool, you can do so by clicking on the button below.\
-    \
 
     [![](https://athletics.masters.edu/media/866025/remote-support-button.png?width=234&height=60)](https://get.teamviewer.com/masters "Remote Support Download")
 
@@ -435,7 +434,426 @@ studentCompModules:
     Email: [servicedesk@masters.edu](mailto:servicedesk@masters.edu)
 
     Phone: 661.362.2876
-Field name: 
+Faculty Modules:
+- title: Computer and Software Discounts
+  body: |-
+    The following page contains special offers and discounts that are available to TMU-TMS students, faculty and staff. This information is provided for your convenience. Computer Services does not promote any particular vendor over another and is not responsible for any issues related to orders you place. Items purchased here are for personal use only. TMU faculty and staff requiring hardware and software for TMU use should contact the IT Service Desk.
+
+    ### [Microsoft Office](http://www.office.com/getoffice365 "Microsoft Office 365")
+
+    Microsoft provides a subscription to Office 365 Education for free for students of The Master's University. This plan allows students to install Word, Excel, Powerpoint, Outlook, Onenote, Publisher, and Access on up to five PCs or Macs and Office apps on other mobile devices as well as serveral other features. To take advantage of this opportunity, go to [www.office.com/getoffice365](http://www.office.com/getoffice365 "Microsoft Office 365") and click on the Eligibility button, then enter your TMU student email address
+
+    ### [Apple Education Discounts](http://store.apple.com/us_edu_270448 "Apple Education Discounts")
+
+    Information on Apple® Education Discounts for personal purchases of Mac hardware and software can be found at: [http://store.apple.com/us_edu_270448](http://store.apple.com/us_edu_270448)
+
+    *\*Be sure to check out the Refurbished Macs and iPods in the Special Deals section of the Apple Store. You will find excellent deals and prices here. Inventory is often restocked several times a week and they operate on a first come, first served basis.*
+
+    ### \
+     [Dell Education Pricing](http://www.delloutlet.com/ "Dell Outlet")
+
+    Academic pricing is available from Dell® for TMU students, faculty and staff wishing to make personal purchases. Additionally, great deals can be found every day at the Dell® Outlet. For more information, please visit [www.delluniversity.com](http://www.delluniversity.com/) and [www.delloutlet.com.](http://www.delloutlet.com/)\
+    \
+    *\*Dell's business line of machines (Lattitude Notebooks and Optiplex Desktops) carry a higher level of warranty service than their consumer line and is often included in the price. Notebook users should consider an accidental damage warranty.*
+
+    ### [JourneyEd](http://www.journeyed.com/ "Journey Ed")
+
+    Academic software, including Microsoft and Adobe products and hardware discounts for students, faculty, and staff personal purchases, can be found at www,journeyed.com. For more information, please visit www.journeyed.com/select
+
+    ### Other Discounts
+
+    Other general discounts on hardware, software, and accessories can be found below. There are no specific TMU discounts, but prices are usually greatly discounted. Please note that these sites are provided for your convenience. Computer Services does not endorse one vendor over another and is not responsible for any issues with your purchase.
+
+    ### [![](https://athletics.masters.edu/media/865749/amazon-logo.jpg?width=33px&height=37px) ](http://www.amazon.com/ "Amazon")![](https://athletics.masters.edu/media/865750/crucial-logo.jpg?width=68px&height=20px) [![](https://athletics.masters.edu/media/865751/newegg.jpg?width=67px&height=28px)](http://www.newegg.com/ "NewEgg") [![](https://athletics.masters.edu/media/865752/tiger-direct.jpg?width=67px&height=29px)](http://www.tigerdirect.com/ "TigerDirect")
+- title: Email Tips
+  body: |-
+    Faculty and Staff E-mail Tips
+
+    ## How to Access TMU Email via Outlook
+
+    You can access your TMU email through the Outlook Client on your work computer. Outlook is very powerful as it allows you to:
+
+    * Access email
+
+    * Create and share calendars
+
+    * Manage contacts
+
+    * Handle tasks
+
+    These features can be accessed by clicking on the respective buttons in the bottom left-hand corner.
+
+    ![email menu screenshot.png](https://athletics.masters.edu/media/771859/email%20menu%20screenshot.png)
+
+    ## How to Access TMU Email Online
+
+    On occasion, you may need to access your Master’s email on a non-TMU computer. You can do this by accessing your email via the Outlook Web Client. The following instructions outline how to navigate to your TMU web email inbox:
+
+    1\. Navigate to The Master's University homepage.
+
+    2\. Click on the"Resources" tab in the top right corner.
+
+    ![](https://athletics.masters.edu/media/866003/resources-tab.png?width=500&height=48.938134810710984)
+
+    3\. Click on the "Email" button.
+
+    ![](https://athletics.masters.edu/media/866004/email-button.png?width=86px&height=107px)
+
+    4\. This will take you to Office 365. On the left you should see a picture of pacific coast highway. On the right you will see a place to log in.
+
+    5\. Enter your credentials and select "Log On."
+
+    If you get locked out of your email, see the [Network account Lockout Policy](https://athletics.masters.edu/%7BlocalLink:21952%7D "networklockout") for more details.
+
+    ## [Outlook Calendar and Scheduling Tutorial](https://athletics.masters.edu/%7BlocalLink:22116%7D "OutlookCalendarandScheduling")
+
+    *Click on the above link for the following:*
+
+    * Outlook Calendar overview
+
+    * Scheduling meetings
+
+    ## [Email Settings Tutorial](https://athletics.masters.edu/%7BlocalLink:22117%7D "EmailSettings")
+
+    *Click on the above link for the following:*
+
+    * Creating contact groups
+
+    * Email Signature policy
+
+    * Setting automatic replies
+
+    * Handling spam
+
+    * Adding an email inbox
+
+    ## [Mailbox Size Tutorial](https://athletics.masters.edu/%7BlocalLink:22118%7D "MailboxSize")
+
+    *Click on the above link for the following:*
+
+    * Cleaning up your mailbox
+
+    * Checking mailbox size
+
+    * Sorting emails by size
+
+    ## [Email Set-up for Mobile Devices Tutorial](https://athletics.masters.edu/%7BlocalLink:22103%7D "Mobile Device Tutorials")
+
+    *Click on the above link for the following:*
+
+    * Mobile email for iPhone
+
+    * Mobile email for Android
+- body: |-
+    Faculty and Staff Printing and Copying
+
+    ### Printer Toner and Supplies:
+
+    Click the button below to fill out a form requesting printer and copier toner and supplies such as staples and waste cartridges.\
+
+    [![](https://athletics.masters.edu/media/865980/toner-request-form.png?width=252&height=55)](http://goo.gl/forms/Km7i2ZFIlq "Toner Request Form")
+
+    When you receive a low toner message, you will have approximately 500 pages left before the toner runs out. Departments will be responsible to pick up a replacement toner from IT Operations and replace their old toner. You can replace the toner by following the simple directions on the toner cartridge box. If you have any questions, please contact the IT Operations service desk for assistance.
+
+    ### [Copy Center Information](http://www.masters.edu/campuslinks/computerservices/facstaffcompinfo/staffprinting/copycenter/)
+
+    Check here to found out the hours and location of the staff copy center, costs, and other copy center information.
+
+    ### [Campus Copier Tutorials ](http://www.masters.edu/campuslinks/computerservices/facstaffcompinfo/staffprinting/copiertutorials/)\
+
+    Access Sharp’s online tutorials for troubleshooting and information on how to use the copier features.
+  title: Staff Printing
+- body: |-
+    ## Using Google Drive
+
+    ## What is Google Drive?
+
+    The Master's University provides the Google Drive software to deliver network storage for users’ TMU-related documents, replacing the individual user U: drives or SugarSync accounts. Google Drive gives users local access to their TMU documents while ensuring cloud network storage for data security and file backup.
+
+    ## Which files are backed up on Google Drive?
+
+    Any folders created on the Desktop of your computer will be set to backup with Google Drive. Placing a shortcut on the Desktop will not back up the actual files to which the shortcut is pointing.
+
+    ## Google Drive Policies and Procedures
+
+    The use of this software is governed by TMU IT Operation and is subject to the following restrictions and policies below. Agreement with the TMU Google Drive Policy indicates agreement to all of the following terms.
+
+    ### TMU Staff
+
+    1\. IT Operations is not responsible for any lost data not backed up correctly in the Google Drive folder.
+
+    2\. Employees take full responsibility to store their critical documents in the proper location on their devices to ensure successful backup. Any directories or files created on a system's desktop folder will be backed up through Google Drive.
+
+    3\. Employees may not store documents that contain sensitive data, such as Social Security Numbers, in Google Drive folders. These documents must be stored on TMU network drives.
+
+    4\. Employees may not synchronize TMU Google Drive data to personal computers.
+
+    5\. Employees are permitted to use Google Drive's mobile applications to access TMU data. If an employee accesses TMC data through their mobile device, the device must be secured with a PIN. In the event of mobile deice theft, employees must immediately wipe the device and contact the IT Service Desk.
+
+    6\. Department drive data may only be shared with TMU employee Google Drive accounts.
+
+    ### TMU Faculty
+
+    1\. IT Operations is not responsible for any lost data not backed up correctly in the Google Drive folder.
+
+    2\. Faculty take full responsibility to store their critical documents in the proper location on their devices to ensure successful backup. Any directories or files created on a system's desktop folder will be backed up through Google Drive.
+
+    3\. Faculty may not store documents that contain sensitive data, such as Social Security Numbers, in Google Drive folders. These documents must be stored on TMU network drives.
+
+    4\. Faculty that chooses to synchronize TMU Google Drive data to personal devices take full responsibility for data loss or corruption.
+
+    5\. Faculty are permitted to use Google Drive's mobile applications to access TMU data.
+
+    6\. Department drive data may only be shared with TMU employee Google Drive accounts.
+
+    7\. TMU IT storage mechanisms for faculty data are optional and are provided as a convenience for faculty that wish to utilize them.
+
+    8\. Faculty who choose to not use our cloud storage solution (and abide by our policies) take full responsibility for their data. Ultimately, any loss or corruption of data is their responsibility as their is no way for TMU IT to enforce proper data storage practices.
+
+    9\. Faculty who choose to not use our cloud storage solution must disclose any non-academic data that they are working with and ensure this data is being handled inline with TMU IT data policies. An example of this type of data would be enrollment related data.
+
+    10\. Faculty take full responsibility for FERPA violations incurred through improper data handling.
+
+    ## Tutorials
+
+    * [Google Drive Help Center](https://support.google.com/drive/?hl=en#topic=14940 "Google Drive Help Center")
+  title: Google Drive
+- body: |-
+    Mobile Devices
+
+    ## Connecting personal devices to the TMU wireless network
+
+    IT Operations does not support the connection and or use of personally owned PCs, computer devices and peripherals on the TMU wireless network for faculty and staff. This includes personally owned desktops, notebooks, printers, scanners, tablets, Blackberry devices, iPhones, and other smart phones. All supported PCs, computer devices and or peripherals for faculty and staff use must be approved and purchased through IT Operations There are no exceptions.
+
+    Faculty and staff may attempt on their own efforts to connect to the TMU wireless network with their personal notebook, tablet, or smartphone. However, they should be aware that they will not receive additional support by IT Operations, and face the possibility of losing wireless connectivity at home after connecting to the TMU wireless network due to possible conflicts in wireless configuration. IT Operations does not offer technical assistance to resolve home wireless issues.
+
+    ## [Mobile Device Policies](https://athletics.masters.edu/%7BlocalLink:22102%7D "MobileDevicesPolicy")
+
+    * Troubleshooting
+
+    * Network backup
+
+    * Liability
+
+    * Mobile email
+
+    ## [Mobile Email Tutorials](https://athletics.masters.edu/%7BlocalLink:22103%7D "Mobile Device Tutorials")
+
+    * Staff email for iPhone
+
+    * Staff email for Android
+
+    * Connecting to campus Wi-Fi
+  title: Mobile Devices
+- body: |-
+    ### Microsoft Unified Messaging
+
+    For more information about the many functions available with Microsoft Unified Messaging, click on the following links:
+
+    * [Download TMU Unified Messaging Quick Reference](http://www.masters.edu/w/GetHostedFile.ashx?TMC\+UM\+Quick\+Reference.pdf&Id=187)
+
+    * [Download Outlook Voice Access Detailed Commands Guide](http://www.masters.edu/w/GetHostedFile.ashx?Outlook\+Voice\+Access\+User\+Interfaces.pdf&Id=186)
+
+    * [Download Outlook Voice Access Flow Chart](http://www.masters.edu/w/GetHostedFile.ashx?Outlook\+Voice\+Access\+--\+QuickStart.pdf&Id=185)
+
+    ### Cisco IP Phone Login Page
+
+    Visit the[Cisco Unified CM User Options](https://phones.masters.edu/ucmuser/)page to change the settings for your office phone. You will be able to update the text that appears next to each phone line, your phone login password, and line forwarding. Use your TMU username and password to log in. If you have not accessed this page before, your password may be set to default. Please contact the IT Service Desk at [servicedesk@masters.edu](mailto:helpdesk@masters.edu)or 661.362.2876 if you need assistance logging into the page.
+
+    ### Cisco IP Phone Tutorials
+
+    Below you will find links to several interactive Cisco IP Phone tutorials by model number. The model number for your phone is located above the screen in the upper right hand corner.
+
+    * [7941 IP Phones](http://www.cisco.com/comm/applications/CCNP/qlm/7941/index.htm)
+
+    * [7961 IP Phones](http://www.cisco.com/comm/applications/CCNP/qlm/7961/index.htm)
+
+    * [7965 IP Phones](https://www.youtube.com/watch?v=_aiZJjKp4B4)
+
+    * [8945 IP Phones](https://www.youtube.com/watch?v=6L8eQlzVEFs)
+
+    * Download [7961/7941 IP Phone Manual](http://www.masters.edu/w/GetHostedFile.ashx?PhoneManual.pdf&Id=188)
+
+    * Download [7965 IP Phone Manual](http://ciscouserguide.com/cisco-ip-phone-7965-user-guide/)
+
+    * Download [8945 IP Phone Manual](http://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cuipph/8941_8945/8_5/english/user-guide/8941_8945enu.pdf)
+  title: Unified Messaging
+- body: |-
+    Content Management
+
+    ## What is Content Management?
+
+    Content Management is a web based system that contains many of the specialized tools that you need to be able to work. Depending on the nature of your work, your access to tools may vary. The following instructions outline how to navigate to Content Management:
+
+    1\. Navigate to The Master's University homepage.
+
+    2\. Click on the "Resources" tab on the top toolbar.
+
+    ![](https://athletics.masters.edu/media/865850/resources-tab.jpg?width=385&height=50)
+
+    3\. Click on the "Faculty/Staff" button.
+
+    ![](https://athletics.masters.edu/media/865848/facultystaff.jpg?width=76px&height=96px)
+
+    4\. Click on the "Content Management" button.
+
+    ![](https://athletics.masters.edu/media/865849/content-management.jpg?width=180px&height=146px)
+
+    5\. Enter your credentials and select "Log on."
+
+    ## How do I use Content Management?
+
+    Tools will appear on the left-hand side of the screen. Some common tools include:
+
+    * Plant Ops Work Requests
+
+    * Room Requests
+
+    * Student Queries
+
+    * Building Access
+
+    * Telephone Directory
+
+    * TMU Facebook
+
+    * TMU Swapmeet
+
+    ## Where do I go for technical assistance?
+
+    If you are unable to log in or are unable to access the tools that you need, please contact the Service Desk for technical support.
+  title: Content Managment
+- body: |-
+    Self-Service
+
+    ## What is Self-Service?
+
+    Self-Service is a web-based system that allows Faculty to advise students and manage information. The following instructions outline how to navigate to Self-Service:
+
+    1\. Navigate to The Master's University homepage.
+
+    2\. Click on the gold "Resources" tab.
+
+    ![](https://athletics.masters.edu/media/866003/resources-tab.png?width=500&height=48.938134810710984)
+
+    3\. Click on the "Self-Service" button.
+
+    ![](https://athletics.masters.edu/media/866061/self-service.png?width=75px&height=95px)
+
+    4\. Enter your Login Credentials and press "Log In."
+
+    How do I use Self-Service?
+
+    Once you log into Self Service, you will see a list of options under "Faculty." These options include:
+
+    * Course Assessment – allows you to evaluate courses you have taught
+
+    * Advise Students – allows you to login as the student to view his cart, schedule, or to add/remove classes
+
+    * Student Advising – allows you to look up information about students you are advising.
+
+    ## How do I access student advisees on Self-Service?
+
+    1\. Navigate to www.masters.edu/selfservice
+
+    2\. Enter your Faculty/Staff username and password
+
+    3\. On the Self-Service home page, under "Faculty," select "Student Advising"
+
+    ## ![self-service faculty screen shot.png](https://athletics.masters.edu/media/771835/self-service%20faculty%20screen%20shot.png)
+
+    4\. Pm the "Manage Advisees" page, you can search for either a current or previous advisee by entering the student's name or ID. If you are searching for a current advisee, be sure to select "My Advisees" from the drop down list
+
+    ## ![self-service advisees screen shot.png](https://athletics.masters.edu/media/771830/self-service%20advisees%20screen%20shot_500x165.jpg)
+
+    *NOTE: If the advisee list is out of date, you will need to contact either Software Development or Donna Henderson.*
+  title: Self Service
+- body: |-
+    Office Phones
+
+    ## How to Use the Phone
+
+    You can access a link to full online video tutorials on our website at [www.masters.edu/voicemail](http://www.masters.edu/voicemail).
+
+    ## How to Search for an Extension
+
+    1. On your phone, select "Directories."
+
+    2. Select "Corporate Directory."
+
+    3. Enter either the first or last name of the person you are looking for in the space provided.
+
+    ## How to Setup Your Voicemail
+
+    You will receive an email from "Microsoft Exchange Unified Messaging,"which will contain your new extension and PIN number. You will need this information in order to setup or change your voicemail.
+
+    1. On your phone, select your line and press the "Messages" button.
+
+    2. Enter your four digit PIN and press #.
+
+    3. You will then be walked through the process of setting up your voicemail. You may hang up when you are done recording.
+
+    For more information about your voicemail account and to view Cisco Phone tutorials by model number, [click here](https://athletics.masters.edu/%7BlocalLink:21786%7D "Unified Messaging").
+
+    ## How to Change Your Ringtone
+
+    1. On your phone, press the "Settings" button.
+
+    2. Select "User Preferences."
+
+    3. Select "Rings."
+
+    4. Navigate to your extension and press "Select."
+
+    5. Choose the ringtone you want. To listen to it, press "Play." To apply it, press "Select."
+
+    ## How to Calibrate Your Headset
+
+    If you are using a headset and need to recalibrate it, call 1-866-210-2157. A recording will walk you through how to calibrate your headset.
+
+    ![phone pic.jpg](https://athletics.masters.edu/media/772037/phone%20pic_300x246.jpg)
+
+    ## How to Do a Conference Call
+
+    1. Place a call to the initial party.
+
+    2. Once the call is placed, press the button that corresponds with the “More” option on the screen.
+
+    3. In the menu, use the arrow pad to select “Conference.”
+
+    4. Dial in the third party.
+
+    ## How to Forward Office Calls to Your Cellphone
+
+    1. Select the "CFwdALL" button on the main screen of your phone.
+
+    2. Enter “9 \+ your cellphone number.”
+  title: Office Phones
+- body: |-
+    The telephone list is no longer available, but employees can find employee extensions through the office phone directory.
+
+    ![](https://athletics.masters.edu/media/866162/phone_instructions.jpg?width=500&height=297.68270944741533)
+  title: Corporate Directory
+- body: |+
+    Laptop Loaner Program
+
+    The Master's University IT Operations Department offers a Laptop Loaner Program to faculty and staff members who need a laptop temporarily for a special event or assignment. All laptop requests must be submitted at least three days in advance and approved by the IT Operations Department. This program is available only for faculty and staff and not for students or interns. Please fill out the form below, including the dates that you will need the laptop. A definite return date is required.
+
+    [Loaner Request Form](https://docs.google.com/a/masters.edu/forms/d/15pcUhCed2wVf3Xkg-8X-h2Mg2rmvOCKnFBQ_DELbAI8/viewform)
+
+    Please Provide:
+
+    * Name and TMU username
+
+    * Contact information
+
+    * Reason for loan request
+
+    * Specific requirements (i.e. CD/DVD drive, software, printers, remote desktop connection)
+    * Pickup and return dates
+
+
+  title: Laptop Loaner Program
 ---
 
 ## Welcome to IT Operations
