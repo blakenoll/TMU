@@ -2,7 +2,6 @@
 title: Student Resources
 sm-image: "/uploads/AcademicsOnline_StudentResources.png"
 level: online
-layout: studentresources
 policies-body: |-
   <h1 style="text-align: center;">Financial Information</h1>\
   <h2>Student Accounts</h2>\
@@ -110,7 +109,7 @@ register-body: |-
 
   * Online Degree Students (Financial Aid / Military Students) - please follow these specific [Instructions](http://www.masters.edu/media/869928/olp-registration-instructions-summer-2017.pdf "OLP Registration Instructions - Summer 2017.pdf") for registering for an Online Course
 
-  * TMU Online Students - please follow these specific [Instructions](http://www.masters.edu/media/869929/tmu-online-registration-instructions-summer-2017.pdf "TMU Online Registration Instructions - Summer 2017.pdf") for registering for a course\
+  * TMU Online Students - please follow these specific [Instructions](http://www.masters.edu/media/869929/tmu-online-registration-instructions-summer-2017.pdf "TMU Online Registration Instructions - Summer 2017.pdf") for registering for a course
 
   * Traditional Students - for summer courses please contact our office by email at tmuonline@masters.edu or by phone at 877-302-3337 and we will assist your in registering for those courses
 tuition-body: |-
@@ -196,6 +195,7 @@ tuition-body: |-
   <h3>Graduate Degrees</h3>\
   <p><a href="/media/870294/tuitionfees_mba_olp_fa2017.pdf" title="Tuition&amp;Fees_MBA_OLP_FA2017.pdf">Master of Business Administration</a></p>\
   <p><a href="/media/870291/tuitionfees_mabs_olp_fa2017.pdf" title="Tuition&amp;Fees_MABS_OLP_FA2017.pdf">Master of Art Biblical Studies</a></p>
+layout: studentresources
 ---
 
 **We are so proud of your progress in laboring to attain an education from a Biblical worldview! We recognize that you have made sacrifices to be here and pray that you will glean both knowledge and truth from your courses.**
