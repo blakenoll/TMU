@@ -232,5 +232,31 @@ framework-body: |-
   * BC593: Advanced Counseling Internship (2)
 
   * BC598: Thesis Research (2)
+tuition-body: |-
+  **Costs**
+
+  In general, the costs that should be considered for the MABC program at TMU are as follows:
+
+  * **$435**/credit hour |** 34** credit hour program | **$14,790** total tuition
+
+  * **\~$1,500** for books and materials (including required Bible software program & *Journal of Biblical Counseling *subscription/archive)
+
+  * **$50** one-time application fee
+
+  * **$15 **library fee/semester and **$20 **parking permit/semester (when using a car on campus)
+
+  * **$495/**week for meals and housing for traveling distance students in the summer semesters
+
+  * Unknown travel or relocation expenses you may incur for the program
+
+  **Scholarships**
+
+  For the Master of Arts in Biblical Counseling (MABC) program, scholarships are provided through the Graduate Studies department directly, not through our Financial Aid office. Scholarships are awarded semester by semester, so anyone who wants a scholarship must apply each semester. Because scholarship funds are provided directly from our department, they are limited. Therefore, we necessarily will prioritize full-time students, and often those who are in the latter portions of the degree. In this way, scholarship applications are considered on the basis of a combination of academic performance, financial need, and ministry potential. Additionally, we do not grant scholarships to students who take only 1-2 classes per semester. Instead, we prioritize students who commit themselves to 3-4 classes each semester.
+
+  If you would like a scholarship form, you may contact our department at graduatestudies@masters.edu or 661-362-2652. Assuming you are admitted to the program and have filled out the form, you can send it back to us at the email address. After you have turned in your scholarship form, questions regarding your scholarship status for the current semester should be directed to our program director, Jeff Miller (jlmiller@masters.edu; 661-362-2644).
+
+  **Financial Aid**
+
+  While scholarships are exclusively provided through the Office of Graduate Studies, financial aid and government loans can be sought through the Office of Financial Aid at The Master’s University (TMU). If you would like to pursue government aid or loans, you may correspond with our financial aid representative – Ryan Wethern (661-362-2292; rwethern@masters.edu) – in the Financial Aid Department at TMU. He will help you pursue the best course of action for your financial situation.
 ---
 
