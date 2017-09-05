@@ -409,9 +409,9 @@ application-body: |-
 
   \*Please note that completing an application does not guarantee a place on a team.
 faq-body: |-
-  What is the priority deadline for applying to join a Global Outreach team?
+  ### What is the priority deadline for applying to join a Global Outreach team?
 
-  December 5, 2016.
+  December 5, 2017.
 
   ### Can I apply for a Global Outreach team after the deadline?
 
