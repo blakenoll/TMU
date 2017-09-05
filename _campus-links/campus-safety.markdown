@@ -94,7 +94,7 @@ In the event of a life threatening emergency, faculty, staff, and students regis
 
 ## Active Shooter Training
 
-The following video presentation (TMU LOGIN REQUIRED) is provided as a service to the campus community:[ Active Shooter Training Presentation.](https://mix.office.com/watch/d8mtp1ue02zp) Remember: Always Call 911 AND Campus Safety.\\
+The following video presentation (TMU LOGIN REQUIRED) is provided as a service to the campus community:[ Active Shooter Training Presentation.](https://mix.office.com/watch/d8mtp1ue02zp) Remember: Always Call 911 AND Campus Safety.
 
 ## Twitter Feed
 
