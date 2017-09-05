@@ -1,6 +1,5 @@
 ---
 title: Student Advancement
-layout: studentadv
 sm-image: "/uploads/StudentLife_StudentAdvancement.png"
 group: studentlife
 international-students-body: The international community at The Master’s College includes
@@ -112,19 +111,8 @@ intl-programs-body: |-
   ## Missionaries-in-Residence
 
   Each year The Master’s College hosts a hand-picked missionary family (on furlough) living on campus (this could be you!). Their home—kitchen, fireplace, and all—is available to students who want to stop by. TMC’s [Missionaries-in-Residence](http://www.masters.edu/student-life/global-outreach/missionary-in-residence.aspx "Missionaries in Residence") become a great asset not only to students currently pursuing global missions, but to international students and TCKs who just want to share their own experiences with someone, or seek a bit of extra advice.
-coordinator-body: |-
-  Amy grew up in Southern California and came to TMC to study Business Administration and Management. As a student at Master’s, she was privileged to co-lead Global Outreach teams to Montgomery, Alabama; Albania; and Kosovo. In the future, Amy would like to study for a Master’s in Business Administration, then use business as mission by working overseas or in the inner city.
-
-  ## Fast Facts:
-
-  ### A Favorite Scripture Verse: Revelation 1:5b-8
-
-  “To him who loves us and has freed us from our sins by his blood and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen. Behold, he is coming witht he clouds, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. Even so. Amen. 'I am the Alpha and the Omega,' says the Lord God, 'who is and who was and who is to come, the Almighty.'"
-
-  ### Some Favorite Things:
-
-  Kayaking, reading, and exploring Los Angeles.
-coordinator-image: 
+coordinator-body: 
+coordinator-image: "/images/IMG_1046.JPG"
 multicultural-students:
   about-body: We are committed to developing a distinctively Christian multi-cultural
     community under the lordship of Christ and according to His Word. We recognize
@@ -230,6 +218,7 @@ multicultural-students:
     ### The development of culturally applicable programming and social support of underrepresented students
 
     ### Student organization involvement
+layout: studentadv
 ---
 
 The Master’s University is pleased to open its doors to students from many different backgrounds. The Office of Student Advancement provides a variety of services for students from multicultural, international, and military backgrounds including the following: orientation to assist in transition to life at The Master’s University, financial aid and admissions counseling, social activities, service opportunities, academic counseling, vocational planning, and discipleship.
