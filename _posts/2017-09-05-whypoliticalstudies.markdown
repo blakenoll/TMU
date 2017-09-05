@@ -1,10 +1,16 @@
 ---
 title: Why Political Studies?
 date: 2017-09-05 16:01:00 Z
+tags:
+- political studies
+- history
+- professor article
+- why master's?
 author: Dr. Gregg Frazer
 sm-image: "/uploads/POLITICALSTUDIES.jpg"
 ---
 
+**A WIDELY USEFUL DEGREE**
 If you want to maximize your career options, what should be your major in college? Contrary to popular belief, career options are extensive for a graduate with a degree in political studies. Many people think that a political studies graduate must either enter politics or go to law school. Indeed, about a third of our graduates pursue those paths. In fact, our program provides a uniquely valuable foundation for law school, because studies show that law students with undergraduate degrees in philosophy or political science are best prepared for success. Our Political Studies program at The Master’s University includes both political science and a healthy dose of political philosophy. Consequently, our graduates have been accepted into 16 of the top 30 law schools, including six of the top 10. While it is the best preparation for law school, the Political Studies major also equips students for a wide range of careers. As mentioned above, only about one-third of our graduates enter politics or law.
 ![POLITICALSTUDIES.jpg](/uploads/POLITICALSTUDIES.jpg)
 
