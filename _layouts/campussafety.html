@@ -34,6 +34,15 @@ layout: default
               <div class="card-content grey lighten-4">
                 <div id="test1">
                   {{ content }}
+                  <div id="video" class="modal bottom-sheet">
+                    <div class="modal-content">
+                      <h4>Golf Cart Safety Training</h4>
+                      <p>{{ page.golf-cart-body | markdownify }}</p>
+                    </div>
+                    <div class="modal-footer">
+                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+                    </div>
+                  </div>
                 </div>
                 <div id="test2">
                   {{ page.Directors-greeting-body | markdownify }}
