@@ -72,21 +72,21 @@ Personal-Visit-body: |-
 
   Please Note: If you are planning to stay with us overnight you MUST review our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/). This provides important information for individual and group visits. Every overnight visitor must turn in a completed [Overnight Stay Release Form](/media/870365/tmu_activityrelease-2017.pdf).
 
-  Our offices are closed on the following dates during the 2016-2017 School Year (if your visit falls on a Mondays at Master’s or a College View Weekend, please sign up for either of those events on the [Mondays at Master’s](http://www.masters.edu/undergrad/visit/mondays/) page and the [View Weekend](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends") page):
+  Our offices are closed on the following dates during the 2017-2018 School Year (if your visit falls on a Mondays at Master’s or a College View Weekend, please sign up for either of those events on the [Mondays at Master’s](#mondays) page and the [View Weekend](#view) page):
 
   > * September 4, 2017: Closed for Labor Day
   >
-  > * September 18, 2017: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
+  > * September 18, 2017: [Mondays@Master’s](#mondays)
   >
   > * October 12-15, 2017: Closed for Outreach Week
   >
   > * October 16, 2017: Closed for Reading Day
   >
-  > * October 26-27 2017: [View the U](/visit)
+  > * October 26-27 2017: [View the U](#view)
   >
   > * November 7, 2017: TMU Day of Prayer
   >
-  > * November 13, 2017: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
+  > * November 13, 2017: [Mondays@Master’s](#mondays)
   >
   > * November 20-24, 2017: Closed for Thanksgiving Holiday
   >
@@ -96,19 +96,19 @@ Personal-Visit-body: |-
   >
   > * February 13, 2018: Closed for Reading Day
   >
-  > * February 19, 2018: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
+  > * February 19, 2018: [Mondays@Master’s](#mondays)
   >
   > * March 12-16, 2018: Closed for Spring Break
   >
   > * March 30, 2018: Closed for Good Friday
   >
-  > * March 22-23, 2018: [View the U](http://www.masters.edu/undergrad/visit/view-the-u/ "View Weekends")
+  > * March 22-23, 2018: [View the U](#view)
   >
   > * April 2, 2018: Closed for Reading Day
   >
   > * April 17, 2018: Closed for All School Test Day
   >
-  > * April 9, 2018: [Mondays@Master’s](http://www.masters.edu/undergrad/visit/mondays/ "Mondays")
+  > * April 9, 2018: [Mondays@Master’s](#mondays)
   >
   > * April 21, 2018: Admitted Students Day
   >
