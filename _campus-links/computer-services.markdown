@@ -854,6 +854,36 @@ Faculty Modules:
 
 
   title: Laptop Loaner Program
+newStudents-body: |-
+  **New Students/TMU Guests**
+
+  ## **[Visitor Network Access](https://athletics.masters.edu/%7BlocalLink:1518%7D "VisitorNetworkUse")**
+
+  **Are you a guest to the campus or visiting online or DCP student? Then the information that you're looking for is here. Whether you want to connect to our wireless network or login to Office 365, we have the answer for you.**
+
+  ## **[Notebook Buying Guide](https://athletics.masters.edu/%7BlocalLink:1515%7D "NotebookGuide")**
+
+  **Looking for information about the computer requirements at The Master's University? Or do you need to find out what kind of wireless network we use at The Master's University? Look no further than the Notebook Buying Guide.**
+
+  ## **[Student Discounts on Computers and Software](https://athletics.masters.edu/%7BlocalLink:1513%7D "Discounts")**
+
+  **Educational discounts on computer products from Adobe®, Apple, Dell, HP, Lenovo, Microsoft, and others.**
+
+  ## **[Media Ethics Policy](https://athletics.masters.edu/%7BlocalLink:1516%7D "MediaEthics")**
+
+  **The Master's University Media Ethics Policy. Included is the philosophy behind the policy, it's guidelines, and consequences of violation.**
+
+  ## **[Network Use Policy](https://athletics.masters.edu/%7BlocalLink:1517%7D "NetworkUse")**
+
+  **Unsure about whether your use of the Internet (or someone else's) constitutes acceptable use or not? Want to make sure that you remain within the bounds of our Usage Policy? Here's where you can find the info you need.**
+
+  ## **[Legal Alternatives to Unauthorized Downloading of Copyrighted Data](https://athletics.masters.edu/%7BlocalLink:1519%7D "LegalAlternatives")**
+
+  **The Higher Education Opportunity Act requires all colleges and universities to offer legal alternatives to unauthorized downloading. The list provided here includes many legitimate online services. No endorsement or evaluation is intended.**
+
+  ## **[FAQ's](https://athletics.masters.edu/%7BlocalLink:1975%7D "FAQ")**
+
+  **Have questions regarding personal computing, email, printing, classroom media, Canvas, WiFi, or your User Account? Then check out the FAQ's for answers to your questions.**
 layout: computerservices
 ---
 
