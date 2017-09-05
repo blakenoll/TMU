@@ -157,22 +157,27 @@ multicultural-students:
 
     ### To enroll students from ethnically and culturally diverse contexts:
 
-    Recruiting students of color and students from other underrepresented groups\
-    Assisting prospective “minority” students considering study at TMU\
-    Providing academic advising and student advocacy\
+    Recruiting students of color and students from other underrepresented groups
+
+    Assisting prospective “minority” students considering study at TMU
+
+    Providing academic advising and student advocacy
+
     Helping with the procurement of scholarship and sponsorship grant monies
 
     ### To share cultural experience(s) and insight with the student body that will assist in:
 
-    Creating a supportive campus culture, through culturally relevant programs and events\
-    Strengthening cross-cultural relationships\
+    Creating a supportive campus culture, through culturally relevant programs and events
+
+    Strengthening cross-cultural relationships
+
     Cultivating awareness and sensitivity related to issues of culture and ethnicity
 
     ## Our Method:
 
     As a hybrid office between the Student Life and Admissions departments, MCSA specializes in both the recruitment and retention of students from among the diverse cultural contexts within the United States. Focusing on urban centers and the inner city, we seek to establish relationships with churches and leaders in these communities that will assist us in identifying “mission-match” recruits for TMU, while developing culturally applicable programming and social support for the underrepresented student population of our school.
   programs-body: |-
-    C3Unity- Student led club
+    ## C3Unity- Student led club
 
     Founded on the premise of Colossians 3:11- “Here there is not Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave, free; but Christ is all, and in all”, C3Unity works to grow interpersonal relationships on campus and promote genuine Christian unity among the students of TMU. The club gives students an opportunity to interact and network with others from diverse contexts as well as to learn how they can live as effective Christian witnesses in a multicultural environment on the campus of TMU and around the world. Throughout the year C3Unity organizes events, field trips, forums, and workshops alongside the Student Life Staff, Associate Academic Dean, and Faculty. Be a part of [C3Unity - Join the Facebook Group](https://www.facebook.com/groups/220366394683071/ "C3Unity on Facebook")
 
@@ -190,19 +195,19 @@ multicultural-students:
 
     ## The Multicultural Student Advancement office also serves TMU through:
 
-    ### The recruiting and acquisition of students from ethnically and culturally diverse contexts
+    The recruiting and acquisition of students from ethnically and culturally diverse contexts
 
-    ### The procurement of scholarship and sponsorship monies
+    The procurement of scholarship and sponsorship monies
 
-    ### Academic advising and student advocacy
+    Academic advising and student advocacy
 
-    ### The coordinating of campus wide educational workshops/seminars
+    The coordinating of campus wide educational workshops/seminars
 
-    ### Referrals to urban and ethnic church and community outreach organizations
+    Referrals to urban and ethnic church and community outreach organizations
 
-    ### The development of culturally applicable programming and social support of underrepresented students
+    The development of culturally applicable programming and social support of underrepresented students
 
-    ### Student organization involvement
+    Student organization involvement
 layout: studentadv
 ---
 
