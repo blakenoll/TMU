@@ -108,7 +108,7 @@ The following video presentation (TMU LOGIN REQUIRED) is provided as a service t
 
 [Title IX Information](http://www.masters.edu/financial-aid/heoa-cc-info/health-safety/title-ix-information/)
 
-[Drug and Alcohol Abuse Prevention Program](http://www.masters.edu/financial-aid/heoa-cc-info/health-safety/drug-and-alcohol-abuse-prevention/)
+[Drug and Alcohol Abuse Prevention Program](/media/870369/tmu-daapp-2017-2018-4.pdf)
 
 [Campus Safety Codes (Vehicle and Safety Policies)](http://www.masters.edu/media/870173/campus-safety-codes_aug-2017.pdf "Campus Safety Codes_Aug 2017.pdf (1)")
 
