@@ -85,27 +85,27 @@ oncampus-body: |-
 
   **ASAP Individual Courses**
 
-  * B101  Old Testament Survey 1  3 Units
+  * B101  Old Testament Survey 1 -  3 Units
 
-  * B102  Old Testament Survey 2  3 Units
+  * B102  Old Testament Survey 2 - 3 Units
 
-  * B201  New Testament Survey 1  3 Units
+  * B201  New Testament Survey 1 - 3 Units
 
-  * B202  New Testament Survey 2  3 Units
+  * B202  New Testament Survey 2 - 3 Units
 
-  * CS111     Introduction to Computer Programing     4 Units
+  * CS111     Introduction to Computer Programing -  4 Units
 
-  * E120  Introduction to Literature  3 Units
+  * E120  Introduction to Literature - 3 Units
 
-  * POL220    U.S. Government     3 Units
+  * POL220    U.S. Government - 3 Units
 
-  * H211  Essentials of World History 1   3 Units
+  * H211  Essentials of World History 1 - 3 Units
 
-  * H212  Essentials of World History 2   3 Units
+  * H212  Essentials of World History 2 - 3 Units
 
-  * LS150     Essentials of Biology   3 Units
+  * LS150     Essentials of Biology - 3 Units
 
-  * LS150L    Essentials of Biology Lab   1 Unit
+  * LS150L    Essentials of Biology Lab - 1 Unit
 
   ### ASAP Cohort Schedule
 
@@ -131,47 +131,36 @@ oncampus-body: |-
 
   9:10-10:25 Chapel
 
-  10:40-12:10
-  Philosophy
+  10:40-12:10 Philosophy
 
-  12:10-1:00\
-  Lunch
+  12:10-1:00 Lunch
 
-  1:15-2:45\
-  English Composition
+  1:15-2:45 English Composition
 
   **Suggested High School Senior Schedule Fall:**
 
   Classes are Every Wednesday and Friday
 
 
-  9:10-10:25\
-  Chapel
+  9:10-10:25 Chapel
 
-  10:40-12:10
-  U.S. Government
+  10:40-12:10 U.S. Government
 
-  12:10-1:00\
-  Lunch
+  12:10-1:00 Lunch
 
-  1:15-2:45\
-  World History I
+  1:15-2:45 World History I
 
   **Suggest High School Senior Schedule Spring:**
 
   Classes are Every Wednesday and Friday
 
-  9:10-10:25\
-  Chapel
+  9:10-10:25 Chapel
 
-  10:40-12:10
-  Macroeconomics
+  10:40-12:10 Macroeconomics
 
-  12:10-1:00\
-  Lunch
+  12:10-1:00 Lunch
 
-  1:15-2:45\
-  World History II
+  1:15-2:45 World History II
 
   Please Note: All ASAP students may take a maximum of 6 units during their first semester. If the student achieves a “B” grade point average or above, he or she may take up to 6 units the following semester(s).  Students may take one online course while enrolled in up to 6 units of ASAP courses. This would allow a student the opportunity to complete up to 9 units in a semester.
 
