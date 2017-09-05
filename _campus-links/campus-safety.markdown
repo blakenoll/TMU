@@ -142,6 +142,8 @@ The following video presentation (TMU LOGIN REQUIRED) is provided as a service t
 
 [Parking Map](http://www.masters.edu/visitorinfo/parking-information/)
 
+[Golf Cart Safety Training](#video)
+
 ## National Terrorism Advisory System
 
 ## Local Links
