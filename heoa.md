@@ -11,7 +11,7 @@ health-safety-body: |-
 
   ### [Vaccination Policy](http://www.masters.edu/media/868337/healthcenter_vaccinepolicy.pdf "2015 Vaccine Policy")
 
-  ### [Drug and Alcohol Abuse Prevention Program](http://www.masters.edu/financial-aid/heoa-cc-info/health-safety/drug-and-alcohol-abuse-prevention/ "Drug and Alcohol Abuse Prevention")
+  ### [Drug and Alcohol Abuse Prevention Program](/media/870369/tmu-daapp-2017-2018-4.pdf)
 
   ### [Biennial Review -- 2015-2017](http://www.masters.edu/media/870023/2015-17-biennial-report.pdf "2015-17 Biennial Report.pdf (1)")
 
