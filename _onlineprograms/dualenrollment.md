@@ -42,53 +42,141 @@ online-enrollment-body: |-
   Submit an Official Transcript from your high school. Home school students can find transcript information here. Please make sure that the school has the correct address with The Master's University Online box number 33.
   Complete the Dual Enrollment form.
   Pay the $35 application fee. This can be paid through the mail by check, or by phone by calling the Administrative Office.
-oncampus-body: "The Master's University Advanced Start Academic Program (ASAP) enables
-  juniors and seniors in high school to take accredited, college-level Bible and General
-  Education (GE) courses that can meet both high school graduation requirements and
-  be counted toward an undergraduate degree at The Master's University.\n\nStudents
-  enrolling in ASAP will be allowed to register for select undergraduate classes taught
-  on-campus at The Master’s University. Therefore, the program is best suited for
-  students living within reasonable commuting distance of the campus. ASAP students
-  are expected to meet the same academic requirements as other undergrad students
-  in each class. Students may choose to enroll in individual classes or join a cohort
-  of dual enrollment students taking the same classes together (see schedule below).
-  Cohort students participate in campus chapels and may also purchase lunch in the
-  Mustang Grill.\n\n**Admission Requirements**\n\n* Statement of faith in Jesus Christ\n*
-  Must have completed the Sophomore year of High School\n* Ability to study and write
-  at the collegiate level\n* Submission of application materials\n* Cumulative H.S.
-  GPA of 3.0\n* Writing Sample - submit a piece of academic writing (creative or research)
-  you have already completed as part of your high school curriculum. Your sample should
-  be a minimum of 500 words, typed, double-spaced.\n\n**Financial Information**\n\nTuition:
-  $165 per unit plus any additional course/lab fees\n\nFinancial Aid and payment plans
-  are not available for this program.\n\n**Admission Process**\n\nComplete and submit
-  the Application for Online Learning.\n\nPay the $35 application fee. This can be
-  paid through the mail by check, or by phone by calling the Administrative Office.\n\n**Recommendations:**\n*
-  The applicant must attend a local evangelical church or fellowship and provide a
-  Recommendation of Pastor from one of the pastors or church leaders.\n* Submit an
-  Official Transcript from your high school. Home school students can find transcript
-  information here. Please make sure that the school has the correct address with
-  The Master's University Online box number.\n* Complete the Dual Enrollment form.\n*
-  PAY APPLICATION FEE\n\n**ASAP Individual Courses**\n\n* B101 \tOld Testament Survey
-  1 \t3 Units \n* B102\tOld Testament Survey 2\t3 Units \n* B201\tNew Testament Survey
-  1 \t3 Units \n* B202 \tNew Testament Survey 2 \t3 Units \n* CS111 \tIntroduction
-  to Computer Programing  \t4 Units \n* E120\tIntroduction to Literature \t3 Units\n*
-  POL220 \tU.S. Government \t3 Units \n* H211\tEssentials of World History 1 \t3 Units
-  \n* H212\tEssentials of World History 2 \t3 Units \n* LS150 \tEssentials of Biology
-  \t3 Units \n* LS150L\tEssentials of Biology Lab\t1 Unit\n\n### ASAP Cohort Schedule\n\n**Suggested
-  High School Junior Schedule Fall:**\n\nClasses are every Wednesday and Friday \n\n9:10-10:25\nChapel\n\n10:40-12:10\nU.S.
-  History\n\n12:10-1:00\nLunch\n\n1:15-2:45\nSpoken Communication\n \n\n**Suggested
-  High School Junior Schedule Spring:**\n\nClasses are Every Wednesday and Friday\n\n9:10-10:25
-  \   \t                           \nChapel\n\n10:40-12:10\t\nPhilosophy\n\n12:10-1:00\t\nLunch\n\n1:15-2:45\t
-  \nEnglish Composition\n \n\n**Suggested High School Senior Schedule Fall:**\n\nClasses
-  are Every Wednesday and Friday\n9:10-10:25\t\nChapel\n\n10:40-12:10\t\nU.S. Government\n\n12:10-1:00\t\nLunch\n\n1:15-2:45\t\nWorld
-  History I\n \n\n**Suggest High School Senior Schedule Spring:**\n\nClasses are Every
-  Wednesday and Friday\n\n9:10-10:25\t\nChapel\n\n10:40-12:10\t\nMacroeconomics\n\n12:10-1:00\t\nLunch\n\n1:15-2:45\t\nWorld
-  History II\n \n\nPlease Note: All ASAP students may take a maximum of 6 units during
-  their first semester. If the student achieves a “B” grade point average or above,
-  he or she may take up to 6 units the following semester(s).  Students may take one
-  online course while enrolled in up to 6 units of ASAP courses. This would allow
-  a student the opportunity to complete up to 9 units in a semester.\n\nFor more information
-  about the ASAP/ASAP Cohort program please contact:\nMatthew Frields at mfrields@masters.edu"
+oncampus-body: |-
+  The Master's University Advanced Start Academic Program (ASAP) enables juniors and seniors in high school to take accredited, college-level Bible and General Education (GE) courses that can meet both high school graduation requirements and be counted toward an undergraduate degree at The Master's University.
+
+  Students enrolling in ASAP will be allowed to register for select undergraduate classes taught on-campus at The Master’s University. Therefore, the program is best suited for students living within reasonable commuting distance of the campus. ASAP students are expected to meet the same academic requirements as other undergrad students in each class. Students may choose to enroll in individual classes or join a cohort of dual enrollment students taking the same classes together (see schedule below). Cohort students participate in campus chapels and may also purchase lunch in the Mustang Grill.
+
+  **Admission Requirements**
+
+  * Statement of faith in Jesus Christ
+
+  * Must have completed the Sophomore year of High School
+
+  * Ability to study and write at the collegiate level
+
+  * Submission of application materials
+
+  * Cumulative H.S. GPA of 3.0
+
+  * Writing Sample - submit a piece of academic writing (creative or research) you have already completed as part of your high school curriculum. Your sample should be a minimum of 500 words, typed, double-spaced.
+
+  **Financial Information**
+
+  Tuition: $165 per unit plus any additional course/lab fees
+
+  Financial Aid and payment plans are not available for this program.
+
+  **Admission Process**
+
+  Complete and submit the Application for Online Learning.
+
+  Pay the $35 application fee. This can be paid through the mail by check, or by phone by calling the Administrative Office.
+
+  **Recommendations:**
+
+  * The applicant must attend a local evangelical church or fellowship and provide a Recommendation of Pastor from one of the pastors or church leaders.
+
+  * Submit an Official Transcript from your high school. Home school students can find transcript information here. Please make sure that the school has the correct address with The Master's University Online box number.
+
+  * Complete the Dual Enrollment form.
+
+  * PAY APPLICATION FEE
+
+  **ASAP Individual Courses**
+
+  * B101  Old Testament Survey 1  3 Units
+
+  * B102  Old Testament Survey 2  3 Units
+
+  * B201  New Testament Survey 1  3 Units
+
+  * B202  New Testament Survey 2  3 Units
+
+  * CS111     Introduction to Computer Programing     4 Units
+
+  * E120  Introduction to Literature  3 Units
+
+  * POL220    U.S. Government     3 Units
+
+  * H211  Essentials of World History 1   3 Units
+
+  * H212  Essentials of World History 2   3 Units
+
+  * LS150     Essentials of Biology   3 Units
+
+  * LS150L    Essentials of Biology Lab   1 Unit
+
+  ### ASAP Cohort Schedule
+
+  **Suggested High School Junior Schedule Fall:**
+
+  Classes are every Wednesday and Friday
+
+  9:10-10:25
+  Chapel
+
+  10:40-12:10
+  U.S. History
+
+  12:10-1:00
+  Lunch
+
+  1:15-2:45
+  Spoken Communication
+
+  **Suggested High School Junior Schedule Spring:**
+
+  Classes are Every Wednesday and Friday
+
+  9:10-10:25 Chapel
+
+  10:40-12:10
+  Philosophy
+
+  12:10-1:00\
+  Lunch
+
+  1:15-2:45\
+  English Composition
+
+  **Suggested High School Senior Schedule Fall:**
+
+  Classes are Every Wednesday and Friday
+
+
+  9:10-10:25\
+  Chapel
+
+  10:40-12:10
+  U.S. Government
+
+  12:10-1:00\
+  Lunch
+
+  1:15-2:45\
+  World History I
+
+  **Suggest High School Senior Schedule Spring:**
+
+  Classes are Every Wednesday and Friday
+
+  9:10-10:25\
+  Chapel
+
+  10:40-12:10
+  Macroeconomics
+
+  12:10-1:00\
+  Lunch
+
+  1:15-2:45\
+  World History II
+
+  Please Note: All ASAP students may take a maximum of 6 units during their first semester. If the student achieves a “B” grade point average or above, he or she may take up to 6 units the following semester(s).  Students may take one online course while enrolled in up to 6 units of ASAP courses. This would allow a student the opportunity to complete up to 9 units in a semester.
+
+  For more information about the ASAP/ASAP Cohort program please contact:
+  Matthew Frields at mfrields@masters.edu
 co-op-body: |-
   TMU’s Christian high school and cooperatives dual enrollment partnership program is for high school juniors and seniors who want to earn high school and college credit concurrently. It is similar to an AP course except the courses are taught at a college level and automatically earn high school and college credit without taking the AP exam. The classes are taught in a fully online format. Dual Enrollment is a great way to earn college credits early, save money on future college tuition, and earn AP level coursework at your high school.
 
