@@ -1,5 +1,6 @@
 ---
 title: Computer Services
+layout: computerservices
 date: 2017-09-05 15:30:00 Z
 studentComp-body: |-
   ### Printing, Scanning, and Copying on Campus
@@ -435,7 +436,7 @@ studentCompModules:
     Email: [servicedesk@masters.edu](mailto:servicedesk@masters.edu)
 
     Phone: 661.362.2876
-Field name: 
+Field name:
 ---
 
 ## Welcome to IT Operations
