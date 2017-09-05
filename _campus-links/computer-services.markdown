@@ -1,7 +1,7 @@
 ---
 title: Computer Services
-layout: computerservices
 date: 2017-09-05 15:30:00 Z
+layout: computerservices
 studentComp-body: |-
   ### Printing, Scanning, and Copying on Campus
 
