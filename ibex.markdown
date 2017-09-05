@@ -24,6 +24,7 @@ blogs-body: |-
   * [http://www.danimcnally.com/](http://www.danimcnally.com/p/israel.html)
 
   For more information, contact the [the IBEX Office](https://athletics.masters.edu/academics/undergraduate/ibex/ibex-office.aspx).
+layout: ibex
 ---
 
 IBEX
