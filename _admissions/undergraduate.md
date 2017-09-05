@@ -27,7 +27,7 @@ apply-body: |-
     * Fee is refundable by May 1st for Fall applicants
 
 
-  * [Pastor Recommendation Form](http://www.masters.edu/undergrad/apply/pastoral-recommendation-form/)
+  * Pastor Recommendation Form
 
     * Must be completed by non-relative within applicant’s church. Form can be filled out by Head Pastor, Associate Pastor, Youth Pastor, or Elder. Form can be sent directly to pastor from application by inputting the pastor’s email address when requested, otherwise it is the applicants responsibility to email their pastor the link to the form.
 
