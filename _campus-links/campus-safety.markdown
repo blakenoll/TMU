@@ -77,6 +77,34 @@ code-manual-body: |-
   ## Skateboards
 
   Skateboards, scooters, and roller blades may be ridden on campus sidewalks with due regard for pedestrian right of way, but there is no riding allowed on or across driveways, in parking lots, or on the adjacent roads in our community. Rule of Thumb: Skateboards cannot be ridden where cars can go. Skateboards may only be used at TMU for transportation and all 4 wheels need to stay grounded at all time. If you would like to perform those cool tricks, please do so at the local skate park using the right safety equipment (Santa Clarita Aquatic Center). The full content of this and all policies is found within the Campus Safety Codes.
+golf-cart-body: |-
+  Golf Cart Safety Training Program
+
+  Welcome to The Master's University Golf Cart Safety Training Program! This program has been developed to encourage safe operation on TMU campus properties of golf carts or any type of electric or low powered industrial style utility carts. All faculty, staff, and students who may operate a cart on the TMU properties are required to complete this training.
+
+  ## 3 Steps to Safety
+
+  Step 1: Click [here](https://www2.masters.edu/edit/GolfCartVideo.asp) to view the Golf Cart Training Presentation.
+
+  Step 2: Read the [Cart Safety Fact Sheet](http://www2.masters.edu/w/GetHostedFile.ashx?TMC\+Cart\+Safety\+Fact\+Sheet.pdf&Id=588) and download, sign, and send the [Acknowledgement of Responsibility Form](http://www2.masters.edu/w/GetHostedFile.ashx?Acknowledgement\+of\+Responsibility\+for\+Carts.pdf&Id=587) to Campus Safety, box 34.
+
+  Step 3: Test drive with a supervisor prior to regular operation of the cart.
+
+  * It is important to be accompanied by a supervisor around campus as each department may maintain additional rules regarding cart operation and charging. This is not an optional step as your signed acknowledgement of responsibility form indicates. If your department has no experienced drivers please email campussecurity@masters.edu for further assistance.
+
+  \*Note to Supervisors: Please instruct each person in the basic knowledge of the cart's functions and evaluate their skills as they operate on different parts of the campus properties. Speed is always a factor as well as operating around blind corners.
+
+  Anyone involved in a cart collision which results in property damage or injury must report the incident to a supervisor and campus safety.
+
+  For more information on TMU policies and procedures with respect to driving vehicles on campus please review the vehicle code on our main website or contact the Director of Campus Safety.
+
+  ## Questions or Comments
+
+  * E-mail: campussafety@masters.edu
+
+  * Guard Shack: (661) 362-2500
+
+  [Compliance & Safety Training Videos Website](http://complianceandsafety.com/)
 layout: campussafety
 ---
 
