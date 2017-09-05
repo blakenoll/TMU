@@ -624,6 +624,67 @@ positions:
     veteran status or prior military service, medical condition, or any physical or
     mental disability.  We are committed to practicing principles of equal employment
     opportunity and diversity based upon sovereign Biblical principles.\n\n"
+- title: Junior Copywriter for Development (Part-time)  (University)
+  position: Staff
+  about-body: "SUMMARY\n\nLooking for a part-time writer who has the ability to generate
+    and write story ideas or series concepts in accordance with the Centers of Excellence
+    Campaign and  events or important persons in the Development office.\n \nThis
+    writer will need to ghostwrite certain correspondence or articles and will not
+    have, unless noted otherwise, their name posted or attached to any of the articles
+    but will be speaking as one of the voices for The Master’s University. Therefore,
+    each article written must correspond with the voice, tone and style of the university
+    and go through the approval process starting with the office of development, routing
+    through the copywriter for the marketing department and then back to development.\n\nESSENTIAL
+    FUNCTIONS\n\n●\tIs in charge of certain interdepartmental and outside correspondence.
+    \n\n●\tWriter must be willing to work on tight-deadlines, be detail oriented and
+    submit pieces fully edited and ready to be published, must craft a story to communicate
+    the unique attributes of the university and do so in a positive light.\n\n●\tMust
+    have strong editing skills.\n\n●\tAbility to gather data, compile information,
+    and prepare reports.\n \n●\tMust come up with story ideas and be willing to take
+    assignments given by Development.\n\n●\tAs this position requires one to work
+    across multiple departments at the university and with various donors and alumni
+    they must be professional at all times, dressing the part, writing the part and
+    carrying themselves in a way that represents the university appropriately.\n\n●\tPerforms
+    miscellaneous job-related duties as assigned.\n \n●\tMust accept and adhere to
+    our doctrinal statement at all times.\n\n●\tRegular attendance is essential.\n\nQUALIFICATIONS\n\n●\tHas
+    a personal relationship with Jesus Christ and a demonstrated commitment to the
+    doctrinal position of TMU&S and a continuous exhibition of a desire to minister
+    and serve others in varied capacities.\n\n●\tMust be able to get along with co-workers
+    and the public.\n\n●\tDemonstrated ability to establish and maintain effective
+    working relationships with staff, faculty, vendors, students, &/or community members
+    of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n●\tHave
+    computer proficiency.\n\n●\tExcellent oral and written command of the English
+    language is required.\n\n●\tPossess excellent organizational skills.\n\n●\tExercise
+    confidentiality, good judgment and discernment.\n\n●\tService oriented and able
+    to interface with many people is mandatory.\n\n●\tMultitasked in an environment
+    with many distractions is a must.\n\n●\tReading and comprehending correspondence
+    is imperative.\n\nWORKING CONDITIONS\n\n●\tWorking Environment: Mostly indoors
+    in a typical office environment, with an occasional need to visit other areas
+    on campus.\n  \n●\tPhysical Demands: Must be able to lift, pull, push, grasp and
+    bend while lifting up to 30lbs.\n\n●\tRepetitive motions on a keyboard and looking
+    at a computer monitor for an extended duration of time is required.\n\nADDITIONAL
+    INFORMATION\n\nMinimum Conditions for Beginning Employment:\n\n\tPrior to beginning
+    employment, in accordance with The Master’s University policy and/or under federal
+    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
+    employment.\n\n2.\tPresent verification of their identity and authorization to
+    work in the United States.\n\nIf, because of a disability, you need special services
+    or facilities in order to apply or interview for this opening please contact the
+    Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
+    on the basis of race, color, national origin, ancestry, gender, age, marital status,
+    veteran status or prior military service, medical condition, or any physical or
+    mental disability.  We are committed to practicing principles of equal employment
+    opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
+    PROCESS\nCompleted application form from The Master’s University.  This can be
+    obtained at www.masters.edu/jobs or by contacting\n\nThe Master’s University and
+    Seminary\nHuman Resources Department\n\n21726 Placerita Canyon Road • Santa Clarita,
+    California • 91321-1200\n\n(800) 568-6248 • (661) 362-2844 ♦ FAX (661) 362-2717\n\nSelection
+    Process:\n\nAll applications will be reviewed by the Human Resources department.
+    \ Selected candidates will be invited for a personal interview at The Master’s
+    University.  Any expense incurred in connection with these interviews will be
+    the responsibility of the candidates.\n\nApplication Procedures:\nAll documents
+    included in your application remain the sole property of The Master’s University
+    and will not be returned.   Your file for this opening will not be considered
+    unless all requested items are submitted and are complete.\n\n"
 layout: employment
 ---
 
