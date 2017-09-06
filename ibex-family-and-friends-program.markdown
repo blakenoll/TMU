@@ -30,6 +30,132 @@ testimonials-body: |-
   ***Both my wife and I had been to Israel decades earlier, but we jumped at the chance to join the Israel study tour while our daughter was there for the semester studying through the IBEX program at The Master’s University. This trip was incredibly rewarding and more meaningful, as the resource material we received in advance and the Bible Atlas we received while on the tour added tremendous depth to our experience. That, and the extensive knowledge and teaching from Dr. Grisanti and our Israeli guide made it a tremendous blessing. We also enjoyed the fellowship from some wonderful like-minded believers we met on the trip. This was way more than just another tourist trip. Thank you for providing such a great privilege to see and travel throughout Israel.***
 
   **Jay Russell**
+itinerary-body: "**Friday, March 2**\n\n* Depart from the United States.\n\n**Saturday,
+  March 3**\n\n* Arrive in Israel.\n\n* Enjoy an evening meal with the IBEX students
+  and an orientation to the Family & Friends program.\n\n* We hope to take a quick
+  trip into Jerusalem that evening.\n\n**Sunday, March 4**\n\n* Explore Jerusalem,
+  the new and the old, by bus and on foot, including the main biblical locations and
+  some modern sites of interest.\n\n**Monday, March 5**\n\n* Visit the Shephelah,
+  where various events of the time of the Judges and the Monarchy took place, including
+  the site where David fought Goliath.\n\n* Spend most of the afternoon at the Israel
+  Museum, Shrine of the Book, and a great NT Jerusalem model.\n\n**Tuesday–Wednesday,
+  March 6–7**\n\n* Travel up the Mediterranean coast and see the city of Caesarea.\n\n*
+  Spend three days visiting some exciting locations in the Galilee region, staying
+  for two nights in a resort on the eastern shore of the Sea of Galilee and enjoying
+  a boat ride on the Sea of Galilee. Then, head to the Dead Sea for the night of the
+  8th.\n\n**Thursday, March 8**\n\n* Visit some last sites near the Sea of Galilee
+  and stop at Beth Shan.\n\n* Travel down the Jordan River Valley, visit a baptismal
+  site on the Jordan River and then head to the west side of the Dead Sea to our hotel
+  for the night. We hope to take a dip in the Dead Sea that evening (or early the
+  next morning).\n\n**Friday, March 9**\n\n* Visit Masada, En Gedi, Qumran and Jericho
+  before returning to the IBEX campus and our hotel nearby.\n\n**Saturday, March 10**\n\n*
+  See a few sites in and around Jerusalem, and see Bethlehem from an overlook at the
+  southern end of Jerusalem. \n\n* Enjoy some shopping in Jerusalem in the afternoon.\n\n*
+  Join the IBEX students\n\n* Late night departure from Ben Gurion Airport.\n\n**Sunday,
+  March 11**\n\n* Arrive back in the United States with plenty of time for you to
+  get home for work or school the next day."
+application-body: |-
+  **Download the [Trip Application](https://athletics.masters.edu/media/868493/f-and-f-israel-trip-registration-form-air-and-land-march-2017-revised-1.pdf "F and F Israel Trip Registration form^air and land^March 2017^revised[1].pdf").**
+
+  1. If possible, please complete the registration form by typing the information. This will help insure that we have accurate information and don’t incorrectly read someone’s handwriting. Print the completed registration form and sign and date at the bottom. Provide your initials for the travel insurance line at the top of page 2 of the form. You can scan the form and email it to [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu) or mail it to the IBEX Office (see below address).
+
+  2. To pay by credit card, please use our **[secure payment portal](https://masters.formstack.com/forms/family_and_friends_israel_trip)**.
+
+  3. To pay by check, please make the check payable to The Master's College and mail or deliver to the IBEX Office.
+
+  4. The Master's College requires all participants in the Family & Friends program to fill out a **[release form](https://athletics.masters.edu/media/866592/activity-release-form-2105-01-29-fillable.pdf "Activity Release Form 2105-01-29 - fillable.pdf")**. Print the completed form and sign and date at the bottom. You can scan the form and email it to ibexoffice@masters.edu or mail it to the IBEX Office.
+
+  5. For any questions regarding logistical and payment details, please contact Bethany Cathcart in the IBEX Office, 661-259-3540 x3011 or [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu). Also, keep in mind that Bethany is a full-time student and only works certain days and hours in the IBEX Office. Allow her time to reply to your email inquiries or phone calls.
+
+  6. For questions that Bethany cannot answer, contact Dr. Grisanti at 818-909-5649 or [mgrisanti@tms.edu](mailto:mgrisanti@tms.edu).
+cost-body: |-
+  Cost and Payment
+
+  ### Airfare Included:
+
+  \$3,700 per person (credit card) - [Secure Payment Portal\
+  ](https://masters.formstack.com/forms/family_and_friends_israel_trip)
+
+  \$3,575 per person (check)
+
+  ### Land Only\*:
+
+  \$2,025 per person (credit card) - [Secure Payment Portal](https://masters.formstack.com/forms/family_and_friends_israel_trip)
+
+  \$1,950 per person (check)
+
+  \*Refer to the trip application for more information about the land-only price.
+
+  ## The following is included in the price:
+
+  * Airfare to/from LAX\*
+
+  * Accommodations in double occupancy rooms\*\*
+
+  * Transportation by private air-conditioned bus
+
+  * Daily breakfasts and dinners throughout the trip
+
+  * Entrance fees to tourist sites and museums
+
+  * Applicable taxes
+
+  * Tips for the bus driver, hotel staff, and Israeli tour guide
+
+  \*Not included in land-only price.
+
+  \*\*There is a $550 additional fee for single room accommodations. The accommodations will be comparable to any good motel in America (3-4 star), with each double room having a private bath.
+
+  Dr. Grisanti will be leading the tour (teaching), but the law requires that an Israeli tour guide accompany the group. IBEX employs a tour guide who is a Messianic believer and will offer insight into modern Israeli history, as well as flora and fauna of the land of Israel.
+
+  ## The following is NOT included in the price:
+
+  * Lunches throughout the trip
+
+  * Travel insurance
+
+  * Personal spending (i.e., for souvenirs and snacks)
+
+  Travel insurance is highly recommended. See [www.travelinsured.com](http://www.travelinsured.com/) for additional information. If booking online, please indicate agency number 458167 for proper tracking purposes.
+
+  ## Payment schedule:
+
+  November 21 $300 deposit due (non-refundable)
+
+  January 13 $3,400 balance due ($3,275 - check price)
+
+  If you make your full payment after December 14, keep in mind that our IBEX secretary (who handles the payments) will heading home for her Christmas break and won’t arrive back on campus untili the due date for the final payment. We need the payments in by January 13 to give the IBEX secretary and the finance office time to gather those payments together and send checks off for the land and airline side of the trip costs.
+
+  So if you make your final payment after December 14, please don’t expect any response saying that your payment was received until she gets back into the IBEX office and can catch up with payments that came in during the break. Also, there is no need to email me because I won’t know anything about what has come through as payments. If you are wondering if your payment was received, feel free to email Bethany after January 13.
+faq-body: |-
+  FAQs
+
+  ### Will I need a passport and visa?
+
+  A current passport IS REQUIRED and must not expire until six months after our return date. [Please apply immediately](http://travel.state.gov/content/passports/en/passports.html), as it may take several weeks to process. Recent news alerts have stated that passport processing now seems to take more time than usual. Don’t delay in applying for your passport!!
+
+  A visa, however, is not required.
+
+  ### Are there any vaccinations required for this trip?
+
+  No vaccinations are required.
+
+  ### I live outside of California. May I travel directly to Israel, or do I need to join the group at LAX?
+
+  The IBEX Office will put you in touch with a travel agent if you wish to make other arrangements. It is possible to leave from other major airports and connect with the group in New York City (JFK). We generally discourage travel to Israel apart from the group due to potential scheduling conflicts. If you do travel on your own to Israel, land-only cost of the trip is $2,025 (or $1,950 if paid by check). However, we are not able to arrange ground transportation or hotels for alternative travel arrangements if your flight schedule does not match that of the Friends and Family group. You will need to BE SURE you arrive before the group does if you want to ride on the bus from the airport to the IBEX campus. Itinerary details will be available for those who might need it for flight planning.
+
+  ### In light of the current conflicts in the Middle East, [how safe is it to travel to Israel](http://www.waynestiles.com/is-it-safe-to-travel-to-israel/)?
+
+  Rest assured that the IBEX Office does not want to put you in harm’s way. We won’t let the IBEX students go to Israel if we are convinced it is not safe, and we won’t pull the trigger on the Friends and Family trip (early January) if we have any concerns. We don’t go near Gaza during our trip. Israel is an amazingly safe place to be. Dr. Grisanti has been to Israel 20 times and has never felt unsafe. Events like those that took place in the summer are not commonplace at all. In the end, we trust God’s providence, and we are in continuous communication with people who know the status of travel in Israel.
+
+  ### Is there a way I can study and prepare for the teaching on this trip?
+
+  As the trip roster gets settled, Dr. Grisanti will add several study suggestions to the trip webpage. These resources will help those interested in laying some groundwork for what we hope to learn during our time together.
+
+  ### What happens if TMU decides to cancel the Family and Friends trip?
+
+  If we decide to cancel the F&F trip before the full payment is due (Jan. 12), we will fully refund the deposit or whatever a person has paid. However, after the full payment is made and that money goes to the airline and the land venues (in mid to late January), the money is out of our hands. If things get so bad at that point that we make the painful decision to cancel the trip (which I don't at all expect), we have no access to that money. That is where the travel insurance kicks in. That is why we are encouraging concerned people to buy the travel insurance--making sure they understand the parameters of the policy they choose.
+flight-body: 
 ---
 
 At the core of our Family and Friends trip to Israel are the parents and relatives who have children attending at The Master’s University IBEX campus. However, we also open the trip to those who may have no direct connection to IBEX or TMU. We invite you to join tour guide, Dr. Michael Grisanti, for a ten day trip to Israel in March 2017. The Family & Friends Program is arranged to make it possible for you to not only visit Israel and explore the historical and biblical sites, but to also be introduced to our IBEX program. Opportunities for several meals and fun times together with the students have been arranged. Some sites of significance on the itinerary include the Sea of Galilee and Galilee region, the Shephelah, the Dead Sea, the Jordan River, and of course, Jerusalem.
