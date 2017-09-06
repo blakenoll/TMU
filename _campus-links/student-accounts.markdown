@@ -42,20 +42,20 @@ tabs:
 general-faqs:
 - question: How do I make a payment online?
   answer: Online payments can be made by clicking “Make a Payment” when logged into
-    Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.</p><p>Begin
-    by clicking the "Make a Payment" button on the page. &nbsp;Clicking this button
-    will take you to our secured payment site. &nbsp;You will need your Student ID
-    number (same as Account Number on the statements, ex. 000123456), last name, and
-    bank account information. You will receive an auto-generated email receipt for
-    the payment.
+    Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.
+    Begin by clicking the "Make a Payment" button on the page. &nbsp;Clicking this
+    button will take you to our secured payment site. &nbsp;You will need your Student
+    ID number (same as Account Number on the statements, ex. 000123456), last name,
+    and bank account information. You will receive an auto-generated email receipt
+    for the payment.
 - question: How do I change a choice I made during pre-registration?
   answer: Online payments can be made by clicking “Make a Payment” when logged into
-    Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.</p><p>Begin
-    by clicking the "Make a Payment" button on the page. &nbsp;Clicking this button
-    will take you to our secured payment site. &nbsp;You will need your Student ID
-    number (same as Account Number on the statements, ex. 000123456), last name, and
-    bank account information. You will receive an auto-generated email receipt for
-    the payment.
+    Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.
+    Begin by clicking the "Make a Payment" button on the page. &nbsp;Clicking this
+    button will take you to our secured payment site. &nbsp;You will need your Student
+    ID number (same as Account Number on the statements, ex. 000123456), last name,
+    and bank account information. You will receive an auto-generated email receipt
+    for the payment.
 - question: How do I change my billing address?
   answer: <ol class="browser-default"> <li class="browser-default">Log on to your
     Self-Service Account</li> <li class="browser-default">Click My Profile</li> <li
