@@ -2,7 +2,6 @@
 title: Student Accounts
 date: 2017-04-11 23:23:00 Z
 parallax-img: "/images/Parallax4.jpg"
-layout: studentaccounts
 days-open: Monday - Friday
 hours: 10:00 am - 5:00 pm
 address: The Master's University and Seminary <br> Student Accounts Office <br> 21726
@@ -42,21 +41,21 @@ tabs:
     Special arrangements may be made if a student is unable to pay according to the prescribed schedule or terms. Such arrangements must be requested in writing to the Student Accounts Office and will not be considered valid unless approved by the Director of Student Accounts.
 general-faqs:
 - question: How do I make a payment online?
-  answer: <p>Online payments can be made by clicking “Make a Payment” when logged
-    into Self-Service in the Finances tab or by going to&nbsp;<a href="/payments"
-    target="_blank">www.masters.edu/payments</a>.</p><p>Begin by clicking the "Make
-    a Payment" button on the page. &nbsp;Clicking this button will take you to our
-    secured payment site. &nbsp;You will need your Student ID number (same as Account
-    Number on the statements, ex. 000123456), last name, and bank account information.
-    You will receive an auto-generated email receipt for the payment.</p>
+  answer: Online payments can be made by clicking “Make a Payment” when logged into
+    Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.</p><p>Begin
+    by clicking the "Make a Payment" button on the page. &nbsp;Clicking this button
+    will take you to our secured payment site. &nbsp;You will need your Student ID
+    number (same as Account Number on the statements, ex. 000123456), last name, and
+    bank account information. You will receive an auto-generated email receipt for
+    the payment.
 - question: How do I change a choice I made during pre-registration?
-  answer: <p>Online payments can be made by clicking “Make a Payment” when logged
-    into Self-Service in the Finances tab or by going to&nbsp;<a href="/payments"
-    target="_blank">www.masters.edu/payments</a>.</p><p>Begin by clicking the "Make
-    a Payment" button on the page. &nbsp;Clicking this button will take you to our
-    secured payment site. &nbsp;You will need your Student ID number (same as Account
-    Number on the statements, ex. 000123456), last name, and bank account information.
-    You will receive an auto-generated email receipt for the payment.</p>
+  answer: Online payments can be made by clicking “Make a Payment” when logged into
+    Self-Service in the Finances tab or by going to&nbsp;<a href="/payments" target="_blank">www.masters.edu/payments</a>.</p><p>Begin
+    by clicking the "Make a Payment" button on the page. &nbsp;Clicking this button
+    will take you to our secured payment site. &nbsp;You will need your Student ID
+    number (same as Account Number on the statements, ex. 000123456), last name, and
+    bank account information. You will receive an auto-generated email receipt for
+    the payment.
 - question: How do I change my billing address?
   answer: <ol class="browser-default"> <li class="browser-default">Log on to your
     Self-Service Account</li> <li class="browser-default">Click My Profile</li> <li
@@ -309,6 +308,7 @@ onlinepayment-body: |-
 
   <br>
 onlinepayment-button: "[![button_makeapayment.png](http://www.masters.edu/media/723763/button_makeapayment.png)](https://give.cornerstone.cc/TMCS)"
+layout: studentaccounts
 ---
 
 The Student Accounts Office is responsible for processing student account charges, collecting payments, processing refunds, distributing monthly itemized statements, and providing customer service to the students and families of The Master's University and The Master's Seminary.
