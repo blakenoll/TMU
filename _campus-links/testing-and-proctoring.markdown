@@ -2,7 +2,6 @@
 title: Testing and Proctoring
 date: 2017-04-11 23:24:00 Z
 parallax-img: "/images/Parallax3.jpg"
-layout: testing
 clep-body: |-
   The College-Level Examination Program (CLEP) is a series of examinations that allows individuals to earn college credit for what they know, regardless of where they learned it. CLEP is the most widely accepted credit-by-examination program in the United States. The Master's College is an "open" testing site for CLEP testing. Testing is available to students and non-students alike. The Master's College offers all 34 CLEP examinations. All CLEP examinations are administered via a computer workstation.
 
@@ -74,7 +73,7 @@ clep-faq-body: |-
   \
   More information is available on the CLEP website at [www.collegeboard.com/clep](http://www.collegeboard.com/clep).
 dsst-faq-body: |-
-  How many tests are offered?
+  ## How many tests are offered?
 
   There are 37 separate DSST examinations. The Master's University offers them all.
 
@@ -185,6 +184,7 @@ clep-resources-body: |-
   7. Other resources can be found for free or fee through a [Google search](http://www.google.com/) by entering the specific CLEP test as the search term.
 
   While most students pass their tests, not all do. Preparation definitely pays off. CLEP tests are intentionally challenging, since they replace an entire semester (or more) of coursework. Study and preparation are strongly recommended!
+layout: testing
 ---
 
 The Master's University is an "open" testing site for CLEP testing, DSST (Dantes) testing, and proctoring. Testing is available to students and non-students alike. Members of the US Military are welcome. All CLEP and DSST examinations are administered via a computer workstation.
