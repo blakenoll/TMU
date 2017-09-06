@@ -1047,8 +1047,7 @@ transcript-body: |-
   <p><strong>First Class mail delivery</strong>: please complete and email/mail/fax the <a href="/media/870273/transcript-request-form-81717-new.pdf" target="_blank"><span style="text-decoration: underline;">Transcript Request Form</span></a> below to the Office of the Registrar.<br /><strong>Email Delivery: </strong>Please <span style="text-decoration: underline;"><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services">click here</a></span> and create an account. Once you have created an account under Step 1, do not proceed to Step 2. Contact the Office of the Registrar at (661)362-2813 and/or registrar@masters.edu to complete the process. </p>
   <h2><strong><br />How to Order Transcripts </strong></h2>
 
-  ><a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a><div class="video-container"><iframe src="https://www.youtube.com/embed/_QtJ0uny2SA" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>>
-  <h2> </h2>
+  <a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a>
 
 
   <h2><strong>Frequently Asked Questions </strong></h2>
