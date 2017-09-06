@@ -8,6 +8,7 @@ $gold: #DAAA00;
 $navy: #0C2340;
 $white: #ffffff;
 
+
 body {
   font-family: 'Roboto', sans-serif;
   display: flex;
@@ -20,7 +21,10 @@ main {
 }
 
 a {
-  color: $gold;
+  color: #DAAA00;
+  // h1, h2, h3, h4 {
+  //   color: #0c2340;
+  // }
 }
 
 
