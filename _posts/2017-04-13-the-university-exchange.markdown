@@ -7,7 +7,6 @@ preview-text: Deciding where to go to college is one of the most important choic
   we make in life. Wanting to be successful—which looks different for everyone—can
   be a driving factor in choosing a school. For the first time we are on our own,
   every decision impacting the person we will become
-author: Sabrina Michael
 catergory: Senior Memoir
 image: "/uploads/TMUQuote%20copy.jpg"
 sm-image: https://www.masters.edu/media/869824/karkenny.jpg
