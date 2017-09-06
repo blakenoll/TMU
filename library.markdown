@@ -558,19 +558,15 @@ library-personnel-body: |
 hours-body: |-
   # Semester Hours
 
-  ### January 17 -- May
+  Sunday - 8:00 p.m. - 12:00 p.m.
 
-  Sunday - 8:00 p.m. - 12:00 a.m.
-
-  Monday & Wednesday 10:00 a.m. - 12:00 a.m.
+  Monday & Wednesday 10:30 a.m. - 12:00 a.m.
 
   Tuesday & Thursday 9:30 a.m. - 12:00 a.m.
 
-  Friday 10:00 a.m. - 5:00 p.m.
+  Friday 10:30 a.m. - 5:00 p.m.
 
-  Saturday 2:00 p.m. -10:00 p.m.
-
-  CLOSED for chapel Monday, Wednesday Friday 9:00 a.m. - 10:30 a.m.
+  Saturday 12:00 p.m. -7:00 p.m.
 
   ## Spring Break
 
