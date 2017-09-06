@@ -139,6 +139,16 @@ a {
   }
 }
 
+.bullet-points {
+  ul {
+    padding-left: 20px;
+    li {
+      list-style-type: disc;
+
+    }
+  }
+}
+
 .btn-navy {
   color: fff;
   background-color: $navy;
