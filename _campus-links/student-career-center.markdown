@@ -2,7 +2,6 @@
 title: Student Career Center
 date: 2017-04-11 23:21:00 Z
 parallax-img: "/images/Parallax6.jpg"
-layout: studentcareercenter
 work-study-body: |-
   How work study works
 
@@ -184,31 +183,31 @@ student-career-body: |-
 
   Sometimes a resume just isn't enough. A portfolio can be an effective way of organizing samples of your work and proof of your diligence as an employee that could sell you to an interested prospective employer.
 choosing-a-major-body: |-
-  A major in college is significant, but your life does not depend on it. You can find success in a wide range of careers and industries, regardless of your major. For some careers, a specific major is vitally important, i.e., accounting, engineering and medicine. If you pursue a career in business, a business degree will be more helpful and impressive to prospective employers, but you are not eliminated from consideration with a major in general liberal arts. Choosing the right major might mean that you will get more from your college experience, and that you can avoid additional training or education later on. So there *are* real benefits to selecting a major!\
-  \
-  Take a look at the links that follow. If you'd appreciate additional guidance and advice, go see the helpful staff in the Student Career Center.\
-  \
+  A major in college is significant, but your life does not depend on it. You can find success in a wide range of careers and industries, regardless of your major. For some careers, a specific major is vitally important, i.e., accounting, engineering and medicine. If you pursue a career in business, a business degree will be more helpful and impressive to prospective employers, but you are not eliminated from consideration with a major in general liberal arts. Choosing the right major might mean that you will get more from your college experience, and that you can avoid additional training or education later on. So there *are* real benefits to selecting a major!
+
+  Take a look at the links that follow. If you'd appreciate additional guidance and advice, go see the helpful staff in the Student Career Center.
 
   ## Tools for Choosing a Major
 
-  The Career Center has a variety of tools as well as reference material to assist in choosing a major.\
-  \
-  [What Can I Do With This Major](http://www.masters.edu/DeptPageNew.asp?PageID=1163)\
-  This is a very useful online reference. Scan the list and see occupations that correlate with various majors. (Note that TMC does not offer all of these areas of study.) Click on "links" to learn more about opportunities in the major.\
-  \
+  The Career Center has a variety of tools as well as reference material to assist in choosing a major.
+
+  [What Can I Do With This Major](http://www.masters.edu/DeptPageNew.asp?PageID=1163)
+
+  This is a very useful online reference. Scan the list and see occupations that correlate with various majors. (Note that TMC does not offer all of these areas of study.) Click on "links" to learn more about opportunities in the major.
+
 
   ### Strong Interest Inventory
 
-  The Strong Interest Inventory is used widely in career counseling to help individuals correlate their interests and personality traits with majors and careers. The assessment is 317 simple questions and takes between 30-45 minutes to complete. When you are finished, contact our office at extension 3716 or at [OSEPD@masters.edu](mailto:OSEPD@masters.edu) to schedule a personal review of your results, which will be available immediately. You will not be able to obtain your results directly; you *must *make an appointment with the Office of Student Employment and Professional Development.
+  The Strong Interest Inventory is used widely in career counseling to help individuals correlate their interests and personality traits with majors and careers. The assessment is 317 simple questions and takes between 30-45 minutes to complete. When you are finished, contact our office at extension 3716 or at [OSEPD@masters.edu](mailto:OSEPD@masters.edu) to schedule a personal review of your results, which will be available immediately. You will not be able to obtain your results directly; you \*must \*make an appointment with the Office of Student Employment and Professional Development.
 
   The Strong Interest Inventory is offered to TMU students at no cost!
 
-  Steps for Choosing a Major
+  ## Steps for Choosing a Major
 
   ### REFLECT
 
-  "Know thyself" is sound advice. Don't choose a major because someone you know did, or because someone else is telling you to. You're different in many ways. Think about what you want to DO and then associate your likely professions with a major.\
-  \
+  "Know thyself" is sound advice. Don't choose a major because someone you know did, or because someone else is telling you to. You're different in many ways. Think about what you want to DO and then associate your likely professions with a major.
+
   Make a list of the following:
 
   * What jobs have I enjoyed in the past?
@@ -227,14 +226,15 @@ choosing-a-major-body: |-
 
   * What would I do if income was not a consideration? What would I do for free?
 
-  ### If you have difficulty doing this, the Student Career Center can help you clarify your values, skills and interests. They can then help you connect those chararcteristics to career areas.**\
-  \
-  **RESEARCH
+  **If you have difficulty doing this, the Student Career Center can help you clarify your values, skills and interests. They can then help you connect those characteristics to career areas.**
 
-  Most people evaluate their career after they are in it. Their #1 concern was to get a job for income. They either thought they knew what they would enjoy, or they didn’t give it much thought. Sometimes, after they’ve been in it for awhile, they realize it isn’t what they thought it would be.\
-  \
-  You have a great advantage! You don’t yet have a career, so you can do your evaluating BEFORE you start!\
-  \
+
+  ### RESEARCH
+
+  Most people evaluate their career after they are in it. Their #1 concern was to get a job for income. They either thought they knew what they would enjoy, or they didn’t give it much thought. Sometimes, after they’ve been in it for awhile, they realize it isn’t what they thought it would be.
+
+  You have a great advantage! You don’t yet have a career, so you can do your evaluating BEFORE you start!
+
   Talk to people in fields that you think you would enjoy:
 
   * What’s it like?
@@ -249,16 +249,16 @@ choosing-a-major-body: |-
 
   Talk with professors knowledgeable in your possible field. What can they tell you that helps you understand more about it?
 
-  **RESPOND**
+  ### RESPOND
 
-  Don’t feel pressured to make a decision until you are ready.\
-  \
-  Along the way, take basic required courses that will work for several different majors. Involve yourself in a variety of course experiences to “test the waters.”\
-  \
-  Try taking courses in the majors you are considering. How do you like them? \
-  \
-  Take time to supplement your formal education with real-life learning experiences. Extracurricular activities, internships, mission trips, summer and part-time jobs all play essential roles in developing your skills, as well as giving you exposure to careers and occupations.\
-  \
+  Don’t feel pressured to make a decision until you are ready.
+
+  Along the way, take basic required courses that will work for several different majors. Involve yourself in a variety of course experiences to “test the waters.”
+
+  Try taking courses in the majors you are considering. How do you like them?
+
+  Take time to supplement your formal education with real-life learning experiences. Extracurricular activities, internships, mission trips, summer and part-time jobs all play essential roles in developing your skills, as well as giving you exposure to careers and occupations.
+
   Talk frequently with your academic advisor, with your professors and with the career counselor. And, of course, PRAY WITHOUT CEASING!
 
   ### OTHER WORRIES
@@ -309,5 +309,6 @@ internship-body: |-
   * Paid or unpaid.
 
   * For academic credit or not for academic credit.
+layout: studentcareercenter
 ---
 

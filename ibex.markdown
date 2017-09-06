@@ -67,6 +67,9 @@ app-body: |-
   IBEX application for college students attending neither The Master's University nor an IBEX consortium college (see above).
 
   [Click Here to view the Non-Consortium Student IBEX Application](http://www2.masters.edu/w/GetHostedFile.ashx?Non-Consortium\+Application.pdf&Id=10)
+contact-body: "IBEX Office\n\nThe Master's University \n\n21726 Placerita Canyon Road
+  #16\n\nSanta Clarita, CA 91321\n\nPhone: [661-362-2616](tel:16613622616)\n\nFax:
+  661-362-2712\n\nEmail: [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu)"
 layout: ibex
 ---
 
