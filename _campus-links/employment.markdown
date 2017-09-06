@@ -414,75 +414,6 @@ positions:
     Procedures:\nAll documents included in your application remain the sole property
     of The Master’s College and will not be returned.   Your file for this opening
     will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Loan and Veterans Benefits Counselor (full-time)  (University)
-  position: Staff
-  about-body: "SUMMARY\n\nProcesses all Title IV aid and informs individuals regarding
-    financial aid awards, payments and documentation regarding verification.  This
-    position has no supervisory responsibilities.\n\nESSENTIAL FUNCTIONS\n\nList seven
-    to twelve essential job functions that comprise the job; describe in terms of
-    actions (verbs) and desired outcomes in order of most important first:\n\n•\tCoordinate
-    technical processing in the office\n\n          o\tOversee Direct loan processing\n\n
-    \         o\tPell Program\n\n          o\tCal Grant Program\n\n          o\tPrivate
-    Lending\n \n          o\tVeteran’s Benefits\n \n          o\tElectronic retrieval
-    of student information from Federal Student Aid Programs\n\n          o\tUtilize
-    the PowerFAIDS package in data collection, interpretation and distribution\n\n
-    \         o\tCounsel students and parents regarding loans and loan counseling\n\n•\tFile
-    processing which includes:  verification process, packaging of aid, and counseling
-    students and parents.\n\n•\tProvide service excellence to the campus community
-    and prospective students and families\n\n          o\tResearch, develop and implement
-    programs to increase our service to students in the areas of loan counseling,
-    financial aid workshops and financial planning.\n\n          o\tFunction as liaison
-    between the Office of Financial Aid and other offices on campus.\n\n•\tParticipation
-    in the professional community\n\n          o\tMaintain an intellectual curiosity
-    of state and federal issues in higher education\n\no\tPursue opportunities for
-    professional development. (FSA, NASFAA and PowerFAIDS Conference’s)\n  \n          o\tEstablish
-    and maintain positive professional relationships throughout the education sector.\n\n•\tRegular
-    attendance is essential\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tComputer
-    proficiency and well as basic mathematics and accounting knowledge is necessary.\n\n•\tAcumen
-    for conflict resolution and servant-leader qualities are ideal; the sensitive
-    nature of the position requires a high degree of professionalism coupled with
-    mild temperament, self-control and grace.\n\n•\tPossess outstanding interpersonal
-    skills with demonstrated ability to establish and maintain effective working relationships
-    with staff, faculty, vendors, students and other community members of diverse
-    academic, socio-economic, cultural and ethnic backgrounds.\n\n•\tAbility to be
-    clear and concise in verbal and written communication is essential; excellent
-    oral and written command of the English language is required.\n\n•\tMust be detail
-    oriented and accurate with good organizational and problem solving skills.\n\n•\tAbility
-    to multitask in an environment with many distractions is a must.\n\nQUALIFICATIONS\n\n•\tHas
-    a personal relationship with Jesus Christ and a demonstrated commitment to the
-    doctrinal position of TMCS and a continuous exhibition of a desire to minister
-    and serve others in varied capacities.\n \n•\tEducation:  Bachelor’s degree required.\n\n•\tExperience:
-    \ 3+ years administration in an educational institution preferred\n\n•\tAbility
-    to exercise confidentiality, good judgment and discernment is imperative.\n\n•\tMust
-    successfully pass a background investigation.\n\nWORKING CONDITIONS\n\n•\tWorking
-    Environment: Mostly indoors in a typical office environment, with an occasional
-    need to visit other areas on campus.\n  \n•\tPhysical Demands: Must be able to
-    lift, pull, push, grasp and bend while lifting up to 30lbs.\n\n•\tRepetitive motions
-    on a keyboard and looking at a computer monitor for an extended duration of time
-    is required.\n\n•\tTravel: Some travel involved including overnight stays.\n\nADDITIONAL
-    INFORMATION\n\nMinimum Conditions for Beginning Employment:\n\n\tPrior to beginning
-    employment, in accordance with The Master’s College policy and/or under federal
-    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
-    employment.\n\n2.\tPresent verification of their identity and authorization to
-    work in the United States.\n\nIf, because of a disability, you need special services
-    or facilities in order to apply or interview for this opening please contact the
-    Human Resources department.\n\nThe Master’s College & Seminary does not discriminate
-    on the basis of race, color, national origin, ancestry, gender, age, marital status,
-    veteran status or prior military service, medical condition, or any physical or
-    mental disability.  We are committed to practicing principles of equal employment
-    opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
-    PROCESS\n\nSubmit completed Application for Employment to the Human Resources
-    Department.  The application can be obtained at www.masters.edu/jobs or by contacting:\n\nThe
-    Master’s College and Seminary\n\nHuman Resources Department\n\n21726 Placerita
-    Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248 • (661)
-    362-2843 • FAX (661) 362-2717 • humanresources@masters.edu\n\nSelection Process:\n\nAll
-    applications will be reviewed by the Human Resources department.  Selected candidates
-    will be invited for a personal interview at The Master’s College.  Any expense
-    incurred in connection with these interviews will be the responsibility of the
-    candidates.\n\nApplication Procedures:\nAll documents included in your application
-    remain the sole property of The Master’s College and will not be returned.   Your
-    file for this opening will not be considered unless all requested items are submitted
-    and are complete.\n\n"
 - title: Assistant Controller (Full-time)  (University)
   position: Staff
   about-body: "SUMMARY\n\nUnder the supervision of the Controller, supports the accounting
@@ -624,75 +555,14 @@ positions:
     veteran status or prior military service, medical condition, or any physical or
     mental disability.  We are committed to practicing principles of equal employment
     opportunity and diversity based upon sovereign Biblical principles.\n\n"
-- title: Junior Copywriter for Development (Part-time)  (University)
-  position: Staff
-  about-body: "SUMMARY\n\nLooking for a part-time writer who has the ability to generate
-    and write story ideas or series concepts in accordance with the Centers of Excellence
-    Campaign and  events or important persons in the Development office.\n \nThis
-    writer will need to ghostwrite certain correspondence or articles and will not
-    have, unless noted otherwise, their name posted or attached to any of the articles
-    but will be speaking as one of the voices for The Master’s University. Therefore,
-    each article written must correspond with the voice, tone and style of the university
-    and go through the approval process starting with the office of development, routing
-    through the copywriter for the marketing department and then back to development.\n\nESSENTIAL
-    FUNCTIONS\n\n●\tIs in charge of certain interdepartmental and outside correspondence.
-    \n\n●\tWriter must be willing to work on tight-deadlines, be detail oriented and
-    submit pieces fully edited and ready to be published, must craft a story to communicate
-    the unique attributes of the university and do so in a positive light.\n\n●\tMust
-    have strong editing skills.\n\n●\tAbility to gather data, compile information,
-    and prepare reports.\n \n●\tMust come up with story ideas and be willing to take
-    assignments given by Development.\n\n●\tAs this position requires one to work
-    across multiple departments at the university and with various donors and alumni
-    they must be professional at all times, dressing the part, writing the part and
-    carrying themselves in a way that represents the university appropriately.\n\n●\tPerforms
-    miscellaneous job-related duties as assigned.\n \n●\tMust accept and adhere to
-    our doctrinal statement at all times.\n\n●\tRegular attendance is essential.\n\nQUALIFICATIONS\n\n●\tHas
-    a personal relationship with Jesus Christ and a demonstrated commitment to the
-    doctrinal position of TMU&S and a continuous exhibition of a desire to minister
-    and serve others in varied capacities.\n\n●\tMust be able to get along with co-workers
-    and the public.\n\n●\tDemonstrated ability to establish and maintain effective
-    working relationships with staff, faculty, vendors, students, &/or community members
-    of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n●\tHave
-    computer proficiency.\n\n●\tExcellent oral and written command of the English
-    language is required.\n\n●\tPossess excellent organizational skills.\n\n●\tExercise
-    confidentiality, good judgment and discernment.\n\n●\tService oriented and able
-    to interface with many people is mandatory.\n\n●\tMultitasked in an environment
-    with many distractions is a must.\n\n●\tReading and comprehending correspondence
-    is imperative.\n\nWORKING CONDITIONS\n\n●\tWorking Environment: Mostly indoors
-    in a typical office environment, with an occasional need to visit other areas
-    on campus.\n  \n●\tPhysical Demands: Must be able to lift, pull, push, grasp and
-    bend while lifting up to 30lbs.\n\n●\tRepetitive motions on a keyboard and looking
-    at a computer monitor for an extended duration of time is required.\n\nADDITIONAL
-    INFORMATION\n\nMinimum Conditions for Beginning Employment:\n\n\tPrior to beginning
-    employment, in accordance with The Master’s University policy and/or under federal
-    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
-    employment.\n\n2.\tPresent verification of their identity and authorization to
-    work in the United States.\n\nIf, because of a disability, you need special services
-    or facilities in order to apply or interview for this opening please contact the
-    Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
-    on the basis of race, color, national origin, ancestry, gender, age, marital status,
-    veteran status or prior military service, medical condition, or any physical or
-    mental disability.  We are committed to practicing principles of equal employment
-    opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
-    PROCESS\nCompleted application form from The Master’s University.  This can be
-    obtained at www.masters.edu/jobs or by contacting\n\nThe Master’s University and
-    Seminary\nHuman Resources Department\n\n21726 Placerita Canyon Road • Santa Clarita,
-    California • 91321-1200\n\n(800) 568-6248 • (661) 362-2844 ♦ FAX (661) 362-2717\n\nSelection
-    Process:\n\nAll applications will be reviewed by the Human Resources department.
-    \ Selected candidates will be invited for a personal interview at The Master’s
-    University.  Any expense incurred in connection with these interviews will be
-    the responsibility of the candidates.\n\nApplication Procedures:\nAll documents
-    included in your application remain the sole property of The Master’s University
-    and will not be returned.   Your file for this opening will not be considered
-    unless all requested items are submitted and are complete.\n\n"
 - title: VOLUNTEER Welcome Center Greeter (Part-time)  (University)
   position: Staff
-  about-body: |-
-    This position is a volunteer position with flexible hours.
-
-    This individual will be greeting people at the front lobby, answering basic questions, and giving directions.
-
-    For more information, please contact Human Resources at:  661-362-2843 0r 661-362-2844
+  about-body: "This is a volunteer position in our TMU Welcome Center. \n We are looking
+    for someone for Tuesday and Thursday afternoons from 1 p.m. to 4 p.m.\n\nThis
+    individual will be greeting people in the front lobby, answering basic questions,
+    and giving directions.  It's an amazing opportunity to interact with people while
+    serving Christ and the University.\n\nFor more information, please contact Bob
+    Betsch at 661.362.2360, Ext. 3796 or rbetsch@masters.edu"
 layout: employment
 ---
 
