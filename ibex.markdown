@@ -40,33 +40,33 @@ app-body: |-
 
   These applications are for the long-term, semester program only. Please [contact the IBEX Office](https://athletics.masters.edu/%7BlocalLink:1924%7D "IBEX Office") for information on short-term trips.
 
-  * ## The Master's University Student IBEX Application
+  ### The Master's University Student IBEX Application
 
-    IBEX application for university students accepted by or currently attending The Master's University
+  IBEX application for university students accepted by or currently attending The Master's University
 
-    [Click here to complete the TMU IBEX application Online](http://www.formstack.com/forms/masters-Ibex_Application)
+  [Click here to complete the TMU IBEX application Online](http://www.formstack.com/forms/masters-Ibex_Application)
 
-  * ## Consortium Student IBEX Application
+  ### Consortium Student IBEX Application
 
-    IBEX application for college students attending one of the following colleges:
+  IBEX application for college students attending one of the following colleges:
 
-    * Baptist Bible College (Clarks Summit, Pennsylvania)
+  * Baptist Bible College (Clarks Summit, Pennsylvania)
 
-    * Cedarville University (Cedarville, Ohio)
+  * Cedarville University (Cedarville, Ohio)
 
-    * Corban College (Salem, Oregon)
+  * Corban College (Salem, Oregon)
 
-    * Moody Bible Institute (Chicago, Illinois)
+  * Moody Bible Institute (Chicago, Illinois)
 
-    * Philadelphia Biblical University (Langhorne, Pennsylvania)
+  * Philadelphia Biblical University (Langhorne, Pennsylvania)
 
   [Click here to view the Consortium Student IBEX Application](http://www2.masters.edu/w/GetHostedFile.ashx?Consortium_Application.pdf&Id=9)
 
-  * ## Non-Consortium Student IBEX Application
+  ### Non-Consortium Student IBEX Application
 
-    IBEX application for college students attending neither The Master's University nor an IBEX consortium college (see above).
+  IBEX application for college students attending neither The Master's University nor an IBEX consortium college (see above).
 
-    [Click Here to view the Non-Consortium Student IBEX Application](http://www2.masters.edu/w/GetHostedFile.ashx?Non-Consortium\+Application.pdf&Id=10)
+  [Click Here to view the Non-Consortium Student IBEX Application](http://www2.masters.edu/w/GetHostedFile.ashx?Non-Consortium\+Application.pdf&Id=10)
 layout: ibex
 ---
 
