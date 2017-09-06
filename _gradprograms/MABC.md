@@ -237,7 +237,7 @@ tuition-body: |-
 
   In general, the costs that should be considered for the MABC program at TMU are as follows:
 
-  * **$435** credit hour | 34 credit hour program | $14,790 total tuition
+  * **$435** credit hour     |     34 credit hour program     |     $14,790 total tuition
 
   * **\~$1,500** for books and materials (including required Bible software program &  Journal of Biblical Counseling \*subscription/archive)
 
