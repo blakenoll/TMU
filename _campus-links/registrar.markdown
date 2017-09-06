@@ -485,65 +485,65 @@ articulation-body: |-
 ferpa-body: |-
   ## Family Education Rights and Privacy Act of 1974 as Amended
 
-    The Family Education Rights and Privacy Act (FERPA; also known as the "Buckley Amendment") and provisions of the California Education Code set out requirements designed to govern the access to, and release of, educational records, to establish the right of students to inspect and review their records, and to provide guidelines for the correction of inaccurate or misleading data through informal and formal hearings. Students also have the right to file complaints with the FERPA Office at the [United States Department of Education](http://www.ed.gov/index.jsp) concerning alleged failures by The Master's University to comply with provisions of FERPA.
+  The Family Education Rights and Privacy Act (FERPA; also known as the "Buckley Amendment") and provisions of the California Education Code set out requirements designed to govern the access to, and release of, educational records, to establish the right of students to inspect and review their records, and to provide guidelines for the correction of inaccurate or misleading data through informal and formal hearings. Students also have the right to file complaints with the FERPA Office at the [United States Department of Education](http://www.ed.gov/index.jsp) concerning alleged failures by The Master's University to comply with provisions of FERPA.
 
-    In accordance with the regulations of FERPA, as amended, The Master's University has adopted policies and procedures concerning the implementation of FERPA on campus. Copies of the policy are available in the Office of the registrar. The Department of Education offers a copy of the [FERPA regulations online](http://www.ed.gov/offices/OM/fpco/ferpa/index.html).
+  In accordance with the regulations of FERPA, as amended, The Master's University has adopted policies and procedures concerning the implementation of FERPA on campus. Copies of the policy are available in the Office of the registrar. The Department of Education offers a copy of the [FERPA regulations online](http://www.ed.gov/offices/OM/fpco/ferpa/index.html).
 
-    ## Directory Information
+  ## Directory Information
 
-    Certain information designated as "Directory Information" may be disclosed without the consent or knowledge of the student unless the student has notified The Master's University in advance that such information is not to be released. "Directory Information" at The Master's University is defined as:
+  Certain information designated as "Directory Information" may be disclosed without the consent or knowledge of the student unless the student has notified The Master's University in advance that such information is not to be released. "Directory Information" at The Master's University is defined as:
 
-    * Name
+  * Name
 
-    * Address
+  * Address
 
-    * Telephone listing
+  * Telephone listing
 
-    * E-mail Address
+  * E-mail Address
 
-    * Date of birth (verification only)
+  * Date of birth (verification only)
 
-    * Major field of study
+  * Major field of study
 
-    * Participation in officially recognized activities and sports
+  * Participation in officially recognized activities and sports
 
-    * Height and weight of members of athletic teams
+  * Height and weight of members of athletic teams
 
-    * Dates of attendance at the university
+  * Dates of attendance at the university
 
-    * Degrees and honors received
+  * Degrees and honors received
 
-    * Enrollment status (undergraduate or graduate, full-time or part-time)
+  * Enrollment status (undergraduate or graduate, full-time or part-time)
 
-    * Year in school
+  * Year in school
 
-    * Photographs
+  * Photographs
 
-    * The most recent educational agency or institution attended
+  * The most recent educational agency or institution attended
 
-    The purpose of establishing this definition of Directory Information is to notify the student of the types of personally identifiable information included with this definition of "Directory Information" and to allow the student to prevent the disclosure of this information should he or she wish to do so.
+  The purpose of establishing this definition of Directory Information is to notify the student of the types of personally identifiable information included with this definition of "Directory Information" and to allow the student to prevent the disclosure of this information should he or she wish to do so.
 
-    The student may request that his or her information remain confidential by checking the "No" option under the "Contact Information" section of the Student Registration Form.
+  The student may request that his or her information remain confidential by checking the "No" option under the "Contact Information" section of the Student Registration Form.
 
-    ## Implications of Specifying Confidentiality to Student Records
+  ## Implications of Specifying Confidentiality to Student Records
 
-    Students requesting that their records remain confidential should be aware that no information will be given out to anyone, including immediate family members and potential employers, regarding any information about the student. Students with confidentiality are not able to obtain information concerning their own records unless they inquire in person or by writing a request which includes their signature.
+  Students requesting that their records remain confidential should be aware that no information will be given out to anyone, including immediate family members and potential employers, regarding any information about the student. Students with confidentiality are not able to obtain information concerning their own records unless they inquire in person or by writing a request which includes their signature.
 
-    Students who have requested that their information remain confidential and who withdraw or graduate from the university should be aware that their information will remain confidential and will not be released without the signature and expressed consent of that student.
+  Students who have requested that their information remain confidential and who withdraw or graduate from the university should be aware that their information will remain confidential and will not be released without the signature and expressed consent of that student.
 
-    ## Exceptions
+  ## Exceptions
 
-    The university does not permit access to, or the release of, personally identifiable information or educational records, to any individual without the written consent of the student, with the following exceptions:
+  The university does not permit access to, or the release of, personally identifiable information or educational records, to any individual without the written consent of the student, with the following exceptions:
 
-    * To administrators, faculty, or staff of the university, having legitimate educational concerns.
+  * To administrators, faculty, or staff of the university, having legitimate educational concerns.
 
-    * To medical personnel when the health of the student or others would be endangered by the withholding of information.
+  * To medical personnel when the health of the student or others would be endangered by the withholding of information.
 
-    * To financial aid personnel in connection with an application for such aid.
+  * To financial aid personnel in connection with an application for such aid.
 
-    * To the parents of dependent children.
+  * To the parents of dependent children.
 
-    * To the governmental officials designated by law, or in compliance with a judicial order.
+  * To the governmental officials designated by law, or in compliance with a judicial order.
 finals-schedule-body: |-
   <table class="bordered">
     <tbody>
@@ -673,7 +673,7 @@ media-ethics-body: |-
 
     God calls all believers to submit to the governing authorities (this includes federal, state, and/or local governments and their respective legislation). Romans 13 directs, "Let every person be in subjection to the governing authorities. For there is no authority except from God, and those which exist are established by God…render to all what is due them: tax to whom tax is due; custom to whom custom; fear to whom fear; honor to whom honor" (vv. 1, 7). Current laws governing the use of technology require students to honor these laws as a mandate regardless of personal opinion. Students who are in violation of such laws will face the consequences of campus discipline, as well as, legal liability.
 
-    ## II. Definitions
+  ## II. Definitions
 
     Electronic Media – Any electronic medium, including but not limited to: email text, chat, email attachments, gaming, web page viewing, video files, audio files, or computer/program files.
 
@@ -687,17 +687,21 @@ media-ethics-body: |-
 
     Texting – Refers to the exchange of brief written messages between fixed-line phone or mobile phone and fixed or portable devices over a network.
 
-    ## III. Guidelines
+  ## III. Guidelines
 
     Any “unwholesome” [i.e. actions inconsistent with our profession as Christ’s followers committed to holiness, truth, and the proper stewardship of His blessings (possessions, time, etc.)] use of Electronic Media which may include, but not be limited to: email text, chat, email attachments, video files, audio files, electronic/internet gaming, web page viewing or file transfers is expressly forbidden.
 
-    ### Email – Electronic mail which meets the following criteria is prohibited:
+  ## Email
+
+  Electronic mail which meets the following criteria is prohibited:
 
     Spamming – An attempt by any student(s) to issue unsolicited bulk email to other students, or to anyone outside of The Master's University.
 
     Spoofing – Any attempt to send an email which appears to have originated from someone other than the actual sender. Unrelated to email, prohibited “spoofing” also includes any attempt to impersonate/borrow another user’s login.
 
-    ### Internet/TMU Network – Internet/TMU Network/MasterNet use is restricted in the following ways:
+  ### Internet/TMU Network
+
+  Internet/TMU Network/MasterNet use is restricted in the following ways:
 
     Web Page viewing – Viewing http, https, ftp, or any Internet site regardless of protocol with illegal, pornographic, or any other immoral material is prohibited.
 
@@ -713,13 +717,15 @@ media-ethics-body: |-
 
     Usage for Internet/Server-The TMU network is not to be used to set up a personal “server.” The server prohibition includes, but is not limited to: file sharing, DCHP, WINS, DNS, Directory Services and Web Services. For an extended definition, see the Network Use Policy ([NetworkPolicy](http://www.masters.edu/networkpolicy "NetworkPolicy")).
 
-    ### Phone Usage - Illicit or harassing phone calls are prohibited. This includes calls to phone services with sexual content, or any type of inappropriate calls with/to other students.
+  ### Phone Usage
+
+  Illicit or harassing phone calls are prohibited. This includes calls to phone services with sexual content, or any type of inappropriate calls with/to other students.
 
     Texting – Illicit or harassing texting is prohibited. This includes texts with sexual content, or any type of inappropriate texts with/to other students.
 
     Printing/Scanning – Printing or scanning or illegal, pornographic, or any other immoral material is prohibited.
 
-    ## IV. Consequences
+  ## IV. Consequences
 
     Each student bears full responsibility for his/her actions as they relate to the use of the TMU Network or any electronic media. Discipline for all infractions of the Media Ethics Policy will be under the direction of Student Life. This may include, but is not limited to, the suspension and/or revocation of network and Internet access and services.
 
@@ -737,7 +743,7 @@ policies-body: |-
 
     Classes may be added during the first two weeks of each semester. Between the 3rd and 13th weeks of each semester, students may withdraw from classes without a grade penalty by completing an add/drop form and submitting it to the Registrar's Office to make the changes. The student will receive a W (withdrawal) grade in that course. A student who never attends (or stops attending) a course for which he is officially registered without following the accepted procedures will be awarded the grade earned in that course.
 
-    ## Directed Studies
+  ## Directed Studies
 
     A Directed Studies (DS) course is a course that does not meet as a regularly scheduled class. A DS course may be appropriate to resolve a scheduling conflict, to complete a course not offered in a given academic term, or to study an academic topic or subject matter not offered by TMU.
 
@@ -751,15 +757,15 @@ policies-body: |-
 
     A student may enroll in no more than two DS courses in any one academic term, and a maximum of 13 units of TMU DS coursework may be used to complete a bachelor's degree program.
 
-    ## Repeated Courses
+  ## Repeated Courses
 
     A student may repeat any course which was previously attempted. No additional credits may be earned, however, by repeating a course which a student has already passed (grade of D- or higher) unless the course is designated as repeatable for credit. When a course is repeated at The Master's University, the subsequent grade replaces the previous grade for GPA purposes (even if lower), but the previous grade remains on the student's academic record and transcript.
 
-    ## Grade Changes
+  ## Grade Changes
 
     It is the student's responsibility to immediately bring any error in grades to the attention of the instructor. Grade changes are made at the discretion of the instructor and will be posted to the student's permanent record when the instructor completes a Grade Change Form and returns it to the Registrar's Office.
 
-    ## Non-Term Courses
+  ## Non-Term Courses
 
     Non-term courses are identified as those not taken during the fall or spring semesters. Non-term at The Master's University is considered as winterim and post-session.
 
@@ -767,7 +773,7 @@ policies-body: |-
 
     Post-session takes place during two time periods: 1) the final three weeks of May and 2) the first three weeks of June. Course registration for post-session begins during spring course registration and extends until the first day of the post-session class. Tuition and fees must be paid before the first day of class. A student may take no more than six units during each post-session.
 
-    ## Awarding of Credit by Examination
+  ## Awarding of Credit by Examination
 
     The Master's University, as a member of the College Entrance Examination Board (CEEB), recognizes the merits of the Advanced Placement (AP), the College Level Examination Program (CLEP), and the International Baccalaureate (IB), and will grant credit for passing scores in certain tests offered through these programs. A student may earn a maximum of 32 semester units of AP/CLEP/IB exam transfer credit. If a student takes a college course for which he has already received AP/CLEP/IB credit, then he forfeits that transfer credit.
 
@@ -775,15 +781,15 @@ policies-body: |-
 
     Note: The Master's University has been designated as a national testing facility for the CLEP examination. For testing information, click here or contact the Center for Career Services at ext. 3002.
 
-    ## Verification of Enrollment
+  ## Verification of Enrollment
 
     Written verification of enrollment may be requested by a student at any time during the semester. Verification of enrollment may be released to any party: for student loan deferment, good student discounts on auto insurance, health insurance, scholarships, etc. A copy of the verification is kept in the student's file. The Master's University can verify enrollment for current and previous semesters, not for future semesters.
 
-    ## Change of Name/Contact Information
+  ## Change of Name/Contact Information
 
     Should you need to update your information for our student records, please forward the pertinent information (preferably in writing) to our office via email or post office.
 
-    ## Scholastic Probation
+  ## Scholastic Probation
 
     Any student whose cumulative grade point average falls below 2.00 will be placed on academic probation for one semester. Any student entering on probation is limited to 15 units per semester. They must earn a minimum GPA of 2.00 at the end of the first semester to be removed from probation.
 
@@ -793,7 +799,7 @@ policies-body: |-
 
     Any student whose GPA falls below 2.00 may not participate in extracurricular activities such as student government, athletics, music and mission teams.
 
-    ## Complete Withdrawal from The Master's University
+  ## Complete Withdrawal from The Master's University
 
     A student who, for any reason, finds it necessary to withdraw from the university during the course of the semester must do so through the Registrar's Office. The student must complete the Complete Withdrawal form. Failure to comply with these regulations will result in failing grades entered on the student's record. Any refund due the student is according to the refund policy available in the Student Accounts Center.
 register-body: |-
@@ -988,12 +994,12 @@ senior-body: |-
   Summa Cum Laude........3.85-4.00
 
   Honors recognized in the graduation ceremony may be changed based on the processing of final grades.
-transcript-body: |+
+transcript-body: |-
   <h1><strong><span>Transcripts</span></strong></h1>
   <p><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services" class="btn btn-blue"><strong><span>ORDER TRANSCRIPTS</span></strong></a></p>
   <p><strong>\*Update: Effective June 30, 2017 (Friday), The Registrar's Office will be implementing the use of Parchment for online ordering and electronic delivery. The Master's University and Seminary students will have the option to order transcripts with mail delivery, eTranscript, and/or campus pick-up.</strong></p>
   <p><strong>\*\*The Master's University students applying to The Master's Seminary do not need to order an official transcript. Please contact TMS for assistance. Separate orders are no longer required for those attending both TMU and TMS and only one fee will be charged per order. </strong></p>
-  <p>Academic transcripts are maintained for every student ever in attendance at The Master's University, The Master's Institute, The Master's Seminary, Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. Transcripts will not be released unless all financial obligations to the University or Seminary have been met. It is the student's responsibility to clear all holds on his/her account before ordering a transcript. If you have questions regarding a STOP, please contact the Student Accounts Office at <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a> or call (661)362-2212.  </p>
+  <p>Academic transcripts are maintained for every student ever in attendance at The Master's University, The Master's Institute, The Master's Seminary, Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. Transcripts will not be released unless all financial obligations to the University or Seminary have been met. It is the student's responsibility to clear all holds on his/her account before ordering a transcript. If you have questions regarding a STOP, please contact the Student Accounts Office at <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a> or call (661) 362-2212.  </p>
   <p><span> <br /> </span></p>
   <h2><strong><span>Processing time</span></strong></h2>
   <p><span>Please allow 3-5 business days for processing. Rush processing is available for $10 in addition to transcript fee and is processed within 2 business days. Processing time may be delayed at the beginning and end of the semester. Thank you for your patience! <br /> <br /> </span></p>
@@ -1018,7 +1024,7 @@ transcript-body: |+
   </tr>
   </tbody>
   </table>
-  <h2><strong style="color: #7a7a7a; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;">*Please be aware that if you order an eTranscript to be sent to your own email, it will no longer be considered official when it is printed. The word COPY will appear as latent images across the face of the transcript.</strong></h2>
+  <h2><strong style="color: #7a7a7a; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;">\*Please be aware that if you order an eTranscript to be sent to your own email, it will no longer be considered official when it is printed. The word COPY will appear as latent images across the face of the transcript.</strong></h2>
   <p> </p>
   <h2><strong><span>Delivery Options and Fees</span></strong></h2>
   <ul>
@@ -1040,8 +1046,11 @@ transcript-body: |+
   <p><span>For <strong>scholarship or TMU staff/faculty</strong>, no transcript fees for First Class mail delivery or campus pick-up. Email delivery is $4 and an account must be created. </span></p>
   <p><strong>First Class mail delivery</strong>: please complete and email/mail/fax the <a href="/media/870273/transcript-request-form-81717-new.pdf" target="_blank"><span style="text-decoration: underline;">Transcript Request Form</span></a> below to the Office of the Registrar.<br /><strong>Email Delivery: </strong>Please <span style="text-decoration: underline;"><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services">click here</a></span> and create an account. Once you have created an account under Step 1, do not proceed to Step 2. Contact the Office of the Registrar at (661)362-2813 and/or registrar@masters.edu to complete the process. </p>
   <h2><strong><br />How to Order Transcripts </strong></h2>
-  <a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a><div class="video-container"><iframe src="https://www.youtube.com/embed/_QtJ0uny2SA" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
+
+  ><a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a><div class="video-container"><iframe src="https://www.youtube.com/embed/_QtJ0uny2SA" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>>
   <h2> </h2>
+
+
   <h2><strong>Frequently Asked Questions </strong></h2>
   <p><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank">Please click here<br /></a></strong><strong> </strong><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank"><br /></a></strong></p>
   <h2><strong><span>Contact Us</span></strong></h2>
@@ -1049,8 +1058,6 @@ transcript-body: |+
   <p><span><strong>Fax</strong>: (661) 362-2722 (private & secure)</span></p>
   <p><span><strong>Email</strong>: </span><a href="mailto:Registrar@masters.edu"><span>Registrar@masters.edu</span></a><span> (if scanning paper form, call in credit card info)</span></p>
   <p><span><strong>Mail</strong>: The Master's University, Office of the Registrar, 21726 Placerita Canyon Road, Santa Clarita, CA 91321</span></p>
-  *
-
 general-education-body: |-
   This checklist is for general guidance. Since certain majors have mandatory/permissive course substitutions, please refer to the catalog for the academic year you began at TMU.
 
@@ -1729,6 +1736,6 @@ academic-calendar-body: |-
 layout: registrar
 ---
 
-The Registrar's Office is committed to serving the students' academic needs in numerous ways.
+The Registrar's Office is committed to serving the students' academic needs in numerous ways:
 
-Registration for Classes, Adding Classes, Dropping Classes, Monitor Degree Requirements, Grades, Transcript Requests, Official Grades, Evaluation of Transfer Classes, Verification of Enrollment, Senior Contracts, Graduation Ceremony Details, Graduation Requirements
+Registration for classes, adding classes, dropping classes, monitor degree requirements, grades, transcript requests, official grades, evaluation of transfer classes, verification of enrollment, senior contracts, graduation ceremony details, graduation requirements.
