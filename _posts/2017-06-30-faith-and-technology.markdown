@@ -1,6 +1,7 @@
 ---
 title: Faith and Technology
 date: 2017-06-30 23:50:00 Z
+author: Adam Ashoff, Director of Student Activities
 sm-image: http://www.masters.edu/media/870038/faithtech.jpg
 ---
 
