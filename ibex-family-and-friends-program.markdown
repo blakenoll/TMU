@@ -61,9 +61,9 @@ application-body: |-
 
   2. To pay by credit card, please use our **[secure payment portal](https://masters.formstack.com/forms/family_and_friends_israel_trip)**.
 
-  3. To pay by check, please make the check payable to The Master's College and mail or deliver to the IBEX Office.
+  3. To pay by check, please make the check payable to The Master's University and mail or deliver to the IBEX Office.
 
-  4. The Master's College requires all participants in the Family & Friends program to fill out a **[release form](https://athletics.masters.edu/media/866592/activity-release-form-2105-01-29-fillable.pdf "Activity Release Form 2105-01-29 - fillable.pdf")**. Print the completed form and sign and date at the bottom. You can scan the form and email it to ibexoffice@masters.edu or mail it to the IBEX Office.
+  4. The Master's University requires all participants in the Family & Friends program to fill out a **[release form](https://athletics.masters.edu/media/866592/activity-release-form-2105-01-29-fillable.pdf "Activity Release Form 2105-01-29 - fillable.pdf")**. Print the completed form and sign and date at the bottom. You can scan the form and email it to ibexoffice@masters.edu or mail it to the IBEX Office.
 
   5. For any questions regarding logistical and payment details, please contact Bethany Cathcart in the IBEX Office, 661-259-3540 x3011 or [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu). Also, keep in mind that Bethany is a full-time student and only works certain days and hours in the IBEX Office. Allow her time to reply to your email inquiries or phone calls.
 
@@ -73,7 +73,7 @@ cost-body: |-
 
   ### Airfare Included:
 
-  \$3,700 per person (credit card) - [Secure Payment Portal\
+  \$3,710 per person (credit card) - [Secure Payment Portal\
   ](https://masters.formstack.com/forms/family_and_friends_israel_trip)
 
   \$3,575 per person (check)
@@ -120,19 +120,19 @@ cost-body: |-
 
   ## Payment schedule:
 
-  November 21 $300 deposit due (non-refundable)
+  November 15 $300 deposit due (non-refundable)
 
-  January 13 $3,400 balance due ($3,275 - check price)
+  January 10 $3,400 balance due ($3,275 - check price)
 
-  If you make your full payment after December 14, keep in mind that our IBEX secretary (who handles the payments) will heading home for her Christmas break and won’t arrive back on campus untili the due date for the final payment. We need the payments in by January 13 to give the IBEX secretary and the finance office time to gather those payments together and send checks off for the land and airline side of the trip costs.
+  If you make your full payment after December 13, keep in mind that our IBEX secretary (who handles the payments) will heading home for her Christmas break and won’t arrive back on campus untili the due date for the final payment. We need the payments in by January 13 to give the IBEX secretary and the finance office time to gather those payments together and send checks off for the land and airline side of the trip costs.
 
-  So if you make your final payment after December 14, please don’t expect any response saying that your payment was received until she gets back into the IBEX office and can catch up with payments that came in during the break. Also, there is no need to email me because I won’t know anything about what has come through as payments. If you are wondering if your payment was received, feel free to email Bethany after January 13.
+  So if you make your final payment after December 12, *please don’t expect any response saying that your payment was received* until she gets back into the IBEX office and can catch up with payments that came in during the break. Also, there is no need to email me because I won’t know anything about what has come through as payments. If you are wondering if your payment was received, feel free to email Bethany after January 10.
 faq-body: |-
   FAQs
 
   ### Will I need a passport and visa?
 
-  A current passport IS REQUIRED and must not expire until six months after our return date. [Please apply immediately](http://travel.state.gov/content/passports/en/passports.html), as it may take several weeks to process. Recent news alerts have stated that passport processing now seems to take more time than usual. Don’t delay in applying for your passport!!
+  A current passport IS REQUIRED and must not expire until six months after our return date. [Please apply immediately](http://travel.state.gov/content/passports/en/passports.html), as it may take several weeks to process.* Recent news alerts have stated that passport processing now seems to take more time than usual. Don’t delay in applying for your passport!!*
 
   A visa, however, is not required.
 
@@ -142,7 +142,7 @@ faq-body: |-
 
   ### I live outside of California. May I travel directly to Israel, or do I need to join the group at LAX?
 
-  The IBEX Office will put you in touch with a travel agent if you wish to make other arrangements. It is possible to leave from other major airports and connect with the group in New York City (JFK). We generally discourage travel to Israel apart from the group due to potential scheduling conflicts. If you do travel on your own to Israel, land-only cost of the trip is $2,025 (or $1,950 if paid by check). However, we are not able to arrange ground transportation or hotels for alternative travel arrangements if your flight schedule does not match that of the Friends and Family group. You will need to BE SURE you arrive before the group does if you want to ride on the bus from the airport to the IBEX campus. Itinerary details will be available for those who might need it for flight planning.
+  The IBEX Office will put you in touch with a travel agent if you wish to make other arrangements. It is possible to leave from other major airports and connect with the group in New York City (JFK). We generally discourage travel to Israel apart from the group due to *potential scheduling conflicts*. If you do travel on your own to Israel, land-only cost of the trip is $2,025 (or $1,950 if paid by check). However, we are not able to arrange ground transportation or hotels for alternative travel arrangements if your flight schedule does not match that of the Friends and Family group. You will need to BE SURE you arrive before the group does if you want to ride on the bus from the airport to the IBEX campus. Itinerary details will be available for those who might need it for flight planning.
 
   ### In light of the current conflicts in the Middle East, [how safe is it to travel to Israel](http://www.waynestiles.com/is-it-safe-to-travel-to-israel/)?
 
@@ -155,7 +155,14 @@ faq-body: |-
   ### What happens if TMU decides to cancel the Family and Friends trip?
 
   If we decide to cancel the F&F trip before the full payment is due (Jan. 12), we will fully refund the deposit or whatever a person has paid. However, after the full payment is made and that money goes to the airline and the land venues (in mid to late January), the money is out of our hands. If things get so bad at that point that we make the painful decision to cancel the trip (which I don't at all expect), we have no access to that money. That is where the travel insurance kicks in. That is why we are encouraging concerned people to buy the travel insurance--making sure they understand the parameters of the policy they choose.
-flight-body: 
+flight-body: |-
+  DL 44 | 02 MAR | LAX JFK 11:30 am | 8:05 pm
+
+  DL 468  | 02 MAR | JFK TLV 11:24 pm | 4:30 pm arrives 03 MAR
+
+  DL 467 | 10 MAR | TLV JFK 11:30 pm | 5:13 am arrives 11 MAR
+
+  DL 472 | 11 MAR | JFK LAX 8:15 am | 11:50 am
 ---
 
 At the core of our Family and Friends trip to Israel are the parents and relatives who have children attending at The Master’s University IBEX campus. However, we also open the trip to those who may have no direct connection to IBEX or TMU. We invite you to join tour guide, Dr. Michael Grisanti, for a ten day trip to Israel in March 2017. The Family & Friends Program is arranged to make it possible for you to not only visit Israel and explore the historical and biblical sites, but to also be introduced to our IBEX program. Opportunities for several meals and fun times together with the students have been arranged. Some sites of significance on the itinerary include the Sea of Galilee and Galilee region, the Shephelah, the Dead Sea, the Jordan River, and of course, Jerusalem.
