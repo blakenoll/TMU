@@ -8,26 +8,31 @@ layout: default
     <div class="col s12 m6">
       <h3>Program Description</h3>
       <span>{{ content }}</span>
+      <!-- Modal Trigger -->
+      <a class="waves-effect waves-light btn btn-navy modal-trigger" href="#itinerary">View Itinerary</a>
+
+      <!-- Modal Structure -->
+      <div id="itinerary" class="modal">
+        <div class="modal-content bullet-points">
+          <h3 class="center">Itinerary</h3>
+          <p>{{ page.itinerary-body | markdownify }}</p>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+        </div>
+      </div>
     </div>
     <div class="col s12 m6 bullet-points">
-      <h3>Faculty</h3>
-      <ul>
-          {% assign profs = site.faculty | where: "ibex", "true" %}
-          {% for faculty in profs %}
-          <div class="chip">
-            {% if faculty.image != '' %}
-            <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-            {% else %}
-            <img src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="Contact Person">
-            {% endif %}
-            <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
-          </div>
-          {% endfor %}
-      </ul>
-      <h3>Cost</h3>
-      {{ page.cost-body }}
-      <h3>Locations</h3>
-      {{ page.location-body | markdownify }}
+      <h3>Your Host</h3>
+      <div class="row">
+        <div class="col s12 m3 center">
+          <img class="circle" src="{{ page.host.image }}" alt="" width="100%">
+        </div>
+        <div class="col s12 m9">
+          {{ page.host.body | markdownify }}
+        </div>
+      </div>
+
     </div>
   </div>
 
@@ -35,31 +40,48 @@ layout: default
 <div class="parallax-container news-parallax center">
   <div class="parallax"><img src="/images/photo-1466175743059-5393a020726c.jpeg" alt="{{ page.title }} header-img"></div>
   <div class="container valign-wrapper" style="height: 100%">
-    <h1 class="program-title white-text">Programs</h1>
+    <h1 class="program-title white-text">Testimonials</h1>
   </div>
 </div>
 <div class="container">
   <div class="row">
     <div class="col s12 m6 bullet-points">
-      <p>{{ page.programs-body | markdownify }}</p>
+      <h3 class="center">Testimonials</h3>
+      <p>{{ page.testimonials-body | markdownify }}</p>
+      <h3 class="center">Flight Itinerary</h3>
+      <p>{{ page.flight-body | markdownify }}</p>
     </div>
-    <div class="col s12 m6">
-      <h3>Contact Info</h3>
-      {{ page.contact-body | markdownify }}
+    <div class="col s12 m6 bullet-points">
+      <h3 class="center">Cost & Payment</h3>
+      {{ page.cost-body | markdownify }}
     </div>
   </div>
 </div>
 <div class="parallax-container news-parallax center">
   <div class="parallax"><img src="/images/photo-1464979834326-b695d5e187e6.jpeg" alt="{{ page.title }} header-img"></div>
   <div class="container valign-wrapper" style="height: 100%">
-    <h1 class="program-title white-text">Applications</h1>
+    <h1 class="program-title white-text">Application</h1>
   </div>
 </div>
 <div class="container">
   <div class="row">
     <div class="col s12 bullet-points">
       <h3>Application Process Descriptions</h3>
-      {{ page.app-body | markdownify }}
+      {{ page.application-body | markdownify }}
+    </div>
+  </div>
+</div>
+<div class="parallax-container news-parallax center">
+  <div class="parallax"><img src="https://source.unsplash.com/HuGhOh38aCA/1500x1000" alt="{{ page.title }} header-img"></div>
+  <div class="container valign-wrapper" style="height: 100%">
+    <h1 class="program-title white-text">FAQ'S</h1>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col s12 bullet-points">
+      <h3>FAQ'S</h3>
+      <p>{{ page.faq-body | markdownify }}</p>
     </div>
   </div>
 </div>
