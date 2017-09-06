@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{% include parallax-header.html %}
+<div class="container">
+  <div class="row">
+    <div class="col s12 m6">
+      <h3>Program Description</h3>
+      <span>{{ content }}</span>
+    </div>
+    <div class="col s12 m6 bullet-points">
+      <h3>Faculty</h3>
+      <ul>
+          {% assign profs = site.faculty | where: "ibex", "true" %}
+          {% for faculty in profs %}
+          <div class="chip">
+            {% if faculty.image != '' %}
+            <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
+            {% else %}
+            <img src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="Contact Person">
+            {% endif %}
+            <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+          </div>
+          {% endfor %}
+      </ul>
+      <h3>Cost</h3>
+      {{ page.cost-body }}
+      <h3>Locations</h3>
+      {{ page.location-body | markdownify }}
+    </div>
+  </div>
+
+</div>
+<div class="parallax-container news-parallax center">
+  <div class="parallax"><img src="/images/photo-1466175743059-5393a020726c.jpeg" alt="{{ page.title }} header-img"></div>
+  <div class="container valign-wrapper" style="height: 100%">
+    <h1 class="program-title white-text">Programs</h1>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col s12 m6 bullet-points">
+      <p>{{ page.programs-body | markdownify }}</p>
+    </div>
+    <div class="col s12 m6">
+      <h3>Contact Info</h3>
+      {{ page.contact-body | markdownify }}
+    </div>
+  </div>
+</div>
+<div class="parallax-container news-parallax center">
+  <div class="parallax"><img src="/images/photo-1464979834326-b695d5e187e6.jpeg" alt="{{ page.title }} header-img"></div>
+  <div class="container valign-wrapper" style="height: 100%">
+    <h1 class="program-title white-text">Applications</h1>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col s12 bullet-points">
+      <h3>Application Process Descriptions</h3>
+      {{ page.app-body | markdownify }}
+    </div>
+  </div>
+</div>
