@@ -40,8 +40,12 @@ layout: default
 </div>
 <div class="container">
   <div class="row">
-    <div class="col s12 bullet-points">
+    <div class="col s12 m6 bullet-points">
       <p>{{ page.programs-body | markdownify }}</p>
+    </div>
+    <div class="col s12 m6">
+      <h3>Contact Info</h3>
+      {{ page.contact-body | markdownify }}
     </div>
   </div>
 </div>
