@@ -165,6 +165,7 @@ flight-body: |-
   DL 472 | 11 MAR | JFK LAX 8:15 am | 11:50 am
 
   Be sure to direct any questions about flights to our travel agent, Shirley Fleig- [groupadvantage@me.com](mailto:groupadvantage@me.com)
+layout: fandf
 ---
 
 At the core of our Family and Friends trip to Israel are the parents and relatives who have children attending at The Master’s University IBEX campus. However, we also open the trip to those who may have no direct connection to IBEX or TMU. We invite you to join tour guide, Dr. Michael Grisanti, for a ten day trip to Israel in March 2017. The Family & Friends Program is arranged to make it possible for you to not only visit Israel and explore the historical and biblical sites, but to also be introduced to our IBEX program. Opportunities for several meals and fun times together with the students have been arranged. Some sites of significance on the itinerary include the Sea of Galilee and Galilee region, the Shephelah, the Dead Sea, the Jordan River, and of course, Jerusalem.
