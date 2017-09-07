@@ -78,12 +78,12 @@ aims-body: |-
   <td style="padding-left: 30px;"><a href="/media/870145/tmu-student-assessment-data-summary-dcp-christian-ministries.pdf" title="TMU Student Assessment Data Summary - DCP - Christian Ministries.pdf">Christian Ministries</a></td>
   </tr>
   <tr>
-  <td style="padding-left: 30px;"><a href="/media/870140/tmu-student-assessment-data-summary-bs-business-administration.pdf" title="TMU Student Assessment Data Summary - BS Business Administration.pdf">Business Administration</a>               </td>
+  <td style="padding-left: 30px;"><a href="/media/870378/tmu-student-assessment-data-summary-bs-business-administration-revised.pdf" title="TMU Student Assessment Data Summary - BS Business Administration.pdf">Business Administration</a>               </td>
   <td> </td>
   <td style="padding-left: 30px;"><a href="/media/870143/tmu-student-assessment-data-summary-dcp-organizational-management.pdf" title="TMU Student Assessment Data Summary - DCP - Organizational Management.pdf">Organizational Management</a></td>
   </tr>
   <tr>
-  <td style="padding-left: 30px;"><a href="/media/870135/tmu-student-assessment-data-summary-bs-biological-sciences.pdf" title="TMU Student Assessment Data Summary - BS Biological Sciences.pdf">Biological &amp; Physical Sciences </a>       </td>
+  <td style="padding-left: 30px;"><a href="/media/870135/tmu-student-assessment-data-summary-bs-biological-sciences.pdf" title="TMU Student Assessment Data Summary - BS Biological Sciences.pdf">Biological & Physical Sciences </a>       </td>
   <td> </td>
   <td>
   <h3>Teacher Credentialing Programs</h3>
@@ -97,7 +97,7 @@ aims-body: |-
   </td>
   </tr>
   <tr>
-  <td style="padding-left: 30px;"><a href="/media/870168/tmu-student-assessment-data-summary-bs-computer-information-sciences.pdf" title="TMU Student Assessment Data Summary - BS Computer &amp; Information Sciences.pdf">Computer &amp; Information Sciences</a></td>
+  <td style="padding-left: 30px;"><a href="/media/870168/tmu-student-assessment-data-summary-bs-computer-information-sciences.pdf" title="TMU Student Assessment Data Summary - BS Computer & Information Sciences.pdf">Computer & Information Sciences</a></td>
   <td> </td>
   <td>        <span>California Single Subject Teaching Credential</span></td>
   </tr>
@@ -116,12 +116,12 @@ aims-body: |-
   <td style="padding-left: 30px;"> <a href="/media/870150/tmu-student-assessment-data-summary-tmu-online-ba-biblical-counsel.pdf" title="TMU Student Assessment Data Summary - TMU Online - BA - Biblical Counsel....pdf">BA in Biblical Counseling</a></td>
   </tr>
   <tr>
-  <td style="padding-left: 30px;"><a href="/media/870139/tmu-student-assessment-data-summary-bs-family-consumer-sciences.pdf" title="TMU Student Assessment Data Summary - BS Family &amp; Consumer Sciences.pdf">Home Economics - Family &amp; Consumer Sciences</a></td>
+  <td style="padding-left: 30px;"><a href="/media/870139/tmu-student-assessment-data-summary-bs-family-consumer-sciences.pdf" title="TMU Student Assessment Data Summary - BS Family & Consumer Sciences.pdf">Home Economics - Family & Consumer Sciences</a></td>
   <td> </td>
   <td style="padding-left: 30px;"> <a href="/media/870151/tmu-student-assessment-data-summary-tmu-online-ba-biblical-studies.pdf" title="TMU Student Assessment Data Summary - TMU Online - BA - Biblical Studies....pdf">BA in Biblical Studies</a></td>
   </tr>
   <tr>
-  <td style="padding-left: 30px;"><a href="/media/870147/tmu-student-assessment-data-summary-kinesiology-physical-education.pdf" title="TMU Student Assessment Data Summary - Kinesiology - Physical Education.pdf">Kinesiology &amp; Physical Education</a></td>
+  <td style="padding-left: 30px;"><a href="/media/870147/tmu-student-assessment-data-summary-kinesiology-physical-education.pdf" title="TMU Student Assessment Data Summary - Kinesiology - Physical Education.pdf">Kinesiology & Physical Education</a></td>
   <td> </td>
   <td style="padding-left: 30px;"> <a href="/media/870155/tmu-student-assessment-data-summary-tmu-online-ba-christian-minist.pdf" title="TMU Student Assessment Data Summary - TMU Online - BA - Christian Minist....pdf">BA in Christian Ministries</a></td>
   </tr>
