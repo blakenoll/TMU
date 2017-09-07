@@ -127,4 +127,4 @@ The Higher Education Opportunity Act (HEOA) (PL 110-315) was enacted on August 1
 
 ### [Student Outcomes](#modal7)
 
-Haga clic aquí ([https://www.masters.edu/financial-aid/heoa-cc-info-spanish/](http://www.masters.edu/financial-aid/heoa-cc-info-spanish/)) si usted se encuentra dentro del programa de Maestría en Ministerio Bíblico y desea información en español con respecto a HEOA.
+Haga clic aquí ([https://www.masters.edu/heoa-cc-info-spanish/](http://www.masters.edu/heoa-cc-info-spanish)) si usted se encuentra dentro del programa de Maestría en Ministerio Bíblico y desea información en español con respecto a HEOA.
