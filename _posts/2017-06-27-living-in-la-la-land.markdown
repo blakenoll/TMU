@@ -1,6 +1,7 @@
 ---
 title: Living in La La Land
 date: 2017-06-27 23:52:00 Z
+author: Sabrina Michael
 sm-image: http://www.masters.edu/media/870030/lalaland.jpg
 ---
 

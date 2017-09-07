@@ -2,7 +2,7 @@
 title: Renowned Scientific Journal Publishes TMU Professor's Research of Pterosaur
   Fossils
 date: 2017-08-10 23:17:00 Z
-author: Sabrina Michael
+author: 'Faculty of the School of Biological and Physical Sciences '
 sm-image: http://www.masters.edu/media/870175/sciencejournal.jpg
 ---
 

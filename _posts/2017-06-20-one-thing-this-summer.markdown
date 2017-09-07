@@ -11,7 +11,7 @@ Ray Bradbury, when writing the novel “Fahrenheit 451,” predicted just as muc
 
 Bradbury predicted a future in which houses are not built with brick and mortar, but rather, giant television screens surrounding its residents with never-ending reality shows and, at night, when those walls are shut off, rather than sleeping in silence, one wears headphones that consistently stream sound.
 
-The government in this dystopian future ![](http://www.masters.edu/media/870004/onething.jpg?width=500&height=320.03546099290776)does not want its citizens to be educated— to form independent thoughts that may cause disgruntlement and eventually rebellion. To them, these screens and their constant hum are salvation from the threat of a mind at work.
+ ![](http://www.masters.edu/media/870004/onething.jpg?width=500&height=320.03546099290776)The government in this dystopian future does not want its citizens to be educated— to form independent thoughts that may cause disgruntlement and eventually rebellion. To them, these screens and their constant hum are salvation from the threat of a mind at work.
 
 And what more does a mind need to formulate independent thought but silence?
 

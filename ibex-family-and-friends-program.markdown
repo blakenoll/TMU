@@ -30,32 +30,62 @@ testimonials-body: |-
   ***Both my wife and I had been to Israel decades earlier, but we jumped at the chance to join the Israel study tour while our daughter was there for the semester studying through the IBEX program at The Master’s University. This trip was incredibly rewarding and more meaningful, as the resource material we received in advance and the Bible Atlas we received while on the tour added tremendous depth to our experience. That, and the extensive knowledge and teaching from Dr. Grisanti and our Israeli guide made it a tremendous blessing. We also enjoyed the fellowship from some wonderful like-minded believers we met on the trip. This was way more than just another tourist trip. Thank you for providing such a great privilege to see and travel throughout Israel.***
 
   **Jay Russell**
-itinerary-body: "**Friday, March 2**\n\n* Depart from the United States.\n\n**Saturday,
-  March 3**\n\n* Arrive in Israel.\n\n* Enjoy an evening meal with the IBEX students
-  and an orientation to the Family & Friends program.\n\n* We hope to take a quick
-  trip into Jerusalem that evening.\n\n**Sunday, March 4**\n\n* Explore Jerusalem,
-  the new and the old, by bus and on foot, including the main biblical locations and
-  some modern sites of interest.\n\n**Monday, March 5**\n\n* Visit the Shephelah,
-  where various events of the time of the Judges and the Monarchy took place, including
-  the site where David fought Goliath.\n\n* Spend most of the afternoon at the Israel
-  Museum, Shrine of the Book, and a great NT Jerusalem model.\n\n**Tuesday–Wednesday,
-  March 6–7**\n\n* Travel up the Mediterranean coast and see the city of Caesarea.\n\n*
-  Spend three days visiting some exciting locations in the Galilee region, staying
-  for two nights in a resort on the eastern shore of the Sea of Galilee and enjoying
-  a boat ride on the Sea of Galilee. Then, head to the Dead Sea for the night of the
-  8th.\n\n**Thursday, March 8**\n\n* Visit some last sites near the Sea of Galilee
-  and stop at Beth Shan.\n\n* Travel down the Jordan River Valley, visit a baptismal
-  site on the Jordan River and then head to the west side of the Dead Sea to our hotel
-  for the night. We hope to take a dip in the Dead Sea that evening (or early the
-  next morning).\n\n**Friday, March 9**\n\n* Visit Masada, En Gedi, Qumran and Jericho
-  before returning to the IBEX campus and our hotel nearby.\n\n**Saturday, March 10**\n\n*
-  See a few sites in and around Jerusalem, and see Bethlehem from an overlook at the
-  southern end of Jerusalem. \n\n* Enjoy some shopping in Jerusalem in the afternoon.\n\n*
-  Join the IBEX students\n\n* Late night departure from Ben Gurion Airport.\n\n**Sunday,
-  March 11**\n\n* Arrive back in the United States with plenty of time for you to
-  get home for work or school the next day."
+itinerary-body: |-
+  [Here is our tentative trip itinerary in calendar format](/media/870373/spring-2018-friends-and-family-program-calander.pdf)
+
+  **Friday, March 2**
+
+  * Depart from the United States.
+
+  **Saturday, March 3**
+
+  * Arrive in Israel.
+
+  * Enjoy an evening meal with the IBEX students and an orientation to the Family & Friends program.
+
+  * We hope to take a quick trip into Jerusalem that evening.
+
+  **Sunday, March 4**
+
+  * Explore Jerusalem, the new and the old, by bus and on foot, including the main biblical locations and some modern sites of interest.
+
+  **Monday, March 5**
+
+  * Visit the Shephelah, where various events of the time of the Judges and the Monarchy took place, including the site where David fought Goliath.
+
+  * Spend most of the afternoon at the Israel Museum, Shrine of the Book, and a great NT Jerusalem model.
+
+  **Tuesday–Wednesday, March 6–7**
+
+  * Travel up the Mediterranean coast and see the city of Caesarea.
+
+  * Spend three days visiting some exciting locations in the Galilee region, staying for two nights in a resort on the eastern shore of the Sea of Galilee and enjoying a boat ride on the Sea of Galilee. Then, head to the Dead Sea for the night of the 8th.
+
+  **Thursday, March 8**
+
+  * Visit some last sites near the Sea of Galilee and stop at Beth Shan.
+
+  * Travel down the Jordan River Valley, visit a baptismal site on the Jordan River and then head to the west side of the Dead Sea to our hotel for the night. We hope to take a dip in the Dead Sea that evening (or early the next morning).
+
+  **Friday, March 9**
+
+  * Visit Masada, En Gedi, Qumran and Jericho before returning to the IBEX campus and our hotel nearby.
+
+  **Saturday, March 10**
+
+  * See a few sites in and around Jerusalem, and see Bethlehem from an overlook at the southern end of Jerusalem.
+
+  * Enjoy some shopping in Jerusalem in the afternoon.
+
+  * Join the IBEX students
+
+  * Late night departure from Ben Gurion Airport.
+
+  **Sunday, March 11**
+
+  * Arrive back in the United States with plenty of time for you to get home for work or school the next day.
 application-body: |-
-  **Download the [Trip Application](https://athletics.masters.edu/media/868493/f-and-f-israel-trip-registration-form-air-and-land-march-2017-revised-1.pdf "F and F Israel Trip Registration form^air and land^March 2017^revised[1].pdf").**
+  **Download the [Trip Application](/media/870372/f-and-f-israel-trip-application-registration-form-air-and-land-march-2018.pdf).**
 
   1. If possible, please complete the registration form by typing the information. This will help insure that we have accurate information and don’t incorrectly read someone’s handwriting. Print the completed registration form and sign and date at the bottom. Provide your initials for the travel insurance line at the top of page 2 of the form. You can scan the form and email it to [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu) or mail it to the IBEX Office (see below address).
 
@@ -63,7 +93,7 @@ application-body: |-
 
   3. To pay by check, please make the check payable to The Master's University and mail or deliver to the IBEX Office.
 
-  4. The Master's University requires all participants in the Family & Friends program to fill out a **[release form](https://athletics.masters.edu/media/866592/activity-release-form-2105-01-29-fillable.pdf "Activity Release Form 2105-01-29 - fillable.pdf")**. Print the completed form and sign and date at the bottom. You can scan the form and email it to ibexoffice@masters.edu or mail it to the IBEX Office.
+  4. The Master's University requires all participants in the Family & Friends program to fill out a **[release form](/media/870371/activity-release-form-2105-01-29-fillable.pdf)**. Print the completed form and sign and date at the bottom. You can scan the form and email it to ibexoffice@masters.edu or mail it to the IBEX Office.
 
   5. For any questions regarding logistical and payment details, please contact Bethany Cathcart in the IBEX Office, 661-259-3540 x3011 or [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu). Also, keep in mind that Bethany is a full-time student and only works certain days and hours in the IBEX Office. Allow her time to reply to your email inquiries or phone calls.
 
