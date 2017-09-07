@@ -103,7 +103,7 @@ cost-body: |-
 
   ### Airfare Included:
 
-  \$3,710 per person (credit card) - [Secure Payment Portal\
+  \$3,710 per person (credit card) - [Secure Payment Portal
   ](https://masters.formstack.com/forms/family_and_friends_israel_trip)
 
   \$3,575 per person (check)
@@ -152,7 +152,7 @@ cost-body: |-
 
   November 15 $300 deposit due (non-refundable)
 
-  January 10 $3,400 balance due ($3,275 - check price)
+  January 10 $3,410 balance due ($3,275 - check price)
 
   If you make your full payment after December 13, keep in mind that our IBEX secretary (who handles the payments) will heading home for her Christmas break and won’t arrive back on campus untili the due date for the final payment. We need the payments in by January 13 to give the IBEX secretary and the finance office time to gather those payments together and send checks off for the land and airline side of the trip costs.
 
@@ -188,7 +188,7 @@ faq-body: |-
 flight-body: |-
   DL 44 | 02 MAR | LAX JFK 11:30 am | 8:05 pm
 
-  DL 468  | 02 MAR | JFK TLV 11:24 pm | 4:30 pm arrives 03 MAR
+  DL 468  | 02 MAR | JFK TLV 11:24 pm | 5:35 pm arrives 03 MAR
 
   DL 467 | 10 MAR | TLV JFK 11:30 pm | 5:13 am arrives 11 MAR
 
