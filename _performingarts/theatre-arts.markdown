@@ -3,20 +3,29 @@ title: Theatre Arts
 date: 2017-04-18 20:21:00 Z
 permalink: "/theatre-arts"
 parallax-img: "/images/Parallax10.jpg"
-about-us-body: |-
-  ## Mission Statement
-
-  Theatre productions at The Master's University exist to glorify God and impact our community through thoughtful and excellent presentation of plays or musicals and by enjoying human creativity as a reflection of The Creator as becomes a child of God.
-
-  ## Theatre Arts Overview
-
-  Theatre Arts is a co-curricular program offered by the Department of Music, designed to give training and expression in the performing arts along-side any major at the university. Theatre Arts has been dubbed "The People's Theatre." Its participants and contributors span across all disciplines, dorms, and interests at TMU. As a co-curricular program, any participating students can receive repeating credits in either theatre arts or production techniques and this will be reflected on their transcripts.
-
-  Following a successful opening season in 2008, Theatre Arts continues to be an amazing tool in the hands of the Lord in so many lives. We have seen the Lord display Himself in remarkable ways, showing how even a school play can be eternally significant. Lives are being changed, perspectives altered, and love for the Lord and each other continues to grow. Our productions beautifully illustrate how life is a precious gift that must be used for God's glory and His purpose; it should not be wasted!
-
-  Opportunities to be involved include acting, stage managing, lighting, sound, scenery design, costuming, and makeup. Our commitment to the process as much as the product enables us to have an others-focused theatre program and this dedication pervades all of these areas as we strive together to serve one another using our varied giftedness.
-
-  We are excited to see how God continues to grow the program as those involved seek to serve and honor Him first and foremost through the medium of good theatre as a gift to the audience with no compromise of who we are as children of God.
+about-us-body: "## Mission Statement\n\nTheatre productions at The Master's University
+  exist to glorify God and impact our community through thoughtful and excellent presentation
+  of plays or musicals and by enjoying human creativity as a reflection of The Creator
+  as becomes a child of God.\n\n## Theatre Arts Overview\n\nTheatre Arts is a co-curricular
+  program offered by the Department of Music, designed to give training and expression
+  in the performing arts along-side any major at the university. Theatre Arts has
+  been dubbed \"The People's Theatre.\" Its participants and contributors span across
+  all disciplines, dorms, and interests at TMU. As a co-curricular program, any participating
+  students can receive repeating credits in either theatre arts or production techniques
+  and this will be reflected on their transcripts.\n\nFollowing a successful opening
+  season in 2008, Theatre Arts continues to be an amazing tool in the hands of the
+  Lord in so many lives. We have seen the Lord display Himself in remarkable ways,
+  showing how even a school play can be eternally significant. Lives are being changed,
+  perspectives altered, and love for the Lord and each other continues to grow. Our
+  productions beautifully illustrate how life is a precious gift that must be used
+  for God's glory and His purpose; it should not be wasted!\n\nOpportunities to be
+  involved include acting, stage managing, lighting, sound, scenery design, costuming,
+  and makeup. Our commitment to the process as much as the product enables us to have
+  an others-focused theatre program and this dedication pervades all of these areas
+  as we strive together to serve one another using our varied giftedness.\n\nWe are
+  excited to see how God continues to grow the program as those involved seek to serve
+  and honor Him first and foremost through the medium of good theatre as a gift to
+  the audience with no compromise of who we are as children of God.  "
 staff:
 - name: Tricia Hulet
   image: 
