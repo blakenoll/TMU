@@ -6,11 +6,11 @@ image: "/uploads/CENTERS.jpg"
 
 I**n August 2016, The Master’s University announced the Centers of Excellence Campaign—a $25 million fundraising initiative focused on enriching and investing in three specific schools on campus: Business & Communication; Education; and Science, Math, Technology & Health.**
 
-Twenty-five years ago, one of the lead donors of this campaign asked a question: \*\*What will set The Master's University apart from other institutions in the years to come? \*\*Today, the COE campaign is beginning to answer that.
+Twenty-five years ago, one of the lead donors of this campaign asked a question: \*\*What will set The Master's University apart from other institutions in the years to come? \*\*Today, the COE campaign is beginning to answer that.  
 
 ![CENTERS.jpg](/uploads/CENTERS.jpg)
 
-“We’ve got to emphasize something beyond our general market footprint, which is a fantastic and solid, well-anchored school committed to the inerrancy of God’s Word,” said Luke Cherry, Vice President of Development. 
+“We’ve got to emphasize something beyond our general market footprint, which is a fantastic and solid, well-anchored school committed to the inerrancy of God’s Word,” said Luke Cherry, Vice President of Development.
 
 > “There’s no question we’ve got the best biblical studies in America, but in order to mature that, you have to actually analyze what programs are performing.”
 
