@@ -49,7 +49,7 @@ layout: default
                   {{ page.studentComp-body | markdownify }}
                   {% for module in page.studentCompModules %}
                   <!-- Modal Structure -->
-                  <div id="{{ forloop.index }}" class="modal">
+                  <div id="{{ forloop.index | append: 's' }}" class="modal">
                     <div class="modal-content">
                       <h4>{{ module.title }}</h4>
                       <p>{{ module.body | markdownify }}</p>
@@ -69,6 +69,16 @@ layout: default
                     <div class="modal-content">
                       <h4>{{ module.title }}</h4>
                       <p>{{ module.body | markdownify }}</p>
+                      <ul class="collapsible" data-collapsible="accordion">
+                        {% if module.subpages %}
+                          {% for page in module.subpages %}
+                        <li>
+                          <div class="collapsible-header">{{ page.title }}</div>
+                          <div class="collapsible-body"><span>{{ page.body | markdownify }}</span></div>
+                        </li>
+                          {% endfor %}
+                        {% endif %}
+                      </ul>
                     </div>
                     <div class="modal-footer">
                       <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
