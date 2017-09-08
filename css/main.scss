@@ -63,6 +63,14 @@ a {
   }
 }
 
+.about-history {
+  img {
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+  }
+}
+
 .admissions-a:before {
   display: block;
   content: " ";
@@ -312,6 +320,8 @@ a {
   position: absolute;
   text-align: center;
 }
+
+
 .navbar {
   margin-bottom: 0px;
   border-radius: 0px;
