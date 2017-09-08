@@ -40,7 +40,7 @@ studentComp-body: |-
 FacStaffComp-body: |-
   ## TMU Information Technology Resources
 
-  ### Data Storage Policy including Sensitive Data
+  ### [Data Storage Policy including Sensitive Data](#1p)
 
   Can I copy work files onto a flash drive or email them to my personal email address to work on at home or on a business trip or vacation?
 
@@ -56,11 +56,11 @@ FacStaffComp-body: |-
 
   Check here for information on use of personal computers, devices and peripherals on campus.
 
-  ### Faculty and Staff Software Policy
+  ### [Faculty and Staff Software Policy](#4p)
 
   Does your department have special software needs? Do you have questions about acquiring software or about the level of support that we can provide for non-standard software programs? Do you need access to Microsoft® software for work-at-home use? Check here to find out about our policies.
 
-  ### **Computer Purchase and Request Policies**
+  ### **[Computer Purchase and Request Policies](#5p)**
 
   When will I be due for a new computer? Can faculty and staff have a Mac instead of a PC? Here you will find answers to these questions.
 
