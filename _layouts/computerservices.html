@@ -39,20 +39,44 @@ layout: default
         <div class="card">
               <div class="card-tabs">
                 <ul class="tabs tabs-fixed-width">
-                  <li class="tab"><a class="active" href="#test1">Students</a></li>
-                  <li class="tab"><a href="#test2">Faculty/Staff</a></li>
-                  <li class="tab"><a href="#test3">New Students/ Guests</a></li>
+                  <li class="tab"><a class="active" href="#students">Students</a></li>
+                  <li class="tab"><a href="#faculty">Faculty/Staff</a></li>
+                  <li class="tab"><a href="#new">New Students/ Guests</a></li>
                 </ul>
               </div>
               <div class="card-content grey lighten-4">
-                <div id="test1">
+                <div id="students">
                   {{ page.studentComp-body | markdownify }}
+                  {% for module in page.studentCompModules %}
+                  <!-- Modal Structure -->
+                  <div id="{{ forloop.index }}" class="modal">
+                    <div class="modal-content">
+                      <h4>{{ module.title}}</h4>
+                      <p>{{ module.body }}</p>
+                    </div>
+                    <div class="modal-footer">
+                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+                    </div>
+                  </div>
+                  {% endfor %}
 
                 </div>
-                <div id="test2">
+                <div id="faculty">
                   {{ page.FacStaffComp-body | markdownify }}
+                  {% for module in page.Faculty_Modules %}
+                  <!-- Modal Structure -->
+                  <div id="{{ forloop.index }}" class="modal">
+                    <div class="modal-content">
+                      <h4>{{ module.title}}</h4>
+                      <p>{{ module.body }}</p>
+                    </div>
+                    <div class="modal-footer">
+                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+                    </div>
+                  </div>
+                  {% endfor %}
                 </div>
-                <div id="test3">
+                <div id="new">
                   {{ page.newStudents-body | markdownify }}
                 </div>
               </div>
