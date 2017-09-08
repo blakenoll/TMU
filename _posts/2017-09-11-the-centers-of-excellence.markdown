@@ -6,7 +6,7 @@ image: "/uploads/CENTERS.jpg"
 
 **In August 2016, The Master’s University announced the Centers of Excellence Campaign—a $25 million fundraising initiative focused on enriching and investing in three specific schools on campus: Business & Communication; Education; and Science, Math, Technology & Health.**
 
-Twenty-five years ago, one of the lead donors of this campaign asked a question: **What will set The Master's University apart from other institutions in the years to come? **Today, the COE campaign is beginning to answer that.
+Twenty-five years ago, one of the lead donors of this campaign asked a question: \*\*What will set The Master's University apart from other institutions in the years to come? \*\*Today, the COE campaign is beginning to answer that.
 
 ![CENTERS.jpg](/uploads/CENTERS.jpg)
 
@@ -22,7 +22,7 @@ The COE funds are distributed to four separate categories for each school: **fac
 
 The COE is currently putting four professors through Ph.D. programs. Communication Department Chair Bob Dickson and Prof. Todd Kostjuk and Prof. John Beck of the Business Administration Department are at the University of Southern California. Prof. Dwight Ham, another business professor, is taking classes through George Fox University.
 
-### The second component? The facility.
+## The second component? The facility.
 
 “We need facilities and tools that showcase the highest quality of teaching on the highest level of facility,” Cherry said.
 
@@ -32,13 +32,13 @@ A new Education Center is also in the works and will be built at the school’s 
 
 This is only the beginning of plans that the COE campaign has for the future, from significant improvements like new buildings, to small additions like a professional lab technician whose sole job is to recalibrate all equipment in the Kinesiology & Physical Education Department so every lab and test is accurate. The Communication Department also obtained new film equipment and funding for student films.
 
-### The third component? Scholarships to obtain high quality students.
+## The third component? Scholarships to obtain high quality students.
 
 “Already Master’s has the highest scholarship rate in the West, which would indicate that this is the most generous school in the West and we want to be known by that,” Cherry explained.
 
 Donors are contributing specifically to a gap fund, which fills the remaining gap after the school and students provide as much money as they can but are left wanting. It allows merited students who otherwise could not afford Master’s to walk across the graduation stage in 3-4 years’ time.
 
-### Fourth and final? Sustainability.
+## Fourth and final? Sustainability.
 
 “We want to bring the outside inside,” Cherry said. “We are not just investing in campus improvements but in corporate cooperation and alumni relations to ensure that our graduates not only are placed in a company but the best companies.”
 
