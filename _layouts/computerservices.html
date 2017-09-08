@@ -51,11 +51,11 @@ layout: default
                   <!-- Modal Structure -->
                   <div id="{{ forloop.index }}" class="modal">
                     <div class="modal-content">
-                      <h4>{{ module.title}}</h4>
-                      <p>{{ module.body }}</p>
+                      <h4>{{ module.title }}</h4>
+                      <p>{{ module.body | markdownify }}</p>
                     </div>
                     <div class="modal-footer">
-                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
                     </div>
                   </div>
                   {% endfor %}
@@ -63,15 +63,15 @@ layout: default
                 </div>
                 <div id="faculty">
                   {{ page.FacStaffComp-body | markdownify }}
-                  {% for module in page.Faculty_Modules %}
+                  {% for module in page.FacultyModules %}
                   <!-- Modal Structure -->
                   <div id="{{ forloop.index }}" class="modal">
                     <div class="modal-content">
-                      <h4>{{ module.title}}</h4>
-                      <p>{{ module.body }}</p>
+                      <h4>{{ module.title }}</h4>
+                      <p>{{ module.body | markdownify }}</p>
                     </div>
                     <div class="modal-footer">
-                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
                     </div>
                   </div>
                   {% endfor %}
