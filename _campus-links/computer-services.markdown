@@ -44,15 +44,15 @@ FacStaffComp-body: |-
 
   Can I copy work files onto a flash drive or email them to my personal email address to work on at home or on a business trip or vacation?
 
-  ### E-mail Usage and Spam Tips
+  ### [E-mail Usage and Spam Tips](#2)
 
   I notice that I am getting a lot of spam. How do I turn on the spam filter for my Outlook client and TMU Web E-mail? Is there a E-mail mailbox quota? What happens when I exceed it?
 
-  ### Campus Copier and Printer Information
+  ### [Campus Copier and Printer Information](#3)
 
   Check here to find out the hours of the staff copy center, where to get a replacement toner for your copier, access Copier tutorials, and other campus copier information.
 
-  ### Use of Personal Computers and Smartphones on Campus
+  ### [Use of Personal Computers and Smartphones on Campus](#5)
 
   Check here for information on use of personal computers, devices and peripherals on campus.
 
@@ -64,7 +64,7 @@ FacStaffComp-body: |-
 
   When will I be due for a new computer? Can faculty and staff have a Mac instead of a PC? Here you will find answers to these questions.
 
-  ### Special Offers for TMU Faculty and Staff
+  ### [Special Offers for TMU Faculty and Staff](#1)
 
   You can save on personal hardware and software purchases through academic discounts and other special offers.
 studentCompModules:
