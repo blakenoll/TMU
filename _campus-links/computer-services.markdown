@@ -421,7 +421,7 @@ studentCompModules:
   body: |-
     ## Remote Support
 
-    If you are currently receiving help with your issue from a Service Desk technician and they request that you download the remote support tool, you can do so by clicking on the button below.\
+    If you are currently receiving help with your issue from a Service Desk technician and they request that you download the remote support tool, you can do so by clicking on the button below.
 
     [![](https://athletics.masters.edu/media/866025/remote-support-button.png?width=234&height=60)](https://get.teamviewer.com/masters "Remote Support Download")
 
@@ -613,7 +613,7 @@ FacultyModules:
 
     ### Printer Toner and Supplies:
 
-    Click the button below to fill out a form requesting printer and copier toner and supplies such as staples and waste cartridges.\
+    Click the button below to fill out a form requesting printer and copier toner and supplies such as staples and waste cartridges.
 
     [![](https://athletics.masters.edu/media/865980/toner-request-form.png?width=252&height=55)](http://goo.gl/forms/Km7i2ZFIlq "Toner Request Form")
 
@@ -623,7 +623,7 @@ FacultyModules:
 
     Check here to found out the hours and location of the staff copy center, costs, and other copy center information.
 
-    ### [Campus Copier Tutorials ](http://www.masters.edu/campuslinks/computerservices/facstaffcompinfo/staffprinting/copiertutorials/)\
+    ### [Campus Copier Tutorials ](http://www.masters.edu/campuslinks/computerservices/facstaffcompinfo/staffprinting/copiertutorials/)
 
     Access Sharp’s online tutorials for troubleshooting and information on how to use the copier features.
   title: Staff Printing
@@ -1093,7 +1093,7 @@ newStudents-body: |-
 PoliciesProcedures:
 - title: Data Storage Policy
   body: |-
-    ![](https://athletics.masters.edu/media/866000/policy.jpg?width=51px&height=46px) What is our policy?
+    What is our policy?
 
     In order to protect and secure TMU electronic files, TMU staff and faculty are required to store all work-related data on storage devices provided and managed by the TMU Information Technology Department.
 
@@ -1101,7 +1101,7 @@ PoliciesProcedures:
 
     *All faculty and staff at The Master’s University are responsible for ensuring that any sensitive data they store complies with this policy.*
 
-    ### ![](https://athletics.masters.edu/media/865999/sensitive-info.jpg?width=35px&height=44px) What is sensitive data?
+    ### What is sensitive data?
 
     Sensitive data includes, but is not limited to the following:
 
@@ -1117,7 +1117,7 @@ PoliciesProcedures:
 
     * Any other data that can lead to identity theft
 
-    ### ![](https://athletics.masters.edu/media/866001/k10032137.jpg?width=70px&height=53px)Best practices for handling sensitive data:
+    ### Best practices for handling sensitive data:
 
     The following suggestions are best practices for protecting sensitive data:
 
@@ -1135,7 +1135,7 @@ PoliciesProcedures:
 
     * Do not use Dropbox or any other unapproved form of backup and file sharing service.
 
-    ### ![](https://athletics.masters.edu/media/866002/computer-access-th.png?width=42px&height=42px) Best password practices:
+    ### Best password practices:
 
     * Never write your password down
 
@@ -1143,7 +1143,7 @@ PoliciesProcedures:
 
     * Never send a password over email
 
-    ### ![](https://athletics.masters.edu/media/865754/password.jpg?width=61px&height=53px)Password creation tips:
+    ### Password creation tips:
 
     * Passwords must be at least eight characters in length
 
@@ -1173,7 +1173,7 @@ PoliciesProcedures:
 
     \#, $, !, %, @, ?, -, \*
 
-    ### ![](https://athletics.masters.edu/media/865753/user-id.jpg?width=44px&height=39px) Accessing and Storing Data:
+    ### Accessing and Storing Data:
 
     You can access your department network storage drive by navigating to File Storage Root (X:)\\Dept\\choose your department. Please save all critical data onto your department drive. Data on the network is backed up nightly, whereas data on your local PC is not backed up.
 
@@ -1272,7 +1272,7 @@ PoliciesProcedures:
 
     TMU employees using Limited Support Software are responsible for obtaining their own technical support beyond what can be provided by IT Operations via interpersonal collaboration or vendor support lines such as phone or internet knowledgebase support.
 
-    ## ![](https://athletics.masters.edu/media/866048/canstock15784978.jpg?width=27px&height=27px) Unsupported Software:
+    ## Unsupported Software:
 
     Any software not included in the above lists of "Supported Software" and "Limited Support Software" is "Unsupported Software".
 
@@ -1292,7 +1292,7 @@ PoliciesProcedures:
 
     If unsupported software is installed on a system and the system or other software ceases to function or functions erratically, IT Operations will perform an initial best effort attempt to correct the problem. If that fails to resolve the problem, the hard disk will be re-imaged with the initial supported software and limited support software only.
 
-    ## ![](https://athletics.masters.edu/media/866049/go-home-hi.png?width=27px&height=28px) Software for Home Use:
+    ## Software for Home Use:
 
     Through the Software Assurance benefit of TMU's Microsoft® Campus Agreement, all TMU faculty and staff are eligible to use Microsoft Office on their home computers for personal use while they are employed at TMU.
 
@@ -1301,19 +1301,19 @@ PoliciesProcedures:
   body: |-
     Computer Request and Purchase Policy
 
-    ### ![](https://athletics.masters.edu/media/866050/th.jpg?width=54px&height=35px)Computer upgrade policy:
+    ### Computer upgrade policy:
 
     As there is need and as the campus hardware budget allows, IT Operations aims to upgrade campus faculty and staff computers with improved machines every four years to help maintain maximum computing efficiency and productivity. IT Operations and the Controller's Office will be responsible for evaluating need and determining the best upgrade option. Though IT Operations routinely monitors the performance of all faculty and staff computers, please report all computer performance issues to the IT Operations Service Desk.
 
-    ### ![](https://athletics.masters.edu/media/865763/laptop.jpg?width=39px&height=38px) Notebook upgrade policy:
+    ### Notebook upgrade policy:
 
     Staff members currently using a desktop and requiring an upgrade to a notebook are requested to give written justification including specific reasons for their portability needs and have approval from their department head and vice president. IT Operations and the Controller's Office will carefully review all requests. In all situations where portability is not critical to job function, users will be required to use a desktop PC. The advantages of a desktop PC are savings in purchase and support costs, improved performance and reliability, larger screen size, and good ergonomics. Faculty members currently using notebooks, who do not have a need for portability, are also encouraged to switch to a desktop, pending approval from their department head.
 
-    ### ![](https://athletics.masters.edu/media/866052/request-form-md.png?width=28px&height=34px) New computer request policy:
+    ### New computer request policy:
 
     Computer requests for new hires and or special projects should be submitted to the Controller's Office and IT Operations as early in the yearly budgeting process as possible to ensure proper consideration. In the event that the campus hardware budget is exhausted, departments necessitating additional hardware may be required to pay for the expense out of their available budget, pending approval from the Controller's Office and IT Operations. All equipment must be purchased by IT Operations, meeting TMU standard hardware specifications. You will be asked to return any computer equipment not purchased through IT Operations.
 
-    # ![](https://athletics.masters.edu/media/865744/apple-logo.jpg?width=29px&height=35px) Apple Mac Purchase & Support Policy
+    # Apple Mac Purchase & Support Policy
 
     While IT Operations has standardized on the use of Windows based PCs for corporate applications on the TMU Campus, some departments may have the need to use Apple computers and software for specialty projects such as video editing or music composition. For those departments having such needs, the following is a guideline for purchase and support:
 
@@ -1356,17 +1356,17 @@ PoliciesProcedures:
   body: |-
     Faculty and Staff Using Personal Equipment
 
-    ## ![](https://athletics.masters.edu/media/866053/k9737233.jpg?width=57px&height=38px)Connecting Personal PCs and or Other Devices to Campus Ethernet Ports
+    ## Connecting Personal PCs and or Other Devices to Campus Ethernet Ports
 
     Faculty and Staff connecting any non IT Operations issued computer, peripheral, and or other devices into any Ethernet network jack on the TMU campus is strictly prohibited. Due to malware such as viruses and trojan horses, this poses a security threat to the network and will result in your office network port being shut off. As a general rule, you should not be connecting/disconnecting your network cable or switching the jack where your PC network cable is plugged into without first consulting IT Operations.
 
-    ## ![](https://athletics.masters.edu/media/866054/wireless.jpg?width=47px&height=38px) Connecting Personal PCs and Other Devices to the TMU Wireless Network
+    ## Connecting Personal PCs and Other Devices to the TMU Wireless Network
 
     IT Operations does not support the connection and or use of personally owned PCs, computer devices and peripherals on the TMU wireless network for faculty and staff. This includes personally owned desktops, notebooks, printers, scanners, tablets, Blackberry devices, iPhones, and other smart phones. All supported PCs, computer devices and or peripherals for faculty and staff use must be approved and purchased through IT Operations. There are no exceptions.
 
     Faculty and staff may attempt on their own efforts to connect to the TMU wireless network with their personal notebook, tablet, or smartphone. However, they should be aware that they will not receive additional support by IT Operations, and face the possibility of losing wireless connectivity at home after connecting to the TMU wireless network due to possible conflicts in wireless configuration. IT Operations does not offer technical assistance to resolve home wireless issues.
 
-    ## ![](https://athletics.masters.edu/media/404539/phone.jpg?width=32px&height=42px) PDA and Smartphone/iPhone Support Policy
+    ## PDA and Smartphone/iPhone Support Policy
 
     Faculty and staff may choose to attach their personal tablet or smartphone to the TMU network, but with clear understanding that they will receive no technical support from IT Operations and be aware of the following stipulations:
 
@@ -1383,59 +1383,19 @@ PoliciesProcedures:
     6. If a user does connect their Exchange account to their tablet/smartphone, IT Operations requires that they protect the device with a pin or password.
 
     After configuring your phone, you will need to open a browser on your phone and select the button to accept the TMU SafeConnect network usage policy before you can connect to the wireless network for the first time.
-policies-body: |-
-  TMU Policies and Procedures
-
-  ### [![](https://athletics.masters.edu/media/866056/1206557202894704231mcol_open_boxsvghi.png?width=33px&height=26px) Data Storage Policy](#1p)
-
-  * What is our policy?
-
-  * What is sensitive data?
-
-  * Best practices for handling sensitive data?
-
-  * Best password practices
-
-  * Accessing and storing data
-
-  \*\*\
-  \*\*
-
-  ### [![](https://athletics.masters.edu/media/865755/password.jpg?width=20px&height=38px) Stolen Assets Procedures](#2p)
-
-  * If a TMU provided laptop, iPad, or other device is stolen, you must follow these steps
-
-  ### [![](https://athletics.masters.edu/media/865763/laptop.jpg?width=32px&height=31px) Computer Request and Purchasing Policy](#5p)
-
-  * Computer Upgrade Policy
-
-  * Notebook Upgrade Policy
-
-  * New Computer Request Policy
-
-  * Apple Mac Purchase and Support Policy
-
-  ### [![](https://athletics.masters.edu/media/865771/arrow.jpg?width=34px&height=27px)Office Equipment Relocation Policy](#6p)
-
-  TMU Faculty and Staff Members needing to relocate equipment must contact the Service Desk prior to moving equipment
-
-  ### [![](https://athletics.masters.edu/media/865775/forum.jpg?width=30px&height=31px) Personal Equipment Policy](#7p)
-
-  * Connecting Personal PCs and/or Other Devices to Campus Ethernet Ports
-
-  * Connecting Personal PCs and/or Other Devices to the TMU Wireless Network
-
-  * PDA and Smartphone/iPhone Support Policy
-
-  * Connection settings
-
-  ### [![](https://athletics.masters.edu/media/866060/google_drive_logosvg.png?width=27px&height=23px) Google Drive Policy](#4)
-
-  * Storage limits
-
-  * Sensitive data
-
-  * Folder sharing
+policies-body: "TMU Policies and Procedures\n\n### [Data Storage Policy](#1p)\n\n*
+  What is our policy?\n\n* What is sensitive data?\n\n* Best practices for handling
+  sensitive data?\n\n* Best password practices\n\n* Accessing and storing data\n\n*
+  \n\n### [Stolen Assets Procedures](#2p)\n\n* If a TMU provided laptop, iPad, or
+  other device is stolen, you must follow these steps\n\n### [Computer Request and
+  Purchasing Policy](#5p)\n\n* Computer Upgrade Policy\n\n* Notebook Upgrade Policy\n\n*
+  New Computer Request Policy\n\n* Apple Mac Purchase and Support Policy\n\n### [Office
+  Equipment Relocation Policy](#6p)\n\nTMU Faculty and Staff Members needing to relocate
+  equipment must contact the Service Desk prior to moving equipment\n\n### [Personal
+  Equipment Policy](#7p)\n\n* Connecting Personal PCs and/or Other Devices to Campus
+  Ethernet Ports\n\n* Connecting Personal PCs and/or Other Devices to the TMU Wireless
+  Network\n\n* PDA and Smartphone/iPhone Support Policy\n\n* Connection settings\n\n###
+  [Google Drive Policy](#4)\n\n* Storage limits\n\n* Sensitive data\n\n* Folder sharing"
 layout: computerservices
 ---
 
