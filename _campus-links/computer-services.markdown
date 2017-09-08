@@ -434,7 +434,7 @@ studentCompModules:
     Email: [servicedesk@masters.edu](mailto:servicedesk@masters.edu)
 
     Phone: 661.362.2876
-Faculty Modules:
+FacultyModules:
 - title: Computer and Software Discounts
   body: |-
     The following page contains special offers and discounts that are available to TMU-TMS students, faculty and staff. This information is provided for your convenience. Computer Services does not promote any particular vendor over another and is not responsible for any issues related to orders you place. Items purchased here are for personal use only. TMU faculty and staff requiring hardware and software for TMU use should contact the IT Service Desk.
