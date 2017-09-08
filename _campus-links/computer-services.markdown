@@ -767,28 +767,90 @@ FacultyModules:
   subpages:
   - title: Mobile Device Policy
     body: |-
-      **Mobile Devices Support Policy**
+      Mobile Devices Support Policy
 
-      **Faculty and staff may choose to attach their personal tablet or smartphone to the TMU network, but with clear understanding that they will receive no technical support from IT Operations and must be aware of the following stipulations:**
+      Faculty and staff may choose to attach their personal tablet or smartphone to the TMU network, but with clear understanding that they will receive no technical support from IT Operations and must be aware of the following stipulations:
 
-      * **The user is completely responsible for the installation and troubleshooting of the device along with its use.**
-
-
-      * **IT Operations reserves the right to prohibit the connection of any tablet or smartphone by the user if there are known or repeated conflicts with the TMU network or software.**
+      * The user is completely responsible for the installation and troubleshooting of the device along with its use.
 
 
-      * **IT Operations is not responsible for missing or lost information on a user's tablet/smartphone or Exchange/Outlook mailbox when the cause is due to a tablet/smartphone related issue. In the event that a user's data becomes corrupt or lost, IT Operations will make a best effort attempt to restore the user's mailbox from the last weekly network backup. The time required for this process may take up to 5-10 business days.**
+      * IT Operations reserves the right to prohibit the connection of any tablet or smartphone by the user if there are known or repeated conflicts with the TMU network or software.
 
 
-      * **Due to corporate security and human resource policies, the use of POP and SMTP for email is not allowed for faculty and staff. However, the Microsoft Exchange ActiveSync protocol is available to provide a reliable and secure method of sending and receiving data.**
+      * IT Operations is not responsible for missing or lost information on a user's tablet/smartphone or Exchange/Outlook mailbox when the cause is due to a tablet/smartphone related issue. In the event that a user's data becomes corrupt or lost, IT Operations will make a best effort attempt to restore the user's mailbox from the last weekly network backup. The time required for this process may take up to 5-10 business days.
 
 
-      * **Smartphone users wishing to connect to the faculty and staff e-mail must use an Exchange ActiveSync compatible phone. The following ActiveSync URL is required for connection to the server (**[https://exchange07.masters.edu/Microsoft-Server-ActiveSync](https://exchange07.masters.edu/Microsoft-Server-ActiveSync)). If you require connection assistance, please contact your wireless service provider such as AT&T, T-Mobile, or Verizon for complete installation and configuration support. Their technicians have been specially trained and are best qualified to handle questions regarding your personal smartphone.
+      * Due to corporate security and human resource policies, the use of POP and SMTP for email is not allowed for faculty and staff. However, the Microsoft Exchange ActiveSync protocol is available to provide a reliable and secure method of sending and receiving data.
 
 
-      * **If a user does connect their Exchange account to their tablet/smartphone, IT Operations requires that they protect the device with a pin or password.**
+      * Smartphone users wishing to connect to the faculty and staff e-mail must use an Exchange ActiveSync compatible phone. The following ActiveSync URL is required for connection to the server ([https://exchange07.masters.edu/Microsoft-Server-ActiveSync](https://exchange07.masters.edu/Microsoft-Server-ActiveSync)). If you require connection assistance, please contact your wireless service provider such as AT&T, T-Mobile, or Verizon for complete installation and configuration support. Their technicians have been specially trained and are best qualified to handle questions regarding your personal smartphone.
+
+
+      * If a user does connect their Exchange account to their tablet/smartphone, IT Operations requires that they protect the device with a pin or password.
   - title: Mobile Device Tutorials
-    body: 
+    body: |-
+      Mobile Device Tutorials
+
+      ## Staff Email for iPhone
+
+      *NOTE: Because of the sensitivity of some information, users who wish to sync their email with their mobile device must enable password protection.\
+      *
+
+      1\. Tap the ![](https://athletics.masters.edu/media/866039/img_0913.png?width=23px&height=24px) "Settings" >>> "Mail, Contacts, Calendars" >>> "Add Account."![](https://athletics.masters.edu/media/866038/iphone-email.png?width=186px&height=330px)
+
+      2\. Tap "Microsoft Exchange."
+
+      3\. In the "Email" box, enter your full e-mail address (for example, [tony@masters.edu](mailto:tony@masters.edu)).
+
+      4\. In the "Domain" box, erase "masters.edu."
+
+      5\. In the "User Name" box, enter your full e-mail address (for example, [tony@masters.edu](mailto:tony@masters.edu)).
+
+      6\. In the "Password" box, enter your password.
+
+      7\. Tap "Next." A new field will appear labeled "Server."
+
+      8\. In the "Server" box, erase “exchange07.masters.edu” and enter “outlook.office365.com”
+
+      9\. Set preferences and tap "Save."
+
+      After configuring your phone you will need to accept the TMU SafeConnect network usage policy. See instructions below.
+
+      ## Staff Email for Android
+
+      *NOTE: Because of the sensitivity of some information users who wish to sync their email with their mobile device must enable password protection.*
+
+      1\. From the Applications menu, select "Email". This application may be named "Mail" on some versions of Android.
+
+      ![](https://athletics.masters.edu/media/866040/android-email.png?width=186px&height=138px)
+
+      2\. In the "Email" box, enter your full e-mail address (for example, [tony@masters.edu](mailto:tony@masters.edu)). Then select "Next".
+
+      3\. Select Exchange account. This option may be named Exchange ActiveSync on some versions of Android.
+
+      ![](https://athletics.masters.edu/media/866041/andrid-domain.png?width=160px&height=212px)
+
+      4\. Enter the following account information and then select "Next".![](https://athletics.masters.edu/media/866042/android-email-settings.png?width=191px&height=326px)
+
+      a. Under Domain\\Username, type your full email address. If Domain and Username are separate boxes in your version of Android, leave the Domain box empty, and type your full email address in the Username box.
+
+      b. Under Password, type your password that you use to access your account.
+
+      c. Under Exchange Server, type outlook.office365.com for your server name.
+
+      5\. Set preferences and tap "Save."
+
+      After configuring your phone you will need to accept the TMU SafeConnect network usage policy. See instructions below.
+
+      ## Connecting to Campus Wi-Fi
+
+      In order to access TMU’s Wi-Fi with your mobile device, you will need to open a browser and try navigating to any website.
+
+      You will be redirected to The Master’s College SafeConnect page. You must enter your username and password, thereby accepting the TMU SafeConnect network usage policy before you can connect to the wireless network for the first time.
+
+      ![SafeConnect screen shot.png](https://athletics.masters.edu/media/771703/SafeConnect%20screen%20shot.png)
+
+      After configuring your phone, you will need to open a browser on your phone and select the "Submit" to accept the TMU SafeConnect network usage policy before you can connect to the wireless network for the first time.
 - body: |-
     ### Microsoft Unified Messaging
 
