@@ -1,9 +1,14 @@
 ---
 title: Climate Change
 date: 2017-09-08 22:08:00 Z
+author: Science Faculty
+catergory: Faculty Spotlight
+sm-image: "/uploads/ClimateChange.jpg"
 ---
 
 **The issue of global climate change has been an international and national discussion for several centuries, with intensified concern over global warming these last few decades.** Recently, an international effort to stem carbon dioxide emissions called the Paris Climate Agreement has been adopted by many countries. The initiative will start in 2020 and will cost countries billions of dollars annually to implement. Scientific measurements have reportedly shown that the increase in carbon dioxide (CO2) gases in the atmosphere caused by both natural and man-made phenomena has corresponded with an increase in the temperature of the earth.
+
+![ClimateChange.jpg](/uploads/ClimateChange.jpg)
 
 # What should be the Christian’s response to this issue? 
 
