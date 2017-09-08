@@ -1,7 +1,7 @@
 ---
 title: The Centers of Excellence
 date: 2017-09-11 05:00:00 Z
-image: "/uploads/CENTERS.jpg"
+sm-image: "/uploads/CENTERS.jpg"
 ---
 
 I**n August 2016, The Master’s University announced the Centers of Excellence Campaign—a $25 million fundraising initiative focused on enriching and investing in three specific schools on campus: Business & Communication; Education; and Science, Math, Technology & Health.**
