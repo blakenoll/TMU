@@ -1386,7 +1386,7 @@ PoliciesProcedures:
 policies-body: |-
   TMU Policies and Procedures
 
-  ### [![](https://athletics.masters.edu/media/866056/1206557202894704231mcol_open_boxsvghi.png?width=33px&height=26px) Data Storage Policy](http://www.masters.edu/campuslinks/computerservices/facstaffcompinfo/policiesandprocedures/datastoragepolicy.aspx "Data Storage Policy")
+  ### [![](https://athletics.masters.edu/media/866056/1206557202894704231mcol_open_boxsvghi.png?width=33px&height=26px) Data Storage Policy](#1p)
 
   * What is our policy?
 
@@ -1398,13 +1398,14 @@ policies-body: |-
 
   * Accessing and storing data
 
-  \
+  \*\*\
+  \*\*
 
-  ### [![](https://athletics.masters.edu/media/865755/password.jpg?width=20px&height=38px) Stolen Assets Procedures](http://www.masters.edu/campuslinks/computerservices/facstaffcompinfo/policiesandprocedures/stolenassetsprocedures.aspx "Stolen Assets Procedures")
+  ### [![](https://athletics.masters.edu/media/865755/password.jpg?width=20px&height=38px) Stolen Assets Procedures](#2p)
 
   * If a TMU provided laptop, iPad, or other device is stolen, you must follow these steps
 
-  ### [![](https://athletics.masters.edu/media/865763/laptop.jpg?width=32px&height=31px) Computer Request and Purchasing Policy](https://athletics.masters.edu/campuslinks/computerservices/facstaffcompinfo/policiesandprocedures/purchasingpolicy.aspx "Computer Request and Purchasing Policy")
+  ### [![](https://athletics.masters.edu/media/865763/laptop.jpg?width=32px&height=31px) Computer Request and Purchasing Policy](#5p)
 
   * Computer Upgrade Policy
 
@@ -1414,11 +1415,11 @@ policies-body: |-
 
   * Apple Mac Purchase and Support Policy
 
-  ### [![](https://athletics.masters.edu/media/865771/arrow.jpg?width=34px&height=27px)Office Equipment Relocation Policy](https://athletics.masters.edu/campuslinks/computerservices/facstaffcompinfo/policiesandprocedures/equipmentrelocation.aspx)
+  ### [![](https://athletics.masters.edu/media/865771/arrow.jpg?width=34px&height=27px)Office Equipment Relocation Policy](#6p)
 
   TMU Faculty and Staff Members needing to relocate equipment must contact the Service Desk prior to moving equipment
 
-  ### [![](https://athletics.masters.edu/media/865775/forum.jpg?width=30px&height=31px) Personal Equipment Policy](https://athletics.masters.edu/campuslinks/computerservices/facstaffcompinfo/policiesandprocedures/personalequipment.aspx "Personal Equipment Policy")
+  ### [![](https://athletics.masters.edu/media/865775/forum.jpg?width=30px&height=31px) Personal Equipment Policy](#7p)
 
   * Connecting Personal PCs and/or Other Devices to Campus Ethernet Ports
 
@@ -1428,7 +1429,7 @@ policies-body: |-
 
   * Connection settings
 
-  ### [![](https://athletics.masters.edu/media/866060/google_drive_logosvg.png?width=27px&height=23px) Google Drive Policy](http://www.masters.edu/campuslinks/computerservices/facstaffcompinfo/google-drive/)
+  ### [![](https://athletics.masters.edu/media/866060/google_drive_logosvg.png?width=27px&height=23px) Google Drive Policy](#4)
 
   * Storage limits
 
