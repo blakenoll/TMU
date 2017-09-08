@@ -2,35 +2,35 @@
 title: Computer Services
 date: 2017-09-05 15:30:00 Z
 studentComp-body: |-
-  ### Printing, Scanning, and Copying on Campus
+  ### [Printing, Scanning, and Copying on Campus](#1)
 
   Traditional undergraduate students are given a 300 page allowance each semester for printing. The library copy center offers black and white as well as color scanning to email at no cost. Additionally, self-serve color copies are available for $0.15 and b/w copies for $0.05.
 
-  ### E-Mail
+  ### [E-Mail](#2)
 
   Students and alumni are setup with accounts on Office 365, a Microsoft hosted email service. New to Office 365 is integration with Office Live which includes online versions of Word, Excel, PowerPoint, and OneNote. Please check here for more information including login instructions.
 
-  ### Notebook Buying Guide
+  ### [Notebook Buying Guide](#4)
 
   Looking for information about the computer requirements at The Master's University? Or do you need to find out what kind of wireless network we use at TMU? Look no further than the Notebook Buying Guide.
 
-  ### **Student Discounts on Computers and Software**
+  ### **[Student Discounts on Computers and Software](#3)**
 
   Educational discounts on computer products from Adobe®, Apple, Dell, HP, Lenovo, Microsoft, Sony and others.
 
-  ### Visitor Network Access
+  ### [Visitor Network Access](#7)
 
   Are you a DCP, Credential, Seminary, or Graduate student? Then the information that you're looking for is here. Whether you want to connect to our wireless network or login to Outlook Live, we have the answer for you.
 
-  ### Media Ethics Policy
+  ### [Media Ethics Policy](#5)
 
   TMU's Media Ethics Policy. Included is the philosophy behind the policy, it's guidelines, and consequences of violation.
 
-  ### Network Use Policy
+  ### [Network Use Policy](#6)
 
   Unsure about whether your use of the Internet (or someone else's) constitutes acceptable use or not? Want to make sure that you remain within the bounds of our Usage Policy? Here's where you can find the info you need.
 
-  ### Legal Alternatives to Unauthorized Downloading of Copyrighted Data
+  ### [Legal Alternatives to Unauthorized Downloading of Copyrighted Data](#8)
 
   The Higher Education Opportunity Act requires all colleges and universities to offer legal alternatives to unauthorized downloading. The list provided here includes many legitimate online services. No endorsement or evaluation is intended.
 
