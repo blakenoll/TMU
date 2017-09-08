@@ -91,12 +91,12 @@ layout: default
                   {{ page.newStudents-body | markdownify }}
                 </div>
                 <div id="policies">
-                  {{ page.polices-body | markdownify }}
+                  {{ page.policies-body | markdownify }}
                 </div>
               </div>
               {% for policy in page.PoliciesProcedures %}
               <!-- Modal Structure -->
-              <div id="modal1" class="modal">
+              <div id="{{ forloop.index | append: 'p' }}" class="modal">
                 <div class="modal-content">
                   <h4>{{ policy.title }}</h4>
                   <p>{{ policy.body | markdownify }}</p>
