@@ -200,31 +200,31 @@ faq-body: |-
 
   This has never happened yet, but if we decide to cancel the F&F trip **before the full payment is due** (Jan. 10), we will fully refund the deposit or whatever a person has paid. However, **after the full payment is made and that money goes to the airline and the land venues**, the money is out of our hands. If things get so bad at that point that we make the painful decision to cancel the trip **(which I don't at all expect)**, we have no access to that money. That is where the travel insurance kicks in. That is why we are encouraging concerned people to buy the travel insurance--making sure they understand the parameters of the policy they choose.
 flight-body: |-
-  <table class="table table">\
-    <tr>\
-      <td>DL 44</td>\
-      <td>02 MAR</td>\
-      <td>LAX JFK 11:30 am</td>\
-      <td>8:05 pm</td>\
-    </tr>\
-    <tr>\
-      <td>DL 468</td>\
-      <td>02 MAR</td>\
-      <td>JFK TLV 11:24 pm</td>\
-      <td>5:35 pm arrives 03 MAR</td>\
-    </tr>\
-    <tr>\
-      <td>DL 467</td>\
-      <td>10 MAR</td>\
-      <td>TLV JFK 11:30 pm</td>\
-      <td>5:13 am arrives 11 MAR</td>\
-    </tr>\
-    <tr>\
-      <td>DL 472</td>\
-      <td>11 MAR</td>\
-      <td>JFK LAX 8:15 am</td>\
-      <td>11:50 am</td>\
-    </tr>\
+  <table class="table table">
+    <tr>
+      <td>DL 44</td>
+      <td>02 MAR</td>
+      <td>LAX JFK 11:30 am</td>
+      <td>8:05 pm</td>
+    </tr>
+    <tr>
+      <td>DL 468</td>
+      <td>02 MAR</td>
+      <td>JFK TLV 11:24 pm</td>
+      <td>5:35 pm arrives 03 MAR</td>
+    </tr>
+    <tr>
+      <td>DL 467</td>
+      <td>10 MAR</td>
+      <td>TLV JFK 11:30 pm</td>
+      <td>5:13 am arrives 11 MAR</td>
+    </tr>
+    <tr>
+      <td>DL 472</td>
+      <td>11 MAR</td>
+      <td>JFK LAX 8:15 am</td>
+      <td>11:50 am</td>
+    </tr>
   </table>
 
   Be sure to direct any questions about flights to our travel agent, Shirley Fleig- [groupadvantage@me.com](mailto:groupadvantage@me.com)
