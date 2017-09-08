@@ -1383,6 +1383,58 @@ PoliciesProcedures:
     6. If a user does connect their Exchange account to their tablet/smartphone, IT Operations requires that they protect the device with a pin or password.
 
     After configuring your phone, you will need to open a browser on your phone and select the button to accept the TMU SafeConnect network usage policy before you can connect to the wireless network for the first time.
+policies-body: |-
+  TMU Policies and Procedures
+
+  ### [![](https://athletics.masters.edu/media/866056/1206557202894704231mcol_open_boxsvghi.png?width=33px&height=26px) Data Storage Policy](http://www.masters.edu/campuslinks/computerservices/facstaffcompinfo/policiesandprocedures/datastoragepolicy.aspx "Data Storage Policy")
+
+  * What is our policy?
+
+  * What is sensitive data?
+
+  * Best practices for handling sensitive data?
+
+  * Best password practices
+
+  * Accessing and storing data
+
+  \
+
+  ### [![](https://athletics.masters.edu/media/865755/password.jpg?width=20px&height=38px) Stolen Assets Procedures](http://www.masters.edu/campuslinks/computerservices/facstaffcompinfo/policiesandprocedures/stolenassetsprocedures.aspx "Stolen Assets Procedures")
+
+  * If a TMU provided laptop, iPad, or other device is stolen, you must follow these steps
+
+  ### [![](https://athletics.masters.edu/media/865763/laptop.jpg?width=32px&height=31px) Computer Request and Purchasing Policy](https://athletics.masters.edu/campuslinks/computerservices/facstaffcompinfo/policiesandprocedures/purchasingpolicy.aspx "Computer Request and Purchasing Policy")
+
+  * Computer Upgrade Policy
+
+  * Notebook Upgrade Policy
+
+  * New Computer Request Policy
+
+  * Apple Mac Purchase and Support Policy
+
+  ### [![](https://athletics.masters.edu/media/865771/arrow.jpg?width=34px&height=27px)Office Equipment Relocation Policy](https://athletics.masters.edu/campuslinks/computerservices/facstaffcompinfo/policiesandprocedures/equipmentrelocation.aspx)
+
+  TMU Faculty and Staff Members needing to relocate equipment must contact the Service Desk prior to moving equipment
+
+  ### [![](https://athletics.masters.edu/media/865775/forum.jpg?width=30px&height=31px) Personal Equipment Policy](https://athletics.masters.edu/campuslinks/computerservices/facstaffcompinfo/policiesandprocedures/personalequipment.aspx "Personal Equipment Policy")
+
+  * Connecting Personal PCs and/or Other Devices to Campus Ethernet Ports
+
+  * Connecting Personal PCs and/or Other Devices to the TMU Wireless Network
+
+  * PDA and Smartphone/iPhone Support Policy
+
+  * Connection settings
+
+  ### [![](https://athletics.masters.edu/media/866060/google_drive_logosvg.png?width=27px&height=23px) Google Drive Policy](http://www.masters.edu/campuslinks/computerservices/facstaffcompinfo/google-drive/)
+
+  * Storage limits
+
+  * Sensitive data
+
+  * Folder sharing
 layout: computerservices
 ---
 
