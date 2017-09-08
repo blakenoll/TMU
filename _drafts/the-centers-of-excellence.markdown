@@ -1,7 +1,6 @@
 ---
 title: The Centers of Excellence
 date: 2017-09-11 05:00:00 Z
-published: false
 image: "/uploads/CENTERS.jpg"
 ---
 
