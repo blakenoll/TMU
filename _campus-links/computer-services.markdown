@@ -544,6 +544,70 @@ FacultyModules:
     * Mobile email for iPhone
 
     * Mobile email for Android
+  subpages:
+  - title: outlook calendar scheduling
+    body: |-
+      Outlook Calendar Overview
+
+      In the Calendar view, the two most commonly used features are "New Appointment" and "Share Calendar." These features can be accessed on the toolbar at the top of the screen.
+
+      ![outlook menu screeshot.png](https://athletics.masters.edu/media/771890/outlook%20menu%20screeshot_499x90.jpg)
+
+      ## Check Availability and Schedule Meetings
+
+      1\. Click on the "Calendar" button and select "New Meeting."
+
+      ![new meeting screenshot.png](https://athletics.masters.edu/media/771895/new%20meeting%20screenshot.png)
+
+      2\. Enter the names of who you want at your meeting, a subject, location, date, and time.
+
+      3\. Before you send your invitation, check the recipient's availability by clicking "Scheduling Assistant."
+
+      ![outlook calendar screeshot.png](https://athletics.masters.edu/media/771900/outlook%20calendar%20screeshot_675x367.jpg)
+
+      *NOTE: Availability is color coded: ![availability screeshot.png](https://athletics.masters.edu/media/771905/availability%20screeshot_673x30.jpg)*
+
+      4\. If you find some of your recipients are unavailable, you can use the information in the right pane of the "Scheduling Assistant" to find "Suggested Times" for the current day, as well as calendar to view availability on other days.
+  - title: Email Settings
+    body: |-
+      Streamline your Outlook experience by organizing contact groups, creating an email signature, setting of-out-office automatic replies and handling spam.
+
+      ## Outlook Email Tutorials
+
+      ### [Creating Contact Groups](https://athletics.masters.edu/media/771913/How%20To%20Create%20Contact%20Groups%20in%20Outlook%20to%20PDF.pdf)
+
+      ### [Creating an Email Signature](http://www.masters.edu/marketing/graphics-standards/v-correspondence.aspx)
+
+      ### [Setting Automatic Replies](https://athletics.masters.edu/media/771919/How%20To%20Set%20Automatic%20Replies%20in%20Outlook%20to%20PDF.pdf)
+
+      ### [Handling Spam and Filter Settings](https://athletics.masters.edu/media/771916/How%20To%20Handle%20Spam%20to%20PDF.pdf)
+
+      ### [Adding an Email Inbox](https://athletics.masters.edu/media/771910/How%20To%20Add%20an%20Email%20Inbox%20to%20PDF.pdf)
+  - title: Mailbox Size
+    body: |-
+      Mailbox Size
+
+      It is advised that you periodically delete old messages from your mailbox. There is a 50 GB quota for each faculty or staff mailbox. If you exceed that quota, you will not be able to send or receive messages.
+
+      ## How to Clean Up Your Master's U Mailbox
+
+      Here are a few steps you should take to clean up your mailbox:
+
+      1\. Regularly delete old and/or unwanted Inbox messages.
+
+      2\. Copy large email attachments that you want to save to your hard drive and delete them from your Inbox or other folder.
+
+      3\. Delete unwanted messages in your "Sent Items" and "Junk E-mail" folders.
+
+      4\. Remember to empty your "Deleted Items" folder after you finish your mailbox cleanup, or messages will not be actually deleted.
+
+      5\. It is recommended that you use a Gmail, Yahoo, or an email account from your ISP for personal e-mail use. Personal pictures, graphics, and music files can use up your mail quota quickly.
+
+      ## Tutorials
+
+      ### [How to Check Your Mailbox Size](https://athletics.masters.edu/media/771922/How%20To%20Check%20Your%20Mailbox%20Size%20to%20PDF.pdf)
+
+      ### [How to Sort Emails by Size](https://athletics.masters.edu/media/771925/How%20To%20Sort%20Emails%20by%20Size%20to%20PDF.pdf)
 - body: |-
     Faculty and Staff Printing and Copying
 
@@ -563,6 +627,61 @@ FacultyModules:
 
     Access Sharp’s online tutorials for troubleshooting and information on how to use the copier features.
   title: Staff Printing
+  subpages:
+  - title: Copy Center
+    body: |-
+      Faculty and Staff Copy Center Information
+
+      The Master's University provides two Canon Copiers for departments to print larger or color print jobs. These copiers are equipped with external saddle stitch finishers for booklet finishing. The Copy Center is open to all departments on campus. To access the copiers, you will need to enter your department number either on the physical copier (if you are copying), or from your computer (if you are printing).
+
+      ### Copy Center Hours
+
+      Monday through Friday 8 a.m. to 6 p.m. and by special arrangement.
+
+      ### Copy Center Location
+
+      In the EHC building next to EHC 100. You can enter the copy center through the side door with the porch on Quigley Canyon Road.
+
+      ### Department Copy Center Costs
+
+      * Please contact IT Operations for all cost per page information.
+
+      * All copies/printouts larger than legal size will count as 2 copies
+
+      * All two-sided copies/printouts count as 2 copies
+
+      * White letter and legal size paper for Copy Center use is provided by TMU.
+
+      * Color and specialty papers must be purchased by individual departments.
+
+      Copy Center and Departmental Copier questions should be directed to IT Operations by email at servicedesk@masters.edu or calling 661.362.2876. Please contact IT Operations to report any problems with your department or copy center copier. We will log the issue and contact our copier vendor.
+
+      ### Cardstock, Transparencies, and Specialty Papers
+
+      When using these types of supplies, it is very important that the paper is designed for laser printer use. Please DO NOT USE INKJET PAPER. It will damage the copier. If you are in doubt, please contact IT Operations. Additionally, you should feed transparencies, cardstock and specialty papers only through the bypass tray . You will need to configure the bypass tray for the appropriate type of paper. You can do this by either pressing Select Paper or by going to Options, Transparency/Coversheets.
+
+      ### Toner replacement for the Copy Center
+
+      When you receive a low toner message, you will have approximately 600 pages left before the toner runs out. There will be a spare toner for each copier in the copy center. You can replace the toner by following the simple directions on the copier screen. If you have any questions, please contact the IT Operations service desk for assistance. If you replace a toner, please inform IT Operations so the spare toner can be replenished. Please contact the IT Service Desk at 661-362-2876 or servicedesk@masters.edu.
+  - title: Copier Tutorials
+    body: |-
+      Campus Copier Tutorials
+
+      Sharp Online Tutorials
+
+      TMU staff have full access to view Sharp's online video tutorials. You can learn to print to cardstock or other specialty papers via the bypass tray, print double-sided documents, scan to email, change the toner, and other copier essentials.
+
+      Canon user manuals are located beneath each Canon Color Copier.
+
+      ## Other Tutorials
+
+      ### [Adding Printers/Copiers on a PC](https://athletics.masters.edu/media/765802/Adding%20a%20Printer%20or%20Copier%20on%20a%20PC.pdf)
+
+      ### [Adding Department Codes for Sharp and Canon Copiers](https://athletics.masters.edu/media/765885/Adding%20Department%20Codes%20for%20Sharp%20and%20Canon%20Copiers.pdf)
+
+      ### [Adding Printers on a Mac](https://athletics.masters.edu/media/765901/How%20to%20Add%20Printers%20on%20a%20Mac.pdf)\
+      [Adding Sharp Copiers on a Mac](https://athletics.masters.edu/media/765898/Adding%20Sharp%20Copiers%20on%20a%20Mac.pdf)\
+      [Adding Canon Copiers on a Mac](https://athletics.masters.edu/media/765895/Adding%20Canon%20Copiers%20on%20a%20Mac.pdf)
 - body: |-
     ## Using Google Drive
 
@@ -645,6 +764,31 @@ FacultyModules:
 
     * Connecting to campus Wi-Fi
   title: Mobile Devices
+  subpages:
+  - title: Mobile Device Policy
+    body: |-
+      **Mobile Devices Support Policy**
+
+      **Faculty and staff may choose to attach their personal tablet or smartphone to the TMU network, but with clear understanding that they will receive no technical support from IT Operations and must be aware of the following stipulations:**
+
+      * **The user is completely responsible for the installation and troubleshooting of the device along with its use.**
+
+
+      * **IT Operations reserves the right to prohibit the connection of any tablet or smartphone by the user if there are known or repeated conflicts with the TMU network or software.**
+
+
+      * **IT Operations is not responsible for missing or lost information on a user's tablet/smartphone or Exchange/Outlook mailbox when the cause is due to a tablet/smartphone related issue. In the event that a user's data becomes corrupt or lost, IT Operations will make a best effort attempt to restore the user's mailbox from the last weekly network backup. The time required for this process may take up to 5-10 business days.**
+
+
+      * **Due to corporate security and human resource policies, the use of POP and SMTP for email is not allowed for faculty and staff. However, the Microsoft Exchange ActiveSync protocol is available to provide a reliable and secure method of sending and receiving data.**
+
+
+      * **Smartphone users wishing to connect to the faculty and staff e-mail must use an Exchange ActiveSync compatible phone. The following ActiveSync URL is required for connection to the server (**[https://exchange07.masters.edu/Microsoft-Server-ActiveSync](https://exchange07.masters.edu/Microsoft-Server-ActiveSync)). If you require connection assistance, please contact your wireless service provider such as AT&T, T-Mobile, or Verizon for complete installation and configuration support. Their technicians have been specially trained and are best qualified to handle questions regarding your personal smartphone.
+
+
+      * **If a user does connect their Exchange account to their tablet/smartphone, IT Operations requires that they protect the device with a pin or password.**
+  - title: Mobile Device Tutorials
+    body: 
 - body: |-
     ### Microsoft Unified Messaging
 
