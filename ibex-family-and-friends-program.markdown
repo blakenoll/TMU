@@ -185,18 +185,11 @@ faq-body: |-
   ### What happens if TMU decides to cancel the Family and Friends trip?
 
   If we decide to cancel the F&F trip before the full payment is due (Jan. 12), we will fully refund the deposit or whatever a person has paid. However, after the full payment is made and that money goes to the airline and the land venues (in mid to late January), the money is out of our hands. If things get so bad at that point that we make the painful decision to cancel the trip (which I don't at all expect), we have no access to that money. That is where the travel insurance kicks in. That is why we are encouraging concerned people to buy the travel insurance--making sure they understand the parameters of the policy they choose.
-flight-body: |-
-  | DL 44   | 02 MAR | LAX JFK 11:30 am | 8:05 pm                |
-
-  | ------- | ------ | ---------------- | ---------------------- |
-
-  | DL 468  | 02 MAR | JFK TLV 11:24 pm | 5:35 pm arrives 03 MAR |
-
-  | DL 467  | 10 MAR | TLV JFK 11:30 pm | 5:13 am arrives 11 MAR |
-
-  | DL 472  | 11 MAR | JFK LAX 8:15 am  | 11:50 am               |
-
-  Be sure to direct any questions about flights to our travel agent, Shirley Fleig- [groupadvantage@me.com](mailto:groupadvantage@me.com)
+flight-body: "DL 44   | 02 MAR | LAX JFK 11:30 am | 8:05 pm                \n\n---
+  | --- | --- | --- \n\nDL 468  | 02 MAR | JFK TLV 11:24 pm | 5:35 pm arrives 03 MAR
+  \n\nDL 467  | 10 MAR | TLV JFK 11:30 pm | 5:13 am arrives 11 MAR \n\nDL 472  | 11
+  MAR | JFK LAX 8:15 am  | 11:50 am               \n\nBe sure to direct any questions
+  about flights to our travel agent, Shirley Fleig- [groupadvantage@me.com](mailto:groupadvantage@me.com)"
 layout: fandf
 ---
 
