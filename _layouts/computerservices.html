@@ -48,44 +48,12 @@ layout: default
               <div class="card-content grey lighten-4">
                 <div id="students">
                   {{ page.studentComp-body | markdownify }}
-                  {% for module in page.studentCompModules %}
-                  <!-- Modal Structure -->
-                  <div id="{{ forloop.index | append: 's' }}" class="modal">
-                    <div class="modal-content">
-                      <h4>{{ module.title }}</h4>
-                      <p>{{ module.body | markdownify }}</p>
-                    </div>
-                    <div class="modal-footer">
-                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
-                    </div>
-                  </div>
-                  {% endfor %}
+
 
                 </div>
                 <div id="faculty">
                   {{ page.FacStaffComp-body | markdownify }}
-                  {% for module in page.FacultyModules %}
-                  <!-- Modal Structure -->
-                  <div id="{{ forloop.index }}" class="modal">
-                    <div class="modal-content">
-                      <h4>{{ module.title }}</h4>
-                      <p>{{ module.body | markdownify }}</p>
-                      <ul class="collapsible" data-collapsible="accordion">
-                        {% if module.subpages %}
-                          {% for page in module.subpages %}
-                        <li>
-                          <div class="collapsible-header">{{ page.title }}</div>
-                          <div class="collapsible-body"><span>{{ page.body | markdownify }}</span></div>
-                        </li>
-                          {% endfor %}
-                        {% endif %}
-                      </ul>
-                    </div>
-                    <div class="modal-footer">
-                      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
-                    </div>
-                  </div>
-                  {% endfor %}
+
                 </div>
                 <div id="new">
                   {{ page.newStudents-body | markdownify }}
@@ -94,6 +62,43 @@ layout: default
                   {{ page.policies-body | markdownify }}
                 </div>
               </div>
+
+              {% for module in page.studentCompModules %}
+              <!-- Modal Structure -->
+              <div id="{{ forloop.index | append: 's' }}" class="modal">
+                <div class="modal-content">
+                  <h4>{{ module.title }}</h4>
+                  <p>{{ module.body | markdownify }}</p>
+                </div>
+                <div class="modal-footer">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+                </div>
+              </div>
+              {% endfor %}
+
+              {% for module in page.FacultyModules %}
+              <!-- Modal Structure -->
+              <div id="{{ forloop.index }}" class="modal">
+                <div class="modal-content">
+                  <h4>{{ module.title }}</h4>
+                  <p>{{ module.body | markdownify }}</p>
+                  <ul class="collapsible" data-collapsible="accordion">
+                    {% if module.subpages %}
+                      {% for page in module.subpages %}
+                    <li>
+                      <div class="collapsible-header">{{ page.title }}</div>
+                      <div class="collapsible-body"><span>{{ page.body | markdownify }}</span></div>
+                    </li>
+                      {% endfor %}
+                    {% endif %}
+                  </ul>
+                </div>
+                <div class="modal-footer">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+                </div>
+              </div>
+              {% endfor %}
+
               {% for policy in page.PoliciesProcedures %}
               <!-- Modal Structure -->
               <div id="{{ forloop.index | append: 'p' }}" class="modal">
