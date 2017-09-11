@@ -58,7 +58,7 @@ about-body: |-
 
   [Click here](https://athletics.masters.edu/media/869689/bs-bmgt-olp-tmu3.pdf) to print a summary of the degree requirements for the Online Business Management Degree
 major-requirments-body: |-
-  <table class="table">
+  <table class="bordered">
   <tbody>
   <tr>
   <td style="text-align: center;">Total Major Units</td>
@@ -73,12 +73,12 @@ major-requirments-body: |-
   </tbody>
   </table>
   <p> </p>
-  <table class="table">
+  <table class="bordered">
   <tbody>
   <tr>
-  <td colspan="2" style="text-align: center;">Course Number &amp; Title</td>
+  <td colspan="2" style="text-align: center;">Course Number & Title</td>
   <td style="text-align: center;">Units</td>
-  <td colspan="2" style="text-align: center;">Course Number &amp; Title </td>
+  <td colspan="2" style="text-align: center;">Course Number & Title </td>
   <td style="text-align: center;">Units </td>
   </tr>
   <tr>
@@ -156,7 +156,7 @@ major-requirments-body: |-
   <td style="text-align: center;">Statistics for Business</td>
   <td style="text-align: center;">3</td>
   <td style="text-align: center;">BUS490</td>
-  <td style="text-align: center;">Advanced Business Seminar**</td>
+  <td style="text-align: center;">Advanced Business Seminar\*\*</td>
   <td style="text-align: center;">3</td>
   </tr>
   </tbody>
