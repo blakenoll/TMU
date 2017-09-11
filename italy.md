@@ -28,14 +28,12 @@ locations-body: We will be living in a lovely Medieval/Renaissance period villa 
   Florence with trips to Rome, Venice, and Pisa, as well as extensive time spent in
   museums, palaces, classical-era ruins, Renaissance gardens, the Vatican museum and
   libraries, and the famous Mediterranean Coast.
-offerings-text: 'We will offer a series of General Education required courses for
-  students to choose from. Our summer semesters are designed to help students graduate
-  on-time, or even early. Students can even go directly to IBEX after Italy, and save
-  the cost of airfare. The typical student will take two survey-level courses and
-  two upper division Oxford-style tutorials. The academically intensive tutorials
-  will have 2-5 students in socratic discussion—and in both the courses and the tutorials
-  the major focus will be an exploratory discussion of Man: his origin, creative nature,
-  purpose and end.'
+offerings-text: |-
+  Our summer semesters are designed to help students graduate on-time, or even early, which means that the GE courses we offer every summer will be determined by the group of students selected and the faculty members who will join the program.
+
+  The typical student will take two survey-level courses and two upper division Oxford-style tutorials. The academically intensive tutorials will have 2-5 students in socratic discussion—and in both the courses and the tutorials the major focus will be an exploratory discussion of Man: his origin, creative nature, purpose and end.
+
+  The following is a SAMPLE list of course offerings:
 cost-text: Approximate cost of the program is 10K for airfare, room and board, side
   trips to Italian cities, and tuition for 12 units.
 app-process-text: |-
@@ -43,11 +41,13 @@ app-process-text: |-
 
   **Turn in your application by December 9th to Professor Esther Chua either by delivering it to her office, sending it in the mail (TMU Box #15), or emailing it to italy@masters.edu. For further questions please email italy@masters.edu**
 lower-div-text: |-
-  * English Literature I or II; World Literature I or II; Italy in Literature (any for literature elective credit)
+  * English Literature I; American Literature II (for Literature Survey credit)
 
-  * World History I or II (either for history credit)
+  * World History II (for history credit)
 
   * Art History of the Western World (for Introduction to Music and Art credit)
+
+  * Other courses may apply
 upper-div-text: |-
   * Literature courses: Virgil (Aeneid); Homer (Iliad and/or Odyssey); Shakespeare; Milton; Dante; Romanticism; Ovid and Classical Mythology; The Life, Influences and Writings of Robert and Elizabeth Browning
 
@@ -58,6 +58,8 @@ upper-div-text: |-
   * Language: Introductory Latin; Introductory Italian
 
   * Communications/Writing: Travel Writing
+
+  For the most current course listings, please visit Prof. Esther Chua in the English Department or email[italy@masters.edu](mailto:italy@masters.edu).
 layout: italy
 ---
 
