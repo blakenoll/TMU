@@ -59,7 +59,7 @@ upper-div-text: |-
 
   * Communications/Writing: Travel Writing
 
-  For the most current course listings, please visit Prof. Esther Chua in the English Department or email[italy@masters.edu](mailto:italy@masters.edu).
+  For the most current course listings, please visit Prof. Esther Chua in the English Department or email [italy@masters.edu](mailto:italy@masters.edu).
 layout: italy
 ---
 
