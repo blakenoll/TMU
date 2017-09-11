@@ -2,7 +2,7 @@
 title: Anne Powell
 date: 2017-05-02 18:00:00 Z
 job-title: 'Adjunct Faculty '
-department: Communications
+department: Communication
 degrees:
 - 'B.A., The Master''s  University '
 - M.A., California State University, Northridge
