@@ -1,6 +1,13 @@
 ---
 title: Climate Change
 date: 2017-09-11 05:00:00 Z
+categories:
+- current events
+- faculty spotlight
+tags:
+- science
+- faculty
+- current events
 author: Science Faculty
 catergory: Faculty Spotlight
 sm-image: "/uploads/ClimateChange.jpg"
