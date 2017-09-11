@@ -27,26 +27,26 @@ total-credits: 115
 bible-credits: 21
 GE-credits: 40
 core-courses: 15
-emphasis-electives: 39
+emphasis-electives: 46
 course-offerings:
-- Digital Photography
-- Screenwriting I, II
+- Creative Writing
+- 'Screenwriting '
 - Graphic Design
-- Sports Journalism
+- Magazine Writing
 - Film Production
-- Computer Visual Effects
-- Film History
+- Nonverbal Communications
+- Public Relations
 careers:
 - 'Sports Journalist '
-- 'Novelist '
-- 'Producer '
+- 'Advertising Copywriter '
+- Lawyer
 - 'Speech Writer '
 - 'Producer '
 - 'Director '
 - 'News Anchor '
 - 'Journalist '
 - 'Graphic Designer '
-- 'Podcaster '
+- Public Relations
 - 'Film/TV Editor '
 required-courses-body: |-
   ## Communication Core Courses
