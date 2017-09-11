@@ -2,7 +2,7 @@
 title: Jeff Noe
 date: 2017-05-02 17:57:00 Z
 job-title: 'Adjunct Faculty '
-department: Communications
+department: Communication
 degrees:
 - 'B.A., UCLA  '
 - 'M.A., Talbot School of Theology      '

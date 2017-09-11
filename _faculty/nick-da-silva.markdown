@@ -2,7 +2,7 @@
 title: Nick da Silva
 date: 2017-05-02 17:53:00 Z
 job-title: Adjunct Faculty
-department: Communications
+department: Communication
 degrees:
 - |-
   Communication

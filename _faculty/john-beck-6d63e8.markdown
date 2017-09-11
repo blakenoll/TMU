@@ -3,7 +3,7 @@ title: John Beck
 date: 2017-05-02 17:52:00 Z
 job-title: Associate Professor of Communication
 image: "/uploads/FacultyHeadshots/Beck,%20J.jpg"
-department: Communications
+department: Communication
 degrees:
 - B.S., Ohio University
 - M.A., University of Southern California

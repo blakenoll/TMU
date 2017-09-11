@@ -2,7 +2,7 @@
 title: Julie Larson
 date: 2017-05-02 17:49:00 Z
 job-title: Professor of Communication
-department: Communications
+department: Communication
 degrees:
 - |-
   B.A., M.A., Ph.D., University

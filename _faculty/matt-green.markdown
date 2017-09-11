@@ -2,7 +2,7 @@
 title: Matt Green
 date: 2017-05-02 17:50:00 Z
 job-title: Assistant Professor of Communication
-department: Communications
+department: Communication
 degrees:
 - 'B.A., The  Master''s University '
 email: communications@masters.edu
