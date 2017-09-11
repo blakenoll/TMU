@@ -261,15 +261,9 @@ tuition-body: |-
 ---
 
 **The Master’s University**
-
 **Office of Graduate Studies, Box #50 21726**
-
 **Placerita Canyon Road Santa Clarita, CA 91321**
-
 **Jay Street**
-
 **Graduate Studies Admissions Coordinator [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu)**
-
 **P: 661.362.2652; 800.568.6248 x2652**
-
 **F: 661.362.2712**
