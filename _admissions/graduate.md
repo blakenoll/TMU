@@ -26,17 +26,13 @@ After the application has been submitted, the system will automatically assemble
 
 **THE MASTER'S UNIVERSITY**
 
-**
-Office of Graduate Admissions Box #50**
+**Office of Graduate Admissions Box #50**
 
-**
-21726 Placerita Canyon Road**
+**21726 Placerita Canyon Road**
 
-**
-Santa Clarita, CA 91321**
+**Santa Clarita, CA 91321**
 
-**
-UNITED STATES**
+**UNITED STATES**
 
 Please make sure to remind your school that the "Box #50" must be included in the address. Some schools have our basic address in their system without the "Box #50." They may need prompting to include this number. If it is not included, the transcript will arrive in another department on our campus, and it may take some time to track it down. Thank you in advance!
 
