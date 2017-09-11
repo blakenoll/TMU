@@ -25,11 +25,11 @@ testimonials-body: |-
 
   ***10 years ago, our son attended IBEX and my husband attended that Family & Friends trip. The 2017 Family & Friends was my first Israel trip. The 2017 Family & Friends trip was a blessing. I appreciated Dr. Michael Grisanti’s daily devotions/encouragement on our bus ride toward our destinations, and how he associated passages of Scripture to the places where we traveled. We didn’t just visit places, each day we marveled at how God worked in the land, protected His own, and I believe God was honored by what was taught, and the extra bonus was what we saw. Together with the Satellite Bible Atlas, this time helped me understand the significance of the cities we visited. Now when places are mentioned in Scripture, I can visualize some of the places. It was truly a memorable visit to a special place where the OT Patriarchs, our Savior and the early church leaders lived and walked during their days on earth.***
 
-  **Lisa Low, 2017 F and F**
+  **Lisa Low, 2017  F&F participant**
 
   ***Both my wife and I had been to Israel decades earlier, but we jumped at the chance to join the Israel study tour while our daughter was there for the semester studying through the IBEX program at The Master’s University. This trip was incredibly rewarding and more meaningful, as the resource material we received in advance and the Bible Atlas we received while on the tour added tremendous depth to our experience. That, and the extensive knowledge and teaching from Dr. Grisanti and our Israeli guide made it a tremendous blessing. We also enjoyed the fellowship from some wonderful like-minded believers we met on the trip. This was way more than just another tourist trip. Thank you for providing such a great privilege to see and travel throughout Israel.***
 
-  **Jay Russell**
+  **Jay Russell, 2017 F&F participant**
 itinerary-body: |-
   [Here is our tentative trip itinerary in calendar format](/media/870373/spring-2018-friends-and-family-program-calander.pdf)
 
@@ -89,27 +89,23 @@ itinerary-body: |-
 application-body: |-
   **Download the [Trip Application](http://www.masters.edu/media/870372/f-and-f-israel-trip-application-registration-form-air-and-land-march-2018.pdf).**
 
-  1 If possible, please complete the registration form by typing the information. This will help insure that we have accurate information and don’t incorrectly read someone’s handwriting. Print the completed registration form and sign and date at the bottom. Provide your initials for the travel insurance line at the top of page 2 of the form. You can scan the form and email it to [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu) or mail it to the IBEX Office (see below address).
+  1\. If possible, please complete the registration form by typing the information. This will help insure that we have accurate information and don’t incorrectly read someone’s handwriting. Print the completed registration form and sign and date at the bottom. Provide your initials for the travel insurance line at the top of page 2 of the form. You can scan the form and email it to [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu) or mail it to the IBEX Office (see below address).
 
-  2 To pay by credit card, please use our **[secure payment portal](https://masters.formstack.com/forms/family_and_friends_israel_trip)**.
+  2\. To pay by credit card, please use our **[secure payment portal](https://masters.formstack.com/forms/family_and_friends_israel_trip)**.
 
-  3 To pay by check, please make the check payable to The Master’s University and mail or deliver to the IBEX Office.
+  3\. To pay by check, please make the check payable to The Master’s University and mail or deliver to the IBEX Office.
 
   Kaitlyn Stires
-
   IBEX Secretary—Box #16
-
   The Master’s University
-
   21726 Placerita Canyon Road
-
   Santa Clarita, CA 91321
 
-  4 The Master’s University requires all participants in the Family & Friends program to fill out a **[release form](http://www.masters.edu/media/870371/activity-release-form-2105-01-29-fillable.pdf)**. Print the completed form and sign and date at the bottom. You can scan the form and email it to ibexoffice@masters.edu or mail it to the IBEX Office.
+  4\. The Master’s University requires all participants in the Family & Friends program to fill out a **[release form](http://www.masters.edu/media/870371/activity-release-form-2105-01-29-fillable.pdf)**. Print the completed form and sign and date at the bottom. You can scan the form and email it to ibexoffice@masters.edu or mail it to the IBEX Office.
 
-  5 For any questions regarding logistical and payment details, please contact Kaitlyn Stire in the IBEX Office, 661-259-3540 x3011 or [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu). Also, keep in mind that Kaitlyn is a full-time student and only works certain days and hours in the IBEX Office. Allow her time to reply to your email inquiries or phone calls.
+  5\. For any questions regarding logistical and payment details, please contact Kaitlyn Stire in the IBEX Office, 661-259-3540 x3011 or [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu). Also, keep in mind that Kaitlyn is a full-time student and only works certain days and hours in the IBEX Office. Allow her time to reply to your email inquiries or phone calls.
 
-  6 For questions that Kaitlyn cannot answer, contact Dr. Grisanti at 818-909-5649 or [mgrisanti@tms.edu](mailto:mgrisanti@tms.edu).
+  6\. For questions that Kaitlyn cannot answer, contact Dr. Grisanti at 818-909-5649 or [mgrisanti@tms.edu](mailto:mgrisanti@tms.edu).
 cost-body: |-
   Cost and Payment
 
@@ -168,7 +164,7 @@ cost-body: |-
 
   If you make your full payment after December 13, keep in mind that our IBEX secretary (who handles the payments) will heading home for her Christmas break and won’t arrive back on campus untili the due date for the final payment. We need the payments in by January 10 to give the IBEX secretary and the finance office time to gather those payments together and send checks off for the land and airline side of the trip costs.
 
-  So if you make your final payment after December 12, *please don’t expect any response saying that your payment was received* until she gets back into the IBEX office and can catch up with payments that came in during the break. Also, there is no need to email me because I won’t know anything about what has come through as payments. If you are wondering if your payment was received, feel free to email Bethany after January 10.
+  So if you make your final payment after December 13, *please don’t expect any response saying that your payment was received* until she gets back into the IBEX office and can catch up with payments that came in during the break. Also, there is no need to email me because I won’t know anything about what has come through as payments. If you are wondering if your payment was received, feel free to email Kaitlyn after January 10.
 faq-body: |-
   FAQs
 
