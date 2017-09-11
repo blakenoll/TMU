@@ -286,7 +286,7 @@ required-courses-body: |-
 
   Total units required for emphasis (61)
 
-  ## Marketing Media Emphasis Courses
+  ## Marketing Media Major Courses
 
   * Communication core courses (30 units of the following)
 
