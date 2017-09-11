@@ -55,8 +55,10 @@ layout: default
           </div>
         </div>
        </div>
+       {% if page.prof-publications-body != '' %}
        <h2>Prof Publications</h2>
        {{ page.prof-publications-body | markdownify }}
+       {% endif %}
     </div>
     <div class="col s12 m3">
       <h2>Emphasis</h2>
