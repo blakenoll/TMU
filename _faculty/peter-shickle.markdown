@@ -2,7 +2,7 @@
 title: Peter Shickle
 date: 2017-05-02 18:01:00 Z
 job-title: 'Adjunct Faculty '
-department: Communications
+department: Communication
 degrees:
 - 'B.A., The Master''s University '
 email: 'communications@masters.edu '
