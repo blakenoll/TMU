@@ -1,7 +1,6 @@
 ---
 title: Building Schedules
 date: 2017-04-11 23:22:00 Z
-layout: buildingschedules
 schedules:
 - name: Help Desk
   ext: 2876
@@ -135,7 +134,16 @@ schedules:
   hours-body: 8:30am - 5:00pm
 - name: Fitness Center
   ext: 3940
-  days-body: Hours Vary
-  hours-body: 
+  days-body: |-
+    Monday - Thursday
+    Friday
+    Saturday
+    Sunday
+  hours-body: |-
+    6:00am - 8:00am, 12:00pm - 10:00pm
+    6:00am - 8:00am, 12:00pm - 6:00pm
+    9:00am - 3:00pm
+    2:00pm - 4:00pm
+layout: buildingschedules
 ---
 
