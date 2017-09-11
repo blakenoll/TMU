@@ -134,10 +134,14 @@ a {
   font-size: 30px !important;
   font-weight: 300;
   width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   text-align: center;
   text-transform: uppercase;
   color: #fff;
 }
+
 .program-title {
   font-size: 36pt;
 
