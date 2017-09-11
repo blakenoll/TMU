@@ -326,7 +326,6 @@ required-courses-body: |-
 
     * C484 Organizational Communication (3)
 
-
   * Business Core Courses (Must take all 10)
 
     * BUS310 Statistics for Business (3)
