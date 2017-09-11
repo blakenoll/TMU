@@ -4,7 +4,7 @@ date: 2017-05-02 17:47:00 Z
 job-title: |-
   Chairperson, Communication Department
   Associate Professor of Communication
-department: Communications
+department: Communication
 degrees:
 - B.A., U.C. Santa Barbara
 - M.S., Northeastern Oklahoma State University
