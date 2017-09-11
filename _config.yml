@@ -111,19 +111,19 @@ defaults:
     sm-image: ''
     description: ''
     emphasis:
-    - 
-    - 
+    -
+    -
     total-credits: ''
     bible-credits: ''
     GE-credits: ''
     core-courses: ''
     emphasis-electives: ''
     course-offerings:
-    - 
-    - 
+    -
+    -
     careers:
-    - 
-    - 
+    -
+    -
     why-at-masters-body: ''
     quote: ''
     required-courses-body: ''
@@ -149,7 +149,7 @@ defaults:
     sm-image: ''
     program-outline-text: ''
     courses-body:
-    - 
+    -
     permalink: "/academics/graduate/:title"
 - scope:
     path: ''
@@ -171,8 +171,8 @@ defaults:
     department: ''
     grad-program: ''
     degrees:
-    - 
-    - 
+    -
+    -
     email: ''
 - scope:
     path: ''
@@ -232,12 +232,13 @@ defaults:
 email: your-email@domain.com
 description: Under the leadership of president Dr. John MacArthur, The Master's University
   provides quality education both on campus and through online distance education.
-baseurl: 
+baseurl:
 url: "//www.masters.edu"
 amazonurl: http://themastersuniv.s3-website-us-west-1.amazonaws.com
 githuburl: https://blakenoll.github.io/TMU
 twitter_username: mastersuniv
 github_username: jekyll
+default_img: /images/TMU_Logo_200x100-01.png
 google_analytics: UA-2614423-3
 markdown: kramdown
 tipue_search:
@@ -255,7 +256,7 @@ tipue_search:
     - performingarts
     - onlineprograms
     - counselors
-theme: 
+theme:
 sass:
   style: compressed
 gems:
