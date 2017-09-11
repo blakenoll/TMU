@@ -136,13 +136,19 @@ schedules:
   ext: 3940
   days-body: |-
     Monday - Thursday
+
     Friday
+
     Saturday
+
     Sunday
   hours-body: |-
     6:00am - 8:00am, 12:00pm - 10:00pm
+
     6:00am - 8:00am, 12:00pm - 6:00pm
+
     9:00am - 3:00pm
+
     2:00pm - 4:00pm
 layout: buildingschedules
 ---
