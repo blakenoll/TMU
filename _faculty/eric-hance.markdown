@@ -2,7 +2,7 @@
 title: Eric Hance
 date: 2017-05-02 17:54:00 Z
 job-title: 'Adjunct Faculty '
-department: Communications
+department: Communication
 degrees:
 - 'B.F.A., University of Florida '
 email: 'communications@masters.edu '
