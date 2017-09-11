@@ -286,6 +286,70 @@ required-courses-body: |-
 
   Total units required for emphasis (61)
 
+  ## Marketing Media Major Courses
+
+  * Communication core courses (30 units of the following)
+
+    * C122 Social Media and Communication (3)
+
+    * C132PodcastStudio (3)
+
+    * C142 Photoshop I (3)
+
+    * C191 Pocket Studio (3)
+
+    * C231 Digital Video Editing I (3)
+
+    * C232 Digital Video Editing II (3)
+
+    * C311 Video Production I (3)
+
+    * C312 Video Production II (3)
+
+    * C352 Editing I, Principles of Copyediting (3)
+
+    * C373 Graphic Design I (3)
+
+    * C381 Beginning Public Relations (3)
+
+    * C384 Nonverbal Communications (3)
+
+    * C394 Introduction to Computer Visual Effects (3)
+
+    * C404 Graphic Design II (3)
+
+    * C442 Computer Visual Effects II (3)
+
+    * C452 Editing II, Advanced Copyediting (3)
+
+    * C480 Digital Photography (3)
+
+    * C484 Organizational Communication (3)
+
+  * Business Core Courses (Must take all 10)
+
+    * BUS310 Statistics for Business (3)
+
+    * BUS320 Business Law (3)
+
+    * BUS330 Business Ethics (3)
+
+    * INB372 International Marketing (3)
+
+    * MGT330 Business Communications (3)
+
+    * MKT350 Marketing Fundamentals (3)
+
+    * MKT361 Marketing Strategies (3)
+
+    * MKT381 Consumer Behavior (3)
+
+    * MKT462 Sales and Customer Service (3)
+
+    * MKT482 Marketing Research (3)
+
+  Total Units required for emphasis (60)
+
   ## Pre-Law Emphasis Courses
 
   * MGT351 Human Resource Management (3)
