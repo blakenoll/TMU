@@ -8,6 +8,7 @@ department: Communication
 degrees:
 - B.A., U.C. Santa Barbara
 - M.S., Northeastern Oklahoma State University
+email: communication@masters.edu
 ---
 
 Bob Dickson has been a professional writer since 1997 and a teacher at The Master’s University since 2002. He has taught courses in the English Department, the Biblical Studies Department, the Degree Completion Department and the Communication Department. He also worked as a writer in TMC’s Marketing Department. In 2014 he moved into a full-time faculty role in the Communication Department, where he serves as department chair.
