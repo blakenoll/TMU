@@ -1,7 +1,7 @@
 ---
 title: Jennifer O'Shea
 date: 2017-05-02 17:58:00 Z
-job-title: 'Adjunct Faculty '
+job-title: Assistant Professor of Communication
 department: Communication
 degrees:
 - B.A., Point Loma Nazarene University
