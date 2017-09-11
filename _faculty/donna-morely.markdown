@@ -2,7 +2,7 @@
 title: Donna Morely
 date: 2017-05-02 17:56:00 Z
 job-title: 'Adjunct Faculty '
-department: Communications
+department: Communication
 degrees:
 - 'B.A. The Master''s University '
 - 'Ph.D., Trinity Theological Seminary   '
