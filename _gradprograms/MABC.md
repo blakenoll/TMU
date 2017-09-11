@@ -260,3 +260,16 @@ tuition-body: |-
   While scholarships are exclusively provided through the Office of Graduate Studies, financial aid and government loans can be sought through the Office of Financial Aid at The Master’s University (TMU). If you would like to pursue government aid or loans, you may correspond with our financial aid representative – Ryan Wethern (661-362-2292; rwethern@masters.edu) – in the Financial Aid Department at TMU. He will help you pursue the best course of action for your financial situation.
 ---
 
+**The Master’s University**
+
+**Office of Graduate Studies, Box #50 21726**
+
+**Placerita Canyon Road Santa Clarita, CA 91321**
+
+**Jay Street**
+
+**Graduate Studies Admissions Coordinator [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu)**
+
+**P: 661.362.2652; 800.568.6248 x2652**
+
+**F: 661.362.2712**

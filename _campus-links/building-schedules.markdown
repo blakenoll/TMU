@@ -119,10 +119,12 @@ schedules:
 - name: Self Care/First Aid Center
   ext: 
   days-body: |-
-    Monday - Friday\
+    Monday - Friday
+
     Weekends
   hours-body: |-
-    6:00am - 10:00pm\
+    6:00am - 10:00pm
+
     Call Campus Security and request access to CPS 2
 - name: Financial Aid
   ext: 2290

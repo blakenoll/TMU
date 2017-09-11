@@ -24,11 +24,15 @@ The application will ask a variety of questions regarding personal, contact, fam
 
 After the application has been submitted, the system will automatically assemble all previous schools you provided in the application and create a list of official transcripts that you will need to mail to our Graduate Studies Office. If your school uses a secure electronic system to email official transcripts, you may do this as well. But please be advised that these transcripts must be official (meaning that they cannot be copies of your transcripts, and they come directly from your school and have not been open by you or anyone else). Of most importance, students applying for graduate studies must have a bachelor's degree from a school that meets the accreditation standards of the Higher Learning Commission in the United States, with few exceptions. If you are unsure about the accreditation of your school or have any problems sending us a transcript, please contact the Graduate Admissions Coordinator at [graduatestudies@masters.edu](mailto:graduatestudies@masters.edu) or 661-362-2652. For mailed transcripts, please have your school send them to this address:
 
-**THE MASTER'S UNIVERSITY
-Office of Graduate Admissions Box #50
-21726 Placerita Canyon Road
-Santa Clarita, CA 91321
-UNITED STATES**
+**THE MASTER'S UNIVERSITY**
+
+**Office of Graduate Admissions Box #50**
+
+**21726 Placerita Canyon Road**
+
+**Santa Clarita, CA 91321**
+
+**UNITED STATES**
 
 Please make sure to remind your school that the "Box #50" must be included in the address. Some schools have our basic address in their system without the "Box #50." They may need prompting to include this number. If it is not included, the transcript will arrive in another department on our campus, and it may take some time to track it down. Thank you in advance!
 
@@ -79,15 +83,22 @@ Credits from other institutions are generally not accepted for transfer due to t
 
 The Master's University is authorized under Federal law to enroll nonimmigrant alien students. Students from abroad are welcome, provided they meet the admission requirements of the University. For applicants, for whom English is a second language, a minimum score of 100 is required on the TOEFL exam in order to be considered for admission. While all classroom instruction is conducted in English, the administration, faculty and staff attempt to be sensitive to the needs of our international students. As foreign students' legal needs are different from those of U.S. citizens, there are additional requirements. Foreign students are urged to contact the [Office of International Student Advancement](mailto:iso@masters.edu "Office of International Student Advancement") to obtain the appropriate information.
 
-Contact Information:
+## Contact Information:
 
-The Master's University
-Office of Graduate Studies, Box #50
-21726 Placerita Canyon Road
-Santa Clarita, CA 91321
+**The Master's University**
 
-Jay Street
-Graduate Studies Admissions Coordinator
-[graduatestudies@masters.edu](mailto:graduatestudies@masters.edu)
-P: 661.362.2652; 800.568.6248 x2652
-F: 661.362.2712
+**Office of Graduate Studies, Box #50**
+
+**21726 Placerita Canyon Road**
+
+**Santa Clarita, CA 91321**
+
+**Jay Street**
+
+**Graduate Studies Admissions Coordinator**
+
+**[graduatestudies@masters.edu](mailto:graduatestudies@masters.edu)**
+
+**P: 661.362.2652; 800.568.6248 x2652**
+
+**F: 661.362.2712**
