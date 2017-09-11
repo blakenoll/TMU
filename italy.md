@@ -37,9 +37,11 @@ offerings-text: |-
 cost-text: Approximate cost of the program is 10K for airfare, room and board, side
   trips to Italian cities, and tuition for 12 units.
 app-process-text: |-
-  For each student interested in The Master’s University in Italy Program, we will require a completed application and letters of recommendation, as listed on the application. We will begin collecting applications in late October to the beginning of November and will then contact students individually for individual and group interviews. Once selected, students are asked to give a refundable deposit and to enroll in our mandatory 1 unit Introduction to Italian Culture course in the spring semester.
+  For each student interested in The Master’s University in Italy Program, we will require a completed application and letters of recommendation, as listed on the application. The deadline for applications for Summer, 2018 is October 31st 2017. Likewise, applications for the following summers will have the same deadline of October 31st.
 
-  **Turn in your application by December 9th to Professor Esther Chua either by delivering it to her office, sending it in the mail (TMU Box #15), or emailing it to italy@masters.edu. For further questions please email italy@masters.edu**
+  Because we receive many applications throughout the year, we recommend that students complete and submit their applications (and recommendation letters) as early as possible. When an application is received and processed, students will receive a confirmation email with further instructions and additional information.
+
+  For any additional questions, please email Professor Esther Chua at [italy@masters.edu](mailto:italy@masters.edu). We hope to hear from you soon!
 lower-div-text: |-
   * English Literature I; American Literature II (for Literature Survey credit)
 
