@@ -324,7 +324,7 @@ required-courses-body: |-
 
     * C480 Digital Photography (3)
 
-    * C484 Organizational Communication (3)\\
+    * C484 Organizational Communication (3)
 
 
   * Business Core Courses (Must take all 10)
