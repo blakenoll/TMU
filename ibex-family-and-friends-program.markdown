@@ -2,7 +2,7 @@
 title: IBEX Family & Friends Program
 date: 2017-09-06 16:44:00 Z
 host:
-  image: https://athletics.masters.edu/media/810600/Grisanti%20profile%20pic.png
+  image: "/images/Grisanti,Michael_.jpg"
   body: Dr. Michael Grisanti is professor of Old Testament at The Master’s Seminary.
     He has been actively involved in ministries around the world, which have brought
     him to Albania, Chile, Colombia, France, Germany, Honduras, Israel, Italy, Japan,
