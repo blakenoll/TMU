@@ -258,6 +258,7 @@ tuition-body: |-
   **Financial Aid**
 
   While scholarships are exclusively provided through the Office of Graduate Studies, financial aid and government loans can be sought through the Office of Financial Aid at The Master’s University (TMU). If you would like to pursue government aid or loans, you may correspond with our financial aid representative – Ryan Wethern (661-362-2292; rwethern@masters.edu) – in the Financial Aid Department at TMU. He will help you pursue the best course of action for your financial situation.
+layout: mabc
 ---
 
 **The Master’s University**
