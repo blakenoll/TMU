@@ -57,7 +57,14 @@ parallax-img: "/images/Parallax3.jpg"
     </div>
     {% for item in site.alumni %}
     <div id="{{ item.title | remove: " " }}" class="col s12">
-      {{ item.content | markdownify }}
+      {% if item.upcomingevents %}
+        {% for event in item.upcomingevents %}
+        <h3>{{ event.title }}</h3>
+        {{ event.body | markdownify }}
+        {% endfor %}
+      {% else %}
+      {{ item.content }}
+      {% endif %}
     </div>
     {% endfor %}
   </div>
