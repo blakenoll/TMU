@@ -233,7 +233,7 @@ framework-body: |-
 
   * BC598: Thesis Research (2)
 tuition-body: |-
-  **Costs**
+  ## **Costs**
 
   In general, the costs that should be considered for the MABC program at TMU are as follows:
 
@@ -249,7 +249,7 @@ tuition-body: |-
 
   * Unknown travel or relocation expenses you may incur for the program
 
-  **Scholarships**
+  ## **Scholarships**
 
   For the Master of Arts in Biblical Counseling (MABC) program, scholarships are provided through the Graduate Studies department directly, not through our Financial Aid office. Scholarships are awarded semester by semester, so anyone who wants a scholarship must apply each semester. Because scholarship funds are provided directly from our department, they are limited. Therefore, we necessarily will prioritize full-time students, and often those who are in the latter portions of the degree. In this way, scholarship applications are considered on the basis of a combination of academic performance, financial need, and ministry potential. Additionally, we do not grant scholarships to students who take only 1-2 classes per semester. Instead, we prioritize students who commit themselves to 3-4 classes each semester.
 
