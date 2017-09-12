@@ -56,4 +56,4 @@ March 2018
 
 Alumni are welcome to showcase their place of employment to help students network with future employers.
 
-For more information on any of these events, please contact the Alumni Office at[alumni@masters.edu](mailto:alumni@masters.edu)or 661.362.2203.
+For more information on any of these events, please contact the Alumni Office at [alumni@masters.edu](mailto:alumni@masters.edu)or 661.362.2203.
