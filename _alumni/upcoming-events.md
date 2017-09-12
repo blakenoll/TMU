@@ -24,8 +24,6 @@ November 2, 2017
 
 If you are on the mission field, please contact the Alumni Office with your most current mailing address.
 
-### 
-
 ### Truth & Life Conference
 
 January 10-12, 2018
