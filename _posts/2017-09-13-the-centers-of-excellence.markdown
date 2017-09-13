@@ -6,7 +6,7 @@ sm-image: "/uploads/CENTERS.jpg"
 
 I**n August 2016, The Master’s University announced the Centers of Excellence Campaign—a $25 million fundraising initiative focused on enriching and investing in three specific schools on campus: Business & Communication; Education; and Science, Math, Technology & Health.**
 
-Twenty-five years ago, one of the lead donors of this campaign asked a question: \*\*What will set The Master's University apart from other institutions in the years to come? \*\*Today, the COE campaign is beginning to answer that.  
+Twenty-five years ago, one of the lead donors of this campaign asked a question: **What will set The Master's University apart from other institutions in the years to come? **Today, the COE campaign is beginning to answer that.
 
 ![CENTERS.jpg](/uploads/CENTERS.jpg)
 
@@ -50,6 +50,6 @@ This list contains more than 10 corporate sponsors who see value in TMU graduate
 
 The $25 million COE is unlike any previous fundraising initiative at Master’s U. **No other campaign has so strategically strengthened the university; it represents our future, maturity, and ranking among other top universities across the nation.**
 
-> > “There’s never been a more exciting time at The Master’s University than right now,” Cherry said. “This is just one remarkable identifier of where we are going as an institution.”
+> "There's never been a more exciting time at The Master's University than right now," Cherry said. "This is just one remarkable identifier of where we are going as an institution." 
 
 *To participate in the Center of Excellence initiative and support the future of TMU, contact the office of development at vpark@masters.edu*
