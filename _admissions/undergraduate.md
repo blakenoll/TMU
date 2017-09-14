@@ -51,7 +51,7 @@ apply-body: |-
 
   ## International Students
 
-  Please visit our [International Student Application Page](http://www.masters.edu/undergrad/international/ "International Applicants") for detailed information about how to apply.
+  Please visit our <a href="http://www.masters.edu/admissions/#counselors" target="_blank">International Student Application Page</a> for detailed information about how to apply.
 
   ## Application Deadlines:
 
