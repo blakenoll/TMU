@@ -1,6 +1,10 @@
 ---
 title: IBEX
 date: 2017-09-05 18:57:00 Z
+tags:
+- ibex
+- application
+- study abroad
 location-body: |-
   Our extension campus is in the Jerusalem vicinity.\
   \
