@@ -6,7 +6,7 @@ apply-body: |-
 
   We invite all students considering admission for Fall 2018 to begin the application process now. Don't miss out on a life-changing TMU education--complete your application as soon as possible! Below we’ve listed what components are needed to complete the application process.
 
-  Have questions? Contact your [admissions counselor](http://www.masters.edu/undergrad/bios/ "Counselors").
+  Have questions? Contact your <a href="http://www.masters.edu/admissions/#counselors" target="_blank">admissions counselor.</a>
 
   ## Option 1: Apply Online
 
