@@ -274,13 +274,15 @@ history-body: |-
 accredidations-body: |-
   **![undefined](http://www.masters.edu/media/865338/wasc.png?width=256px&height=77px)**
 
-  **The Master's University is accredited to award bachelor's and master's degrees by the Accrediting Commission for Senior Colleges and Universities of the:**
+  **The Master's University is accredited to award bachelor's and master's degrees by The WASC Senior College and University Commission**
 
-  **
-  Western Association of Schools and Colleges\
-  985 Atlantic Avenue, Suite 100\
-  Alameda, CA 94504\
-  \(510) 748-9001**
+  WASC Senior College and University Commission
+
+  985 Atlantic Avenue, Suite 100
+
+  Alameda, CA 94501
+
+  \(510) 748-9001
 
   **![undefined](http://www.masters.edu/media/865340/acsi_logo_color_r.png?width=248px&height=88px)**
 
@@ -296,13 +298,52 @@ accredidations-body: |-
   **![undefined](http://www.masters.edu/media/865336/ahead-logo.png?width=352px&height=81px)**
 
   **As a member of the Association on Higher Education and Disability, The Master's University is committed to promoting equal opportunity and access to our academic programs and events for the disabled community.**
-board-members-body: "Scott Ardavanis\n\nBrad Armstrong\n\nJohn (Jack) Babbitt\\*\n\nPhilip
-  De Courcy\\*\n\nRichard Dewey\n\nChris Hamilton\\* - Vice Chairman\n\nLouis Herwaldt\\*\n\nBryan
-  Hughes - Secretary\n\nGeorge Jackson\n\nJesse Johnson\n\nRandy Kirkland\n\nSteve
-  Lawson\n\nJohn MacArthur\\*\n\nFelix Martin del Campo\n\nTom Pennington\\* - Chairman\n\nRobert
-  Provost\n\nJames Rickard\\* \n\nJonathan Rourke\n\nRich Riddle\\*\n\nGeorge Sanders\n\nMark
-  Shackelford\n\nJohn van Wingerden\\*\n\nBrad Wetherell - Treasurer\n\nDavid Wismer\\*\n\n\\*Executive
-  Committee 02/2017"
+board-members-body: |-
+  Scott Ardavanis
+
+  Brad Armstrong
+
+  Philip De Courcy\*
+
+  Richard Dewey
+
+  Chris Hamilton\* - Vice Chairman
+
+  Bryan Hughes - Secretary
+
+  George Jackson
+
+  Jesse Johnson
+
+  Randy Kirkland
+
+  Steve Lawson
+
+  John MacArthur\*
+
+  Felix Martin del Campo
+
+  Tom Pennington\* - Chairman
+
+  Robert Provost
+
+  James Rickard\*
+
+  Jonathan Rourke
+
+  Rich Riddle\*
+
+  George Sanders
+
+  Mark Shackelford
+
+  John van Wingerden\*
+
+  Brad Wetherell - Treasurer
+
+  David Wismer\*
+
+  \*Executive Committee 02/2017
 associated-organizations:
 - name: Grace Books International
   link: http://www.gbibooks.com/

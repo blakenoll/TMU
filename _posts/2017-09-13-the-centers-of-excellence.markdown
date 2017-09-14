@@ -6,7 +6,7 @@ sm-image: "/uploads/CENTERS.jpg"
 
 I**n August 2016, The Master’s University announced the Centers of Excellence Campaign—a $25 million fundraising initiative focused on enriching and investing in three specific schools on campus: Business & Communication; Education; and Science, Math, Technology & Health.**
 
-Twenty-five years ago, one of the lead donors of this campaign asked a question: \*\*What will set The Master's University apart from other institutions in the years to come? \*\*Today, the COE campaign is beginning to answer that.  
+Twenty-five years ago, one of the lead donors of this campaign asked a question: \*\*What will set The Master's University apart from other institutions in the years to come? \*\*Today, the COE campaign is beginning to answer that.
 
 ![CENTERS.jpg](/uploads/CENTERS.jpg)
 
@@ -22,7 +22,7 @@ The COE funds are distributed to four separate categories for each school: **fac
 
 “The student doesn’t rise higher than the professor who teachers them, so we’ve got to substantiate the quality of our faculty by putting a terminal degree in the hands of everyone,” Cherry said. “In the academic world, no matter the reputation of the teacher, leaders are defined by degrees.”
 
-The COE is currently putting four professors through Ph.D. programs. Communication Department Chair Bob Dickson and Prof. Todd Kostjuk and Prof. John Beck of the Business Administration Department are at the University of Southern California. Prof. Dwight Ham, another business professor, is taking classes through George Fox University.
+The COE is currently putting four professors through Ph.D. and Ed.D. programs. Communication Department Chair Bob Dickson (Ed.D) and Prof. Todd Kostjuk (Ph.D.) and Prof. John Beck (Ph.D.) of the Business Administration Department are at the University of Southern California. Prof. Dwight Ham (Ph.D.), another business professor, is taking classes through George Fox University.
 
 ## The second component? The facility.
 
@@ -50,6 +50,6 @@ This list contains more than 10 corporate sponsors who see value in TMU graduate
 
 The $25 million COE is unlike any previous fundraising initiative at Master’s U. **No other campaign has so strategically strengthened the university; it represents our future, maturity, and ranking among other top universities across the nation.**
 
-> > “There’s never been a more exciting time at The Master’s University than right now,” Cherry said. “This is just one remarkable identifier of where we are going as an institution.”
+> "There's never been a more exciting time at The Master's University than right now," Cherry said. "This is just one remarkable identifier of where we are going as an institution."
 
 *To participate in the Center of Excellence initiative and support the future of TMU, contact the office of development at vpark@masters.edu*

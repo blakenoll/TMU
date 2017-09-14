@@ -3,7 +3,7 @@ title: Registrar
 articulation-body: |-
   **Below are lists of courses that transfer from other colleges to TMU. If your college is not listed, please submit the name of the college, the name/code/description of the course(s) to [Registrar@masters.edu](mailto:Registrar@masters.edu) for approval.**
 
-  **\*\*NOTE\*\* The [General Education requirements](http://www.masters.edu/campuslinks/registrar/general-education-requirements/ "General Education requirements") changed for new students entering the 2015 Fall semester. Lists that reflect the new General Education requirements are indicated by FA15. For a helpful document outlining the changes for transfer students, please [click here.](https://athletics.masters.edu/media/868267/06-final-tr-guidance.pdf "click here")**
+  **\*\*NOTE\*\* The [General Education requirements](http://www.masters.edu/campuslinks/registrar/general-education-requirements/ "General Education requirements") changed for new students entering the 2015 Fall semester. Lists that reflect the new General Education requirements are indicated by FA15. For a helpful document outlining the changes for transfer students, please [click here](/uploads/03%20-%20GE%20TR%20Guidance%20for%20web%20page%20-%20Sept%202017.pdf).**
 
   ## **Alaska**
 
