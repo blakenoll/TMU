@@ -12,7 +12,7 @@ apply-body: |-
 
   ### Application Checklist:
 
-  * [Online Application](https://apply.masters.edu/)
+  * [Online Application](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB)
 
     * In order to apply online, you'll create an "account" first (so you can save and return to your application), before being able to complete the various sections of the online application. Once an application is submitted, the applicant cannot go back and change the application.
 
