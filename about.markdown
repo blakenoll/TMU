@@ -274,13 +274,15 @@ history-body: |-
 accredidations-body: |-
   **![undefined](http://www.masters.edu/media/865338/wasc.png?width=256px&height=77px)**
 
-  **The Master's University is accredited to award bachelor's and master's degrees by the Accrediting Commission for Senior Colleges and Universities of the:**
+  **The Master's University is accredited to award bachelor's and master's degrees by The WASC Senior College and University Commission**
 
-  **
-  Western Association of Schools and Colleges\
-  985 Atlantic Avenue, Suite 100\
-  Alameda, CA 94504\
-  \(510) 748-9001**
+  WASC Senior College and University Commission
+
+  985 Atlantic Avenue, Suite 100
+
+  Alameda, CA 94501
+
+  \(510) 748-9001
 
   **![undefined](http://www.masters.edu/media/865340/acsi_logo_color_r.png?width=248px&height=88px)**
 
