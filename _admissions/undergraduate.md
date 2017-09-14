@@ -6,7 +6,7 @@ apply-body: |-
 
   We invite all students considering admission for Fall 2018 to begin the application process now. Don't miss out on a life-changing TMU education--complete your application as soon as possible! Below we’ve listed what components are needed to complete the application process.
 
-  Have questions? Contact your [admissions counselor](http://www.masters.edu/undergrad/bios/ "Counselors").
+  Have questions? Contact your <a href="http://www.masters.edu/admissions/#counselors" target="_blank">admissions counselor.</a>
 
   ## Option 1: Apply Online
 
@@ -43,7 +43,7 @@ apply-body: |-
 
       * College Board Code for The Master’s University - 4411
 
-  You will also need to read the [Doctrinal Statement](http://www.masters.edu/abouttmc/doctrine/) and [Student Handbook](http://www.masters.edu/handbook).
+  You will also need to read the [Doctrinal Statement](/about) and [Student Handbook](http://www.masters.edu/handbook).
 
   ## Option 2: Downloadable Application Documents (pdf format)
 
@@ -67,7 +67,7 @@ apply-body: |-
 
   ## Already Applied? Check your application status online!
 
-  [Click here](http://www.masters.edu/undergrad/apply/application-status.aspx "Application Status") to check the status of your online application in real time.
+  [Click here](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB) to check the status of your online application in real time.
 
   If you've been admitted and have decided that TMU is the place for you, secure your spot today by submitting your $200 tuition/housing deposit [here](https://www.formstack.com/forms/masters-new_student_deposit_payment "Undergrad Deposit Form"). The deposit is fully refundable until May 1.
 intl:
@@ -242,7 +242,7 @@ accepted-students-body: |-
 
   ### Step 1:
 
-  Accept Your Offer: Let us know if you plan on attending next semester by clicking [here](https://athletics.masters.edu/undergrad/apply/acceptance-application-fee-form/)! This is a $200 deposit refundable through May 1st 2017 that reserves a seat for you in the next incoming class.
+  Accept Your Offer: Let us know if you plan on attending next semester by clicking [here](https://www.formstack.com/forms/masters-new_student_deposit_payment)! This is a $200 deposit refundable through May 1st 2017 that reserves a seat for you in the next incoming class.
 
   ### Step 2:
 
