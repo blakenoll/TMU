@@ -53,9 +53,9 @@ Amenities:
 
 * Walking Distance to many nearby shops and restaurants
 
-**[Courtyard by Marriott]
-(http://www.marriott.com/hotels/travel/bursc-courtyard-santa-clarita-valencia/)**
-\(661) 257-3220
+**[Courtyard by Marriott](http://www.marriott.com/hotels/travel/bursc-courtyard-santa-clarita-valencia/)**
+
+(661) 257-3220
 
 1/1/2017 – 4/30/2017 - $129
 5/1/2017 – 9/4/2017 - $139
