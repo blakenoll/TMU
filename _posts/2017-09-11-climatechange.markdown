@@ -27,7 +27,7 @@ There is biblical and scientific evidence that suggests there was an ice age in 
 
 When all the causes of global warming are considered, it is controversial whether carbon dioxide has contributed significantly to the overall warming of the earth. Interestingly, in a recent article in National Geographic it was stated that “more than 9 out of 10 climate scientists agree” that carbon emissions contribute to global warming. Considering that there easily could be hundreds to thousands of climate scientists in the U.S., this suggests that there are dozens or hundreds of climate scientists who disagree that carbon emissions contribute to global warming.
 
-One climate scientist with a Ph.D. in atmospheric science is Dr. Steven Gollmer. Dr. Gollmer is a creationist who has documented that \*\*global temperatures have gone through major cycles of cooling and heating over the last two centuries. \*\*In fact, at the end of the 1800s during a cooling cycle there was concern about an ice age that could wipe out much of life on earth. Dr. Gollmer has noticed a trend in the data suggesting that in each case the temperatures level off and a new equilibrium or balance is reached (see graph).
+One climate scientist with a Ph.D. in atmospheric science is Dr. Steven Gollmer. Dr. Gollmer is a creationist who has documented that global temperatures have gone through major cycles of cooling and heating over the last two centuries. In fact, at the end of the 1800s during a cooling cycle there was concern about an ice age that could wipe out much of life on earth. Dr. Gollmer has noticed a trend in the data suggesting that in each case the temperatures level off and a new equilibrium or balance is reached (see graph).
 
 ![Picture1.png](/uploads/Picture1.png)
 
