@@ -11,7 +11,7 @@ There is a wonderful selection of local area hotels that are within close distan
 
 [(661) 253-2400](tel:(661)%20253-2400)
 
-[January 1 - April 30](x-apple-data-detectors://13): $118/King or Queen Standard Room 
+[January 1 - April 30](x-apple-data-detectors://13): $118/King or Queen Standard Room
 
 May 1 - September 4: $122/King or Queen Standard Room
 
