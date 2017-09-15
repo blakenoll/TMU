@@ -16,9 +16,11 @@ View-The-U-body: |-
 
   ### Thursday, October 26th
 
-  * 6:30-7:30pm Check-in
+  * 6:00pm Check-in
 
-  * 8:00pm Night of Welcome
+  * 7:00pm Night of Welcome
+
+  * 8:00pm Mustang Basketball: Men vs. Bethesda Christian
 
   ### Friday, October 27th
 
@@ -44,7 +46,9 @@ View-The-U-body: |-
 
   * 5:00-6:00pm Dinner in the Mustang Grill (Students)
 
-  * 6:30-9:30pm Unfiltered Summit
+  * 8:00pm MegaBlend
+
+  * 8:00pm Theatre Arts: Over the River and Through the Woods
 
   ## Important Information for Registrants:
 
