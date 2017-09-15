@@ -1,5 +1,5 @@
 ---
-title: hotels
+title: Hotels
 date: 2017-09-15 18:10:00 Z
 ---
 
@@ -7,7 +7,7 @@ date: 2017-09-15 18:10:00 Z
 
 There is a wonderful selection of local area hotels that are within close distance to The Master's University. Below are several hotels that provide guests with a Preferred/Corporate Rate for visitors of The Master's University. You must call the local number for the special rate. The rates on this page are subject to change at any time and are not guaranteed by The Master's University or by these hotels.
 
-**[Hampton Inn](http://www.hamptoninn.com/en/hp/hotels/index.jhtml?ctyhocn=LAXVLHX)**
+**[Hampton Inn](http://hamptoninn3.hilton.com/en/hotels/california/hampton-inn-los-angeles-santa-clarita-LAXVLHX/index.html)**
 
 [(661) 253-2400](tel:(661)%20253-2400)
 
@@ -53,8 +53,8 @@ Amenities:
 
 * Walking Distance to many nearby shops and restaurants
 
-**Courtyard by Marriott**
-
+**[Courtyard by Marriott]
+(http://www.marriott.com/hotels/travel/bursc-courtyard-santa-clarita-valencia/)**
 \(661) 257-3220
 
 1/1/2017 – 4/30/2017 - $129
