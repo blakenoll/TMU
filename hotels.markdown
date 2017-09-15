@@ -43,7 +43,7 @@ Amenities:
 
 * Swimming Pool
 
-**[Hyatt Regency Valencia](http://valencia.hyatt.com/en/hotel/home.html)**
+**[Hyatt Regency Valencia] (http://valencia.hyatt.com/en/hotel/home.html)**
 
 [(661) 799-1234](tel:(661)%20799-1234) - standard room rate for TMU: $147 (only applies if there are standard rooms available) parking discounted to $5
 
