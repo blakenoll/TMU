@@ -10,24 +10,7 @@
 {% for category in site.tipue_search.exclude.categories %}
   {% assign excluded_taxonomies = excluded_taxonomies | push: category | uniq %}
 {% endfor %}
-{% for post in site.posts %}
-  {% unless post.exclude_from_search == true or excluded_files contains post.path %}
-    {% assign has_excluded_taxonomy = false %}
-    {% for tag in post.tags %}
-      {% if excluded_taxonomies contains tag %}
-        {% assign has_excluded_taxonomy = true %}
-      {% endif %}
-    {% endfor %}
-    {% for category in post.categories %}
-      {% if excluded_taxonomies contains category %}
-        {% assign has_excluded_taxonomy = true %}
-      {% endif %}
-    {% endfor %}
-    {% unless has_excluded_taxonomy == true %}
-      {% assign index = index | push: post | uniq %}
-    {% endunless %}
-  {% endunless %}
-{% endfor %}
+
 {% if site.tipue_search.include.pages == true %}
   {% for page in site.html_pages %}
     {% unless page.exclude_from_search == true or excluded_files contains page.path %}
@@ -48,6 +31,24 @@
     {% endunless %}
   {% endfor %}
 {% endif %}
+{% for post in site.posts %}
+  {% unless post.exclude_from_search == true or excluded_files contains post.path %}
+    {% assign has_excluded_taxonomy = false %}
+    {% for tag in post.tags %}
+      {% if excluded_taxonomies contains tag %}
+        {% assign has_excluded_taxonomy = true %}
+      {% endif %}
+    {% endfor %}
+    {% for category in post.categories %}
+      {% if excluded_taxonomies contains category %}
+        {% assign has_excluded_taxonomy = true %}
+      {% endif %}
+    {% endfor %}
+    {% unless has_excluded_taxonomy == true %}
+      {% assign index = index | push: post | uniq %}
+    {% endunless %}
+  {% endunless %}
+{% endfor %}
 {% for collection in site.tipue_search.include.collections %}
   {% assign documents = site.documents | where:"collection",collection %}
   {% for document in documents %}
