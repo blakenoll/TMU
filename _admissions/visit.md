@@ -8,7 +8,7 @@ View-The-U-body: |-
 
   You will also be able to see our faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
 
-  *Registration open beginning of school year*
+  *Registration coming soon! Email our campus Event Coordinator at [shaynes@masters.edu ](mailto:shaynes@masters.edu)to be notified when registration is open*
 
   ## Schedule
 
