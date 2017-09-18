@@ -3,7 +3,7 @@ title: Global Outreach
 sm-image: "/uploads/StudentLife_GlobalOutreach.png"
 group: studentlife
 teams-body: |-
-  The Master's University desires to provide each student with an opportunity to participate in and learn from the work of God in an overseas cross-cultural setting. Ministry opportunities are selected based on the following critical factors: partnership with a local church, evangelistic opportunities, vocational participation, length of service, and partnership with TMC alumni. Teams are formed at the end of the Fall semester, receive training during the spring semester, and serve overseas during the summer. All teams that minister through the Office of Global Outreach are led by students who are members of the Servant Leadership Staff.
+  The Master's University desires to provide each student with an opportunity to participate in and learn from the work of God in an overseas cross-cultural setting. Ministry opportunities are selected based on the following critical factors: partnership with a local church, evangelistic opportunities, vocational participation, length of service, and partnership with TMU alumni. Teams are formed at the end of the Fall semester, receive training during the spring semester, and serve overseas during the summer. All teams that minister through the Office of Global Outreach are led by students who are members of the Servant Leadership Staff.
 
   Each participant takes semester-long the Preparation for Global Outreach class (BMS312) trains students in theological, philosophical, and practical aspects of short term mission: theology of missions, cultural research methods, logistical details, team-building, and health and safety, among others.
 
@@ -255,7 +255,7 @@ support-letter-body: |-
 
     * Professors
 
-    * TMC friends
+    * TMU friends
 
   * Church Contacts
 
@@ -419,7 +419,7 @@ faq-body: |-
 
   ### Do I need to sign up for the Preparation for Global Outreach class (BMS 312) on Thursday nights?
 
-  Each student traveling on a TMC Global Outreach team must register for BMS 312 in the spring semester. Included within the class session is a weekly team time to help plan for your trip abroad.
+  Each student traveling on a TMU Global Outreach team must register for BMS 312 in the spring semester. Included within the class session is a weekly team time to help plan for your trip abroad.
 
   ### What kind of credit does the Prep for GO class offer?
 
