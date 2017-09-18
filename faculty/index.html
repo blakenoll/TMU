@@ -56,7 +56,7 @@ exclude_from_search: true
   <hr>
   <div class="row">
   {% for faculty in site.faculty %}
-   {% if faculty.department contains "Communications"%}
+   {% if faculty.department contains "Communication"%}
    <div class="col s6 m4 l3 faculty-card"><a href="{{ faculty.url | prepend: site.url }}">
      <h4>{{ faculty.title }}</h4>
      <p>{{ faculty.job-title }}</p>
