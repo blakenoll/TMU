@@ -47,11 +47,11 @@ apply-body: |-
 
   ## Option 2: Downloadable Application Documents (pdf format)
 
-  If you prefer to download and print your TMU Application for Admission, rather than completing it online, you may download all the application components [here](http://www.masters.edu/undergrad/apply/downloads/ "Downloads Page").
+  If you prefer to download and print your TMU Application for Admission, rather than completing it online, you may download all the application components [here](/downloads).
 
   ## International Students
 
-  Please visit our <a href="http://www.masters.edu/admissions/#counselors" target="_blank">International Student Application Page</a> for detailed information about how to apply.
+  Please visit our <a href="http://www.masters.edu/admissions/#intl" target="_blank">International Student Application Page</a> for detailed information about how to apply.
 
   ## Application Deadlines:
 
