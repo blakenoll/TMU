@@ -593,6 +593,14 @@ footer {
   list-style: decimal !important;
 }
 
+.visit-parallax {
+  height: 200px;
+
+  p {
+    font-size: 18px;
+  }
+}
+
 @media screen and (max-width: 1024px) {
 
   .carousel-caption {
@@ -615,6 +623,10 @@ footer {
 
   .navbar-brand {
     margin-bottom: 10px;
+  }
+
+  .visit-parallax {
+    height: auto;
   }
 
 }
