@@ -44,4 +44,4 @@ Thanks to the [Centers of Excellence Campaign](https://www.masters.edu/news/the-
 
 “We want them to be leaders in the world of marketing, and we feel this is the quickest path to get there,” Hill continued.** “Our graduates will be more qualified than any other graduates because they will have a well-rounded knowledge of marketing and technical skill.”**
 
-To learn more about this program,[ click here](https://www.masters.edu/academics/undergraduate/communication), or [apply](https://www.masters.edu/admissions/) to The Master's University today. 
+*To learn more about this program,[ click here](https://www.masters.edu/academics/undergraduate/communication), or [apply](https://www.masters.edu/admissions/) to The Master's University today. *
