@@ -6,19 +6,19 @@ sm-image: "/uploads/CENTERS.jpg"
 
 I**n August 2016, The Master’s University announced the Centers of Excellence Campaign—a $25 million fundraising initiative focused on enriching and investing in three specific schools on campus: Business & Communication; Education; and Science, Math, Technology & Health.**
 
-Twenty-five years ago, one of the lead donors of this campaign asked a question: \*\*What will set The Master's University apart from other institutions in the years to come? \*\*Today, the COE campaign is beginning to answer that.
+Twenty-five years ago, one of the lead donors of this campaign asked a question: **What will set The Master's University apart from other institutions in the years to come?** Today, the COE campaign is beginning to answer that.
 
 ![CENTERS.jpg](/uploads/CENTERS.jpg)
 
 “We’ve got to emphasize something beyond our general market footprint, which is a fantastic and solid, well-anchored school committed to the inerrancy of God’s Word,” said Luke Cherry, Vice President of Development.
 
-> “There’s no question we’ve got the best biblical studies in America, but in order to mature that, you have to actually analyze what programs are performing.”
+> There’s no question we’ve got the best biblical studies in America, but in order to mature that, you have to actually analyze what programs are performing.
 
 These schools, or the centers of excellence, are the four pillars of this university, showing monumental strength and competition both academically and professionally: **100 percent of 2017 graduates from the teaching credential and business programs found employment in their field.**
 
 Before focusing on academic outcomes, however, the donors wanted to make their priorities very clear and continue to reinforce the legacy of biblical fidelity as the foundation the other pillars are built upon. This came through the financial allotment for the John F. MacArthur Endowed Fellowship, awarded in May to Dr. Abner Chou, a professor in the School of Biblical Studies
 
-The COE funds are distributed to four separate categories for each school: **faculty, facility, scholarship and sustainability**—all necessary to make a program strong.
+The COE funds are distributed to four separate categories for each school: **faculty, facility, scholarship and sustainability** —all necessary to make a program strong.
 
 “The student doesn’t rise higher than the professor who teachers them, so we’ve got to substantiate the quality of our faculty by putting a terminal degree in the hands of everyone,” Cherry said. “In the academic world, no matter the reputation of the teacher, leaders are defined by degrees.”
 
@@ -50,6 +50,6 @@ This list contains more than 10 corporate sponsors who see value in TMU graduate
 
 The $25 million COE is unlike any previous fundraising initiative at Master’s U. **No other campaign has so strategically strengthened the university; it represents our future, maturity, and ranking among other top universities across the nation.**
 
-> "There's never been a more exciting time at The Master's University than right now," Cherry said. "This is just one remarkable identifier of where we are going as an institution."
+> There's never been a more exciting time at The Master's University than right now," Cherry said. "This is just one remarkable identifier of where we are going as an institution.
 
 *To participate in the Center of Excellence initiative and support the future of TMU, contact the office of development at vpark@masters.edu*
