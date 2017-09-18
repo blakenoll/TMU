@@ -10,7 +10,7 @@ catergory: Life At TMU
 sm-image: "/uploads/NewMajor2.jpg"
 ---
 
-# A Bachelor of Arts in Marketing Media is now available at The Master’s University.
+# A Bachelor of Arts in Marketing Media, a pioneer program in the national and international academic world, is now available at The Master’s University.
 
 The world surrounding us, especially in North America and Europe, is designed and created by marketers. It’s a world that is almost inescapable today—billboards, phone notifications, flyers and signs, logos on t-shirts and hats, the wafting smell of food down mall corridors, a way of living promoted through social media, the list goes on.\
 
