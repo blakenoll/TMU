@@ -1,5 +1,5 @@
 ---
-title: Journal for Biblical Soul Care
+title: Journal of Biblical Soul Care
 date: 2017-09-18 21:57:00 Z
 layout: page
 ---
@@ -11,7 +11,7 @@ layout: page
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:#fff; clear:left;}
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
