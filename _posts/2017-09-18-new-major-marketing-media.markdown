@@ -12,7 +12,7 @@ sm-image: "/uploads/NewMajor2.jpg"
 
 # A Bachelor of Arts in Marketing Media, a pioneer program in the national and international academic world, is now available at The Master’s University.
 
-The world surrounding us, especially in North America and Europe, is designed and created by marketers. It’s a world that is almost inescapable today—billboards, phone notifications, flyers and signs, logos on t-shirts and hats, the wafting smell of food down mall corridors, a way of living promoted through social media, the list goes on.\
+The world surrounding us, especially in North America and Europe, is designed and created by marketers. It’s a world that is almost inescapable today—billboards, phone notifications, flyers and signs, logos on t-shirts and hats, the wafting smell of food down mall corridors, a way of living promoted through social media, the list goes on.
 
 ![NewMajor2-572378.jpg](/uploads/NewMajor2-572378.jpg)
 
@@ -42,6 +42,6 @@ Thanks to the [Centers of Excellence Campaign](https://www.masters.edu/news/the-
 
 ## “We are the pioneers for this major; no other school is doing it. We want to be the place to go for this vocation,” Hill said.
 
-“We want them to be leaders in the world of marketing, and we feel this is the quickest path to get there,” Hill continued.** “Our graduates will be more qualified than any other graduates because they will have a well-rounded knowledge of marketing and technical skill.”**
+“We want them to be leaders in the world of marketing, and we feel this is the quickest path to get there,” Hill continued. **“Our graduates will be more qualified than any other graduates because they will have a well-rounded knowledge of marketing and technical skill.”**
 
-*To learn more about this program,[ click here](https://www.masters.edu/academics/undergraduate/communication), or [apply](https://www.masters.edu/admissions/) to The Master's University today. *
+*To learn more about this program,[ click here](https://www.masters.edu/academics/undergraduate/communication), or [apply](https://www.masters.edu/admissions/) to The Master's University today.*
