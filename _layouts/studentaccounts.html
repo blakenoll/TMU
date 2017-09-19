@@ -58,7 +58,7 @@ layout: default
                 <li class="tab"><a href="#masters-degree">Master's Degree Billing Faq</a></li>
            </ul>
           </div>
-          <div class="card-content grey lighten-4">
+          <div class="grey lighten-4">
             <div id="general" style="">
               <ul class="collapsible" data-collapsible="accordion">
                   {% for faq in page.general-faqs %}
@@ -74,7 +74,7 @@ layout: default
                   {% for faq in page.tmu-online-faqs %}
                   <li>
                     <div class="collapsible-header">{{ faq.question }}</div>
-                    <div class="collapsible-body"><span><{{ faq.answer | markdownify }}</span></div>
+                    <div class="collapsible-body"><{{ faq.answer | markdownify }}</div>
                   </li>
                   {% endfor %}
               </ul>

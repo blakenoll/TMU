@@ -88,7 +88,7 @@ layout: default
                    <div id="{{ ensemble.name }}" class="modal">
                       <div class="modal-content">
                         <h4>{{ ensemble.name }}</h4>
-                        <img src="{{ ensemble.image }}" alt="" style="float: left; padding: 15px;">
+                        <img src="{{ ensemble.image }}" alt="" style="float: left; padding: 15px;" width="50%">
                         <p>{{ ensemble.body | markdownify }}</p>
                      </div>
                      <div class="modal-footer">
@@ -103,16 +103,17 @@ layout: default
                   <a href="#">Scholorships</a>
                 </div>
                 <div id="current">
-                   <p><a class="btn btn-navy" href="#">Department Handbook</a></p>
+                   <p><a class="btn btn-navy" href="https://athletics.masters.edu/media/870301/music-handbook-17-18-for-web-updated.pdf">Department Handbook</a></p>
                   {{ page.new-student-info-body | markdownify }}
                 </div>
               </div>
              </div>
 
 
-
+            {% if page.prof-publications-body %}
             <h2>Prof Publications</h2>
             {{ page.prof-publications-body | markdownify }}
+            {% endif %}
          </div>
          <div class="col s12 m3">
            <h2>Emphasis</h2>
