@@ -74,8 +74,8 @@ general-faqs:
     from August 1st of the current year through July 31st of the following year (FALL
     premium), or January 1st through July 31st (SPRING only premium). All questions
     about the specific provisions of the plan should be directed to the plan provider.</p><p>Information
-    on the plan is available on the <a href="http://www.masters.edu/campuslinks/healthservices/"
-    title="HealthServices">TMU Health Center website</a>.</p>
+    on the plan is available on the <a href="/health-services" title="HealthServices">TMU
+    Health Center website</a>.</p>
 - question: How do I view my Student Account on Self-Service?
   answer: '<ol class="browser-default"> <li class="browser-default">Log on to your
     Self-Service Account</li> <li class="browser-default">Click the “Balance” option</li>
