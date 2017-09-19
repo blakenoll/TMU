@@ -69,7 +69,7 @@ online-enrollment-body: |-
   <p>B101</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="B101">Old Testament Survey I</a></p>
+  <p>Old Testament Survey I</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -86,7 +86,7 @@ online-enrollment-body: |-
   <p>B102</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="B102">Old Testament Survey II</a></p>
+  <p>Old Testament Survey II</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -103,7 +103,7 @@ online-enrollment-body: |-
   <p>B201</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="B201">New Testament Survey I</a></p>
+  <p>New Testament Survey I</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -120,7 +120,7 @@ online-enrollment-body: |-
   <p>B202</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="B202">New Testament Survey II</a></p>
+  <p>New Testament Survey II</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -137,7 +137,7 @@ online-enrollment-body: |-
   <p>B221</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="B221 Essentials of Christian Thought">Essentials of Christian Thought</a></p>
+  <p>Essentials of Christian Thought</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -155,7 +155,7 @@ online-enrollment-body: |-
   <p>BTH321</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="BTH321">Christian Theology I</a></p>
+  <p>Christian Theology I</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -172,7 +172,7 @@ online-enrollment-body: |-
   <p>BTH322</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="BTH322">Christian Theology II</a></p>
+  <p>Christian Theology II</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -189,7 +189,7 @@ online-enrollment-body: |-
   <p>C100</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="C100">Spoken Communications</a></p>
+  <p>Spoken Communications</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -206,7 +206,7 @@ online-enrollment-body: |-
   <p>E110</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="E110">English Composition</a></p>
+  <p>English Composition</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -223,7 +223,7 @@ online-enrollment-body: |-
   <p>ECN200</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="/academics/online/onlinegeneraleducationcourses/courses/ecn200/">Macroeconomics</a></p>
+  <p>Macroeconomics</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -253,7 +253,7 @@ online-enrollment-body: |-
   <p>H211</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="H211">Essentials of World History I</a></p>
+  <p>Essentials of World History I</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -270,7 +270,7 @@ online-enrollment-body: |-
   <p>H212</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="H212">Essentials of World History II</a></p>
+  <p>Essentials of World History II</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -287,7 +287,7 @@ online-enrollment-body: |-
   <p>H241</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="H241">U.S. History</a></p>
+  <p>U.S. History</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -304,7 +304,7 @@ online-enrollment-body: |-
   <p>LS150L</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="LS150L">Lab: Essentials of Biology</a></p>
+  <p>Lab: Essentials of Biology</p>
   </td>
   <td style="text-align: center;">
   <p>1</p>
@@ -321,7 +321,7 @@ online-enrollment-body: |-
   <p>MA240</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="MA240">Critical Thinking &amp; Problem Solving</a></p>
+  <p>Critical Thinking &amp; Problem Solving</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -338,7 +338,7 @@ online-enrollment-body: |-
   <p>MU190</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="MU190">Essentials of Music &amp; Art</a></p>
+  <p>Essentials of Music &amp; Art</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -355,7 +355,7 @@ online-enrollment-body: |-
   <p>P311</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="P311">Introduction to Philosophy</a></p>
+  <p>Introduction to Philosophy</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -372,7 +372,7 @@ online-enrollment-body: |-
   <p>POL220</p>
   </td>
   <td style="text-align: center;">
-  <p><a href="#" target="_blank" title="POL220">U.S. Government</a></p>
+  <p>U.S. Government</p>
   </td>
   <td style="text-align: center;">
   <p>3</p>
@@ -404,7 +404,7 @@ online-enrollment-body: |-
   </tr>
   <tr>
   <td style="text-align: center;">CH151</td>
-  <td style="text-align: center;"><a href="#" target="_blank" title="CH151 General Chemistry 1">General Chemistry</a></td>
+  <td style="text-align: center;">General Chemistry</td>
   <td style="text-align: center;">3</td>
   <td style="text-align: center;">Matt Ingle</td>
   <td style="text-align: center;">
@@ -413,7 +413,7 @@ online-enrollment-body: |-
   </tr>
   <tr>
   <td style="text-align: center;">E211</td>
-  <td style="text-align: center;"><a href="#" title="E211">English Literature I</a></td>
+  <td style="text-align: center;">English Literature I</td>
   <td style="text-align: center;">3</td>
   <td style="text-align: center;">Bob Dickson</td>
   <td style="text-align: center;">
@@ -422,7 +422,7 @@ online-enrollment-body: |-
   </tr>
   <tr>
   <td style="text-align: center;">E221</td>
-  <td style="text-align: center;"><a href="#" title="E221">World Literature I</a></td>
+  <td style="text-align: center;">World Literature I</td>
   <td style="text-align: center;">3</td>
   <td style="text-align: center;">Bob Dickson</td>
   <td style="text-align: center;">
@@ -431,7 +431,7 @@ online-enrollment-body: |-
   </tr>
   <tr>
   <td style="text-align: center;">LS140</td>
-  <td style="text-align: center;"><a href="#" target="_blank" title="LS140">Principles of Biology</a></td>
+  <td style="text-align: center;">Principles of Biology</td>
   <td style="text-align: center;">3</td>
   <td style="text-align: center;">Joe Francis</td>
   <td style="text-align: center;">
@@ -440,7 +440,7 @@ online-enrollment-body: |-
   </tr>
   <tr>
   <td style="text-align: center;">LS200</td>
-  <td style="text-align: center;"><a href="#" target="_blank" title="LS200">Foundations of Science</a></td>
+  <td style="text-align: center;">Foundations of Science</td>
   <td style="text-align: center;">3</td>
   <td style="text-align: center;">Joe Francis</td>
   <td style="text-align: center;">
@@ -449,7 +449,7 @@ online-enrollment-body: |-
   </tr>
   <tr>
   <td style="text-align: center;">SP220A</td>
-  <td style="text-align: center;"><a href="#" title="SP220">Introductory Spanish 1A</a></td>
+  <td style="text-align: center;">Introductory Spanish 1A</td>
   <td style="text-align: center;">3</td>
   <td style="text-align: center;">Ricardo Morales</td>
   <td style="text-align: center;">
@@ -458,7 +458,7 @@ online-enrollment-body: |-
   </tr>
   <tr>
   <td style="text-align: center;">SP220B</td>
-  <td style="text-align: center;"><a href="#" title="SP220">Introductory Spanish 1B</a></td>
+  <td style="text-align: center;">Introductory Spanish 1B</td>
   <td style="text-align: center;">3</td>
   <td style="text-align: center;">Ricardo Morales</td>
   <td style="text-align: center;">
