@@ -114,39 +114,39 @@ multicultural-students:
     public forums provide opportunity for every student to grow in awareness and compassion
     toward multi-cultural issues.
   biblical-foundation-body: |-
-    The motto of The Master’s University –*For Christ and Scripture*- signifies our commitment to the reality of the universal lordship of Jesus Christ and the sufficiency of His Word. We are bound to this reality because of our anchoring in the Scriptures, which present Christ as Lord over all creation.[\[1\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn1) This confession of Christ’s preeminence gives TMU commanding reasons to welcome, affirm and celebrate diversities of gender, ethnicity, socioeconomic status, and culture in its population and programs.
+    The motto of The Master’s University –*For Christ and Scripture*- signifies our commitment to the reality of the universal lordship of Jesus Christ and the sufficiency of His Word. We are bound to this reality because of our anchoring in the Scriptures, which present Christ as Lord over all creation.[1] This confession of Christ’s preeminence gives TMU commanding reasons to welcome, affirm and celebrate diversities of gender, ethnicity, socioeconomic status, and culture in its population and programs.
 
-    In creating man God elected to create him in the very likeness and image of Himself.[\[2\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn2) The Bible clearly points that all humans are made in the image of God. The image of God (*imago dei*) designates mankind as the image bearers of God, carrying the same attributes with their Creator.[\[3\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn3) This stems to every person from every tribe, tongue, and ethnicity that exists, since God made from one man every nation of mankind to live on all the face of the earth.[\[4\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn4) Understanding this then it is to be resolved that every human being possesses an inherent dignity, meaning, and worth –he or she being made in the *imago dei.*
+    In creating man God elected to create him in the very likeness and image of Himself.[2] The Bible clearly points that all humans are made in the image of God. The image of God (*imago dei*) designates mankind as the image bearers of God, carrying the same attributes with their Creator.[3] This stems to every person from every tribe, tongue, and ethnicity that exists, since God made from one man every nation of mankind to live on all the face of the earth.[4] Understanding this then it is to be resolved that every human being possesses an inherent dignity, meaning, and worth –he or she being made in the *imago dei.*
 
-    It is true that the unity of the created order is deeply disrupted by sin. Men and women, families, tribes, ethnicities, and nations have been set against one another, with differences among people often serving as a pretext for personal and systematic injustice.[\[5\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn5) Yet God has responded to the sin of prejudice and partiality not by abandoning His world, but by providing for its redemption[\[6\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn6) and reconciliation.[\[7\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn7) In consequence, a core value of the Christian church is unity. Jesus prayed that his followers might have complete unity so that the world might believe and know that he was sent by the Father.[\[8\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn8) God’s people are called to repent of sin, grow in grace, acknowledge and submit to truth, seek justice, show mercy, practice forgiveness, and go and make disciples of *all nations* [\[9\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn9)–all because of Christ’s atoning work by which, we’ve been *united* together in Him, and the power of sin has been broken.
+    It is true that the unity of the created order is deeply disrupted by sin. Men and women, families, tribes, ethnicities, and nations have been set against one another, with differences among people often serving as a pretext for personal and systematic injustice.[5] Yet God has responded to the sin of prejudice and partiality not by abandoning His world, but by providing for its redemption[6] and reconciliation.[7] In consequence, a core value of the Christian church is unity. Jesus prayed that his followers might have complete unity so that the world might believe and know that he was sent by the Father.[8] God’s people are called to repent of sin, grow in grace, acknowledge and submit to truth, seek justice, show mercy, practice forgiveness, and go and make disciples of *all nations* [9] –all because of Christ’s atoning work by which, we’ve been *united* together in Him, and the power of sin has been broken.
 
-    Given the divine intention for creation, then, we see human diversity as a feature of life worth savoring; a featured designed and embraced by God. The unity of the kingdom, attained and emulated on earth by Christian fellowship,[\[10\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn10) gladly acknowledges the variety of personal backgrounds, histories, and contexts out of which love, thanksgiving, and worship are rendered to God. The vision of heaven presented by the Apostle John in the book of Revelation is that of a diverse group of believers from every tribe, language, people and nation, who find their unity, not in similar cultural customs or linguistic patterns, but rather in their worship of the one and only King of kings and Lord of lords, the Lamb upon the throne, Jesus. [\[11\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn11)
+    Given the divine intention for creation, then, we see human diversity as a feature of life worth savoring; a featured designed and embraced by God. The unity of the kingdom, attained and emulated on earth by Christian fellowship,[10] gladly acknowledges the variety of personal backgrounds, histories, and contexts out of which love, thanksgiving, and worship are rendered to God. The vision of heaven presented by the Apostle John in the book of Revelation is that of a diverse group of believers from every tribe, language, people and nation, who find their unity, not in similar cultural customs or linguistic patterns, but rather in their worship of the one and only King of kings and Lord of lords, the Lamb upon the throne, Jesus. [11]
 
-    Anticipating this fulfillment, Christian relationships across differences are to be unbiased and impartial rather than repressive, joyful and loving rather than dismissive. Individuals must not be stigmatized for being different; rather within the church, diversity is a glorious property of the whole. *“We”* are a diverse body of many members, from various languages, cultures and continents, which have been *united together* in Christ eternally is the sentiment shared by all true Christians. This is only achievable through the gospel which gives us new eyes to see from the vantage point(s) of creation/redemption, to our future hope and glory.[\[12\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn12)
+    Anticipating this fulfillment, Christian relationships across differences are to be unbiased and impartial rather than repressive, joyful and loving rather than dismissive. Individuals must not be stigmatized for being different; rather within the church, diversity is a glorious property of the whole. *“We”* are a diverse body of many members, from various languages, cultures and continents, which have been *united together* in Christ eternally is the sentiment shared by all true Christians. This is only achievable through the gospel which gives us new eyes to see from the vantage point(s) of creation/redemption, to our future hope and glory.[12]
 
-    [\[1\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref1) Colossians 1:15-20; Philippians 2:9-11
+    \[1\] Colossians 1:15-20; Philippians 2:9-11
 
-    [\[2\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref2) Genesis 1:26
+    \[2\] Genesis 1:26
 
-    [\[3\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref3) Human beings carry the same attributes with the creator even though he is infinite and perfect, whereas we are finite by creation and imperfect because of the fall.
+    \[3\] Human beings carry the same attributes with the creator even though he is infinite and perfect, whereas we are finite by creation and imperfect because of the fall.
 
-    [\[4\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref4) Acts 17:26
+    \[4\] Acts 17:26
 
-    [\[5\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref5) Beginning in Genesis 3-4
+    \[5\] Beginning in Genesis 3-4
 
-    [\[6\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref6) 1 Peter 1:17-21
+    \[6\] 1 Peter 1:17-21
 
-    [\[7\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref7) Ephesians 2:14-16; Colossians 3:11; Galatians 3:25-28
+    \[7\] Ephesians 2:14-16; Colossians 3:11; Galatians 3:25-28
 
-    [\[8\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref8) John 17:20-23
+    \[8\] John 17:20-23
 
-    [\[9\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref9) Mark 1:15; John 17:17; John 8:33; Matthew23:23; Luke 10:37; Matthew 18:21-35; Matthew 28:19-20
+    \[9\] Mark 1:15; John 17:17; John 8:33; Matthew23:23; Luke 10:37; Matthew 18:21-35; Matthew 28:19-20
 
-    [\[10\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref10) Acts 2:42-47
+    \[10\] Acts 2:42-47
 
-    [\[11\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref11) Revelation 5:9, 7:9, 14:6, 22:2
+    \[11\] Revelation 5:9, 7:9, 14:6, 22:2
 
-    [\[12\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref12) 2 Corinthians 4:6, 16-18
+    \[12\] 2 Corinthians 4:6, 16-18
   mission-objectives-body: |-
     Our Mission
 
@@ -186,7 +186,7 @@ multicultural-students:
 
     ## Engage!
 
-    One of our desires at the Master’s University is that students would graduate with a deep commitment and affection for the local church. One of the ways that we stroke the fire of their hearts to that end is Engage! This fall outreach event is a ministry exposure designed to inspire and mobilize our students to serve with local churches. We cancel classes and break up into small teams to work with churches in: evangelism, children’s and youth outreach, college outreach, ethnic outreach, manual labor projects, sports outreach, music ministry, women’s ministry, ministry to the deaf and blind, and ministry to the elderly. [More about Engage! here...](http://www.masters.edu/student-life/student-advancement/multicultural-students/programs/engage/ "Fall Outreach Week")
+    One of our desires at the Master’s University is that students would graduate with a deep commitment and affection for the local church. One of the ways that we stroke the fire of their hearts to that end is Engage! This fall outreach event is a ministry exposure designed to inspire and mobilize our students to serve with local churches. We cancel classes and break up into small teams to work with churches in: evangelism, children’s and youth outreach, college outreach, ethnic outreach, manual labor projects, sports outreach, music ministry, women’s ministry, ministry to the deaf and blind, and ministry to the elderly. [More about Engage! here...](/engage)
 
     ## Chapel/Public Forums
 
