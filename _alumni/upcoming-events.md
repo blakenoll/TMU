@@ -7,9 +7,9 @@ upcomingevents:
 
     6:30pm to 10:30pm
 
-    $17.50 per person
+    \$17.50 per person
 
-    Tickets go on sale September 21, 2017
+    <a href="https://www.eventbrite.com/e/tmu-alumni-dinner-theatre-tickets-37852661329?aff=TMUAlumni" class="btn tbn-navy">Purchase Tickets</a>
 - title: Student-Alumni Interview Workshop
   body: |-
     October/November – Date TBA
