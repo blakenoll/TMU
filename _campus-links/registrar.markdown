@@ -1509,7 +1509,7 @@ transfer-policy-body: |-
 
   The Master's University participates in the College-Level Examination Program (CLEP) sponsored by The College Board and administered nationally by Educational Testing Services through participating colleges and universities. This program is designed to provide the opportunity for students to earn college credit by passing examinations in subject areas in which they have already developed college-level knowledge and understanding. The examinations are composed of various multiple-choice questions and are administered in timed segments totaling 90 minutes.
 
-  The Master's University offers CLEP tests to current TMU students, as well as to individuals who have been accepted for admission to the university. For information on CLEP testing, [click here](https://athletics.masters.edu/campuslinks/testing/cleptesting/ "ClepTesting").
+  The Master's University offers CLEP tests to current TMU students, as well as to individuals who have been accepted for admission to the university. For information on CLEP testing, [click here](/testing-and-proctoring).
 
   CLEP examinations and the scores required to qualify for credit at The Master's University are reviewed annually are effective from July 1 through the following June. Score reports are evaluated by the standards being utilized at the time the exam was taken.
 
