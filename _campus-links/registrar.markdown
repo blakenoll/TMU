@@ -1525,33 +1525,33 @@ transfer-policy-body: |-
 
   For more information contact:
 
-  <table class="bordered">\
-  <tbody>\
-  <tr>\
-  <td><strong>TMU Testing Center</strong></td>\
-  <td><strong>CLEP</strong></td>\
-  </tr>\
-  <tr>\
-  <td>The Master's University</td>\
-  <td>P.O. Box 6600</td>\
-  </tr>\
-  <tr>\
-  <td>21726 Placerita Canyon Road</td>\
-  <td>Princeton, NJ 08541-6600</td>\
-  </tr>\
-  <tr>\
-  <td>Santa Clarita, CA 91321-1200</td>\
-  <td>CLEP@ets.org</td>\
-  </tr>\
-  <tr>\
-  <td><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">661-259-3540<a style="margin: 0px; border: currentColor; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;" href="#" title="Call: 661-259-3540"></a></span>, ext. 2267 | testingservices@masters.edu </td>\
-  <td> </td>\
-  </tr>\
-  <tr>\
-  <td><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">800-568-6248<a style="margin: 0px; border: currentColor; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;" href="#" title="Call: 800-568-6248"></a></span></td>\
-  <td> </td>\
-  </tr>\
-  </tbody>\
+  <table class="bordered">
+  <tbody>
+  <tr>
+  <td><strong>TMU Testing Center</strong></td>
+  <td><strong>CLEP</strong></td>
+  </tr>
+  <tr>
+  <td>The Master's University</td>
+  <td>P.O. Box 6600</td>
+  </tr>
+  <tr>
+  <td>21726 Placerita Canyon Road</td>
+  <td>Princeton, NJ 08541-6600</td>
+  </tr>
+  <tr>
+  <td>Santa Clarita, CA 91321-1200</td>
+  <td>CLEP@ets.org</td>
+  </tr>
+  <tr>
+  <td><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">661-259-3540<a style="margin: 0px; border: currentColor; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;" href="#" title="Call: 661-259-3540"></a></span>, ext. 2267 | testingservices@masters.edu </td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">800-568-6248<a style="margin: 0px; border: currentColor; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;" href="#" title="Call: 800-568-6248"></a></span></td>
+  <td> </td>
+  </tr>
+  </tbody>
   </table>
 academic-calendar-body: |-
   <h1>Fall 2017</h1>
