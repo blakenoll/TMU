@@ -268,7 +268,7 @@ youth-programs:
     ## Questions?
 
     E-mail [songsofsummer@masters.edu](mailto:songsofsummer@masters.edu)
-  register-link: 
+  register-link: https://masters.formstack.com/forms/songs_of_summer_registration
 - name: TMU Piano Kids
   body: |-
     About TMU Piano Kids
@@ -302,7 +302,7 @@ youth-programs:
     * Each child will be required to purchase a standard beginning piano method, more details to be given at registration.
 
     For further information or to apply for the program, email Prof. Kellie Cunningham at [kcunningham@masters.edu](mailto:kcunningham@masters.edu)
-  register-link: 
+  register-link: mailto:kcunningham@masters.edu
 music-orders:
 - name: Praise His Holy Name! (2016)
   artist: The Master's University Choral
