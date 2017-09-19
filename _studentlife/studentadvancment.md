@@ -2,12 +2,12 @@
 title: Student Advancement
 sm-image: "/uploads/StudentLife_StudentAdvancement.png"
 group: studentlife
-international-students-body: The international community at The Master’s College includes
-  over 100 international and third-culture kid (TCK) students from nearly 40 different
-  countries. We desire to shepherd these students through their transition to The
-  Master’s University, mobilize them toward involvement in all areas of campus, share
-  their unique backgrounds with the campus at large, and provide opportunities for
-  them to build authentic relationships with one another. Our staff actively promotes
+international-students-body: The international community at The Master’s University
+  includes over 100 international and third-culture kid (TCK) students from nearly
+  40 different countries. We desire to shepherd these students through their transition
+  to The Master’s University, mobilize them toward involvement in all areas of campus,
+  share their unique backgrounds with the campus at large, and provide opportunities
+  for them to build authentic relationships with one another. Our staff actively promotes
   the spiritual, academic, and social success of these students through a pre-WOW
   orientation, a fall international retreat, service projects, prayer partners, a
   celebration of completion, personal counseling, and other community events.
@@ -75,28 +75,31 @@ ROTC-body: |-
 intl-programs-body: |-
   ### One-Stop Resource Office
 
-  TMC’s International Ministries Office serves as an important connection point for international students and TCKs, starting at the application stage and continuing through to graduation and beyond. Experienced staff come alongside professors and residence life staff help meet the unique needs of students coming from a variety of cross-cultural backgrounds.
+  TMU’s International Ministries Office serves as an important connection point for international students and TCKs, starting at the application stage and continuing through to graduation and beyond. Experienced staff come alongside professors and residence life staff help meet the unique needs of students coming from a variety of cross-cultural backgrounds.
 
   ## Custom-Tailored Admissions Process
 
-  Several years ago the TMC Admissions Office recognized the benefit of having an admissions counselor specifically dedicated to international students and other TCKs. The [international admissions staff](http://www.masters.edu/undergrad/international/staff.aspx "International Admissions Staff") work with applicants and their families to ensure a smooth application process marked by open and consistent communication, whether a student is applying from Tokyo or Tulsa.
+  Several years ago the TMU Admissions Office recognized the benefit of having an admissions counselor specifically dedicated to international students and other TCKs. The [international admissions staff](http://www.masters.edu/admissions/#intl) work with applicants and their families to ensure a smooth application process marked by open and consistent communication, whether a student is applying from Tokyo or Tulsa.
 
   ## Unique International Orientation Program
 
-  International students, MK’s, and other Third Culture Kids (TCKs) are invited to participate in a strategic orientation program called “Passport to Master’s.” This two-day program takes place prior to the traditional [Week of Welcome](http://www.masters.edu/student-life/campus-ministries/wow-week.aspx "Week of Welcome") (a week-long orientation for all new students). By arriving early, students have the opportunity to discuss specific cultural issues, become acquainted with The Master’s College (TMC) campus, and meet other students from around the globe. Passport to Master’s involves various seminars and activities, and culminates with a special dinner reception for the new students and their family members.
+  International students, MK’s, and other Third Culture Kids (TCKs) are invited to participate in a strategic orientation program called “Passport to Master’s.” This two-day program takes place prior to the traditional Week of Welcome (a week-long orientation for all new students). By arriving early, students have the opportunity to discuss specific cultural issues, become acquainted with The Master’s University (TMU) campus, and meet other students from around the globe. Passport to Master’s involves various seminars and activities, and culminates with a special dinner reception for the new students and their family members.
 
   ## Customized Financial Aid
 
-  It’s becoming harder and harder to find a comprehensive, high-caliber education founded upon a biblical worldview. In light of this, a quality education from The Master’s College has become more valuable than ever. It’s something worth investing in. International students and TCKs have proven to be an asset to the TMC campus and successful representatives of the college in their future endeavors. Consequently, The Master’s College has made a strong commitment to partner with these students and their families in funding this important investment. While TMC cannot provide a full scholarship to students, significant discounts may be obtained. Detailed information about scholarships and grants for international students can be found [here](http://www.masters.edu/undergrad/international/aid.aspx "International Financial Aid").
+  It’s becoming harder and harder to find a comprehensive, high-caliber education founded upon a biblical worldview. In light of this, a quality education from The Master’s University has become more valuable than ever. It’s something worth investing in. International students and TCKs have proven to be an asset to the TMU campus and successful representatives of the college in their future endeavors. Consequently, The Master’s University has made a strong commitment to partner with these students and their families in funding this important investment. While TMU cannot provide a full scholarship to students, significant discounts may be obtained. Detailed information about scholarships and grants for international students can be found [here](/financial-aid/general-undergraduate).
 
   ## International Community
 
-  TMC’s International Student Liaisons (ISLs)—part of our core student [Servant Leadership Staff](http://www.masters.edu/student-life/campus-ministries/servant-leadership-staff.aspx "Servant Leadership Staff")—help foster a vibrant community of international students and TCKs on campus. Through regular events and an annual retreat, international students and TCKs find opportunities to connect with each other and develop life-long friendships. Simultaneously, our ISLs help mobilize students to get involved in all areas of campus life: music, sports, leadership, outreach, etc…. The Master’s College does not believe in fostering international student or MK *cliques*—our approach is one of integration and support. In light of this, TMC has intentionally shifted away from offering segregated programs or housing for international students and TCKs.
+  TMU’s International Student Liaisons (ISLs)—help foster a vibrant community of international students and TCKs on campus. Through regular events and an annual retreat, international students and TCKs find opportunities to connect with each other and develop life-long friendships. Simultaneously, our ISLs help mobilize students to get involved in all areas of campus life: music, sports, leadership, outreach, etc…. The Master’s University does not believe in fostering international student or MK *cliques*—our approach is one of integration and support. In light of this, TMU has intentionally shifted away from offering segregated programs or housing for international students and TCKs.
 
   ## Missionaries-in-Residence
 
-  Each year The Master’s College hosts a hand-picked missionary family (on furlough) living on campus (this could be you!). Their home—kitchen, fireplace, and all—is available to students who want to stop by. TMC’s [Missionaries-in-Residence](http://www.masters.edu/student-life/global-outreach/missionary-in-residence.aspx "Missionaries in Residence") become a great asset not only to students currently pursuing global missions, but to international students and TCKs who just want to share their own experiences with someone, or seek a bit of extra advice.
-coordinator-body: 
+  Each year The Master’s University hosts a hand-picked missionary family (on furlough) living on campus (this could be you!). Their home—kitchen, fireplace, and all—is available to students who want to stop by. TMU’s Missionaries-in-Residence become a great asset not only to students currently pursuing global missions, but to international students and TCKs who just want to share their own experiences with someone, or seek a bit of extra advice.
+coordinator-body: |-
+  Josh English
+
+  email: [jengish@masters.edu](mailto:jenglish@masters.edu)
 coordinator-image: "/images/IMG_1046.JPG"
 multicultural-students:
   about-body: We are committed to developing a distinctively Christian multi-cultural
@@ -111,39 +114,39 @@ multicultural-students:
     public forums provide opportunity for every student to grow in awareness and compassion
     toward multi-cultural issues.
   biblical-foundation-body: |-
-    The motto of The Master’s University –*For Christ and Scripture*- signifies our commitment to the reality of the universal lordship of Jesus Christ and the sufficiency of His Word. We are bound to this reality because of our anchoring in the Scriptures, which present Christ as Lord over all creation.[\[1\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn1) This confession of Christ’s preeminence gives TMU commanding reasons to welcome, affirm and celebrate diversities of gender, ethnicity, socioeconomic status, and culture in its population and programs.
+    The motto of The Master’s University –*For Christ and Scripture*- signifies our commitment to the reality of the universal lordship of Jesus Christ and the sufficiency of His Word. We are bound to this reality because of our anchoring in the Scriptures, which present Christ as Lord over all creation.[1] This confession of Christ’s preeminence gives TMU commanding reasons to welcome, affirm and celebrate diversities of gender, ethnicity, socioeconomic status, and culture in its population and programs.
 
-    In creating man God elected to create him in the very likeness and image of Himself.[\[2\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn2) The Bible clearly points that all humans are made in the image of God. The image of God (*imago dei*) designates mankind as the image bearers of God, carrying the same attributes with their Creator.[\[3\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn3) This stems to every person from every tribe, tongue, and ethnicity that exists, since God made from one man every nation of mankind to live on all the face of the earth.[\[4\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn4) Understanding this then it is to be resolved that every human being possesses an inherent dignity, meaning, and worth –he or she being made in the *imago dei.*
+    In creating man God elected to create him in the very likeness and image of Himself.[2] The Bible clearly points that all humans are made in the image of God. The image of God (*imago dei*) designates mankind as the image bearers of God, carrying the same attributes with their Creator.[3] This stems to every person from every tribe, tongue, and ethnicity that exists, since God made from one man every nation of mankind to live on all the face of the earth.[4] Understanding this then it is to be resolved that every human being possesses an inherent dignity, meaning, and worth –he or she being made in the *imago dei.*
 
-    It is true that the unity of the created order is deeply disrupted by sin. Men and women, families, tribes, ethnicities, and nations have been set against one another, with differences among people often serving as a pretext for personal and systematic injustice.[\[5\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn5) Yet God has responded to the sin of prejudice and partiality not by abandoning His world, but by providing for its redemption[\[6\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn6) and reconciliation.[\[7\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn7) In consequence, a core value of the Christian church is unity. Jesus prayed that his followers might have complete unity so that the world might believe and know that he was sent by the Father.[\[8\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn8) God’s people are called to repent of sin, grow in grace, acknowledge and submit to truth, seek justice, show mercy, practice forgiveness, and go and make disciples of *all nations* [\[9\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn9)–all because of Christ’s atoning work by which, we’ve been *united* together in Him, and the power of sin has been broken.
+    It is true that the unity of the created order is deeply disrupted by sin. Men and women, families, tribes, ethnicities, and nations have been set against one another, with differences among people often serving as a pretext for personal and systematic injustice.[5] Yet God has responded to the sin of prejudice and partiality not by abandoning His world, but by providing for its redemption[6] and reconciliation.[7] In consequence, a core value of the Christian church is unity. Jesus prayed that his followers might have complete unity so that the world might believe and know that he was sent by the Father.[8] God’s people are called to repent of sin, grow in grace, acknowledge and submit to truth, seek justice, show mercy, practice forgiveness, and go and make disciples of *all nations* [9] –all because of Christ’s atoning work by which, we’ve been *united* together in Him, and the power of sin has been broken.
 
-    Given the divine intention for creation, then, we see human diversity as a feature of life worth savoring; a featured designed and embraced by God. The unity of the kingdom, attained and emulated on earth by Christian fellowship,[\[10\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn10) gladly acknowledges the variety of personal backgrounds, histories, and contexts out of which love, thanksgiving, and worship are rendered to God. The vision of heaven presented by the Apostle John in the book of Revelation is that of a diverse group of believers from every tribe, language, people and nation, who find their unity, not in similar cultural customs or linguistic patterns, but rather in their worship of the one and only King of kings and Lord of lords, the Lamb upon the throne, Jesus. [\[11\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn11)
+    Given the divine intention for creation, then, we see human diversity as a feature of life worth savoring; a featured designed and embraced by God. The unity of the kingdom, attained and emulated on earth by Christian fellowship,[10] gladly acknowledges the variety of personal backgrounds, histories, and contexts out of which love, thanksgiving, and worship are rendered to God. The vision of heaven presented by the Apostle John in the book of Revelation is that of a diverse group of believers from every tribe, language, people and nation, who find their unity, not in similar cultural customs or linguistic patterns, but rather in their worship of the one and only King of kings and Lord of lords, the Lamb upon the throne, Jesus. [11]
 
-    Anticipating this fulfillment, Christian relationships across differences are to be unbiased and impartial rather than repressive, joyful and loving rather than dismissive. Individuals must not be stigmatized for being different; rather within the church, diversity is a glorious property of the whole. *“We”* are a diverse body of many members, from various languages, cultures and continents, which have been *united together* in Christ eternally is the sentiment shared by all true Christians. This is only achievable through the gospel which gives us new eyes to see from the vantage point(s) of creation/redemption, to our future hope and glory.[\[12\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftn12)
+    Anticipating this fulfillment, Christian relationships across differences are to be unbiased and impartial rather than repressive, joyful and loving rather than dismissive. Individuals must not be stigmatized for being different; rather within the church, diversity is a glorious property of the whole. *“We”* are a diverse body of many members, from various languages, cultures and continents, which have been *united together* in Christ eternally is the sentiment shared by all true Christians. This is only achievable through the gospel which gives us new eyes to see from the vantage point(s) of creation/redemption, to our future hope and glory.[12]
 
-    [\[1\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref1) Colossians 1:15-20; Philippians 2:9-11
+    \[1\] Colossians 1:15-20; Philippians 2:9-11
 
-    [\[2\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref2) Genesis 1:26
+    \[2\] Genesis 1:26
 
-    [\[3\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref3) Human beings carry the same attributes with the creator even though he is infinite and perfect, whereas we are finite by creation and imperfect because of the fall.
+    \[3\] Human beings carry the same attributes with the creator even though he is infinite and perfect, whereas we are finite by creation and imperfect because of the fall.
 
-    [\[4\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref4) Acts 17:26
+    \[4\] Acts 17:26
 
-    [\[5\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref5) Beginning in Genesis 3-4
+    \[5\] Beginning in Genesis 3-4
 
-    [\[6\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref6) 1 Peter 1:17-21
+    \[6\] 1 Peter 1:17-21
 
-    [\[7\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref7) Ephesians 2:14-16; Colossians 3:11; Galatians 3:25-28
+    \[7\] Ephesians 2:14-16; Colossians 3:11; Galatians 3:25-28
 
-    [\[8\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref8) John 17:20-23
+    \[8\] John 17:20-23
 
-    [\[9\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref9) Mark 1:15; John 17:17; John 8:33; Matthew23:23; Luke 10:37; Matthew 18:21-35; Matthew 28:19-20
+    \[9\] Mark 1:15; John 17:17; John 8:33; Matthew23:23; Luke 10:37; Matthew 18:21-35; Matthew 28:19-20
 
-    [\[10\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref10) Acts 2:42-47
+    \[10\] Acts 2:42-47
 
-    [\[11\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref11) Revelation 5:9, 7:9, 14:6, 22:2
+    \[11\] Revelation 5:9, 7:9, 14:6, 22:2
 
-    [\[12\]](http://www.masters.edu/student-life/student-advancement/multicultural-students/biblical-foundation/#_ftnref12) 2 Corinthians 4:6, 16-18
+    \[12\] 2 Corinthians 4:6, 16-18
   mission-objectives-body: |-
     Our Mission
 
@@ -183,7 +186,7 @@ multicultural-students:
 
     ## Engage!
 
-    One of our desires at the Master’s University is that students would graduate with a deep commitment and affection for the local church. One of the ways that we stroke the fire of their hearts to that end is Engage! This fall outreach event is a ministry exposure designed to inspire and mobilize our students to serve with local churches. We cancel classes and break up into small teams to work with churches in: evangelism, children’s and youth outreach, college outreach, ethnic outreach, manual labor projects, sports outreach, music ministry, women’s ministry, ministry to the deaf and blind, and ministry to the elderly. [More about Engage! here...](http://www.masters.edu/student-life/student-advancement/multicultural-students/programs/engage/ "Fall Outreach Week")
+    One of our desires at the Master’s University is that students would graduate with a deep commitment and affection for the local church. One of the ways that we stroke the fire of their hearts to that end is Engage! This fall outreach event is a ministry exposure designed to inspire and mobilize our students to serve with local churches. We cancel classes and break up into small teams to work with churches in: evangelism, children’s and youth outreach, college outreach, ethnic outreach, manual labor projects, sports outreach, music ministry, women’s ministry, ministry to the deaf and blind, and ministry to the elderly. [More about Engage! here...](/engage)
 
     ## Chapel/Public Forums
 

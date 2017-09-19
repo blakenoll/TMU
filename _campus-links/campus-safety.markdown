@@ -134,7 +134,7 @@ The following video presentation (TMU LOGIN REQUIRED) is provided as a service t
 
 [Campus Safety and Security Survey on Department of Education Website](http://ope.ed.gov/security/Index.aspx)
 
-[Title IX Information](http://www.masters.edu/financial-aid/heoa-cc-info/health-safety/title-ix-information/)
+[Title IX Information](/title-ix)
 
 [Drug and Alcohol Abuse Prevention Program ](/media/870369/tmu-daapp-2017-2018-4.pdf)
 
@@ -146,14 +146,16 @@ The following video presentation (TMU LOGIN REQUIRED) is provided as a service t
 
 ## National Terrorism Advisory System
 
+[NTAS](https://www.dhs.gov/ntas/advisory/ntas_17_0515_0001)
+
 ## Local Links
 
 [Weather Forecast](http://forecast.weather.gov/MapClick.php?CityName=Newhall&state=CA&site=LOX&textField1=34.3847&textField2=-118.53&e=0)
 
-#### [Local Newspaper](http://www.the-signal.com/news/)
+[Local Newspaper](http://www.the-signal.com/news/)
 
-#### [Santa Clarita Sheriff's Station](http://shq.lasdnews.net/pages/patrolstation.aspx?id=SCT)
+[Santa Clarita Sheriff's Station](http://shq.lasdnews.net/pages/patrolstation.aspx?id=SCT)
 
-#### [Local Radio Station](http://www.hometownstation.com/)
+[Local Radio Station](http://www.hometownstation.com/)
 
-#### [Real Time Traffic- SIG Alerts](http://www.sigalert.com/map.asp?Region=Greater\+Los\+Angeles)
+[Real Time Traffic- SIG Alerts](http://www.sigalert.com/map.asp?Region=Greater\+Los\+Angeles)

@@ -143,13 +143,13 @@ intl:
     Please Note: Applicants must submit the following three forms in order to qualify for ANY financial aid.
 
     1. [TMU Financial Aid Application](http://www.masters.edu/media/868180/student-financial-aid-application.pdf "TMC Fin Aid App")
-    This form has now been incorporated into our online application, so students only need to complete this version if they applied for admission to TMU using a paper or pdf application. Contact the International Admissions Counselor if you are not sure whether you need to submit this application. Important note: continuing international students already enrolled at TMU should complete this form using the “Financial Aid Renewal Form” link in Self-Service.
+       This form has now been incorporated into our online application, so students only need to complete this version if they applied for admission to TMU using a paper or pdf application. Contact the International Admissions Counselor if you are not sure whether you need to submit this application. Important note: continuing international students already enrolled at TMU should complete this form using the “Financial Aid Renewal Form” link in Self-Service.
 
     2. [International Student Financial Aid Supplement](http://www.masters.edu/media/868161/international-student-financial-aid-supplemental-form.pdf "ISFAS")
-    Completing this form is required before international students can receive any need-based Financial Aid from The Master’s University.
+       Completing this form is required before international students can receive any need-based Financial Aid from The Master’s University.
 
     3. [Satisfactory Academic Progress Policy](http://www.masters.edu/media/868183/undergrad-satisfactory-academic-progress-policy.pdf "SAPP")
-    Signing this form is also required before any student can receive any Financial Aid from The Master’s University (not required for current/returning TMU students).
+       Signing this form is also required before any student can receive any Financial Aid from The Master’s University (not required for current/returning TMU students).
 
     ### President’s Scholarship ($15,000)
 
@@ -191,7 +191,7 @@ intl:
 
     Awarded to students who receive sponsorship from a Christian ministry. TMU will match, on a dollar-for-dollar basis, up to a total of $1,500 per student. Both the application and the funds must be received by August 1st in order to qualify.
 
-    [Click here for the Ministry Matching Grant Application](http://www.masters.edu/media/868326/application-for-ministry-matching-grant.pdf "Ministry Matching Grant")
+    [Click here for the Ministry Matching Grant Application](http://www.masters.edu/media/869687/forms-application-mmg.pdf)
 
     ### Awana Citation Award ($1000)
 
@@ -207,7 +207,7 @@ intl:
 
     ### Shamrock Scholarships ($-varies)
 
-    For more information, visit [www.masters.edu/scholarships](http://www.masters.edu/financial-aid/generalundergraduateprogram/newandtransfer/ "newandtransfer")
+    For more information, visit [www.masters.edu/scholarships](/scholarships)
 
     Note: The priority deadline for submitting most Financial Aid documents is March 2. Please submit your Financial Aid documents by that time in order to ensure consideration for available funds.
 
@@ -233,7 +233,7 @@ intl:
 intl-counselor:
   name: Joshua English
   title: 
-  bio-body: 
+  bio-body: 'Email: [jenglish@masters.edu](mailto:jenglish@masters.edu)'
   img: "/images/IMG_1046.JPG"
 accepted-students-body: |-
   Congratulations on being accepted to The Master’s University! We believe the best way to be a testimony to Jesus Christ is our excellence in all areas of life, so our desire is to equip Christ-followers to go out into the world as leaders and pioneers in their field, on the foundation of Christ and Scripture. We are so excited to invite you to be a part of everything that is happening here at TMU!

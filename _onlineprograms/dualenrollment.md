@@ -10,7 +10,6 @@ Courses:
 online-enrollment-body: |-
   The Master’s University Online Dual Enrollment Program
 
-
   High School juniors and seniors can get a jump start on their college degree and achieve dual credit through our online courses.  Students earn fully accredited units, taught from a Biblical worldview which are transferable to most colleges.
 
   **Save Money!**
@@ -42,6 +41,437 @@ online-enrollment-body: |-
   Submit an Official Transcript from your high school. Home school students can find transcript information here. Please make sure that the school has the correct address with The Master's University Online box number 33.
   Complete the Dual Enrollment form.
   Pay the $35 application fee. This can be paid through the mail by check, or by phone by calling the Administrative Office.
+
+  <h2>Courses Currently Available</h2>
+
+  <h2>TMU Required General Education Courses</h2>
+  <table class="bordered">
+  <tbody>
+  <tr>
+  <td style="text-align: center;">
+  <p><strong>Course #</strong></p>
+  </td>
+  <td style="text-align: center;">
+  <p><strong>Course Name</strong></p>
+  </td>
+  <td style="text-align: center;">
+  <p><strong>Units</strong></p>
+  </td>
+  <td style="text-align: center;">
+  <p><strong>Facilitator</strong></p>
+  </td>
+  <td style="text-align: center;">
+  <p><strong>Fulfills TMU’s New 2015 GE Requirements or Special Notes</strong></p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>B101</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Old Testament Survey I</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Mike Grisanti</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>B102</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Old Testament Survey II</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Mike Grisanti</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>B201</p>
+  </td>
+  <td style="text-align: center;">
+  <p>New Testament Survey I</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Tom Halstead</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>B202</p>
+  </td>
+  <td style="text-align: center;">
+  <p>New Testament Survey II</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Tom Halstead</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>B221</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Essentials of Christian Thought</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>TBA</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  <p>Course will be available 2018</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>BTH321</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Christian Theology I</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Brian Morley</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>BTH322</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Christian Theology II</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Brian Morley</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>C100</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Spoken Communications</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Bob Dickson</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>E110</p>
+  </td>
+  <td style="text-align: center;">
+  <p>English Composition</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Morgan Voorhis</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>ECN200</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Macroeconomics</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Kevin Hill</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;"> </td>
+  <td style="text-align: center;">
+  <p>English Elective</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;"> </td>
+  <td style="text-align: center;">
+  <p>English Elective is met with either E211 or E221 (see electives)</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>H211</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Essentials of World History I</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Dan Roland</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>H212</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Essentials of World History II</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Dan Roland/John Melcon</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>H241</p>
+  </td>
+  <td style="text-align: center;">
+  <p>U.S. History</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Dan Roland</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>LS150L</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Lab: Essentials of Biology</p>
+  </td>
+  <td style="text-align: center;">
+  <p>1</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Joe Francis</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>MA240</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Critical Thinking &amp; Problem Solving</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Claire Blackwell</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>MU190</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Essentials of Music &amp; Art</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Ruta Bloomfield</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>P311</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Introduction to Philosophy</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Brian Morley</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+  <p>POL220</p>
+  </td>
+  <td style="text-align: center;">
+  <p>U.S. Government</p>
+  </td>
+  <td style="text-align: center;">
+  <p>3</p>
+  </td>
+  <td style="text-align: center;">
+  <p>Dan Roland</p>
+  </td>
+  <td style="text-align: center;">
+  <p>YES*</p>
+  </td>
+  </tr>
+  </tbody>
+  </table>
+  <h4 style="text-align: left;"><span class="italicText">*Beginning in Fall 2015, TMU moved to a new set of GE requirements. Students whose first term of full-time TMU enrollment is Fall 2015 (or beyond) will be subject to the new requirements. </span></h4>
+  <p style="text-align: left;"><!--StartFragment--></p>
+  <p style="text-align: left;"><!--EndFragment--></p>
+  <h2 style="text-align: left;">TMU Elective Courses</h2>
+  <table class="bordered">
+  <tbody>
+  <tr>
+  <td style="text-align: center;"><strong>Course #</strong></td>
+  <td style="text-align: center;"><strong>Course Name</strong></td>
+  <td style="text-align: center;"><strong>Units</strong></td>
+  <td style="text-align: center;"><strong>Facilitator</strong></td>
+  <td style="text-align: center;">
+  <p style="text-align: center;"><strong>Fulfills TMU’s New 2015 GE Requirements</strong></p>
+  <p style="text-align: center;"><strong>or Special Notes</strong></p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">CH151</td>
+  <td style="text-align: center;">General Chemistry</td>
+  <td style="text-align: center;">3</td>
+  <td style="text-align: center;">Matt Ingle</td>
+  <td style="text-align: center;">
+  <p style="text-align: center;">No</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">E211</td>
+  <td style="text-align: center;">English Literature I</td>
+  <td style="text-align: center;">3</td>
+  <td style="text-align: center;">Bob Dickson</td>
+  <td style="text-align: center;">
+  <p style="text-align: center;">Fulfills Either GE Literature Course*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">E221</td>
+  <td style="text-align: center;">World Literature I</td>
+  <td style="text-align: center;">3</td>
+  <td style="text-align: center;">Bob Dickson</td>
+  <td style="text-align: center;">
+  <p style="text-align: center;">Fulfills Ether GE Literature Course*</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">LS140</td>
+  <td style="text-align: center;">Principles of Biology</td>
+  <td style="text-align: center;">3</td>
+  <td style="text-align: center;">Joe Francis</td>
+  <td style="text-align: center;">
+  <p style="text-align: center;">No</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">LS200</td>
+  <td style="text-align: center;">Foundations of Science</td>
+  <td style="text-align: center;">3</td>
+  <td style="text-align: center;">Joe Francis</td>
+  <td style="text-align: center;">
+  <p style="text-align: center;">No</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">SP220A</td>
+  <td style="text-align: center;">Introductory Spanish 1A</td>
+  <td style="text-align: center;">3</td>
+  <td style="text-align: center;">Ricardo Morales</td>
+  <td style="text-align: center;">
+  <p style="text-align: center;">No</p>
+  </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">SP220B</td>
+  <td style="text-align: center;">Introductory Spanish 1B</td>
+  <td style="text-align: center;">3</td>
+  <td style="text-align: center;">Ricardo Morales</td>
+  <td style="text-align: center;">
+  <p style="text-align: center;">No</p>
+  </td>
+  </tr>
+  </tbody>
+  </table>
+  <p style="text-align: left;"> </p>
+  <p style="text-align: left;"><span>Textbooks</span></p>
+  <div style="text-align: left;"><a href="/media/869754/ge-booklist-32917.pdf" title="GE Booklist 3.29.17.pdf">Click Here</a><a href="/media/869672/ge-booklist-32217.pdf" title="GE Booklist 3.22.17.pdf"> </a>to view the Required Textbooks for all Online General Education and Elective Courses
+  </div>
+  <p style="text-align: left;"><!--EndFragment--></p>
 oncampus-body: |-
   The Master's University Advanced Start Academic Program (ASAP) enables juniors and seniors in high school to take accredited, college-level Bible and General Education (GE) courses that can meet both high school graduation requirements and be counted toward an undergraduate degree at The Master's University.
 

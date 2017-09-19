@@ -1509,7 +1509,7 @@ transfer-policy-body: |-
 
   The Master's University participates in the College-Level Examination Program (CLEP) sponsored by The College Board and administered nationally by Educational Testing Services through participating colleges and universities. This program is designed to provide the opportunity for students to earn college credit by passing examinations in subject areas in which they have already developed college-level knowledge and understanding. The examinations are composed of various multiple-choice questions and are administered in timed segments totaling 90 minutes.
 
-  The Master's University offers CLEP tests to current TMU students, as well as to individuals who have been accepted for admission to the university. For information on CLEP testing, [click here](https://athletics.masters.edu/campuslinks/testing/cleptesting/ "ClepTesting").
+  The Master's University offers CLEP tests to current TMU students, as well as to individuals who have been accepted for admission to the university. For information on CLEP testing, [click here](/testing-and-proctoring).
 
   CLEP examinations and the scores required to qualify for credit at The Master's University are reviewed annually are effective from July 1 through the following June. Score reports are evaluated by the standards being utilized at the time the exam was taken.
 
@@ -1525,33 +1525,33 @@ transfer-policy-body: |-
 
   For more information contact:
 
-  <table class="bordered">\
-  <tbody>\
-  <tr>\
-  <td><strong>TMU Testing Center</strong></td>\
-  <td><strong>CLEP</strong></td>\
-  </tr>\
-  <tr>\
-  <td>The Master's University</td>\
-  <td>P.O. Box 6600</td>\
-  </tr>\
-  <tr>\
-  <td>21726 Placerita Canyon Road</td>\
-  <td>Princeton, NJ 08541-6600</td>\
-  </tr>\
-  <tr>\
-  <td>Santa Clarita, CA 91321-1200</td>\
-  <td>CLEP@ets.org</td>\
-  </tr>\
-  <tr>\
-  <td><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">661-259-3540<a style="margin: 0px; border: currentColor; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;" href="#" title="Call: 661-259-3540"></a></span>, ext. 2267 | testingservices@masters.edu </td>\
-  <td> </td>\
-  </tr>\
-  <tr>\
-  <td><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">800-568-6248<a style="margin: 0px; border: currentColor; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;" href="#" title="Call: 800-568-6248"></a></span></td>\
-  <td> </td>\
-  </tr>\
-  </tbody>\
+  <table class="bordered">
+  <tbody>
+  <tr>
+  <td><strong>TMU Testing Center</strong></td>
+  <td><strong>CLEP</strong></td>
+  </tr>
+  <tr>
+  <td>The Master's University</td>
+  <td>P.O. Box 6600</td>
+  </tr>
+  <tr>
+  <td>21726 Placerita Canyon Road</td>
+  <td>Princeton, NJ 08541-6600</td>
+  </tr>
+  <tr>
+  <td>Santa Clarita, CA 91321-1200</td>
+  <td>CLEP@ets.org</td>
+  </tr>
+  <tr>
+  <td><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">661-259-3540<a style="margin: 0px; border: currentColor; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;" href="#" title="Call: 661-259-3540"></a></span>, ext. 2267 | testingservices@masters.edu </td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">800-568-6248<a style="margin: 0px; border: currentColor; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;" href="#" title="Call: 800-568-6248"></a></span></td>
+  <td> </td>
+  </tr>
+  </tbody>
   </table>
 academic-calendar-body: |-
   <h1>Fall 2017</h1>

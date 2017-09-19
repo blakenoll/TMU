@@ -20,8 +20,6 @@ However, marketing is more than a simple media post or logo. It is a “professi
 
 Prof. John Beck, the program’s coordinator and a business and communication professor at Master’s U, has been overseeing this new major and weaving together two very strong departments. “I jumped at the chance,” he said. **“We have seen firsthand the demand that exists for these skills in the marketplace. In my own experience as a general manager, our marketing media team created a successful Kickstarter campaign that raised over a million dollars.”**
 
-![0F6A9156.jpg](/uploads/0F6A9156.jpg)
-
 Dr. Kevin Hill, dean of the David A. Wismer School of Business & Communication, and Prof. Bob Dickson, chair of the Communication Department, are co-chairs of the program, and as Beck would phrase it, “dreamed it up.”
 
 “For years, people have been contacting me looking for graduates who have both the business mind as well as the technical skills of photography, video, graphic design and more,” Hill said. “The people who have been in marketing for years just don’t have those technical skills that are now necessary.”
@@ -32,9 +30,7 @@ Hill and Dickson have been talking about this since 2015 and are excited to fina
 
 ## “We want a business-minded creative student,” Hill said, “the person who wants to be in the business world but also wants a creative outlet and has a passion for media creation.”
 
-“We’re looking for students who are** eager to learn, creative, willing to innovate** and **not afraid** to push themselves beyond what they’re used to,” Dickson said.
-
-![MU_color14.jpg](/uploads/MU_color14.jpg)
+“We’re looking for students who are **eager to learn, creative, willing to innovate** and **not afraid** to push themselves beyond what they’re used to,” Dickson said.
 
 The major includes Business Department classes like Statistics for Business, Business Law, Business Ethics, Consumer Behavior and Marketing Strategies. In the Communication Department, students have the freedom to choose what they would like to study—Podcast Studio, Video Production, Principles of Copyediting, Graphic Design, Photoshop Studio and much more.
 

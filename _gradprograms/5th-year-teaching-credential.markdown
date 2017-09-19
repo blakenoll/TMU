@@ -9,7 +9,7 @@ program-outline-text: |-
 
   During the first (Fall) semester, sometimes referred to as the Fieldwork Semester, credential program students (candidates) take a full-time course load of professional education courses covering specific subject matter strategies, including how to teach students who are learning English and/or who have special needs in the regular classroom. The courses are designed to be practical, emphasizing the development of teaching skills.
 
-  In addition to Fall coursework, candidates also complete clinical practice (fieldwork) in two grade levels, paired with veteran master teachers in local public schools. Starting with classroom set-up and preparation prior to the start of school, candidates are both coached and evaluated on potential teaching ability throughout the semester. The program intentionally creates a strong connection between courses and clinical practice. Candidates are asked to reflect on and apply what they are learning in their courses to clinical practice, and vice versa. For more information on clinical practice, visit the [Clinical Practice](https://www.masters.edu/academics/teaching-credential-programs/clinical-practice/ "Clinical Practice") page.
+  In addition to Fall coursework, candidates also complete clinical practice (fieldwork) in two grade levels, paired with veteran master teachers in local public schools. Starting with classroom set-up and preparation prior to the start of school, candidates are both coached and evaluated on potential teaching ability throughout the semester. The program intentionally creates a strong connection between courses and clinical practice. Candidates are asked to reflect on and apply what they are learning in their courses to clinical practice, and vice versa. For more information on clinical practice, visit the Clinical Practice page.
 
   ### Multiple Subject Credential Program Fall Semester Courses (16 units)
 
@@ -258,7 +258,7 @@ admissions-body: |-
 
   ## FINANCIAL AID & SCHOLARSHIP INFORMATION
 
-  Credential program candidates may be eligible for state and federal financial aid programs. Contact the [TMU Financial Aid](http://www.masters.edu/financial-aid/graduate-and-special-programs/teachingcredential/ "Teaching Credential Financial Aid") Office for information.
+  Credential program candidates may be eligible for state and federal financial aid programs. Contact the[ TMU Financial Aid](http://www.masters.edu/financial-aid/grad-special-programs#test2) Office for information.
 
   In addition, TMU has two scholarships designated for the Credential Programs. The Gertrude Corcoran Endowment and the Shamrock Foundation Grant are program-specific scholarships established to help qualified candidates complete a credential program at The Master’s University. Candidates who have demonstrated Christian character, a serious commitment to teaching, and careful financial stewardship are eligible to apply for these scholarships. Applications and information are available from the Credential Analyst, and scholarship applications are due with the admissions application.
 
@@ -276,7 +276,7 @@ admissions-body: |-
 
   Application Fee: $35
 
-  TaskStream subscription: $79.99 for two years \
+  TaskStream subscription: $79.99 for two years \\
 
   Fingerprinting/Certificate of Clearance fee: approximately $200
 
