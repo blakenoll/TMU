@@ -2,12 +2,12 @@
 title: Student Advancement
 sm-image: "/uploads/StudentLife_StudentAdvancement.png"
 group: studentlife
-international-students-body: The international community at The Master’s College includes
-  over 100 international and third-culture kid (TCK) students from nearly 40 different
-  countries. We desire to shepherd these students through their transition to The
-  Master’s University, mobilize them toward involvement in all areas of campus, share
-  their unique backgrounds with the campus at large, and provide opportunities for
-  them to build authentic relationships with one another. Our staff actively promotes
+international-students-body: The international community at The Master’s University
+  includes over 100 international and third-culture kid (TCK) students from nearly
+  40 different countries. We desire to shepherd these students through their transition
+  to The Master’s University, mobilize them toward involvement in all areas of campus,
+  share their unique backgrounds with the campus at large, and provide opportunities
+  for them to build authentic relationships with one another. Our staff actively promotes
   the spiritual, academic, and social success of these students through a pre-WOW
   orientation, a fall international retreat, service projects, prayer partners, a
   celebration of completion, personal counseling, and other community events.
@@ -75,15 +75,15 @@ ROTC-body: |-
 intl-programs-body: |-
   ### One-Stop Resource Office
 
-  TMC’s International Ministries Office serves as an important connection point for international students and TCKs, starting at the application stage and continuing through to graduation and beyond. Experienced staff come alongside professors and residence life staff help meet the unique needs of students coming from a variety of cross-cultural backgrounds.
+  TMU’s International Ministries Office serves as an important connection point for international students and TCKs, starting at the application stage and continuing through to graduation and beyond. Experienced staff come alongside professors and residence life staff help meet the unique needs of students coming from a variety of cross-cultural backgrounds.
 
   ## Custom-Tailored Admissions Process
 
-  Several years ago the TMC Admissions Office recognized the benefit of having an admissions counselor specifically dedicated to international students and other TCKs. The [international admissions staff](http://www.masters.edu/undergrad/international/staff.aspx "International Admissions Staff") work with applicants and their families to ensure a smooth application process marked by open and consistent communication, whether a student is applying from Tokyo or Tulsa.
+  Several years ago the TMU Admissions Office recognized the benefit of having an admissions counselor specifically dedicated to international students and other TCKs. The [international admissions staff](http://www.masters.edu/admissions/#intl) work with applicants and their families to ensure a smooth application process marked by open and consistent communication, whether a student is applying from Tokyo or Tulsa.
 
   ## Unique International Orientation Program
 
-  International students, MK’s, and other Third Culture Kids (TCKs) are invited to participate in a strategic orientation program called “Passport to Master’s.” This two-day program takes place prior to the traditional [Week of Welcome](http://www.masters.edu/student-life/campus-ministries/wow-week.aspx "Week of Welcome") (a week-long orientation for all new students). By arriving early, students have the opportunity to discuss specific cultural issues, become acquainted with The Master’s College (TMU) campus, and meet other students from around the globe. Passport to Master’s involves various seminars and activities, and culminates with a special dinner reception for the new students and their family members.
+  International students, MK’s, and other Third Culture Kids (TCKs) are invited to participate in a strategic orientation program called “Passport to Master’s.” This two-day program takes place prior to the traditional Week of Welcome (a week-long orientation for all new students). By arriving early, students have the opportunity to discuss specific cultural issues, become acquainted with The Master’s University (TMU) campus, and meet other students from around the globe. Passport to Master’s involves various seminars and activities, and culminates with a special dinner reception for the new students and their family members.
 
   ## Customized Financial Aid
 
@@ -91,11 +91,11 @@ intl-programs-body: |-
 
   ## International Community
 
-  TMU’s International Student Liaisons (ISLs)—part of our core student [Servant Leadership Staff](http://www.masters.edu/student-life/campus-ministries/servant-leadership-staff.aspx "Servant Leadership Staff")—help foster a vibrant community of international students and TCKs on campus. Through regular events and an annual retreat, international students and TCKs find opportunities to connect with each other and develop life-long friendships. Simultaneously, our ISLs help mobilize students to get involved in all areas of campus life: music, sports, leadership, outreach, etc…. The Master’s University does not believe in fostering international student or MK *cliques*—our approach is one of integration and support. In light of this, TMU has intentionally shifted away from offering segregated programs or housing for international students and TCKs.
+  TMU’s International Student Liaisons (ISLs)—help foster a vibrant community of international students and TCKs on campus. Through regular events and an annual retreat, international students and TCKs find opportunities to connect with each other and develop life-long friendships. Simultaneously, our ISLs help mobilize students to get involved in all areas of campus life: music, sports, leadership, outreach, etc…. The Master’s University does not believe in fostering international student or MK *cliques*—our approach is one of integration and support. In light of this, TMU has intentionally shifted away from offering segregated programs or housing for international students and TCKs.
 
   ## Missionaries-in-Residence
 
-  Each year The Master’s University hosts a hand-picked missionary family (on furlough) living on campus (this could be you!). Their home—kitchen, fireplace, and all—is available to students who want to stop by. TMU’s [Missionaries-in-Residence](http://www.masters.edu/student-life/global-outreach/missionary-in-residence.aspx "Missionaries in Residence") become a great asset not only to students currently pursuing global missions, but to international students and TCKs who just want to share their own experiences with someone, or seek a bit of extra advice.
+  Each year The Master’s University hosts a hand-picked missionary family (on furlough) living on campus (this could be you!). Their home—kitchen, fireplace, and all—is available to students who want to stop by. TMU’s Missionaries-in-Residence become a great asset not only to students currently pursuing global missions, but to international students and TCKs who just want to share their own experiences with someone, or seek a bit of extra advice.
 coordinator-body: |-
   Josh English
 
