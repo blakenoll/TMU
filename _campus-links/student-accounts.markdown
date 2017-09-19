@@ -252,21 +252,12 @@ general-faqs:
     width="227" valign="bottom"> <p>661-362-2212</p> </td> </tr> </tbody> </table>'
 tmu-online-faqs:
 - question: How do I make a payment online?
-  answer: <p>Online payments can be made by clicking “Make a Payment” when logged
-    into Self-Service in the Finances tab or by going to&nbsp;<a href="/payments"
-    target="_blank">www.masters.edu/payments</a>.</p><p>Begin by clicking the "Make
-    a Payment" button on the page. &nbsp;Clicking this button will take you to our
-    secured payment site. &nbsp;You will need your Student ID number (same as Account
-    Number on the statements, ex. 000123456), last name, and bank account information.
-    You will receive an auto-generated email receipt for the payment.</p>
+  answer: |-
+    Online payments can be made by clicking “Make a Payment” when logged into Self-Service in the Finances tab or by going to <a href="www.masters.edu/payments">masters.edu/payments</a>.
+
+    Begin by clicking the "Make a Payment" button on the page.  Clicking this button will take you to our secured payment site.  You will need your Student ID number (same as Account Number on the statements, ex. 000123456), last name, and bank account information. You will receive an auto-generated email receipt for the payment.
 - question: How do I change a choice I made during pre-registration?
-  answer: <p>Online payments can be made by clicking “Make a Payment” when logged
-    into Self-Service in the Finances tab or by going to&nbsp;<a href="/payments"
-    target="_blank">www.masters.edu/payments</a>.</p><p>Begin by clicking the "Make
-    a Payment" button on the page. &nbsp;Clicking this button will take you to our
-    secured payment site. &nbsp;You will need your Student ID number (same as Account
-    Number on the statements, ex. 000123456), last name, and bank account information.
-    You will receive an auto-generated email receipt for the payment.</p>
+  answer: 
 masters-faqs:
 - question: How do I make a payment online?
   answer: <p>Online payments can be made by clicking “Make a Payment” when logged
