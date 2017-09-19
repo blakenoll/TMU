@@ -26,7 +26,7 @@ position: 2
 
   * Your information, education, personal testimony, and a writing sample
 
-* [Pastor Recommendation](http://www.masters.edu/academics/online/pastoral-recommendation-request/ "Pastoral Recommendation Request")
+* Pastor Recommendation
 
 * Official High School and College Transcripts (only if college level classes have been taken)
 
@@ -54,7 +54,7 @@ position: 2
 
   * You may also complete the required 18 units through TMU online's general education courses
 
-* [Pastor Recommendation](http://www.masters.edu/academics/online/pastoral-recommendation-request/ "Pastoral Recommendation Request")
+* Pastor Recommendation
 
 * Official College transcripts
 
