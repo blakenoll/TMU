@@ -43,7 +43,7 @@ online-enrollment-body: |-
   Pay the $35 application fee. This can be paid through the mail by check, or by phone by calling the Administrative Office.
 
   <h2>Courses Currently Available</h2>
-  <p>Click on the name of the course to view the description. All courses are offered every session. </p>
+
   <h2>TMU Required General Education Courses</h2>
   <table class="bordered">
   <tbody>
@@ -468,9 +468,8 @@ online-enrollment-body: |-
   </tbody>
   </table>
   <p style="text-align: left;"> </p>
-  <p style="text-align: left;"><span style="color: #616161; font-family: Roboto; font-size: 20px; font-weight: 800; text-align: left;">Textbooks</span></p>
-  <div style="text-align: left;">
-  <h3 style="text-align: left;"><strong><a href="/media/869754/ge-booklist-32917.pdf" title="GE Booklist 3.29.17.pdf">Click Here</a><a href="/media/869672/ge-booklist-32217.pdf" title="GE Booklist 3.22.17.pdf"> </a>to view the Required Textbooks for all Online General Education and Elective Courses</strong></h3>
+  <p style="text-align: left;"><span>Textbooks</span></p>
+  <div style="text-align: left;"><a href="/media/869754/ge-booklist-32917.pdf" title="GE Booklist 3.29.17.pdf">Click Here</a><a href="/media/869672/ge-booklist-32217.pdf" title="GE Booklist 3.22.17.pdf"> </a>to view the Required Textbooks for all Online General Education and Elective Courses
   </div>
   <p style="text-align: left;"><!--EndFragment--></p>
 oncampus-body: |-
