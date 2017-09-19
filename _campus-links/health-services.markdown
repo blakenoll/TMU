@@ -29,7 +29,7 @@ forms-body: |-
 
   ### [Immunization Waiver](https://www.masters.edu/media/869955/immunization-waiver.pdf)
 
-  ### [Additional for Intercollegiate Student-Athletes](https://www.masters.edu/athletics/athleticslinks/medical-forms/)
+  ### [Additional for Intercollegiate Student-Athletes](http://athletics.masters.edu/athleticslinks/medical-forms/)
 self-care-body: |-
   Students can use the Self-Care First Aid and Cold Center to treat ailments such as colds, minor aches and pains, and minor injuries. It is stocked with over-the-counter medications and first aid supplies. Please take only what supplies you need.
 
