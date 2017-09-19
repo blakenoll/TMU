@@ -20,8 +20,6 @@ However, marketing is more than a simple media post or logo. It is a “professi
 
 Prof. John Beck, the program’s coordinator and a business and communication professor at Master’s U, has been overseeing this new major and weaving together two very strong departments. “I jumped at the chance,” he said. **“We have seen firsthand the demand that exists for these skills in the marketplace. In my own experience as a general manager, our marketing media team created a successful Kickstarter campaign that raised over a million dollars.”**
 
-![0F6A9156.jpg](/uploads/0F6A9156.jpg)
-
 Dr. Kevin Hill, dean of the David A. Wismer School of Business & Communication, and Prof. Bob Dickson, chair of the Communication Department, are co-chairs of the program, and as Beck would phrase it, “dreamed it up.”
 
 “For years, people have been contacting me looking for graduates who have both the business mind as well as the technical skills of photography, video, graphic design and more,” Hill said. “The people who have been in marketing for years just don’t have those technical skills that are now necessary.”
