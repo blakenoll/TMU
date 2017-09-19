@@ -34,8 +34,6 @@ Hill and Dickson have been talking about this since 2015 and are excited to fina
 
 “We’re looking for students who are **eager to learn, creative, willing to innovate** and **not afraid** to push themselves beyond what they’re used to,” Dickson said.
 
-![MU_color14.jpg](/uploads/MU_color14.jpg)
-
 The major includes Business Department classes like Statistics for Business, Business Law, Business Ethics, Consumer Behavior and Marketing Strategies. In the Communication Department, students have the freedom to choose what they would like to study—Podcast Studio, Video Production, Principles of Copyediting, Graphic Design, Photoshop Studio and much more.
 
 Thanks to the [Centers of Excellence Campaign](https://www.masters.edu/news/the-centers-of-excellence), a fund created by individuals who want to expand student opportunities and develop additional facilities on The Master’s University campus, the Marketing Media program will challenge students, but also push the boundaries of a constantly changing and progressive field of business.
