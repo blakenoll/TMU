@@ -1,7 +1,6 @@
 ---
 title: MBA
 sm-image: "/uploads/AcademicsGraduate_MBA.png"
-parallax-img: "/images/Parallax3.jpg"
 program-outline-text: |-
   Program-level Learning Outcomes
 
@@ -47,13 +46,11 @@ program-outline-text: |-
 
      * Please Submit in Word format
 
-  5. [Pastoral Recommendation](http://www.masters.edu/academics/online/pastoral-recommendation-request/ "Pastoral Recommendation Request")
+  5. Pastoral Recommendation (In Online Application)
 
   6. $35 application fee
 courses-body:
-- number: BUS520
-  name: Business Law
-  units: 3
+- 
 - number: MKT561
   name: Marketing Strategy
   units: 3
@@ -84,7 +81,8 @@ courses-body:
 - units: 3
   name: Leadership
   number: MGT590
+parallax-img: "/images/Parallax3.jpg"
 layout: mba
 ---
 
-##
+
