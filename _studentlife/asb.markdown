@@ -119,8 +119,6 @@ start-society-body: |-
 
   School clubs are an important part of our community. Through them students are able to express themselves and join together around common interests. This fellowship brings many positive results and we want to assist you in joining or even starting a club.
 
-  [View Current School Societies](http://www.masters.edu/student-life/campus-ministries/asb/start-a-club/# "Current Clubs")
-
   ## How To Start A School Society
 
   It is much easier than you may think.
