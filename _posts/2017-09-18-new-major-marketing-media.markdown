@@ -32,7 +32,7 @@ Hill and Dickson have been talking about this since 2015 and are excited to fina
 
 ## “We want a business-minded creative student,” Hill said, “the person who wants to be in the business world but also wants a creative outlet and has a passion for media creation.”
 
-“We’re looking for students who are** eager to learn, creative, willing to innovate** and **not afraid** to push themselves beyond what they’re used to,” Dickson said.
+“We’re looking for students who are **eager to learn, creative, willing to innovate** and **not afraid** to push themselves beyond what they’re used to,” Dickson said.
 
 ![MU_color14.jpg](/uploads/MU_color14.jpg)
 
