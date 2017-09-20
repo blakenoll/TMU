@@ -260,6 +260,7 @@ theme:
 sass:
   style: compressed
 gems:
+- jekyll-feed
 - jekyll-redirect-from
 - jekyll-paginate
 exclude:
