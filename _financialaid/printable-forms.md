@@ -45,7 +45,7 @@ Undergraduate Registration Instructions
 [Credit by Examination](http://www2.masters.edu/admissions/downloads/CreditbyExamination.pdf)\
 \(Lists AP, CLEP, and IB tests accepted for college credit)
 
-[Activity Release Form](http://www.masters.edu/media/869661/activity-release-form-tmu.pdf "ACTIVITY RELEASE FORM (TMU).pdf")
+[Activity Release Form](/uploads/TMU_ActivityRelease%202017.pdf)
 
 ## Undergraduate Financial Aid Forms and Scholarships
 

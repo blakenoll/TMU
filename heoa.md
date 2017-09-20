@@ -84,6 +84,8 @@ institutional-info-body: |-
 
   * [Net Price Calculator](/financial-aid/total-cost-calculator)
 
+  * [Non California Resident State Aid Programs](https://www.nasfaa.org/State_Financial_Aid_Programs)
+
   Cost of Attendance
 
   [Undergraduate](/financial-aid/tuition-fees)

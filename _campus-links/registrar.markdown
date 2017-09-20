@@ -1020,7 +1020,7 @@ transcript-body: |-
   </tr>
   <tr>
   <td><strong>Campus Pick-up</strong></td>
-  <td style="text-align: center;"><strong>$10</strong></td>
+  <td style="text-align: center;"><strong>$15</strong></td>
   </tr>
   </tbody>
   </table>
@@ -1044,11 +1044,10 @@ transcript-body: |-
   <p> </p>
   <h2><strong>Special Circumstances</strong></h2>
   <p><span>For <strong>scholarship or TMU staff/faculty</strong>, no transcript fees for First Class mail delivery or campus pick-up. Email delivery is $4 and an account must be created. </span></p>
-  <p><strong>First Class mail delivery</strong>: please complete and email/mail/fax the <a href="/media/870273/transcript-request-form-81717-new.pdf" target="_blank"><span style="text-decoration: underline;">Transcript Request Form</span></a> below to the Office of the Registrar.<br /><strong>Email Delivery: </strong>Please <span style="text-decoration: underline;"><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services">click here</a></span> and create an account. Once you have created an account under Step 1, do not proceed to Step 2. Contact the Office of the Registrar at (661)362-2813 and/or registrar@masters.edu to complete the process. </p>
+  <p><strong>First Class mail delivery</strong>: please complete and email/mail/fax the <a href="/uploads/Transcript%20Request%20Form%20Draft%209.19.19.docx" target="_blank"><span style="text-decoration: underline;">Transcript Request Form</span></a> below to the Office of the Registrar.<br /><strong>Email Delivery: </strong>Please <span style="text-decoration: underline;"><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services">click here</a></span> and create an account. Once you have created an account under Step 1, do not proceed to Step 2. Contact the Office of the Registrar at (661)362-2813 and/or registrar@masters.edu to complete the process. </p>
   <h2><strong><br />How to Order Transcripts </strong></h2>
 
   <a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a>
-
 
   <h2><strong>Frequently Asked Questions </strong></h2>
   <p><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank">Please click here<br /></a></strong><strong> </strong><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank"><br /></a></strong></p>
