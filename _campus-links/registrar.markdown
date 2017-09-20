@@ -1020,7 +1020,7 @@ transcript-body: |-
   </tr>
   <tr>
   <td><strong>Campus Pick-up</strong></td>
-  <td style="text-align: center;"><strong>$10</strong></td>
+  <td style="text-align: center;"><strong>$15</strong></td>
   </tr>
   </tbody>
   </table>
@@ -1048,7 +1048,6 @@ transcript-body: |-
   <h2><strong><br />How to Order Transcripts </strong></h2>
 
   <a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a>
-
 
   <h2><strong>Frequently Asked Questions </strong></h2>
   <p><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank">Please click here<br /></a></strong><strong> </strong><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank"><br /></a></strong></p>
