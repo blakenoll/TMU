@@ -32,9 +32,7 @@ position: 2
 
 Online Office of Admissions
 
-
-21726 Placerita Canyon Road/n
-
+21726 Placerita Canyon Road
 
 Santa Clarita, CA 91321
 
