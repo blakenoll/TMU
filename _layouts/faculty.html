@@ -43,6 +43,12 @@ padding-bottom: 20px;"/>
   </ul>
 <h4>Bio</h4>
 <p>{{ content | markdownify }}</p>
+{% if page.publications %}
+<h4>Publications</h4>
+{% for pub in page.publications %}
+<span><a href="{{pub.link}}" target="_blank">{{pub.title}}</a></span>
+{% endfor %}
+{% endif %}
 <h4>Contact</h4>
 <a href="mailto:{{ page.email }}">{{ page.email }}</a>
 <br>
