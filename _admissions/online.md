@@ -28,7 +28,11 @@ position: 2
 
 * Pastor Recommendation
 
-* Official High School and College Transcripts (only if college level classes have been taken)
+* Official High School and College Transcripts (only if college level classes have been taken). Please send directly to our office at:
+
+Online Office of Admissions
+21726 Placerita Canyon Road
+Santa Clarita, CA 91321
 
 * Application Fee of $35
 
