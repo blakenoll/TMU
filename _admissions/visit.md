@@ -76,6 +76,8 @@ Personal-Visit-body: |-
 
   Please Note: If you are planning to stay with us overnight you MUST review our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/). This provides important information for individual and group visits. Every overnight visitor must turn in a completed [Overnight Stay Release Form](/media/870365/tmu_activityrelease-2017.pdf).
 
+  Visit our [Hotels](/hotels) page to plan overnight housing.
+
   Our offices are closed on the following dates during the 2017-2018 School Year (if your visit falls on a Mondays at Master’s or a College View Weekend, please sign up for either of those events on the [Mondays at Master’s](#mondays) page and the [View Weekend](#view) page):
 
   > * September 4, 2017: Closed for Labor Day
