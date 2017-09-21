@@ -16,7 +16,7 @@ description: |-
 
   * Ample opportunity to conduct and present research
 
-  Interested in paleontology and geology? Learn more about our new paleontology emphasis [here](/geology)!
+  Interested in paleontology and geology? Learn more about our new geology emphasis [here](/geology)!
 emphasis:
 - Animal Science/Pre-Veterinary Medicine
 - Cellular & Molecular Biology
