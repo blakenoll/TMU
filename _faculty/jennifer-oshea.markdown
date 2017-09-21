@@ -7,6 +7,9 @@ degrees:
 - B.A., Point Loma Nazarene University
 - 'M.A., CSUN '
 email: 'communications@masters.edu '
+publications:
+- title: Sisters In Time Looks At Linking Agencies For Women In Need Of Housing
+  link: http://www.hometownstation.com/santa-clarita-news/sisters-in-time-looks-at-linking-agencies-for-women-in-need-of-housing-205446
 ---
 
 Jennifer O'Shea earned her bachelor's degree in Journalism from Point Loma Nazarene University in 2002.  Since then, she moved back to her hometown, Santa Clarita, earned her master's degree in Secondary English Education, and has been teaching English and Journalism at West Ranch High School for the last twelve years.  Having advised the student newspaper for six years, she was delighted to take the opportunity to teach journalism classes at the college level.  Jennifer taught her first class at TMU in the spring of 2016.
