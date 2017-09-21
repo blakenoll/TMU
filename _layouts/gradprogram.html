@@ -28,7 +28,11 @@ layout: default
           {% for faculty in site.faculty %}
           {% if faculty.grad-program == page.title %}
           <div class="chip">
-            <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
+            {% if faculty.image != '' %}
+            <img src="{{ faculty.image | prepend: site.url }}" alt="{{ faculty.title }}">
+            {% else %}
+            <img src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="Contact Person">
+            {% endif %}
             <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
           </div>
           {% endif %}
