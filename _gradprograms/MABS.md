@@ -68,7 +68,7 @@ program-outline-text: |-
 
   ## Remote Library Access
 
-  In order to facilitate research from off campus locations, the [library](/library) provides remote access to many of The Master's College's online databases. This access allows the student to [search the available databases](/library) from any computer off campus that has an Internet connection. Currently, The Master's College has over 20 databases available with remote access. Students are welcome to [contact the library](/library) directly if they need help with their research needs.
+  In order to facilitate research from off campus locations, the [library](/library) provides remote access to many of The Master's University online databases. This access allows the student to [search the available databases](/library) from any computer off campus that has an Internet connection. Currently, The Master's College has over 20 databases available with remote access. Students are welcome to [contact the library](/library) directly if they need help with their research needs.
 courses-body: |-
   ## BTS500 - INTRODUCTION TO BIBLICAL STUDIES - 2 units
 
