@@ -76,6 +76,8 @@ Personal-Visit-body: |-
 
   Please Note: If you are planning to stay with us overnight you MUST review our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/). This provides important information for individual and group visits. Every overnight visitor must turn in a completed [Overnight Stay Release Form](/media/870365/tmu_activityrelease-2017.pdf).
 
+  Visit our [Hotels](/hotels) page to plan overnight housing.
+
   Our offices are closed on the following dates during the 2017-2018 School Year (if your visit falls on a Mondays at Master’s or a College View Weekend, please sign up for either of those events on the [Mondays at Master’s](#mondays) page and the [View Weekend](#view) page):
 
   > * September 4, 2017: Closed for Labor Day
@@ -142,7 +144,7 @@ Mondays-At-Masters-body: |-
 
   All we need is some basic information from you, and the best part about it is that it’s free! Once you have signed up we will send you a confirmation with all of the information you may need for your visit to TMU. Parents are also welcome and encouraged to attend. Let us know how we can help you make this college-decision process easier. We would love to see you here!
 
-  Though Mondays at Master’s is designed to be a condensed visit program and is not designed primarily to accommodate overnight visitors, it is possible that a Mondays at Master’s visitor might want to stay overnight in the dorms. If this is the case, any registered Mondays at Master’s attendee will need to read our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/) for details about staying overnight and email our Visit Coordinator. All overnight visitors need to bring a sleeping bag and pillow. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](http://www.masters.edu/visitorinfo.aspx) page to plan overnight housing at a local area hotel. If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page to rent a car.
+  Though Mondays at Master’s is designed to be a condensed visit program and is not designed primarily to accommodate overnight visitors, it is possible that a Mondays at Master’s visitor might want to stay overnight in the dorms. If this is the case, any registered Mondays at Master’s attendee will need to read our [Overnight Visit Policy](http://www.masters.edu/undergrad/visit/overnight/) for details about staying overnight and email our Visit Coordinator. All overnight visitors need to bring a sleeping bag and pillow. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](/hotels) page to plan overnight housing at a local area hotel. If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page to rent a car.
 
   ## Sample Schedule of Events:
 
