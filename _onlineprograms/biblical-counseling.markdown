@@ -1,9 +1,8 @@
 ---
 title: Biblical Counseling
 date: 2017-04-26 19:19:00 Z
-layout: undergradonline
-parallax-img: "/images/Parallax6.jpg"
 sm-image: "/uploads/AcademicsGraduate_MABC.png"
+parallax-img: "/images/Parallax6.jpg"
 level: undergrad
 about-body: |-
   TMU Online offers a Bachelor of Arts in Biblical Counseling. This degree is designed to equip the Christian adult with the principles and procedures of biblical counseling in order to further prepare them for service in their local church. Grounded in the Word of God and aimed at the building up of the saints, this course of study emphasizes the sufficiency of God’s Word to meet the needs of everyday life. Students will be prepared for the ACBC (Association of Certified Biblical Counselors) exam, to move toward certification. The following requirements must be satisfied prior to graduation.
@@ -28,7 +27,7 @@ about-body: |-
 
   ---
 
-  [Click here](http://localhost:4000/media/868239/ba-biblical-counseling-olp-tmu.pdf "BA Biblical Counseling - OLP -TMU.pdf") to print a summary of the degree requirements for BA in Biblical Counseling.
+  [Click here](/media/868239/ba-biblical-counseling-olp-tmu.pdf) to print a summary of the degree requirements for BA in Biblical Counseling.
 
   ### Admission Requirements
 
@@ -86,5 +85,6 @@ major-requirments-body: |-
 
   **Every third course, one unit of Distinctives of Biblical Living is required.**
 Field name: 
+layout: undergradonline
 ---
 
