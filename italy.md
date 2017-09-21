@@ -6,13 +6,7 @@ program-description-body: The Master’s University in Italy is a new study abro
   biblical approach to intellectual history, grounded in the study of the European
   Renaissance and Reformation. Students will live in Florence for six weeks in the
   summer and earn twelve (12) undergraduate credits in a variety of General Education
-  courses while deeply immersed in Italian culture and Renaissance history.The Master’s
-  University in Italy is a new study abroad program, based in incomparably beautiful
-  Italy! Our focus is to provide a unique, deeply biblical approach to intellectual
-  history, grounded in the study of the European Renaissance and Reformation. Students
-  will live in Florence for six weeks in the summer and earn twelve (12) undergraduate
-  credits in a variety of General Education courses while deeply immersed in Italian
-  culture and Renaissance history.
+  courses while deeply immersed in Italian culture and Renaissance history.
 importance-body: The modern world is the child of the Italian Renaissance. All modernist
   worldview issues were first fully formulated in the Renaissance, in both the sciences
   and the humanities. Florence, the city in which TMU in Italy will be based, is the
