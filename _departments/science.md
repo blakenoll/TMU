@@ -2,7 +2,7 @@
 title: Sciences
 sm-image: "/uploads/AcademicsUndergradIcons_Sciences.png"
 description: |-
-  Dedicated to developing lifelong patterns of intellectual growth while also being uncompromising in the faith, the Science Department is committed to producing students who are intellectually competent and an exemplary testimony no matter what discipline they study. Holding firm to the truth and inherency of Scripture, The Master’s University teaches all classes with the unshakeable foundation of the Bible. From Biology (General, Cellular, and Molecular) to Pre-Medical, students will graduate ready to go onto the next step in their field, and defend their faith as an equipped and intellectual worker and break new ground.
+  Dedicated to developing lifelong patterns of intellectual growth while also being uncompromising in the faith, the Science Department is committed to producing students who are intellectually competent and an exemplary testimony no matter what discipline they study. Holding firm to the truth and inerrancy of Scripture, The Master’s University teaches all classes with the unshakeable foundation of the Bible. From Biology (General, Cellular, and Molecular) to Pre-Medical, students will graduate ready to go onto the next step in their field, and defend their faith as an equipped and intellectual worker and break new ground.
 
   * Teach a literal six-day creation
 
@@ -16,7 +16,7 @@ description: |-
 
   * Ample opportunity to conduct and present research
 
-  Interested in paleontology and geology? Learn more about our new paleontology emphasis [here](/geology)!
+  Interested in paleontology and geology? Learn more about our new geology emphasis [here](/geology)!
 emphasis:
 - Animal Science/Pre-Veterinary Medicine
 - Cellular & Molecular Biology
