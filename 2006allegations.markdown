@@ -4,7 +4,7 @@ date: 2017-09-24 05:16:00 Z
 layout: page
 ---
 
-**Update:**  At The Master's University, our student's safety and care are our top priority. As with the case referenced below, any allegation of criminal activity is immediately turned over to local law enforcement to investigate and ultimately either file or drop charges based on the evidence and testimony collected. No criminal charges were filed following law enforcement's investigation of these allegations.  The universities involvement in this alleged event was limited to caring for the female student as the male was not a TMU student and the alleged attack took place off-campus while school was not in session. 
+**Update:**  At The Master's University, we consider the spiritual and physical well-being of the students under our care to be of the utmost importance. As with the case referenced below, any allegation of criminal activity is immediately turned over to local law enforcement to investigate and ultimately either file or drop charges based on the evidence and testimony collected. No criminal charges were filed following law enforcement's investigation of these allegations.  The universities involvement in this alleged event was limited to caring for the female student as the male was not a TMU student and the alleged attack took place off-campus while school was not in session. Our prayers go out to all who have suffered from any incident like this, and our best comfort is the certain knowledge that there is healing, peace, forgiveness, and redemption in Jesus Christ.
 
 
 *(Original Statement)*
