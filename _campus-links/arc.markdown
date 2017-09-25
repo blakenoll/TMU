@@ -14,20 +14,16 @@ tutoring-info: |-
   <table class="bordered responsive-table">
       <thead>
         <tr>
-            <th>Monday</th>
             <th>Tuesday</th>
             <th>Wednesday</th>
             <th>Thursday</th>
-            <th>Friday</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>4pm - 6pm </td>
-          <td>6pm - 8pm </td>
-          <td>8am - 9am, 11:45am - 12:45pm</td>
-          <td>6pm - 8pm </td>
-          <td>3:30pm - 5pm</td>
+          <td>2:15- 3:45pm<br>5:30- 8:30 </td>
+          <td>2:30- 4:30pm</td>
+          <td>2:15- 3:45<br>5:30- 8:30</td>
         </tr>
       </tbody>
     </table>
@@ -61,19 +57,12 @@ team:
 layout: arc
 ---
 
-Welcome to ARC online!
+Congratulations to all of our newly admitted students, and welcome to The Master’s University family!
 
-Written and selected by all of us who are part of ARC, the website will allow our TMU community to encourage and help one another towards academic success.  Our website provides you with:
+We hope that you are excited about this new chapter in your life, and that you will take some time to explore how the Academic Resource Center (or ARC) can enhance your experience by providing helpful resources, services and learning opportunities and by encouraging a supportive campus community. ARC serves all TMU students, with a particular focus on peer-to-peer tutoring in various areas. At this time, we have tutoring labs available for students who need help with their academic papers/written projects, and math and accounting courses.
 
-<ul class="browser-default">
-<li>Free online resources chosen (and used) by our tutors and staff.</li>
-<li>Short bios on our tutors as a way to get to know us.</li>
-<li>Information regarding our free workshops and tutoring labs.</li>
-<li>A place to send your own tips and resources to help others, as they have helped you.</li>
-</ul>
+Below is the current hours and locations for all the tutoring labs and, if you click on the “meet the tutors” tab, you can see a picture of our current staff for the 2017-2018 school year.
 
-Feel free to email us at ARC@masters.edu for questions, tips, and resources on being a more effective student.Let's help each other excel still more, together!
+For any other questions about labs, you can email us at [arc@masters.edu](mailto:arc@masters.edu)
 
-*From the ARC Team*
-
-**To schedule an appointment with the Academic Counselor, Kara Antariksa, [click here](https://snapappointments.com/listing/1x0#booking_module).**
+For more specific needs, contact TMU’s academic counselor: Kara Antariksa. To schedule an appointment with the academic counselor, click [here](http://www.masters.edu/academiccounseling).
