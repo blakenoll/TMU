@@ -123,8 +123,8 @@ Personal-Visit-body: |-
   > * May 28, 2018: Closed for Memorial Day
   >
   > * July 4, 2018: Closed for Independence Day
-View-The-U:
-Personal-Visit:
+View-The-U: 
+Personal-Visit: 
 Mondays-At-Masters-body: |-
   Mondays @ Master's
 
@@ -217,3 +217,4 @@ Music-at-Masters-body: |-
   If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page for booking information. Complimentary campus parking passes are available [here](http://www.masters.edu/media/683327/CVW%20Parking%20Pass.pdf).
 layout: default
 ---
+
