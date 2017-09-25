@@ -215,6 +215,6 @@ Music-at-Masters-body: |-
   TMU is only able to provide airport transportation for students flying unaccompanied. If possible, please make all attempts to fly into [Burbank Airport](http://www.burbankairport.com/) (BUR).
 
   If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page for booking information. Complimentary campus parking passes are available [here](http://www.masters.edu/media/683327/CVW%20Parking%20Pass.pdf).
-layout: default
+layout: visit
 ---
 
