@@ -9,7 +9,7 @@ teach-prep-body: |-
 health-safety-body: |-
   Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information.
 
-  ### [Vaccination Policy](http://www.masters.edu/media/868337/healthcenter_vaccinepolicy.pdf "2015 Vaccine Policy")
+  ### [Vaccination Policy](/uploads/HealthCenter_VaccineLetter2017.pdf)
 
   ### [Drug and Alcohol Abuse Prevention Program](/media/870369/tmu-daapp-2017-2018-4.pdf)
 

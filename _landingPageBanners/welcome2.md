@@ -1,7 +1,8 @@
 ---
 title: Undergrad
-image: "/uploads/Undergrad_WebBanner.jpg"
-link: "/academics/"
-button-text: ACADEMICS
+description: Master's XC Invitational
+image: "/uploads/MC_WebBanner.jpg"
+link: http://athletics.masters.edu/menssports/cross-country/xc-invitational/
+button-text: View Details
 ---
 
