@@ -1,6 +1,9 @@
 ---
 title: 'Faculty Focus: Greg Gifford'
 date: 2017-09-26 20:26:00 Z
+author: Sabrina Michael
+catergory: Faculty Spotlight
+sm-image: "/uploads/GREGGIFFORD.jpg"
 ---
 
 **Greg Gifford**, after graduating from Baptist Bible College in Springfield, Mo. in 2008 with a B.A. in Bible and Pastoral Ministry, watched his friends pack up and spread across the nation to go into ministry (something Gifford had wanted to do for years). However, Gifford was packing up for something far different: Fort Jackson in Columbia, S.C. 
