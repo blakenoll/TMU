@@ -10,7 +10,7 @@
   <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{% if page.sm-image %}{{ page.sm-image }}{% else %}{{ site.default_img }}{% endif %}">
+  <meta property="og:image" content="{% if page.sm-image %}{{ page.sm-image | prepend: site.url }}{% else %}{{ site.default_img }}{% endif %}">
   <meta property="og:type" content="blog">
 
   <meta name="twitter:card" content="summary_large_image">
@@ -20,7 +20,10 @@
   <meta name="twitter:site" content="{{ site.title }}">
   <meta name="twitter:creator" content="@{{ site.twitter_username }}">
   <meta name="twitter:domain" content="{{ site.url }}">
-  <meta property="twitter:image" content="{% if page.sm-image %}{{ page.sm-image }}{% else %}{{ site.default_img }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.sm-image %}{{ page.sm-image | prepend: site.url }}{% else %}{{ site.default_img }}{% endif %}">
+
+  <!-- RSS/ATOM feed -->
+  <link rel="alternate" type="application/rss+xml" title="Bakery Store RSS" href="/feed.xml">
 
   <!-- Fonts and Icons -->
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
