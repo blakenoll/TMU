@@ -24,29 +24,30 @@ layout: default
   <div class="row">
     <div class="col s12">
       <ul class="tabs tabs-fixed-width secondary-tab">
-        <li class="tab"><a  href="#view">View Weekends</a></li>
+        <li class="tab"><a href="#view">View Weekends</a></li>
         <li class="tab"><a href="#personal">Personalized Visits</a></li>
         <li class="tab"><a href="#mondays">Mondays @ Masters</a></li>
         <li class="tab"><a href="#music">Music @ Masters</a></li>
       </ul>
     </div>
-  <div id="view" class="col s12">
+  <div id="view" class="col s12 admissions-a">
   <img src="{{ "/images/ViewWeekend_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
   {{ page.View-The-U-body | markdownify }}
   </div>
-  <div id="personal" class="col s12">
+  <div id="personal" class="col s12 admissions-a">
     <img src="{{ "/images/PersonalizedTour_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
   {{ page.Personal-Visit-body | markdownify }}
   </div>
 
-  <div id="mondays" class="col s12">
+  <div id="mondays" class="col s12 admissions-a">
     <img src="{{ "/images/Mondays@Masters_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
   {{ page.Mondays-At-Masters-body | markdownify }}
   </div>
 
-  <div id="music" class="col s12">
+  <div id="music" class="col s12 admissions-a">
     <img src="{{ "/images/Music@Masters_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
   {{ page.Music-at-Masters-body | markdownify }}
   </div>
+
   </div>
 </div>
