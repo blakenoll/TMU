@@ -28,7 +28,7 @@ Chorale’s ministry on this trip contrasted markedly with what students were ac
 
 Members of Chorale discovered that singing bridged communication barriers, and song effectively proclaimed the Word of God to different cultures. Anna Martin, a junior entering her third year in Chorale, was surprised by “how much of an impact music can [have] when it comes to spreading the gospel and opening doors. It’s true that music is a universal language and I saw that play out during our three weeks overseas.”
 
-##Our students’ dedication to a successful trip was reflected in their tireless preparation, which included hundreds of rehearsal hours and countless prayer group meetings. 
+## Our students’ dedication to a successful trip was reflected in their tireless preparation, which included hundreds of rehearsal hours and countless prayer group meetings. 
 
 Chorale Secretary, Erin Greene, told them a story about the fruit those efforts can produce: “After one of our concerts in Israel, I met a young man who was originally from Sweden. He told me that he had heard The Master's Chorale sing 12 years ago while he was visiting Israel. He had just become a believer that year and the Chorale concert had a huge impact on him. He received one of our CD's and took it back with him to Sweden. That year was one of the hardest years of his life. He experienced many trials and struggled with depression. He told me that he listened to that CD every day and that it provided him with encouragement to keep strong in his faith. Twelve years ago I doubt the Chorale that year could have guessed the impact God would use them to make on this man's life. And now, twelve years later, he is still walking with the Lord and being encouraged by the Chorale's message of the gospel.”
 
