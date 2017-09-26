@@ -1,6 +1,7 @@
 ---
 title: 'Chorale Tour: Israel & Italy'
 date: 2017-09-26 20:12:00 Z
+author: Noah Peterson
 catergory: TMU Abroad
 sm-image: "/uploads/choraletour.jpg"
 ---
