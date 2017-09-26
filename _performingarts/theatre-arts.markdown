@@ -117,9 +117,9 @@ audition-body: |-
     * Tech Crew
 
   ### Please email us at [theatre@masters.edu](mailto:theatre@masters.edu) or call us at 661-362-2255 with any questions
-current-play:
-  image: 
-  title: OVER THE RIVER AND THROUGH THE WOODS
+fall-play:
+  image: "/media/869946/overtheriver-web.jpg"
+  title: Over The River and Through the Woods
   body: |-
     By Joe DiPietro
 
@@ -128,6 +128,19 @@ current-play:
 
 
     Nick visits his grandparents in Hoboken, NJ every Sunday for dinner. But what lengths will his grandparents go to keep him from moving to Seattle? As they plan blind dates and tempt him with never-ending, mouthwatering meals, Nick has to evaluate what is important in life and learn to count the cost of his decisions. This show promises gut-wrenching laughter and a story that pulls on your heartstrings and causes you to consider, along with Nick, what matters most in life.
+spring-play:
+  image: "/media/869947/secretgarden-web.jpg"
+  title: The Secret Garden
+  body: "$10-$25 Tickets ON SALE Monday, January 29, 2018\n\n \n\nContinuing our celebration
+    of the 10th Anniversary of the revival of TMU Theatre Arts, we are delighted to
+    bring this gorgeous, musical adaptation of Francis Hodgson Burnett's \"The Secret
+    Garden.\" Marsha Norman and Lucy Simon's music and lyrics are a perfect addition
+    to this beloved story of forgiveness, redemption, and the importance of love and
+    community. After her parent's untimely death in India, lonely Mary Lennox is sent
+    to live with her reclusive uncle in Yorkshire, England. Members of the household
+    and community reach out to Mary to try to sooth her broken heart, but they are
+    surprised by the ways she - with the help of a forgotten and secret garden - is
+    used to bring them together."
 past-performances:
 - title: Northanger Abbey
   image: "/images/NA_1600x1000.jpg"
