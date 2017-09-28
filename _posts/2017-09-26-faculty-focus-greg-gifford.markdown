@@ -23,9 +23,7 @@ Now, as Prof. Gifford sits at his new desk in the School of Biblical Studies at 
 
 > I would do it again. I would make that choice again,” he said with no hesitation and a smile on his face. “I have two boys and I am encouraging them to consider military service.
 
-## For Gifford there were strategic moments in his life that helped answer that pervasive question. 
-
-***
+For Gifford there were strategic moments in his life that helped answer that pervasive question. 
 
 After his assignment to a year in Kuwait and then three weeks acclimating to this idea—which included many tears and much prayer—one of his peers (also a signal officer) came up to him and said, “Hey Gifford, I don’t want to go to Korea, I don’t want to go to Kuwait, but either way I’m going to spend one year somewhere unaccompanied. If you went to Korea, you could apply to bring your wife with you. Want to swap?” 
 
@@ -33,7 +31,9 @@ Months later, the Giffords began their two-year deployment in South Korea. “Fo
 
 As a captain, he was in charge of six people, including two foreign nationals. As a signal officer, he was responsible for fixing all the technology on the base by the border of North Korea. **“I’m totally immersed in a foreign country, environment, with predominantly unbelievers and now I’m expected to be the subject matter expert on all things technological,”** Gifford said. “I didn’t grow up speaking code; I wasn’t in geek squad, so all the technical stuff was very new to me. I was overwhelmed.” 
 
-## During his time in South Korea, he knew he “wanted to still pursue ministry,” and the question loomed again: “Did I make the right choice?”
+During his time in South Korea, he knew he “wanted to still pursue ministry,” and the question loomed again: 
+
+## “Did I make the right choice?”
 
 At Camp Bonifas there was no church, no chaplain, no Bible study. So, he started a study on his own in an old church on the base. The three or four guys that came “were professing believers and knew they should be doing the right thing and needed accountability in a foreign country.” Because of that he became the chaplain assistant, “the point guy” on all things religious.
 
@@ -43,9 +43,9 @@ To continue his career in the military he would have to go through a 6-to-9-mont
 
 In the mess hall, Gifford told his commander of his plans: church planting in Hawaii, but nothing was coming to fruition. His commander, a Christian, said, “Greg, Hawaii will always be there. What you need to do is go back to school.” 
 
-“I wanted to be trained to how to use my Bible effectively to minister to people, and I was reading the book [‘How to Counsel Biblically,’](http://https://www.amazon.com/Counseling-Counsel-Biblically-MacArthur-Pastors/dp/1418500054)published by The Master’s University faculty, and that’s where Master’s came into the picture,” Gifford explained. 
+“I wanted to be trained to how to use my Bible effectively to minister to people, and I was reading the book [‘How to Counsel Biblically,’](http://https://www.amazon.com/Counseling-Counsel-Biblically-MacArthur-Pastors/dp/1418500054) published by The Master’s University faculty, and that’s where Master’s came into the picture,” Gifford explained. 
 
-## “It came down to Westminster in Philadelphia, Southern Seminary in Louisville, and Master’s. But Master’s tipped the scale for me because I knew they are the leaders of the (Biblical Counseling) movement." 
+### “It came down to Westminster in Philadelphia, Southern Seminary in Louisville, and Master’s. But Master’s tipped the scale for me because I knew they are the leaders of the (Biblical Counseling) movement." 
 
 He graduated in 2013 from TMU with a Master of Arts in Biblical Counseling and moved back to the south to work at a church and a counseling center in South Carolina. While he was there, “I thought it would be wise to (continue to) use my G.I. Bill before it expired on me. My boss agreed to give me the time to study and pursue classes and I began to pursue my Ph.D. out there.” 
 
