@@ -6,6 +6,8 @@ catergory: Faculty Spotlight
 sm-image: "/uploads/GREGGIFFORD.jpg"
 ---
 
+![GREGGIFFORD.jpg](/uploads/GREGGIFFORD.jpg)
+
 **Greg Gifford**, after graduating from Baptist Bible College in Springfield, Mo. in 2008 with a B.A. in Bible and Pastoral Ministry, watched his friends pack up and spread across the nation to go into ministry (something Gifford had wanted to do for years). However, Gifford was packing up for something far different: Fort Jackson in Columbia, S.C. 
 
 Basic training for the United States Army meant saying goodbye to Amber, his high school sweetheart and wife of three years, and welcoming a question that would haunt him: “Did I make the right decision?”
