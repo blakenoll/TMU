@@ -159,10 +159,9 @@ bottom-tab:
 
     When applying, students will sign a medical release, giving permission to the faculty to select a physician, to hospitalize, to secure proper treatment, to order injections, anesthesia, or surgery for the student in case of an emergency.
 
-
     ### Safety Policies
 
-    Students should be aware that the faculty of TMU in Italy are responsible for the students’ safety and will do everything they can to ensure everyone’s safety. Students should also be prepared to foster a culture of safety. Please refer to the Student Handbook \[Coming Soon\] for more student and faculty responsibility. Students also will sign a Memorandum of Understanding which says the student will adhere to, among other things, safe conduct.
+    Students should be aware that the faculty of TMU in Italy are responsible for the students’ safety and will do everything they can to ensure everyone’s safety. Students should also be prepared to foster a culture of safety. Please refer to the [Student Handbook](/handbook) for more student and faculty responsibilities. Students also will sign a Memorandum of Understanding which says the student will adhere to, among other things, safe conduct.
 
     Students should be aware Italy is an actual place that people live in. Certain things may seem strange and difficult to an American because of cultural differences. Because the program is also an immersive cultural experience, students are expected to show a certain amount of flexibility and a strong sense of personal responsibility. Prior to the start of the program, students will be brief on travel and safety procedures, which will help them navigate through the normal challenges of international travel.
 layout: italy
