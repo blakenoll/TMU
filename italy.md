@@ -152,29 +152,19 @@ bottom-tab:
 
     *Throughout the Italy program students will be exposed to many forms of art, including representations of the human form. Sometimes, this includes nudity. We understand that in humans’ fallen state, nudity is shameful and can sear a Christian’s conscience. We don’t want to hurt any student’s conscience and if a student thinks he or she will be tempted by the nudity represented in the art all over Italy, then the student should not participate in TMU in Italy. If the student is not sure, the student can meet with Professor Chua and Horner.*
 - title: Health and Safety Policies
-  body: "### Health Policies\n\nAccording to the TMU in Italy Application, students
-    will mark certain medical conditions on the Application. Certain conditions, as
-    guided by the Application, will require the student to consult with their physician
-    as to the feasibility of participation. Those applicants who identify such conditions
-    are required to provide a medical clearance (a doctor's written permission) as
-    a prerequisite to participation in the TMU in Italy program. The TMU in Italy
-    program is physically demanding and may exacerbate pre-existing medical conditions.\n\nWhen
-    applying, students will sign a medical release, giving permission to the faculty
-    to select a physician, to hospitalize, to secure proper treatment, to order injections,
-    anesthesia, or surgery for the student in case of an emergency.\n\n### \n\n###
-    Safety Policies\n\nStudents should be aware that the faculty of TMU in Italy are
-    responsible for the students’ safety and will do everything they can to ensure
-    everyone’s safety. Students should also be prepared to foster a culture of safety.
-    Please refer to the Student Handbook \\[Coming Soon\\] for more student and faculty
-    responsibility. Students also will sign a Memorandum of Understanding which says
-    the student will adhere to, among other things, safe conduct.\n\nStudents should
-    be aware Italy is an actual place that people live in. Certain things may seem
-    strange and difficult to an American because of cultural differences. Because
-    the program is also an immersive cultural experience, students are expected to
-    show a certain amount of flexibility and a strong sense of personal responsibility.
-    Prior to the start of the program, students will be brief on travel and safety
-    procedures, which will help them navigate through the normal challenges of international
-    travel."
+  body: |-
+    ### Health Policies
+
+    According to the TMU in Italy Application, students will mark certain medical conditions on the Application. Certain conditions, as guided by the Application, will require the student to consult with their physician as to the feasibility of participation. Those applicants who identify such conditions are required to provide a medical clearance (a doctor's written permission) as a prerequisite to participation in the TMU in Italy program. The TMU in Italy program is physically demanding and may exacerbate pre-existing medical conditions.
+
+    When applying, students will sign a medical release, giving permission to the faculty to select a physician, to hospitalize, to secure proper treatment, to order injections, anesthesia, or surgery for the student in case of an emergency.
+
+
+    ### Safety Policies
+
+    Students should be aware that the faculty of TMU in Italy are responsible for the students’ safety and will do everything they can to ensure everyone’s safety. Students should also be prepared to foster a culture of safety. Please refer to the Student Handbook \[Coming Soon\] for more student and faculty responsibility. Students also will sign a Memorandum of Understanding which says the student will adhere to, among other things, safe conduct.
+
+    Students should be aware Italy is an actual place that people live in. Certain things may seem strange and difficult to an American because of cultural differences. Because the program is also an immersive cultural experience, students are expected to show a certain amount of flexibility and a strong sense of personal responsibility. Prior to the start of the program, students will be brief on travel and safety procedures, which will help them navigate through the normal challenges of international travel.
 layout: italy
 ---
 
