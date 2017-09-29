@@ -80,4 +80,23 @@ layout: default
       <a class="btn tbn-navy" href="https://masters.formstack.com/forms/tmu_italy_spiritual_mentor_recommendation">Mentor Form</a>
     </div>
   </div>
-</div>
+  <div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        {% for tab in page.bottom-tab %}
+        <li class="tab"><a href="#{{tab.title | remove: " "}}">{{tab.title}}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% for tab in page.bottom-tab %}
+    <div id="{{tab.title| remove: " "}}" class="col s12 card-content">{{tab.body | markdownify}}</div>
+    {% endfor %}
+  </div>
+
+  </div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  $('ul.tabs').tabs();
+});
+</script>
