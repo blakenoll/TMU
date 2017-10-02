@@ -1,10 +1,11 @@
 ---
 title: Matt Green
 date: 2017-05-02 17:50:00 Z
-job-title: Assistant Professor of Communication
+job-title: Associate Professor of Communication
 department: Communication
 degrees:
 - 'B.A., The  Master''s University '
+- M.A., Liberty University
 email: communications@masters.edu
 ---
 
