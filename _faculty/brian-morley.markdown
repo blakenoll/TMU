@@ -1,5 +1,5 @@
 ---
-title: Brian Morely
+title: Brian Morley
 date: 2017-05-02 17:27:00 Z
 job-title: Professor of Philosophy and Apologetics
 department: Bible
