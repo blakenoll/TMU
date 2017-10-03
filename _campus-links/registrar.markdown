@@ -1000,6 +1000,10 @@ transcript-body: |-
   <p><strong>\*Update: Effective June 30, 2017 (Friday), The Registrar's Office will be implementing the use of Parchment for online ordering and electronic delivery. The Master's University and Seminary students will have the option to order transcripts with mail delivery, eTranscript, and/or campus pick-up.</strong></p>
   <p><strong>\*\*The Master's University students applying to The Master's Seminary do not need to order an official transcript. Please contact TMS for assistance. Separate orders are no longer required for those attending both TMU and TMS and only one fee will be charged per order. </strong></p>
   <p>Academic transcripts are maintained for every student ever in attendance at The Master's University, The Master's Institute, The Master's Seminary, Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. Transcripts will not be released unless all financial obligations to the University or Seminary have been met. It is the student's responsibility to clear all holds on his/her account before ordering a transcript. If you have questions regarding a STOP, please contact the Student Accounts Office at <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a> or call (661) 362-2212.  </p>
+
+  <h2><strong><br />How to Order Transcripts </strong></h2>
+
+  <a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a>
   <p><span> <br /> </span></p>
   <h2><strong><span>Processing time</span></strong></h2>
   <p><span>Please allow 3-5 business days for processing. Rush processing is available for $10 in addition to transcript fee and is processed within 2 business days. Processing time may be delayed at the beginning and end of the semester. Thank you for your patience! <br /> <br /> </span></p>
@@ -1045,9 +1049,6 @@ transcript-body: |-
   <h2><strong>Special Circumstances</strong></h2>
   <p><span>For <strong>scholarship or TMU staff/faculty</strong>, no transcript fees for First Class mail delivery or campus pick-up. Email delivery is $4 and an account must be created. </span></p>
   <p><strong>First Class mail delivery</strong>: please complete and email/mail/fax the <a href="/uploads/Transcript%20Request%20Form%20Draft%209.19.19.docx" target="_blank"><span style="text-decoration: underline;">Transcript Request Form</span></a> below to the Office of the Registrar.<br /><strong>Email Delivery: </strong>Please <span style="text-decoration: underline;"><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services">click here</a></span> and create an account. Once you have created an account under Step 1, do not proceed to Step 2. Contact the Office of the Registrar at (661)362-2813 and/or registrar@masters.edu to complete the process. </p>
-  <h2><strong><br />How to Order Transcripts </strong></h2>
-
-  <a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a>
 
   <h2><strong>Frequently Asked Questions </strong></h2>
   <p><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank">Please click here<br /></a></strong><strong> </strong><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank"><br /></a></strong></p>
