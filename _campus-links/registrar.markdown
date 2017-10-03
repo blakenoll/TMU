@@ -1045,20 +1045,19 @@ transcript-body: |-
   <p> </p>
   <h3><strong>Diploma Replacement</strong></h3>
   <p><a href="http://www.masters.edu/media/868032/diploma-request-form.pdf" target="_blank"><strong>Diploma Request Form</strong></a><strong> $10</strong></p>
-  <p> </p>
 
   <ul class="collapsible" data-collapsible="accordion">
       <li>
-        <div class="collapsible-header">Scholarship or TMU Staff/Faculty Only</div>
+        <div class="collapsible-header"><h3>Scholarship or TMU Staff/Faculty Only</h3></div>
         <div class="collapsible-body"><span>
 
-  <p>Step 1: <a href="/uploads/Transcript%20Request%20Form%20%209.19.19.pdf">Click Here</a> and complete form</p>
+  <p>Step 1: <a href="/uploads/Transcript%20Request%20Form%20%209.19.19.pdf" target="_blank">Click Here</a> and complete form</p>
 
   <p>Step 2: Email/Mail/Fax form to the Office of the Registrar</p>
 
   <p>Step 3: Call the Registrar’s Office at 661-362-2813 to provide payment information</p>
 
-  <p>Step 4: Optional: For electronic delivery <a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3">Click Here</a>. Create an account under Step 1, do not proceed to Step 2. To complete the process contact the Office of the Registrar at (661)362-2813 or at <a href="mailto:registrar@masters.edu">registrar@masters.edu</a>.</p>
+  <p>Step 4: Optional: For electronic delivery <a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank">Click Here</a>. Create an account under Step 1, do not proceed to Step 2. To complete the process contact the Office of the Registrar at (661)362-2813 or at <a href="mailto:registrar@masters.edu">registrar@masters.edu</a>.</p>
 
   </span></div>
       </li>
