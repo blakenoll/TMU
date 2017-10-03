@@ -1046,9 +1046,25 @@ transcript-body: |-
   <h3><strong>Diploma Replacement</strong></h3>
   <p><a href="http://www.masters.edu/media/868032/diploma-request-form.pdf" target="_blank"><strong>Diploma Request Form</strong></a><strong> $10</strong></p>
   <p> </p>
-  <h2><strong>Special Circumstances</strong></h2>
-  <p><span>For <strong>scholarship or TMU staff/faculty</strong>, no transcript fees for First Class mail delivery or campus pick-up. Email delivery is $4 and an account must be created. </span></p>
-  <p><strong>First Class mail delivery</strong>: please complete and email/mail/fax the <a href="/uploads/Transcript%20Request%20Form%20Draft%209.19.19.docx" target="_blank"><span style="text-decoration: underline;">Transcript Request Form</span></a> below to the Office of the Registrar.<br /><strong>Email Delivery: </strong>Please <span style="text-decoration: underline;"><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services">click here</a></span> and create an account. Once you have created an account under Step 1, do not proceed to Step 2. Contact the Office of the Registrar at (661)362-2813 and/or registrar@masters.edu to complete the process. </p>
+
+  <ul class="collapsible" data-collapsible="accordion">
+      <li>
+        <div class="collapsible-header">Scholarship or TMU Staff/Faculty Only</div>
+        <div class="collapsible-body"><span>
+
+  <p>Step 1: <a href="">Click Here</a> and complete form</p>
+
+  <p>Step 2: Email/Mail/Fax form to the Office of the Registrar</p>
+
+  <p>Step 3: Call the Registrar’s Office at 661-362-2813 to provide payment information</p>
+
+  <p>Step 4: Optional: For electronic delivery [Click Here](https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3). Create an account under Step 1, do not proceed to Step 2. To complete the process contact the Office of the Registrar at (661)362-2813 or at [registrar@masters.edu](mailto:registrar@masters.edu).</p>
+
+  </span></div>
+      </li>
+    </ul>
+
+
 
   <h2><strong>Frequently Asked Questions </strong></h2>
   <p><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank">Please click here<br /></a></strong><strong> </strong><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank"><br /></a></strong></p>
