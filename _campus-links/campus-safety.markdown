@@ -40,7 +40,7 @@ preparedness-body: |-
 
   * Guard Shack: (661) 362-2500
 code-manual-body: |-
-  [Campus Safety Codes](http://www.masters.edu/media/870173/campus-safety-codes_aug-2017.pdf "Campus Safety Codes_Aug 2017.pdf (1)")
+  [Campus Safety Codes](/campussafetycodes)
 
   It is important that each member of the campus community prioritize the safety of others on the campus. The Campus Safety Codes (aka the "Vehicle Code") and updates contain the parking rules, vehicle codes, and general safety regulations for faculty, staff, students and guests at TMU. In order to assist you with complying with our regulations, we offer you the following highlights (please ensure you review the actual codes in each of these areas to ensure full compliance):
 
