@@ -39,9 +39,9 @@ constitution-body: "The Master’s University celebrates Constitution Day every 
 student-outcomes-body: |-
   Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information.
 
-  ### [Retention Rates](http://www.masters.edu/media/866440/ipeds-tmcs-institution-profile-2013-14.pdf "2015 Student Outcomes Grad and Retention")
+  ### [Retention Rates](/media/870443/ipeds-tmus-institution-profile-2016-17.pdf)
 
-  ### [Graduation Rates](http://www.masters.edu/media/866440/ipeds-tmcs-institution-profile-2013-14.pdf "2015 Student Outcomes Grad and Retention")
+  ### [Graduation Rates](/media/870443/ipeds-tmus-institution-profile-2016-17.pdf)
 financial-assistance-body: |-
   Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information. Certain links on this site are password protected. If you require access to password protected links please request username and passwords from your departments Vice President.
 
@@ -65,7 +65,7 @@ institutional-info-body: |-
 
   Copyright Infringement – Policies and Sanction
 
-  [TMU](http://www.masters.edu/media/690524/Copyright_Policy_5.pdf "TMU copyright")
+  [TMU](/media/870442/tmu-copyright.pdf)
 
   [TMS](http://www.masters.edu/media/691120/copyright.pdf "TMS copyright")
 
