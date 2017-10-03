@@ -1001,8 +1001,6 @@ transcript-body: |-
   <p><strong>\*\*The Master's University students applying to The Master's Seminary do not need to order an official transcript. Please contact TMS for assistance. Separate orders are no longer required for those attending both TMU and TMS and only one fee will be charged per order. </strong></p>
   <p>Academic transcripts are maintained for every student ever in attendance at The Master's University, The Master's Institute, The Master's Seminary, Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. Transcripts will not be released unless all financial obligations to the University or Seminary have been met. It is the student's responsibility to clear all holds on his/her account before ordering a transcript. If you have questions regarding a STOP, please contact the Student Accounts Office at <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a> or call (661) 362-2212.  </p>
 
-  <h2><strong><br />How to Order Transcripts </strong></h2>
-
   <a href="https://www.youtube.com/watch?v=_QtJ0uny2SA&feature=youtu.be" target="_blank"><strong>Watch Video Tutorial: Order Transcripts Step-by-Step Guide</strong></a>
   <p><span> <br /> </span></p>
   <h2><strong><span>Processing time</span></strong></h2>
@@ -1043,13 +1041,11 @@ transcript-body: |-
   <p>Current students may obtain their unofficial transcript by logging onto <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">Self-Service</a>. If you are a former student/alumni and have a <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">TMU Login</a> or <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">Self-Service</a> account but do not remember your username and password, please contact IT Service Desk for assistance at servicedesk@masters.edu and/or (661)362-2876. Online unofficial transcripts are not available for students who attended prior 2000, you may request unofficial transcripts by filling out the form below. </p>
   <p><a href="/media/455937/unofficial-diploma-request-82217.pdf" target="_blank"><strong>Unofficial Transcript Request Form</strong></a><strong> (no charge) </strong></p>
   <p> </p>
-  <h3><strong>Diploma Replacement</strong></h3>
-  <p><a href="http://www.masters.edu/media/868032/diploma-request-form.pdf" target="_blank"><strong>Diploma Request Form</strong></a><strong> $10</strong></p>
 
   <ul class="collapsible" data-collapsible="accordion">
-      <li>
-        <div class="collapsible-header"><h3>Scholarship or TMU Staff/Faculty Only</h3></div>
-        <div class="collapsible-body"><span>
+  <li>
+  <div class="collapsible-header"><h3>Scholarship or TMU Staff/Faculty Only</h3></div>
+  <div class="collapsible-body"><span>
 
   <p>Step 1: <a href="/uploads/Transcript%20Request%20Form%20%209.19.19.pdf" target="_blank">Click Here</a> and complete form</p>
 
@@ -1060,10 +1056,10 @@ transcript-body: |-
   <p>Step 4: Optional: For electronic delivery <a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank">Click Here</a>. Create an account under Step 1, do not proceed to Step 2. To complete the process contact the Office of the Registrar at (661)362-2813 or at <a href="mailto:registrar@masters.edu">registrar@masters.edu</a>.</p>
 
   </span></div>
-      </li>
-    </ul>
-
-
+  </li>
+  </ul>
+  <h3><strong>Diploma Replacement</strong></h3>
+  <p><a href="http://www.masters.edu/media/868032/diploma-request-form.pdf" target="_blank"><strong>Diploma Request Form</strong></a><strong> $10</strong></p>
 
   <h2><strong>Frequently Asked Questions </strong></h2>
   <p><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank">Please click here<br /></a></strong><strong> </strong><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank"><br /></a></strong></p>
