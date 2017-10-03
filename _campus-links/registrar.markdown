@@ -1040,11 +1040,10 @@ transcript-body: |-
   <h3><strong>Unofficial Transcript </strong></h3>
   <p>Current students may obtain their unofficial transcript by logging onto <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">Self-Service</a>. If you are a former student/alumni and have a <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">TMU Login</a> or <a href="https://portal.masters.edu/SelfService/Home.aspx" target="_blank">Self-Service</a> account but do not remember your username and password, please contact IT Service Desk for assistance at servicedesk@masters.edu and/or (661)362-2876. Online unofficial transcripts are not available for students who attended prior 2000, you may request unofficial transcripts by filling out the form below. </p>
   <p><a href="/media/455937/unofficial-diploma-request-82217.pdf" target="_blank"><strong>Unofficial Transcript Request Form</strong></a><strong> (no charge) </strong></p>
-  <p> </p>
 
   <ul class="collapsible" data-collapsible="accordion">
   <li>
-  <div class="collapsible-header"><h3>Scholarship or TMU Staff/Faculty Only</h3></div>
+  <div class="collapsible-header"><h4>Scholarship or TMU Staff/Faculty Only</h4></div>
   <div class="collapsible-body"><span>
 
   <p>Step 1: <a href="/uploads/Transcript%20Request%20Form%20%209.19.19.pdf" target="_blank">Click Here</a> and complete form</p>
