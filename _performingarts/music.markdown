@@ -372,18 +372,21 @@ music-orders:
   - When David Heard
   - Soon-Ah Will Be Done
 upcoming-events:
-- title: Songs from the Heart" Piano Concert
-  date: 2017-09-08 00:00:00 Z
-  description: featuring Dr. Ken Mays and TMU Alumni
-- title: Music Career Meeting with Stephanie Beals
-  date: 2017-09-12 00:00:00 Z
-  description: Time Management
-- title: Guest Recital with Armen Anassian, violin
-  date: 2017-09-21 00:00:00 Z
-  description: " Los Angeles Opera Orchestra"
-- title: Guest Recital with Armen Anassian, violin
-  date: 2017-10-12 00:00:00 Z
-  description: Los Angeles Opera Orchestra
+- title: "Alumni Dinner Theatre\t“Over the River & Through the Woods”"
+  date: 2017-10-19 00:00:00 Z
+  description: 
+- title: Fall Theatre Production “Over the River & Through the Woods”
+  date: 2017-10-20 00:00:00 Z
+  description: 
+- title: Fall Theatre Production “Over the River & Through the Woods”
+  date: 2017-10-21 00:00:00 Z
+  description: 
+- title: Chamber Ensembles Concert
+  date: 2017-11-02 00:00:00 Z
+  description: 
+- title: BellFest
+  date: 2017-11-04 00:00:00 Z
+  description: 
 layout: pamusic
 ---
 
