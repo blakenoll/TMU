@@ -5,6 +5,16 @@ image: "/images/Dorm_Dixon.png"
 ra:
 - name: Abigail Tarr
   title: Resident  Director
+  body-text: |-
+    Abbey Tarr is originally from South Florida but graduated from Liberty University in 2016. She graduated with a B.S. degree in Music and Worship. She hopes to one day take part in the music ministry of a church. Her husband, Dan, is in his second year at the Master’s Seminary and so she also has hopes of one day being a Pastor’s wife. Abbey is excited to be a resident director this year as she has a love for discipleship and wants to continue to grow in the knowledge of Scripture and relationship.
+
+    Favorite Verse:
+
+    1 Thessalonians 2:8. “So, being affectionately desirous of you, we were ready to share with you not only the gospel of God but also our own selves, because you had become very dear to us.”
+
+    Favorite things to do:
+
+    Abbey loves the outdoors—no matter what that entails. She loves to play volleyball at the beach, go for long walks, recreational sports, or eating ice cream while watching the sunset. She also loves to sing and to worship God through music. She loves spending time with family, especially her husband. Their favorite hobby to do together is to play soccer as it reminds them of how they met.
 banner-img: "/images/Dixon_Banner.jpg"
 ---
 
