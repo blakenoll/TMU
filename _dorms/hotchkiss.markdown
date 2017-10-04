@@ -5,7 +5,18 @@ image: "/images/Dorm_Hotchkiss.png"
 ra:
 - name: Andrew Copley
   title: Men's Resident Director
-  body-text: 
+  body-text: |-
+    Andrew is from Spokane, Washington. He and his wife, Carly, moved to Los Angeles in 2016 to be trained for ministry at the Master’s Seminary. Andrew and Carly have a passion for missions, teaching, and discipleship. In the future, they would like to minister to unreached people groups. Andrew graduated from Eastern Washington University in 2014 with a BA in Spanish Literature and in 2016 with an MA in English. Carly is currently working on a BA in Biblical Counseling. Andrew is looking forward to ministry at TMU, and has already loved getting to know his students in Hotchkiss Hall.
+
+    ### Fast Facts:
+
+    ### A Favorite Scripture Passage: Romans 8:29
+
+    “For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers.”
+
+    ### Some Favorite Things:
+
+    Andres loves spending time with his wife! They enjoy going on hikes, reading the classics, and finding new coffee shops. Andrew enjoys biking, unicycling, sports, anything outside, and anything with people.
 - name: Jessica Rosenbaum
   title: Women's Resident Director
   body-text: |-
