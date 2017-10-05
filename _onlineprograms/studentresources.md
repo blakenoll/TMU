@@ -100,20 +100,13 @@ policies-body: |-
   <p>Drops:</p>\
   <p>The student is responsible for submitting the add/drop form to their advisor. The add/drop will be effective based on the time-stamp of the email received by their advisor. <span>The add/drop will be effective based on the time-stamp of when the add/drop</span><span> from is submitted.</span></p>\
   <p> </p>
-textbooks-body: |-
-  [General Education (GE Booklist)](/media/870447/ge-booklist1002.pdf)
-
-  [Biblical Counseling (BA-BC Booklist)](http://www.masters.edu/media/870446/ba-bc-booklist_1002.pdf)
-
-  [Biblical Studies (BA-BS Booklist)](http://www.masters.edu/media/870449/ba-bs-booklist1002.pdf)
-
-  [Christian Ministries (BA-CM Booklist)](http://www.masters.edu/media/870445/ba-cm-booklist.pdf)
-
-  [Organizational Management (BA-OM Booklist)](https://athletics.masters.edu/media/870448/ba-om-booklist1002.pdf)
-
-  [Master of Arts, Biblical Studies (MABS Booklist)](http://www.masters.edu/media/869677/mabs-booklist-32317.pdf)
-
-  [Master of Business Administration (MBA Booklist)](https://athletics.masters.edu/media/870451/mba-booklist1002.pdf)
+textbooks-body: "### General Education\n\n[(GE Booklist)](/media/870447/ge-booklist1002.pdf)\n\n###
+  Biblical Counseling\n\n[(BA-BC Booklist)](http://www.masters.edu/media/870446/ba-bc-booklist_1002.pdf)\n\n###
+  Biblical Studies\n\n[(BA-BS Booklist)](http://www.masters.edu/media/870449/ba-bs-booklist1002.pdf)\n\n###
+  Christian Ministries\n\n[(BA-CM Booklist)](http://www.masters.edu/media/870445/ba-cm-booklist.pdf)\n\n###
+  Organizational Management \n\n[(BA-OM Booklist)](https://athletics.masters.edu/media/870448/ba-om-booklist1002.pdf)\n\n###
+  Masters of Arts, Biblical Studies\n\n[(MABS Booklist)](http://www.masters.edu/media/869677/mabs-booklist-32317.pdf)\n\n###
+  Master of Business Administration \n\n[(MBA Booklist)](https://athletics.masters.edu/media/870451/mba-booklist1002.pdf)"
 register-body: |-
   Taking Courses for Credit
 
