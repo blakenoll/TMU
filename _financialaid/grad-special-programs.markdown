@@ -4,12 +4,12 @@ date: 2017-04-10 19:05:00 Z
 sm-image: "/uploads/AdmissionFinAid_GradSpecialPrograms.png"
 master-of-arts-body: |-
   <h2 style="text-align: center;">Master of Arts Financial Aid</h2>
-  <p><img src="http://www2.masters.edu/w/GetHostedFile.ashx?Grad.jpg&amp;Id=653" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+  <p><img src="http://www2.masters.edu/w/GetHostedFile.ashx?Grad.jpg&Id=653" style="display: block; margin-left: auto; margin-right: auto;" /></p>
   <p style="text-align: center;"><i>Master of Biblical Counseling and Master of Biblical Studies</i></p>
   <p> </p>
   <h3>Application Process for Students Receiving Loans</h3>
   <p style="padding-left: 30px;">1. Complete a <a href="/media/868281/graduate-financial-aid-application.pdf" target="_blank" title="Graduate Financial Aid Application">Master of Arts Financial Aid Application.</a></p>
-  <p style="padding-left: 30px;">2. Fill out the <a href="http://www.fafsa.ed.gov/" target="blank">FAFSA</a> (Free Application for Federal Student Aid) listing The Master's University &amp; Seminary as your preferred school choice (Title IV school code: 001220).</p>
+  <p style="padding-left: 30px;">2. Fill out the <a href="http://www.fafsa.ed.gov/" target="blank">FAFSA</a> (Free Application for Federal Student Aid) listing The Master's University & Seminary as your preferred school choice (Title IV school code: 001220).</p>
   <p style="padding-left: 30px;">3. Submit any additional documents required by the Office of Financial Aid.</p>
   <p style="padding-left: 30px;">4. Submit official transcripts to the Registrar's office. <i>Any student receiving graduate level loans must have an undergraduated degree conferred.</i></p>
   <p style="padding-left: 30px;">5. Once your aid is determined, you will be sent an Award Letter.</p>
@@ -167,7 +167,7 @@ master-of-arts-body: |-
   <tr>
   <td width="33%" align="left"><a href="http://www.fafsa.ed.gov/" target="blank"><img src="http://www2.masters.edu/admissions/downloads/FAFSA.gif" border="0" /></a></td>
   <td width="33%" align="center"><a href="http://www.calgrants.org/" target="blank"><img src="http://www2.masters.edu/images/mjjohnson/11-1-2006/Photos/CSAC1.JPG" border="0" /></a></td>
-  <td width="33%" align="center"><a href="http://www.masters.edu/undergrad/apply/downloads/" target="_blank"><img alt="" src="/media/867802/download-forms.png?width=185px&amp;height=105px" rel="37984" style="width: 185px; height: 105px;" /></a></td>
+  <td width="33%" align="center"><a href="/financial-aid/printable-forms" target="_blank"><img alt="" src="/media/867802/download-forms.png?width=185px&height=105px" rel="37984" style="width: 185px; height: 105px;" /></a></td>
   </tr>
   </tbody>
   </table>
