@@ -26,7 +26,7 @@ about-body: |-
 
   ### Textbooks
 
-  [Click here](/media/869750/ba-bs-booklist-32917.pdf) to view the Textbooks for all Online Biblical Studies courses.
+  [Click here](/media/870449/ba-bs-booklist1002.pdf) to view the Textbooks for all Online Biblical Studies courses.
 major-requirments-body: |-
   ### Bible General
 
