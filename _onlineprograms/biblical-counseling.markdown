@@ -27,7 +27,7 @@ about-body: |-
 
   ---
 
-  [Click here](/media/868239/ba-biblical-counseling-olp-tmu.pdf) to print a summary of the degree requirements for BA in Biblical Counseling.
+  [Click here](/media/870446/ba-bc-booklist_1002.pdf) to print a summary of the degree requirements for BA in Biblical Counseling.
 
   ### Admission Requirements
 
