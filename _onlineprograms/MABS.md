@@ -226,7 +226,7 @@ parallax-img: "/images/Parallax8.jpg"
 </ol>
 <h2>Textbooks</h2>
 <p><a href="/media/869265/mabs.pdf" title="MABS.pdf (2)"> </a><strong><a href="/media/869677/mabs-booklist-32317.pdf" title="MABS Booklist 3.23.17.pdf">Click here</a> to view the Textbooks for all Online MABS courses.</strong></p>
-<p>To Purchase Your Textbooks: The following link will connect you to the <span style="background-color: #ffffff;">Master's University Bookstore</span><a style="background-color: #ffffff;" href="http://www.cbamatthews.com/masterscoll/buy_main.asp"> </a>where you can check out pricing to buy, rent, and order your texts from the convenience of your home. </p>
+<p>To Purchase Your Textbooks: The following link will connect you to the <span style="background-color: #ffffff;">Master's University Bookstore</span><a style="background-color: #ffffff;" href="[/media/870450/mabs-booklist_10022017.pdf](https://athletics.masters.edu/media/870450/mabs-booklist_10022017.pdf)"> </a>where you can check out pricing to buy, rent, and order your texts from the convenience of your home. </p>
 <h2>Program Entrance Requirements</h2>
 <p>In order to be admitted to TMU’s online MABS program an individual must have completed as bachelor’s degree at an accredited college or university. In addition, prior to beginning MABS coursework, the student must have a strong foundational understanding of the Bible and Theology.  This can be demonstrated through either of the following: </p>
 <ul>
