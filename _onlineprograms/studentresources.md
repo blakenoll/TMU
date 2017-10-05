@@ -100,8 +100,20 @@ policies-body: |-
   <p>Drops:</p>\
   <p>The student is responsible for submitting the add/drop form to their advisor. The add/drop will be effective based on the time-stamp of the email received by their advisor. <span>The add/drop will be effective based on the time-stamp of when the add/drop</span><span> from is submitted.</span></p>\
   <p> </p>
-forms-body: '**[Add Drop Form](http://www.masters.edu/academics/online/add-drop-form/
-  "Add Drop Form")**'
+textbooks-body: |-
+  General Education (GE Booklist)
+
+  Biblical Counseling (BA-BC Booklist)
+
+  Biblical Studies (BA-BS Booklist)
+
+  Christian Ministries (BA-CM Booklist)
+
+  Organizational Management (BA-OM Booklist)
+
+  Master of Arts, Biblical Studies (MABS Booklist)
+
+  Master of Business Administration (MBA Booklist)
 register-body: |-
   Taking Courses for Credit
 
