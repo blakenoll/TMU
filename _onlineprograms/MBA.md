@@ -19,7 +19,7 @@ program-outline-text: |-
 
   ## Textbooks
 
-  [Click here](http://www.masters.edu/media/869674/mba-booklist-32317.pdf "MBA Booklist 3.23.17.pdf") to view the Textbooks for all Online MBA courses.
+  [Click here](https://athletics.masters.edu/media/870451/mba-booklist1002.pdf) to view the Textbooks for all Online MBA courses.
 
   To Order Textbooks: The following link will connect you to the Master's University Bookstorewhere you can check out pricing to buy, rent, and order your texts from the convenience of your home.
 
