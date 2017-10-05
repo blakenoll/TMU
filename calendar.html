@@ -12,14 +12,18 @@ $(document).ready(function() {
       header: {
 				left: 'prev,next today',
 				center: 'title',
-				right: 'listDay,listWeek,month'
+				right: 'listDay,listWeek,month,listMonth'
 			},
+      defaultView: 'listMonth',
+      height: "auto",
+      contentHeight: "auto",
 
 			// customize the button names,
 			// otherwise they'd all just say "list"
 			views: {
 				listDay: { buttonText: 'day' },
-				listWeek: { buttonText: 'week' }
+				listWeek: { buttonText: 'week' },
+        listMonth: {buttonText: 'Lmonth'}
 			},
 
       googleCalendarApiKey: 'AIzaSyDt87P0ZlRrdUVSH9fygbhMkNQ7Un5-jRw',
