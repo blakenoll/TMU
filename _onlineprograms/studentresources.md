@@ -214,7 +214,7 @@ layout: studentresources
 
 **Within the student resource section we aim to share with you valuable information that will guide you through your time as an online student at The Master's University.**
 
-### **Important Contact Information**
+### Important Contact Information
 
 **Student Finance Center**
 
