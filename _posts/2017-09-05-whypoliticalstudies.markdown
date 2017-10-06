@@ -7,6 +7,7 @@ tags:
 - professor article
 - why master's?
 author: Dr. Gregg Frazer
+catergory: Faculty Spotlight
 sm-image: "/uploads/POLITICALSTUDIES.jpg"
 ---
 
