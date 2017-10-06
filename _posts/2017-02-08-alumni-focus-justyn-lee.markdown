@@ -1,6 +1,7 @@
 ---
 title: 'Alumni Focus: Justyn Lee'
 date: 2017-02-08 00:51:00 Z
+catergory: Alumni Focus
 sm-image: http://www.masters.edu/media/869337/justynlee.jpg
 ---
 
