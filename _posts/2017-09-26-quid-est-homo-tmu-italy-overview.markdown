@@ -14,7 +14,7 @@ sm-image: "/uploads/TMUItaly2.jpg"
 
 ***
 
-For six weeks, I and ten other students lived in [Italy through an extension program of The Master’s University](masters.edu/italy). The first three weeks, we lived in the Mugello countryside an hour outside Florence in Villa Montazzi, a house built around a medieval look-out tower. A few days before we arrived, Dr. Horner, his wife Joanne, his daughter Rachel, and Professor Chua, arrived and prepared the Villa. We arrived, tired, to an energetic house, dinner ready. 
+For six weeks, I and ten other students lived in [Italy through an extension program of The Master’s University](http://www.masters.edu/italy). The first three weeks, we lived in the Mugello countryside an hour outside Florence in Villa Montazzi, a house built around a medieval look-out tower. A few days before we arrived, Dr. Horner, his wife Joanne, his daughter Rachel, and Professor Chua, arrived and prepared the Villa. We arrived, tired, to an energetic house, dinner ready. 
 
 The first night made no sense: the dark dining room, candle-lit for lack of modern lighting, all of us silent because we were stuffing our faces full of food, and we hardly knew each other. This became routine at Villa Montazzi, all of us sitting together, feasting on Joanne’s wonderful cooking. These ten other students, my Frater and my Sorores, would become everything to me in those days: family. 
 
