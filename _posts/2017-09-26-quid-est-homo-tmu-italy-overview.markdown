@@ -2,6 +2,7 @@
 title: 'Quid Est Homo: TMU Italy Overview'
 date: 2017-09-26 20:33:00 Z
 author: Keith Brooks, Class of 2018
+catergory: TMU Abroad
 sm-image: "/uploads/TMUItaly2.jpg"
 ---
 
