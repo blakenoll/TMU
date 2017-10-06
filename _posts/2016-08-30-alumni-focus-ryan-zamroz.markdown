@@ -1,6 +1,7 @@
 ---
 title: 'Alumni Focus: Ryan Zamroz'
 date: 2016-08-30 00:16:00 Z
+catergory: Alumni Focus
 sm-image: http://masters.edu/media/868266/alumnifocus-ryan-zamroz-graphic.jpg
 ---
 
