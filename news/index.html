@@ -11,16 +11,16 @@ layout: default
 
 
      <div class="col s12 m12 l2">
-      <div class="card-panel">
+      <div class="card-panel categories">
         <h3>Categories:</h3>
         {% for catergory in site.categories %}
-        <h3><a href="{{ catergory.url | prepend: site.url }}">{{ catergory.title }}</a></h3>
+        <a href="{{ catergory.url | prepend: site.url }}">{{ catergory.title }}</a><br>
         {% endfor %}
       </div>
     </div>
       <div class="col s12 m12 l10">
         {{ paginator.total_posts }}
-        {% for post in site.posts %}
+        {% for post in site.posts limit:40 %}
         <div class="col s12 m6 l4 image">
           <a href="{{ post.url | prepend: site.url }}">
             <div class="card">
