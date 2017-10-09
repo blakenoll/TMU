@@ -83,13 +83,10 @@ layout: mmg
 
 ***"Without the Ministry Matching Grant from my church, I would probably not be at TMU right now. It was receiving this grant that made a TMU education possible for me. My church knew that it was important for me to get a good Christian education, and they also knew that TMU was a place I could not only get my degree, but also grow in my faith. I feel so blessed to be here!"***
 
-**Hannah Dorsey, Teacher Education\
+**Hannah Dorsey, Teacher Education
+
 Glenallen, AK**
 
-* ### **[About the Ministry Matching Grant](https://athletics.masters.edu/undergrad/financial-aid/generalundergraduateprogram/mmgabout.aspx)**
+### **[Ministry Matching Grant Application](https://athletics.masters.edu/media/868515/forms-application-mmg.pdf "Forms- Application- MMG.pdf")**
 
-* ### **[Establishing a Christian College Fund](https://athletics.masters.edu/undergrad/financial-aid/generalundergraduateprogram/mmgestablishingfunds.aspx)**
-
-* ### **[Ministry Matching Grant Application](https://athletics.masters.edu/media/868515/forms-application-mmg.pdf "Forms- Application- MMG.pdf")**
-
-* ### **[Sample Church Scholarship Application](https://athletics.masters.edu/media/804525/Church%20Scholarship%20Application%20Example.pdf)**
+### **[Sample Church Scholarship Application](https://athletics.masters.edu/media/804525/Church%20Scholarship%20Application%20Example.pdf)**
