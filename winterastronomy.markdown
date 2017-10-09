@@ -9,7 +9,7 @@ Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be te
 
 <div class="row">
 
-<div class="col s12 m3 offset-m6 ">
+<div class="col s12 m6 offset-m3 ">
 
 <div class="video-container center">
 
