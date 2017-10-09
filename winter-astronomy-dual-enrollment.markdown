@@ -1,7 +1,7 @@
 ---
 title: Winter Astronomy Dual Enrollment
 date: 2017-10-09 20:16:00 Z
-parallax-img: 
+parallax-img: "/uploads/jeremy-thomas-98201.jpg"
 ---
 
 Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be teaching winterm Astronomy at The Master’s Univeristy this January 2018. Dr. Lisle specializes in solar astrophysics and has made a number of scientific discoveries regarding the solar photosphere, including the detection of giant cell boundaries using the SOHO spacecraft. He has dedicated his life to the communication of the gospel through science, and is focused on equipping others to do the same with his full-time work in apologetics ministry.
