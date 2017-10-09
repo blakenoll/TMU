@@ -1,10 +1,12 @@
 ---
-title: Winter Astronomy Dual Enrollment
+title: Winter Astronomy
 date: 2017-10-09 20:16:00 Z
 parallax-img: "/uploads/jeremy-thomas-98201.jpg"
 ---
 
-Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be teaching winterm Astronomy at The Master’s Univeristy this January 2018. Dr. Lisle specializes in solar astrophysics and has made a number of scientific discoveries regarding the solar photosphere, including the detection of giant cell boundaries using the SOHO spacecraft. He has dedicated his life to the communication of the gospel through science, and is focused on equipping others to do the same with his full-time work in apologetics ministry.
+# Dual Enrollment Students Winter Astronomy
+
+Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be teaching winterim Astronomy at The Master’s University this January 2018. Dr. Lisle specializes in solar astrophysics and has made a number of scientific discoveries regarding the solar photosphere, including the detection of giant cell boundaries using the SOHO spacecraft. He has dedicated his life to the communication of the gospel through science, and is focused on equipping others to do the same with his full-time work in apologetics ministry.
 
 <div class="row">
 
@@ -22,18 +24,16 @@ Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be te
 
 ### **Course Information**
 
-**Astronomy PS 338 Lecture**
+**Astronomy PS 138 Lecture**
 
-* January 3-5 8:30am-1:00pm
+January 3-5 8:30am - 1:00pm
+January 8-10 8:30am - 1:00pm
 
-* January 8-10 8:30am -1:00pm
+**Astronomy PS 138 Lab**
 
-**Astronomy PS 338 Lab**
+January 3-5 7:00pm - 9:00pm
+January 8-9 7:00pm - 9:00pm
 
-* January 3-5 7:00pm-9:00pm
+*Dual Enrollment students will receive an elective credit for this course.*
 
-* January 8-9 7:00pm-9:00pm
-
-Teacher Education/Liberal Studies students will be able to receive credit towards their Astronomy class or lab. Traditional non-teacher ed or non-liberal students will be able to receive credit towards graduation as a general elective.
-
-To enroll in this course, please complete pre-registration on [Self Service](https://portal.masters.edu/SelfService/Home.aspx) and follow the necessary steps to register for the course and/or lab. For questions or more information, please contact the Registrar office at [registar@masters.edu](mailto:registar@masters.edu) or 661.362.8888.
+For any questions or to enroll in this course, please contact TMU Online at tmuonline@masters.edu or 661.362.2780
