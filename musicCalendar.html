@@ -58,12 +58,15 @@ $(document).ready(function() {
           console.log(jsEvent.pageX, jsEvent.pageY)
           $(this).tooltip({
             tooltip: event.title,
-
+          })
+          console.log('translateX('jsEvent.pageX') translateY('jsEvent.pageY')')
+          $('material-tooltip').css( "transform", function() {
+            'translateX(jsEvent.pageX) translateY(jsEvent.pageY)'
           })
         },
 
         // eventMouseout: function(event, jsEvent, view) {
-        //   $(this).tooltip('remove')
+        //   $(this).tooltip('remove');
         // },
 
         eventClick: function(event) {

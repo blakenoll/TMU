@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+{{content}}
+<ul class="collapsible" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header">About</div>
+      <div class="collapsible-body"><span>{{ page.about-body | markdownify }}</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header"></div>
+      <div class="collapsible-body"><span>{{ page.establishing-funds-body | markdownify }}</span></div>
+    </li>
+  </ul>
