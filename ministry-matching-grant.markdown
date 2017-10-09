@@ -75,18 +75,16 @@ establishing-funds-body: |-
 layout: mmg
 ---
 
-**Ministry Matching Grant**
+### An Investment That's Worth It
 
-### **An Investment That's Worth It**
+The Ministry Matching Grant program provides an opportunity for home churches to continue to invest in the lives of students seeking continued spiritual growth and career preparation. Our shared goals for students provide a partnership that will sustain the student during their time at The Master's University through mutual encouragement, support and accountability. Participation in this program is an investment into the lives of students.
 
-**The Ministry Matching Grant program provides an opportunity for home churches to continue to invest in the lives of students seeking continued spiritual growth and career preparation. Our shared goals for students provide a partnership that will sustain the student during their time at The Master's University through mutual encouragement, support and accountability. Participation in this program is an investment into the lives of students.**
+*"Without the Ministry Matching Grant from my church, I would probably not be at TMU right now. It was receiving this grant that made a TMU education possible for me. My church knew that it was important for me to get a good Christian education, and they also knew that TMU was a place I could not only get my degree, but also grow in my faith. I feel so blessed to be here!"*
 
-***"Without the Ministry Matching Grant from my church, I would probably not be at TMU right now. It was receiving this grant that made a TMU education possible for me. My church knew that it was important for me to get a good Christian education, and they also knew that TMU was a place I could not only get my degree, but also grow in my faith. I feel so blessed to be here!"***
+Hannah Dorsey, Teacher Education
 
-**Hannah Dorsey, Teacher Education
+Glenallen, AK\*\*
 
-Glenallen, AK**
+### [Ministry Matching Grant Application](https://athletics.masters.edu/media/868515/forms-application-mmg.pdf "Forms- Application- MMG.pdf")
 
-### **[Ministry Matching Grant Application](https://athletics.masters.edu/media/868515/forms-application-mmg.pdf "Forms- Application- MMG.pdf")**
-
-### **[Sample Church Scholarship Application](https://athletics.masters.edu/media/804525/Church%20Scholarship%20Application%20Example.pdf)**
+### [Sample Church Scholarship Application](https://athletics.masters.edu/media/804525/Church%20Scholarship%20Application%20Example.pdf)
