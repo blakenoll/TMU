@@ -21,7 +21,7 @@ Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be te
 
 </div>
 
-**Course Information**
+### **Course Information**
 
 **Astronomy PS 338 Lecture**
 
