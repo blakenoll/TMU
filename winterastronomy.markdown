@@ -5,7 +5,9 @@ parallax-img: "/uploads/jeremy-thomas-98201.jpg"
 layout: page
 ---
 
-Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be teaching winterm Astronomy at The Master’s Univeristy this January 2018. Dr. Lisle specializes in solar astrophysics and has made a number of scientific discoveries regarding the solar photosphere, including the detection of giant cell boundaries using the SOHO spacecraft. He has dedicated his life to the communication of the gospel through science, and is focused on equipping others to do the same with his full-time work in apologetics ministry.
+# Winterim Astronomy
+
+Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be teaching winterim Astronomy at The Master’s Univeristy this January 2018. Dr. Lisle specializes in solar astrophysics and has made a number of scientific discoveries regarding the solar photosphere, including the detection of giant cell boundaries using the SOHO spacecraft. He has dedicated his life to the communication of the gospel through science, and is focused on equipping others to do the same with his full-time work in apologetics ministry.
 
 <div class="row">
 
@@ -25,16 +27,16 @@ Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be te
 
 **Astronomy PS 338 Lecture**
 
-* January 3-5 8:30am-1:00pm
+January 3-5 8:30am - 1:00pm
 
-* January 8-10 8:30am -1:00pm
+January 8-10 8:30am - 1:00pm
 
 **Astronomy PS 338 Lab**
 
-* January 3-5 7:00pm-9:00pm
+January 3-5 7:00pm - 9:00pm
 
-* January 8-9 7:00pm-9:00pm
+January 8-9 7:00pm - 9:00pm
 
-Teacher Education/Liberal Studies students will be able to receive credit towards their Astronomy class or lab. Traditional non-teacher ed or non-liberal students will be able to receive credit towards graduation as a general elective.
+*Teacher Education/Liberal Studies students are able to receive credit towards their Astronomy class / lab. Traditional non-teacher ed or non-liberal students are able to receive credit towards graduation as a general elective.*
 
-To enroll in this course, please complete pre-registration on [Self Service](https://portal.masters.edu/SelfService/Home.aspx) and follow the necessary steps to register for the course and/or lab. For questions or more information, please contact the Registrar office at [registar@masters.edu](mailto:registar@masters.edu) or 661.362.8888.
+To enroll in this course,  complete pre-registration on [Self Service](https://portal.masters.edu/SelfService/Home.aspx) and follow the necessary steps listed [here](http://www.masters.edu/registrar#registration) to register for the course and/or lab. For any questions please contact the Registrar office at [registar@masters.edu](mailto:registar@masters.edu) or 661.362.8888.
