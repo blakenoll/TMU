@@ -72,6 +72,7 @@ establishing-funds-body: |-
   * Create a church scholarship fund line item in the mission's budget and fund it from the mission's budget in the general fund. The Missions Committee would then decide if all funds come from the mission's budget or a combination of funds from the mission's fund, special offerings, direct giving and/or fund raisers.
 
   * If you wish to discuss a particular way for the church to establish, administrate and maintain the fund, please feel free to contact Gary Edwards at 661.362.2291 or [gedwards@masters.edu](mailto:gedwards@masters.edu).
+layout: mmg
 ---
 
 **Ministry Matching Grant**
