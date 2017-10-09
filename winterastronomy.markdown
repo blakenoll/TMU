@@ -37,6 +37,6 @@ Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be te
 
 * January 8-9 7:00pm - 9:00pm
 
-*The astronomy lab and lecture will count as a GE Science credit. *
+*The astronomy lab and lecture with Dr. Jason Lisle will count as a GE Science credit. *
 
 To enroll in this course,  complete pre-registration on [Self Service](https://portal.masters.edu/SelfService/Home.aspx) and follow the necessary steps listed [here](http://www.masters.edu/registrar#registration) to register for the course and/or lab. For any questions please contact the Registrar office at [registar@masters.edu](mailto:registar@masters.edu) or 661.362.8888.
