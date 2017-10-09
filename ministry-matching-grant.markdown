@@ -12,7 +12,7 @@ about-body: |-
 
   ### Funding
 
-  Churches can handle their scholarships in a variety of ways. Some churches fund scholarships from their annual budget; others take a special offering. Please visit our "[Establishing Funds](http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/mmgestablishingfunds.aspx)" page for examples of how to setup and fund your scholarship
+  Churches can handle their scholarships in a variety of ways. Some churches fund scholarships from their annual budget; others take a special offering. Please visit our Establishing Funds tab below for examples of how to setup and fund your scholarship
 
   ### Renewal
 
