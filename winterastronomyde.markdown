@@ -1,11 +1,10 @@
 ---
 title: Winter Astronomy
-date: 2017-10-09 17:24:00 Z
+date: 2017-10-09 20:16:00 Z
 parallax-img: "/uploads/jeremy-thomas-98201.jpg"
-layout: page
 ---
 
-# Astronomy Winterim Course
+# Dual Enrollment Students Winter Astronomy
 
 Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be teaching winterim Astronomy at The Master’s University this January 2018. Dr. Lisle specializes in solar astrophysics and has made a number of scientific discoveries regarding the solar photosphere, including the detection of giant cell boundaries using the SOHO spacecraft. He has dedicated his life to the communication of the gospel through science, and is focused on equipping others to do the same with his full-time work in apologetics ministry.
 
@@ -25,18 +24,16 @@ Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be te
 
 ### **Course Information**
 
-**Astronomy PS 338 Lecture**
+**Astronomy PS 138 Lecture**
 
-* January 3-5 8:30am - 1:00pm
+January 3-5 8:30am - 1:00pm
+January 8-10 8:30am - 1:00pm
 
-* January 8-10 8:30am - 1:00pm
+**Astronomy PS 138 Lab**
 
-**Astronomy PS 338 Lab**
+January 3-5 7:00pm - 9:00pm
+January 8-9 7:00pm - 9:00pm
 
-* January 3-5 7:00pm - 9:00pm
+*This astronomy lab and lecture will count as a GE Science credit or as an elective credit*
 
-* January 8-9 7:00pm - 9:00pm
-
-*The astronomy lab and lecture with Dr. Jason Lisle will count as a GE Science credit. *
-
-To enroll in this course,  complete pre-registration on [Self Service](https://portal.masters.edu/SelfService/Home.aspx) and follow the necessary steps listed [here](http://www.masters.edu/registrar#registration) to register for the course and/or lab. For any questions please contact the Registrar office at [registar@masters.edu](mailto:registar@masters.edu) or 661.362.8888.
+For any questions or to enroll in this course, please contact an advisor at tmuonline@masters.edu or 661.362.2780.
