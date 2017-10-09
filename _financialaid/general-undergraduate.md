@@ -3,10 +3,10 @@ title: General Undergraduate
 sm-image: "/uploads/AdmissionFinAid_GeneralUndergrad.png"
 new-transfer-student-body: |-
   <h2 id="C7">Scholarships - New/Transfer Students</h2>
-  <p>&nbsp;</p>
-  <p>Every student must complete a&nbsp;<a href="/media/869351/forms-application-faa.pdf" target="_blank" title="Forms- Application- FAA.pdf">Financial Aid Application</a> to be considered for any financial aid (including Music, Athletics and outside scholarships). The Master's <span>University&nbsp;</span>offers&nbsp;<a href="#C4" class="scroll-anchor">Merit-based Scholarships</a>,&nbsp;<a href="#C5" class="scroll-anchor">Need-based Grants</a>, and&nbsp;<a href="#C6" class="scroll-anchor">Federal/State Aid</a>. See below for more details. All Institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.</p>
-  <h3>Priority Deadline: March 2nd*</h3>
-  <p>*Meet the Priority Deadline to ensure availability of scholarship and grant funds. Applications will continue to be accepted after the Priority Deadline of March 2nd.</p>
+  <p> </p>
+  <p>Every student must complete a <a href="/media/869351/forms-application-faa.pdf" target="_blank" title="Forms- Application- FAA.pdf">Financial Aid Application</a> to be considered for any financial aid (including Music, Athletics and outside scholarships). The Master's <span>University </span>offers <a href="#C4" class="scroll-anchor">Merit-based Scholarships</a>, <a href="#C5" class="scroll-anchor">Need-based Grants</a>, and <a href="#C6" class="scroll-anchor">Federal/State Aid</a>. See below for more details. All Institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.</p>
+  <h3>Priority Deadline: March 2nd\*</h3>
+  <p>\*Meet the Priority Deadline to ensure availability of scholarship and grant funds. Applications will continue to be accepted after the Priority Deadline of March 2nd.</p>
   <table border="0" class="tmc_tblTmcTable">
   <tbody>
   <tr>
@@ -39,8 +39,8 @@ new-transfer-student-body: |-
   <ul>
   <li>Awarded to traditional, full-time students.</li>
   <li>Renewable with a 2.75 cumulative GPA.</li>
-  <li>Click&nbsp;<a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
-  <li>Transfer students receive a $12,000 Distinguished Scholarship with a cumulative college GPA of 3.75+.</li>
+  <li>Click <a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
+  <li>Transfer students receive a $12,000 Distinguished Scholarship with a cumulative college GPA of 3.75\+.</li>
   </ul>
   </td>
   <td align="center">$13,000</td>
@@ -51,8 +51,8 @@ new-transfer-student-body: |-
   <ul>
   <li>Awarded to traditional, full-time students.</li>
   <li>Renewable with a 2.75 cumulative GPA.</li>
-  <li>Click&nbsp;<a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
-  <li>Transfer students receive a $10,000 Honors Scholarship &nbsp;a with a cumulative college GPA of 3.50-3.74.</li>
+  <li>Click <a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
+  <li>Transfer students receive a $10,000 Honors Scholarship  a with a cumulative college GPA of 3.50-3.74.</li>
   </ul>
   </td>
   <td align="center">$11,000</td>
@@ -63,7 +63,7 @@ new-transfer-student-body: |-
   <ul>
   <li>Awarded to traditional, full-time students.</li>
   <li>Renewable with a 2.75 cumulative GPA.</li>
-  <li>Click&nbsp;<a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
+  <li>Click <a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
   <li>Transfer students receive a $8,000 Merit Scholarship with a cumulative college GPA of 3.25-3.54.</li>
   </ul>
   </td>
@@ -75,7 +75,7 @@ new-transfer-student-body: |-
   <ul>
   <li>Awarded to traditional, full-time students.</li>
   <li>Renewable with a 2.75 cumulative GPA.</li>
-  <li>Click&nbsp;<a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
+  <li>Click <a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
   <li>Transfer students receive a $6,000 Achievement Scholarship with a cumulative college GPA of 3.00-3.24.</li>
   </ul>
   </td>
@@ -85,9 +85,9 @@ new-transfer-student-body: |-
   <tr>
   <td><span class="boldText">Athletic Scholarship</span><br>
   <ul>
-  <li>Awarded by the Athletic Department to students who demonstrate athletic ability and Christian character which will contribute to The Master's <span>University&nbsp;</span>and its athletic programs. Annual application is required.</li>
+  <li>Awarded by the Athletic Department to students who demonstrate athletic ability and Christian character which will contribute to The Master's <span>University </span>and its athletic programs. Annual application is required.</li>
   <li>Please contact the Athletic department for more information.</li>
-  <li><span>Students awarded athletic scholarships may only receive&nbsp;<a href="#C6" class="scroll-anchor">Federal/State Aid</a> and Outside or Ministry Scholarships (outside portion only) in addition to their athletic scholarship. They do not qualify for any other institutional aid.</span></li>
+  <li><span>Students awarded athletic scholarships may only receive <a href="#C6" class="scroll-anchor">Federal/State Aid</a> and Outside or Ministry Scholarships (outside portion only) in addition to their athletic scholarship. They do not qualify for any other institutional aid.</span></li>
   </ul>
   </td>
   <td align="center">Varies</td>
@@ -96,7 +96,7 @@ new-transfer-student-body: |-
   <tr>
   <td><span class="boldText">Music Scholarship</span><br>
   <ul>
-  <li>Awarded by the Music Department to students who demonstrate superior music ability and who are committed to The Master's <span>University&nbsp;</span>and the ministry focus of the programs. Annual application is required.</li>
+  <li>Awarded by the Music Department to students who demonstrate superior music ability and who are committed to The Master's <span>University </span>and the ministry focus of the programs. Annual application is required.</li>
   <li>Please contact the Music department for more information.</li>
   </ul>
   </td>
@@ -117,7 +117,7 @@ new-transfer-student-body: |-
   <ul>
   <li>Awarded to students who receive sponsorship from a Christian ministry. TMU will match, on a dollar-for-dollar basis, up to a total of $1,500 per student, as long as funds remain available.</li>
   <li><span>Matching funds only guaranteed with eligible applications received before August 1st</span></li>
-  <li><span style="line-height: 19px;">Click </span><a href="http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/ministrymatchinggrant.aspx" target="_blank">here</a><span style="line-height: 19px;"> for more information on this grant.</span></li>
+  <li><span style="line-height: 19px;">Click </span><a href="/ministry-matching-grant" target="_blank">here</a><span style="line-height: 19px;"> for more information on this grant.</span></li>
   </ul>
   </td>
   <td align="center">Up to $1,500</td>
@@ -142,13 +142,13 @@ new-transfer-student-body: |-
   </ul>
   </td>
   <td align="center">$3,000</td>
-  <td style="text-align: center;"><a href="/media/868514/forms-application-bible-bee.pdf" target="_blank" title="Forms- Application- Bible Bee.pdf">Bible Bee Scholarship&nbsp;Application </a></td>
+  <td style="text-align: center;"><a href="/media/868514/forms-application-bible-bee.pdf" target="_blank" title="Forms- Application- Bible Bee.pdf">Bible Bee Scholarship Application </a></td>
   </tr>
   </tbody>
   </table>
-  <p>&nbsp;</p>
+  <p> </p>
   <p><a href="#C7" class="scroll-anchor"><span style="font-size: x-small;">Return to Top</span></a></p>
-  <p>&nbsp;</p>
+  <p> </p>
   <table border="0" class="tmc_tblTmcTable">
   <tbody>
   <tr>
@@ -167,9 +167,9 @@ new-transfer-student-body: |-
   <td><span class="boldText">Additional Documents Needed</span></td>
   </tr>
   <tr>
-  <td><span class="boldText">The Master's <span>University</span>&nbsp;Grant</span><br>
+  <td><span class="boldText">The Master's <span>University</span> Grant</span><br>
   <ul>
-  <li>Awarded to students based on academic achievement and financial need. The student must be enrolled full-time at The Master's <span>University&nbsp;</span>and have a minimum GPA of 2.0.</li>
+  <li>Awarded to students based on academic achievement and financial need. The student must be enrolled full-time at The Master's <span>University </span>and have a minimum GPA of 2.0.</li>
   </ul>
   </td>
   <td align="center">Varies</td>
@@ -211,15 +211,15 @@ new-transfer-student-body: |-
   </ul>
   </td>
   <td align="center">$5,000</td>
-  <td style="text-align: center;"><a href="/media/868500/forms-application-pmd-17-18.pdf" target="_blank" title="Forms- Application- PMD 17-18.pdf">Pastor and Missionary Dependent Grant&nbsp;<span style="line-height: 19px;">Application</span></a>
-  <p>&nbsp;</p>
+  <td style="text-align: center;"><a href="/media/868500/forms-application-pmd-17-18.pdf" target="_blank" title="Forms- Application- PMD 17-18.pdf">Pastor and Missionary Dependent Grant <span style="line-height: 19px;">Application</span></a>
+  <p> </p>
   </td>
   </tr>
   </tbody>
   </table>
-  <p>&nbsp;</p>
+  <p> </p>
   <p><a href="http://www2.masters.edu/undergrad/financial-aid/newandtransfer/#C7"><span style="font-size: x-small;">Return to Top</span></a></p>
-  <p>&nbsp;</p>
+  <p> </p>
   <table border="0" class="tmc_tblTmcTable">
   <tbody>
   <tr>
@@ -241,7 +241,7 @@ new-transfer-student-body: |-
   <td><span class="boldText"><a href="http://www.masters.edu/financial-aid/generalundergraduateprogram/calgrant/" target="_blank" title="calgrant">Cal Grant</a></span><br>
   <ul>
   <li>Awarded to low and middle income California residents and is based on need and GPA. The student must be enrolled in at least a two year program. Annual application is required.</li>
-  <li>Additional documentation is required. Applicant must have submitted GPA verification (via the Registrar's Office at their high school or college).&nbsp;Click <a href="http://www.masters.edu/financial-aid/generalundergraduateprogram/calgrant/" target="_blank">here</a> for more information.</li>
+  <li>Additional documentation is required. Applicant must have submitted GPA verification (via the Registrar's Office at their high school or college). Click <a href="http://www.masters.edu/financial-aid/generalundergraduateprogram/calgrant/" target="_blank">here</a> for more information.</li>
   <li><span>Deadline: March 2</span></li>
   </ul>
   </td>
@@ -252,7 +252,7 @@ new-transfer-student-body: |-
   <td><span class="boldText">Pell Grant</span><br>
   <ul>
   <li>Federal program based on need.</li>
-  <li>Please note that Pell Grant cannot be used at multiple schools simultaneously.&nbsp;</li>
+  <li>Please note that Pell Grant cannot be used at multiple schools simultaneously. </li>
   </ul>
   </td>
   <td align="center">Up to $5,920</td>
@@ -278,10 +278,10 @@ new-transfer-student-body: |-
   </tr>
   </tbody>
   </table>
-  <p>&nbsp;</p>
+  <p> </p>
   <p><a href="#" title="newandtransfer" class="scroll-anchor"><span style="font-size: x-small;">Return to Top</span></a></p>
-  <p>&nbsp;</p>
-  <p>For additional scholarships, please see our&nbsp;<a href="#" target="_blank" title="scholarshipsearch" class="scroll-anchor">Scholarship Search.</a></p>
+  <p> </p>
+  <p>For additional scholarships, please see our <a href="#" target="_blank" title="scholarshipsearch" class="scroll-anchor">Scholarship Search.</a></p>
 continuing-students-body: |-
   <h2 id="link-top">Scholarships - Continuing Students</h2>
   <p>Every student must complete a <a href="/media/869351/forms-application-faa.pdf" target="_blank" title="Forms- Application- FAA.pdf">Financial Aid Application</a> to be considered for any financial aid (including Music, Athletics and outside scholarships). The Master's <span>University </span>offers <a href="#link-merit">Merit-based <span style="background-color: #ffffff;">Scholarships</span></a>, <a href="#link-need">Need-based Grants</a>, and <a href="#link-federal">Federal/State Aid</a>. See below for more details. All institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.</p>
