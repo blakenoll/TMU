@@ -34,6 +34,6 @@ January 8-10 8:30am - 1:00pm
 January 3-5 7:00pm - 9:00pm
 January 8-9 7:00pm - 9:00pm
 
-*Dual Enrollment students will receive an elective credit for this course.*
+*This course counts as an elective credit*
 
 For any questions or to enroll in this course, please contact TMU Online at tmuonline@masters.edu or 661.362.2780
