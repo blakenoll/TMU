@@ -1,15 +1,20 @@
 ---
-layout: page
+layout: default
 ---
 
-{{content}}
-<ul class="collapsible" data-collapsible="accordion">
-    <li>
-      <div class="collapsible-header">About</div>
-      <div class="collapsible-body"><span>{{ page.about-body | markdownify }}</span></div>
-    </li>
-    <li>
-      <div class="collapsible-header"></div>
-      <div class="collapsible-body"><span>{{ page.establishing-funds-body | markdownify }}</span></div>
-    </li>
-  </ul>
+{% include parallax-header.html %}
+<div class="container">
+  <div class="card-content">
+    {{ content }}
+  </div>
+  <ul class="collapsible" data-collapsible="accordion">
+      <li>
+        <div class="collapsible-header">About</div>
+        <div class="collapsible-body"><span>{{ page.about-body | markdownify }}</span></div>
+      </li>
+      <li>
+        <div class="collapsible-header">Establishing Funds</div>
+        <div class="collapsible-body"><span>{{ page.establishing-funds-body | markdownify }}</span></div>
+      </li>
+    </ul>
+</div>
