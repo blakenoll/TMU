@@ -83,7 +83,7 @@ The Ministry Matching Grant program provides an opportunity for home churches to
 
 Hannah Dorsey, Teacher Education
 
-Glenallen, AK\*\*
+Glenallen, AK
 
 ### [Ministry Matching Grant Application](https://athletics.masters.edu/media/868515/forms-application-mmg.pdf "Forms- Application- MMG.pdf")
 
