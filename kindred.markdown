@@ -1,6 +1,7 @@
 ---
 title: An Evening with John MacArthur
 date: 2017-10-09 20:29:00 Z
+layout: page
 ---
 
 An Evening with The Master's University featuring John MacArthur
