@@ -15,7 +15,7 @@ $(document).ready(function() {
         right: ''
 
 			},
-      defaultView: "listMonth",
+      defaultView: "month",
       height: 'auto',
       contentHeight: "auto",
 
@@ -29,10 +29,10 @@ $(document).ready(function() {
 
       googleCalendarApiKey: 'AIzaSyDt87P0ZlRrdUVSH9fygbhMkNQ7Un5-jRw',
       eventSources: [
-          {
-            googleCalendarId: 'masters.edu_dsllfd5r5asmuj73enpob6sk4c@group.calendar.google.com',
-            color: '#5E8Ab4;',
-          },
+          // {
+          //   googleCalendarId: 'masters.edu_dsllfd5r5asmuj73enpob6sk4c@group.calendar.google.com',
+          //   color: '#5E8Ab4;',
+          // },
           // {
           //   googleCalendarId: 'masters.edu_680837qa9n6ip72vdojm4teuqs@group.calendar.google.com',
           //   color: '#5B6770;',
@@ -45,19 +45,25 @@ $(document).ready(function() {
           //   googleCalendarId: 'masters.edu_u3u88tfpc5c3010f0c0qf9l8b8@group.calendar.google.com',
           //   color: '#97999B;',
           // },
-          // {
-          //   googleCalendarId: 'masters.edu_9vb488fl1f47d0vvvu13rj0kn0@group.calendar.google.com',
-          //   color: '#DAAA00;',
-          // }
+          {
+            googleCalendarId: 'masters.edu_9vb488fl1f47d0vvvu13rj0kn0@group.calendar.google.com',
+            color: '#DAAA00;',
+            className: 'tooltipped',
+
+          }
 
         ],
 
-        // eventMouseover: function(event, jsEvent, view) {
-        //   $('.fc-content', this).append('<div id=\"'+event.id+'\" class=\"hover-end\">'+$.fullCalendar.formatDate(event.end, 'h:mmt') + ' ' + '<p>' + event.description + '</p>' + '</div>');
-        // },
-        //
+        eventMouseover: function(event, jsEvent, view) {
+          console.log(jsEvent.pageX, jsEvent.pageY)
+          $(this).tooltip({
+            tooltip: event.title,
+
+          })
+        },
+
         // eventMouseout: function(event, jsEvent, view) {
-        //   $('#'+event.id).remove();
+        //   $(this).tooltip('remove')
         // },
 
         eventClick: function(event) {
@@ -112,7 +118,7 @@ $(document).ready(function() {
   <button class="btn btn-navy" type="button" name="button" onclick="$('#calendar').fullCalendar('next');">Next Month</button>
 
   <div class="row">
-    <div class="col s6">
+    <div class="col s12">
       <br>
       <div id='calendar'></div>
     </div>
