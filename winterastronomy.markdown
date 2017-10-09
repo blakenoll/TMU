@@ -28,13 +28,11 @@ Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be te
 **Astronomy PS 338 Lecture**
 
 January 3-5 8:30am - 1:00pm
-
 January 8-10 8:30am - 1:00pm
 
 **Astronomy PS 338 Lab**
 
 January 3-5 7:00pm - 9:00pm
-
 January 8-9 7:00pm - 9:00pm
 
 *Teacher Education/Liberal Studies students are able to receive credit towards their Astronomy class / lab. Traditional non-teacher ed or non-liberal students are able to receive credit towards graduation as a general elective.*
