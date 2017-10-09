@@ -34,7 +34,7 @@ constitution-body: "The Master’s University celebrates Constitution Day every 
   17th. Here at The Master’s University we are grateful for the liberty the Constitution
   grants to us to practice our faith in our Lord and Savior and to operate as a Christian
   Institution. Please click on the following links to find out more about our Constitution.\n\n###
-  \n[National Constitution Center](http://constitutioncenter.org/constitutionday/)\n\n###
+  \n\n### [National Constitution Center](http://constitutioncenter.org/constitutionday/)\n\n###
   [Constitution Day, Inc.](http://www.constitutionday.com/)\n\n### [Constitution Facts](http://constitutionday.cc/)"
 student-outcomes-body: |-
   Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information.
@@ -89,8 +89,6 @@ institutional-info-body: |-
   Cost of Attendance
 
   [Undergraduate](/financial-aid/tuition-fees)
-
-  [Degree Completion Program](http://www.masters.edu/academics/degreecompletion/prospective-students/tuition.aspx "DCP Tuition and Fees")
 
   [Master's of Biblical Counseling](http://www.masters.edu/academics/graduate/MABC#tuition)
 
