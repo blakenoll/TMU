@@ -10,7 +10,7 @@ apply-body: |-
 
   ## Option 1: Apply Online
 
-  ### Application Checklist:
+  #### Application Checklist:
 
   * [Online Application](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB)
 
@@ -45,7 +45,7 @@ apply-body: |-
 
   You will also need to read the [Doctrinal Statement](/about) and [Student Handbook](http://www.masters.edu/handbook).
 
-  ### Freshman/Transfer Qualification
+  #### Freshman/Transfer Qualification
 
   **Freshman:** Students entering TMU the Fall directly after graduating in the Spring are considered freshman. Students entering TMU with less than 24 college level units completed are also considered freshman, with freshman scholarships available.
 
@@ -61,7 +61,7 @@ apply-body: |-
 
   ## Application Deadlines:
 
-  ### We have two application deadlines for Fall 2017:
+  **We have two application deadlines for Fall 2017:**
 
   **Early Action – November 15:**
   No application fee; admission decision within 2-3 weeks\*
