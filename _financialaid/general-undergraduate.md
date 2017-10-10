@@ -147,8 +147,6 @@ new-transfer-student-body: |-
   </tbody>
   </table>
   <p> </p>
-  <p><a href="#C7" class="scroll-anchor"><span style="font-size: x-small;">Return to Top</span></a></p>
-  <p> </p>
   <table border="0" class="tmc_tblTmcTable">
   <tbody>
   <tr>
@@ -218,8 +216,6 @@ new-transfer-student-body: |-
   </tbody>
   </table>
   <p> </p>
-  <p><a href="http://www2.masters.edu/undergrad/financial-aid/newandtransfer/#C7"><span style="font-size: x-small;">Return to Top</span></a></p>
-  <p> </p>
   <table border="0" class="tmc_tblTmcTable">
   <tbody>
   <tr>
@@ -278,8 +274,6 @@ new-transfer-student-body: |-
   </tr>
   </tbody>
   </table>
-  <p> </p>
-  <p><a href="#" title="newandtransfer" class="scroll-anchor"><span style="font-size: x-small;">Return to Top</span></a></p>
   <p> </p>
   <p>For additional scholarships, please see our <a href="#" target="_blank" title="scholarshipsearch" class="scroll-anchor">Scholarship Search.</a></p>
 continuing-students-body: |-
