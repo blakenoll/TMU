@@ -15,6 +15,7 @@ View-The-U-body: |-
   October 26 - October 27, 2017
 
   ### Thursday, October 26th
+
   * 5:00pm Mustang Basketball: Ladies vs. California Baptist University
 
   * 6:00pm Check-in
@@ -24,7 +25,6 @@ View-The-U-body: |-
   * 8:00pm Mustang Basketball: Men vs. Bethesda Christian
 
   ### Friday, October 27th
-  * 6:00pm Mustang Madness
 
   * 7:00-9:00am Breakfast in the Mustang Grill (Students)
 
@@ -47,6 +47,8 @@ View-The-U-body: |-
   * 3:15-4:30pm “Meet the Majors” Academic Department Fair (All)
 
   * 5:00-6:00pm Dinner in the Mustang Grill (Students)
+
+  * 6:00pm Mustang Madness
 
   * 8:00pm Harvest Blend
 
