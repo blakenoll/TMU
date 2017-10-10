@@ -5,6 +5,18 @@ image: "/images/Dorm_Waldock.png"
 ra:
 - name: Sergio Arechiga
   title: Resident Director
+  body-text: |-
+    Sergio completed the Master's University undergraduate music program in 2015. After returning from a choir tour to the Balkans, he resumed the search for employment and soon began working at a local restaurant. Postings were made public for the position of Commuter Coordinator at his recent alma mater and with no hesitation he applied for the role. Beginning the journey as coordinator three months post graduation, Sergio loves few things more than to serve and lead the commuters in using their relationships and opportunities in this season of life to the best, in awe of God's majesty through His care for their lives.
+
+    ## Fast Facts:
+
+    ### A Favorite Scripture Verse: 2 Corinthians 5:21
+
+    "He made Him who knew no sin to be sin on our behalf, so that we might become the righteousness of God in Him."
+
+    ### Some Favorite Things:
+
+    All things music: performing & listening. Traveling. Learning new ideas and hobbies.
 banner-img: "/images/Waldock_Banner.jpg"
 ---
 
