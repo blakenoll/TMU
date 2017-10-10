@@ -2,7 +2,7 @@
 title: Undergraduate
 position: 0
 apply-body: |-
-  Apply Now for Fall 2018!
+  ## Apply Now for Fall 2018!
 
   We invite all students considering admission for Fall 2018 to begin the application process now. Don't miss out on a life-changing TMU education--complete your application as soon as possible! Below we’ve listed what components are needed to complete the application process.
 
@@ -45,7 +45,7 @@ apply-body: |-
 
   You will also need to read the [Doctrinal Statement](/about) and [Student Handbook](http://www.masters.edu/handbook).
 
-  ### **Freshman/Transfer Qualification**
+  ### Freshman/Transfer Qualification
 
   **Freshman:** Students entering TMU the Fall directly after graduating in the Spring are considered freshman. Students entering TMU with less than 24 college level units completed are also considered freshman, with freshman scholarships available.
 
