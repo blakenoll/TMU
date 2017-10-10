@@ -33,10 +33,11 @@ $(document).ready(function() {
           //   googleCalendarId: 'masters.edu_dsllfd5r5asmuj73enpob6sk4c@group.calendar.google.com',
           //   color: '#5E8Ab4;',
           // },
-          // {
-          //   googleCalendarId: 'masters.edu_680837qa9n6ip72vdojm4teuqs@group.calendar.google.com',
-          //   color: '#5B6770;',
-          // },
+          {
+            googleCalendarId: 'masters.edu_680837qa9n6ip72vdojm4teuqs@group.calendar.google.com',
+            color: '#5B6770;',
+            className: 'tooltip',
+          },
           // {
           //   googleCalendarId: 'asbmail@masters.edu',
           //   color: '#0C2340;',
@@ -48,26 +49,24 @@ $(document).ready(function() {
           {
             googleCalendarId: 'masters.edu_9vb488fl1f47d0vvvu13rj0kn0@group.calendar.google.com',
             color: '#DAAA00;',
-            className: 'tooltipped',
+            className: 'tooltip',
+            url: '!#',
 
           }
 
         ],
 
         eventMouseover: function(event, jsEvent, view) {
-          console.log(jsEvent.pageX, jsEvent.pageY)
-          $(this).tooltip({
-            tooltip: event.title,
-          })
-          console.log('translateX('jsEvent.pageX') translateY('jsEvent.pageY')')
-          $('material-tooltip').css( "transform", function() {
-            'translateX(jsEvent.pageX) translateY(jsEvent.pageY)'
-          })
+          // console.log(jsEvent.pageX, jsEvent.pageY)
+          // $(this).tooltip({
+          //   tooltip: event.title,
+          // })
+          $(this).append("<span class='tooltiptext'>" + event.title + "</span>")
         },
 
-        // eventMouseout: function(event, jsEvent, view) {
-        //   $(this).tooltip('remove');
-        // },
+        eventMouseout: function(event, jsEvent, view) {
+          $(".tooltiptext").remove()
+        },
 
         eventClick: function(event) {
           if (event.url) {
@@ -80,19 +79,7 @@ $(document).ready(function() {
 });
 </script>
 <style media="screen">
-  .hover-end {
-    color: #000;
-    background-color: #fff;
-    padding:0;
-    margin:5px;
-    font-size:100%;
-    text-align:center;
-    position: absolute;
 
-    top: 100%;
-    width:100%;
-    opacity:.8
-  }
 </style>
 <style media="screen">
   .fc-state-default {
