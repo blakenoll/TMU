@@ -247,7 +247,7 @@ intl:
     Additional information about obtaining and maintaining your visa and/or F-1 student status will be provided once you have been accepted to The Master’s University and have received your financial aid package. In the meantime, general information about applying for a student visa can be found on the U.S. Government’s “Study in the States” website [here](http://studyinthestates.dhs.gov/students/).
 intl-counselor:
   name: Joshua English
-  title:
+  title: 
   bio-body: 'Email: [jenglish@masters.edu](mailto:jenglish@masters.edu)'
   img: "/images/IMG_1046.JPG"
 accepted-students-body: |-
