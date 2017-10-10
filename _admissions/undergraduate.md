@@ -51,6 +51,8 @@ apply-body: |-
 
   **Transfer:** Any student who has been out of high school for at least one semester, and has completed a minimum of 24 college level units, is considered a transfer. If a student has 24 college level units, and is entering TMU the Fall directly after graduating in the Spring they will not be considered a Transfer.
 
+
+
   ## Option 2: Downloadable Application Documents (pdf format)
 
   If you prefer to download and print your TMU Application for Admission, rather than completing it online, you may download all the application components [here](/downloads).
@@ -58,6 +60,8 @@ apply-body: |-
   ## International Students
 
   Please visit our <a href="http://www.masters.edu/admissions/#intl" target="_blank">International Student Application Page</a> for detailed information about how to apply.
+
+
 
   ## Application Deadlines:
 
@@ -69,7 +73,10 @@ apply-body: |-
   **Priority Decision – March 2:**
   To receive full consideration for the Fall 2018 semester, applicants should complete their admissions and financial aid applications by March 2nd. However, The Master's University will continue to accept applications on a rolling basis after our priority deadline.
 
-  \**Only applies to fall applicants*
+
+  **Only applies to fall applicants*
+
+
 
   ## Already Applied? Check your application status online!
 
