@@ -55,4 +55,4 @@ What then makes Italy different? “It’s the history.” I told Dr. Horner tha
 
 **That is where all of us are because of this program.** We are still asking questions, still growing like a tree,  lifelong learners. On all of Dr. Horner’s emails is a quote by Alcuin: “O how sweet was life when we sat quietly among the shrines of wisdom, among the abundance of books, among the venerable wisdom of the Fathers.” 
 
-Emma was right however, the days went by too fast. We spent the last night walking around Florence. We went to an overlook and watched the sunset. We ate gelato one last time. We said our tearful goodbyes to our new family and like Odysseus set off air-conditioning at last!—on our joyous returns.
+Emma was right however, the days went by too fast. We spent the last night walking around Florence. We went to an overlook and watched the sunset. We ate gelato one last time. We said our tearful goodbyes to our new family and like Odysseus set off- air-conditioning at last!—on our joyous returns.
