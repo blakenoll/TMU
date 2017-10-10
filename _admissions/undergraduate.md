@@ -45,13 +45,19 @@ apply-body: |-
 
   You will also need to read the [Doctrinal Statement](/about) and [Student Handbook](http://www.masters.edu/handbook).
 
+
+
   ## Option 2: Downloadable Application Documents (pdf format)
 
   If you prefer to download and print your TMU Application for Admission, rather than completing it online, you may download all the application components [here](/downloads).
 
+
+
   ## International Students
 
   Please visit our <a href="http://www.masters.edu/admissions/#intl" target="_blank">International Student Application Page</a> for detailed information about how to apply.
+
+
 
   ## Application Deadlines:
 
@@ -63,7 +69,9 @@ apply-body: |-
   **Priority Decision – March 2:**
   To receive full consideration for the Fall 2018 semester, applicants should complete their admissions and financial aid applications by March 2nd. However, The Master's University will continue to accept applications on a rolling basis after our priority deadline.
 
-  \**Only applies to fall applicants*
+  **Only applies to fall applicants*
+
+  
 
   ## Already Applied? Check your application status online!
 
@@ -232,7 +240,7 @@ intl:
     Additional information about obtaining and maintaining your visa and/or F-1 student status will be provided once you have been accepted to The Master’s University and have received your financial aid package. In the meantime, general information about applying for a student visa can be found on the U.S. Government’s “Study in the States” website [here](http://studyinthestates.dhs.gov/students/).
 intl-counselor:
   name: Joshua English
-  title: 
+  title:
   bio-body: 'Email: [jenglish@masters.edu](mailto:jenglish@masters.edu)'
   img: "/images/IMG_1046.JPG"
 accepted-students-body: |-

@@ -29,33 +29,43 @@ $(document).ready(function() {
           {
             googleCalendarId: 'masters.edu_dsllfd5r5asmuj73enpob6sk4c@group.calendar.google.com',
             color: '#5E8Ab4;',
+            className: 'tooltip'
           },
           {
             googleCalendarId: 'masters.edu_680837qa9n6ip72vdojm4teuqs@group.calendar.google.com',
             color: '#5B6770;',
+            className: 'tooltip'
           },
           {
             googleCalendarId: 'asbmail@masters.edu',
             color: '#0C2340;',
+            className: 'tooltip'
+          },
+          {
+            googleCalendarId: 'masters.edu_9jbvr13jk925f37u3m1slerff4@group.calendar.google.com',
+            color: '#B8B08C;',
+            className: 'tooltip'
           },
           {
             googleCalendarId: 'masters.edu_u3u88tfpc5c3010f0c0qf9l8b8@group.calendar.google.com',
             color: '#97999B;',
+            className: 'tooltip'
           },
           {
             googleCalendarId: 'masters.edu_9vb488fl1f47d0vvvu13rj0kn0@group.calendar.google.com',
             color: '#DAAA00;',
+            className: 'tooltip'
           }
 
         ],
 
-        // eventMouseover: function(event, jsEvent, view) {
-        //   $('.fc-content', this).append('<div id=\"'+event.id+'\" class=\"hover-end\">'+$.fullCalendar.formatDate(event.end, 'h:mmt') + ' ' + '<p>' + event.description + '</p>' + '</div>');
-        // },
-        //
-        // eventMouseout: function(event, jsEvent, view) {
-        //   $('#'+event.id).remove();
-        // },
+        eventMouseover: function(event, jsEvent, view) {
+          $(this).append("<span class='tooltiptext'>" + event.title + "</span>")
+        },
+
+        eventMouseout: function(event, jsEvent, view) {
+          $(".tooltiptext").remove()
+        },
 
         eventClick: function(event) {
           if (event.url) {
