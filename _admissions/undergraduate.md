@@ -45,6 +45,12 @@ apply-body: |-
 
   You will also need to read the [Doctrinal Statement](/about) and [Student Handbook](http://www.masters.edu/handbook).
 
+  ### **Freshman/Transfer Qualification**
+
+  **Freshman:** Students entering TMU the Fall directly after graduating in the Spring are considered freshman. Students entering TMU with less than 24 college level units completed are also considered freshman, with freshman scholarships available.
+
+  **Transfer:** Any student who has been out of high school for at least one semester, and has completed a minimum of 24 college level units, is considered a transfer. If a student has 24 college level units, and is entering TMU the Fall directly after graduating in the Spring they will not be considered a Transfer.
+
   ## Option 2: Downloadable Application Documents (pdf format)
 
   If you prefer to download and print your TMU Application for Admission, rather than completing it online, you may download all the application components [here](/downloads).
