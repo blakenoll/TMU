@@ -5,8 +5,8 @@ new-transfer-student-body: |-
   <h2 id="C7">Scholarships - New/Transfer Students</h2>
   <p> </p>
   <p>Every student must complete a <a href="/media/869351/forms-application-faa.pdf" target="_blank" title="Forms- Application- FAA.pdf">Financial Aid Application</a> to be considered for any financial aid (including Music, Athletics and outside scholarships). The Master's <span>University </span>offers <a href="#C4" class="scroll-anchor">Merit-based Scholarships</a>, <a href="#C5" class="scroll-anchor">Need-based Grants</a>, and <a href="#C6" class="scroll-anchor">Federal/State Aid</a>. See below for more details. All Institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.</p>
-  <h3>Priority Deadline: March 2nd\*</h3>
-  <p>\*Meet the Priority Deadline to ensure availability of scholarship and grant funds. Applications will continue to be accepted after the Priority Deadline of March 2nd.</p>
+  <h3>Priority Deadline: March 2nd</h3>
+  <p>Meet the Priority Deadline to ensure availability of scholarship and grant funds. Applications will continue to be accepted after the Priority Deadline of March 2nd.</p>
   <table border="0" class="tmc_tblTmcTable">
   <tbody>
   <tr>
