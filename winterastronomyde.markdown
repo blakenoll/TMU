@@ -34,6 +34,6 @@ January 8-10 8:30am - 1:00pm
 January 3-5 7:00pm - 9:00pm
 January 8-9 7:00pm - 9:00pm
 
-*This astronomy lab and lecture will count as a GE Science credit or as an elective credit*
+*The astronomy lab and lecture with Dr. Lisle will count as a general elective credit.*
 
 For any questions or to enroll in this course, please contact an advisor at tmuonline@masters.edu or 661.362.2780.
