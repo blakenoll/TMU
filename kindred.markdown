@@ -1,5 +1,5 @@
 ---
-title: An Evening with John MacArthur
+title: Special Evening with The Master's University
 date: 2017-10-09 20:29:00 Z
 layout: page
 ---
@@ -10,7 +10,7 @@ layout: page
 
 Join us for a special evening with Dr. John MacArthur on Thursday, November 16th at 7:30pm at Kindred Community Church. Dr. John MacArthur will be teaching the Word of God, and there will also be opportunity to meet with our TMU Admissions staff and representatives for helpful information regarding the university.
 
-# Alumni and Prospective Student Reception
+## Alumni and Prospective Student Reception
 
 **Thursday, November 16th from 6-7pm**
 
