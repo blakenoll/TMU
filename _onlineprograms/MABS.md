@@ -245,7 +245,7 @@ parallax-img: "/images/Parallax8.jpg"
 <p>All required courses are taught in an online format during two 8-week sessions over three semesters each year. This schedule enables students to qualify for federal financial aid. </p>
 <p>TMU Online courses contain a variety of proven online instructional approaches including brief video lectures, topical videos from the Internet or other resources, interactive exercises & lessons. In addition, students will engage each other and the instructor through online discussion forums, chat and video conferencing sessions, and instant messaging. Student assessments will include online quizzes and exams, written papers, online speeches, role-plays, and presentations, depending on the program.  </p>
 <h2>Degree Requirement Summary</h2>
-<p><a href="/media/868243/ma-bs-olp-tmu.pdf" title="MA-BS-OLP-TMU.pdf"> </a><a href="/media/868300/ma-bs-olp-tmu.pdf" title="MA-BS-OLP-TMU.pdf (1)"><span style="background-color: #ffffff;">Click here</span></a><a style="background-color: #ffffff;" href="/media/793588/organizational management - dcp online (2).pdf"> </a>to print a summary of the degree requirements for the Master of Biblical Studies. </p>
+<p><a href="/uploads/MA-BS-OLP-TMU.PDF" title="MA-BS-OLP-TMU.pdf (1)"><span style="background-color: #ffffff;">Click here</span></a>to print a summary of the degree requirements for the Master of Biblical Studies. </p>
 
 <h2>Application Requirements</h2>
 <ol>
