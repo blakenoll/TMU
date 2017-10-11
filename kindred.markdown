@@ -10,16 +10,15 @@ layout: page
 
 Join us for a special evening with Dr. John MacArthur on Thursday, November 16th at 7:30pm at Kindred Community Church. Dr. John MacArthur will be teaching the Word of God, and there will also be opportunity to meet with our TMU Admissions staff and representatives for helpful information regarding the university.
 
-
-# Alumni and Prospective Student Reception 
+# Alumni and Prospective Student Reception
 
 **Thursday, November 16th from 6-7pm**
 
-The Master's University invites alumni and prospective students to a special reception with our President Dr. John MacArthur and Provost John Stead. Join us for hors d'oeuvres and a panel discussion as we reflect on the legacy of the past 90 years and look to the future of TMU.  
+The Master's University invites alumni and prospective students to a special reception with our President Dr. John MacArthur and Provost John Stead. Join us for hors d'oeuvres and a panel discussion as we reflect on the legacy of the past 90 years and look to the future of TMU.
 
-Following this reception, you are also invited to join the Kindred Community Church family and general public for an evening service with Dr. John MacArthur in the church's main worship center. 
+Following this reception, you are also invited to join the Kindred Community Church family and general public for an evening service with Dr. John MacArthur in the church's main worship center.
 
-Please RSVP to reserve your spot by contacting Shayna Anderson at 661.362.2203 or ssanderson@masters.edu.
+**Please RSVP to reserve your spot by contacting Shayna Anderson at 661.362.2203 or ssanderson@masters.edu.**
 
 Kindred Church in Orange County\
 8712 E Santa Ana Canyon Rd
