@@ -36,4 +36,4 @@ January 8-9 7:00pm - 9:00pm
 
 *The astronomy lab and lecture with Dr. Lisle will count as elective credit.*
 
-For any questions or to enroll in this course, please contact an advisor at tmuonline@masters.edu or 661.362.2780.
+For any questions or to enroll in this course, please contact an advisor at [tmuonline@masters.edu](mailto:tmuonline@masters.edu) or 661.362.2780.
