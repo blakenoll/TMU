@@ -19,7 +19,7 @@ about-body: |-
 
   * All TMU BA degrees require students to complete 122-semester units which includes major coursework (42 units), General Education (GE) requirements (65 units), and unrestricted electives (15 units).
 
-  * [GE and Elective courses](http://localhost:4000/%7BlocalLink:23485%7D "OnlineGeneralEducationCourses") can be taken through TMU Online, transferred in from another accredited college or university, and/or via Advanced Placement or CLEP (subject to TMU transfer credit policies).
+  * GE and Elective courses can be taken through TMU Online, transferred in from another accredited college or university, and/or via Advanced Placement or CLEP (subject to TMU transfer credit policies).
 
   * GE and elective courses can be taken prior to, concurrent with, or subsequent to completion of the major coursework.
 
@@ -27,7 +27,7 @@ about-body: |-
 
   ---
 
-  [Click here](/media/870446/ba-bc-booklist_1002.pdf) to print a summary of the degree requirements for BA in Biblical Counseling.
+  [Click here](/uploads/BA%20Biblical%20Counseling%20-%20OLP%20-TMU_Quote.pdf) to print a summary of the degree requirements for BA in Biblical Counseling.
 
   ### Admission Requirements
 
@@ -39,13 +39,11 @@ about-body: |-
 
   2. High School Graduate, GED, or California High School Proficiency Exam
 
-  3. [Application](https://forms.422x.com/appsynthesis/applicationdata/includes/authentication/logon/logon_start.asp?PID=MastersDeg&AID=207235&EXT=1&EXTID=www.masters.edu&REFERER=www.masters.edu)
+  3. [Application](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB)
 
-  4. [Pastor Recommendation](http://localhost:4000/%7BlocalLink:40646%7D "Pastoral Recommendation Request")
+  4. High School and or College transcripts
 
-  5. High School and or College transcripts
-
-  6. Application Fee: $35
+  5. Application Fee: $35
 major-requirments-body: |-
   ### Biblical Counseling
 
