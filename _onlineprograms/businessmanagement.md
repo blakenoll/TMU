@@ -3,8 +3,7 @@ title: Business Management
 sm-image: "/uploads/AcademicsOnline_OrganizationalMgmt.png"
 parallax-img: "/images/Parallax9.jpg"
 level: undergrad
-about-body: |-
-  Business Management
+about-body: |2-
 
   <br />
 
@@ -14,7 +13,7 @@ about-body: |-
 
   The Business Management degree has been developed to create leaders that solve problems and make decisions while leading and guiding an organizational unit in its efforts to achieve a goal or objective. Students will study the fundamentals of management theory together with the tools used by modern management practitioners; will explore modern theories, concepts, and principles of management and administration; will apply the lessons learned to contemporary management situation; and will be encouraged to develop an appetite for contemporary management literature.  In the Business Department, students develop from a common viewpoint that all truth is of God.  Therefore, as led by the Spirit, the student will search for truth to be applied with wisdom to the glory and honor of God.
 
-  Program Level Learning Outcomes
+  ### Program Level Learning Outcomes
 
   A graduate from TMU's Online Bachelor of Science in Business Management degree program should be able to demonstrate a strong working knowledge in the following areas:
 
@@ -46,7 +45,7 @@ about-body: |-
 
   c)  Cost accounting
 
-  Textbooks
+  ### Textbooks
 
   The list is coming soon!
 
