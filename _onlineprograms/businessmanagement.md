@@ -16,37 +16,29 @@ about-body: |-
 
   Program Level Learning Outcomes
 
-  A graduate from TMU's Online Bachelor of Science in Business Management degree program should be able to:
+  A graduate from TMU's Online Bachelor of Science in Business Management degree program should be able to demonstrate a strong working knowledge in the following areas:
 
-   1. Demonstrate a strong working knowledge of accounting
+   1. Accounting
 
-   2. Demonstrate a strong working knowledge of economics
+   2. Economics
 
-   3. Demonstrate a strong working knowledge of the management field
+   3. Management
 
-   4. Demonstrate a strong working knowledge of selected information system applications
+   4. Information system applications
 
-   5. Demonstrate a strong working knowledge of finance
+   5. Finance
 
-   6. Demonstrate a strong working knowledge of international commerce
+   6. International commerce
 
-   7. Demonstrate a strong working knowledge of marketing
+   7. Marketing
 
-   8. Demonstrate a thorough working knowledge of the quantitative analysis techniques applied with common business situations
+   8. Quantitative analysis techniques
 
-   9. Demonstrate a thorough working knowledge of business law including: partnerships, contracts, and personnel
+   9. Business Law
 
-  10. Demonstrate the ability to interpret business-related qualitative and quantitative analyses, and to explain them to others in both written and oral form
+  10. Personal issues in a business organization
 
-  11. Demonstrate the ability to work effectively in teams
-
-  12. For given business ethics situations, identify and develop appropriate quantitative analyses, and to explain them to others in both written and oral form
-
-  13. Given a business situation, identify and develop appropriate quantitative tools for operational management
-
-  14. Demonstrate a basic working knowledge of the laws which affect personnel issues in a business organization
-
-  15. Demonstrate a basis working knowledge in at least one of the following management-related areas:
+  11. One of the following management-related areas:
 
   a) The role of financial intermediation in society
 
@@ -58,24 +50,11 @@ about-body: |-
 
   The list is coming soon!
 
-  Degree Requirements Summary
+  ### Degree Requirements Summary
 
-  [Click here](https://athletics.masters.edu/media/869689/bs-bmgt-olp-tmu3.pdf) to print a summary of the degree requirements for the Online Business Management Degree
-major-requirments-body: |-
-  <table class="bordered">
-  <tbody>
-  <tr>
-  <td style="text-align: center;">Total Major Units</td>
-  <td style="text-align: center;">Cost Per Unit</td>
-  <td style="text-align: center;">Total Cost for Major Courses</td>
-  </tr>
-  <tr>
-  <td style="text-align: center;">54 units</td>
-  <td style="text-align: center;">$425</td>
-  <td style="text-align: center;">$22,950</td>
-  </tr>
-  </tbody>
-  </table>
+  [Click here](/uploads/BS-BMGT%20-%20OLP%20-TMU.SP2018_9.21.pdf) to print a summary of the degree requirements for the Online Business Management Degree
+major-requirments-body: |2-
+
   <p> </p>
   <table class="bordered">
   <tbody>
