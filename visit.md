@@ -16,6 +16,8 @@ View-The-U-body: |-
 
   ### Thursday, October 26th
 
+  * 5:00pm Mustang Basketball: Ladies vs. California Baptist University
+
   * 6:00pm Check-in
 
   * 7:00pm Night of Welcome
@@ -46,7 +48,9 @@ View-The-U-body: |-
 
   * 5:00-6:00pm Dinner in the Mustang Grill (Students)
 
-  * 8:00pm MegaBlend
+  * 6:00pm Mustang Madness
+
+  * 8:00pm Harvest Blend
 
   * 8:00pm Theatre Arts: Over the River and Through the Woods
 

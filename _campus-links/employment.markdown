@@ -68,7 +68,7 @@ positions:
     grasp and bend while lifting up to 30lbs.\n\n•\tRepetitive motions on a keyboard
     and looking at a computer monitor is required.\n\n•\tTravel: Some travel may be
     involved, including overnight stays.\n\nADDITIONAL INFORMATION\n\nMinimum Conditions
-    for Beginning Employment:\n\n\tPrior to beginning employment, in accordance with
+    for Beginning Employment:\n\nPrior to beginning employment, in accordance with
     The Master’s University policy and/or under federal or state law, all employees
     must:\n\n1.\tSign and return an offer of “At Will” employment.\n\n2.\tPresent
     verification of their identity and authorization to work in the United States.\n\nIf,
@@ -79,6 +79,136 @@ positions:
     military service, medical condition, or any physical or mental disability.  We
     are committed to practicing principles of equal employment opportunity and diversity
     based upon sovereign Biblical principles.\n\n"
+- title: Development Database Manager and Analyst (Part time) (University)
+  position: Staff
+  about-body: "Under general supervision, the Data Analyst is responsible for managing
+    the constituent database, data analytics, providing strategic reporting and prospective
+    research to maximize fundraising efforts. Utilize various tools to perform prospect/donor
+    research. Communication of analytics, reporting, research to the V.P. and Development
+    Officers.\n\nESSENTIAL FUNCTIONS\n•\tAccurately manages/inputs data into database,
+    including donor information, gift records and prepares reports for staff produced
+    from the database. Inputs and retrieves information in prescribed format. Updates
+    and corrects database. Ensures strict confidentiality of client records. \n•\tIs
+    responsible for the creation and design of strategic reports for Development Officers
+    through the use of queries in Raiser’s Edge Database. \n•\tManages Gift Entry
+    personnel, process, coordination\n•\tUtilizes a variety of research tools to perform
+    donor and prospect research in order to provide Development Officers with the
+    most strategic data available as they work to develop and cultivate relationships
+    with those who provide support to the college.\n•\tAdvancing the operations of
+    the Development Officers by anticipating their needs and finding creative solutions
+    to reach further donor involvement.\n•\tRegular attendance is essential\n•\tOther
+    duties as assigned\n\nCOMPETENCIES\n•\tCreativity to enhance and develop current
+    processes.\n•\tMaintain confidentiality, good judgment, and discernment. \n•\tWord
+    processing and data entry skills required. \n•\tUnderstand and follow specific
+    instructions and procedures, and complete work with accuracy. \n•\tAttention to
+    detail – verify data input, correct and communicate errors. \n•\tTechnology competency
+    – personal computer/related software applications (especially Microsoft Excel)
+    is required. \n•\tAbility to gather data, compile information, prepare and communicate
+    reports.\n•\tMultitask in a dynamic environment.\n•\tCompose, proofread and edit
+    correspondence.\n•\tExcellent organizational skills.\n•\tService oriented and
+    able to interface with many people is mandatory.\n•\tRelational and communication
+    skills.\n\nQUALIFICATIONS\n•\tHas a personal relationship with Jesus Christ and
+    a demonstrated commitment to the doctrinal position of TMU&S and a continuous
+    exhibition of a desire to minister and serve others in varied capacities. \n•\tEducation:
+    \ Bachelor’s degree preferred.\n•\tExperience:  Preferred 2+ years in an analyst
+    position in data management\n•\tDemonstrated ability to establish and maintain
+    effective working relationships with staff, faculty, vendors, students, &/or community
+    members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n•\tBasic
+    mathematics and accounting knowledge is necessary.\n•\tExcellent oral and written
+    command of the English language is required.\n•\tMust successfully pass a background
+    investigation.\n\nWORKING CONDITIONS\n•\tWorking Environment: Mostly indoors in
+    a typical office environment, with an occasional need to visit other areas on
+    campus.  \n•\tPhysical Demands: Must be able to lift, pull, push, grasp and bend
+    while lifting up to 30lbs.\n•\tRepetitive motions on a keyboard and looking at
+    a computer monitor for an extended duration of time is required.\n•\tTravel: Rare\n\nADDITIONAL
+    INFORMATION\nMinimum Conditions for Beginning Employment:\nPrior to beginning
+    employment, in accordance with The Master’s University policy and/or under federal
+    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
+    employment.\n2.\tPresent verification of their identity and authorization to work
+    in the United States.\n\nIf, because of a disability, you need special services
+    or facilities in order to apply or interview for this opening please contact the
+    Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
+    on the basis of race, color, national origin, ancestry, gender, age, marital status,
+    veteran status or prior military service, medical condition, or any physical or
+    mental disability.  We are committed to practicing principles of equal employment
+    opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
+    PROCESS\nIn order to be considered for a position, a completed Application for
+    Employment must be submitted to the Human Resources office.  The application may
+    be picked up in person in the HR office or is available to be downloaded as a
+    PDF from the web at\n http://www.masters.edu/campuslinks/employment.aspx.  Your
+    completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
+- title: Assistant to the Office of Student Activities (Full-time) (University)
+  position: Staff
+  about-body: "This position performs a variety of administrative and staff support
+    duties for the Office of Student Activities.  It reports to the Student Activities
+    Coordinator and has supervisory responsibilities over student interns, student
+    employees, and student leadership.\n\nESSENTIAL FUNCTIONS\n* Performs administrative
+    tasks for the Student Activities Department: answering the telephone, responding
+    to e-mails, helping visitors, and resolving and/or referring a variety of administrative
+    problems and inquiries. \n* Creates, maintains, and updates files, databases,
+    records, and/or other documents; develops and maintains data, and performs routine
+    analyses and calculations in the processing of data. Sorts, screens, reviews,
+    and distributes incoming and outgoing mail; writes timely responses to written
+    inquiries. Uses computer to write and/or edit e-mails and other written correspondence
+    or documents from dictation, supervisor’s instructions, or from knowledge of established
+    departmental policies: prepare, compose, type, edit, and distribute agendas and/or
+    minutes of meetings. \n* Schedules, creates and coordinates meetings, events,
+    interviews, appointments, and/or other similar activities: which may include coordinating
+    travel and lodging arrangements. * Helps plan and execute major events for students,
+    the larger campus community, and/or the public in conjunction with the Student
+    Activities Coordinator. \n* Performs miscellaneous job-related duties as assigned.
+    \n* The position requires problem solving throughout the workday. * Regular attendance
+    is essential. \n\nCOMPETENCIES:\n* Possess excellent organizational skills. \n*
+    Have computer proficiency. \n* Ability to compose, proofread and edit correspondence.
+    Have basic Microsoft Office Suite skills; including, but not limited to, Word
+    and Excel. \n* Exercise confidentiality, good judgment and discernment. \n* Service
+    orientation and ability to interface with many people is mandatory. \n* Multitasking
+    in an environment with many distractions is a must. \n* Able to lift, pull, push,
+    grasp and bend while lifting up to 20lbs. \n* Repetitive motions on a keyboard,
+    and looking at a computer monitor for an extended duration of time is required.
+    \n* Reading and comprehending correspondence is imperative. \n* Basic mathematics
+    and accounting knowledge is necessary. \n* Excellent oral and written command
+    of the English language is required\n\nQUALIFICATIONS\n* Has a personal relationship
+    with Jesus Christ and a demonstrated commitment to the doctrinal position of TMU&S
+    and a continuous exhibition of a desire to minister and serve others in varied
+    capacities. \nExperience: One (1) year of prior administrative assistant duties
+    preferred.\nEducational: Bachelor’s degree preferred.\n\t\nWorking Environment:\nIndoors
+    and comfortable with some distractions. Outdoors vary on date, time and location.
+    Occasional non-traditional hours; weekends, evenings, overnight.\t\n\nADDITIONAL
+    INFORMATION\nMinimum Conditions for Beginning Employment:\nPrior to beginning
+    employment, in accordance with The Master’s University policy and/or under federal
+    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
+    employment.\n2.\tPresent verification of their identity and authorization to work
+    in the United States.\n\nIf, because of a disability, you need special services
+    or facilities in order to apply or interview for this opening please contact the
+    Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
+    on the basis of race, color, national origin, ancestry, gender, age, marital status,
+    veteran status or prior military service, medical condition, or any physical or
+    mental disability.  We are committed to practicing principles of equal employment
+    opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
+    PROCESS\nIn order to be considered for a position, a completed Application for
+    Employment must be submitted to the Human Resources office.  The application may
+    be picked up in person in the HR office or is available to be downloaded as a
+    PDF from the web at\n http://www.masters.edu/campuslinks/employment.aspx.  Your
+    completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete."
 layout: employment
 ---
 

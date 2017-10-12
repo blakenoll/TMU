@@ -5,9 +5,9 @@ parallax-img: "/uploads/jeremy-thomas-98201.jpg"
 layout: page
 ---
 
-# Astronomy Winterim Course
+# Winterim Astronomy Course
 
-Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be teaching winterim Astronomy at The Master’s University this January 2018. Dr. Lisle specializes in solar astrophysics and has made a number of scientific discoveries regarding the solar photosphere, including the detection of giant cell boundaries using the SOHO spacecraft. He has dedicated his life to the communication of the gospel through science, and is focused on equipping others to do the same with his full-time work in apologetics ministry.
+Dr. Jason Lisle, a globally recognized Christian astrophysicist will be teaching Winterim Astronomy at The Master’s University this January 2018. Dr. Lisle specializes in solar astrophysics and has made a number of scientific discoveries regarding the solar photosphere, including the detection of giant cell boundaries using the SOHO spacecraft. He has dedicated his life to the communication of the gospel through science, and is focused on equipping others to do the same with his full-time work in apologetics ministry.
 
 <div class="row">
 
@@ -25,18 +25,18 @@ Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be te
 
 ### **Course Information**
 
-**Astronomy PS 338 Lecture**
+**Astronomy PS338 Lecture**
 
 * January 3-5 8:30am - 1:00pm
 
 * January 8-10 8:30am - 1:00pm
 
-**Astronomy PS 338 Lab**
+**Astronomy PS338 Lab**
 
 * January 3-5 7:00pm - 9:00pm
 
 * January 8-9 7:00pm - 9:00pm
 
-*The astronomy lab and lecture with Dr. Jason Lisle will count as a GE Science credit. *
+*The astronomy lab and lecture with Dr. Jason Lisle will count as elective credit; Teacher Education and Liberal Studies students can receive elective science credit. For any questions, please contact your advisor.* 
 
-To enroll in this course,  complete pre-registration on [Self Service](https://portal.masters.edu/SelfService/Home.aspx) and follow the necessary steps listed [here](http://www.masters.edu/registrar#registration) to register for the course and/or lab. For any questions please contact the Registrar office at [registar@masters.edu](mailto:registar@masters.edu) or 661.362.8888.
+To enroll in this course,  complete pre-registration on [Self Service](https://portal.masters.edu/SelfService/Home.aspx) and follow the necessary steps listed [here](http://www.masters.edu/registrar#registration) to register for the course and/or lab. For any questions please contact the Registrar's office at [registar@masters.edu](mailto:registar@masters.edu) or 661.362.8888.

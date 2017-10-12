@@ -4,9 +4,9 @@ date: 2017-10-09 20:16:00 Z
 parallax-img: "/uploads/jeremy-thomas-98201.jpg"
 ---
 
-# Dual Enrollment Students Winter Astronomy
+# Dual Enrollment Students-Winterim Astronomy Course
 
-Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be teaching winterim Astronomy at The Master’s University this January 2018. Dr. Lisle specializes in solar astrophysics and has made a number of scientific discoveries regarding the solar photosphere, including the detection of giant cell boundaries using the SOHO spacecraft. He has dedicated his life to the communication of the gospel through science, and is focused on equipping others to do the same with his full-time work in apologetics ministry.
+Dr. Jason Lisle, a globally recognized Christian astrophysicist will be teaching Winterim Astronomy at The Master’s University this January 2018. Dr. Lisle specializes in solar astrophysics and has made a number of scientific discoveries regarding the solar photosphere, including the detection of giant cell boundaries using the SOHO spacecraft. He has dedicated his life to the communication of the gospel through science, and is focused on equipping others to do the same with his full-time work in apologetics ministry.
 
 <div class="row">
 
@@ -24,16 +24,16 @@ Dr. Jason Lisle, a globally recognized Ph.D. Christian astrophysicist will be te
 
 ### **Course Information**
 
-**Astronomy PS 138 Lecture**
+**Astronomy PS138 Lecture**
 
 January 3-5 8:30am - 1:00pm
 January 8-10 8:30am - 1:00pm
 
-**Astronomy PS 138 Lab**
+**Astronomy PS138 Lab**
 
 January 3-5 7:00pm - 9:00pm
 January 8-9 7:00pm - 9:00pm
 
-*This astronomy lab and lecture will count as a GE Science credit or as an elective credit*
+*The astronomy lab and lecture with Dr. Lisle will count as elective credit.*
 
-For any questions or to enroll in this course, please contact an advisor at tmuonline@masters.edu or 661.362.2780.
+For any questions or to enroll in this course, please contact an advisor at [tmuonline@masters.edu](mailto:tmuonline@masters.edu) or 661.362.2780.
