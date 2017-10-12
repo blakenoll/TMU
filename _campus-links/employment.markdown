@@ -218,7 +218,7 @@ positions:
     advice, guidance, and assistance to prospective and current students regarding
     admission/transfer, or records and registration policies and procedures. Resolves
     routine process problems as they arise to ensure customer satisfaction.\n\nESSENTIAL
-    FUNCTIONS\n•\tThis person must be customer service oriented\n\n•\tSupport ongoing
+    FUNCTIONS\n\n•\tThis person must be customer service oriented\n\n•\tSupport ongoing
     enrollment efforts in a “results-oriented,” team atmosphere\n\n•\tMust learn complex
     processes quickly\n\n•\tHave to follow-up on admission inquiries (phone based
     customer service)\n\n•\tNeed to organize multiple application processes (attend
@@ -226,7 +226,7 @@ positions:
     with the enrollment team (timely communication)\n\n•\tMust take ownership of projects\n\n•\tThis
     position offers flexible scheduling (within normal business hours), pending approval
     of TMUO Director of Enrollment and/or Dean of Online Learning.\n \n•\tRegular
-    attendance is essential\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n•\tStrong
+    attendance is essential\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tStrong
     interpersonal and communication skills and the ability to work effectively with
     a wide range of constituencies in a diverse community.\n\n•\tAbility to analyze
     and solve problems and to make evaluative judgments.\n\n•\tSkill in the use of
@@ -240,7 +240,7 @@ positions:
     and secretarial skills.\n\n•\tAbility to provide technical guidance and interpretation
     to students on enrollment policies and procedures.\n\n•\tAbility to complete moderately
     complex administrative paperwork.\n\n•\tAbility to perform complex tasks and to
-    prioritize multiple projects.\n\nQUALIFICATIONS\nList minimum requirements to
+    prioritize multiple projects.\n\nQUALIFICATIONS\n\nList minimum requirements to
     be considered for this position:\n\n•\tHas a personal relationship with Jesus
     Christ and a demonstrated commitment to the doctrinal position of TMU&S and a
     continuous exhibition of a desire to minister and serve others in varied capacities.\n
@@ -257,33 +257,34 @@ positions:
     to interface with many people is mandatory.\n\n•\tMultitasked in an environment
     with many distractions is a must.\n\n•\tReading and comprehending correspondence
     is imperative.\n\n•\tMust successfully pass a background investigation.\n\nWORKING
-    CONDITIONS\nList general working conditions for this position:\n\n•\tWorking Environment:
-    Mostly indoors in a typical office environment, with an occasional need to visit
-    other areas on campus.\n  \n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\n•\tRepetitive motions on a keyboard
-    and looking at a computer monitor for an extended duration of time is required.\n\n•\tTravel:
-    Some travel involved including overnight stays.\n\nADDITIONAL INFORMATION\nMinimum
-    Conditions for Beginning Employment:\n\n\tPrior to beginning employment, in accordance
-    with The Master’s University policy and/or under federal or state law, all employees
-    must:\n\n1.\tSign and return an offer of “At Will” employment.\n\n2.\tPresent
-    verification of their identity and authorization to work in the United States.\n\nIf,
-    because of a disability, you need special services or facilities in order to apply
-    or interview for this opening please contact the Human Resources department.\n\nThe
-    Master’s University & Seminary does not discriminate on the basis of race, color,
-    national origin, ancestry, gender, age, marital status, veteran status or prior
-    military service, medical condition, or any physical or mental disability.  We
-    are committed to practicing principles of equal employment opportunity and diversity
-    based upon sovereign Biblical principles.\n\nAPPLICATION PROCESS\nCompleted application
-    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\nHuman Resources Department\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s University.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\nAll documents included in your application remain the sole property
-    of The Master’s University and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
+    CONDITIONS\n\nList general working conditions for this position:\n\n•\tWorking
+    Environment: Mostly indoors in a typical office environment, with an occasional
+    need to visit other areas on campus.\n  \n•\tPhysical Demands: Must be able to
+    lift, pull, push, grasp and bend while lifting up to 30lbs.\n\n•\tRepetitive motions
+    on a keyboard and looking at a computer monitor for an extended duration of time
+    is required.\n\n•\tTravel: Some travel involved including overnight stays.\n\nADDITIONAL
+    INFORMATION\n\nMinimum Conditions for Beginning Employment:\n\n\tPrior to beginning
+    employment, in accordance with The Master’s University policy and/or under federal
+    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
+    employment.\n\n2.\tPresent verification of their identity and authorization to
+    work in the United States.\n\nIf, because of a disability, you need special services
+    or facilities in order to apply or interview for this opening please contact the
+    Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
+    on the basis of race, color, national origin, ancestry, gender, age, marital status,
+    veteran status or prior military service, medical condition, or any physical or
+    mental disability.  We are committed to practicing principles of equal employment
+    opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
+    PROCESS\n\nCompleted application form from The Master’s University.  This can
+    be obtained at www.masters.edu/jobs or by contacting\n\nThe Master’s University
+    and Seminary\nHuman Resources Department\n21726 Placerita Canyon Road • Santa
+    Clarita, California • 91321-1200\n(800) 568-6248 • (661) 362-2844 • FAX (661)
+    362-2717\n\nSelection Process:\n\nAll applications will be reviewed by the Human
+    Resources department.  Selected candidates will be invited for a personal interview
+    at The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\n\nAll
+    documents included in your application remain the sole property of The Master’s
+    University and will not be returned.   Your file for this opening will not be
+    considered unless all requested items are submitted and are complete.\n\n"
 layout: employment
 ---
 
