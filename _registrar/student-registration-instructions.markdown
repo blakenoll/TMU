@@ -45,7 +45,7 @@ If you decide not to return to TMU in Spring 2018, please notify the Registrarâ€
 * **Once my advisor has authorized me, how long do I have to register or make changes to my schedule?**\
   *Once authorized, you remain so through the first two weeks of the Spring semester.*
 
-* **How do I drop classes that Iâ€™m registered for?***\
+* **How do I drop classes that I'm registered for?***\
   Go to Register/Traditional Courses/2018 Spring in Self Service.*
 
 * **How do I view my schedule?**\
