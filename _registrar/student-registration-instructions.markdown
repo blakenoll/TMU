@@ -25,11 +25,11 @@ After you have completed **Pre-Registration** and put courses in your cart, set 
 
 **Registration Start Dates:** \
 You may schedule an advising appointment at any time, but you will not be able to be register until the start date according to this schedule: (Please note these are completed units.)
-|    Mon      |    Oct 23    |    Seniors/Graduate Students             |    ≥ 90 units    | 
+|    Mon      |    Oct 23    |    Seniors/Graduate Students             |    90 units    | 
 |-------------|--------------|------------------------------------------|------------------|
-|    Thurs    |    Oct 26    |    Juniors                               |    ≥ 60 units    | 
-|    Wed      |    Nov 1     |    Sophomores                            |    ≥ 30 units    | 
-|    Tues     |    Nov 7     |    Freshmen                              |    < 30 units    | 
+|    Thurs    |    Oct 26    |    Juniors                               |    60 units    | 
+|    Wed      |    Nov 1     |    Sophomores                            |    30 units    | 
+|    Tues     |    Nov 7     |    Freshmen                              |    30 units    | 
 |    Fri      |    Nov 10    |    Last day for priority registration    |                  | 
 
 **Waitlists:**
