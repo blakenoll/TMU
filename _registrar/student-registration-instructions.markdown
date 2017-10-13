@@ -1,6 +1,7 @@
 ---
 title: Student Registration Instructions
 date: 2017-10-13 16:38:00 Z
+layout: registrar
 ---
 
 Please follow the steps below to register for Spring 2018 classes at The Master's University. A complete set of instructions is available [here](https://athletics.masters.edu/media/870475/registration-instructions-student-sp18.doc).
