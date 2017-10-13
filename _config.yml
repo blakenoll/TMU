@@ -56,9 +56,6 @@ collections:
   redirects:
     title: Redirects
     output: true
-  registrar:
-    title: Registrar
-    output: true
   studentlife:
     title: Student Life
     output: true
