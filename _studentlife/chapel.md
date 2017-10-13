@@ -2,9 +2,9 @@
 title: Chapel
 sm-image: "/uploads/StudentLife_Chapel.png"
 chapel-band-body: |-
-  Band 1: Abby Laguna, Kayla Burnham, Daniel Morales, Michael Guerra, Gabe Potvin, John Uy, Joe Bahr(both bands)
+  Band 1: Daniel Morales, Norman Molina, Amanda Kinney, Joe Bahr, Mark Libby, Gabe Potvin, John Uy, Crystal Dobbs
 
-  Band 2: John Jordon, Amanda Kinney, Chelsea Enloe, Johnny Mendoza, Connor Rhoden, Jordan Hubbs (both bands), Wesley Chenette
+  Band 2: John Jordon, Anna Martin, Mark Libby, Wesley Chenette, Jonathan Kugler, Connor Rhoden
 layout: chapel
 ---
 

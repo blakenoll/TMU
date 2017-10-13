@@ -1,7 +1,7 @@
 ---
 title: Winter Astronomy
 date: 2017-10-09 17:24:00 Z
-parallax-img: "/uploads/jeremy-thomas-98201.jpg"
+parallax-img: "/uploads/WA_Undergrad_WebBannerPage-01.jpg"
 layout: page
 ---
 
