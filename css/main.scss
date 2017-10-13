@@ -226,6 +226,7 @@ a {
   margin-left: 25%;
 }
 
+
 .collapsible-body {
   ul {
     padding-left: 20px;
@@ -234,6 +235,17 @@ a {
 
     }
   }
+}
+
+.calendar-dot {
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.cal-name {
+  margin-right: 10px;
 }
 
 .dropdown-menu {

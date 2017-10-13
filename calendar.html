@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Calendar
+parallax-img: /images/Parallax1.jpg
 ---
 
 <script type="text/javascript">
@@ -15,14 +17,18 @@ $(document).ready(function() {
 				right: 'listDay,listWeek,month'
 			},
       height: "auto",
-      contentHeight: "auto",
+      // contentHeight: "auto",
 
 			// customize the button names,
 			// otherwise they'd all just say "list"
-			views: {
-				listDay: { buttonText: 'day' },
-				listWeek: { buttonText: 'week' },
-			},
+      views: {
+        listDay: { buttonText: 'Day' },
+        listWeek: { buttonText: 'Week' },
+        month: {
+          buttonText: 'Month',
+
+        }
+      },
 
       googleCalendarApiKey: 'AIzaSyDt87P0ZlRrdUVSH9fygbhMkNQ7Un5-jRw',
       eventSources: [
@@ -60,11 +66,16 @@ $(document).ready(function() {
         ],
 
         eventMouseover: function(event, jsEvent, view) {
-          $(this).append("<span class='tooltiptext'>" + event.title + "</span>")
+          if ($('#calendar').fullCalendar('getView').name === "month") {
+            $(this).append("<span class='tooltiptext'>" + event.title + "</span>")
+          }
+
         },
 
         eventMouseout: function(event, jsEvent, view) {
-          $(".tooltiptext").remove()
+          if ($('#calendar').fullCalendar('getView').name === "month") {
+            $(".tooltiptext").remove()
+          }
         },
 
         eventClick: function(event) {
@@ -74,6 +85,7 @@ $(document).ready(function() {
         },
 
   });
+
 
 });
 </script>
@@ -104,6 +116,9 @@ $(document).ready(function() {
     color: #fff;
     background-color: #0c2340;
   }
+  .fc-more {
+    color: #2A5DB0;
+  }
   button:focus {
     background-color: #0c2340;
     color: #fff;
@@ -112,9 +127,20 @@ $(document).ready(function() {
     border-bottom: none;
   }
 </style>
-
+{% include parallax-header.html %}
 <div class="container">
   <br>
+  <div class="row">
+    <div class="col s12">
+      <span class="calendar-dot" style="background-color: #DAAA00;"></span><span class="cal-name"> Visit </span>
+      <span class="calendar-dot" style="background-color: #0C2340;"></span><span class="cal-name"> Student Activities </span>
+      <span class="calendar-dot" style="background-color: #5E8Ab4;"></span><span class="cal-name"> Performing Arts </span>
+      <span class="calendar-dot" style="background-color: #5B6770;"></span><span class="cal-name"> Athletics </span>
+      <span class="calendar-dot" style="background-color: #97999B;"></span><span class="cal-name"> Academics </span>
+      <span class="calendar-dot" style="background-color: #B8B08C;"></span><span class="cal-name"> Alumni </span>
+    </div>
+  </div>
+
   <div class="row">
     <div class="col s12 m12 l12">
       <div id='calendar'></div>
