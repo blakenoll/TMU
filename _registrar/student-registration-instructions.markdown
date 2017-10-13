@@ -25,32 +25,32 @@ After you have completed **Pre-Registration** and put courses in your cart, set 
 
 **Registration Start Dates:** \
 You may schedule an advising appointment at any time, but you will not be able to be register until the start date according to this schedule: (Please note these are completed units.)
-|    Mon      |    Oct 23    |    Seniors/Graduate Students             |    ≥ 90 units    |   |
-|-------------|--------------|------------------------------------------|------------------|---|
-|    Thurs    |    Oct 26    |    Juniors                               |    ≥ 60 units    |   |
-|    Wed      |    Nov 1     |    Sophomores                            |    ≥ 30 units    |   |
-|    Tues     |    Nov 7     |    Freshmen                              |    < 30 units    |   |
-|    Fri      |    Nov 10    |    Last day for priority registration    |                  |   |
+|    Mon      |    Oct 23    |    Seniors/Graduate Students             |    ≥ 90 units    | 
+|-------------|--------------|------------------------------------------|------------------|
+|    Thurs    |    Oct 26    |    Juniors                               |    ≥ 60 units    | 
+|    Wed      |    Nov 1     |    Sophomores                            |    ≥ 30 units    | 
+|    Tues     |    Nov 7     |    Freshmen                              |    < 30 units    | 
+|    Fri      |    Nov 10    |    Last day for priority registration    |                  | 
 
-\*\*Waitlists: \
-\*\*If a course if closed, you may add yourself to the waitlist by clicking the WAIT button. If a seat becomes available, you will be notified by TMU email. You must respond by 5:00pm the following day or your name will be dropped and the next person on the wait list will be notified.
+**Waitlists:**
+If a course if closed, you may add yourself to the waitlist by clicking the WAIT button. If a seat becomes available, you will be notified by TMU email. You must respond by 5:00pm the following day or your name will be dropped and the next person on the wait list will be notified.
 
-\*\*2018 Spring Check-In:\
-\*\*Check-in for continuing students will be on Wednesday, January 10, 2018, from 9:00-5:00. Check-in instructions will be posted on Self-Service.
+**2018 Spring Check-In:**
+Check-in for continuing students will be on Wednesday, January 10, 2018, from 9:00-5:00. Check-in instructions will be posted on Self-Service.
 
-\*\*Non-Returning Students:\
-\*\*If you decide not to return to TMU in Spring 2018, please notify the Registrar’s Office by December 15, 2017.
+**Non-Returning Students:**
+If you decide not to return to TMU in Spring 2018, please notify the Registrar’s Office by December 15, 2017.
 
 **FAQ:**
 
-· \*\*Once my advisor has authorized me, how long do I have to register or make changes to my schedule?\
-\*\**Once authorized, you remain so through the first two weeks of the Spring semester.*
+* **Once my advisor has authorized me, how long do I have to register or make changes to my schedule?\
+   ***Once authorized, you remain so through the first two weeks of the Spring semester.*
 
-· **How do I drop classes that I’m registered for?***\
-Go to Register/Traditional Courses/2018 Spring in Self Service.*
+* **How do I drop classes that I’m registered for?***\
+   Go to Register/Traditional Courses/2018 Spring in Self Service.*
 
-· \*\*How do I view my schedule?\
-\*\**Click on View Schedule in Self Service.*
+* **How do I view my schedule?\
+   ***Click on View Schedule in Self Service.*
 
-· \*\*Do you have a blank weekly schedule template?\
-\*\**Yes – [click here](https://athletics.masters.edu/media/870479/weekly-schedule-form.xlsx).*
+* **Do you have a blank weekly schedule template?\
+   ***Yes – [click here](https://athletics.masters.edu/media/870479/weekly-schedule-form.xlsx).*
