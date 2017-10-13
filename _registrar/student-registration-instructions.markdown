@@ -3,7 +3,7 @@ title: Student Registration Instructions
 date: 2017-10-13 16:38:00 Z
 ---
 
-Please follow the steps below to register for Spring 2018 classes at The Master’s University. A complete set of instructions is available [here](https://athletics.masters.edu/media/870475/registration-instructions-student-sp18.doc).
+Please follow the steps below to register for Spring 2018 classes at The Master's University. A complete set of instructions is available [here](https://athletics.masters.edu/media/870475/registration-instructions-student-sp18.doc).
 
 **Pre-Registration:**
 You must complete **Pre-Registration** before you can register. Click [here](https://portal.masters.edu/Preregistration) to pre-register in **Self-Service**. Please complete this step right away to avoid registration delays.
@@ -38,7 +38,7 @@ If a course if closed, you may add yourself to the waitlist by clicking the WAIT
 Check-in for continuing students will be on Wednesday, January 10, 2018, from 9:00-5:00. Check-in instructions will be posted on Self-Service.
 
 **Non-Returning Students:**
-If you decide not to return to TMU in Spring 2018, please notify the Registrar’s Office by December 15, 2017.
+If you decide not to return to TMU in Spring 2018, please notify the Registrar's Office by December 15, 2017.
 
 **FAQ:**
 
