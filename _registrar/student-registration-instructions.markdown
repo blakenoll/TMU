@@ -9,8 +9,10 @@ Please follow the steps below to register for Spring 2018 classes at The Master'
 **Pre-Registration:**
 You must complete **Pre-Registration** before you can register. Click [here](https://portal.masters.edu/Preregistration) to pre-register in **Self-Service**. Please complete this step right away to avoid registration delays.
 
-**Schedule of Classes:**\
-[2018 Spring](https://athletics.masters.edu/media/870476/course-schedule-spring-2018.xlsx)\
+**Schedule of Classes:**
+
+[2018 Spring](https://athletics.masters.edu/media/870476/course-schedule-spring-2018.xlsx)
+
 [2018 Post-Session](https://athletics.masters.edu/media/870477/csps2018.docx) (For registration instructions, click [here](https://athletics.masters.edu/media/870493/post-2018-reg-info.docx))
 
 [2018 Winterim](https://athletics.masters.edu/media/870478/cswi2018.docx) (For registration instructions, click [here](https://athletics.masters.edu/media/870494/winterim-2018-reg-info.docx))
