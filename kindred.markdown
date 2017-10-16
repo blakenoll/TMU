@@ -18,11 +18,10 @@ The Master's University invites alumni and prospective students to a special rec
 
 Following this reception, you are also invited to join the Kindred Community Church family and general public for an evening service with Dr. John MacArthur in the church's main worship center.
 
-**Please RSVP to reserve your spot by clicking [here](https://app.mobilecause.com/f/1k4e/n).Space is limited.**
+**Please RSVP to reserve your spot by clicking [here](https://app.mobilecause.com/f/1k4e/n). Space is limited.**
 
 For any questions, contact Shayna Anderson at 661.362.2203 or [ssanderson@masters.edu](mailto:ssanderson@masters.edu)
 
-Kindred Church in Orange County
-8712 E Santa Ana Canyon Rd
+Kindred Community Church in Orange County
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13251.897230909233!2d-117.722979!3d33.864553!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2f7b1722ef028651!2sKindred\+Community\+Church!5e0!3m2!1sen!2sus!4v1507581650928" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
