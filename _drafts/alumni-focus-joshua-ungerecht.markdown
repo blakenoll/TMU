@@ -1,6 +1,8 @@
 ---
 title: 'Alumni Focus: Joshua Ungerecht'
 date: 2017-10-16 16:10:00 Z
+author: Adam Setser
+sm-image: "/uploads/Alumni_Joshua.jpg"
 ---
 
 There aren’t many people who can say they are the CEO of multiple companies, but Joshua Ungerecht (’05) can. There are even fewer people who would adamantly defer that glory away from themselves, but Ungerecht does. In an industry full of corruption and selfishness, a man like that stands out.
