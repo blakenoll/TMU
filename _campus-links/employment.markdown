@@ -79,7 +79,7 @@ positions:
     military service, medical condition, or any physical or mental disability.  We
     are committed to practicing principles of equal employment opportunity and diversity
     based upon sovereign Biblical principles.\n\n"
-- title: Development Database Manager and Analyst (Part time) (University)
+- title: Development Database Manager and Analyst (Full-time) (University)
   position: Staff
   about-body: "Under general supervision, the Data Analyst is responsible for managing
     the constituent database, data analytics, providing strategic reporting and prospective
