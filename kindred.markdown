@@ -18,7 +18,7 @@ The Master's University invites alumni and prospective students to a special rec
 
 Following this reception, you are also invited to join the Kindred Community Church family and general public for an evening service with Dr. John MacArthur in the church's main worship center.
 
-**Please RSVP to reserve your spot by clicking [here](https://app.mobilecause.com/f/1k4e/n).Space is limited.**
+**Please RSVP to reserve your spot by clicking [here](https://app.mobilecause.com/f/1k4e/n). Space is limited.**
 
 For any questions, contact Shayna Anderson at 661.362.2203 or [ssanderson@masters.edu](mailto:ssanderson@masters.edu)
 
