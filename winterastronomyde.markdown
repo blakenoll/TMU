@@ -26,13 +26,15 @@ Dr. Jason Lisle, a globally recognized Christian astrophysicist will be teaching
 
 **Astronomy PS138 Lecture**
 
-January 3-5 8:30am - 1:00pm
-January 8-10 8:30am - 1:00pm
+* January 3-5 8:30am - 1:00pm
+
+* January 8-10 8:30am - 1:00pm
 
 **Astronomy PS138 Lab**
 
-January 3-5 7:00pm - 9:00pm
-January 8-9 7:00pm - 9:00pm
+* January 3-5 7:00pm - 9:00pm
+
+* January 8-9 7:00pm - 9:00pm
 
 *The astronomy lab and lecture with Dr. Lisle will count as elective credit.*
 
