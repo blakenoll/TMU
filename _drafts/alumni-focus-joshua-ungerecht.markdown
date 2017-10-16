@@ -43,6 +43,7 @@ Anybody in the financial services industry can see Ungerecht’s excellence, fro
 
 “I love the professors of TMU. They shaped me and my wife’s life significantly,” he said. “They love the Lord and they love the students. Katherine and I want to leverage the resources that God has given us to help TMU develop a more robust alumni association that will enhance the encouragement, equipping, and placement of students in the marketplace in a way that will maximize our collective stewardship in Christ.” 
 
-Ungerecht concluded with a challenge: “What has God gifted you with and how can you leverage that to maximize your impact on the world until God calls you home? That is how you’ll find your joy.” 
+Ungerecht concluded with a challenge: 
+### “What has God gifted you with and how can you leverage that to maximize your impact on the world until God calls you home? That is how you’ll find your joy.” 
 
 Perhaps that is the question Dr. Tatlock asked Ungerecht over a decade ago.
