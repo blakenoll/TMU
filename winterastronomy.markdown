@@ -1,7 +1,7 @@
 ---
 title: Winter Astronomy
 date: 2017-10-09 17:24:00 Z
-parallax-img: "/uploads/WA_Undergrad_WebBannerPage-01.jpg"
+parallax-img: "/uploads/WA_Undergrad_WebBannerPage-01-e9ac24.jpg"
 layout: page
 ---
 
