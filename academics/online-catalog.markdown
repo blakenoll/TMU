@@ -1,5 +1,5 @@
 ---
-title: Course Catalog
+title: Academic Catalog
 date: 2017-08-29 15:33:00 Z
 layout: page
 ---
