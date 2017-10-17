@@ -4,7 +4,7 @@
             <!-- <div class="event-container"> -->
             <!-- <h1 class="center white-text">Upcoming Events</h1> -->
                 <div class="carousel center">
-                    {% for event in site.upcomingevents %}
+                    {% for event in site.upcomingevents | sort: 'date' %}
                     <a class="carousel-item white-text" href="{{ event.event-link }}">
                         <img src="{{ event.image | prepend: site.url }}">
                         {{ event.event_date | date: "%a, %b %d, %Y"}}
