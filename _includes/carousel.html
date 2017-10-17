@@ -1,7 +1,8 @@
 
   <div class="slider">
       <ul class="slides">
-        {% for banner in site.landingPageBanners | sort: 'position'%}
+        {% assign banners = site.landingPageBanners | sort: "position", "last" %}
+        {% for banner in banners %}
         <li>
           <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.title }}">
           <div class="caption right-align">
