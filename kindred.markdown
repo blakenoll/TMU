@@ -20,7 +20,7 @@ Following this reception, you are also invited to join the Kindred Community Chu
 
 **Please RSVP to reserve your spot by clicking [here](https://app.mobilecause.com/f/1k4e/n). Space is limited.**
 
-For any questions, contact Shayna Anderson at 661.362.2203 or [ssanderson@masters.edu](mailto:ssanderson@masters.edu)
+For any questions, contact Shayna Anderson at 661.362.2203 or [sanderson@masters.edu](mailto:sanderson@masters.edu)
 
 Kindred Community Church in Orange County
 
