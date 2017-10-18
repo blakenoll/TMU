@@ -366,6 +366,7 @@ ferpa:
        \
        Policy Written: 6-22-2005\
        gedwards / Office of Financial Aid
+student-record-policy-text: 
 layout: ferpa
 ---
 
