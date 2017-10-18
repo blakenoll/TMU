@@ -327,13 +327,13 @@ layout: page
 
 There are seven opportunities to perform a LIVE Music Scholarship audition for the 2017-2018 school year. Choose from any of the following dates and schedule your audition time today by calling 800.568.6248 ext. 2279 or e-mailing [music@masters.edu](mailto:music@masters.edu). These scholarship auditions also serve as Bachelor of Music candidacy auditions.
 
-September 19, 2016 - beginning at 4:00 pm | Mondays @ Master's\
-October 28, 2016 - beginning at 2:00 pm | College View Weekend\
-November 14, 2016 - [Fall Prelude](http://www.masters.edu/prelude)\
-February 10, 2017 - beginning at 2:00 pm | President's Scholar Weekend\
-February 13, 2017 - [Spring Prelude ](http://www.masters.edu/prelude)\
-March 24, 2017 - beginning at 2:00 pm | College View Weekend\
-April 10, 2017 - beginning at 4:00 pm | Mondays @ Master's
+* September 19, 2016 - beginning at 4:00 pm | Mondays @ Master's
+*  October 28, 2016 - beginning at 2:00 pm | View the U Weekend
+*  November 14, 2016 - [Fall Prelude](http://www.masters.edu/prelude)
+*  February 10, 2017 - beginning at 2:00 pm | President's Scholar Weekend
+*  February 13, 2017 - [Spring Prelude ](http://www.masters.edu/prelude)
+*  March 24, 2017 - beginning at 2:00 pm | View the U Weekend
+*  April 10, 2017 - beginning at 4:00 pm | Mondays @ Master's
 
 *All auditions for the 2016-2017 school year have passed.*
 
