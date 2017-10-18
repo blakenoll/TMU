@@ -24,9 +24,9 @@ layout: page
   </div>
   {% endfor %}
   <!-- Modal Structure -->
-  <div id="#srp" class="modal">
+  <div id="srp" class="modal">
     <div class="modal-content">
-      <p>{{ section.body | markdownify }}</p>
+      <p>{{ page.student-record-policy-text | markdownify }}</p>
       <button class="btn tbn-navy" type="button" name="button" onclick="$('#srp').modal('close');">close</button>
     </div>
   </div>
