@@ -39,7 +39,7 @@ new-transfer-student-body: |-
   <ul>
   <li>Awarded to traditional, full-time students.</li>
   <li>Renewable with a 2.75 cumulative GPA.</li>
-  <li>Click <a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
+  <li>Click <a href="/tcc" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
   <li>Transfer students receive a $12,000 Distinguished Scholarship with a cumulative college GPA of 3.75\+.</li>
   </ul>
   </td>
@@ -51,7 +51,7 @@ new-transfer-student-body: |-
   <ul>
   <li>Awarded to traditional, full-time students.</li>
   <li>Renewable with a 2.75 cumulative GPA.</li>
-  <li>Click <a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
+  <li>Click <a href="/tcc" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
   <li>Transfer students receive a $10,000 Honors Scholarship  a with a cumulative college GPA of 3.50-3.74.</li>
   </ul>
   </td>
@@ -63,7 +63,7 @@ new-transfer-student-body: |-
   <ul>
   <li>Awarded to traditional, full-time students.</li>
   <li>Renewable with a 2.75 cumulative GPA.</li>
-  <li>Click <a href="http://www.masters.edu/financial-aid/total-cost-calculator/" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
+  <li>Click <a href="/tcc" target="_blank" title="Total Cost Calculator">here</a> to see our Total Cost Calculator.</li>
   <li>Transfer students receive a $8,000 Merit Scholarship with a cumulative college GPA of 3.25-3.54.</li>
   </ul>
   </td>
@@ -275,7 +275,7 @@ new-transfer-student-body: |-
   </tbody>
   </table>
   <p> </p>
-  <p>For additional scholarships, please see our <a href="#" target="_blank" title="scholarshipsearch" class="scroll-anchor">Scholarship Search.</a></p>
+  <p>For additional scholarships, please see our <a href="/scholarship-search" target="_blank" title="scholarshipsearch" class="scroll-anchor">Scholarship Search.</a></p>
 continuing-students-body: |-
   <h2 id="link-top">Scholarships - Continuing Students</h2>
   <p>Every student must complete a <a href="/media/869351/forms-application-faa.pdf" target="_blank" title="Forms- Application- FAA.pdf">Financial Aid Application</a> to be considered for any financial aid (including Music, Athletics and outside scholarships). The Master's <span>University </span>offers <a href="#link-merit">Merit-based <span style="background-color: #ffffff;">Scholarships</span></a>, <a href="#link-need">Need-based Grants</a>, and <a href="#link-federal">Federal/State Aid</a>. See below for more details. All institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.</p>
