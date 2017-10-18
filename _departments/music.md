@@ -850,7 +850,7 @@ ensembles:
     Students regularly appear in studio and compostion recitals each semester.
 BA-entrance-file: 
 BM-entrance-file: 
-scholorship-file: 
+scholorship-file: "/performingarts/music-scholarships"
 facilities-body: |-
   ## Recording Studio
 
