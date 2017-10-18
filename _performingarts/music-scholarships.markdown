@@ -322,6 +322,7 @@ scholarships:
     Two short excerpts demonstrating different musical styles and techniques at an intermediate level. These selections must demonstrate accuracy in terms of left-hand and right-hand technique, tone quality, and overall musicality. Genres such as Contemporary Christian, Jazz, and Classical are encouraged.
 
     You will be asked to sight-read a lead sheet/chord chart at the time of the audition. The sight-reading example will require accurate improvisation and interpretation of the chord progressions, rhythmic and dynamic indications, and stylistic qualities of the piece in question.
+layout: page
 ---
 
 There are seven opportunities to perform a LIVE Music Scholarship audition for the 2017-2018 school year. Choose from any of the following dates and schedule your audition time today by calling 800.568.6248 ext. 2279 or e-mailing [music@masters.edu](mailto:music@masters.edu). These scholarship auditions also serve as Bachelor of Music candidacy auditions.
