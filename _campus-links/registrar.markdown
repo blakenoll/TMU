@@ -1743,7 +1743,7 @@ academic-calendar-body: |-
   </tbody>
   </table>
   <p> </p>
-layout: registrar
+layout: registrar_v2
 ---
 
 The Registrar's Office is committed to serving the students' academic needs in numerous ways:
