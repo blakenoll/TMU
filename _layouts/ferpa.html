@@ -23,6 +23,13 @@ layout: page
     </div>
   </div>
   {% endfor %}
+  <!-- Modal Structure -->
+  <div id="#srp" class="modal">
+    <div class="modal-content">
+      <p>{{ section.body | markdownify }}</p>
+      <button class="btn tbn-navy" type="button" name="button" onclick="$('#srp').modal('close');">close</button>
+    </div>
+  </div>
 
 
 <script type="text/javascript">
