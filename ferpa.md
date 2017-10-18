@@ -8,7 +8,7 @@ ferpa:
 - body: |-
     Where do I find The Master's College FERPA Policy?
 
-    The University's policy in response to FERPA is *[Student Records Policy: Disclosure of Student Information](https://www.masters.edu/%7BlocalLink:13765%7D "Student Records Policy")*. The summary information in this tutorial cannot be a substitute for reading The Master's University Student Records Policy.
+    The University's policy in response to FERPA is *[Student Records Policy: Disclosure of Student Information](#srp)*. The summary information in this tutorial cannot be a substitute for reading The Master's University Student Records Policy.
 - body: |-
     Who is protected under FERPA?
 
@@ -46,7 +46,7 @@ ferpa:
 
     The terms "student record" and "education record" are often used interchangeably. They are, however, distinguishable under FERPA. For example, as discussed below, some student records are not considered education records and are not subject to FERPA protection.
 
-    Written permission must be obtained from a student before releasing an education record, unless the request fits certain narrow exceptions. The [Student Records Policy ](https://www.masters.edu/%7BlocalLink:13765%7D "Student Records Policy")summarizes these exceptions.
+    Written permission must be obtained from a student before releasing an education record, unless the request fits certain narrow exceptions. The [Student Records Policy ](#srp)summarizes these exceptions.
 
     One exception, for which written permission from the student is not generally required, is the release of directory information. Directory information is discussed later in this tutorial.
 - body: |-
@@ -172,13 +172,13 @@ ferpa:
 
     The Office of the Registrar is the first stop for any questions about FERPA or the University's policy (661-259-3540 ext 3689).
 
-    At a minimum, each person on campus who has access to student record information should read the [Student Record Policy](https://www.masters.edu/%7BlocalLink:13765%7D "Student Records Policy").
+    At a minimum, each person on campus who has access to student record information should read the [Student Record Policy](#srp).
 - body: |-
     Tips on Managing Student Records \*
 
     ***\* Adapted from Of Counsel – A Bulletin on Legal Issues at Catholic University of America – November 1997.***
 
-    DO review a copy of The Master's University [Student Records Policy ](https://www.masters.edu/%7BlocalLink:13765%7D "Student Records Policy")before responding to a request for education records.
+    DO review a copy of The Master's University [Student Records Policy ](#srp)before responding to a request for education records.
 
     DO NOT release directory information on a student without checking Powercampus/PowerFaids or the Office of the Registrar to see whether the information has been flagged for non-release.
 
