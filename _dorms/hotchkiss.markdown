@@ -17,6 +17,7 @@ ra:
     ### Some Favorite Things:
 
     Andres loves spending time with his wife! They enjoy going on hikes, reading the classics, and finding new coffee shops. Andrew enjoys biking, unicycling, sports, anything outside, and anything with people.
+  image: "/images/Copley_ A.jpg"
 - name: Jessica Rosenbaum
   title: Women's Resident Director
   body-text: |-
