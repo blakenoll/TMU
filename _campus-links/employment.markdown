@@ -263,28 +263,31 @@ positions:
     lift, pull, push, grasp and bend while lifting up to 30lbs.\n\n•\tRepetitive motions
     on a keyboard and looking at a computer monitor for an extended duration of time
     is required.\n\n•\tTravel: Some travel involved including overnight stays.\n\nADDITIONAL
-    INFORMATION\n\nMinimum Conditions for Beginning Employment:\n\n\tPrior to beginning
+    INFORMATION\nMinimum Conditions for Beginning Employment:\nPrior to beginning
     employment, in accordance with The Master’s University policy and/or under federal
     or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
-    employment.\n\n2.\tPresent verification of their identity and authorization to
-    work in the United States.\n\nIf, because of a disability, you need special services
+    employment.\n2.\tPresent verification of their identity and authorization to work
+    in the United States.\n\nIf, because of a disability, you need special services
     or facilities in order to apply or interview for this opening please contact the
     Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
     on the basis of race, color, national origin, ancestry, gender, age, marital status,
     veteran status or prior military service, medical condition, or any physical or
     mental disability.  We are committed to practicing principles of equal employment
     opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
-    PROCESS\n\nCompleted application form from The Master’s University.  This can
-    be obtained at www.masters.edu/jobs or by contacting\n\nThe Master’s University
-    and Seminary\nHuman Resources Department\n21726 Placerita Canyon Road • Santa
-    Clarita, California • 91321-1200\n(800) 568-6248 • (661) 362-2844 • FAX (661)
-    362-2717\n\nSelection Process:\n\nAll applications will be reviewed by the Human
-    Resources department.  Selected candidates will be invited for a personal interview
-    at The Master’s University.  Any expense incurred in connection with these interviews
-    will be the responsibility of the candidates.\n\nApplication Procedures:\n\nAll
+    PROCESS\nIn order to be considered for a position, a completed Application for
+    Employment must be submitted to the Human Resources office.  The application may
+    be picked up in person in the HR office or is available to be downloaded as a
+    PDF from the web at\n http://www.masters.edu/campuslinks/employment.aspx.  Your
+    completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
     documents included in your application remain the sole property of The Master’s
-    University and will not be returned.   Your file for this opening will not be
-    considered unless all requested items are submitted and are complete.\n\n"
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete."
 - title: Loan and Veteran Benefits Counselor  (Full-time)  (University)
   position: Staff
   about-body: "Processes all Title IV aid and informs individuals regarding financial
@@ -329,29 +332,81 @@ positions:
     Must be able to lift, pull, push, grasp and bend while lifting up to 30lbs.\n\n
     \ •\tRepetitive motions on a keyboard and looking at a computer monitor for an
     extended duration of time is required.\n\n  •\tTravel: Some travel involved including
-    overnight stays.\n\nADDITIONAL INFORMATION\n\nMinimum Conditions for Beginning
-    Employment:\n\tPrior to beginning employment, in accordance with The Master’s
-    College policy and/or under federal or state law, all employees must:\n\n1.\tSign
-    and return an offer of “At Will” employment.\n\n2.\tPresent verification of their
-    identity and authorization to work in the United States.\n\nIf, because of a disability,
-    you need special services or facilities in order to apply or interview for this
-    opening please contact the Human Resources department.\n\nThe Master’s College
-    & Seminary does not discriminate on the basis of race, color, national origin,
-    ancestry, gender, age, marital status, veteran status or prior military service,
-    medical condition, or any physical or mental disability.  We are committed to
-    practicing principles of equal employment opportunity and diversity based upon
-    sovereign Biblical principles.\n\nAPPLICATION PROCESS\n\nSubmit completed Application
-    for Employment to the Human Resources Department.  The application can be obtained
-    at www.masters.edu/jobs or by contacting:\n\nThe Master’s College and Seminary\nHuman
-    Resources Department\n21726 Placerita Canyon Road • Santa Clarita, California
-    • 91321-1200\n(800) 568-6248 • (661) 362-2843 • FAX (661) 362-2717 • humanresources@masters.edu\n\nSelection
-    Process:\n\nAll applications will be reviewed by the Human Resources department.
-    \ Selected candidates will be invited for a personal interview at The Master’s
-    College.  Any expense incurred in connection with these interviews will be the
-    responsibility of the candidates.\n\nApplication Procedures:\nAll documents included
-    in your application remain the sole property of The Master’s College and will
-    not be returned.   Your file for this opening will not be considered unless all
-    requested items are submitted and are complete.\n\n"
+    overnight stays.\n\nADDITIONAL INFORMATION\nMinimum Conditions for Beginning Employment:\nPrior
+    to beginning employment, in accordance with The Master’s University policy and/or
+    under federal or state law, all employees must:\n\n1.\tSign and return an offer
+    of “At Will” employment.\n2.\tPresent verification of their identity and authorization
+    to work in the United States.\n\nIf, because of a disability, you need special
+    services or facilities in order to apply or interview for this opening please
+    contact the Human Resources department.\n\nThe Master’s University & Seminary
+    does not discriminate on the basis of race, color, national origin, ancestry,
+    gender, age, marital status, veteran status or prior military service, medical
+    condition, or any physical or mental disability.  We are committed to practicing
+    principles of equal employment opportunity and diversity based upon sovereign
+    Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered for a position,
+    a completed Application for Employment must be submitted to the Human Resources
+    office.  The application may be picked up in person in the HR office or is available
+    to be downloaded as a PDF from the web at\n http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete."
+- title: Grounds Crew Member (Full-time) (University)
+  position: Staff
+  about-body: "Performs general gardening work and maintains the grounds of the campus.
+    \ Reports to the Grounds Supervisor.\n\nESSENTIAL FUNCTIONS\n* Plants, cultivates,
+    fertilizes, waters, and sprays ornamental plants, shrubs, hedges, trees, lawns,
+    and flowers.\n* Rakes leaves and hoes beds. \n* Cleans trash from assigned areas
+    including parking lots.\n* Prepares and treats soils for planting. \n* Maintains
+    hoses, sprinklers, tools, supplies and equipment in proper condition and repair.\n*
+    Trims trees, hedges, and shrubs and erects tree supports. \n* May operate and
+    perform minor maintenance on small power mowers, small riding mowers, and other
+    gardening power equipment.\n* May assist in the preparation and lining of athletic
+    fields for events.\n* May occasionally assist in sprinkler repair, spraying, or
+    tree trimming.\n* May drive pick-ups and other automotive equipment in performance
+    of assigned duties.\n\nCOMPETENCIES  \n* Ability to recognize the more common
+    species of ornamental shrubs, trees and flowers. \n* Ability to perform strenuous
+    physical work as described.\n* Mechanical aptitude and motor coordination are
+    necessary.\n* Ability to learn to operate skillfully small trucks and power-driven
+    grounds equipment.  \n* This position requires standing, sitting, walking, lifting,
+    reaching, talking, hearing, seeing, learning, problem solving, and interacting
+    with others throughout the workday.  \n* Regular attendance is essential.\n* Other
+    duties as assigned\n\nQUALIFICATIONS\n* Has a personal relationship with Jesus
+    Christ\n* Education:  High School Diploma or its equivalent or Higher\n* Experience:
+    \ 1+ years as an groundskeeper preferred\n\nWORKING CONDITIONS\nList general working
+    conditions for this position:\n* Working Environment: Mostly outdoors with extreme
+    temperature changes\n* Physical Demands: Must be able to lift 50 pounds\n* Travel:
+    None\n\nADDITIONAL INFORMATION\nMinimum Conditions for Beginning Employment:\nPrior
+    to beginning employment, in accordance with The Master’s University policy and/or
+    under federal or state law, all employees must:\n\n1.\tSign and return an offer
+    of “At Will” employment.\n2.\tPresent verification of their identity and authorization
+    to work in the United States.\n\nIf, because of a disability, you need special
+    services or facilities in order to apply or interview for this opening please
+    contact the Human Resources department.\n\nThe Master’s University & Seminary
+    does not discriminate on the basis of race, color, national origin, ancestry,
+    gender, age, marital status, veteran status or prior military service, medical
+    condition, or any physical or mental disability.  We are committed to practicing
+    principles of equal employment opportunity and diversity based upon sovereign
+    Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered for a position,
+    a completed Application for Employment must be submitted to the Human Resources
+    office.  The application may be picked up in person in the HR office or is available
+    to be downloaded as a PDF from the web at\n http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete."
 layout: employment
 ---
 
