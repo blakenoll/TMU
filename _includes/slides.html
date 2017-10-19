@@ -1,7 +1,6 @@
 <div class="navy-section" style="width: 100%">
   <div class="slideshow-container">
-  {% assign banners = site.landingPageBanners | sort: "position", "last" %}
-  {% for banner in banners %}
+  {% for banner in site.landingPageBanners | sort: "position" %}
   <div class="mySlides fade">
     <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.description }}" style="width:100%">
     <div class="text">
