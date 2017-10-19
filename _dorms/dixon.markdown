@@ -15,6 +15,7 @@ ra:
     Favorite things to do:
 
     Abbey loves the outdoors—no matter what that entails. She loves to play volleyball at the beach, go for long walks, recreational sports, or eating ice cream while watching the sunset. She also loves to sing and to worship God through music. She loves spending time with family, especially her husband. Their favorite hobby to do together is to play soccer as it reminds them of how they met.
+  image: "/images/Tarr_ A.jpg"
 banner-img: "/images/Dixon_Banner.jpg"
 ---
 
