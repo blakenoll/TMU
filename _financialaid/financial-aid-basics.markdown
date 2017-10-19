@@ -4,17 +4,17 @@ date: 2017-04-10 19:07:00 Z
 sm-image: "/uploads/AdmissionFinAid_FinancialAidBasics.png"
 ---
 
-Financial Aid 101: The Basics
+## Financial Aid 101: The Basics
 
 “How will I pay for my education? Am I eligible for financial aid? Where do I begin?”
 
 The Office of Financial Aid can answer your questions. Whether you are a high school student, a college transfer, or an inquiring parent, we are here to help. Our aim is to provide you with a premium education at a price that considers your personal financial situation. *Premium education, personal price.*
 
-Types of Financial Aid
+### Types of Financial Aid
 
 There are two basic types of financial aid: gift aid and self-help aid. Gift aid refers to financial assistance that does not need to be repaid (i.e. scholarships or grants). Self-help aid is assistance that holds the recipient responsible for some sort of return (i.e. loans, work study). Funding from private sources (i.e. associations, religious groups, or corporations) also fall within these two groups.
 
-The Process
+### The Process
 
 Applying for financial aid can be intimidating, but that is why we have made the process as streamlined as possible. The steps are simple:
 
@@ -30,13 +30,13 @@ Applying for financial aid can be intimidating, but that is why we have made the
 
 6. If you are required for verification by the government please complete the [IRS Data Retrieval](http://www.fafsa.ed.gov/) and [Federal Verification Worksheet](http://www.masters.edu/media/868376/forms-mi-fvw-2017-18.pdf "Forms- MI- FVW 2017-18.pdf"). Step-by-step verification information can be viewed on our [Verification page](http://www.masters.edu/undergrad/financial-aid/verification.aspx).
 
-Communication
+### Communication
 
 Good communication with the Office of Financial Aid is essential to your financial success. You will not receive blanket mass letters from our office\*. If we contact you, it is because we require the information we are requesting.\*
 
 Our communication process is directly connected to your personal account. Each letter, email, or postcard you receive from the Office of Financial Aid relates to your specific situation, so be careful to respond promptly to all communication attempts.
 
-Important Dates
+### Important Dates
 
 September:Create an FSA ID
 
@@ -50,7 +50,7 @@ March 2nd: Priority Deadline! Turn in all documents
 
 March 2nd:California[ Cal Grant](http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx) eligible high school students, transcripts need to be verified and sent to [CSAC](http://www.csac.ca.gov/)\\
 
-Important Links
+### Important Links
 
 * [Financial Aid Homepage](http://www.masters.edu/financial-aid/)
 
@@ -58,7 +58,7 @@ Important Links
 
 * [Financial Aid Documents](http://www.masters.edu/downloads)
 
-Contact Information
+### Contact Information
 
 The Office of Financial Aid
 
