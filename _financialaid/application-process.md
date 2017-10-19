@@ -140,7 +140,7 @@ Financial Aid Application Process
 
 3. Sign and submit our [Satisfactory Academic Progress Policy](http://www.masters.edu/media/868183/undergrad-satisfactory-academic-progress-policy.pdf "Undergrad - Satisfactory Academic Progress Policy.pdf").
 
-4. Submit all documents listed above and/or requested by the Office of Financial Aid by March 2nd for *priority* awarding. Some scholarships and grants may require additional forms which can be found [here](http://www.masters.edu/undergrad/apply/downloads/ "Downloads"). If you are notified that you have been required for verification visit our [verification webpage.](/financial-aid/verification-process)
+4. Submit all documents listed above and/or requested by the Office of Financial Aid by March 2nd for *priority* awarding. Some scholarships and grants may require additional forms which can be found [here](http://www.masters.edu/downloads). If you are notified that you have been required for verification visit our [verification webpage.](/financial-aid/verification-process)
 
 5. Once you receive an award letter from our office, follow the instructions to accept or decline your awards.
 
