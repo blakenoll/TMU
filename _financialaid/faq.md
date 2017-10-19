@@ -49,7 +49,7 @@ How many units per semester must I take to receive financial aid?
 To receive most financial aid you must be enrolled full-time (12 units). If you are considering taking less than 12 units, you should contact the Office of Financial Aid immediately to see how this would affect your aid. ([Return to Top](http://www.masters.edu/financial-aid/faq/#questions_top))
 
 Can international students receive financial aid?
-Yes. Detailed information about applying for financial aid as an international student can be found [here](http://www.masters.edu/financial-aid/faq/# "Aid").
+Yes. Detailed information about applying for financial aid as an international student can be found [here](http://www.masters.edu/admissions/#undergraduate).
 
 Can I access my financial aid information on Self-Service?
 Yes. If you have been accepted to the university or are an enrolled student with a [Self-Service account](https://portal.masters.edu/SelfService/Home.aspx). ([Return to Top](http://www.masters.edu/financial-aid/faq/#questions_top))
