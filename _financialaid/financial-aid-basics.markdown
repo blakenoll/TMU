@@ -28,7 +28,7 @@ Applying for financial aid can be intimidating, but that is why we have made the
 
 5. If you have not yet been accepted to the university, you can still begin the financial aid process, but it is more streamlined once you are accepted and receive a username and password to access your information online.
 
-6. If you are required for verification by the government please complete the [IRS Data Retrieval](http://www.fafsa.ed.gov/) and [Federal Verification Worksheet](http://www.masters.edu/media/868376/forms-mi-fvw-2017-18.pdf "Forms- MI- FVW 2017-18.pdf"). Step-by-step verification information can be viewed on our [Verification page](http://www.masters.edu/undergrad/financial-aid/verification.aspx).
+6. If you are required for verification by the government please complete the [IRS Data Retrieval](http://www.fafsa.ed.gov/) and [Federal Verification Worksheet](http://www.masters.edu/media/868376/forms-mi-fvw-2017-18.pdf "Forms- MI- FVW 2017-18.pdf"). Step-by-step verification information can be viewed on our [Verification page](http://www.masters.edu/financial-aid/verification-process).
 
 ### Communication
 
