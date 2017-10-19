@@ -100,7 +100,7 @@ master-of-arts-body: |-
   <p style="padding-left: 30px;">Awarded to the most outstanding graduate of the traditional BABC degree program at the Master's University applied to the first year of MABC studies--based on ministry potential, financial need, and academic achievement. Students are expected to be enrolled full-time each term to be eligible for this scholarship. </p>
   <h3> </h3>
   <h3>Scholarship Contact Information</h3>
-  <p style="padding-left: 30px;">All scholarships are administered by the MABC Department. For more information on scholarships, please contact Greg Gifford at 661.362.2644 or <a href="mailto:ggifford@masters.edu">ggifford@masters.edu</a>. </p>
+  <p style="padding-left: 30px;">All scholarships are administered by the MABC Department. For more information on scholarships, please contact Jeff Miller at 661.362.2644 or <a href="mailto:jmiller@masters.edu">jmiller@masters.edu</a>. </p>
   <p><span>  </span></p>
   <h3><span class="embeddedpicleft" style="display: inline !important;">Downloadable Documents</span></h3>
   <p> </p>
