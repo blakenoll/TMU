@@ -34,7 +34,7 @@ Communication
 
 Good communication with the Office of Financial Aid is essential to your financial success. You will not receive blanket mass letters from our office\*. If we contact you, it is because we require the information we are requesting.\*
 
-Our communication process is directly connected to your personal account. Each letter, email, or postcard you receive from the Office of Financial Aid relates\* \*to your specific situation, so be careful to respond promptly to all communication attempts.
+Our communication process is directly connected to your personal account. Each letter, email, or postcard you receive from the Office of Financial Aid relates to your specific situation, so be careful to respond promptly to all communication attempts.
 
 Important Dates
 
