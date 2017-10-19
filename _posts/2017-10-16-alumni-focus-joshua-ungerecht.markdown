@@ -1,7 +1,6 @@
 ---
 title: 'Alumni Focus: Joshua Ungerecht'
 date: 2017-10-16 16:10:00 Z
-published: false
 author: Adam Setser
 sm-image: "/uploads/Alumni_Joshua.jpg"
 ---
@@ -18,7 +17,8 @@ Several professors saw how hard he was pushing himself and the negative impact h
 
 Joshua graduated TMU in 2005 and he attended Talbot directly thereafter. He came within one semester of completing his M.A. in Philosophy of Religion and Ethics but never finished. Instead, as he became engaged to marry Katherine, he realized that he would need to figure out a way to provide financially. God used that healthy pressure as a catalyst to change Joshua’s course once again, to place him exactly where He wanted him, and ironically, it was the exact opposite of where Joshua had ever dreamed he would go. 
 
-In the summer of 2006, approximately 7 months before getting married, Joshua started working as an unpaid due-diligence intern at JRW Investments, a firm specializing in real estate investments. After a few weeks on the job, God opened up an incredible opportunity. The prior due diligence officer quit to pursue another career and Joshua got the job! He was spending 80-90 hours a week studying for his profession and owning his responsibilities, having discovered a passion for macroeconomics — he had found his calling. 
+In the summer of 2006, approximately 7 months before getting married, Joshua started working as an unpaid due-diligence intern at JRW Investments, a firm specializing in real estate investments. After a few weeks on the job, God opened up an incredible opportunity. The prior due diligence officer quit to pursue another career and Joshua got the job! He was spending 80-90 hours a week studying for his profession and owning his responsibilities, having discovered a passion for macroeconomics — he had found his calling.
+ 
 In 2008 the Great Recession began and investment firms took a serious hit, including JRW. Joshua stepped up to the plate and asked the partners to appoint him CEO and make him an equal partner. In return he would do everything in his power to keep the company from going under. He became CEO of JRW Investments in the fourth quarter of 2009, near the absolute trough of the recession.
 Since then, and entirely by God’s grace and provision through lots of mistakes and on-the-job learning, he has led five companies, including JRW, to accomplish goals that most in his profession only dream of accomplishing. 
 
