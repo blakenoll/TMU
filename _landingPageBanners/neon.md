@@ -1,6 +1,6 @@
 ---
 title: View The U
-position: 2
+position: 0
 description: 'Attention Future Mustangs! Join us for a weekend of #lifeattmu'
 image: "/uploads/ViewWeekend_Web.jpg"
 link: "/visit"
