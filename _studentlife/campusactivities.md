@@ -2,7 +2,18 @@
 title: Campus Activities
 sm-image: "/images/HomePage_CampusActivities.png"
 description: 
-director-body: "### Adam Ashoff"
+director-body: |-
+  ## Adam Ashoff
+
+  Adam Ashoff came on staff at TMU in fall 2016 working with the Church Relations department. In 2017 he moved across campus to give oversight to the Student Services department, which includes working with the students on Associated Student Body and all involved in Chapel Media. He received his undergraduate in Communications from Taylor University and Master of Divinity from The Master’s Seminary, and currently working on a Doctor of Ministry degree from The Master’s Seminary.
+
+  ### Scripture Verse: 2 Corinthians 1:24
+
+  Not that we lord it over your faith, but are workers with you for your joy; for in your faith you are standing firm.
+
+  ### Favorite Activities:
+
+  Watching the Steelers. Talking about the Steelers. Raising my kids to love the Steelers. Debating my wife on the superiority of the Steelers to the Packers.
 director-image: 
 chapel-body: Chapel services are held three times a week in the MacArthur Center for
   students at The Master's University. Chapel is a worship service focused upon the
