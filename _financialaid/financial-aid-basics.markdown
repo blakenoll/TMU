@@ -56,7 +56,7 @@ Important Links
 
 * [Financial Aid Verification](http://www.masters.edu/financial-aid/verification-process)
 
-* [Financial Aid Documents](http://www.masters.edu/financial-aid/printableforms/)
+* [Financial Aid Documents](http://www.masters.edu/downloads)
 
 Contact Information
 
