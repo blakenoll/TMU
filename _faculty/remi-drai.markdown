@@ -2,6 +2,7 @@
 title: Remi Drai
 date: 2017-02-08 21:53:00 Z
 job-title: Associate Professor of Mathematics
+image: "/images/Drai_ R.jpg"
 department: Math
 degrees:
 - B.A., M.A., Ph.D., University of Nice
