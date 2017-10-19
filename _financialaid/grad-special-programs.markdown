@@ -14,7 +14,7 @@ master-of-arts-body: |-
   <p style="padding-left: 30px;">4. Submit official transcripts to the Registrar's office. <i>Any student receiving graduate level loans must have an undergraduated degree conferred.</i></p>
   <p style="padding-left: 30px;">5. Once your aid is determined, you will be sent an Award Letter.</p>
   <p style="padding-left: 30px;">6. Return completed Award Letter to the Office of Financial Aid.</p>
-  <p style="padding-left: 30px;">7. Students receiving loans at The Master's University for the first time will need to complete the <a href="http://www.masters.edu/financial-aid/loans" target="_blank">Master Promissory Note</a> and complete <a href="http://www.masters.edu/financial-aid/loans/directstaffordloans/" target="_blank">Entrance Loan Counseling</a> before their loan is finalized.</p>
+  <p style="padding-left: 30px;">7. Students receiving loans at The Master's University for the first time will need to complete the <a href="http://www.masters.edu/financial-aid/loans" target="_blank">Master Promissory Note</a> and complete <a href="http://www.masters.edu/financial-aid/loans" target="_blank">Entrance Loan Counseling</a> before their loan is finalized.</p>
   <p> </p>
   <h2 style="text-align: center;">Types of Aid Available<br /> </h2>
   <h3>Unsubsidized Stafford Loans</h3>
