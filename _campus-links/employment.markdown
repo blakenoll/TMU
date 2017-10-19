@@ -357,7 +357,7 @@ positions:
     documents included in your application remain the sole property of The Master’s
     University & Seminary and will not be returned.   Your file for this opening will
     not be considered unless all requested items are submitted and are complete."
-- title: Grounds Crew Member
+- title: Grounds Crew Member (Full-time) (University)
   position: Staff
   about-body: "Performs general gardening work and maintains the grounds of the campus.
     \ Reports to the Grounds Supervisor.\n\nESSENTIAL FUNCTIONS\n* Plants, cultivates,
