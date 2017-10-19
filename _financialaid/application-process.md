@@ -13,24 +13,15 @@ what-is-financial-aid-body: |-
   Work-study programs are need-based awards involving on or off-campus employment in which the student is able to earn money which is applied directly to college expenses. In some cases, these jobs can relate to an individual's field of study.
 
   For information on student loans, click [here](http://www.masters.edu/financial-aid/loans/ "loans").
-helpful-links-body: |-
-  ## Helpful Links
-
-  [The Student Guide](http://studentaid.ed.gov/students/publications/student_guide/index.html)
-
-  Published by the Department of Education, the Student Guide is the most comprehensive resource on student financial aid.
-
-  [FAFSA on the Web](http://www.fafsa.ed.gov/)
-
-  Complete your Free Application for Federal Student Aid (FAFSA) online.
-
-  [CollegeBoard](http://collegeboard.com/student/pay/)
-
-  From the creators of the SAT, PSAT and ACT, CollegeBoard.com is the “inside source” to all that is involved with preparing for, choosing, and financing college.
-
-  [Fastweb](http://www.fastweb.com/)
-
-  An easy to use, comprehensive scholarship search engine to help you find a variety of scholarships and loans that best fit your needs.
+helpful-links-body: "## Helpful Links\n\n[The Student Guide](https://studentaid.ed.gov/sa/sites/default/files/2018-19-do-you-need-money.pdf)\n\nPublished
+  by the Department of Education, the Student Guide is the most comprehensive resource
+  on student financial aid. See other StudentAid.gov resources [here](https://studentaid.ed.gov/sa/resources).
+  \n\n[FAFSA on the Web](http://www.fafsa.ed.gov/)\n\nComplete your Free Application
+  for Federal Student Aid (FAFSA) online.\n\n[CollegeBoard](http://collegeboard.com/student/pay/)\n\nFrom
+  the creators of the SAT, PSAT and ACT, CollegeBoard.com is the “inside source” to
+  all that is involved with preparing for, choosing, and financing college.\n\n[Fastweb](http://www.fastweb.com/)\n\nAn
+  easy to use, comprehensive scholarship search engine to help you find a variety
+  of scholarships and loans that best fit your needs."
 financial-aid-terms-body: |-
   ## Financial Aid Terms
 
