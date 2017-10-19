@@ -28,7 +28,7 @@ sm-image: "/uploads/AdmissionFinAid_FAQ.png"
 ## Answers
 
 How much does it cost to attend The Master’s University?
-For a list of costs and fees, please [click here](http://www.masters.edu/financial-aid/total-cost-calculator/ "tuitionandfees"). ([Return to Top](http://www.masters.edu/financial-aid/faq/#questions_top))
+For a list of costs and fees, please [click here](http://www.masters.edu/financial-aid/tuition-fees). ([Return to Top](http://www.masters.edu/financial-aid/faq/#questions_top))
 
 Do I have to apply for aid every year?
 Yes. Your aid eligibility will be evaluated each year, based on the information you provide on the current year’s FAFSA and the Financial Aid Application. Students are eligible to apply for financial aid for at least eight full-time semesters. ([Return to Top](http://www.masters.edu/financial-aid/faq/#questions_top))
