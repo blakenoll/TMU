@@ -32,9 +32,9 @@ Applying for financial aid can be intimidating, but that is why we have made the
 
 Communication
 
-Good communication with the Office of Financial Aid is essential to your financial success. You will not receive blanket mass letters from our office*. If we contact you, it is because we require the information we are requesting.*
+Good communication with the Office of Financial Aid is essential to your financial success. You will not receive blanket mass letters from our office\*. If we contact you, it is because we require the information we are requesting.\*
 
-Our communication process is directly connected to your personal account. Each letter, email, or postcard you receive from the Office of Financial Aid relates* *to your specific situation, so be careful to respond promptly to all communication attempts.
+Our communication process is directly connected to your personal account. Each letter, email, or postcard you receive from the Office of Financial Aid relates\* \*to your specific situation, so be careful to respond promptly to all communication attempts.
 
 Important Dates
 
@@ -48,13 +48,13 @@ January 25th : Financial Aid Presentation
 
 March 2nd: Priority Deadline! Turn in all documents
 
-March 2nd:California[ Cal Grant](http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx) eligible high school students, transcripts need to be verified and sent to [CSAC](http://www.csac.ca.gov/)\
+March 2nd:California[ Cal Grant](http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx) eligible high school students, transcripts need to be verified and sent to [CSAC](http://www.csac.ca.gov/)\\
 
 Important Links
 
 * [Financial Aid Homepage](http://www.masters.edu/financial-aid/)
 
-* [Financial Aid Verification](http://www.masters.edu/financial-aid/verification/)
+* [Financial Aid Verification](http://www.masters.edu/financial-aid/verification-process)
 
 * [Financial Aid Documents](http://www.masters.edu/financial-aid/printableforms/)
 
