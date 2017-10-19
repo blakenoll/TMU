@@ -21,4 +21,4 @@ Phillipps shared a similar perspective, “It’s hilarious, it’s well written
 
 DiPietro pulled his title from the poem written by Lydia Maria Child, “Over the River and Through the Wood,” less commonly knowns as “The New-England Boy’s Song about Thanksgiving Day.” He celebrates the nostalgic memories of grandchildren visiting their grandparents. TMU Theatre Arts’ production of “Over the River and Through the Woods” reminds every audience member of family meals around the table—the bickering and laughter—and ultimately leave them questioning what it means to be family. 
 	
-*Join The Master’s University on Oct. 20-21 and Oct. 26-27 for “Over the River and Through the Woods.” Tickets can be purchased at www.masters.edu/theatre or at the box office by calling 661.362.2255.*
+*Join The Master’s University on Oct. 20-21 and Oct. 26-27 for “Over the River and Through the Woods.” Tickets can be purchased at [www.masters.edu/theatre](www.masters.edu/theatre) or at the box office by calling 661.362.2255.*
