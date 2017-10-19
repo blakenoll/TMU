@@ -48,7 +48,7 @@ January 25th : Financial Aid Presentation
 
 March 2nd: Priority Deadline! Turn in all documents
 
-March 2nd:California[ Cal Grant](http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx) eligible high school students, transcripts need to be verified and sent to [CSAC](http://www.csac.ca.gov/)\\
+March 2nd:California [Cal Grant](http://www.masters.edu/financial-aid/general-undergraduate) eligible high school students, transcripts need to be verified and sent to [CSAC](http://www.csac.ca.gov/)
 
 ### Important Links
 
