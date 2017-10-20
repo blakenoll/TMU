@@ -325,15 +325,19 @@ scholarships:
 layout: page
 ---
 
-There are seven opportunities to perform a LIVE Music Scholarship audition for the 2017-2018 school year. Choose from any of the following dates and schedule your audition time today by calling 800.568.6248 ext. 2279 or e-mailing [music@masters.edu](mailto:music@masters.edu). These scholarship auditions also serve as Bachelor of Music candidacy auditions.
+There are seven opportunities to perform a LIVE Music Scholarship audition for the 2018-2019 school year. Choose from any of the following dates and schedule your audition time today by calling 800.568.6248 ext. 2279 or e-mailing [music@masters.edu](mailto:music@masters.edu). These scholarship auditions also serve as entrance auditions to the School of Music.
 
-* September 19, 2016 - beginning at 4:00 pm | Mondays @ Master's
-*  October 28, 2016 - beginning at 2:00 pm | View the U Weekend
-*  November 14, 2016 - [Fall Prelude](http://www.masters.edu/prelude)
-*  February 10, 2017 - beginning at 2:00 pm | President's Scholar Weekend
-*  February 13, 2017 - [Spring Prelude ](http://www.masters.edu/prelude)
-*  March 24, 2017 - beginning at 2:00 pm | View the U Weekend
-*  April 10, 2017 - beginning at 4:00 pm | Mondays @ Master's
+* Monday, September 18, 2017 (Monday’s @ Master’s) 4-5:30 pm
+
+* Friday, October 27, 2017 (View the U) 2-4 pm
+
+* Monday, November 13, 2017 (Music@Master’s: Fall *Prelude*) 2-4 pm
+
+* Monday February 19, 2018 (Music@Master’s: Spring *Prelude*) 2-4 pm
+
+* Friday, March 23, 2018 (View the U) 2-4 pm
+
+* Monday, April 9, 2018 (Monday’s @ Master’s) 4-5:30 pm
 
 *All auditions for the 2016-2017 school year have passed.*
 
@@ -341,4 +345,6 @@ There are seven opportunities to perform a LIVE Music Scholarship audition for t
 
 ## Scholarship Application Guidelines:
 
-1. Complete and turn in the [Music Scholarship Application](https://athletics.masters.edu/media/21741/music%20scholarship%20application.pdf).
+1. Complete and turn in the [Music Scholarship Application](/uploads/School%20of%20Music%20Application.pdf).
+
+2. [Audition Requirements](/uploads/Audition%20Requirements.pdf) 
