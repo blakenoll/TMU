@@ -2,6 +2,7 @@
 title: Jeffrey A. Jensen
 date: 2017-02-08 18:42:00 Z
 job-title: Associate Professor of History
+image: "/uploads/Jensen,%20J2.jpg"
 department: History
 degrees:
 - A.S., York College of Pennsylvania
