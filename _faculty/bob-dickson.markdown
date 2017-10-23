@@ -4,6 +4,7 @@ date: 2017-05-02 17:47:00 Z
 job-title: |-
   Chairperson, Communication Department
   Associate Professor of Communication
+image: "/uploads/dixon2.jpg"
 department: Communication
 degrees:
 - B.A., U.C. Santa Barbara
