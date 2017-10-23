@@ -676,7 +676,7 @@ intl-students-body: "At the present time, it costs approximately $42,000 (USD) t
   SAT may still apply. Renewable with a college GPA of 3.5. Note: replaces academic
   scholarship (see below). Not available for transfer or Spring students.\n[President’s
   Scholarship Application](http://www.masters.edu/media/868336/17-18-presidents-scholarship-application-fillable.pdf
-  \"President's Scholarship Application\")\n\n### Academic Scholarships ($2,000-$11,000)\n\nAwarded
+  \"President's Scholarship Application\")\n\n### Academic Scholarships ($7,000-$13,000)\n\nAwarded
   to students who have demonstrated strong academic performance at the high school
   level. No extra steps required—automatically awarded to students who meet the academic
   qualifications.\n\n### TMU Grant (up to $7500)\n\nAwarded to students with significant
@@ -832,9 +832,9 @@ pastor-dep-grant-body: |-
 
   **The Pastor and Missionary Dependent Grant (PMD) is given in addition to other scholarships. Students may also qualify for:**
 
-  * **Academic Scholarships from $11,000 to $2,000.**
+  * **Academic Scholarships from $13,000 to $7,000.**
 
-  * The [Shamrock Foundation Grant](http://www.masters.edu/media/869290/forms-application-shamrock-2017-18.pdf "Forms- Application- Shamrock 2017-18.pdf") which is awarded by departments for qualifying students.
+  * The [Shamrock Foundation Grant](/uploads/Forms-%20Application-%20Shamrock%202018-19.pdf) which is awarded by departments for qualifying students.
 
   * The [Ministry Matching Grant](/uploads/Forms-%20Application-%20MMG.pdf) where The Master’s University matches funds from Christian ministries who desire to make an investment in a student.
 
@@ -878,7 +878,7 @@ ministry-matching-body: |-
 
   ### Application
 
-  An application can be retrieved at the Office of Financial Aid or[ ](http://www2.masters.edu/admissions/downloads/MMG_Example.pdf)[downloaded](http://www.masters.edu/media/868515/forms-application-mmg.pdf "Forms- Application- MMG.pdf")[ ](http://www2.masters.edu/admissions/downloads/MMG_Example.pdf)from the internet.
+  An application can be retrieved at the Office of Financial Aid or [downloaded](/uploads/Forms-%20Application-%20MMG.pdf) from the internet.
 
   ### Payment
 
