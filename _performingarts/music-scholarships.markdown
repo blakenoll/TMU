@@ -347,4 +347,4 @@ There are seven opportunities to perform a LIVE Music Scholarship audition for t
 
 1. Complete and turn in the [Music Scholarship Application](/uploads/School%20of%20Music%20Application.pdf).
 
-2. [Audition Requirements](/uploads/Audition%20Requirements.pdf) 
+2. View [Audition Requirements](/uploads/Audition%20Requirements.pdf)
