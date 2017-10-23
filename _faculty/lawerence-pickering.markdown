@@ -2,6 +2,7 @@
 title: Lawerence Pickering
 date: 2017-10-19 16:35:00 Z
 job-title: Adjunct Professor
+image: "/uploads/Pickering,%20L.jpg"
 department: Business
 degrees:
 - M Management, Massey University, NZ
