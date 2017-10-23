@@ -812,7 +812,7 @@ pastor-dep-grant-body: |-
 
   * **Children of full-time pastors or missionaries who provide the primary income for their family.**
 
-  * New and transfer students enrolled in an academic **after **the 2013-2014 academic year.
+  * New and transfer students enrolled in an academic \*\*after \*\*the 2013-2014 academic year.
 
   * Students who meet the classification of a full-time student.
 
@@ -820,7 +820,7 @@ pastor-dep-grant-body: |-
 
   ### **What are the next steps?**
 
-  * **Apply to **[The Master’s University](http://www.masters.edu/media/869357/undergrad-app-for-web-form.pdf "undergrad-app-for-web-form.pdf").
+  * \*\*Apply to \*\*[The Master’s University](http://www.masters.edu/media/869357/undergrad-app-for-web-form.pdf "undergrad-app-for-web-form.pdf").
 
   * Apply for Financial Aid (the [Financial Aid Application](http://www.masters.edu/media/869351/forms-application-faa.pdf "Forms- Application- FAA.pdf") is the last page on the regular Admissions Application).
 
@@ -832,11 +832,11 @@ pastor-dep-grant-body: |-
 
   **The Pastor and Missionary Dependent Grant (PMD) is given in addition to other scholarships. Students may also qualify for:**
 
-  * **[Academic Scholarships](http://www.masters.edu/financial-aid/generalundergraduateprogram/newandtransfer/ "newandtransfer") from $11,000 to $2,000.**
+  * **Academic Scholarships from $11,000 to $2,000.**
 
   * The [Shamrock Foundation Grant](http://www.masters.edu/media/869290/forms-application-shamrock-2017-18.pdf "Forms- Application- Shamrock 2017-18.pdf") which is awarded by departments for qualifying students.
 
-  * The[ Ministry Matching Grant](http://www.masters.edu/media/868515/forms-application-mmg.pdf "Forms- Application- MMG.pdf") where The Master’s University matches funds from Christian ministries who desire to make an investment in a student.
+  * The [Ministry Matching Grant](/uploads/Forms-%20Application-%20MMG.pdf) where The Master’s University matches funds from Christian ministries who desire to make an investment in a student.
 
   * The[ Bible Bee Scholarship](http://www.masters.edu/media/868514/forms-application-bible-bee.pdf "Forms- Application- Bible Bee.pdf") which is given to students who placed 1st through 5th in the National Bible Bee at the senior level.
 
@@ -844,7 +844,7 @@ pastor-dep-grant-body: |-
 
   * The[ ](http://www.masters.edu/financial-aid/generalundergraduateprogram/pmd/# "newandtransfer")AWANA Citation Award which gives $1,000 to incoming freshmen or transfer students who have completed twelve years of AWANA training and who won the Citation Award. A copy of the Citation Award is required to award.
 
-  * In addition to the above scholarships, students may qualify for government grants and loans. For more information, see this [link](http://www.masters.edu/financial-aid/generalundergraduateprogram/newandtransfer/ "newandtransfer") on our website or call us at (661) 362-2290.
+  * In addition to the above scholarships, students may qualify for government grants and loans. For more information, see this the "New/Transfer Student" section above or call us at (661) 362-2290.
 ministry-matching-body: |-
   About The Ministry Matching Grant
 
