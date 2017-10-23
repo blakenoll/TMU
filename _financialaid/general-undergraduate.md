@@ -717,10 +717,9 @@ intl-students-body: "At the present time, it costs approximately $42,000 (USD) t
   - International Admissions, 21726 Placerita Canyon Road, Santa Clarita, CA 91321\n\nKeep
   in mind that we will not be able to process or guarantee any Financial Aid until
   all of your admissions application documents have been received.\n\nOur staff is
-  here to guide you through this process—you’re not on your own! Please contact [Amy
-  Bryerton](mailto:abryerton@masters.edu \"Email Amy Bryerton\"), International Admissions
-  Counselor, with any additional questions you have about international financial
-  aid."
+  here to guide you through this process—you’re not on your own! Please contact [Joshua
+  English](jenglish@masters.edu), International Admissions Counselor, with any additional
+  questions you have about international financial aid."
 cal-grant-body: |-
   **Cal Grant**
 
