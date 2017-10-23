@@ -19,6 +19,7 @@ ra:
 
     ### Some Favorite Things:
     Anything St Louis Cardinals, leading worship music, reading, family.
+  image: "/uploads/Sheaffer,%20D.jpg"
 - name: Annelise Wright
   title: Women's Resident Director
   body-text: |-
