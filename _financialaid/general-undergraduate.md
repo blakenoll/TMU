@@ -121,7 +121,7 @@ new-transfer-student-body: |-
   </ul>
   </td>
   <td align="center">Up to $1,500</td>
-  <td style="text-align: center;"><a href="/media/869687/forms-application-mmg.pdf" target="_blank" title="Forms- Application- MMG.pdf">Ministry Matching Grant Application</a></td>
+  <td style="text-align: center;"><a href="/uploads/Forms-%20Application-%20MMG.pdf" target="_blank" title="Forms- Application- MMG.pdf">Ministry Matching Grant Application</a></td>
   </tr>
   <tr>
   <td><span class="boldText">The Shamrock Foundation Grant</span>
