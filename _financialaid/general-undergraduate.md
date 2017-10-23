@@ -378,11 +378,11 @@ continuing-students-body: |-
   <ul>
   <li>Awarded to students who receive sponsorship from a Christian ministry. TMU will match, on a dollar-for-dollar basis, up to a total of $1,500 per student, as long as funds remain available. Renewed scholarships that were eligible for the Ministry Matching Grant will be matched up to the same amount as the previous year but not to exceed $2,500.</li>
   <li><span>Matching funds only guaranteed with eligible applications received before August 1st</span></li>
-  <li><span style="line-height: 19px;">Click </span><a href="/undergrad/financial-aid/generalundergraduateprogram/ministrymatchinggrant.aspx" target="blank&quot;" title="ministrymatchinggrant">here</a><span style="line-height: 19px;"> for more information on this grant.</span></li>
+  <li><span style="line-height: 19px;">Click </span><a href="/undergrad/financial-aid/generalundergraduateprogram/ministrymatchinggrant.aspx" target="blank"" title="ministrymatchinggrant">here</a><span style="line-height: 19px;"> for more information on this grant.</span></li>
   </ul>
   </td>
   <td align="center">Up to $1,500</td>
-  <td align="center"><a href="/media/868515/forms-application-mmg.pdf" target="_blank" title="Forms- Application- MMG.pdf">Ministry Matching Grant Application</a></td>
+  <td align="center"><a href="/uploads/Forms-%20MI-%20FVW%2018-19-44a72b.pdf" target="_blank" title="Forms- Application- MMG.pdf">Ministry Matching Grant Application</a></td>
   </tr>
   <tr>
   <td><span class="boldText">The Shamrock Foundation Grant</span><br />
@@ -392,7 +392,7 @@ continuing-students-body: |-
   </ul>
   </td>
   <td align="center">Varies</td>
-  <td align="center"><a href="/media/869290/forms-application-shamrock-2017-18.pdf" target="_blank" title="Forms- Application- Shamrock 2017-18.pdf">Shamrock Foundation Grant Application </a></td>
+  <td align="center"><a href="/uploads/Forms-%20Application-%20Shamrock%202018-19.pdf" target="_blank" title="Forms- Application- Shamrock 2017-18.pdf">Shamrock Foundation Grant Application </a></td>
   </tr>
   </tbody>
   </table>
