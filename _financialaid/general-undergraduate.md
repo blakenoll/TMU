@@ -121,7 +121,7 @@ new-transfer-student-body: |-
   </ul>
   </td>
   <td align="center">Up to $1,500</td>
-  <td style="text-align: center;"><a href="/media/869687/forms-application-mmg.pdf" target="_blank" title="Forms- Application- MMG.pdf">Ministry Matching Grant Application</a></td>
+  <td style="text-align: center;"><a href="/uploads/Forms-%20Application-%20MMG.pdf" target="_blank" title="Forms- Application- MMG.pdf">Ministry Matching Grant Application</a></td>
   </tr>
   <tr>
   <td><span class="boldText">The Shamrock Foundation Grant</span>
@@ -131,7 +131,7 @@ new-transfer-student-body: |-
   </ul>
   </td>
   <td align="center">Varies</td>
-  <td style="text-align: center;"><a href="/media/869290/forms-application-shamrock-2017-18.pdf" target="_blank" title="Forms- Application- Shamrock 2017-18.pdf">Shamrock Foundation Grant Application</a></td>
+  <td style="text-align: center;"><a href="/uploads/Forms-%20Application-%20Shamrock%202018-19.pdf" target="_blank" title="Forms- Application- Shamrock 2017-18.pdf">Shamrock Foundation Grant Application</a></td>
   </tr>
   <tr>
   <td><span class="boldText">Bible Bee Scholarship</span>
@@ -378,11 +378,11 @@ continuing-students-body: |-
   <ul>
   <li>Awarded to students who receive sponsorship from a Christian ministry. TMU will match, on a dollar-for-dollar basis, up to a total of $1,500 per student, as long as funds remain available. Renewed scholarships that were eligible for the Ministry Matching Grant will be matched up to the same amount as the previous year but not to exceed $2,500.</li>
   <li><span>Matching funds only guaranteed with eligible applications received before August 1st</span></li>
-  <li><span style="line-height: 19px;">Click </span><a href="/undergrad/financial-aid/generalundergraduateprogram/ministrymatchinggrant.aspx" target="blank&quot;" title="ministrymatchinggrant">here</a><span style="line-height: 19px;"> for more information on this grant.</span></li>
+  <li><span style="line-height: 19px;">Click </span><a href="/undergrad/financial-aid/generalundergraduateprogram/ministrymatchinggrant.aspx" target="blank"" title="ministrymatchinggrant">here</a><span style="line-height: 19px;"> for more information on this grant.</span></li>
   </ul>
   </td>
   <td align="center">Up to $1,500</td>
-  <td align="center"><a href="/media/868515/forms-application-mmg.pdf" target="_blank" title="Forms- Application- MMG.pdf">Ministry Matching Grant Application</a></td>
+  <td align="center"><a href="/uploads/Forms-%20Application-%20MMG.pdf" target="_blank" title="Forms- Application- MMG.pdf">Ministry Matching Grant Application</a></td>
   </tr>
   <tr>
   <td><span class="boldText">The Shamrock Foundation Grant</span><br />
@@ -392,7 +392,7 @@ continuing-students-body: |-
   </ul>
   </td>
   <td align="center">Varies</td>
-  <td align="center"><a href="/media/869290/forms-application-shamrock-2017-18.pdf" target="_blank" title="Forms- Application- Shamrock 2017-18.pdf">Shamrock Foundation Grant Application </a></td>
+  <td align="center"><a href="/uploads/Forms-%20Application-%20Shamrock%202018-19.pdf" target="_blank" title="Forms- Application- Shamrock 2017-18.pdf">Shamrock Foundation Grant Application </a></td>
   </tr>
   </tbody>
   </table>
@@ -636,100 +636,90 @@ endowed-scholorship-body: |-
   </tr>
   </tbody>
   </table>
-intl-students-body: |-
-  At the present time, it costs approximately $42,000 (USD) to attend The Master’s University for one year (two semesters), including tuition, housing, and meals. Books, health insurance, and transportation may be extra.
-
-  We are happy to say that—while The Master’s University is not able to give students a full scholarship—we do offer significant funds for qualified international students. We understand that this is a difficult process requiring a great deal of effort and faith. We are praying with you that God’s provision and guidance would be clear to you through this process. Currently, over 90% of our student population receives financial aid! Please note that individual awards cannot be determined until the student has been admitted to the college.
-
-  ## Important Background Information
-
-  You should be aware of the following regulations pertaining to international students in F-1 status:
-
-  1. As an international student, you are required by the US government to be registered full-time.
-
-  2. Unless you are living with a family member, you are required to live on campus.
-
-  3. International students on an F-1 visa are only permitted to work on-campus, up to 20 hours per week.
-
-  4. All students are required to have a computer when they come to the college.
-
-  5. All students must have health insurance coverage in the USA.
-
-  6. Student loans are not available, nor advisable, for international students.
-
-  ## Scholarships and Grants
-
-  Please Note: Applicants must submit the following three forms in order to qualify for ANY financial aid.
-
-  1. [TMU Financial Aid Application](http://www.masters.edu/media/868180/student-financial-aid-application.pdf "TMC Fin Aid App")
-     This form has now been incorporated into our online application, so students only need to complete this version if they applied for admission to TMU using a paper or pdf application. Contact the International Admissions Counselor if you are not sure whether you need to submit this application. Important note: continuing international students already enrolled at TMU should complete this form using the “Financial Aid Renewal Form” link in Self-Service.
-
-  2. [International Student Financial Aid Supplement](http://www.masters.edu/media/868161/international-student-financial-aid-supplemental-form.pdf "ISFAS")
-     Completing this form is required before international students can receive any need-based Financial Aid from The Master’s University.
-
-  3. [Satisfactory Academic Progress Policy](http://www.masters.edu/media/868183/undergrad-satisfactory-academic-progress-policy.pdf "SAPP")
-     Signing this form is also required before any student can receive any Financial Aid from The Master’s University (not required for current/returning TMU students).
-
-  ### President’s Scholarship ($15,000)
-
-  Application Deadline: Late January
-  This is our largest and most competitive scholarship, available to full-time incoming freshmen (including international students). Applicants must have a high school GPA of 3.85 and a SAT I score (Critical Reasoning and Math sub-tests only) of 1400 or ACT score of 32. International students who have not taken the SAT may still apply. Renewable with a college GPA of 3.5. Note: replaces academic scholarship (see below). Not available for transfer or Spring students.
-  [President’s Scholarship Application](http://www.masters.edu/media/868336/17-18-presidents-scholarship-application-fillable.pdf "President's Scholarship Application")
-
-  ### Academic Scholarships ($2,000-$11,000)
-
-  Awarded to students who have demonstrated strong academic performance at the high school level. No extra steps required—automatically awarded to students who meet the academic qualifications.
-
-  ### TMU Grant (up to $7500)
-
-  Awarded to students with significant financial need. No extra steps required—automatically awarded based on calculated need.
-
-  ### International Student Grant ($-varies)
-
-  Priority Application Deadline: March 2
-  The International Grant is an award given to international students based on financial need, academic achievement, and local church recommendation. The amounts range from $500 to $3,500. The Grant Recommendation must be filled out and submitted by a local church leader who is not related to you. Scholarships are awarded as long as funds are available.
-  [International Student Grant Application Form](http://www.masters.edu/media/869264/isg-app-2.pdf "ISG App 2.pdf")
-  [International Student Grant Recommendation Form](http://www.masters.edu/media/868165/international-student-grant-recommendation-form.pdf "Intl Student Grant Rec Form.pdf")
-
-  ### Christian Ministry Dependent Grant ($3000)
-
-  This $3,000 grant is given to students who have at least one parent employed in full time Christian ministry. The grant application must be submitted with a copy of the organization’s doctrinal statement.
-  [Click here for the Christian Ministry Dependent Grant Application](http://www.masters.edu/media/868184/christian-ministry-dependent-grant-recreation.pdf "CMD Application")
-
-  ### Pastor and Missionary Dependent Scholarship ($5,000)
-
-  For those students who are children of full-time pastors or missionaries who provide the primary income for their family. Only applicable to students entering the college in the Fall of 2014 and subsequent years.
-  [Click here for the Pastor and Missionary Dependent Grant Application](http://www.masters.edu/media/868169/pmd-application.pdf "Pastor and Missionary Dependent Grant Application")
-
-  ### Ministry Matching Grant (up to $1500)
-
-  Awarded to students who receive sponsorship from a Christian ministry. TMU will match, on a dollar-for-dollar basis, up to a total of $1,500 per student. Both the application and the funds must be received by August 1st in order to qualify.
-
-  [Click here for the Ministry Matching Grant Application](http://www.masters.edu/media/868326/application-for-ministry-matching-grant.pdf "Ministry Matching Grant")
-
-  ### Awana Citation Award ($1000)
-
-  For those students who have received a complete AWANA citation. Award is $1,000. You must submit copy of your AWANA Citation Award by March 2.
-
-  ### Music Scholarships ($-varies)
-
-  For music majors only. Contact the Music Department separately.
-
-  ### Athletic Scholarships ($-varies)
-
-  For intercollegiate athletes only. Contact the Athletic Department separately.
-
-  ### Shamrock Scholarships ($-varies)
-
-  For more information, visit [www.masters.edu/scholarships](http://www.masters.edu/financial-aid/generalundergraduateprogram/newandtransfer/ "newandtransfer")
-
-  Note: The priority deadline for submitting most Financial Aid documents is March 2. Please submit your Financial Aid documents by that time in order to ensure consideration for available funds.
-
-  As you prepare to submit these documents, you may scan and email your documents to the International Admissions Counselor, fax them to 661-362-2695, or submit them by post to The Master's University - International Admissions, 21726 Placerita Canyon Road, Santa Clarita, CA 91321
-
-  Keep in mind that we will not be able to process or guarantee any Financial Aid until all of your admissions application documents have been received.
-
-  Our staff is here to guide you through this process—you’re not on your own! Please contact [Amy Bryerton](mailto:abryerton@masters.edu "Email Amy Bryerton"), International Admissions Counselor, with any additional questions you have about international financial aid.
+intl-students-body: "At the present time, it costs approximately $42,000 (USD) to
+  attend The Master’s University for one year (two semesters), including tuition,
+  housing, and meals. Books, health insurance, and transportation may be extra.\n\nWe
+  are happy to say that—while The Master’s University is not able to give students
+  a full scholarship—we do offer significant funds for qualified international students.
+  We understand that this is a difficult process requiring a great deal of effort
+  and faith. We are praying with you that God’s provision and guidance would be clear
+  to you through this process. Currently, over 90% of our student population receives
+  financial aid! Please note that individual awards cannot be determined until the
+  student has been admitted to the college.\n\n## Important Background Information\n\nYou
+  should be aware of the following regulations pertaining to international students
+  in F-1 status:\n\n1. As an international student, you are required by the US government
+  to be registered full-time.\n\n2. Unless you are living with a family member, you
+  are required to live on campus.\n\n3. International students on an F-1 visa are
+  only permitted to work on-campus, up to 20 hours per week.\n\n4. All students are
+  required to have a computer when they come to the college.\n\n5. All students must
+  have health insurance coverage in the USA.\n\n6. Student loans are not available,
+  nor advisable, for international students.\n\n## Scholarships and Grants\n\nPlease
+  Note: Applicants must submit the following three forms in order to qualify for ANY
+  financial aid.\n\n1. [TMU Financial Aid Application](http://www.masters.edu/media/868180/student-financial-aid-application.pdf
+  \"TMC Fin Aid App\")\n   This form has now been incorporated into our online application,
+  so students only need to complete this version if they applied for admission to
+  TMU using a paper or pdf application. Contact the International Admissions Counselor
+  if you are not sure whether you need to submit this application. Important note:
+  continuing international students already enrolled at TMU should complete this form
+  using the “Financial Aid Renewal Form” link in Self-Service.\n\n2. [International
+  Student Financial Aid Supplement](http://www.masters.edu/media/868161/international-student-financial-aid-supplemental-form.pdf
+  \"ISFAS\")\n   Completing this form is required before international students can
+  receive any need-based Financial Aid from The Master’s University.\n\n3. [Satisfactory
+  Academic Progress Policy](http://www.masters.edu/media/868183/undergrad-satisfactory-academic-progress-policy.pdf
+  \"SAPP\")\n   Signing this form is also required before any student can receive
+  any Financial Aid from The Master’s University (not required for current/returning
+  TMU students).\n\n### President’s Scholarship ($15,000)\n\nApplication Deadline:
+  Late January\nThis is our largest and most competitive scholarship, available to
+  full-time incoming freshmen (including international students). Applicants must
+  have a high school GPA of 3.85 and a SAT I score (Critical Reasoning and Math sub-tests
+  only) of 1400 or ACT score of 32. International students who have not taken the
+  SAT may still apply. Renewable with a college GPA of 3.5. Note: replaces academic
+  scholarship (see below). Not available for transfer or Spring students.\n[President’s
+  Scholarship Application](http://www.masters.edu/media/868336/17-18-presidents-scholarship-application-fillable.pdf
+  \"President's Scholarship Application\")\n\n### Academic Scholarships ($7,000-$13,000)\n\nAwarded
+  to students who have demonstrated strong academic performance at the high school
+  level. No extra steps required—automatically awarded to students who meet the academic
+  qualifications.\n\n### TMU Grant (up to $7500)\n\nAwarded to students with significant
+  financial need. No extra steps required—automatically awarded based on calculated
+  need.\n\n### International Student Grant ($-varies)\n\nPriority Application Deadline:
+  March 2\nThe International Grant is an award given to international students based
+  on financial need, academic achievement, and local church recommendation. The amounts
+  range from $500 to $3,500. The Grant Recommendation must be filled out and submitted
+  by a local church leader who is not related to you. Scholarships are awarded as
+  long as funds are available.\n[International Student Grant Application Form](http://www.masters.edu/media/869264/isg-app-2.pdf
+  \"ISG App 2.pdf\")\n[International Student Grant Recommendation Form](http://www.masters.edu/media/868165/international-student-grant-recommendation-form.pdf
+  \"Intl Student Grant Rec Form.pdf\")\n\n### Christian Ministry Dependent Grant ($3000)\n\nThis
+  $3,000 grant is given to students who have at least one parent employed in full
+  time Christian ministry. The grant application must be submitted with a copy of
+  the organization’s doctrinal statement.\n[Click here for the Christian Ministry
+  Dependent Grant Application](http://www.masters.edu/media/868184/christian-ministry-dependent-grant-recreation.pdf
+  \"CMD Application\")\n\n### Pastor and Missionary Dependent Scholarship ($5,000)\n\nFor
+  those students who are children of full-time pastors or missionaries who provide
+  the primary income for their family. Only applicable to students entering the college
+  in the Fall of 2014 and subsequent years.\n[Click here for the Pastor and Missionary
+  Dependent Grant Application](http://www.masters.edu/media/868169/pmd-application.pdf
+  \"Pastor and Missionary Dependent Grant Application\")\n\n### Ministry Matching
+  Grant (up to $1500)\n\nAwarded to students who receive sponsorship from a Christian
+  ministry. TMU will match, on a dollar-for-dollar basis, up to a total of $1,500
+  per student. Both the application and the funds must be received by August 1st in
+  order to qualify.\n\n[Click here for the Ministry Matching Grant Application](/uploads/Forms-%20Application-%20MMG.pdf)\n\n###
+  Awana Citation Award ($1000)\n\nFor those students who have received a complete
+  AWANA citation. Award is $1,000. You must submit copy of your AWANA Citation Award
+  by March 2.\n\n### Music Scholarships ($-varies)\n\nFor music majors only. Contact
+  the Music Department separately.\n\n### Athletic Scholarships ($-varies)\n\nFor
+  intercollegiate athletes only. Contact the Athletic Department separately.\n\n###
+  Shamrock Scholarships ($-varies)\n\nClick on the \"New/Transfer Student\" box above
+  for more information. \n\nNote: The priority deadline for submitting most Financial
+  Aid documents is March 2. Please submit your Financial Aid documents by that time
+  in order to ensure consideration for available funds.\n\nAs you prepare to submit
+  these documents, you may scan and email your documents to the International Admissions
+  Counselor, fax them to 661-362-2695, or submit them by post to The Master's University
+  - International Admissions, 21726 Placerita Canyon Road, Santa Clarita, CA 91321\n\nKeep
+  in mind that we will not be able to process or guarantee any Financial Aid until
+  all of your admissions application documents have been received.\n\nOur staff is
+  here to guide you through this process—you’re not on your own! Please contact [Joshua
+  English](mailto:jenglish@masters.edu), International Admissions Counselor, with
+  any additional questions you have about international financial aid."
 cal-grant-body: |-
   **Cal Grant**
 
@@ -822,7 +812,7 @@ pastor-dep-grant-body: |-
 
   * **Children of full-time pastors or missionaries who provide the primary income for their family.**
 
-  * New and transfer students enrolled in an academic **after **the 2013-2014 academic year.
+  * New and transfer students enrolled in an academic \*\*after \*\*the 2013-2014 academic year.
 
   * Students who meet the classification of a full-time student.
 
@@ -830,7 +820,7 @@ pastor-dep-grant-body: |-
 
   ### **What are the next steps?**
 
-  * **Apply to **[The Master’s University](http://www.masters.edu/media/869357/undergrad-app-for-web-form.pdf "undergrad-app-for-web-form.pdf").
+  * \*\*Apply to \*\*[The Master’s University](http://www.masters.edu/media/869357/undergrad-app-for-web-form.pdf "undergrad-app-for-web-form.pdf").
 
   * Apply for Financial Aid (the [Financial Aid Application](http://www.masters.edu/media/869351/forms-application-faa.pdf "Forms- Application- FAA.pdf") is the last page on the regular Admissions Application).
 
@@ -842,11 +832,11 @@ pastor-dep-grant-body: |-
 
   **The Pastor and Missionary Dependent Grant (PMD) is given in addition to other scholarships. Students may also qualify for:**
 
-  * **[Academic Scholarships](http://www.masters.edu/financial-aid/generalundergraduateprogram/newandtransfer/ "newandtransfer") from $11,000 to $2,000.**
+  * **Academic Scholarships from $13,000 to $7,000.**
 
-  * The [Shamrock Foundation Grant](http://www.masters.edu/media/869290/forms-application-shamrock-2017-18.pdf "Forms- Application- Shamrock 2017-18.pdf") which is awarded by departments for qualifying students.
+  * The [Shamrock Foundation Grant](/uploads/Forms-%20Application-%20Shamrock%202018-19.pdf) which is awarded by departments for qualifying students.
 
-  * The[ Ministry Matching Grant](http://www.masters.edu/media/868515/forms-application-mmg.pdf "Forms- Application- MMG.pdf") where The Master’s University matches funds from Christian ministries who desire to make an investment in a student.
+  * The [Ministry Matching Grant](/uploads/Forms-%20Application-%20MMG.pdf) where The Master’s University matches funds from Christian ministries who desire to make an investment in a student.
 
   * The[ Bible Bee Scholarship](http://www.masters.edu/media/868514/forms-application-bible-bee.pdf "Forms- Application- Bible Bee.pdf") which is given to students who placed 1st through 5th in the National Bible Bee at the senior level.
 
@@ -854,7 +844,7 @@ pastor-dep-grant-body: |-
 
   * The[ ](http://www.masters.edu/financial-aid/generalundergraduateprogram/pmd/# "newandtransfer")AWANA Citation Award which gives $1,000 to incoming freshmen or transfer students who have completed twelve years of AWANA training and who won the Citation Award. A copy of the Citation Award is required to award.
 
-  * In addition to the above scholarships, students may qualify for government grants and loans. For more information, see this [link](http://www.masters.edu/financial-aid/generalundergraduateprogram/newandtransfer/ "newandtransfer") on our website or call us at (661) 362-2290.
+  * In addition to the above scholarships, students may qualify for government grants and loans. For more information, see this the "New/Transfer Student" section above or call us at (661) 362-2290.
 ministry-matching-body: |-
   About The Ministry Matching Grant
 
@@ -888,7 +878,7 @@ ministry-matching-body: |-
 
   ### Application
 
-  An application can be retrieved at the Office of Financial Aid or[ ](http://www2.masters.edu/admissions/downloads/MMG_Example.pdf)[downloaded](http://www.masters.edu/media/868515/forms-application-mmg.pdf "Forms- Application- MMG.pdf")[ ](http://www2.masters.edu/admissions/downloads/MMG_Example.pdf)from the internet.
+  An application can be retrieved at the Office of Financial Aid or [downloaded](/uploads/Forms-%20Application-%20MMG.pdf) from the internet.
 
   ### Payment
 

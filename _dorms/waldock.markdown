@@ -17,6 +17,7 @@ ra:
     ### Some Favorite Things:
 
     All things music: performing & listening. Traveling. Learning new ideas and hobbies.
+  image: "/uploads/Arechiga,%20S.jpg"
 banner-img: "/images/Waldock_Banner.jpg"
 ---
 

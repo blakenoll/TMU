@@ -14,8 +14,8 @@ sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 <li>Complete the Admissions Process</li>
 <li>Obtain your “Certificate of Eligibility” from the Department of Veterans Affairs and provide a copy to the Office of Financial Aid.</li>
 <li>Complete <a href="/media/869351/forms-application-faa.pdf" target="_blank" title="Forms- Application- FAA.pdf">The Master’s University Financial Aid Application</a></li>
-<li>Complete the <a href="http://www.fafsa.ed.gov/" target="blank&quot;">Free Application for Federal Student Aid</a></li>
-<li>If selected for a process called “Verification” by the Federal government additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).  Please visit our <a href="http://www.masters.edu/undergrad/financial-aid/verification.aspx" target="_blank">Verification page</a> for detailed instructions on this process.</li>
+<li>Complete the <a href="http://www.fafsa.ed.gov/" target="blank"">Free Application for Federal Student Aid</a></li>
+<li>If selected for a process called “Verification” by the Federal government additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).  Please visit our <a href="http://www.masters.edu/financial-aid/verification-process" target="_blank">Verification page</a> for detailed instructions on this process.</li>
 </ol>
 <h3>Types of Aid Available</h3>
 <p><span class="boldText">Institutional Aid:</span></p>
@@ -29,7 +29,7 @@ sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 </ul>
 <p><span class="boldText">Montgomery GI Bill (Chapter 30)</span></p>
 <p><span class="boldText">Reserve Educational Assistance (REAP)</span></p>
-<p><span class="boldText">Surviving &amp; Dependents Assistance (DEA)</span></p>
+<p><span class="boldText">Surviving & Dependents Assistance (DEA)</span></p>
 <p><span class="boldText">Federal and State Aid:</span></p>
 <ul>
 <li>Pell Grant: up to $5,730</li>
@@ -42,12 +42,12 @@ sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 <p>Contact the Office of Financial Aid to speak with a counselor to receive your personal Financial Aid Award Letter detailing all funds you are eligible to receive.  Please note that an annual application must be submitted for VA benefit to be applied to account.  Below you will find a general breakdown of the awards available to Veterans of the U.S. Armed Forces.</p>
 <p><span class="boldText">Tuition Benefit:</span></p>
 <ul>
-<li>• $21,971 per year</li>
-<li>• Fall Term VA will pay tuition and fees, Spring Term VA will pay the remaining difference of Fall payment and $21,971. (Total Tuition $31,550– VA Benefit $21,971= $9579. Yellow Ribbon= $4,789.50, TMU institutional aid= $4,789.50. Total Aid =$31,550).</li>
+<li>• $22,805 per year</li>
+<li>• Fall Term VA will pay tuition and fees, Spring Term VA will pay the remaining difference of Fall payment and $22,805. (Total Tuition $32,600– VA Benefit $22,805= $9,795. Yellow Ribbon= $4,897.50, TMU institutional aid= $4,897.50. Total Aid =$32,600).</li>
 </ul>
 <p><span class="boldText">BAH (Basic Allowance for Housing):</span></p>
 <ul>
-<li>• $17,820 per year (based on 91321 BAH of $2,475 per month) <br />• These numbers updated October 17th for the 2016-17 school year.</li>
+<li>• $19,320 per year (based on 91321 BAH of $2,665 per month) <br />• These numbers updated October 1st for the 2017-18 school year.</li>
 </ul>
 <h3><span style="font-weight: bold;">Contact Information:</span></h3>
 <ul>

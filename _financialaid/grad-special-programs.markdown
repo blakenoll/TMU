@@ -134,7 +134,7 @@ master-of-arts-body: |-
   <td> </td>
   <td>
   <ul>
-  <li><a href="/media/868149/16-17-federal-verification-worksheet.pdf" target="_blank" title="16-17 Federal Verification Worksheet.pdf">2016-17 Federal Verification Worksheet</a></li>
+  <li><a href="/uploads/Forms-%20MI-%20FVW%2017-18.pdf" target="_blank" title="16-17 Federal Verification Worksheet.pdf">2017-18 Federal Verification Worksheet</a></li>
   </ul>
   </td>
   </tr>
@@ -289,7 +289,7 @@ teaching-credential-body: |-
   </table>
 seminary-body: |-
   <h2>The Master's Seminary Financial Aid</h2>
-  <p><img alt="" src="/media/866994/tms_logo_2014_black.jpg?width=249px&amp;height=170px" rel="34529" style="width: 249px; height: 170px; float: left;" /></p>
+  <p><img alt="" src="/media/866994/tms_logo_2014_black.jpg?width=249px&height=170px" rel="34529" style="width: 249px; height: 170px; float: left;" /></p>
   <p><span style="color: #dddddd; font-size: small;"><span style="line-height: normal;"> </span></span></p>
   <p> </p>
   <p> </p>
@@ -311,9 +311,9 @@ seminary-body: |-
   </dt><dd>
   <p>Dates and deadlines and helpful tips on starting the TMS application process.</p>
   </dd><dt>
-  <h3>What Types of Financial Aid Does TMS Offer?</h3>
+  <h3><a href="http://www.tms.edu/finaid" target="_blank"What Types of Financial Aid Does TMS Offer?</h3>
   </dt><dd>
-  <p>Scholarships, Grants, Matching and more. Please see our <a href="http://www.masters.edu/downloads" target="_blank">downloads</a> page to view our scholarship applications. </p>
+  <p>Scholarships, Grants, Matching and more. Please see  <a href="http://www.tms.edu/finaid" target="_blank">www.tms.edu/finaid</a> page to view our scholarship applications. </p>
   </dd><dt>
   <h3><a href="/{localLink:30858}" target="_blank" title="process">How Do I Apply for TMS Financial Aid?</a></h3>
   </dt><dd>
@@ -323,7 +323,7 @@ seminary-body: |-
   </dt><dd>
   <p>You may qualify for government loans.</p>
   </dd><dt>
-  <h3>How Much Does TMS Cost?</h3>
+  <h3><a href="https://www.tms.edu/academics/tuition-fee/" target="_blank"How Much Does TMS Cost?</h3>
   </dt><dd>
   <p>Please contact your admissions counselor for more information.</p>
   </dd><dt>
@@ -340,7 +340,7 @@ seminary-body: |-
   <tr>
   <td width="33%" align="left"><a href="http://www.fafsa.ed.gov/" target="blank"><img src="http://www2.masters.edu/admissions/downloads/FAFSA.gif" border="0" /></a></td>
   <td width="33%" align="center"><a href="http://www.calgrants.org/" target="blank"><img src="http://www2.masters.edu/images/mjjohnson/11-1-2006/Photos/CSAC1.JPG" border="0" /></a></td>
-  <td width="33%" align="center"><a href="http://www.masters.edu/undergrad/apply/downloads/" target="_blank"><img alt="" src="/media/867802/download-forms.png?width=206px&amp;height=117px" rel="37984" style="width: 206px; height: 117px;" /></a></td>
+  <td width="33%" align="center"><a href="http://www.masters.edu/undergrad/apply/downloads/" target="_blank"><img alt="" src="/media/867802/download-forms.png?width=206px&height=117px" rel="37984" style="width: 206px; height: 117px;" /></a></td>
   </tr>
   </tbody>
   </table>

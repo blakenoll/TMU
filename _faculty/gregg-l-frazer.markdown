@@ -16,3 +16,5 @@ Dr. Frazer has coordinated the Political Studies program since its inception. Hi
 He is the author of The Religious Beliefs of America’s Founders: Reason, Revelation, and Revolution (Univ. Press of Kansas, 2012) and a contributor to The Forgotten Founders on Religion and Public Life, ed. by Dreisbach, Hall, and Morrison (Univ. of Notre Dame Press, 2009).
 
 Dr. Frazer and his wife Leanne have three daughters and are members of Grace Community Church, where he is a deacon and teaches an adult Bible study.  His other interests include listening to jazz and classical music.
+
+<iframe src="https://player.vimeo.com/video/239025622" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

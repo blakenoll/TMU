@@ -17,6 +17,7 @@ ra:
     **Some Favorite Things:**
 
     Alex loves food; yes eating it, and cooking it, but more so growing and cultivating it (gardening, beekeeping, cheese making, fermenting and canning foods, etc…). He also loves to get away from the city, especially to the mountains and go hiking or camping. All of these things he enjoys far more, and enjoys doing almost anything when doing them with his brothers and sisters in Christ.
+  image: "/uploads/Rappe,%20A.jpg"
 - name: Claire Millican
   title: Women's Resident Director
   body-text: |-
@@ -29,6 +30,7 @@ ra:
     ### Some favorite things:
 
     Cooking, coffee, coconut flavored things, ice cream, and being outside.
+  image: "/uploads/Millican,%20C.jpg"
 banner-img: "/images/OffCampus_Banner.jpg"
 ---
 

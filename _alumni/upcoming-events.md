@@ -1,20 +1,10 @@
 ---
 title: Upcoming Events
 upcomingevents:
-- title: Alumni Dinner Theatre
-  body: |-
-    Thursday, October 19, 2017
-
-    6:30pm to 10:30pm
-
-    \$17.50 per person
-
-    <a href="https://www.eventbrite.com/e/tmu-alumni-dinner-theatre-tickets-37852661329?aff=TMUAlumni" class="btn tbn-navy">Purchase Tickets</a>
-- title: Student-Alumni Interview Workshop
-  body: |-
-    October/November – Date TBA
-
-    Alumni are invited to help with mock interviews.
+- title: "“Beyond the Book” – A Student/Alumni Event"
+  body: "Thursday, Nov. 2 @ 6:30pm-8:00pm in the Lower Caf\n\nAlumni are invited to
+    help with mock interviews.\n\nStudents & Alumni discuss career options\n\n<a href=\"https://www.facebook.com/events/1464477856964817/?acontext=%7B%22action_history%22%3A%22%5b%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A%5b%5d%7D%5d%22%2C%22has_source%22%3Atrue%7D\"
+    class=\"btn btn-navy\">RSVP</a> "
 - title: Global Mobilization Week – International Christmas Cards
   body: |-
     November 2, 2017
