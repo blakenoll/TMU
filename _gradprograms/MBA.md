@@ -2,7 +2,7 @@
 title: MBA
 sm-image: "/uploads/AcademicsGraduate_MBA.png"
 program-outline-text: |-
-  Program-level Learning Outcomes
+  ## Program-level Learning Outcomes
 
   At completion of The Master’s University Master of Business Administration (MBA) program, the student will be able to:
 
