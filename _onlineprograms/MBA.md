@@ -47,8 +47,6 @@ program-outline-text: |-
 
      * Please Submit in Word format
 
-  5. [Pastoral Recommendation](http://www.masters.edu/academics/online/pastoral-recommendation-request/ "Pastoral Recommendation Request")
-
   6. $35 application fee
 courses-body:
 - number: BUS520
