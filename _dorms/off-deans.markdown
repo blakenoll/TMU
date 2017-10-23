@@ -30,6 +30,7 @@ ra:
     ### Some favorite things:
 
     Cooking, coffee, coconut flavored things, ice cream, and being outside.
+  image: "/uploads/Millican,%20C.jpg"
 banner-img: "/images/OffCampus_Banner.jpg"
 ---
 
