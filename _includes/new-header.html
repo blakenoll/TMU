@@ -19,7 +19,8 @@
 
 
   <ul id="dropdown5" class="dropdown-content">
-    {% for service in site.campus-links %}
+    {% assign services = site.campus-links | sort: 'title' %}
+    {% for service in services %}
     <li><a href="{{ service.url | prepend: site.url }}">{{ service.title }}</a></li>
     {% endfor %}
   </ul>
