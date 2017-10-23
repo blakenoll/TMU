@@ -131,7 +131,7 @@ new-transfer-student-body: |-
   </ul>
   </td>
   <td align="center">Varies</td>
-  <td style="text-align: center;"><a href="/media/869290/forms-application-shamrock-2017-18.pdf" target="_blank" title="Forms- Application- Shamrock 2017-18.pdf">Shamrock Foundation Grant Application</a></td>
+  <td style="text-align: center;"><a href="/uploads/Forms-%20Application-%20Shamrock%202018-19.pdf" target="_blank" title="Forms- Application- Shamrock 2017-18.pdf">Shamrock Foundation Grant Application</a></td>
   </tr>
   <tr>
   <td><span class="boldText">Bible Bee Scholarship</span>
