@@ -14,8 +14,8 @@ sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 <li>Complete the Admissions Process</li>
 <li>Obtain your “Certificate of Eligibility” from the Department of Veterans Affairs and provide a copy to the Office of Financial Aid.</li>
 <li>Complete <a href="/media/869351/forms-application-faa.pdf" target="_blank" title="Forms- Application- FAA.pdf">The Master’s University Financial Aid Application</a></li>
-<li>Complete the <a href="http://www.fafsa.ed.gov/" target="blank&quot;">Free Application for Federal Student Aid</a></li>
-<li>If selected for a process called “Verification” by the Federal government additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).  Please visit our <a href="http://www.masters.edu/undergrad/financial-aid/verification.aspx" target="_blank">Verification page</a> for detailed instructions on this process.</li>
+<li>Complete the <a href="http://www.fafsa.ed.gov/" target="blank"">Free Application for Federal Student Aid</a></li>
+<li>If selected for a process called “Verification” by the Federal government additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).  Please visit our <a href="http://www.masters.edu/financial-aid/verification-process" target="_blank">Verification page</a> for detailed instructions on this process.</li>
 </ol>
 <h3>Types of Aid Available</h3>
 <p><span class="boldText">Institutional Aid:</span></p>
@@ -29,7 +29,7 @@ sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 </ul>
 <p><span class="boldText">Montgomery GI Bill (Chapter 30)</span></p>
 <p><span class="boldText">Reserve Educational Assistance (REAP)</span></p>
-<p><span class="boldText">Surviving &amp; Dependents Assistance (DEA)</span></p>
+<p><span class="boldText">Surviving & Dependents Assistance (DEA)</span></p>
 <p><span class="boldText">Federal and State Aid:</span></p>
 <ul>
 <li>Pell Grant: up to $5,730</li>
