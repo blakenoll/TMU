@@ -66,7 +66,7 @@ In the end she reminded the audience, “Don’t be afraid to fail” and then u
 
 * “[Do More Great Work](https://www.amazon.com/Do-More-Great-Work-Busywork/dp/0761156445)” by Michael Bungay Stanier
 
-* “The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results” by Gary Keller
+* “[The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776)” by Gary Keller
 
 * “[Time Management from the Inside Out](https://www.amazon.com/Time-Management-Inside-Out-Second/dp/0805075909/ref=sr_1_1?s=books&ie=UTF8&qid=1508858561&sr=1-1&keywords=Time\+Management\+from\+the\+Inside\+Out)” by Julie Morgenstern
 
