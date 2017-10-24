@@ -7,7 +7,7 @@ sm-image: "/uploads/TimeManagement.jpg"
 *Commit your works to the Lord and your plans will be established. 
 The mind of man plans his way, but the Lord directs his steps.* 
 
-                                             **Proverbs 16:3,9**
+**Proverbs 16:3,9**
 
 Stephanie Beals (’99), a Master’s University alumna and manager of global leadership development at healthcare and research company Abbott, has traveled the world to speak to major companies about organization, productivity, leadership, management, teambuilding and more. Recently, she came to speak about time management with the students, faculty and staff of the music department —a program known for its strenuous time commitments. 
 
