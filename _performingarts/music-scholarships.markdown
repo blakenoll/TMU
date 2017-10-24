@@ -325,7 +325,7 @@ scholarships:
 layout: page
 ---
 
-There are seven opportunities to perform a LIVE Music Scholarship audition for the 2018-2019 school year. Choose from any of the following dates and schedule your audition time today by calling 800.568.6248 ext. 2279 or e-mailing [music@masters.edu](mailto:music@masters.edu). These scholarship auditions also serve as entrance auditions to the School of Music.
+There are six opportunities to perform a LIVE Music Scholarship audition for the 2018-2019 school year. Choose from any of the following dates and schedule your audition time today by calling 800.568.6248 ext. 2279 or e-mailing [music@masters.edu](mailto:music@masters.edu). These scholarship auditions also serve as entrance auditions to the School of Music.
 
 * Monday, September 18, 2017 (Monday’s @ Master’s) 4-5:30 pm
 
@@ -339,9 +339,9 @@ There are seven opportunities to perform a LIVE Music Scholarship audition for t
 
 * Monday, April 9, 2018 (Monday’s @ Master’s) 4-5:30 pm
 
-*All auditions for the 2016-2017 school year have passed.*
+*All auditions for the 2017-2018 school year have passed.*
 
-*Recordings (audio or video) are not accepted as audition material. Please contact the Music Department to schedule your live audition on one of these dates at 800.568.6248 ext. 2279.*
+*Recordings (audio or video) are not accepted as audition material. Please contact the School of Music to schedule your live audition on one of these dates at 800.568.6248 ext. 2279.*
 
 ## Scholarship Application Guidelines:
 
