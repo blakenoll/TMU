@@ -38,7 +38,7 @@ Time-bound: there is an end in sight rather than an ominous “one day it’ll g
 
 Once you set those goals, scheduling time to get them done becomes easier. 
 
-Set aside time to schedule, schedule your scheduling. 
+**Set aside time to schedule, schedule your scheduling**. 
 Schedule time to plan your week. Thirty minutes is ideal and make sure to put it on the calendar, same time and place each week. “Connect with your roles and then connect with your goals” during this time, Beals said. Then, each day, take time to schedule that day either the night before or the morning of. “What am I saying yes to? What am I saying no to? Why am I making those choices? 
 
 “Look at the big rocks when it comes to the week,” or essentially look at the things that you don’t have freedom to move, such as your class or work schedule. Look at the commitments that you have previously made and keep them, or look ahead before making them and ask, “Plausibly, will I be able to make this?” 
