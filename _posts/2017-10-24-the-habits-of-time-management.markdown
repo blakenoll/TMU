@@ -27,9 +27,9 @@ Once you have established your roles, move on to your strengths and abilities. W
 
 Once you have identified those three things (your larger purpose, your roles and your abilities), choosing which tasks to manage becomes less tiresome. 
 
-Beals suggests: 
+### Beals suggests: 
 
-Set S.M.A.R.T. goals. 
+* Set S.M.A.R.T. goals. 
 Specific 
 Measurable: e.g. walking 10,000 steps every day
 Achievable: attainable
