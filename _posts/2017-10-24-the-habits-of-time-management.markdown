@@ -29,11 +29,16 @@ Once you have identified those three things (your larger purpose, your roles and
 
 ### Beals suggests: 
 
-* Set S.M.A.R.T. goals. 
+Set S.M.A.R.T. goals. 
+
 Specific 
+
 Measurable: e.g. walking 10,000 steps every day
+
 Achievable: attainable
+
 Results oriented 
+
 Time-bound: there is an end in sight rather than an ominous “one day it’ll get done” 
 
 Once you set those goals, scheduling time to get them done becomes easier. 
