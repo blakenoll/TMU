@@ -7,16 +7,33 @@ description: |-
   The Master's University is accredited by [NASM](http://nasm.arts-accredit.org/), the National Association of Schools of Music. With 2 degrees and 14 emphases, our department is large enough to provide performance opportunities in state-of-the-art facilities and small enough to grant individual attention and a variety of experiences. Our Senior Bachelor of Music students recently scored in the 97th percentile in 2016 in the national standardized test (Education Testing Service, Princeton). Come find out how you can be a part of the music happening at TMU!
 emphasis:
 - Audio Technology
-- Biblical Studies
+- Composition
 - Business
-- Communication
-- Modern Worship
-- Student Ministries
+- Music Education
+- Piano Pedagogy
+- Performance
 total-credits: 155-162
 bible-credits: 21
 GE-credits: 40
 core-courses: 29
 emphasis-electives: 65-72
+course-offerings:
+- Music Theory and Aural Skills
+- Computers in Music
+- Music History
+- World Music
+- Basic Conducting
+- Worship & Songs of the Church
+careers:
+- Professional Performer
+- Recording Artist
+- Studio Musician
+- Worship Leader
+- Church Musician
+- Music Business Management
+- Film Composer
+- Private Music Instructor
+- 
 why-at-masters-body: "## "
 required-courses-body: |-
   # Bachelor of Music
