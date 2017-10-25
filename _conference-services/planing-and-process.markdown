@@ -3,19 +3,19 @@ title: Planing & Process
 date: 2017-10-25 18:41:00 Z
 ---
 
-*Conference Services Team*
+### *Conference Services Team*
 
 When you contact The Master’s University about hosting an event on our campus, you will be connected with a member of our Conference Services Team who will assist you throughout the planning process. They will be your main contact at TMU for the duration of your planning process and on-campus event.
 
 Our team will assist you through the steps of booking an event at TMU, and is always willing to answer questions. Please feel free to email us at [conferenceservices@masters.edu](mailto:conferenceservices@masters.edu) or call our office at 661.362.2610 during our office hours (8:30am-5:00pm, Monday-Friday).
 
-*Group Contact*
+### *Group Contact*
 
 Each group must have a single person designated as their contact during the event planning process and to serve as the primary leader for the duration of the event on campus. During the reservation process of event planning, this person will be responsible to inform the Conference Services Team of any details of the event, and will act as a liaison between the group and The Master’s University.
 
 When a group is on campus, their designated contact person is responsible to inform event attendees of the policies of TMU and oversee that all event attendees adhere to the policies of The Master’s University in addition to all local, state, and federal laws.
 
-*Event Process*
+### *Event Process*
 
 To begin the reservation process, please submit a Proposal Request Form. Once this is received by the Conference Services Team, we will respond to you shortly with customized proposal package for your upcoming event with initial information regarding room availability, pricing, and requirements.
 
@@ -42,3 +42,5 @@ As your event approaches the two-week out mark, you will need submit all final e
 When you arrive on campus, a member of our Conference Services Team will greet you to discuss last-minute details and procedures, and will conduct a walk-through of the reserved spaces with you.
 
 Upon departure, you will check out with a member of our team, or with our Campus Safety Department as specified on your Summary of Bookings. This will include turning in keys and dorm liability release forms (if applicable).
+
+*\*A condensed version of this timeline can be found here*
