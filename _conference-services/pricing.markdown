@@ -3,7 +3,6 @@ title: Pricing
 date: 2017-10-25 18:42:00 Z
 ---
 
-
 **LODGING**
 
 *\*housing is only available to groups sized 40 people or more*
@@ -38,13 +37,13 @@ date: 2017-10-25 18:42:00 Z
 
 * $100 Per hour Conference Hall (largest classroom designed for conference & event use)
 
-*\*must be reserved for a minimum of 4 hours*
+  * *\*must be reserved for a minimum of 4 hours*
 
 * $150 Per hour Music Recital Hall
 
-\**the Music Recital Hall is only available to music related events (ex: recitals, juries)*
+  * \**the Music Recital Hall is only available to music related events (ex: recitals, juries)*
 
-*\*must be reserved for a minimum of 2 hours*
+  * *\*must be reserved for a minimum of 2 hours*
 
 **ATHLETIC FACILITIES**
 
