@@ -23,6 +23,9 @@ collections:
   categories:
     title: Catergories
     output: true
+  conference-services:
+    title: Conference Services
+    output: true
   counselors:
     title: Counselors
     output: true
