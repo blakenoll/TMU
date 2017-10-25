@@ -11,25 +11,24 @@ layout: default
 </div>
 <div class="container">
   <br>
+  {% assign pages = site.conference-services %}
   <nav>
    <div class="nav-wrapper">
      <span class="nav-title hide-on-large-only right" style="padding: 0;">Conference Services</span>
      <a href="#" data-activates="mobile" class="button-collapse"><i class="material-icons">menu</i></a>
      <ul id="nav-mobile" class="left hide-on-med-and-down">
-       <li><a href="sass.html">Planing & Process</a></li>
-       <li><a href="badges.html">Event Guidlines</a></li>
-       <li><a href="collapsible.html">Facilities and Services</a></li>
-       <li><a href="collapsible.html">Pricing</a></li>
-       <li><a href="collapsible.html">Hosting and Capacities</a></li>
-       <li><a href="collapsible.html">FAQ'S</a></li>
+       {% for page in pages %}
+       {% if page.title != 'Home' %}
+       <li><a href="{{page.url}}">{{ page.title}}</a></li>
+       {% endif %}
+       {% endfor %}
      </ul>
      <ul id="mobile" class="side-nav">
-       <li><a href="sass.html">Planing & Process</a></li>
-       <li><a href="badges.html">Event Guidlines</a></li>
-       <li><a href="collapsible.html">Facilities and Services</a></li>
-       <li><a href="collapsible.html">Pricing</a></li>
-       <li><a href="collapsible.html">Hosting and Capacities</a></li>
-       <li><a href="collapsible.html">FAQ'S</a></li>
+       {% for page in pages %}
+       {% if page.title != 'Home' %}
+       <li><a href="{{page.url}}">{{ page.title}}</a></li>
+       {% endif %}
+       {% endfor %}
      </ul>
    </div>
  </nav>
