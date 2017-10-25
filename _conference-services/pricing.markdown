@@ -3,7 +3,7 @@ title: Pricing
 date: 2017-10-25 18:42:00 Z
 ---
 
-**LODGING**
+### **LODGING**
 
 *\*housing is only available to groups sized 40 people or more*
 
@@ -13,7 +13,7 @@ date: 2017-10-25 18:42:00 Z
 
 * $40 Per person Single Room Occupancy (1 person per room)
 
-**MEALS**
+### **MEALS**
 
 *\*meals are only available to groups sized 40 people or more*
 
@@ -27,7 +27,7 @@ date: 2017-10-25 18:42:00 Z
 
 \$13 Per meal Single Dinner
 
-**MEETING SPACES**
+### **MEETING SPACES**
 
 * $200 Per day Small Meeting Space (accommodates 15-45 seated guests)
 
@@ -45,7 +45,7 @@ date: 2017-10-25 18:42:00 Z
 
   * *\*must be reserved for a minimum of 2 hours*
 
-**ATHLETIC FACILITIES**
+### **ATHLETIC FACILITIES**
 
 *\*all athletic facilities must be reserved for a minimum of 2 hours*
 
