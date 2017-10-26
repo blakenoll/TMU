@@ -391,7 +391,7 @@ tuition-fees-body: |-
   * High School Students, per unit                $150
 
 
-  ## Other Costs
+  ## **Other Costs**
 
   **Books**
 
