@@ -309,10 +309,14 @@ verification-body: |-
 
   ## **Verification Steps:**
 
-  * Complete the IRS Data Retrieval through** **[FAFSA](http://www.fafsa.ed.gov/) on the Web (See our [IRS Data Retrieval Guide](http://www.masters.edu/media/810741/FAFSA%20IRS%20Data%20Retrieval.pdf).
+  * Complete the IRS Data Retrieval through [FAFSA](http://www.fafsa.ed.gov/) on the Web (See our [IRS Data Retrieval Guide](http://www.masters.edu/media/867479/fafsa-irs-data-retrieval-rev.pdf "FAFSA IRS Data Retrieval rev.pdf")).
 
 
-  * Submit the current [2016-17 Federal Verification Worksheet](http://www.masters.edu/media/868149/16-17-federal-verification-worksheet.pdf "16-17 Federal Verification Worksheet.pdf") to the Office of Financial Aid.
+  * Submit the Federal Verification Worksheet to the Office of Financial Aid.
+
+    * [2018-19 Federal Verification Worksheet](/uploads/Forms-%20MI-%20FVW%2018-19-44a72b.pdf)
+
+    * [2017-18 Federal Verification Worksheet](http://www.masters.edu/media/868376/forms-mi-fvw-2017-18.pdf "Forms- MI- FVW 2017-18.pdf")
 
 
   * Sign and submit our [Satisfactory Academic Progress Policy](http://www.masters.edu/financial-aid/onlinedcp/dcolpprintforms/).
