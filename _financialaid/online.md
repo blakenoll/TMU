@@ -85,7 +85,7 @@ state-fed-grants-body: |-
   <td align="center"><a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a></td>
   </tr>
   <tr>
-  <strong>Supplemental Education Opportunity Grant</strong><br />
+  <td><strong>Supplemental Education Opportunity Gran</strong><br />
   <ul>
   <li>Federal program based on need. The student must also be eligible for Pell Grant (see above).</li>
   </ul>
