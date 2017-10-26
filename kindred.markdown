@@ -1,6 +1,7 @@
 ---
 title: Special Evening with The Master's University
 date: 2017-10-09 20:29:00 Z
+parallax-img: "/uploads/TMU_KindredBanner_2160x500.jpg"
 layout: page
 ---
 
