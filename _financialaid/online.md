@@ -401,7 +401,7 @@ tuition-fees-body: |-
 
   ### **Course and Notebook Computer Fees**
   * Some courses have specific fees which are noted on the course schedule.
-  * All full-time students are required to have a notebook computer. Students must ensure their computer meets minimum configuration specifications. For more information, see [Computer Services](http://www.masters.edu/campuslinks/computerservices/studentcompinfo/notebookguide.aspx "Computer Services").
+  * All full-time students are required to have a notebook computer. Students must ensure their computer meets minimum configuration specifications. For more information, see [Computer Services](http://www.masters.edu/computer-services/).
 
   \*The Master’s University reserves the right to change, without notice, any charges, fees or policies listed on this website.
 loans-body: |-
