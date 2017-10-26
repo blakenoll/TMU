@@ -26,31 +26,29 @@ Johnson and point guard Hansel Atencia are both a year older after productive so
 
 “I don’t even know how many guys deep we are,” said Soares, who averaged more than eight points and six rebounds as a freshman. “We just have a whole squad that’s ready to roll, honestly.”
 
-Freshmen Hodges Bailey and Michael Taylor and junior Keegan Scott also figure to play into the rotation. The Mustangs, frankly, need the depth to play at coach Kelvin Starr’s breakneck pace. 
+Freshmen Hodges Bailey and Michael Taylor and junior Keegan Scott also figure to play into the rotation. The Mustangs, frankly, need the depth to play at coach Kelvin Starr’s breakneck pace.
 
 “We should be runnin’ and gunnin’,” Johnson said. 
-Starr has turned the Mustangs around at a similar clip. In 2015-16, Master’s won four games and missed the NAIA national tournament for the 16th straight time. 
+Starr has turned the Mustangs around at a similar clip. In 2015-16, Master’s won four games and missed the NAIA national tournament for the 16th straight time.
 
 Last year, Starr’s first, the Mustangs’ season ended in a two-point loss to eventual national champion Texas Wesleyan.
 
 **The secret?**
 
-“Culture. Getting people to buy in to what we’re trying to do and making sure everyone is on the same page,” Starr said. “… As a coach, you have to have talented players, too.” 
+“Culture. Getting people to buy in to what we’re trying to do and making sure everyone is on the same page,” Starr said. “… As a coach, you have to have talented players, too.”
 
-Some of those players’ roles have changed slightly. As a sophomore, Atencia mostly provided an offensive spark off the bench, averaging 12 points and four assists. He started eight of the 30 games he played in.   
+Some of those players’ roles have changed slightly. As a sophomore, Atencia mostly provided an offensive spark off the bench, averaging 12 points and four assists. He started eight of the 30 games he played in.
 
 This year, he’ll be called on to orchestrate the offense more prominently at point guard and to play defense at a more consistent level, something he’s progressed in at practice. 
-“He’s got to find the balance between scoring and running the team,” Starr said, “which can be hard for a guy like him who’s such an elite scorer.” 
+“He’s got to find the balance between scoring and running the team,” Starr said, “which can be hard for a guy like him who’s such an elite scorer.”
 
-Atencia may need to score more this year after the graduation of Reid Shackelford, an All-American who averaged 17 points a game. 
+Atencia may need to score more this year after the graduation of Reid Shackelford, an All-American who averaged 17 points a game.
 
-He won’t be alone, though. 
+He won’t be alone, though.
 
 Yenor’s and Scott’s range will help stretch the floor. Johnson can slash to the hoop. And McDowell-White is another quality ball-handler on a long, skilled Mustang team that gets after it on both sides of the floor.
 
 “Coach makes us play defense for 40 minutes straight,” said Russell, who fills the stat sheet in almost every category. “Hopefully, when they look at the Mustangs, they’re like, ‘Oh, they’re a tough team to play. They don’t allow easy buckets.’”
-
-
 
 # Women's Basketball
 
@@ -75,7 +73,7 @@ Fortunately, the task of replacing those two won’t fall to any one player.
 
 Sophomores Hannah Forrar, Brooke Bailey, Hannah Ostrom and Sabrina Thompson each played substantial minutes last season when the Mustangs advanced to the NAIA national tournament for the fifth straight season.
 
-“They’re tons better,” said Waldeck, whose team opens the season ranked No. 18 in the country and third in the Golden State Athletic Conference. “Their biggest adjustment, because their role is now to carry more scoring, is how to let that come to them and not force it. To balance being in attack mode yet involving their teammates.”  
+“They’re tons better,” said Waldeck, whose team opens the season ranked No. 18 in the country and third in the Golden State Athletic Conference. “Their biggest adjustment, because their role is now to carry more scoring, is how to let that come to them and not force it. To balance being in attack mode yet involving their teammates.”
 
 As far as the frontcourt, talented freshmen Rebekah Throns, Anika Neuman and Jessica Soares, all 6-foot-1 and above, are expected to make an immediate impact, with Rebekah’s sister, Hannah, joining the team at winter break.
 
@@ -88,6 +86,5 @@ The Mustangs open the season against NCAA Division 2 California Baptist on Thurs
 Of course, it’s been tough to simulate gritty post play in practice with no upperclassmen at the position. But, being a team stocked with young talent like freshman point guard Tristen Coltom has its own advantages.
 
 “We don’t have a lot of expectations on us coming into the year,” Ostrom said. “It allows us to play more free and together.”
-
 
 *For more information about upcoming games, check out [Mustang Athletics](http://athletics.masters.edu).*
