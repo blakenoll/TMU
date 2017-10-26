@@ -76,7 +76,7 @@ state-fed-grants-body: |-
   <td align="center">GPA Verification Form<br /><br /><a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a></td>
   </tr>
   <tr>
-  <td><span class="boldText">Pell Grant</span><br />
+  <td><strong>Pell Grant</strong><br />
   <ul>
   <li>Federal program based on need.</li>
   </ul>
@@ -110,7 +110,7 @@ state-fed-grants-body: |-
   <td>   </td>
   <td>
   <ul>
-  <li>Submit the <a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a> and your verified Cal Grant GPA by the deadline March 2nd*</li>
+  <li>Submit the <a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a> and your verified Cal Grant GPA by the deadline March 2nd\*</li>
   </ul>
   </td>
   </tr>
@@ -235,7 +235,7 @@ state-fed-grants-body: |-
   <td> </td>
   <td>
   <ul>
-  <li>Submit a verified Cal Grant GPA (SAT, ACT, or GED score for home school students) by March 2nd*</li>
+  <li>Submit a verified Cal Grant GPA (SAT, ACT, or GED score for home school students) by March 2nd\*</li>
   </ul>
   </td>
   </tr>
@@ -295,9 +295,9 @@ state-fed-grants-body: |-
   <p style="padding-left: 30px;">Telephone: Toll-free (888) 224-7268</p>
   <p style="padding-left: 30px;">E-mail: studentsupport@csac.ca.gov</p>
   <p style="padding-left: 30px;"><i>Please be advised that any Cal Grant award offer is tentative and subject to the final approval of the State Budget Act.</i></p>
-  <p><img class="center" style="display: block; margin-left: auto; margin-right: auto;" src="http://www2.masters.edu/w/GetHostedFile.ashx?images%5b9%5d.jpg&amp;Id=788" /></p>
+  <p><img class="center" style="display: block; margin-left: auto; margin-right: auto;" src="http://www2.masters.edu/w/GetHostedFile.ashx?images%5b9%5d.jpg&Id=788" /></p>
   <p style="text-align: center;"><i></i><a style="color: #2e2e2e; outline: 0px; background-color: #ffffff;" href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">CSAC</span></a></p>
-  <p>*You are responsible to make sure that your high school has submitted your grades to the California Student Aid Commission.  Ask your high school registrar what your school's procedure is.</p>
+  <p>\*You are responsible to make sure that your high school has submitted your grades to the California Student Aid Commission.  Ask your high school registrar what your school's procedure is.</p>
 verification-body: |-
   ## Federal Verification Process for Online and Degree Completion
 
