@@ -54,8 +54,7 @@ Yenor’s and Scott’s range will help stretch the floor. Johnson can slash to
 
 <img src="/uploads/WBB.jpg" style="width: 60%; float:right; margin-left: 5px;" class="materialboxed"/>
 
-<hr/>
-
+---
 # WOMEN'S BASKETBALL
 
 It came from a desire to educate.
