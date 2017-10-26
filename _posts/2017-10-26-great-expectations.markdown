@@ -5,7 +5,7 @@ author: Mason Nesbitt
 sm-image: "/uploads/basketball.jpg"
 ---
 
-<img src="/uploads/MBB.JPG" style="width: 50%; float:right" class="materialboxed"/>
+<img src="/uploads/MBB.JPG" style="width: 60%; float:right; margin-left: 5px;" class="materialboxed"/> 
 
 # Men's Basketball
 
