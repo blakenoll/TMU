@@ -52,6 +52,8 @@ Yenor’s and Scott’s range will help stretch the floor. Johnson can slash to
 
 “Coach makes us play defense for 40 minutes straight,” said Russell, who fills the stat sheet in almost every category. “Hopefully, when they look at the Mustangs, they’re like, ‘Oh, they’re a tough team to play. They don’t allow easy buckets.’”
 
+<img src="/uploads/WBB.jpg" style="width: 60%; float:right; margin-left: 5px;" class="materialboxed"/> 
+
 # Women's Basketball
 
 It came from a desire to educate.
