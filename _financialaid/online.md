@@ -378,7 +378,7 @@ printable-forms-body: "## TMU Online Program Financial Aid Forms\n\n[TMU Online 
   Loan Counseling](http://www.masters.edu/financial-aid/loans/directstaffordloans/)\n\n[Master
   Promissory Note](http://www.masters.edu/financial-aid/loans/directstaffordloans/)"
 tuition-fees-body: |-
-  ## Tuition and Fees
+  ## **Tuition and Fees**
 
   The Master’s University strives to offer students a Christ-centered education within the financial reach of all. We endeavor to keep costs as low as possible, and consequently, our tuition is among the most economical for a private university. When calculating university costs, be sure to consider the total cost. Consider items like: books and supplies, transportation, and personal spending money. While these amounts vary with each student, it can raise the total cost of education above the published tuition and room and board amounts. Fortunately, when computing a student’s financial need, we take all these costs into consideration.
 
