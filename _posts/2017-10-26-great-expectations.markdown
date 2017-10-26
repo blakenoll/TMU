@@ -94,4 +94,4 @@ Of course, it’s been tough to simulate gritty post play in practice with no up
 
 **Master’s plays Cal Baptist at home Thursday at 5 p.m's Basketball**
 
-*For more information about upcoming games, check out the[Athletic's site](www.masters.edu/athletics).*
+*For more information about upcoming games, check out the [Mustang Athletics](http://athletics.masters.edu).*
