@@ -54,6 +54,7 @@ The Mustangs open their season Thursday night at home against Bethesda Universit
 
 **Game time is 8 p.m.**
 
+
 # Women's Basketball
 
 It came from a desire to educate.
@@ -81,7 +82,7 @@ Sophomores Hannah Forrar, Brooke Bailey, Hannah Ostrom and Sabrina Thompson each
 
 As far as the frontcourt, talented freshmen Rebekah Throns, Anika Neuman and Jessica Soares, all 6-foot-1 and above, are expected to make an immediate impact, with Rebekah’s sister, Hannah, joining the team at winter break.
 
-The young trio will be tested.
+**The young trio will be tested.**
 
 The Mustangs open the season against NCAA Division 2 California Baptist on Thursday and Division 1 Cal State Northridge on Saturday before trekking to the Northwest to play D1s Washington State and Eastern Washington.
 
