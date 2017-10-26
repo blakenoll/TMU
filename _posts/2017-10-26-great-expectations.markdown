@@ -1,6 +1,8 @@
 ---
 title: Great Expectations
 date: 2017-10-26 15:18:00 Z
+author: Mason Nesbitt
+sm-image: "/uploads/BASKETBALL2.jpg"
 ---
 
 # Men's Basketball
