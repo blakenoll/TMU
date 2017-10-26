@@ -309,7 +309,7 @@ verification-body: |-
 
   ## **Verification Steps:**
 
-  * Complete the IRS Data Retrieval through** **[FAFSA](http://www.fafsa.ed.gov/) on the Web (See our [IRS Data Retrieval Guide](http://www.masters.edu/media/810741/FAFSA%20IRS%20Data%20Retrieval.pdf)).
+  * Complete the IRS Data Retrieval through** **[FAFSA](http://www.fafsa.ed.gov/) on the Web (See our [IRS Data Retrieval Guide](http://www.masters.edu/media/810741/FAFSA%20IRS%20Data%20Retrieval.pdf).
 
 
   * Submit the current [2016-17 Federal Verification Worksheet](http://www.masters.edu/media/868149/16-17-federal-verification-worksheet.pdf "16-17 Federal Verification Worksheet.pdf") to the Office of Financial Aid.
@@ -326,7 +326,7 @@ verification-body: |-
 
   **How to use the IRS Data Retrieval:**
 
-  See our [IRS Data Retrieval Step by Step Guide](http://www.masters.edu/media/810741/FAFSA%20IRS%20Data%20Retrieval.pdf)
+  See our [IRS Data Retrieval Step by Step Guide](http://www.masters.edu/media/867479/fafsa-irs-data-retrieval-rev.pdf)
 
   NOTE: The student and parent must go to the IRS separately. Please ensure that you have a valid Social Security Number and have already filed taxes for the previous year.
 
