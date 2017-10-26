@@ -378,24 +378,6 @@ printable-forms-body: |-
 
   [Master Promissory Note](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
 
-  ### Degree Completion Program Financial Aid Forms
-
-  [DCP Financial Aid Application](http://www.masters.edu/media/868156/degree-completion-program-financial-aid-application.pdf "Degree Completion Program - Financial Aid Application.pdf")
-
-  [DCP Satisfactory Academic Progress Policy](http://www.masters.edu/media/868157/degree-completion-program-satisfactory-academic-progress-policy.pdf "Degree Completion Program - Satisfactory Academic Progress Policy.pdf")
-
-  [FAFSA](http://www.fafsa.ed.gov/)
-
-  [FAFSA Waiver Form](http://www.masters.edu/media/868163/grad-fafsa-waiver-form.pdf "Grad FAFSA Waiver Form.pdf")
-
-  [2017-18 Federal Verification Worksheet](http://www.masters.edu/media/868376/forms-mi-fvw-2017-18.pdf "2017-18 Federal Verification Worksheet")
-
-  [2018-19 Federal Verification Worksheet](/uploads/Forms-%20MI-%20FVW%2018-19-44a72b.pdf)
-
-  [Entrance Loan Counseling](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
-
-  [Master Promissory Note](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
-
   ### Online Graduate Financial Aid Forms
 
   [Online Graduate Financial Aid Application](http://www.masters.edu/media/868172/online-graduate-degree-financial-aid-application.pdf "Online Graduate Degree Financial Aid Application.pdf")
