@@ -52,8 +52,6 @@ Yenor’s and Scott’s range will help stretch the floor. Johnson can slash to
 
 
 
-
-
 # Women's Basketball
 
 It came from a desire to educate.
