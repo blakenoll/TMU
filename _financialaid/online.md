@@ -382,7 +382,7 @@ tuition-fees-body: |-
 
   The Master’s University strives to offer students a Christ-centered education within the financial reach of all. We endeavor to keep costs as low as possible, and consequently, our tuition is among the most economical for a private university. When calculating university costs, be sure to consider the total cost. Consider items like: books and supplies, transportation, and personal spending money. While these amounts vary with each student, it can raise the total cost of education above the published tuition and room and board amounts. Fortunately, when computing a student’s financial need, we take all these costs into consideration.
 
-  ## **2017-2018 Financial Information**
+  ## **2017-2018 Tuition Information**
 
   * General Education Courses, per unit     $265
 
@@ -390,7 +390,8 @@ tuition-fees-body: |-
 
   * High School Students, per unit                $150
 
-  ## Deposits and Fees
+
+  ## Other Costs
 
   **Books**
 
