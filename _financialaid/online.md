@@ -350,9 +350,9 @@ verification-body: |-
 
   • You filed taxes outside the U.S.
 
-  **Requesting an IRS Transcript:**
+  **Requesting an IRS Tax Return Transcript:**
 
-  1. On the [IRS website](http://www.irs.gov/)choose “Get Transcript of Your Tax Records” or call 800.908.9946 and request the transcript by phone (See our guide on[How to Request an IRS Tax Transcript](http://www.masters.edu/media/867477/irs-website-retrieval-rev.pdf)). You may also request one in writing by completing the[IRS form 4506T-EZ](http://www.irs.gov/pub/irs-pdf/f4506tez.pdf)and mailing it to the IRS.
+  1. On the [IRS website](http://www.irs.gov/transcripts) choose “Get Transcript of Your Tax Records” or call 800.908.9946 and request the transcript by phone (See our guide on [How to Request an IRS Tax Transcript](http://www.masters.edu/media/867477/irs-website-retrieval-rev.pdf)). You may also request one in writing by completing the [IRS form 4506T-EZ](http://www.irs.gov/pub/irs-pdf/f4506tez.pdf) and mailing it to the IRS.
 
   2. Select the method by which you wish to receive your Tax Return Transcript.
 
