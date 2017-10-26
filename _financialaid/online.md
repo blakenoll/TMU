@@ -392,11 +392,11 @@ tuition-fees-body: |-
 
   ## Deposits and Fees
 
-  ### **Books**
+  **Books**
 
   Typical cost for books each semester ranges from $200 to $400, payable directly to the Campus Bookstore at time of purchase.
 
-  ### **Course and Notebook Computer Fees**
+  **Course and Notebook Computer Fees**
 
   * Some courses have specific fees which are noted on the course schedule.
 
