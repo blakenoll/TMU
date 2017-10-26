@@ -7,7 +7,7 @@ sm-image: "/uploads/basketball.jpg"
 
 # Men's Basketball
 
-Rocking back and forth, a giant grin on his face, Delewis Johnson embodied the buzz surrounding The Master’s University men’s basketball team as he fielded questions on a recent afternoon.
+Rocking back and forth, a giant grin on his face, Delewis Johnson embodied the buzz surrounding The Master’s University Men’s Basketball team as he fielded questions on a recent afternoon.
 
 The hope around campus is that this will be the program’s best season in at least two decades.
 
@@ -50,16 +50,15 @@ Yenor’s and Scott’s range will help stretch the floor. Johnson can slash to
 
 “Coach makes us play defense for 40 minutes straight,” said Russell, who fills the stat sheet in almost every category. “Hopefully, when they look at the Mustangs, they’re like, ‘Oh, they’re a tough team to play. They don’t allow easy buckets.’”
 
-The Mustangs open their season Thursday night at home against Bethesda University.
 
-**Game time is 8 p.m.**
+
 
 
 # Women's Basketball
 
 It came from a desire to educate.
 
-Of the four referees addressing The Master’s University women’s basketball team at center court before an intersquad this week, one asked for a show of hands from the freshmen.
+Of the four referees addressing The Master’s University Women’s Basketball team at center court before an intersquad this week, one asked for a show of hands from the freshmen.
 Seven arms went up.
 
 Over the next 15 minutes, the officials showed the newbies the ropes. What constitutes a foul in the college game. What doesn’t. It was a classroom on the court.
@@ -92,6 +91,5 @@ Of course, it’s been tough to simulate gritty post play in practice with no up
 
 “We don’t have a lot of expectations on us coming into the year,” Ostrom said. “It allows us to play more free and together.”
 
-**Master’s plays Cal Baptist at home Thursday at 5 p.m's Basketball**
 
 *For more information about upcoming games, check out [Mustang Athletics](http://athletics.masters.edu).*
