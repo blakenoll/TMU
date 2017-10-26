@@ -48,7 +48,7 @@ online-101-body: |-
 
   [Financial Aid Documents](http://www.masters.edu/onlineforms "Printable Forms")
 
-  <a style="background-color: #ffffff;" href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">California Student Aid Commission</span></a> for a comprehensive list of eligibility requirements.</td>
+  <a style="background-color: #ffffff;" href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">California Student Aid Commission</span></a>
 
   ## **Contact Information**
 
