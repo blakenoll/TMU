@@ -473,7 +473,7 @@ veterans-body: |-
   <tr>
   <td> </td>
   <td>
-  <p>3.  Complete <a href="/financial-aid/onlinedcp/dcolpprintforms/" target="_blank"><span style="text-decoration: underline;">The Master’s University Financial Aid Application</span></a></p>
+  <p>3.  Complete <a href="http://financial-aid/onlinedcp/dcolpprintforms/" target="_blank"><span style="text-decoration: underline;">The Master’s University Financial Aid Application</span></a></p>
   </td>
   </tr>
   <tr>
