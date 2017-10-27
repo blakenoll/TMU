@@ -260,17 +260,17 @@ layout: studentresources
 
 \(661) 362-2292
 
-**Walter Aguilar/Academic Advisor**
+### Veronica Hixson – Enrollment and Admissions
 
-[waguilar@masters.edu](mailto:waguilar@masters.edu)
+[vhixson@masters.edu](mailto:waguilar@masters.edu)
 
-\(661) 362-2674
+\(661) 362-2672
 
-**Paige Price/Academic Advisor**
+### Matthew Frields – Director of Enrollment
 
-pprice@masters.edu
+[mfrields@masters.edu](mailto:mfrields@masters.edu)
 
-\(661) 362-2690
+\(661) 362-2675
 
 ### **Academic Information**
 
