@@ -348,10 +348,6 @@ seminary-body: |-
 layout: fin-grad
 ---
 
-## Degree Completion Program (DCP)
-
-The Adult Degree Completion Program exists to enable Christian adults to finish college, to provide them a biblically based education that is useful in all areas of life, in a format that is compatible with their busy lifestyles, encouraging them in their love for God and personal holiness.
-
 ### Master of Arts: MABC and MABS
 
 These programs prepare students from diverse backgrounds to provide practical, straight-forward counseling that is Christ-centered, salvation-centered, church-centered, and Bible-centered.
