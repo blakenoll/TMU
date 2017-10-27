@@ -511,8 +511,8 @@ veterans-body: |-
   </ul>
   <p style="padding-left: 30px;">Pell Grant: up to $5,815</p>
   <p style="padding-left: 30px;">SEOG Grant: up to $1,000</p>
-  <p style="padding-left: 30px;"><a href="/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx" target="_blank"><span style="text-decoration: underline;">Cal Grant</span></a>: up to $8,056</p>
-  <p style="padding-left: 30px;"><a href="/undergrad/financial-aid/loans.aspx" target="_blank"><span style="text-decoration: underline;">Federal Stafford Loans</span></a> (Amount determined based on need and year in school)</p>
+  <p style="padding-left: 30px;">Cal Grant: up to $8,056</p>
+  <p style="padding-left: 30px;">Federal Stafford Loans (Amount determined based on need and year in school)</p>
   <p><img width="206" height="232" style="display: block; margin-left: auto; margin-right: auto;" alt="VA.jpg" src="/media/803973/VA.jpg" /></p>
   <h3><span>Post 9/11 Benefit and Yellow Ribbon Breakdown</span></h3>
   <p style="padding-left: 30px;">Contact the Office of Financial Aid to speak with a counselor to receive your personal Financial Aid Award Letter detailing all funds you are eligible to receive.  Please note that an annual application must be submitted for VA benefit to be applied to account.  Below you will find a general breakdown of the awards available to Veterans of the U.S. Armed Forces.</p>
