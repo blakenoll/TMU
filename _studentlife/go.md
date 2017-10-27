@@ -391,7 +391,7 @@ missions-resources-body: |-
 
   Werner, David. Where There Is No Doctor: A Village Health Care Handbook. Palo Alto, CA: The Hesperian Foundation, 1992.
 application-body: |-
-  ## 2017 Applications Now Available!
+  ## 2018 Applications Now Available!
 
   Spots remaining only for men on Ukraine and for the athletic teams.
 
