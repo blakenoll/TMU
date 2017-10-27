@@ -473,13 +473,13 @@ veterans-body: |-
   <tr>
   <td> </td>
   <td>
-  <p>3.  Complete <a href="http://financial-aid/onlinedcp/dcolpprintforms/" target="_blank"><span style="text-decoration: underline;">The Master’s University Financial Aid Application</span></a></p>
+  <p>3.  Complete <a href="financial-aid/onlinedcp/dcolpprintforms/" target="_blank"><span style="text-decoration: underline;">The Master’s University Financial Aid Application</span></a></p>
   </td>
   </tr>
   <tr>
   <td> </td>
   <td>
-  <p>4.  Complete the <a href="htttp://www.fafsa.ed.gov/" target=”blank"><span style="text-decoration: underline;">Free Application for Financial Aid</span></a></p>
+  <p>4.  Complete the <a href="http://www.fafsa.ed.gov" target="_blank"><span style="text-decoration: underline;">Free Application for Financial Aid</span></a></p>
   </td>
   </tr>
   <tr>
