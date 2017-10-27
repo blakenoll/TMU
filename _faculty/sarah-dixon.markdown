@@ -1,8 +1,11 @@
 ---
 title: Sarah Dixon
 date: 2017-10-27 21:12:00 Z
-published: false
+job-title: Director of Vocal Studies
 department: Music
+degrees:
+- B.M., The Master's University
+- M.M., CSUN
 email: music@masters.edu
 ---
 
