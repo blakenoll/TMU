@@ -81,7 +81,7 @@ travelars-health-body: |-
   WellnessMart
   1610 E. Thousand Oaks Blvd.
   Thousand Oaks, CA 91362
-  (805) 496-7148
+  \(805) 496-7148
 
   Many Walgreens, Costcos, and Walmarts also give regular vaccines.
 
@@ -115,7 +115,7 @@ travelars-health-body: |-
 
   [CDC malaria home page](http://www.cdc.gov/malaria/)
 
-  ## Suggested Vaccinations for all 2017 Destinations:
+  ## Recommended Vaccinations for all Destinations:
 
   * Hepatitis A
 
@@ -408,70 +408,56 @@ application-body: |-
   Pastor Reference: [http://masters.formstack.com/forms/Pastor_ref_GO](http://masters.formstack.com/forms/Pastor_ref_GO)
 
   \*Please note that completing an application does not guarantee a place on a team.
-faq-body: |-
-  ### What is the priority deadline for applying to join a Global Outreach team?
-
-  December 5, 2017.
-
-  ### Can I apply for a Global Outreach team after the deadline?
-
-  The priority deadline is December 5, and teams usually fill up before the start of the Spring semester. There is no guarantee of acceptance after the priority processing deadline, but the absolute last day to apply for a team would be January 18.
-
-  ### Do I need to sign up for the Preparation for Global Outreach class (BMS 312) on Thursday nights?
-
-  Each student traveling on a TMU Global Outreach team must register for BMS 312 in the spring semester. Included within the class session is a weekly team time to help plan for your trip abroad.
-
-  ### What kind of credit does the Prep for GO class offer?
-
-  The GO class counts as either an upper division Bible elective or as a cross-cultural general education class. If you take the class as gen ed credits, you will only need to take 3 credits of cross-cultural; the remaining 3 credits of the gen ed requirement can be used for any other class.
-
-  ### Can I take the Preparation for Global Outreach class (BMS 312) if I am not a part of a GO trip?
-
-  You may take the GO class even if you are not participating on a GO trip. Your will receive a modified syllabus.
-
-  ### Do I have to pay tuition fees if BMS 312 adds more than 18 units to my schedule?
-
-  You can sign up for BMS 312 for 0 units so that you are not charged tuition for taking the class. Sign up for 3 units, and then ask the registrar to change the count to 0. The course fee will apply to all students regardless of credit count.
-
-  ### Can I date or pursue another person on my team?
-
-  The Global Outreach Office does not place dating couples on the same team and discourages any dating relationships during the GO training and trip. If you have concerns about this, please discuss this with your team leader and the GO Director.
-
-  ### I have concerns about my personal security while traveling internationally. Are these trips safe?
-
-  Any international travel carries certain risks. The Global Outreach Office evaluates political, health, and safety risks to potential destinations. We make every effort to inform team members of anticipated risks. Further questions or inquiries about a specific destination can be directed to GO@masters.edu. Should a location become unstable during the training period, the team will either be redirected to another location or, in unusual cases, cancelled.
-
-  ### Do I have to take the GO class again if I have already taken it once?
-
-  Repeat participants will be given a slightly different syllabus to govern assignments and class participation. You must still register for the class, but can only receive the units once.
-
-  ### Can I be on a Global Outreach team if I am studying in IBEX in the spring?
-
-  Sorry, because of the team training, spring IBEX and GO are not possible to accomplish in the same year.
-
-  ### How much do the trips cost?
-
-  The total trip cost, including airfare, food, lodging and ministry expenses will be around $2975. Athletic trips will have a slightly different pricing structure.
-
-  ### Can someone who is not a current traditional student at TMU join a Global Outreach team?
-
-  Faculty and staff are encouraged to apply for teams. Others may be able to participate along with the team by working directly with the partnering organization such as a mission agency or church. Questions about this may be directed to GO@masters.edu.
-
-  ### When will I know what team I am on?
-
-  Team rosters will be finalized during the first week of classes in January.
-
-  ### Is there anything I can do over Christmas break to get ready for a trip?
-
-  Pray.
-
-  Apply for a passport if you don’t already have one. These sites will be helpful: [https://travel.state.gov/content/passports/en/passports/apply.html](https://travel.state.gov/content/passports/en/passports/apply.html)[https://travel.state.gov/content/passports/en/passports/forms.html](https://travel.state.gov/content/passports/en/passports/forms.html)
-
-  Check in with your family doctor and make sure that your vaccinations are current. If you are not vaccinated against Hepatitis A and B, start the series now--it makes up to 6 months to finish.
-
-  Tell your family and friends that they can give tax deductible donations toward your trip for Christmas. [www.masters.edu/supportGO](http://www.masters.edu/supportgo "Support GO")
-
-  Gather addresses while you are home for people you will send letters to in late January.
+faq-body: "### What is the priority deadline for applying to join a Global Outreach
+  team?\n\nDecember 5, 2018.\n\n### Can I apply for a Global Outreach team after the
+  deadline?\n\nThe priority deadline is December 5, and teams usually fill up before
+  the start of the Spring semester. \n\n### Do I need to sign up for the Preparation
+  for Global Outreach class (BMS 312) on Thursday nights?\n\nEach student traveling
+  on a TMU Global Outreach team must register for BMS 312 in the spring semester.
+  Included within the class session is a weekly team time to help plan for your trip
+  abroad.\n\n### What kind of credit does the Prep for GO class offer?\n\nThe GO class
+  counts as either an upper division Bible elective or as a cross-cultural general
+  education class. If you take the class as gen ed credits, you will only need to
+  take 3 credits of cross-cultural; the remaining 3 credits of the gen ed requirement
+  can be used for any other class.\n\n### Can I take the Preparation for Global Outreach
+  class (BMS 312) if I am not a part of a GO trip?\n\nYou may take the GO class even
+  if you are not participating on a GO trip. Your will receive a modified syllabus.
+  TESOL Award members instead should sign up for TESOL. \n\n### Do I have to pay tuition
+  fees if BMS 312 adds more than 18 units to my schedule?\n\nYou can sign up for BMS
+  312 for 0 units so that you are not charged tuition for taking the class. Sign up
+  for 3 units, and then ask the registrar to change the count to 0. The course fee
+  will apply to all students regardless of credit count.\n\n### Can I date or pursue
+  another person on my team?\n\nThe Global Outreach Office does not place dating couples
+  on the same team and discourages any dating relationships during the GO training
+  and trip. If you have concerns about this, please discuss this with your team leader
+  and the GO Director.\n\n### I have concerns about my personal security while traveling
+  internationally. Are these trips safe?\n\nAny international travel carries certain
+  risks. The Global Outreach Office evaluates political, health, and safety risks
+  to potential destinations. We make every effort to inform team members of anticipated
+  risks. Further questions or inquiries about a specific destination can be directed
+  to GO@masters.edu. Should a location become unstable during the training period,
+  the team will either be redirected to another location or, in unusual cases, cancelled.\n\n###
+  Do I have to take the GO class again if I have already taken it once?\n\nRepeat
+  participants will be given a slightly different syllabus to govern assignments and
+  class participation. You must still register for the class, but can only receive
+  the units once.\n\n### Can I be on a Global Outreach team if I am studying in IBEX
+  in the spring?\n\nSorry, because of the team training, spring IBEX and GO are not
+  possible to accomplish in the same year.\n\n### How much do the trips cost?\n\nThe
+  total trip cost, including airfare, food, lodging and ministry expenses will be
+  $3200. \n\n### Can someone who is not a current traditional student at TMU join
+  a Global Outreach team?\n\nFaculty and staff are encouraged to apply for teams.
+  Alumni may be able to participate if spots are available. Questions about this may
+  be directed to GO@masters.edu.\n\n### When will I know what team I am on?\n\nTeam
+  rosters will be finalized during the first week of classes in January, however,
+  we will try to notify teams earlier in December if possible. \n\n### Is there anything
+  I can do over Christmas break to get ready for a trip?\n\nPray.\n\nApply for a passport
+  if you don’t already have one. These sites will be helpful: [https://travel.state.gov/content/passports/en/passports/apply.html](https://travel.state.gov/content/passports/en/passports/apply.html)[https://travel.state.gov/content/passports/en/passports/forms.html](https://travel.state.gov/content/passports/en/passports/forms.html)\n\nCheck
+  in with your family doctor and make sure that your vaccinations are current. If
+  you are not vaccinated against Hepatitis A and B, start the series now--it makes
+  up to 6 months to finish.\n\nTell your family and friends that they can give tax
+  deductible donations toward your trip for Christmas. [www.masters.edu/supportGO](http://www.masters.edu/supportgo
+  \"Support GO\")\n\nGather addresses while you are home for people you will send
+  letters to in late January."
 director-body: |-
   ### Lisa La George
 
