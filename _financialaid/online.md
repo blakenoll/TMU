@@ -485,7 +485,7 @@ veterans-body: |-
   <tr>
   <td> </td>
   <td>
-  <p>5.  If selected for a process called “Verification” by the Federal government additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).  Please visit our <a href="/financial-aid/onlinedcp/dcolpverificaiton/" target="_blank"><span style="text-decoration: underline;">Verification page</span></a> for detailed instructions on this process.</p>
+  <p>5.  If selected for a process called “Verification” by the Federal government, additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).</p>
   </td>
   </tr>
   </tbody>
