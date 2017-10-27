@@ -125,6 +125,42 @@ required-courses-body: |-
 
   **Total units required for emphasis: 78**
 
+  **Piano Pedagogy**
+
+  **The BACHELOR OF MUSIC in PIANO PERFORMANCE with emphasis in PEDAGOGY allows piano majors who plan to teach the opportunity to focus on pedagogy through course work and practical experience. The program includes a breadth and depth of music studies to assure a thorough foundation. Students must demonstrate satisfactory progress by the end of the sophomore year in order to continue in the B.M. degree program**
+
+  * Bachelor of Music Degree Core Courses (61)
+
+  * MU352 Teaching Piano Internship I (1.5)
+
+  * MU360A Additional Instruction in Piano (6)
+
+  * MU374 Functional Keyboard Skills (2)
+
+  * MU385 Piano Pedagogy I (2)
+
+  * MU386 Piano Pedagogy II (2)
+
+  * MU440 Collaborative Keyboard\* (2-4)
+
+  * MU453 Teaching Piano Internship II (1.5)
+
+  * MU454 Teaching Piano Internship III (1.5)
+
+  * MU483 Piano Pedagogy III (2)
+
+  * MU484 Piano Pedagogy IV (2)
+
+  * MU473 Advanced Piano Literature (2)
+
+  * MU460 Recital (60 minutes) (2)
+
+  **Total units required for emphasis: 85.5**
+
+  ***\*2-4 units count for Major Performing Ensemble (Core)***
+
+  **Exempted from Piano Foundations**
+
   ### Piano Performance
 
   **The BACHELOR OF MUSIC in PERFORMANCE prepares students for a career in performance, teaching, or for advanced study in piano, voice or an instrument. The program includes a breadth and depth of music studies to assure a thorough foundation. Students must demonstrate satisfactory progress by the end of the sophomore year in order to continue in the B.M. degree program.**
