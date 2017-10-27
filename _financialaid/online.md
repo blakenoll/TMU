@@ -48,6 +48,8 @@ online-101-body: |-
 
   [Financial Aid Documents](http://www.masters.edu/onlineforms "Printable Forms")
 
+  <a style="background-color: #ffffff;" href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">California Student Aid Commission</span></a>
+
   ## **Contact Information**
 
   **Ryan Wethern\
@@ -76,7 +78,7 @@ state-fed-grants-body: |-
   <td align="center">GPA Verification Form<br /><br /><a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a></td>
   </tr>
   <tr>
-  <td><span class="boldText">Pell Grant</span><br />
+  <td><strong>Pell Grant</strong><br />
   <ul>
   <li>Federal program based on need.</li>
   </ul>
@@ -85,7 +87,7 @@ state-fed-grants-body: |-
   <td align="center"><a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a></td>
   </tr>
   <tr>
-  <td><span class="boldText">Supplemental Education Opportunity Grant</span><br />
+  <td><strong>Supplemental Education Opportunity Gran</strong><br />
   <ul>
   <li>Federal program based on need. The student must also be eligible for Pell Grant (see above).</li>
   </ul>
@@ -110,7 +112,7 @@ state-fed-grants-body: |-
   <td>   </td>
   <td>
   <ul>
-  <li>Submit the <a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a> and your verified Cal Grant GPA by the deadline March 2nd*</li>
+  <li>Submit the <a href="http://www.fafsa.ed.gov/" target="blank"><span style="text-decoration: underline;">FAFSA</span></a> and your verified Cal Grant GPA by the deadline March 2nd\*</li>
   </ul>
   </td>
   </tr>
@@ -235,7 +237,7 @@ state-fed-grants-body: |-
   <td> </td>
   <td>
   <ul>
-  <li>Submit a verified Cal Grant GPA (SAT, ACT, or GED score for home school students) by March 2nd*</li>
+  <li>Submit a verified Cal Grant GPA (SAT, ACT, or GED score for home school students) by March 2nd\*</li>
   </ul>
   </td>
   </tr>
@@ -295,9 +297,9 @@ state-fed-grants-body: |-
   <p style="padding-left: 30px;">Telephone: Toll-free (888) 224-7268</p>
   <p style="padding-left: 30px;">E-mail: studentsupport@csac.ca.gov</p>
   <p style="padding-left: 30px;"><i>Please be advised that any Cal Grant award offer is tentative and subject to the final approval of the State Budget Act.</i></p>
-  <p><img class="center" style="display: block; margin-left: auto; margin-right: auto;" src="http://www2.masters.edu/w/GetHostedFile.ashx?images%5b9%5d.jpg&amp;Id=788" /></p>
+  <p><img class="center" style="display: block; margin-left: auto; margin-right: auto;" src="http://www2.masters.edu/w/GetHostedFile.ashx?images%5b9%5d.jpg&Id=788" /></p>
   <p style="text-align: center;"><i></i><a style="color: #2e2e2e; outline: 0px; background-color: #ffffff;" href="http://www.csac.ca.gov/" target="_blank"><span style="text-decoration: underline;">CSAC</span></a></p>
-  <p>*You are responsible to make sure that your high school has submitted your grades to the California Student Aid Commission.  Ask your high school registrar what your school's procedure is.</p>
+  <p>\*You are responsible to make sure that your high school has submitted your grades to the California Student Aid Commission.  Ask your high school registrar what your school's procedure is.</p>
 verification-body: |-
   ## Federal Verification Process for Online and Degree Completion
 
@@ -307,10 +309,14 @@ verification-body: |-
 
   ## **Verification Steps:**
 
-  * Complete the IRS Data Retrieval through** **[FAFSA](http://www.fafsa.ed.gov/) on the Web (See our [IRS Data Retrieval Guide](http://www.masters.edu/media/810741/FAFSA%20IRS%20Data%20Retrieval.pdf)).
+  * Complete the IRS Data Retrieval through [FAFSA](http://www.fafsa.ed.gov/) on the Web (See our [IRS Data Retrieval Guide](http://www.masters.edu/media/867479/fafsa-irs-data-retrieval-rev.pdf "FAFSA IRS Data Retrieval rev.pdf")).
 
 
-  * Submit the current [2016-17 Federal Verification Worksheet](http://www.masters.edu/media/868149/16-17-federal-verification-worksheet.pdf "16-17 Federal Verification Worksheet.pdf") to the Office of Financial Aid.
+  * Submit the Federal Verification Worksheet to the Office of Financial Aid.
+
+    * [2018-19 Federal Verification Worksheet](/uploads/Forms-%20MI-%20FVW%2018-19-44a72b.pdf)
+
+    * [2017-18 Federal Verification Worksheet](http://www.masters.edu/media/868376/forms-mi-fvw-2017-18.pdf "Forms- MI- FVW 2017-18.pdf")
 
 
   * Sign and submit our [Satisfactory Academic Progress Policy](http://www.masters.edu/financial-aid/onlinedcp/dcolpprintforms/).
@@ -324,7 +330,7 @@ verification-body: |-
 
   **How to use the IRS Data Retrieval:**
 
-  See our [IRS Data Retrieval Step by Step Guide](http://www.masters.edu/media/810741/FAFSA%20IRS%20Data%20Retrieval.pdf)
+  See our [IRS Data Retrieval Step by Step Guide](http://www.masters.edu/media/867479/fafsa-irs-data-retrieval-rev.pdf)
 
   NOTE: The student and parent must go to the IRS separately. Please ensure that you have a valid Social Security Number and have already filed taxes for the previous year.
 
@@ -344,98 +350,58 @@ verification-body: |-
 
   • You filed taxes outside the U.S.
 
-  **Requesting an IRS Transcript:**
+  **Requesting an IRS Tax Return Transcript:**
 
-  1. On the [IRS website](http://www.irs.gov/)choose “Get Transcript of Your Tax Records” or call 800.908.9946 and request the transcript by phone (See our guide on[How to Request an IRS Tax Transcript](http://www.masters.edu/media/867477/irs-website-retrieval-rev.pdf)). You may also request one in writing by completing the[IRS form 4506T-EZ](http://www.irs.gov/pub/irs-pdf/f4506tez.pdf)and mailing it to the IRS.
+  1. On the [IRS website](http://www.irs.gov/transcripts) choose “Get Transcript of Your Tax Records” or call 800.908.9946 and request the transcript by phone (See our guide on [How to Request an IRS Tax Transcript](http://www.masters.edu/media/867477/irs-website-retrieval-rev.pdf)). You may also request one in writing by completing the [IRS form 4506T-EZ](http://www.irs.gov/pub/irs-pdf/f4506tez.pdf) and mailing it to the IRS.
 
   2. Select the method by which you wish to receive your Tax Return Transcript.
 
   3. Fill in the requested information and request the (Tax) Return Transcript.
 
   4. Once you receive your transcript submit it to the Office of Financial Aid for verification.
-printable-forms-body: |-
-  ## TMU Online Program Financial Aid Forms
-
-  [TMU Online Program Financial Aid Application](http://www.masters.edu/media/868174/online-program-financial-aid-application.pdf "Online Program - Financial Aid Application.pdf")
-
-  [TMU Online Program Satisfactory Academic Progress Policy](http://www.masters.edu/media/868171/online-program-satisfactory-academic-progress-policy.pdf "Online Program Satisfactory Academic Progress Policy.pdf")
-
-  [FAFSA](http://www.fafsa.ed.gov/)
-
-  [FAFSA Waiver Form](http://www.masters.edu/media/868163/grad-fafsa-waiver-form.pdf "Grad FAFSA Waiver Form.pdf")
-
-  [2017-18 Federal Verification Worksheet](http://www.masters.edu/media/868376/forms-mi-fvw-2017-18.pdf "2017-18 Federal Verification Worksheet")
-
-  [2018-19 Federal Verification Worksheet](/uploads/Forms-%20MI-%20FVW%2018-19-44a72b.pdf)
-
-  [Entrance Loan Counseling](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
-
-  [Master Promissory Note](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
-
-  ### Degree Completion Program Financial Aid Forms
-
-  [DCP Financial Aid Application](http://www.masters.edu/media/868156/degree-completion-program-financial-aid-application.pdf "Degree Completion Program - Financial Aid Application.pdf")
-
-  [DCP Satisfactory Academic Progress Policy](http://www.masters.edu/media/868157/degree-completion-program-satisfactory-academic-progress-policy.pdf "Degree Completion Program - Satisfactory Academic Progress Policy.pdf")
-
-  [FAFSA](http://www.fafsa.ed.gov/)
-
-  [FAFSA Waiver Form](http://www.masters.edu/media/868163/grad-fafsa-waiver-form.pdf "Grad FAFSA Waiver Form.pdf")
-
-  [2017-18 Federal Verification Worksheet](http://www.masters.edu/media/868376/forms-mi-fvw-2017-18.pdf "2017-18 Federal Verification Worksheet")
-
-  [2018-19 Federal Verification Worksheet](/uploads/Forms-%20MI-%20FVW%2018-19-44a72b.pdf)
-
-  [Entrance Loan Counseling](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
-
-  [Master Promissory Note](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
-
-  ### Online Graduate Financial Aid Forms
-
-  [Online Graduate Financial Aid Application](http://www.masters.edu/media/868172/online-graduate-degree-financial-aid-application.pdf "Online Graduate Degree Financial Aid Application.pdf")
-
-  [Online Graduate Satisfactory Academic Progress Policy](http://www.masters.edu/media/867525/ol-grad-sapp-2.pdf)
-
-  [FAFSA](http://www.fafsa.ed.gov/)
-
-  [FAFSA Waiver Form](http://www.masters.edu/media/868163/grad-fafsa-waiver-form.pdf "Grad FAFSA Waiver Form.pdf")
-
-  [2017-18 Federal Verification Worksheet](/uploads/Forms-%20MI-%20FVW%2017-18.pdf)
-
-  [2018-19 Federal Verification Worksheet](/uploads/Forms-%20MI-%20FVW%2018-19-44a72b.pdf)
-
-  [Entrance Loan Counseling](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
-
-  [Master Promissory Note](http://www.masters.edu/financial-aid/loans/directstaffordloans/)
+printable-forms-body: "## TMU Online Program Financial Aid Forms\n\n[TMU Online Program
+  Financial Aid Application](http://www.masters.edu/media/868174/online-program-financial-aid-application.pdf
+  \"Online Program - Financial Aid Application.pdf\")\n\n[TMU Online Program Satisfactory
+  Academic Progress Policy](http://www.masters.edu/media/868171/online-program-satisfactory-academic-progress-policy.pdf
+  \"Online Program Satisfactory Academic Progress Policy.pdf\")\n\n[FAFSA](http://www.fafsa.ed.gov/)\n\n[FAFSA
+  Waiver Form](http://www.masters.edu/media/868163/grad-fafsa-waiver-form.pdf \"Grad
+  FAFSA Waiver Form.pdf\")\n\n[2017-18 Federal Verification Worksheet](http://www.masters.edu/media/868376/forms-mi-fvw-2017-18.pdf
+  \"2017-18 Federal Verification Worksheet\")\n\n[2018-19 Federal Verification Worksheet](/uploads/Forms-%20MI-%20FVW%2018-19-44a72b.pdf)\n\n[Entrance
+  Loan Counseling](http://www.masters.edu/financial-aid/loans/directstaffordloans/)\n\n[Master
+  Promissory Note](http://www.masters.edu/financial-aid/loans/directstaffordloans/)\n\n
+  \n\n### Online Graduate Financial Aid Forms\n\n[Online Graduate Financial Aid Application](http://www.masters.edu/media/868172/online-graduate-degree-financial-aid-application.pdf
+  \"Online Graduate Degree Financial Aid Application.pdf\")\n\n[Online Graduate Satisfactory
+  Academic Progress Policy](http://www.masters.edu/media/867525/ol-grad-sapp-2.pdf)\n\n[FAFSA](http://www.fafsa.ed.gov/)\n\n[FAFSA
+  Waiver Form](http://www.masters.edu/media/868163/grad-fafsa-waiver-form.pdf \"Grad
+  FAFSA Waiver Form.pdf\")\n\n[2017-18 Federal Verification Worksheet](/uploads/Forms-%20MI-%20FVW%2017-18.pdf)\n\n[2018-19
+  Federal Verification Worksheet](/uploads/Forms-%20MI-%20FVW%2018-19-44a72b.pdf)\n\n[Entrance
+  Loan Counseling](http://www.masters.edu/financial-aid/loans/directstaffordloans/)\n\n[Master
+  Promissory Note](http://www.masters.edu/financial-aid/loans/directstaffordloans/)"
 tuition-fees-body: |-
-  ## Tuition and Fees
+  ## **Tuition and Fees**
 
   The Master’s University strives to offer students a Christ-centered education within the financial reach of all. We endeavor to keep costs as low as possible, and consequently, our tuition is among the most economical for a private university. When calculating university costs, be sure to consider the total cost. Consider items like: books and supplies, transportation, and personal spending money. While these amounts vary with each student, it can raise the total cost of education above the published tuition and room and board amounts. Fortunately, when computing a student’s financial need, we take all these costs into consideration.
 
-  **2016-2011 Financial Information**
+  ## **2017-2018 Tuition Information**
 
-  TMU Online Program                                     Price
+  * General Education Courses, per unit     $265
 
-  General Education Courses, per unit     $265
+  * Major Courses, per unit                                $450
 
-  Major Courses, per unit                                $450
+  * High School Students, per unit                $150
 
-  High School Students, per unit                $150
 
-  Degree Completion Program                     Price
+  ## **Other Costs**
 
-  General Education Courses, per unit     $265
-
-  Major Courses, per unit                                $450
-
-  ## Deposits and Fees
-
-  ### **Books**
+  **Books**
 
   Typical cost for books each semester ranges from $200 to $400, payable directly to the Campus Bookstore at time of purchase.
 
-  Course and Notebook Computer Fees
-  Some courses have specific fees, noted on the course schedule. All full-time students are required to have a notebook computer. Students must ensure their computer meets minimum configuration specifications. For more information, see [Computer Services](http://www.masters.edu/campuslinks/computerservices/studentcompinfo/notebookguide.aspx "Computer Services").
+  **Course and Notebook Computer Fees**
+
+  * Some courses have specific fees which are noted on the course schedule.
+
+  * All full-time students are required to have a notebook computer. Students must ensure their computer meets minimum configuration specifications. For more information, see [Computer Services](http://www.masters.edu/computer-services/).
 
   \*The Master’s University reserves the right to change, without notice, any charges, fees or policies listed on this website.
 loans-body: |-

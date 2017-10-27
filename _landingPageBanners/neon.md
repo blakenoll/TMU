@@ -1,9 +1,9 @@
 ---
 title: View The U
 position: 0
-description: 'Attention Future Mustangs! Join us for a weekend of #lifeattmu'
-image: "/uploads/ViewWeekend_Web.jpg"
-link: "/visit"
-button-text: MORE INFO
+description: Stay up-to-date on all Mustang Athletics
+image: "/uploads/MBB_GSACRankings_WebBanner.jpg"
+link: http://athletics.masters.edu/
+button-text: Go Mustangs!
 ---
 

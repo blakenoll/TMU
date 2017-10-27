@@ -5,9 +5,10 @@ author: Mason Nesbitt
 sm-image: "/uploads/basketball.jpg"
 ---
 
-<img src="/uploads/MBB.JPG" style="width: 60%; float:right; margin-left: 5px;" class="materialboxed"/> 
 
-# Men's Basketball
+# MEN'S BASKETBALL
+
+<img src="/uploads/MBB.JPG" style="width: 60%; float:right; margin-left: 5px;" class="materialboxed"/>
 
 Rocking back and forth, a giant grin on his face, Delewis Johnson embodied the buzz surrounding The Master’s University Men’s Basketball team as he fielded questions on a recent afternoon.
 
@@ -52,7 +53,15 @@ Yenor’s and Scott’s range will help stretch the floor. Johnson can slash to
 
 “Coach makes us play defense for 40 minutes straight,” said Russell, who fills the stat sheet in almost every category. “Hopefully, when they look at the Mustangs, they’re like, ‘Oh, they’re a tough team to play. They don’t allow easy buckets.’”
 
-# Women's Basketball
+<br>
+
+---
+
+<br>
+
+# WOMEN'S BASKETBALL
+
+<img src="/uploads/WBB.jpg" style="width: 60%; float:right; margin-left: 5px;" class="materialboxed"/>
 
 It came from a desire to educate.
 

@@ -865,8 +865,28 @@ ensembles:
     Other: Instrumental Chamber Ensembles including a String Quartet, Brass Quartet and Woodwind Quintet, Guitar Ensemble, Percussion Ensemble, Pep Band, Vocal Jazz Quartet and Barbershop Quartet dependant on student availability.
 
     Students regularly appear in studio and compostion recitals each semester.
-BA-entrance-file: 
-BM-entrance-file: 
+prospective-students-body: |-
+  All prospective music majors, regardless of degree emphasis, are required to perform an on-campus entrance audition/interview with the School of Music Faculty. Available audition dates and specific repertoire recommendations for each instrument are available by following the links below. All prospective music students will be evaluated for music scholarship eligibility based upon their skill as demonstrated in their entrance audition. Recordings (audio or video) are not accepted as audition material. Please contact Caroline Peters at [cpeters@masters.edu](mailto:cpeters@masters.edu) or 661-362-2279 to schedule your audition!
+
+  * Monday, September 18, 2017 (Monday’s @ Master’s) 4-5:30 pm
+
+  * Friday, October 27, 2017 (View the U) 2-4 pm
+
+  * Monday, November 13, 2017 (Music@Master’s: Fall *Prelude*) 2-4 pm
+
+  * Monday February 19, 2018 (Music@Master’s: Spring *Prelude*) 2-4 pm
+
+  * Friday, March 23, 2018 (View the U) 2-4 pm
+
+  * Monday, April 9, 2018 (Monday’s @ Master’s) 4-5:30 pm
+
+  *All auditions for the 2017-2018 school year have passed.*
+
+  *Recordings (audio or video) are not accepted as audition material. Please contact the School of Music to schedule your live audition on one of these dates at 800.568.6248 ext. 2279.*
+
+  <a href="http://www.masters.edu/uploads/Audition%20Requirements.pdf" class="btn btn-navy">Audition Requirements</a>
+
+  <a href="http://www.masters.edu/uploads/School%20of%20Music%20Application.pdf" class="btn btn-navy">School of Music Application</a>
 scholorship-file: "/performingarts/music-scholarships"
 facilities-body: |-
   ## Recording Studio
