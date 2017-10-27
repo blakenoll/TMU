@@ -479,7 +479,7 @@ veterans-body: |-
   <tr>
   <td> </td>
   <td>
-  <p>4.  Complete the <a href="http://www.fafsa.ed.gov/" target="blank""><span style="text-decoration: underline;">Free Application for Federal Student Aid</span></a></p>
+  <p>4.  Complete the <a href="www.fafsa.ed.gov" target="_blank"><span style="text-decoration: underline;">Free Application for Financial Aid</span></a></p>
   </td>
   </tr>
   <tr>
