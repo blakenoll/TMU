@@ -2,6 +2,7 @@
 title: Dave Blackwell
 date: 2017-10-19 17:19:00 Z
 job-title: Adjunct Professor
+image: "/uploads/Blackwell,%20D.jpg"
 department: Sciences
 degrees:
 - B.S., Iowa State University
