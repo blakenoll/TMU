@@ -454,7 +454,6 @@ veterans-body: |-
   <h2>Veterans Benefits and Financial Aid for the Online and Degree Completion Programs</h2>
   <p style="padding-left: 30px;">The Office of Financial Aid at The Master’s University welcomes veterans and members of the U.S. Armed Forces to take online and degree completion programs. We have designed this page as a resource for Veterans, active duty, reservists and their families to navigate the unique financial aid resources and benefits available. The Master’s University is approved to enroll those students and their families who are eligible for educational assistance benefits from the<a href="http://www.va.gov/" target="blank"><span style="text-decoration: underline;"> U.S. Department of Veterans Affairs (DVA).</span></a> We are committed to assisting you in taking full advantage of your Veterans benefits to secure an excellent higher Christian education at The Master’s University.</p>
   <p style="padding-left: 30px;"><span class="boldText">• The Master's University is a Yellow Ribbon School</span></p>
-  <p style="padding-left: 30px;"><span class="boldText">• Please visit our <a href="http://www.masters.edu/admissions/military.aspx" target="_blank"><span style="text-decoration: underline;">Military Resource page</span></a> for additional information regarding Military students</span></p>
   <h3> </h3>
   <h3>How do I start the process?</h3>
   <table border="0" style="width: 1145px;">
@@ -480,7 +479,7 @@ veterans-body: |-
   <tr>
   <td> </td>
   <td>
-  <p>4.  Complete the <a href="http://www.fafsa.ed.gov/" target="blank&quot;"><span style="text-decoration: underline;">Free Application for Federal Student Aid</span></a></p>
+  <p>4.  Complete the <a href="http://www.fafsa.ed.gov/" target="blank""><span style="text-decoration: underline;">Free Application for Federal Student Aid</span></a></p>
   </td>
   </tr>
   <tr>
@@ -505,7 +504,7 @@ veterans-body: |-
   <li><span class="boldText">Reserve Educational Assistance (REAP)</span></li>
   </ul>
   <ul>
-  <li><span class="boldText">Surviving &amp; Dependents Assistance (DEA)</span></li>
+  <li><span class="boldText">Surviving & Dependents Assistance (DEA)</span></li>
   </ul>
   <ul>
   <li><span class="boldText">Federal and State Aid:</span></li>
