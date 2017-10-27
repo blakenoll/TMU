@@ -105,7 +105,7 @@ master-of-arts-body: "<h2 style=\"text-align: center;\">Master of Arts Financial
   target=\"blank\"><img src=\"http://www2.masters.edu/images/mjjohnson/11-1-2006/Photos/CSAC1.JPG\"
   border=\"0\" /></a></td>\n<td width=\"33%\" align=\"center\"><a href=\"/financial-aid/printable-forms\"
   target=\"_blank\"><img alt=\"\" src=\"/media/867802/download-forms.png?width=185px&height=105px\"
-  rel=\"37984\" style=\"width: 185px; height: 105px;\" "
+  rel=\"37984\" style=\"width: 185px; height: 105px;\"\n\n/></a></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p> </p> "
 teaching-credential-body: |-
   <h2>Teaching Credential Financial Aid</h2>
   <p> </p>
