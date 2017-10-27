@@ -2,177 +2,110 @@
 title: Grad/Special Programs
 date: 2017-04-10 19:05:00 Z
 sm-image: "/uploads/AdmissionFinAid_GradSpecialPrograms.png"
-master-of-arts-body: |-
-  <h2 style="text-align: center;">Master of Arts Financial Aid</h2>
-  <p><img src="http://www2.masters.edu/w/GetHostedFile.ashx?Grad.jpg&Id=653" style="display: block; margin-left: auto; margin-right: auto;" /></p>
-  <p style="text-align: center;"><i>Master of Biblical Counseling and Master of Biblical Studies</i></p>
-  <p> </p>
-  <h3>Application Process for Students Receiving Loans</h3>
-  <p style="padding-left: 30px;">1. Complete a <a href="/media/868281/graduate-financial-aid-application.pdf" target="_blank" title="Graduate Financial Aid Application">Master of Arts Financial Aid Application.</a></p>
-  <p style="padding-left: 30px;">2. Fill out the <a href="http://www.fafsa.ed.gov/" target="blank">FAFSA</a> (Free Application for Federal Student Aid) listing The Master's University & Seminary as your preferred school choice (Title IV school code: 001220).</p>
-  <p style="padding-left: 30px;">3. Submit any additional documents required by the Office of Financial Aid.</p>
-  <p style="padding-left: 30px;">4. Submit official transcripts to the Registrar's office. <i>Any student receiving graduate level loans must have an undergraduated degree conferred.</i></p>
-  <p style="padding-left: 30px;">5. Once your aid is determined, you will be sent an Award Letter.</p>
-  <p style="padding-left: 30px;">6. Return completed Award Letter to the Office of Financial Aid.</p>
-  <p style="padding-left: 30px;">7. Students receiving loans at The Master's University for the first time will need to complete the <a href="http://www.masters.edu/financial-aid/loans" target="_blank">Master Promissory Note</a> and complete <a href="http://www.masters.edu/financial-aid/loans" target="_blank">Entrance Loan Counseling</a> before their loan is finalized.</p>
-  <p> </p>
-  <h2 style="text-align: center;">Types of Aid Available<br /> </h2>
-  <h3>Unsubsidized Stafford Loans</h3>
-  <p><span class="italicText">Unsubsidized Stafford Loans are student loans that may exceed demonstrated financial need, but may not exceed the cost of tuition.</span></p>
-  <table border="0" style="width: 1145px;">
-  <tbody>
-  <tr>
-  <td>   </td>
-  <td>
-  <ul>
-  <li>Students must be enrolled at least 1/2 time (4 units) to receive Stafford loans.</li>
-  </ul>
-  </td>
-  </tr>
-  <tr>
-  <td> </td>
-  <td>
-  <ul>
-  <li>Annual Limit: Up to $20,500</li>
-  </ul>
-  </td>
-  </tr>
-  <tr>
-  <td> </td>
-  <td>
-  <ul>
-  <li>Interest Rate: 5.31% fixed</li>
-  </ul>
-  </td>
-  </tr>
-  <tr>
-  <td> </td>
-  <td>
-  <ul>
-  <li>Repayment: six months after the student drops below 1/2 time or graduates</li>
-  </ul>
-  </td>
-  </tr>
-  <tr>
-  <td> </td>
-  <td>
-  <ul>
-  <li>To apply, the applicant must have a completed <a href="http://www.fafsa.ed.gov/" target="_blank">Free Application for Federal Student Aid (FAFSA)</a>.</li>
-  </ul>
-  </td>
-  </tr>
-  <tr>
-  <td> </td>
-  <td><i>Loan eligibility varies from student to student. Please contact the Office of Financial Aid to determine individual eligibility.</i></td>
-  </tr>
-  </tbody>
-  </table>
-  <p><i>  </i></p>
-  <h3>Scholarships: <i>(Only available for MABC)</i></h3>
-  <p style="text-align: left; padding-left: 30px;">The Master's University strives to offer a Christ-centered education within financial reach for students preparing for ministry vocation. Great care, therefore, is given to keeping tuition expenses at a minimum. While the present tuition cost represents this effort, the University is enabled to offer limited scholarships and grants through the financial assistance of faithful Christian friends, churches, and alumni who  provide support through generous gifts and prayer. With the establishment of scholarships and direct gifts, hundreds of students have been trained and prepared for specific fields of work and service. Students who desire to be considered for scholarships and grants should first complete a <a href="https://fafsa.ed.gov/">Free Application for Federal Student Aid</a> (FAFSA) at www.fafsa.ed.gov using school code 001220, a<a href="/media/868281/graduate-financial-aid-application.pdf" target="_blank" title="Graduate Financial Aid Application"> Graduate Financial Aid Application</a>, a <a href="/media/868166/mabc-satisfactory-academic-progress-policy.pdf" target="_blank" title="MABC Satisfactory Academic Progress Policy.pdf">Graduate Satisfactory Academic Progress Policy</a> form. An additional application form must be sent to the Graduate Studies director each term to be considered for institutional scholarships. </p>
-  <h4> </h4>
-  <ul>
-  <li>
-  <h3>The Ministry Scholarship</h3>
-  </li>
-  </ul>
-  <p style="padding-left: 30px;">Designed to encourage Christian organizations (local churches, Christian schools, missions organization, etc.) whose ministries are consistent with the mission of the Master's University to provide corporate scholarship support for students attending the M.A. in Biblical Counseling program with strong ministry potential. This scholarship is not intended to match wages, internship moneys, or gifts from individuals for specific students. Awards to students are based on ministry potential, while also considering areas of financial need, and academic achievement. Students are expected to be enrolled full-time each semester to qualify for the scholarship. The scholarship will not exceed 50% of the student's tuition costs for any given term.</p>
-  <h4> </h4>
-  <ul>
-  <li>
-  <h3>The MABC Scholarship</h3>
-  </li>
-  </ul>
-  <p style="padding-left: 30px;">Awarded to MABC students in their second and third year of the program and based on ministry potential, financial need, and academic achievement. Students are expected to be enrolled full-time each term. The scholarship will not exceed 50% of the student's tuition costs for any given term.</p>
-  <h4> </h4>
-  <ul>
-  <li>
-  <h3>The Dr. Robert Smith Scholarship</h3>
-  </li>
-  </ul>
-  <p style="padding-left: 30px;">Awarded to the previous year's most outstanding MABC student. Based on ministry potential, financial need, and academic achievement. Students are expected to be enrolled full-time each term to be eligible for this scholarship.</p>
-  <h4> </h4>
-  <ul>
-  <li>
-  <h3>The Dr. Robert Somerville Scholarship</h3>
-  </li>
-  </ul>
-  <p style="padding-left: 30px;">Awarded to the most outstanding graduate of the traditional BABC degree program at the Master's University applied to the first year of MABC studies--based on ministry potential, financial need, and academic achievement. Students are expected to be enrolled full-time each term to be eligible for this scholarship. </p>
-  <h3> </h3>
-  <h3>Scholarship Contact Information</h3>
-  <p style="padding-left: 30px;">All scholarships are administered by the MABC Department. For more information on scholarships, please contact Jeff Miller at 661.362.2644 or <a href="mailto:jmiller@masters.edu">jmiller@masters.edu</a>. </p>
-  <p><span>  </span></p>
-  <h3><span class="embeddedpicleft" style="display: inline !important;">Downloadable Documents</span></h3>
-  <p> </p>
-  <table border="0">
-  <tbody>
-  <tr>
-  <td>       </td>
-  <td>
-  <ul>
-  <li><a href="/media/868281/graduate-financial-aid-application.pdf" target="_blank" title="MABC/S Financial Aid Application">MABC/S Financial Aid Application</a></li>
-  </ul>
-  </td>
-  </tr>
-  <tr>
-  <td> </td>
-  <td>
-  <ul>
-  <li><a href="/media/868166/mabc-satisfactory-academic-progress-policy.pdf" target="_blank" title="MABC Satisfactory Academic Progress Policy.pdf">MABC/S Satisfactory Academic Progress Policy</a></li>
-  </ul>
-  </td>
-  </tr>
-  <tr>
-  <td> </td>
-  <td>
-  <ul>
-  <li><a href="/media/868163/grad-fafsa-waiver-form.pdf" target="_blank" title="Grad FAFSA Waiver Form.pdf">FAFSA Waiver</a></li>
-  </ul>
-  </td>
-  </tr>
-  <tr>
-  <td> </td>
-  <td>
-  <ul>
-  <li><a href="/uploads/Forms-%20MI-%20FVW%2017-18.pdf" target="_blank" title="16-17 Federal Verification Worksheet.pdf">2017-18 Federal Verification Worksheet</a></li>
-  </ul>
-  </td>
-  </tr>
-  </tbody>
-  </table>
-  <h3> </h3>
-  <h3>Contact Information:</h3>
-  <table border="0" width="1071" height="104" style="padding-left: 30px;">
-  <tbody>
-  <tr style="padding-left: 30px;">
-  <td style="padding-left: 30px;">
-  <p style="padding-left: 30px;"><strong>Ryan Wethern<br /></strong>Financial Aid Counselor<br />Graduate and Special Programs <br /><span style="text-decoration: underline;"><a style="background-color: #ffffff;" href="mailto:rwethern@masters.edu">rwethern@masters.edu<br /></a></span>(661)362-2292</p>
-  </td>
-  <td style="padding-left: 30px;">
-  <p style="padding-left: 30px;"><strong>Office of Financial Aid</strong><br />21276 Placerita Canyon Rd, Box 38<br />Office Hours: M-F 8:30am - 5:00pm<br />Fax: 661-362-2693</p>
-  </td>
-  </tr>
-  </tbody>
-  </table>
-  <p> </p>
-  <p><a href="http://www2.masters.edu/DeptPageNew.asp?PageID=494%20target="> </a></p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <table border="0" align="center">
-  <tbody>
-  <tr>
-  <td width="33%" align="left"><a href="http://www.fafsa.ed.gov/" target="blank"><img src="http://www2.masters.edu/admissions/downloads/FAFSA.gif" border="0" /></a></td>
-  <td width="33%" align="center"><a href="http://www.calgrants.org/" target="blank"><img src="http://www2.masters.edu/images/mjjohnson/11-1-2006/Photos/CSAC1.JPG" border="0" /></a></td>
-  <td width="33%" align="center"><a href="/financial-aid/printable-forms" target="_blank"><img alt="" src="/media/867802/download-forms.png?width=185px&height=105px" rel="37984" style="width: 185px; height: 105px;" /></a></td>
-  </tr>
-  </tbody>
-  </table>
-  <p> </p>
-  <p> </p>
+master-of-arts-body: "<h2 style=\"text-align: center;\">Master of Arts Financial Aid</h2>\n<p><img
+  src=\"http://www2.masters.edu/w/GetHostedFile.ashx?Grad.jpg&Id=653\" style=\"display:
+  block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><i>Master
+  of Biblical Counseling and Master of Biblical Studies</i></p>\n<p> </p>\n<h3>Application
+  Process for Students Receiving Loans</h3>\n<p style=\"padding-left: 30px;\">1. Complete
+  a <a href=\"/media/868281/graduate-financial-aid-application.pdf\" target=\"_blank\"
+  title=\"Graduate Financial Aid Application\">Master of Arts Financial Aid Application.</a></p>\n<p
+  style=\"padding-left: 30px;\">2. Fill out the <a href=\"http://www.fafsa.ed.gov/\"
+  target=\"blank\">FAFSA</a> (Free Application for Federal Student Aid) listing The
+  Master's University & Seminary as your preferred school choice (Title IV school
+  code: 001220).</p>\n<p style=\"padding-left: 30px;\">3. Submit any additional documents
+  required by the Office of Financial Aid.</p>\n<p style=\"padding-left: 30px;\">4.
+  Submit official transcripts to the Registrar's office. <i>Any student receiving
+  graduate level loans must have an undergraduated degree conferred.</i></p>\n<p style=\"padding-left:
+  30px;\">5. Once your aid is determined, you will be sent an Award Letter.</p>\n<p
+  style=\"padding-left: 30px;\">6. Return completed Award Letter to the Office of
+  Financial Aid.</p>\n<p style=\"padding-left: 30px;\">7. Students receiving loans
+  at The Master's University for the first time will need to complete the <a href=\"http://www.masters.edu/financial-aid/loans\"
+  target=\"_blank\">Master Promissory Note</a> and complete <a href=\"http://www.masters.edu/financial-aid/loans\"
+  target=\"_blank\">Entrance Loan Counseling</a> before their loan is finalized.</p>\n<p> </p>\n<h2
+  style=\"text-align: center;\">Types of Aid Available<br /> </h2>\n<h3>Unsubsidized
+  Stafford Loans</h3>\n<p><span class=\"italicText\">Unsubsidized Stafford Loans are
+  student loans that may exceed demonstrated financial need, but may not exceed the
+  cost of tuition.</span></p>\n<table border=\"0\" style=\"width: 1145px;\">\n<tbody>\n<tr>\n<td> 
+   </td>\n<td>\n<ul>\n<li>Students must be enrolled at least 1/2 time (4 units) to
+  receive Stafford loans.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<ul>\n<li>Annual
+  Limit: Up to $20,500</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<ul>\n<li>Interest
+  Rate: 5.31% fixed</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<ul>\n<li>Repayment:
+  six months after the student drops below 1/2 time or graduates</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<ul>\n<li>To
+  apply, the applicant must have a completed <a href=\"http://www.fafsa.ed.gov/\"
+  target=\"_blank\">Free Application for Federal Student Aid (FAFSA)</a>.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td><i>Loan
+  eligibility varies from student to student. Please contact the Office of Financial
+  Aid to determine individual eligibility.</i></td>\n</tr>\n</tbody>\n</table>\n<p><i>  </i></p>\n<h3>Scholarships: <i>(Only
+  available for MABC)</i></h3>\n<p style=\"text-align: left; padding-left: 30px;\">The
+  Master's University strives to offer a Christ-centered education within financial
+  reach for students preparing for ministry vocation. Great care, therefore, is given
+  to keeping tuition expenses at a minimum. While the present tuition cost represents
+  this effort, the University is enabled to offer limited scholarships and grants
+  through the financial assistance of faithful Christian friends, churches, and alumni
+  who  provide support through generous gifts and prayer. With the establishment of
+  scholarships and direct gifts, hundreds of students have been trained and prepared
+  for specific fields of work and service. Students who desire to be considered for
+  scholarships and grants should first complete a <a href=\"https://fafsa.ed.gov/\">Free
+  Application for Federal Student Aid</a> (FAFSA) at www.fafsa.ed.gov using school
+  code 001220, a<a href=\"/media/868281/graduate-financial-aid-application.pdf\" target=\"_blank\"
+  title=\"Graduate Financial Aid Application\"> Graduate Financial Aid Application</a>,
+  a <a href=\"/media/868166/mabc-satisfactory-academic-progress-policy.pdf\" target=\"_blank\"
+  title=\"MABC Satisfactory Academic Progress Policy.pdf\">Graduate Satisfactory Academic
+  Progress Policy</a> form. An additional application form must be sent to the Graduate
+  Studies director each term to be considered for institutional scholarships. </p>\n<h4> </h4>\n<ul>\n<li>\n<h3>The
+  Ministry Scholarship</h3>\n</li>\n</ul>\n<p style=\"padding-left: 30px;\">Designed
+  to encourage Christian organizations (local churches, Christian schools, missions
+  organization, etc.) whose ministries are consistent with the mission of the Master's
+  University to provide corporate scholarship support for students attending the M.A.
+  in Biblical Counseling program with strong ministry potential. This scholarship
+  is not intended to match wages, internship moneys, or gifts from individuals for
+  specific students. Awards to students are based on ministry potential, while also
+  considering areas of financial need, and academic achievement. Students are expected
+  to be enrolled full-time each semester to qualify for the scholarship. The scholarship
+  will not exceed 50% of the student's tuition costs for any given term.</p>\n<h4> </h4>\n<ul>\n<li>\n<h3>The
+  MABC Scholarship</h3>\n</li>\n</ul>\n<p style=\"padding-left: 30px;\">Awarded to
+  MABC students in their second and third year of the program and based on ministry
+  potential, financial need, and academic achievement. Students are expected to be
+  enrolled full-time each term. The scholarship will not exceed 50% of the student's
+  tuition costs for any given term.</p>\n<h4> </h4>\n<ul>\n<li>\n<h3>The Dr. Robert
+  Smith Scholarship</h3>\n</li>\n</ul>\n<p style=\"padding-left: 30px;\">Awarded to
+  the previous year's most outstanding MABC student. Based on ministry potential,
+  financial need, and academic achievement. Students are expected to be enrolled full-time
+  each term to be eligible for this scholarship.</p>\n<h4> </h4>\n<ul>\n<li>\n<h3>The
+  Dr. Robert Somerville Scholarship</h3>\n</li>\n</ul>\n<p style=\"padding-left: 30px;\">Awarded
+  to the most outstanding graduate of the traditional BABC degree program at the Master's
+  University applied to the first year of MABC studies--based on ministry potential,
+  financial need, and academic achievement. Students are expected to be enrolled full-time
+  each term to be eligible for this scholarship. </p>\n<h3> </h3>\n<h3>Scholarship
+  Contact Information</h3>\n<p style=\"padding-left: 30px;\">All scholarships are
+  administered by the MABC Department. For more information on scholarships, please
+  contact Jeff Miller at 661.362.2644 or <a href=\"mailto:jmiller@masters.edu\">jmiller@masters.edu</a>. </p>\n<p><span>  </span></p>\n<h3><span
+  class=\"embeddedpicleft\" style=\"display: inline !important;\">Downloadable Documents</span></h3>\n<p> </p>\n<table
+  border=\"0\">\n<tbody>\n<tr>\n<td>       </td>\n<td>\n<ul>\n<li><a href=\"/media/868281/graduate-financial-aid-application.pdf\"
+  target=\"_blank\" title=\"MABC/S Financial Aid Application\">MABC/S Financial Aid
+  Application</a></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<ul>\n<li><a
+  href=\"/media/868166/mabc-satisfactory-academic-progress-policy.pdf\" target=\"_blank\"
+  title=\"MABC Satisfactory Academic Progress Policy.pdf\">MABC/S Satisfactory Academic
+  Progress Policy</a></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<ul>\n<li><a
+  href=\"/media/868163/grad-fafsa-waiver-form.pdf\" target=\"_blank\" title=\"Grad
+  FAFSA Waiver Form.pdf\">FAFSA Waiver</a></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td> </td>\n<td>\n<ul>\n<li><a
+  href=\"/uploads/Forms-%20MI-%20FVW%2017-18.pdf\" target=\"_blank\" title=\"16-17
+  Federal Verification Worksheet.pdf\">2017-18 Federal Verification Worksheet</a></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<h3> </h3>\n<h3>Contact
+  Information:</h3>\n<table border=\"0\" width=\"1071\" height=\"104\" style=\"padding-left:
+  30px;\">\n<tbody>\n<tr style=\"padding-left: 30px;\">\n<td style=\"padding-left:
+  30px;\">\n<p style=\"padding-left: 30px;\"><strong>Ryan Wethern<br /></strong>Financial
+  Aid Counselor<br />Graduate and Special Programs <br /><span style=\"text-decoration:
+  underline;\"><a style=\"background-color: #ffffff;\" href=\"mailto:rwethern@masters.edu\">rwethern@masters.edu<br
+  /></a></span>(661)362-2292</p>\n</td>\n<td style=\"padding-left: 30px;\">\n<p style=\"padding-left:
+  30px;\"><strong>Office of Financial Aid</strong><br />21276 Placerita Canyon Rd,
+  Box 38<br />Office Hours: M-F 8:30am - 5:00pm<br />Fax: 661-362-2693</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><a
+  href=\"http://www2.masters.edu/DeptPageNew.asp?PageID=494%20target=\"> </a></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<table
+  border=\"0\" align=\"center\">\n<tbody>\n<tr>\n<td width=\"33%\" align=\"left\"><a
+  href=\"http://www.fafsa.ed.gov/\" target=\"blank\"><img src=\"http://www2.masters.edu/admissions/downloads/FAFSA.gif\"
+  border=\"0\" /></a></td>\n<td width=\"33%\" align=\"center\"><a href=\"http://www.calgrants.org/\"
+  target=\"blank\"><img src=\"http://www2.masters.edu/images/mjjohnson/11-1-2006/Photos/CSAC1.JPG\"
+  border=\"0\" /></a></td>\n<td width=\"33%\" align=\"center\"><a href=\"/financial-aid/printable-forms\"
+  target=\"_blank\"><img alt=\"\" src=\"/media/867802/download-forms.png?width=185px&height=105px\"
+  rel=\"37984\" style=\"width: 185px; height: 105px;\" "
 teaching-credential-body: |-
   <h2>Teaching Credential Financial Aid</h2>
   <p> </p>
