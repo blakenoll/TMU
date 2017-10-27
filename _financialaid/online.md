@@ -473,19 +473,19 @@ veterans-body: |-
   <tr>
   <td> </td>
   <td>
-  <p>3.  Complete <a href="/financial-aid/onlinedcp/dcolpprintforms/" target="_blank"><span style="text-decoration: underline;">The Master’s University Financial Aid Application</span></a></p>
+  <p>3.  Complete <a href="financial-aid/onlinedcp/dcolpprintforms/" target="_blank"><span style="text-decoration: underline;">The Master’s University Financial Aid Application</span></a></p>
   </td>
   </tr>
   <tr>
   <td> </td>
   <td>
-  <p>4.  Complete the <a href="http://www.fafsa.ed.gov/" target="blank""><span style="text-decoration: underline;">Free Application for Federal Student Aid</span></a></p>
+  <p>4.  Complete the <a href="http://www.fafsa.ed.gov" target="_blank"><span style="text-decoration: underline;">Free Application for Financial Aid</span></a></p>
   </td>
   </tr>
   <tr>
   <td> </td>
   <td>
-  <p>5.  If selected for a process called “Verification” by the Federal government additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).  Please visit our <a href="/financial-aid/onlinedcp/dcolpverificaiton/" target="_blank"><span style="text-decoration: underline;">Verification page</span></a> for detailed instructions on this process.</p>
+  <p>5.  If selected for a process called “Verification” by the Federal government, additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).</p>
   </td>
   </tr>
   </tbody>
@@ -511,8 +511,8 @@ veterans-body: |-
   </ul>
   <p style="padding-left: 30px;">Pell Grant: up to $5,815</p>
   <p style="padding-left: 30px;">SEOG Grant: up to $1,000</p>
-  <p style="padding-left: 30px;"><a href="/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx" target="_blank"><span style="text-decoration: underline;">Cal Grant</span></a>: up to $8,056</p>
-  <p style="padding-left: 30px;"><a href="/undergrad/financial-aid/loans.aspx" target="_blank"><span style="text-decoration: underline;">Federal Stafford Loans</span></a> (Amount determined based on need and year in school)</p>
+  <p style="padding-left: 30px;">Cal Grant: up to $8,056</p>
+  <p style="padding-left: 30px;">Federal Stafford Loans (Amount determined based on need and year in school)</p>
   <p><img width="206" height="232" style="display: block; margin-left: auto; margin-right: auto;" alt="VA.jpg" src="/media/803973/VA.jpg" /></p>
   <h3><span>Post 9/11 Benefit and Yellow Ribbon Breakdown</span></h3>
   <p style="padding-left: 30px;">Contact the Office of Financial Aid to speak with a counselor to receive your personal Financial Aid Award Letter detailing all funds you are eligible to receive.  Please note that an annual application must be submitted for VA benefit to be applied to account.  Below you will find a general breakdown of the awards available to Veterans of the U.S. Armed Forces.</p>
@@ -563,71 +563,43 @@ veterans-body: |-
   <p style="padding-left: 30px;">Phone: 661.362.2292 or 1.800.568.6248</p>
   <p style="padding-left: 30px;">Fax: 661.362.2693</p>
 faq-body: |-
-  ## Questions
+  ## Questions and Answers
 
-  * [How much does it cost to attend The Master’s University?](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#Q1)
+  **How much does it cost to attend The Master’s University?**
 
-  * [Do I have to apply for aid every year?](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#Q2)
+  * For Online Degree tuition and fees, [click here](http://www.masters.edu/onlinecost).
 
-  * [What are the deadlines? When do I apply for financial aid at The Master’s University?](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#Q3)
+  **Do I have to apply for aid every year?**
 
-  * [What if my financial circumstances change?](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#Q4)
+  * Yes. Your aid eligibility will be evaluated each year, based on the information you provide on the current year’s FAFSA and the Financial Aid Application.
 
-  * [When will I hear from the Office of Financial Aid regarding how much financial aid I will be receiving?](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#Q5)
+  **What are the deadlines? When do I apply for financial aid at The Master’s University?**
 
-  * [What do I do once I have received my award letter?](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#Q6)
+  * You are strongly encouraged to submit your FAFSA between January 1 and January 31. If January 31 has passed, we recommend filling out the FAFSA as soon as possible. All other forms should be received no later then March 2 before the academic year for which aid is needed. If the priority deadline is not met, a student may still apply, but funding for certain aid programs may be exhausted.
 
-  * [How many units per semester must I take receive financial aid?](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#Q7)
+  **What if my financial circumstances change?**
 
-  * [Can international students receive financial aid?](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#Q8)
+  * We encourage you to notify the Office of Financial Aid if your financial situation has changed since you completed the FAFSA, or if there are rare/special circumstances in your family’s finances you feel have not been considered. Please document and be prepared to submit, in detail, any expenses, income changes or other information.
 
-  * [Can I access my financial aid information on Self-Service?](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#Q9)
+  **When will I hear from the Office of Financial Aid regarding how much financial aid I will be receiving?**
 
-  * [I have additional questions. How can I contact you?](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#Q10)
+  * Once all necessary documents are received, students are awarded on a first come, first serve basis. Award notification usually begins in the middle of March and occurs on a weekly basis, typically within 3 to 4 weeks of the time all documents are received.
 
-  ### Answers
+  **What do I do once I have received my award letter?**
 
-  How much does it cost to attend The Master’s University?
+  * Once you receive your award letter, you will simply need to log on to your Self-Service account to accept or decline your awards. Detailed instructions for this process are included in your award letter. New students are given a Self-Service login and password when they are accepted to the university. Please contact your Admissions Counselor if you have forgotten your password.
 
-  For Degree Completion tuition and fees, [click here](http://www.masters.edu/academics/degreecompletion/prospective-students/tuition/ "DCOLP Tuition and Fees").
+  **How many units per semester must I take to receive financial aid?**
 
-  For Online Degree tuition and fees, [click here](http://www.masters.edu/academics/online/tuition-and-fees/). ([Return to Top](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#questions_top))
+  * To receive most financial aid you must be enrolled at least half-time (6 units). If you are considering taking less than 6 units, you should contact the Office of Financial Aid immediately to see how this would affect your aid.
 
-  Do I have to apply for aid every year?
+  **Can I access my financial aid information on Self-Service?**
 
-  Yes. Your aid eligibility will be evaluated each year, based on the information you provide on the current year’s FAFSA and the Financial Aid Application. ([Return to Top](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#questions_top))
+  * Yes. If you have been accepted to the university or are an enrolled student with a [Self-Service account](https://portal.masters.edu/SelfService/Home.aspx "Self-Service").
 
-  What are the deadlines? When do I apply for financial aid at The Master’s University?
+  **I have additional questions. How can I contact you?**
 
-  You are strongly encouraged to submit your FAFSA between January 1 and January 31. If January 31 has passed, we recommend filling out the FAFSA as soon as possible. All other forms should be received no later then March 2 before the academic year for which aid is needed. If the priority deadline is not met, a student may still apply, but funding for certain aid programs may be exhausted. ([Return to Top](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#questions_top))
-
-  What if my financial circumstances change?
-
-  We encourage you to notify the Office of Financial Aid if your financial situation has changed since you completed the FAFSA, or if there are rare/special circumstances in your family’s finances you feel have not been considered. Please document and be prepared to submit, in detail, any expenses, income changes or other information. ([Return to Top](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#questions_top))
-
-  When will I hear from the Office of Financial Aid regarding how much financial aid I will be receiving?
-
-  Once all necessary documents are received, students are awarded on a first come, first serve basis. Award notification usually begins in the middle of March and occurs on a weekly basis, typically within 3 to 4 weeks of the time all documents are received. ([Return to Top](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#questions_top))
-
-  What do I do once I have received my award letter?
-
-  Once you receive your award letter, you will simply need to log on to your Self-Service account to accept or decline your awards. Detailed instructions for this process are included in your award letter. New students are given a Self-Service login and password when they are accepted to the university. Please contact your Admissions Counselor if you have forgotten your password. ([Return to Top](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#questions_top))
-
-  How many units per semester must I take to receive financial aid?
-
-  To receive most financial aid you must be enrolled at least half-time (6 units). If you are considering taking less than 6 units, you should contact the Office of Financial Aid immediately to see how this would affect your aid. ([Return to Top](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#questions_top))
-
-  Can international students receive financial aid?
-
-  Yes. Detailed information about applying for financial aid as an international student can be found [here](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/# "Aid").
-
-  Can I access my financial aid information on Self-Service?
-
-  Yes. If you have been accepted to the university or are an enrolled student with a [Self-Service account](https://portal.masters.edu/SelfService/Home.aspx "Self-Service"). ([Return to Top](http://www.masters.edu/financial-aid/onlinedcp/dcolpfaqs/#questions_top))
-
-  I have additional questions. How can I contact you?
-
-  If you have questions that were not covered above, please feel free to contact us:
+  * If you have questions that were not covered above, please feel free to contact us:
 
   Ryan Wethern
   [rwethern@masters.edu](mailto:rwethern@masters.edu)
