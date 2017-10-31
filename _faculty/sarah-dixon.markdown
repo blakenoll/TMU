@@ -5,7 +5,7 @@ job-title: Director of Vocal Studies
 department: Music
 degrees:
 - B.M., The Master's University
-- M.M., CSUN
+- M.M., California State University Northridge
 email: music@masters.edu
 ---
 
