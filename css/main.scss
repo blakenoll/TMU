@@ -432,6 +432,11 @@ a {
   padding-top: 30px;
 
 }
+
+.spacing {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 .secondary-content {
   color: $navy;
 }
@@ -608,7 +613,6 @@ footer {
 }
 
 #john {
-  padding-top: 30px;
   min-height: auto;
 
   div.col {
@@ -633,7 +637,12 @@ footer {
 }
 
 .visit-parallax {
-  height: 200px;
+  height: auto;
+
+  .container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
 
   p {
     font-size: 18px;
