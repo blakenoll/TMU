@@ -51,14 +51,14 @@ The Conference Services Department exists to provide guests with professional ev
     <div class="col s6 m4">
       <div class="vector-card">
         <img src="/images/Travel_IBEX.png" alt="" width="100%">
-        <h3 class="center">{{item.name}}</h3>
+        <h3 class="center">{{item.title}}</h3>
       </div>
     </div>
   </a>
   <!-- Modal Structure -->
   <div id="a{{forloop.index}}" class="modal">
     <div class="modal-content">
-      <h4>{{item.name}}</h4>
+      <h4>{{item.title}}</h4>
       <p>{{item.body | markdownify}}</p>
     </div>
     <div class="modal-footer">
@@ -66,7 +66,7 @@ The Conference Services Department exists to provide guests with professional ev
     </div>
   </div>
   {% endfor %}
-
+  
 </div>
 
 
