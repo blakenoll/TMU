@@ -1,6 +1,7 @@
 ---
 title: Women of the Reformation
 date: 2017-10-31 19:04:00 Z
+author: Dr. Lisa La George
 sm-image: "/uploads/WomenoftheReformation.jpg"
 ---
 
