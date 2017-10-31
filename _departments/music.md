@@ -870,9 +870,12 @@ ensembles:
     This group includes three handbell choirs: basic, advanced and a small ensemble. All handbell ensembles work with a five-octave and a three-octave bell set as well as a three-octave set of Choirchimes. The handbells perform in festivals and concerts on and off campus each year, and are also featured at the college's annual Come ChristmasSing concerts. Prof. Blackwell and her ringers host the "Bellfest" bell choir festival each November at the college.
 - name: Chamber Strings
   image: 
-  body: |-
-    \
-    The Chamber Orchestra is an auditioned ensemble of students, faculty and musicians from the local community. Their repertory includes a broad array of pieces from the Baroque, Classical, Romantic and Contemporary eras, including world premiere performances of new works. In addition to their fall and spring concerts, members of the TMU Chamber Orchestra also perform at the annual Christmas and Forest Lawn concerts.
+  body: The Chamber Orchestra is an auditioned ensemble of students, faculty and musicians
+    from the local community. Their repertory includes a broad array of pieces from
+    the Baroque, Classical, Romantic and Contemporary eras, including world premiere
+    performances of new works. In addition to their fall and spring concerts, members
+    of the TMU Chamber Orchestra also perform at the annual Christmas and Forest Lawn
+    concerts.
 - name: University Singers
   image: 
   body: |-
@@ -885,12 +888,12 @@ ensembles:
     Dr. Stephen R. Opfer, Conductor
 
     The 70-member university orchestra personnel come from a mixture of both talented college students and accomplished instrumentalists from the northern Los Angeles area, many of whom are professional musicians. They perform concerts with musical literature ranging from classical and sacred to film and musicals. These concerts are provided throughout the academic year with some events in joint efforts with the university choirs.
-- name: TMU Opera Workshop
+- name: Opera Workshop
   image: 
-  body: |-
-    Dr. Kimberlyn Jones, Director
-
-    The TMU Opera Workshop is a semester project that concludes in a staged and costumed production of selected opera scenes. Works of the masters as well as more contemporary composers are represented. All scenes are performed in English.
+  body: 'Directed by TMU voice faculty, the Opera Workshop is a semester project that
+    concludes in a staged production of selected opera scenes or a full opera. Works
+    of the masters as well as more contemporary composers are represented. All scenes
+    are performed in English. '
 - name: Other Ensembles
   image: 
   body: |-
