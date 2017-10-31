@@ -382,6 +382,11 @@ a {
   }
 }
 
+.spacing {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
 .navbar-inverse {
   background-color: $white;
   border-color: $white;
@@ -633,7 +638,12 @@ footer {
 }
 
 .visit-parallax {
-  height: 200px;
+  height: auto;
+
+  .container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
 
   p {
     font-size: 18px;
