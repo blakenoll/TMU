@@ -125,7 +125,39 @@ required-courses-body: |-
 
   **Total units required for emphasis: 78**
 
-  **Piano Pedagogy**
+  ### Piano Performance
+
+  **The BACHELOR OF MUSIC in PERFORMANCE prepares students for a career in performance, teaching, or for advanced study in piano, voice or an instrument. The program includes a breadth and depth of music studies to assure a thorough foundation. Students must demonstrate satisfactory progress by the end of the sophomore year in order to continue in the B.M. degree program.**
+
+  * Bachelor of Music Degree Core Courses (61)
+
+  * MU160 Individual Instruction in a Keyboard Instrument other than piano (1)
+
+  * MU356 Teaching Internship I (1.5)
+
+  * MU360A Additional Instruction in Piano (6)
+
+  * MU374 Functional Keyboard Skills (2)
+
+  * MU385 Piano Pedagogy I (2)
+
+  * MU386 Piano Pedagogy II (2)
+
+  * MU240 Collaborative Keyboard\* (2-4)
+
+  * MU473 Advanced Piano Literature (2)
+
+  * MU260A Recital (30 minutes) (1)
+
+  * MU460A Recital (60 minutes) (2)
+
+  **Total units required for emphasis: 76.5**
+
+  ***\*2-4 units count for Major Performing Ensemble (Core)***
+
+  **Exempted from Piano Foundations**
+
+  ### Piano Pedagogy**
 
   **The BACHELOR OF MUSIC in PIANO PERFORMANCE with emphasis in PEDAGOGY allows piano majors who plan to teach the opportunity to focus on pedagogy through course work and practical experience. The program includes a breadth and depth of music studies to assure a thorough foundation. Students must demonstrate satisfactory progress by the end of the sophomore year in order to continue in the B.M. degree program**
 
@@ -156,38 +188,6 @@ required-courses-body: |-
   * MU460 Recital (60 minutes) (2)
 
   **Total units required for emphasis: 85.5**
-
-  ***\*2-4 units count for Major Performing Ensemble (Core)***
-
-  **Exempted from Piano Foundations**
-
-  ### Piano Performance
-
-  **The BACHELOR OF MUSIC in PERFORMANCE prepares students for a career in performance, teaching, or for advanced study in piano, voice or an instrument. The program includes a breadth and depth of music studies to assure a thorough foundation. Students must demonstrate satisfactory progress by the end of the sophomore year in order to continue in the B.M. degree program.**
-
-  * Bachelor of Music Degree Core Courses (61)
-
-  * MU160 Individual Instruction in a Keyboard Instrument other than piano (1)
-
-  * MU356 Teaching Internship I (1.5)
-
-  * MU360A Additional Instruction in Piano (6)
-
-  * MU374 Functional Keyboard Skills (2)
-
-  * MU385 Piano Pedagogy I (2)
-
-  * MU386 Piano Pedagogy II (2)
-
-  * MU240 Collaborative Keyboard\* (2-4)
-
-  * MU473 Advanced Piano Literature (2)
-
-  * MU260A Recital (30 minutes) (1)
-
-  * MU460A Recital (60 minutes) (2)
-
-  **Total units required for emphasis: 76.5**
 
   ***\*2-4 units count for Major Performing Ensemble (Core)***
 
@@ -870,9 +870,12 @@ ensembles:
     This group includes three handbell choirs: basic, advanced and a small ensemble. All handbell ensembles work with a five-octave and a three-octave bell set as well as a three-octave set of Choirchimes. The handbells perform in festivals and concerts on and off campus each year, and are also featured at the college's annual Come ChristmasSing concerts. Prof. Blackwell and her ringers host the "Bellfest" bell choir festival each November at the college.
 - name: Chamber Strings
   image: 
-  body: |-
-    \
-    The Chamber Orchestra is an auditioned ensemble of students, faculty and musicians from the local community. Their repertory includes a broad array of pieces from the Baroque, Classical, Romantic and Contemporary eras, including world premiere performances of new works. In addition to their fall and spring concerts, members of the TMU Chamber Orchestra also perform at the annual Christmas and Forest Lawn concerts.
+  body: The Chamber Orchestra is an auditioned ensemble of students, faculty and musicians
+    from the local community. Their repertory includes a broad array of pieces from
+    the Baroque, Classical, Romantic and Contemporary eras, including world premiere
+    performances of new works. In addition to their fall and spring concerts, members
+    of the TMU Chamber Orchestra also perform at the annual Christmas and Forest Lawn
+    concerts.
 - name: University Singers
   image: 
   body: |-
@@ -885,12 +888,12 @@ ensembles:
     Dr. Stephen R. Opfer, Conductor
 
     The 70-member university orchestra personnel come from a mixture of both talented college students and accomplished instrumentalists from the northern Los Angeles area, many of whom are professional musicians. They perform concerts with musical literature ranging from classical and sacred to film and musicals. These concerts are provided throughout the academic year with some events in joint efforts with the university choirs.
-- name: TMU Opera Workshop
+- name: Opera Workshop
   image: 
-  body: |-
-    Dr. Kimberlyn Jones, Director
-
-    The TMU Opera Workshop is a semester project that concludes in a staged and costumed production of selected opera scenes. Works of the masters as well as more contemporary composers are represented. All scenes are performed in English.
+  body: 'Directed by TMU voice faculty, the Opera Workshop is a semester project that
+    concludes in a staged production of selected opera scenes or a full opera. Works
+    of the masters as well as more contemporary composers are represented. All scenes
+    are performed in English. '
 - name: Other Ensembles
   image: 
   body: |-

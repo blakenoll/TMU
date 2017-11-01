@@ -5,7 +5,7 @@ author: Dr. Lisa La George
 sm-image: "/uploads/WomenoftheReformation.jpg"
 ---
 
-Today we are celebrating the 500th anniversary of the monk with a mallet who hammered his 95 Theses onto the door of the Castle Church in Wittenberg. And while Martin Luther was tremendously significant in the Protestant movement, it is a common misconception that the Reformation started with his public statement. The anniversary is Martin Luther’s, but the voices of the Reformation included a multitude of individuals centuries before and after Luther, in Britain and on the Continent, men and women, monks and nuns, professors and writers. In this article, I wish to introduce a few of those voices, specifically the female voices, who contributed to the advancement of Protestant doctrine. 
+**Today we are celebrating the 500th anniversary of the monk with a mallet who hammered his 95 Theses onto the door of the Castle Church in Wittenberg.** And while Martin Luther was tremendously significant in the Protestant movement, it is a common misconception that the Reformation started with his public statement. The anniversary is Martin Luther’s, but the voices of the Reformation included a multitude of individuals centuries before and after Luther, in Britain and on the Continent, men and women, monks and nuns, professors and writers. In this article, I wish to introduce a few of those voices, specifically the female voices, who contributed to the advancement of Protestant doctrine. 
 
 Before we look at some of these women, however, we must have a clear understanding of the status of the Roman Catholic Church in Luther’s time. During the Apostolic Era, the church was in a constant state of both growth and persecution. The millennium following Constantine saw the establishment of monasteries, the rise of Islam, the tragic Crusades and power struggles within the church over land, money and rule.
 
@@ -62,6 +62,10 @@ Life was not easy in Germany for the couple though, and eventually Olympia was f
 The last of these continental women was a daughter of Margarete de Navarre. Jeanne de Abrect served as a prime spiritual and political leader of the French Huguenots. Strongly influenced by her mother’s piety, Jeanne officially converted to Protestantism on Christmas Day 1560.
 Under her leadership, Catholic priests and nuns were banned from the kingdom, as were Catholic rituals. One of the most fascinating elements of Jeanne’s work was her sponsorship of a translation of the Basque New Testament.
 
-This brief article hardly scratches the surface of the impact these women had on the reforming church of the 16th and 17th centuries. These women were scholars and theologians—they studied the Scripture with their whole mind. They were writers of plays, poems and music. They corresponded with those who were sympathetic to the protestant cause, and with those who were completely opposed to the recovery of the true gospel. They were encouragers, expending their resources, hospitality and relationships to demonstrate the greatness of God through His Word.
+This brief article hardly scratches the surface of the impact these women had on the reforming church of the 16th and 17th centuries. 
+
+> These women were scholars and theologians—they studied the Scripture with their whole mind. 
+
+They were writers of plays, poems and music. They corresponded with those who were sympathetic to the protestant cause, and with those who were completely opposed to the recovery of the true gospel. They were encouragers, expending their resources, hospitality and relationships to demonstrate the greatness of God through His Word.
 
 Above all, these women were courageous. They were steadfast in the truth, even obstinate, and they changed the world. 
