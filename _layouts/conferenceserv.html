@@ -33,16 +33,38 @@ layout: default
      </ul>
    </div>
  </nav>
-  <h2>Welcome to The Master's University</h2>
-  <p>We are located in Santa Clarita, California on 95 tree-filled acres in the Placerita Canyon. The campus’ natural beauty provides an inviting environment for your next conference, camp, or meeting space.
-</p>
-<p>
-  The mission of The Master’s University is to empower students for a life of enduring commitment to Christ, Biblical fidelity, moral integrity, intellectual growth, and lasting contribution to the Kingdom of God.
-</p>
-<p>
-The Conference Services Department exists to provide guests with professional event planning services and hospitality as we seek to uphold this mission both to the University community, and beyond into the local community.
-</p>
+ <div class="row">
+   <div class="col s12 m3 push-m9">
+     <h3>Conference Services Hours</h3>
+     <table class="bordered">
+       <thead>
+         <tr>
+           <th>Monday - Friday</th>
+         </tr>
+       </thead>
+       <tbody>
+         <tr>
+           <td>8:30 am - 5:00 pm </td>
+         </tr>
+         <tr>
+           <td>The Conference Services Office is closed during regular holidays.</td>
+         </tr>
+       </tbody>
+     </table>
+     <h3>Contact</h3>
+     <p>The Master’s University<br>
+       c/o Conference Services Department<br>
+       21726 Placerita Canyon Rd<br>
+       Santa Clarita, CA 91321</p>
 
+       <p><strong>Email:</strong> <a href="mailto:conferenceservices@masters.edu">conferenceservices@masters.edu</a></p>
+       <p><strong>Phone:</strong> <a href="tel:16613622610">661-362-2610</a><hr />
+
+   </div>
+   <div class="col s12 m9 pull-m3">
+    {{content | markdownify }}
+   </div>
+ </div>
 <div id="studyabroad"class="row">
   <h2 class="center">Venues and Amenities</h2>
 
@@ -51,14 +73,14 @@ The Conference Services Department exists to provide guests with professional ev
     <div class="col s6 m4">
       <div class="vector-card">
         <img src="/images/Travel_IBEX.png" alt="" width="100%">
-        <h3 class="center">{{item.title}}</h3>
+        <h3 class="center">{{item.name}}</h3>
       </div>
     </div>
   </a>
   <!-- Modal Structure -->
   <div id="a{{forloop.index}}" class="modal">
     <div class="modal-content">
-      <h4>{{item.title}}</h4>
+      <h4>{{item.name}}</h4>
       <p>{{item.body | markdownify}}</p>
     </div>
     <div class="modal-footer">
@@ -66,7 +88,15 @@ The Conference Services Department exists to provide guests with professional ev
     </div>
   </div>
   {% endfor %}
-  
+
+</div>
+<div class="row">
+  <h3>Whats Near</h3>
+  <img src="{{page.whats-near-image}}" alt="whats near" class="materialboxed">
+</div>
+<div class="row">
+
+
 </div>
 
 
@@ -75,6 +105,8 @@ The Conference Services Department exists to provide guests with professional ev
 <script type="text/javascript">
 $(document).ready(function(){
   $('.carousel').carousel({dist: 0, padding: 0});
+  $('.materialboxed').materialbox();
+
 });
 </script>
 <style media="screen">
