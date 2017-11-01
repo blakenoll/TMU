@@ -46,3 +46,10 @@ amenities:
 layout: conferenceserv
 ---
 
+### Welcome to The Master’s University! 
+
+We are located in Santa Clarita, California on 95 tree-filled acres in the Placerita Canyon. The campus’ natural beauty provides an inviting environment for your next conference, camp, or meeting space. 
+
+The mission of The Master’s University is to empower students for a life of enduring commitment to Christ, Biblical fidelity, moral integrity, intellectual growth, and lasting contribution to the Kingdom of God. 
+
+The Conference Services Department exists to provide guests with professional event planning services and hospitality as we seek to uphold this mission both to the University community, and beyond into the local community. 
