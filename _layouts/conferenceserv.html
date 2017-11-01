@@ -33,6 +33,7 @@ layout: default
      </ul>
    </div>
  </nav>
+ <br>
  <div class="row">
    <div class="col s12 m3 push-m9">
      <h3>Conference Services Hours</h3>
@@ -60,34 +61,37 @@ layout: default
        <p><strong>Email:</strong> <a href="mailto:conferenceservices@masters.edu">conferenceservices@masters.edu</a></p>
        <p><strong>Phone:</strong> <a href="tel:16613622610">661-362-2610</a><hr />
 
+
    </div>
    <div class="col s12 m9 pull-m3">
     {{content | markdownify }}
+    <a href="https://www.formstack.com/forms/masters-conference_services_request" class="btn tbn-navy" target="_blank">Proposal Request</a>
+    <h2 class="center">Venues and Amenities</h2>
+
+    {% for item in page.amenities %}
+    <a href="#a{{forloop.index}}" target="_blank">
+      <div class="col s6 m4">
+        <div class="vector-card">
+          <img src="/images/Travel_IBEX.png" alt="" width="100%">
+          <h3 class="center">{{item.name}}</h3>
+        </div>
+      </div>
+    </a>
+    <!-- Modal Structure -->
+    <div id="a{{forloop.index}}" class="modal">
+      <div class="modal-content">
+        <h4>{{item.name}}</h4>
+        <p>{{item.body | markdownify}}</p>
+      </div>
+      <div class="modal-footer">
+        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+      </div>
+    </div>
+    {% endfor %}
    </div>
  </div>
 <div id="studyabroad"class="row">
-  <h2 class="center">Venues and Amenities</h2>
 
-  {% for item in page.amenities %}
-  <a href="#a{{forloop.index}}" target="_blank">
-    <div class="col s6 m4">
-      <div class="vector-card">
-        <img src="/images/Travel_IBEX.png" alt="" width="100%">
-        <h3 class="center">{{item.name}}</h3>
-      </div>
-    </div>
-  </a>
-  <!-- Modal Structure -->
-  <div id="a{{forloop.index}}" class="modal">
-    <div class="modal-content">
-      <h4>{{item.name}}</h4>
-      <p>{{item.body | markdownify}}</p>
-    </div>
-    <div class="modal-footer">
-      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
-    </div>
-  </div>
-  {% endfor %}
 
 </div>
 <div class="row">
