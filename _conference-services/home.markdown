@@ -43,6 +43,7 @@ amenities:
     * desks and chairs (desk/chair)
     * hosts 15-125 people (people)
   image: 
+whats-near-image: "/uploads/ConferenceServices_MapPrint.pdf"
 layout: conferenceserv
 ---
 
