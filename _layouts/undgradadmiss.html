@@ -1,0 +1,129 @@
+---
+layout: default
+---
+{% include parallax-header.html %}
+<div class="container">
+  <div class="row spacing">
+    <div class="col s12 m8">
+      <h1>Apply Today</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad laudantium dolores at maiores sunt, autem cumque debitis iste voluptate voluptas voluptatem tenetur qui numquam, vel rem odit, quod voluptates distinctio.</p>
+    </div>
+    <div class="col s12 m4">
+      <div class="card navy">
+        <div class="card-content white-text">
+          <span class="card-title">Have a Question?</span>
+          <p>Call or Text</p>
+        </div>
+        <div class="card-action">
+          <a href="#">Apply</a>
+          <a href="#">Request Info</a>
+        </div>
+      </div>
+      </div>
+
+    </div>
+    <div class="row spacing">
+      <div class="col s12 m6 offset-m3">
+        <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/SeUoGQvbFL8" frameborder="0" allowfullscreen=""></iframe>
+        </div>
+      </div>
+
+
+    </div>
+    <h1 class="center">Admissions Events</h1>
+    <div class="row spacing">
+      <div class="col s12">
+
+        <div class="col s12 m12 l4">
+          <div class="card hoverable">
+            <div class="card-image">
+              <img src="{{ '/images/PersonalizedTour_960x540.jpg' | prepend: site.url }}">
+              <span class="card-title">Personalized Visit</span>
+            </div>
+            <div class="card-content">
+              <p>I am a very simple card. I am good at containing small bits of information.
+              I am convenient because I require little markup to use effectively.</p>
+            </div>
+            <div class="card-action">
+              <a href="#">Schedule Visit</a>
+            </div>
+          </div>
+        </div>
+        <div class="col s12 m12 l4">
+          <div class="card hoverable">
+            <div class="card-image">
+              <img src="{{ '/images/Mondays@Masters_960x540.jpg' | prepend: site.url }}">
+              <span class="card-title">Mondays at Master's</span>
+            </div>
+            <div class="card-content">
+              <p>I am a very simple card. I am good at containing small bits of information.
+              I am convenient because I require little markup to use effectively.</p>
+            </div>
+            <div class="card-action">
+              <a href="#">Register</a>
+            </div>
+          </div>
+        </div>
+        <div class="col s12 m12 l4">
+          <div class="card hoverable">
+            <div class="card-image">
+              <img src="{{ '/images/ViewWeekend_960x540.jpg' | prepend: site.url }}">
+              <span class="card-title">View the U</span>
+            </div>
+            <div class="card-content">
+              <p>I am a very simple card. I am good at containing small bits of information.
+              I am convenient because I require little markup to use effectively.</p>
+            </div>
+            <div class="card-action">
+              <a href="#">Register</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row spacing">
+    <div class="col s12 m8">
+      <img id="Image-Maps-Com-image-maps-2017-08-22-131753" class="responsive-img" src="{{'/images/Counselor_1920x700.jpg' | prepend: site.url }}" width="1920" height="700" usemap="#image-maps-2017-08-22-131753" alt="" />
+    </div>
+    <div class="col s12 m4" style="margin-top: 5%;">
+      <div class="col s12 m10 offset-m1">
+        <div class="card navy">
+          <div class="card-content white-text">
+            <span class="card-title">Find Your Counselor</span>
+            <form class="" action="index.html" method="post">
+              <div class="row">
+                <div class="col s12">
+                  <div class="input-field inline">
+                    <input id="zipcode" type="number" class="validate">
+                    <label for="zipcode" data-error="wrong">Zipcode</label>
+                  </div>
+                  <a href="#" class="btn btn-gold">Submit</a>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class="card-action">
+            <a href="#">Apply</a>
+            <a href="#">Request Info</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col s12 m10">
+        {% for staff in site.counselors%}
+        <a href="{{ staff.url | prepend: site.url }}">
+        <div class="col s6 m2 center">
+            <img src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="" class="circle responsive-img">
+            <a href="{{ staff.url | prepend: site.url }}">{{ staff.name }}</a>
+        </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>

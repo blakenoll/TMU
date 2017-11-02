@@ -189,22 +189,39 @@ a {
 .btn-navy {
   color: fff;
   background-color: $navy;
+  &:hover {
+    background-color: lighten($navy, 5%)
+  }
+}
+
+.btn-gold {
+  color: $navy;
+  background-color: $gold;
+  &:hover {
+    background-color: lighten($gold, 20%);
+  }
+
 }
 
 .btn-white {
   color: $navy;
   background-color: $white;
+  &:hover {
+    background-color: darken($white, 5%);
+  }
 }
 
 
 
-.btn-navy:hover {
-  background-color: lighten($navy, 5%)
+.navy {
+  background-color: #0C2340;
+  .card-action {
+    a {
+      color: $gold !important;
+    }
+  }
 }
 
-.btn-white:hover {
-  background-color: darken($white, 5%)
-}
 
 .center {
   text-align: center;

@@ -28,14 +28,14 @@ layout: default
       <ul class="tabs">
         <li class="tab"><a class="active" href="#test2">2018 Teams</a></li>
         <li class="tab"><a href="#test1">About</a></li>
-        <li class="tab"><a href="#engage">Engage!</a></li>
-        <li class="tab"><a href="#test3">Missions Resources</a></li>
+        <!-- <li class="tab"><a href="#engage">Engage!</a></li> -->
+        <li class="tab"><a href="#test3">Travel Resources</a></li>
         <li class="tab"><a href="#test5">Go Application</a></li>
         <li class="tab"><a href="#faq">FAQ</a></li>
       </ul>
     </div>
     <div id="test1" class="col s12">
-      {{ page.about-body | markdownify }}
+      {{ content | markdownify }}
       <br>
       <h3>Meet The Director</h3>
       <div class="row">
