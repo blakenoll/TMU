@@ -30,11 +30,19 @@ push
 
 * January 8-10 8:30am - 1:00pm
 
+* Lecture course is 3 units total
+
+* Cost: $165/unit
+
 **Astronomy PS138 Lab**
 
 * January 3-5 7:00pm - 9:00pm
 
 * January 8-9 7:00pm - 9:00pm
+
+* Lab counts as 1 unit total
+
+* Cost: $165/unit
 
 *The astronomy lab and lecture with Dr. Lisle will count as elective credit.*
 
