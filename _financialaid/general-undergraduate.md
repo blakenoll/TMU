@@ -234,7 +234,7 @@ new-transfer-student-body: |-
   <td><span class="boldText">Additional Documents Needed</span></td>
   </tr>
   <tr>
-  <td><span class="boldText"><a href="http://www.masters.edu/financial-aid/generalundergraduateprogram/calgrant/" target="_blank" title="calgrant">Cal Grant</a></span><br>
+  <td><span class="boldText">"Cal Grant</span><br>
   <ul>
   <li>Awarded to low and middle income California residents and is based on need and GPA. The student must be enrolled in at least a two year program. Annual application is required.</li>
   <li>Additional documentation is required. Applicant must have submitted GPA verification (via the Registrar's Office at their high school or college). Click <a href="http://www.masters.edu/financial-aid/generalundergraduateprogram/calgrant/" target="_blank">here</a> for more information.</li>
