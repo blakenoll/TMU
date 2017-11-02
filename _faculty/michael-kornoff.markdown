@@ -7,7 +7,7 @@ department: Sciences
 degrees:
 - B.S., CSU San Bernardino
 - M.A., University of Southern California
-email: biologicalsciences@masters.edu
+email: mkornoff@masters.edu
 ---
 
 Before joining The Masters University, Mr. Kornoff was a teaching assistant at the University of Southern California, where he studied graduate chemistry and performed research in the area of organic synthesis. He graduated with a master’s degree from USC in 2010. Since that time, Prof. Kornoff has taught numerous chemistry courses for the department, as well as courses in physical science and earth science. He has also been a contributor to TMU's general chemistry course laboratory manual and is a member of the American Chemical Society.

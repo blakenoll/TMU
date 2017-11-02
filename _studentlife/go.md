@@ -2,7 +2,104 @@
 title: Global Outreach
 sm-image: "/uploads/StudentLife_GlobalOutreach.png"
 group: studentlife
-teams-body: Coming Soon...
+teams-body: |-
+  **ECUADOR**
+
+  This team will be working in local Christian ministries through community outreach and organizing a Biblical Counseling Conference.
+
+  All Majors
+
+  Paul Patingo and Paige Mitchell
+
+  May 7th – June 10th
+
+  \$3,200 per team member
+
+  **TOGO (medical)**
+
+  Team Togo will be working with the missionaries and hospital staff at the Hospital of Hope in Mango, and serving these missionaries and Togolese people in various capacities.
+
+  Biology (pre-med) and Kinesiology (pre-PT)
+
+  Jim Gilbert and Jordan Bolde
+
+  May 7th – June 20th (Dates approximated)
+
+  **CANADA**
+
+  Team Canada will train for one week to work at a three-week-long youth outreach camp with missionaries the Hanthorn’s.
+
+  All majors
+
+  Connor McAlexander and Payton Ohl
+
+  May 29th – July 7th
+
+  \$3,200 per team member
+
+  **GREECE**
+
+  This team will be partnering with Hellenic Ministries to organize large-scale Bible distribution, and also working with both native Greeks and Muslim refugees in Athens.
+
+  Business Management, Communications, Computer Science
+
+  TBD and Carissa Arend
+
+  May 15th – July 15th
+
+  **GUAM**
+
+  Team Guam will be participating in VBS, TESOL, and military outreach.
+
+  Teacher Education, all majors
+
+  Brian Overholtzer and Susana Nestor
+
+  June 15th – July 30th
+
+  **INDIA**
+
+  Team India will be studying agricultural techniques during the first half of the trip, and then implementing their knowledge in a local orphanage and seminary, and helping where needed in these locations.
+
+  Business, Biology
+
+  Ethan Cherry and Sooz Gwinn
+
+  May 13th – June 15th
+
+  **MADAGASCAR**
+
+  Team Madagascar will help put on a one-week sports outreach camp, then hike to different villages to teach the Bible and literary skills to residents.
+
+  Bible, Communications, Kinesiology, Teacher Education
+
+  Jordan Hubbs and Emmy Gaddy
+
+  May 8th – June 18th
+
+  **MALAWI**
+
+  Team Malawi will work alongside TMU grads Matt and Rachel Floreen, helping them organize and assisting them with various church ministries.
+
+  All majors
+
+  Justin Lay and Hannah Walsh
+
+  May 8th – June 18th
+
+  **South Africa**
+
+  Team South Africa will be doing health education outreach in schools, and serving Grace Baptist Church of Amanzimtoti and its church plant.
+
+  All majors, especially Bible, Business, Pre-Nursing, and Teaching
+
+  Luke Riffle and Paige Miller
+
+  May 15th – June 24th
+
+  All Dates are approximate.
+
+  The cost of each trip is $3200.
 contribute-body: 
 travelars-health-body: |-
   Maintaining your health while overseas begins with proper planning and research before you depart. The following resources can help educate you about appropriate preventative measures prior to departure and during your travel abroad. Additionally, you should consult with a physician prior to your departure about your personal health and recommended vaccinations, immunizations, and other preventative medication.
@@ -332,13 +429,11 @@ missions-resources-body: |-
 application-body: |-
   ## 2018 Applications Now Available!
 
-  Spots remaining only for men on Ukraine and for the athletic teams.
-
   Applications will be completed on-line through our Managed Missions portal. Please find the link for the application below. The link for the references should be emailed to your reference. All references must be received prior to acceptance. Team notification will be made in most cases by January 15.
 
   ## Global Outreach Teams
 
-  Application: [https://app.managedmissions.com/MissionApplication/Start/5604](https://app.managedmissions.com/MissionApplication/Start/5604)
+  Application: [https://app.managedmissions.com/MissionApplication/Start/9561](https://app.managedmissions.com/MissionApplication/Start/9561)
 
   Parent Reference: [http://masters.formstack.com/forms/Parent_ref_GO](http://masters.formstack.com/forms/Parent_ref_GO)
 
@@ -347,56 +442,70 @@ application-body: |-
   Pastor Reference: [http://masters.formstack.com/forms/Pastor_ref_GO](http://masters.formstack.com/forms/Pastor_ref_GO)
 
   \*Please note that completing an application does not guarantee a place on a team.
-faq-body: "### What is the priority deadline for applying to join a Global Outreach
-  team?\n\nDecember 5, 2018.\n\n### Can I apply for a Global Outreach team after the
-  deadline?\n\nThe priority deadline is December 5, and teams usually fill up before
-  the start of the Spring semester. \n\n### Do I need to sign up for the Preparation
-  for Global Outreach class (BMS 312) on Thursday nights?\n\nEach student traveling
-  on a TMU Global Outreach team must register for BMS 312 in the spring semester.
-  Included within the class session is a weekly team time to help plan for your trip
-  abroad.\n\n### What kind of credit does the Prep for GO class offer?\n\nThe GO class
-  counts as either an upper division Bible elective or as a cross-cultural general
-  education class. If you take the class as gen ed credits, you will only need to
-  take 3 credits of cross-cultural; the remaining 3 credits of the gen ed requirement
-  can be used for any other class.\n\n### Can I take the Preparation for Global Outreach
-  class (BMS 312) if I am not a part of a GO trip?\n\nYou may take the GO class even
-  if you are not participating on a GO trip. Your will receive a modified syllabus.
-  TESOL Award members instead should sign up for TESOL. \n\n### Do I have to pay tuition
-  fees if BMS 312 adds more than 18 units to my schedule?\n\nYou can sign up for BMS
-  312 for 0 units so that you are not charged tuition for taking the class. Sign up
-  for 3 units, and then ask the registrar to change the count to 0. The course fee
-  will apply to all students regardless of credit count.\n\n### Can I date or pursue
-  another person on my team?\n\nThe Global Outreach Office does not place dating couples
-  on the same team and discourages any dating relationships during the GO training
-  and trip. If you have concerns about this, please discuss this with your team leader
-  and the GO Director.\n\n### I have concerns about my personal security while traveling
-  internationally. Are these trips safe?\n\nAny international travel carries certain
-  risks. The Global Outreach Office evaluates political, health, and safety risks
-  to potential destinations. We make every effort to inform team members of anticipated
-  risks. Further questions or inquiries about a specific destination can be directed
-  to GO@masters.edu. Should a location become unstable during the training period,
-  the team will either be redirected to another location or, in unusual cases, cancelled.\n\n###
-  Do I have to take the GO class again if I have already taken it once?\n\nRepeat
-  participants will be given a slightly different syllabus to govern assignments and
-  class participation. You must still register for the class, but can only receive
-  the units once.\n\n### Can I be on a Global Outreach team if I am studying in IBEX
-  in the spring?\n\nSorry, because of the team training, spring IBEX and GO are not
-  possible to accomplish in the same year.\n\n### How much do the trips cost?\n\nThe
-  total trip cost, including airfare, food, lodging and ministry expenses will be
-  $3200. \n\n### Can someone who is not a current traditional student at TMU join
-  a Global Outreach team?\n\nFaculty and staff are encouraged to apply for teams.
-  Alumni may be able to participate if spots are available. Questions about this may
-  be directed to GO@masters.edu.\n\n### When will I know what team I am on?\n\nTeam
-  rosters will be finalized during the first week of classes in January, however,
-  we will try to notify teams earlier in December if possible. \n\n### Is there anything
-  I can do over Christmas break to get ready for a trip?\n\nPray.\n\nApply for a passport
-  if you don’t already have one. These sites will be helpful: [https://travel.state.gov/content/passports/en/passports/apply.html](https://travel.state.gov/content/passports/en/passports/apply.html)[https://travel.state.gov/content/passports/en/passports/forms.html](https://travel.state.gov/content/passports/en/passports/forms.html)\n\nCheck
-  in with your family doctor and make sure that your vaccinations are current. If
-  you are not vaccinated against Hepatitis A and B, start the series now--it makes
-  up to 6 months to finish.\n\nTell your family and friends that they can give tax
-  deductible donations toward your trip for Christmas. [www.masters.edu/supportGO](http://www.masters.edu/supportgo
-  \"Support GO\")\n\nGather addresses while you are home for people you will send
-  letters to in late January."
+faq-body: |-
+  ### What is the priority deadline for applying to join a Global Outreach team?
+
+  December 5
+
+  ### Can I apply for a Global Outreach team after the deadline?
+
+  The priority deadline is December 5, and teams usually fill up before the start of the Spring semester.
+
+  ### Do I need to sign up for the Preparation for Global Outreach class on Thursday nights?
+
+  Each student traveling on a TMU Global Outreach team must register for in the spring semester. Included within the class session is a weekly team time to help plan for your trip abroad.
+
+  ### What kind of credit does the Prep for GO class offer?
+
+  The GO class counts as either an upper division Bible elective or as a cross-cultural general education class. If you take the class as gen ed credits, you will only need to take 3 credits of cross-cultural; the remaining 3 credits of the gen ed requirement can be used for any other class.
+
+  ### Can I take the Preparation for Global Outreach class if I am not a part of a GO trip?
+
+  You may take the GO class even if you are not participating on a GO trip. Your will receive a modified syllabus. TESOL Award members instead should sign up for TESOL.
+
+  ### Do I have to pay tuition fees if BMS 312 adds more than 18 units to my schedule?
+
+  If you wish to take the Prep class for credit, you will register for BMS312 for 3 credits. However, if you do not want the credit, you will register for BMS412 for 0 credits. Either way, the coursework involved must be completed in order to participate on the team.
+
+  ### Can I date or pursue another person on my team?
+
+  The Global Outreach Office does not place dating couples on the same team and discourages any dating relationships during the GO training and trip. If you have concerns about this, please discuss this with your team leader and the GO Director.
+
+  ### I have concerns about my personal security while traveling internationally. Are these trips safe?
+
+  Any international travel carries certain risks. The Global Outreach Office evaluates political, health, and safety risks to potential destinations. We make every effort to inform team members of anticipated risks. Further questions or inquiries about a specific destination can be directed to GO@masters.edu. Should a location become unstable during the training period, the team will either be redirected to another location or, in unusual cases, cancelled.
+
+  ### Do I have to take the GO class again if I have already taken it once?
+
+  Repeat participants will be given a slightly different syllabus to govern assignments and class participation. You must still register for the class, but can only receive the units once.
+
+  ### Can I be on a Global Outreach team if I am studying in IBEX in the spring?
+
+  Sorry, because of the team training, spring IBEX and GO are not possible to accomplish in the same year.
+
+  ### How much do the trips cost?
+
+  The total trip cost, including airfare, food, lodging and ministry expenses will be $3200.
+
+  ### Can someone who is not a current traditional student at TMU join a Global Outreach team?
+
+  Faculty and staff are encouraged to apply for teams. Alumni may be able to participate if spots are available. Questions about this may be directed to GO@masters.edu.
+
+  ### When will I know what team I am on?
+
+  Team rosters will be finalized during the first week of classes in January, however, we will try to notify teams earlier in December if possible.
+
+  ### Is there anything I can do over Christmas break to get ready for a trip?
+
+  Pray.
+
+  Apply for a passport if you don’t already have one. These sites will be helpful: [https://travel.state.gov/content/passports/en/passports/apply.html](https://travel.state.gov/content/passports/en/passports/apply.html)[https://travel.state.gov/content/passports/en/passports/forms.html](https://travel.state.gov/content/passports/en/passports/forms.html)
+
+  Check in with your family doctor and make sure that your vaccinations are current. If you are not vaccinated against Hepatitis A and B, start the series now--it makes up to 6 months to finish.
+
+  Tell your family and friends that they can give tax deductible donations toward your trip for Christmas. [www.masters.edu/supportGO](http://www.masters.edu/supportgo "Support GO")
+
+  Gather addresses while you are home for people you will send letters to in late January.
 director-body: |-
   ### Lisa La George
 
@@ -437,3 +546,4 @@ about-body:
 layout: globo
 ---
 
+[Philosophy Statement](/uploads/Philosophy%20Quick%20Sheet%202.0.pdf)
