@@ -12,7 +12,6 @@ layout: page
 Join us for a special evening with Dr. John MacArthur on Thursday, November 16th at 7:30pm at Kindred Community Church. Dr. John MacArthur will be teaching the Word of God, and there will also be opportunity to meet with our TMU Admissions staff and representatives for helpful information regarding the university.
 
 <iframe src="https://player.vimeo.com/video/239491980?color=daaa00&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/239491980">Alumni and Prospective Student Reception</a> from <a href="https://vimeo.com/mastersuniversity">The Master&#039;s University</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Alumni and Prospective Student Reception
 
