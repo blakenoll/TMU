@@ -205,7 +205,7 @@ new-transfer-student-body: |-
   <td><span class="boldText">Pastor and Missionary Dependent Grant</span>
   <ul>
   <li><span>Awarded to full-time students demonstrating need, who are dependents of full-time pastors or missionaries who provide their family's primary support and whose ministries are consistent with the mission of TMU.</span></li>
-  <li><span>Click <a href="http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/pmd.aspx" target="_blank">here </a>for more information on this grant.</span></li>
+  <li><span>Please see the tab below for more information on this grant.</span></li>
   </ul>
   </td>
   <td align="center">$5,000</td>
