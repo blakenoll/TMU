@@ -2,7 +2,104 @@
 title: Global Outreach
 sm-image: "/uploads/StudentLife_GlobalOutreach.png"
 group: studentlife
-teams-body: Coming Soon...
+teams-body: |-
+  **ECUADOR**
+
+  This team will be working in local Christian ministries through community outreach and organizing a Biblical Counseling Conference.
+
+  All Majors
+
+  Paul Patingo and Paige Mitchell
+
+  May 7th – June 10th
+
+  \$3,200 per team member
+
+  **TOGO (medical)**
+
+  Team Togo will be working with the missionaries and hospital staff at the Hospital of Hope in Mango, and serving these missionaries and Togolese people in various capacities.
+
+  Biology (pre-med) and Kinesiology (pre-PT)
+
+  Jim Gilbert and Jordan Bolde
+
+  May 7th – June 20th (Dates approximated)
+
+  **CANADA**
+
+  Team Canada will train for one week to work at a three-week-long youth outreach camp with missionaries the Hanthorn’s.
+
+  All majors
+
+  Connor McAlexander and Payton Ohl
+
+  May 29th – July 7th
+
+  \$3,200 per team member
+
+  **GREECE**
+
+  This team will be partnering with Hellenic Ministries to organize large-scale Bible distribution, and also working with both native Greeks and Muslim refugees in Athens.
+
+  Business Management, Communications, Computer Science
+
+  TBD and Carissa Arend
+
+  May 15th – July 15th
+
+  **GUAM**
+
+  Team Guam will be participating in VBS, TESOL, and military outreach.
+
+  Teacher Education, all majors
+
+  Brian Overholtzer and Susana Nestor
+
+  June 15th – July 30th
+
+  **INDIA**
+
+  Team India will be studying agricultural techniques during the first half of the trip, and then implementing their knowledge in a local orphanage and seminary, and helping where needed in these locations.
+
+  Business, Biology
+
+  Ethan Cherry and Sooz Gwinn
+
+  May 13th – June 15th
+
+  **MADAGASCAR**
+
+  Team Madagascar will help put on a one-week sports outreach camp, then hike to different villages to teach the Bible and literary skills to residents.
+
+  Bible, Communications, Kinesiology, Teacher Education
+
+  Jordan Hubbs and Emmy Gaddy
+
+  May 8th – June 18th
+
+  **MALAWI**
+
+  Team Malawi will work alongside TMU grads Matt and Rachel Floreen, helping them organize and assisting them with various church ministries.
+
+  All majors
+
+  Justin Lay and Hannah Walsh
+
+  May 8th – June 18th
+
+  **South Africa**
+
+  Team South Africa will be doing health education outreach in schools, and serving Grace Baptist Church of Amanzimtoti and its church plant.
+
+  All majors, especially Bible, Business, Pre-Nursing, and Teaching
+
+  Luke Riffle and Paige Miller
+
+  May 15th – June 24th
+
+  All Dates are approximate.
+
+  The cost of each trip is $3200.
 contribute-body: 
 travelars-health-body: |-
   Maintaining your health while overseas begins with proper planning and research before you depart. The following resources can help educate you about appropriate preventative measures prior to departure and during your travel abroad. Additionally, you should consult with a physician prior to your departure about your personal health and recommended vaccinations, immunizations, and other preventative medication.
