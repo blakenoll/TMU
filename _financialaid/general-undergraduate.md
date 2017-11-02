@@ -101,7 +101,7 @@ new-transfer-student-body: |-
   </ul>
   </td>
   <td align="center">Varies</td>
-  <td style="text-align: center;">See Music Dept.<br><br><a href="http://www.masters.edu/musicscholarships" target="_blank">Click Here for More Details</a></td>
+  <td style="text-align: center;">See Music Dept.<br><br><a href="http://www.masters.edu/academics/undergraduate/music" target="_blank">Click Here for More Details</a></td>
   </tr>
   <tr>
   <td><span class="boldText">AWANA Citation Award</span><br>
