@@ -33,7 +33,8 @@ layout: default
               <h2>Upcoming Events</h2>
               {% assign current = "now" | date: "%Y%m%d" %}
               <ul>
-                 {% for event in page.upcoming-events %}
+                 {% assign events = page.upcoming-events %}
+                 {% for event in events %}
                  {% assign date = event.date | date: "%Y%m%d" %}
                  {% if date > current %}
 
@@ -56,8 +57,7 @@ layout: default
                <p><a class="btn btn-navy music-btn" href="#modal2">Alumni NYC Trip</a></p>
                <p><a class="btn btn-navy music-btn" href="http://portal.stretchinternet.com/tmuadmin/" target="_blank">Live Stream</a></p>
                <p><a class="btn btn-navy music-btn" href="{{ "/theatre-arts" | prepend: site.url }}" target="_blank">Theatre Arts</a></p>
-               <h2>Visit</h2>
-               <p><a class="btn btn-navy music-btn" href="/prelude">Prelude</a></p>
+               
                <h2>Youth Programs</h2>
                {% for program in page.youth-programs %}
                <!-- Modal Trigger -->
