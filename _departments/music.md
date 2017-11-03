@@ -923,9 +923,9 @@ prospective-students-body: |-
 
   *Recordings (audio or video) are not accepted as audition material. Please contact the School of Music to schedule your live audition on one of these dates at 800.568.6248 ext. 2279.*
 
-  <a href="http://www.masters.edu/uploads/Audition%20Requirements.pdf" class="btn btn-navy">Audition Requirements</a><br/>
+  <p><a href="http://www.masters.edu/uploads/Audition%20Requirements.pdf" class="btn btn-navy">Audition Requirements</a><p/>
 
-  <a href="http://www.masters.edu/uploads/School%20of%20Music%20Application.pdf" class="btn btn-navy">School of Music Application</a>
+  <p><a href="http://www.masters.edu/uploads/School%20of%20Music%20Application.pdf" class="btn btn-navy">School of Music Application</a></p>
 scholorship-file: "/performingarts/music-scholarships"
 facilities-body: |-
   ## Recording Studio
