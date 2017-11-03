@@ -11,7 +11,7 @@ The gates to the athletic stadium will open at 6:00 pm for those with tickets wh
 
 College of the Canyons is located at 26455 Rockwell Canyon Rd Valencia, CA 91355.
 
-For a list of hotels and motels in the area - [Click here](http://athletics.masters.edu/visitorinfo/hotels/).
+For a list of hotels and motels in the area - [Click here](https://www.masters.edu/hotels).
 
 For the website of our contracted graduation photographer, Ultimate Exposures, Inc - [Click here](http://www.ultimateexposures.com/).
 
