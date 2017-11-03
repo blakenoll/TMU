@@ -101,7 +101,7 @@ new-transfer-student-body: |-
   </ul>
   </td>
   <td align="center">Varies</td>
-  <td style="text-align: center;">See Music Dept.<br><br><a href="http://www.masters.edu/musicscholarships" target="_blank">Click Here for More Details</a></td>
+  <td style="text-align: center;">See Music Dept.<br><br><a href="http://www.masters.edu/academics/undergraduate/music" target="_blank">Click Here for More Details</a></td>
   </tr>
   <tr>
   <td><span class="boldText">AWANA Citation Award</span><br>
@@ -205,7 +205,7 @@ new-transfer-student-body: |-
   <td><span class="boldText">Pastor and Missionary Dependent Grant</span>
   <ul>
   <li><span>Awarded to full-time students demonstrating need, who are dependents of full-time pastors or missionaries who provide their family's primary support and whose ministries are consistent with the mission of TMU.</span></li>
-  <li><span>Click <a href="http://www.masters.edu/undergrad/financial-aid/generalundergraduateprogram/pmd.aspx" target="_blank">here </a>for more information on this grant.</span></li>
+  <li><span>Please see the tab below for more information on this grant.</span></li>
   </ul>
   </td>
   <td align="center">$5,000</td>
@@ -234,7 +234,7 @@ new-transfer-student-body: |-
   <td><span class="boldText">Additional Documents Needed</span></td>
   </tr>
   <tr>
-  <td><span class="boldText"><a href="http://www.masters.edu/financial-aid/generalundergraduateprogram/calgrant/" target="_blank" title="calgrant">Cal Grant</a></span><br>
+  <td><span class="boldText">Cal Grant</span><br>
   <ul>
   <li>Awarded to low and middle income California residents and is based on need and GPA. The student must be enrolled in at least a two year program. Annual application is required.</li>
   <li>Additional documentation is required. Applicant must have submitted GPA verification (via the Registrar's Office at their high school or college). Click <a href="http://www.masters.edu/financial-aid/generalundergraduateprogram/calgrant/" target="_blank">here</a> for more information.</li>

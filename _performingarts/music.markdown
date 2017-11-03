@@ -372,20 +372,86 @@ music-orders:
   - When David Heard
   - Soon-Ah Will Be Done
 upcoming-events:
-- title: "Alumni Dinner Theatre\t“Over the River & Through the Woods”"
-  date: 2017-10-19 00:00:00 Z
-  description: 
-- title: Fall Theatre Production “Over the River & Through the Woods”
-  date: 2017-10-20 00:00:00 Z
-  description: 
-- title: Fall Theatre Production “Over the River & Through the Woods”
-  date: 2017-10-21 00:00:00 Z
-  description: 
-- title: Chamber Ensembles Concert
-  date: 2017-11-02 00:00:00 Z
-  description: 
 - title: BellFest
   date: 2017-11-04 00:00:00 Z
+  description: 
+- title: Wind Ensemble
+  date: 2017-11-09 00:00:00 Z
+  description: 
+- title: Come Christmas Sing Concerts, "Joy to the World
+  date: 2017-11-30 00:00:00 Z
+  description: |-
+    7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
+
+    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://www.masters.edu/music).
+- title: Come Christmas Sing Concerts, “Joy to the World”
+  date: 2017-12-01 00:00:00 Z
+  description: |-
+    7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
+
+    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://www.masters.edu/music).
+- title: Come Christmas Sing Concerts, “Joy to the World”
+  date: 2017-12-02 00:00:00 Z
+  description: |-
+    7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
+
+    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://www.masters.edu/music).
+- title: Piano Extravaganza
+  date: 2018-02-08 00:00:00 Z
+  description: 
+- title: The Master's Chorale Concert
+  date: 2018-02-23 00:00:00 Z
+  description: 
+- title: Women's Chamber Choir Concert
+  date: 2018-03-01 00:00:00 Z
+  description: 
+- title: Chamber Ensembles Concert
+  date: 2018-03-22 00:00:00 Z
+  description: 
+- title: Forest Lawn Concert
+  date: 2018-03-28 00:00:00 Z
+  description: |-
+    Hall of The Crucifixion-Resurrection, Forest Lawn Glendale
+
+    Call 661.362.2262 to request complimentary tickets or visit [masters.edu/music](http://www.masters.edu).
+- title: Forest Lawn Concert
+  date: 2018-03-29 00:00:00 Z
+  description: |-
+    Hall of The Crucifixion-Resurrection, Forest Lawn Glendale
+
+    Call 661.362.2262 to request complimentary tickets or visit [masters.edu/music](http://www.masters.edu).
+- title: TMU Theatre Arts, "The Secret Garden"
+  date: 2018-04-06 00:00:00 Z
+  description: |-
+    8:00 pm nightly & 2:00 pm Sat. matinee
+
+    Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
+- title: TMU Theatre Arts, "The Secret Garden"
+  date: 2018-04-07 00:00:00 Z
+  description: |-
+    8:00 pm nightly & 2:00 pm Sat. matinee
+
+    Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
+- title: TMU Theatre Arts, "The Secret Garden"
+  date: 2018-04-13 00:00:00 Z
+  description: |-
+    8:00 pm nightly & 2:00 pm Sat. matinee
+
+    Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
+- title: TMU Theatre Arts, "The Secret Garden"
+  date: 2018-04-14 00:00:00 Z
+  description: |-
+    8:00 pm nightly & 2:00 pm Sat. matinee
+
+    Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
+- title: Wind Ensemble Concert
+  date: 2018-04-19 00:00:00 Z
+  description: 
+- title: Handbell Concert
+  date: 2018-04-27 00:00:00 Z
+  description: 
+- title: School of Music Spring Concert
+  date: 2018-05-03 00:00:00 Z
   description: 
 layout: pamusic
 ---
