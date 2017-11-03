@@ -61,7 +61,7 @@ teams-body: |-
 
   Ethan Cherry and Sooz Gwinn
 
-  May 13th – June 15th
+  May 13th – June 15th\*
 
   ## **MADAGASCAR**
 
@@ -71,9 +71,7 @@ teams-body: |-
 
   Jordan Hubbs and Emmy Gaddy
 
-  May 8th – June 18th#
-
-
+  May 8th – June 18th\*
 
   ## **MALAWI**
 
@@ -83,7 +81,7 @@ teams-body: |-
 
   Justin Lay and Hannah Walsh
 
-  May 8th – June 18th
+  May 8th – June 18th\*
 
   ## **South Africa**
 
@@ -95,7 +93,9 @@ teams-body: |-
 
   May 15th – June 24th
 
-  All Dates are approximate.
+  <br />
+
+  \*All Dates are approximate.
 
   The cost of each trip is $3200.
 contribute-body: 
