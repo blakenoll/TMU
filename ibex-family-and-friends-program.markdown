@@ -103,7 +103,7 @@ application-body: |-
 
   4\. The Master’s University requires all participants in the Family & Friends program to fill out a **[release form](http://www.masters.edu/media/870371/activity-release-form-2105-01-29-fillable.pdf)**. Print the completed form and sign and date at the bottom. You can scan the form and email it to ibexoffice@masters.edu or mail it to the IBEX Office.
 
-  5\. For any questions regarding logistical and payment details, please contact Kaitlyn Stire in the IBEX Office, 661-259-3540 x3011 or [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu). Also, keep in mind that Kaitlyn is a full-time student and only works certain days and hours in the IBEX Office. Allow her time to reply to your email inquiries or phone calls.
+  5\. For any questions regarding logistical and payment details, please contact Kaitlyn Stire in the IBEX Office, 661-259-3540 x2616 or [ibexoffice@masters.edu](mailto:ibexoffice@masters.edu). Also, keep in mind that Kaitlyn is a full-time student and only works certain days and hours in the IBEX Office. Allow her time to reply to your email inquiries or phone calls.
 
   6\. For questions that Kaitlyn cannot answer, contact Dr. Grisanti at 818-909-5649 or [mgrisanti@tms.edu](mailto:mgrisanti@tms.edu).
 cost-body: |-
