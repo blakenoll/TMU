@@ -71,7 +71,7 @@ positions:
     military service, medical condition, or any physical or mental disability.  We
     are committed to practicing principles of equal employment opportunity and diversity
     based upon sovereign Biblical principles.\n\n"
-- title: Director of Library Services for TMS
+- title: Director of Library Services for TMS  (Regular Full-time)   (Seminary)
   position: Staff
   about-body: "The Master’s Seminary (TMS) seeks an experienced, energetic and innovative
     professional to serve as Director of Library Services. The Director of Library
