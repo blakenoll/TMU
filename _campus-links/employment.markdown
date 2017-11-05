@@ -71,6 +71,90 @@ positions:
     military service, medical condition, or any physical or mental disability.  We
     are committed to practicing principles of equal employment opportunity and diversity
     based upon sovereign Biblical principles.\n\n"
+- title: Director of Library Services for TMS
+  position: Staff
+  about-body: "The Master’s Seminary (TMS) seeks an experienced, energetic and innovative
+    professional to serve as Director of Library Services. The Director of Library
+    Services is the chief administrative officer of the library and is responsible
+    for overall leadership and management, from strategic planning to daily operations.
+    The Director will cultivate and promote library resources and services; develop
+    and manage staff and budget; collaborate with TMS leadership, faculty and other
+    internal and external constituents. Expertise with identifying and strategically
+    implementing technologies are particularly valued.  \n\nESSENTIAL FUNCTIONS\n\nVision:\n\n•\tConsiders
+    strategic planning for all areas of the library.\n\n•\tBuilds the library resource
+    collection, including selection of materials in print, electronic, and other formats
+    that support the theological curriculum.\n\n•\tCollaborates with faculty and librarians
+    to support distance and online students by providing library services to remote
+    users.\n\n•\tGives leadership in the wider life of TMS, including interaction
+    with TMS administration, various departments and acts as liaison to the faculty.\n\n•\tRepresents
+    the Library at meetings of professional and scholarly organizations such as ATLA,
+    ETS, or SBL.\n\nManagement:\n\n•\tOversees all library functions including supervision
+    of staff training, promotion of library resources and reference assistance.\n\n•\tProvides
+    regular evaluation of the work of each staff member.\n\n•\tPrepares and manages
+    the library budget.\n\n•\tPrepares annual reports for program and organizational
+    reviews.\n\n•\tOversees management of the institutional archives.\n\nInformation
+    Literacy:\n\n•\tPlans for and implements information literacy training for all
+    TMS library users, including on campus, online and distance education.\n\n•\tGuides
+    Library Web content and advises faculty and administration on Web content.\n\n•\tAids
+    Ph.D. students with research of proposed dissertation topic and bibliographic
+    data.\n\n•\tServes as final editor for style and formatting of theses, dissertations
+    and D.Min. projects. Maintains institutional style guide.\n\nOther:\n\n•\tRegular
+    attendance is essential.\n\n•\tOther duties as assigned.\n\n\nCOMPETENCIES\n\nRequired
+    Competencies:\n\n•\tALA accredited MLS or MLIS degree and advanced degree in Theology.\n\n•\t5+
+    years of progressive experience in an academic library setting, with at least
+    3 years’ experience at the Library Director level, with skills in working effectively
+    with faculty, students, staff, and others.\n\n•\tExperience in project management
+    and supervisory skills.\n\n•\tExperience in Collection Development in the area
+    of Biblical Theology, OT Studies, NT Studies, Pastoral Ministry and Biblical Exposition.\n\n•\tKnowledge
+    of trends and technologies in the library field.\n\n•\tProven Christian character
+    and record of working successfully with diverse populations.\n\n•\tStrong interpersonal,
+    oral, and written communication skills.\n\n•\tIt is imperative that the candidates
+    be committed to historic Christian orthodoxy and agree with and sign the TMS doctrinal
+    statement and code of conduct.\n\nPreferred Competencies:\n\n•\tExperience with
+    ALMA ILS system and Primo.\n\n•\tFamiliarity with regional accreditation processes
+    (WSCUC).\n\nQUALIFICATIONS\n\nMinimal General\nQualifications:\n\n•\tHas a personal
+    relationship with Jesus Christ and a demonstrated commitment to the doctrinal
+    position of TMU&S and a continuous exhibition of a desire to minister and serve
+    others in varied capacities.\n \n•\tMust be able to get along with co-workers
+    and the public.\n\n•\tExperience:  5+ years as a director of Library Science in
+    an educational institution preferred.\n\n•\tDemonstrated ability to establish
+    and maintain effective working relationships with staff, faculty, vendors, students,
+    &/or community members of diverse academic, socio-economic, cultural, & ethnic
+    backgrounds.\n\n•\tHave computer proficiency.\n\n•\tBasic mathematics and accounting
+    knowledge is necessary.\n\n•\tExcellent oral and written command of the English
+    language is required.\n\n•\tAbility to compose, proofread and edit correspondence.\n\n•\tPossess
+    excellent organizational skills.\n\n•\tExercise confidentiality, good judgment
+    and discernment.\n\n•\tService oriented and able to interface with many people
+    is mandatory.\n\n•\tMultitasked in an environment with many distractions is a
+    must.\n\n•\tReading and comprehending correspondence is imperative.\n\n•\tMust
+    successfully pass a background investigation.\n\nWORKING CONDITIONS\n\n•\tWorking
+    Environment: Mostly indoors in a typical office environment, with an occasional
+    need to visit other areas on campus.\n  \n•\tPhysical Demands: Must be able to
+    lift, pull, push, grasp and bend while lifting up to 30lbs.\n\n•\tRepetitive motions
+    on a keyboard and looking at a computer monitor for an extended duration of time
+    is required.\n\n•\tTravel: Some travel involved including overnight stays.\n\nADDITIONAL
+    INFORMATION\n\nMinimum Conditions for Beginning Employment:\n\n\tPrior to beginning
+    employment, in accordance with The Master’s University policy and/or under federal
+    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
+    employment.\n\n2.\tPresent verification of their identity and authorization to
+    work in the United States.\n\n\nIf, because of a disability, you need special
+    services or facilities in order to apply or interview for this opening please
+    contact the Human Resources department.\n\n\nThe Master’s University & Seminary
+    does not discriminate on the basis of race, color, national origin, ancestry,
+    gender, age, marital status, veteran status or prior military service, medical
+    condition, or any physical or mental disability.  We are committed to practicing
+    principles of equal employment opportunity and diversity based upon sovereign
+    Biblical principles.\n\n\nAPPLICATION PROCESS\n\nCompleted application form from
+    The Master’s University.  This can be obtained at www.masters.edu/jobs or by contacting\n\nThe
+    Master’s University and Seminary\nHuman Resources Department\n21726 Placerita
+    Canyon Road • Santa Clarita, California • 91321-1200\n(800) 568-6248 • (661) 362-2844
+    • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications will be reviewed
+    by the Human Resources department.  Selected candidates will be invited for a
+    personal interview at The Master’s University.  Any expense incurred in connection
+    with these interviews will be the responsibility of the candidates.\n\n\nApplication
+    Procedures:\n\nAll documents included in your application remain the sole property
+    of The Master’s University and will not be returned.   Your file for this opening
+    will not be considered unless all requested items are submitted and are complete.\n\n\n"
 layout: employment
 ---
 
