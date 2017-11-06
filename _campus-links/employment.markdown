@@ -185,7 +185,7 @@ positions:
     staff, students and/or hospital patients between facilities and their vehicles.\n*
     Presents crime prevention and public information programs.\n* Maintains security
     of buildings and university related property by controlling access, and the opening
-    and securing of buildings.\n* Perform related duties as assigned.\n\nCOMPETENCIES\nKnowledge
+    and securing of buildings.\n* Perform related duties as assigned.\n\nCOMPETENCIES\n\nKnowledge
     of:  \n* City, State and federal civil and criminal statutes\n* Policies and procedures
     for performing citizen’s arrests\n* Provisions pertaining to traffic and crowd
     control\n* Investigating and report writing\n* Operation of a computer and assigned
