@@ -38,7 +38,7 @@ deans:
     Dave enjoys spending time with his wife, exploring L.A., the outdoors, wood-working and visiting new cities and national parks.
 - name: Jenn Kintner
   title: Dean of Women
-  image: 
+  image: "/uploads/Kintner,%20J.jpg"
   body-text: |-
     Jenn has enjoyed being a part of The Master’s University for the last thirteen years: first as a student, then as the Israel Bible Extension volunteer, and now as a staff member. She first joined the staff as the Administrative Assistant to the Vice President of Student Life, then served as a Resident Director in Sweazy Hall for five years, before transitioning to her current position. It is her joy to work with the female students on campus and to see God at work in them growing and developing their love for Jesus Christ more and more. She is a member at Grace Baptist Church and is currently pursuing her Doctorate of Education at The Southern Baptist Theological Seminary.
 
