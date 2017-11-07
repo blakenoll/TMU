@@ -48,7 +48,7 @@ program-outline-text: |-
      * Please Submit in Word format
 
   6. $35 application fee
-courses-body:
+courses:
 - units: 3
   name: 'Enterprise and Public Policy '
   number: BUS510
@@ -126,4 +126,4 @@ level: grad
 layout: mba
 ---
 
-##
+
