@@ -810,8 +810,8 @@ ensembles:
 
     The Master's University Wind Ensemble is an auditioned group of approximately fifty music majors, non-music majors and community members. Literature performed includes classic band works to new wind band literature. The Wind Ensemble performs concerts throughout both semesters and members join with the Chamber Orchestra during the Christmas and Easter seasons. The Wind Ensemble has toured to Northern California and has produced several recordings.
 
-    Clips from The Master's Wind Ensemble, 2007:\
-    The Master's College Wind Ensemble
+    Clips from The Master's Wind Ensemble, 2007:
+    The Master's University Wind Ensemble
 
     * [Fantasia in G](http://www.masters.edu/media/438296/09%20fantasia%20in%20g.mp3)
 
