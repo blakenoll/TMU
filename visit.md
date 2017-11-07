@@ -8,51 +8,19 @@ View-The-U-body: |-
 
   You will also be able to see our faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
 
-  <a class="btn btn-navy" href="https://masters.formstack.com/forms/view_weekend_registration" target="_blank">Register</a>
+  Registration coming soon...
 
-  ## Schedule
+  <div class="row">
 
-  October 26 - October 27, 2017
+  <div class="col s12 m6">
 
-  ### Thursday, October 26th
+  </div>
 
-  * 5:00pm Mustang Basketball: Ladies vs. California Baptist University
+  <div class="col s12 m6">
 
-  * 6:00pm Check-in
+  </div>
 
-  * 7:00pm Night of Welcome
-
-  * 8:00pm Mustang Basketball: Men vs. Bethesda Christian
-
-  ### Friday, October 27th
-
-  * 7:00-9:00am Breakfast in the Mustang Grill (Students)
-
-  * 8:00-9:00am Class Visits (Students)
-
-  * 8:00am Breakfast with the Vice President (Parents)
-
-  * 9:10-10:25am Chapel (All)
-
-  * 10:40am Select 1 (Campus Tour/ Class Visit)
-
-  * 11:45am Select 1 (Campus Tour/ Class Visit/Student Lunch)
-
-  * 12:50pm Select 1 (Campus Tour/ Class Visit/Student Lunch)
-
-  * 12:45-2:00pm Student Life Luncheon (Parents)
-
-  * 2:10-3:10pm Admissions & Financial Aid Seminar (All)
-
-  * 3:15-4:30pm “Meet the Majors” Academic Department Fair (All)
-
-  * 5:00-6:00pm Dinner in the Mustang Grill (Students)
-
-  * 6:00pm Mustang Madness
-
-  * 8:00pm Harvest Blend
-
-  * 8:00pm Theatre Arts: Over the River and Through the Woods
+  </div>
 
   ## Important Information for Registrants:
 
@@ -219,6 +187,154 @@ Music-at-Masters-body: |-
   TMU is only able to provide airport transportation for students flying unaccompanied. If possible, please make all attempts to fly into [Burbank Airport](http://www.burbankairport.com/) (BUR).
 
   If you would like to rent a car, please visit our [car rentals](http://www.enterprise.com/car_rental/deeplinkmap.do?bid=002&cust=32J2051) page for booking information. Complimentary campus parking passes are available [here](http://www.masters.edu/media/683327/CVW%20Parking%20Pass.pdf).
+view-the-u-student-body: |-
+  ## Student Schedule
+
+  **EARLY ARRIVAL OPTION 5:00 PM**
+
+  \*\*Mustang Women’s Basketball vs. CBU \*\**(Bross Court, #24)*
+
+  **6:00 PM**
+
+  **Registration & Check-In** (*Rutherford Plaza , #5*)
+
+  **7:00 PM**
+
+  **Night of Welcome** (*Under the Oaks, “E”*)
+
+  **8:00 PM**
+
+  \*\*Men’s Basketball Game vs. Bethesda \*\**(Bross Court, #24)*
+
+  **Friday, March 23rd:**
+
+  **7:00-9:00 AM**
+
+  **Breakfast in the Cafeteria** (*Mustang Grill, #2*)
+
+  **8:00 AM**
+
+  **Class Visit 1** (*see class schedule for options*)
+
+  **9:10 AM**
+
+  \*\*Chapel \*\*(*MacArthur Center, #24*)
+
+  **10:40 AM**
+
+  **Select 1 (Campus Tour/ Class Visit)**
+
+  *-Campus Tour (Meet at Rutherford Fountain, #5)*
+
+  *-Class Visit (see class schedule for options & locations)*
+
+  **11:45 AM**
+
+  **Select 1 (Campus Tour/ Class Visit/Student Lunch)**
+
+  *-Campus Tour (Meet at Rutherford Fountain, #5)*
+
+  *-Class Visit (see class schedule for options)*
+
+  *-Student Lunch (Mustang Grill, #2)*
+
+  **12:50 PM**
+
+  **Select 1 (Class Visit/Student Lunch)**
+
+  *-Class Visit (see class schedule for options)*
+
+  *-Student Lunch (Mustang Grill, #2)*
+
+  **2:10 PM**
+
+  **Admissions & Financial Aid Seminar** (*Biblical Studies Center 200, #32. Upstairs classroom.*)
+
+  **3:15-4:30 PM\
+  3:15-3:35 PM**
+
+  \*\*Meet the Majors Department Fair \*\**(EHC 100, #35)*
+
+  **Meet the Majors Focus Sessions** (Selected Departments)\
+  *Enclosed schedule has location of department sessions*
+
+  **5:00 PM**
+
+  **Dinner** (*Mustang Grill, #2*)
+
+  **6:00 PM**
+
+  **Student Life Event, TBA**
+View-The-U-parent-body: |-
+  ## Parent Schedule
+
+  **EARLY ARRIVAL OPTION 5:00 PM**
+
+  \*\*Mustang Women’s Basketball vs. CBU \*\**(Bross Court, #24)*
+
+  **6:00 PM**
+
+  **Registration & Check-In** (*Rutherford Plaza , #5*)
+
+  **7:00 PM**
+
+  **Night of Welcome** (*Under the Oaks, “E”*)
+
+  **8:00 PM**
+
+  \*\*Men’s Basketball Game vs. Bethesda \*\**(Bross Court, #24)*
+
+  **Friday, March 23rd:**
+
+  **8:00 AM**
+
+  **Parent Breakfast with Harry Walls, TMU Campus Pastor** (*EHC 100, #35*)
+
+  **9:10 AM**
+
+  \*\*Chapel \*\*(*MacArthur Center, #24*)
+
+  **10:40 AM**
+
+  **Select 1 (Campus Tour/ Class Visit)**
+
+  *-Campus Tour (Meet at Rutherford Fountain, #5)*
+
+  *-Class Visit (see class schedule for options & locations)*
+
+  **11:45 AM**
+
+  **Select 1 (Campus Tour/ Class Visit/Student Lunch)**
+
+  *-Campus Tour (Meet at Rutherford Fountain, #5)*
+
+  *-Class Visit (see class schedule for options & locations)*
+
+  *-Student Lunch (Mustang Grill, #2)*
+
+  **12:45-2:00 PM**
+
+  \*\*Parent Luncheon with Student Life Staff \*\**(EHC 100, #35)*
+
+  **2:10 PM**
+
+  **Admissions & Financial Aid Seminar** (*Biblical Studies Center 200, #32*)
+
+  **3:15-4:30 PM\
+  3:15-3:35 PM**
+
+  \*\*Meet the Majors Department Fair \*\**(EHC 100, #35)*
+
+  **Meet the Majors Focus Session** (Selected Departments)\
+  *Enclosed schedule has location of department sessions*
+
+  **5:00 PM**
+
+  **Dinner** (*Mustang Grill, #2*)
+
+  **6:00 PM**
+
+  **Student Life Event, TBA**
 layout: visit
 ---
 

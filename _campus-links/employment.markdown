@@ -155,6 +155,97 @@ positions:
     Procedures:\n\nAll documents included in your application remain the sole property
     of The Master’s University and will not be returned.   Your file for this opening
     will not be considered unless all requested items are submitted and are complete.\n\n\n"
+- title: Campus Safety Officer - Unarmed (Regular Full-time) (University)
+  position: Staff
+  about-body: "We seek a Campus Safety Officer to join our Campus Safety team! The
+    Campus Safety Officer – Unarmed position provides service functions to support
+    the general safety of the university community. Patrols an assigned area and responds
+    to radio and/or telephonic calls for routine and/or emergency assistance in both
+    criminal and non-criminal matters. Performs investigations and makes arrests when
+    necessary. Deters and prevents unlawful behavior, and performs internal and external
+    public safety functions. May function as a patrol lead on shift with other campus
+    safety officers. \n\nESSENTIAL FUNCTIONS\n* Must be able to work varied days and
+    rotating shifts: 8 hours per day, 4 days a week, 32 hours per week. Examples of
+    schedules are 8:00 AM – 4:00 PM, 4:00 PM – 12:00 AM, 12:00 AM – 8:00 AM. Must
+    be able to report for work in case of emergencies.\n* Patrols an assigned area
+    on foot or in a vehicle and may serve as a patrol lead to other campus safety
+    officers on patrol shifts. \n* Responds to telephonic and/or radio calls for routine
+    and emergency assistance in both criminal and non-criminal situations. Assesses
+    circumstances and conditions at the scene of an incident and determines the appropriate
+    response.\n* Conducts preliminary investigations of criminal and non-criminal
+    incidents. Interviews victims, witnesses, suspects, and others. Issues citations
+    and/or makes arrests. Conducts follow-up investigations as required.\n* Maintains
+    an accurate record of daily activities. Prepares comprehensive incident and crime
+    reports. Ensures reports are legally sufficient through consultation with supervisors.\n*
+    Assesses severity of medical emergencies, provides first aid, summons medical
+    assistance as required, and transports non-life threatening sick and injured.\n*
+    Testifies in court on criminal and civil matters affecting the interests of the
+    university.\n* Maintains perimeter and crowd control in the areas of crimes, emergencies,
+    and special activities.\n* Escorts university and hospital employees, faculty,
+    staff, students and/or hospital patients between facilities and their vehicles.\n*
+    Presents crime prevention and public information programs.\n* Maintains security
+    of buildings and university related property by controlling access, and the opening
+    and securing of buildings.\n* Perform related duties as assigned.\n\nCOMPETENCIES\n\nKnowledge
+    of:  \n* City, State and federal civil and criminal statutes\n* Policies and procedures
+    for performing citizen’s arrests\n* Provisions pertaining to traffic and crowd
+    control\n* Investigating and report writing\n* Operation of a computer and assigned
+    equipment\n* Record-keeping techniques\n* Oral and written communication skills\n\nAbility
+    to: \n* Demonstrate understanding of, sensitivity to, and respect for the diverse
+    academic, socio-economic, ethnic, cultural, disability, religious background and
+    sexual orientation of community University students, faculty and staff\n* Patrol
+    assigned areas and issue citations to illegally parked vehicles to maintain control
+    of vehicles parked on campus\n* Promote campus safety and control\n* Interpret,
+    apply and explain rules, regulations, policies and procedures.\n* Analyze situations
+    accurately and adopt an effective course of action.\n* Establish and maintain
+    cooperative and effective working relationships with others.\n* Communicate effectively
+    both orally and in writing.\n* Operate a computer and assigned equipment.\n* Observe
+    legal and defensive driving practices.\n* Work independently with little direction.\n*
+    Proactive\n* Leadership ability\n* Team Player\n* Positive mental attitude\n*
+    Strong customer service skills\n* Godly and humble character \n* Courageous \n*
+    Confident decision maker\n* Able to exercise wisdom, discernment and sound judgment\n*
+    Ability to give and receive encouragement and constructive criticism\n* Able to
+    work creatively and collaborate with other leaders to set vision for department\n\nQUALIFICATIONS\n*
+    Be at least 21 years of age\n* Personal relationship with Jesus Christ and a demonstrated
+    commitment to the doctrinal position of TMU&S and exhibition of a desire to minister
+    and serve others in varied capacities\n* High school diploma or equivalent \n*
+    California Class C driver’s license; out of state applicants not intending to
+    establish residency must have valid out of state driver’s license \n* Valid California
+    Guard Card\n\nSELECTION PROCESS \n* Step 1: Application and resume submitted to
+    Human Resources\n* Step 2: Initial Job Interview  \n* Step 3: Background Investigation
+    – verification of qualifications, references\n* Step 4: Drug screening, Physical
+    Exam, PAT conducted by US Health Works\n* Step 5: Admin Review / Job offer\n\nWORKING
+    CONDITIONS\nENVIRONMENT:\n* Indoor and outdoor work environment.\n* Driving a
+    vehicle to conduct work.\n* Adverse weather conditions.\n* Regular exposure to
+    fumes and odors.\n\nPHYSICAL ABILITIES:\n* Hearing and speaking to exchange information.\n*
+    Dexterity of hands and fingers to operate assigned equipment.\n* Seeing to read
+    various materials.\n* Standing or walking for extended periods of time; bending
+    at the waist, kneeling or crouching.\n* Lifting moderately heavy objects; reaching
+    overhead, above the shoulders and horizontally during traffic control.\n\nHAZARDS:\n*
+    Contact with dissatisfied or abusive individuals\n\nADDITIONAL INFORMATION\nMinimum
+    Conditions for Beginning Employment:\n\t\nPrior to beginning employment, in accordance
+    with The Master’s University policy and/or under federal or state law, all employees
+    must:\n\n1.\tSign and return an offer of “At Will” employment.\n2.\tPresent verification
+    of their identity and authorization to work in the United States.\n\nIf, because
+    of a disability, you need special services or facilities in order to apply or
+    interview for this opening please contact the Human Resources department.\n\nThe
+    Master’s University & Seminary does not discriminate on the basis of race, color,
+    national origin, ancestry, gender, age, marital status, veteran status or prior
+    military service, medical condition, or any physical or mental disability.  We
+    are committed to practicing principles of equal employment opportunity and diversity
+    based upon sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to
+    be considered for a position, a completed Application for Employment must be submitted
+    to the Human Resources office.  The application may be picked up in person in
+    the HR office or is available to be downloaded as a PDF from the web at\n http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete."
 layout: employment
 ---
 

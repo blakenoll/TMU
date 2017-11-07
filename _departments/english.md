@@ -108,7 +108,7 @@ required-courses-body: |-
 
   Total units required for minor (24)
 prof-publications-body: '**Dr. Grant Horner: **"Meaning at the Movies: Becoming a
-  Discerning Viewer," "John Milton: Classical Learning and the Progress of Virtue" '
+  Discerning Viewer," "John Milton: Classical Learning and the Progress of Virtue"'
 parallax-img: "/images/Parallax11.jpg"
 ---
 
