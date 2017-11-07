@@ -2,7 +2,9 @@
 title: MBA
 sm-image: "/uploads/AcademicsGraduate_MBA.png"
 program-outline-text: |-
-  ## Program-level Learning Outcomes
+  For those who desire to develop their leadership abilities, especially in the business world, The Master’s University’s Master of Business Administration program is the place to learn that much-needed craft.  Developed by business leaders with real world experience and a biblical worldview rooted in Scripture, the MBA program trains businessmen and businesswomen to become the leader God has gifted them to be. MBA graduates will be armed to meet the challenges facing today’s organizations and effectively lead them into the future. 
+
+  **Program-level Learning Outcomes**
 
   At completion of The Master’s University Master of Business Administration (MBA) program, the student will be able to:
 
