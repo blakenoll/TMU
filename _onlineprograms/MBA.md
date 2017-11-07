@@ -49,39 +49,79 @@ program-outline-text: |-
 
   6. $35 application fee
 courses-body:
+- units: 3
+  name: 'Enterprise and Public Policy '
+  number: BUS510
+  body: A comprehensive study of the relationship between government policy, economic
+    trends, and business performance. This course includes an overview of the contents
+    and structure of TMUs entire online MBA program and must be taken as the first
+    course in the program.
 - number: BUS520
   name: Business Law
   units: 3
+  body: The course is a study of the procedures and organization of the United States
+    legal system. The course will also provide an in depth study of tort liability,
+    contracts, and common law.
 - number: MKT561
   name: Marketing Strategy
   units: 3
+  body: An introduction to foundational marketing concepts followed by a study of
+    advanced and cutting edge techniques.
 - number: INB511
   name: International Business
   units: 3
+  body: A study of the current state of international business, which will include
+    an advanced analysis of the economic and cultural environments present in today’s
+    global marketplace.
 - units: 3
   name: Financial Accounting
   number: ACC520
+  body: Students learn to prepare and analyze financial statements. Students apply
+    these skills to corporate decision-making and evaluation processes. Students learn
+    to prepare and analyze financial statements. Students apply these skills to corporate
+    decision-making and evaluation processes.
 - units: 3
   name: Managerial Accounting
   number: ACC510
+  body: 'The course covers the application of basic and advanced accounting methods
+    for the purpose of informing management decisions. Prerequisite: Financial Accounting'
 - units: 3
   name: Corporate Finance
   number: FIN540
+  body: 'A comprehensive study of finance for the executive manager learning to utilize
+    the financial tools to analyze and interpret the financial health of an enterprise.
+    Students will have practical learning experiences to understand financial concepts
+    used in corporations as well as small business in order to become skillful in
+    financial planning and analysis. Prerequisite: Managerial Accounting'
 - units: 3
   name: Statistics
   number: BUS530
+  body: Students learn to conduct and interpret statistical analyses of common business
+    problems using ANOVA, single and multiple regression, probability, and other techniques.
 - units: 3
   name: Operations Management
   number: MGT550
+  body: 'Students learn operational and decision-making methods to quantitatively
+    optimize business processes. Prerequisite: Statistics'
 - units: 3
   name: IT Management
   number: MIS510
+  body: A critical overview of the design, application, and assessment of information
+    systems. Students also learn effective practices for the management of information
+    technology specialists.
 - units: 3
   name: Organizational Behavior
   number: MGT510
+  body: A study of current organizational design and management theory and practices.
+    Students will apply these concepts to complex real-life organizational scenarios.
 - units: 3
   name: Leadership
   number: MGT590
+  body: The course is a study of the knowledge, skills, and exceptional traits possessed
+    by successful leaders. This course includes a capstone experience in which the
+    students apply what they have learned to the study of business cases and simulations
+    of business situations. This course must be taken as the last course in the TMU
+    Online MBA program.
 level: grad
 layout: mba
 ---

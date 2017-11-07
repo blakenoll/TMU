@@ -10,18 +10,6 @@ View-The-U-body: |-
 
   Registration coming soon...
 
-  <div class="row">
-
-  <div class="col s12 m6">
-
-  </div>
-
-  <div class="col s12 m6">
-
-  </div>
-
-  </div>
-
   ## Important Information for Registrants:
 
   All overnight visitors need to bring a sleeping bag and pillow. Any additional overnight evenings in the dorm will cost $10 per night. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
