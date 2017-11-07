@@ -33,6 +33,14 @@ layout: default
   <div id="view" class="col s12 admissions-a">
   <img src="{{ "/images/ViewWeekend_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
   {{ page.View-The-U-body | markdownify }}
+  <div class="row">
+    <div class="col s12 m6">
+      {{ page.view-the-u-student-body | markdownify }}
+    </div>
+    <div class="col s12 m6">
+      {{ page.View-The-U-parent-body | markdownify }}
+    </div>
+  </div>
   </div>
   <div id="personal" class="col s12 admissions-a">
     <img src="{{ "/images/PersonalizedTour_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
