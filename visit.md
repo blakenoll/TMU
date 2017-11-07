@@ -112,9 +112,9 @@ View-The-U-body: |-
 
   **Friday, March 23rd:**
 
-  **\*8:00 AM**
+  **8:00 AM**
 
-  **\*Parent Breakfast with Harry Walls, TMU Campus Pastor** (*EHC 100, #35*)
+  **Parent Breakfast with Harry Walls, TMU Campus Pastor** (*EHC 100, #35*)
 
   **9:10 AM**
 
@@ -138,9 +138,9 @@ View-The-U-body: |-
 
   *-Student Lunch (Mustang Grill, #2)*
 
-  **\*12:45-2:00 PM**
+  **12:45-2:00 PM**
 
-  **\*Parent Luncheon with Student Life Staff ***(EHC 100, #35)*
+  **Parent Luncheon with Student Life Staff ***(EHC 100, #35)*
 
   **2:10 PM**
 
