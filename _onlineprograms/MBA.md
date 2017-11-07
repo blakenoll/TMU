@@ -125,5 +125,3 @@ courses:
 level: grad
 layout: mba
 ---
-
-

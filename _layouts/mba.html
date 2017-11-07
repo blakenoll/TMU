@@ -62,7 +62,7 @@ layout: default
                 <th>Units</th>
               </thead>
               {% assign courses = page.courses %}
-              {% tablerow course in courses  cols:1 %}
+              {% tablerow course in page.courses-body cols:1 %}
               {{ course.number }} <td>{{ course.name }}</td> <td>{{ course.units }}</td>
               {% endtablerow %}
             </table>
