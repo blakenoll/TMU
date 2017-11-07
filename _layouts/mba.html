@@ -19,31 +19,42 @@ layout: default
   </div>
   <div class="row">
     <div class="col s12">
-      <!-- <h2>Faculty</h2>
-      <ul>
-          {% for faculty in site.faculty %}
-          {% if faculty.grad-program == page.title %}
-          <div class="chip">
-            <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
-            <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
-          </div>
-          {% endif %}
-          {% endfor %}
-      </ul> -->
+      <div class="col s12 m8 l9">
+        <h1>Faculty</h1>
+        <ul>
+            {% for faculty in site.faculty %}
+            {% if faculty.grad-program == page.title %}
+            <div class="chip">
+              <img src="{{ faculty.image | prepend: site.url }}" alt="Contact Person">
+              <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </ul>
+      </div>
+
+      <div class="col s12 m4 l3 right">
+        <p><a href="#" class="btn btn-navy music-btn">Apply</a></p>
+        <p><a href="#" class="btn btn-navy music-btn">Request Info</a></p>
+      </div>
+
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s12 l9">
+      <h1 class="center">Degree Info</h1>
       <div class="card">
         <div class="card-tabs">
           <ul class="tabs tabs-fixed-width">
-            <li class="tab"><a class="active" href="#test4">Program Outline</a></li>
-            <li class="tab"><a href="#test5">Courses</a></li>
+            <li class="tab"><a class="active" href="#test4">Major Courses</a></li>
+            <li class="tab"><a href="#test5">Gen Ed Courses</a></li>
+            <li class="tab"><a href="#test6">Electives</a></li>
+            <li class="tab"><a href="#test7">Requirments</a></li>
           </ul>
         </div>
         <div class="card-content grey lighten-4">
           <div id="test4">
-            <p>{{ page.program-outline-text | markdownify}}</p>
-
-          </div>
-          <div id="test5">
-            <h2>Course list</h2>
+            <!-- <p>{{ page.program-outline-text | markdownify}}</p> -->
             <table class="bordered">
               <thead>
                 <th>Course Number</th>
@@ -54,10 +65,32 @@ layout: default
               {{ course.number }} <td>{{ course.name }}</td> <td>{{ course.units }}</td>
               {% endtablerow %}
             </table>
+
+          </div>
+          <div id="test5">
+            <h2>Course list</h2>
+
+          </div>
+          <div id="test6">
+
+          </div>
+          <div id="test7">
+
           </div>
         </div>
        </div>
     </div>
+    <div class="col s12 l3 gen-info center">
+      <h1 class="center">Program Info</h1>
+      <br>
+      <h3>Weeks Per Class:</h3>
+      <p>8</p>
+      <h3>Total Number of Classes:</h3>
+      <p>12</p>
+      <h3>Total Number of Units:</h3>
+      <p>36</p>
+    </div>
+
   </div>
 </div>
 <script type="text/javascript">
