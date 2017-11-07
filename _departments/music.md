@@ -800,7 +800,7 @@ ensembles:
 
     In 2003 and 2006, the Chorale performed at Carnegie Hall in New York City. They will travel to Israel and Italy this year on their summer tour. Along with their own albums, they have recorded for Phil Barfoot, Steve Bock, Don Marsh, David Clydesdale and Ligonier Ministries. They were the featured choir of a series of hymn-story books with CD, featuring John MacArthur, Joni Eareckson Tada and Robert and Bobbie Wolgumuth. They also recorded Let Heaven and Nature Sing, a Christmas album arranged by David T. Clydesdale. Most recently they recorded "Light All Around".
 - name: 'Wind Ensemble '
-  image: 
+  image: "/uploads/2016-2017.jpg"
   body: |-
     Wind Ensemble
 
