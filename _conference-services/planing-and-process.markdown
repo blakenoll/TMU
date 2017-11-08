@@ -7,7 +7,7 @@ date: 2017-10-25 18:41:00 Z
 
 When you contact The Master’s University about hosting an event on our campus, you will be connected with a member of our Conference Services Team who will assist you throughout the planning process. They will be your main contact at TMU for the duration of your planning process and on-campus event.
 
-Our team will assist you through the steps of booking an event at TMU, and is always willing to answer questions. Please feel free to email us at [conferenceservices@masters.edu](mailto:conferenceservices@masters.edu) or call our office at 661.362.2610 during our office hours (8:30am-5:00pm, Monday-Friday).
+Our team will assist you through the steps of booking an event at TMU, and is always willing to answer questions. Please feel free to email us at [conferenceservices@masters.edu](mailto:conferenceservices@masters.edu) or call our office at 661.362.2610 during our office hours (8:30am-5:00pm, Monday-Friday). For your convenience, the event process is available in a condensed infographic format (attach infographic link).
 
 ### *Group Contact*
 
@@ -17,9 +17,11 @@ When a group is on campus, their designated contact person is responsible to inf
 
 ### *Event Process*
 
-To begin the reservation process, please submit a Proposal Request Form. Once this is received by the Conference Services Team, we will respond to you shortly with customized proposal package for your upcoming event with initial information regarding room availability, pricing, and requirements.
+\*add proposal button\*
 
-After you receive your proposal package, we will require the following items reviewed and returned to us before we can confirm your booking.
+To begin the reservation process, please submit a Proposal Request Form. Once this is received by the Conference Services Team, we will respond to you shortly with a customized proposal package for your upcoming event with initial information regarding room availability, pricing, and requirements.
+
+After you receive your proposal package, we will require the following items to be reviewed and returned to us before we can confirm your booking.
 
 · Facilities Use Contract: a multi-page explanation of TMU’s expectations for groups as well as the services we provide. Each page must be read and initialed, and your signature is required at the end to reserve any space on campus.
 
@@ -27,7 +29,7 @@ After you receive your proposal package, we will require the following items rev
 
 · Initial Deposit: a non-refundable payment required to hold your booking in the amount of 25% of your total charges for the event.
 
-When these initial required items are received by the Conference Services Team, your event will be confirmed, which means that your event will be scheduled on our calendar for the year. The next step will be to complete our Event Details Questionnaire, which will provide our Team with more information about the logistics of your event. We will also require at this time an event prepayment of 50% of your total event cost.
+When these initial required items are received by the Conference Services Team, your event will be confirmed, which means that your event will be scheduled on our calendar for the year. The next step will be to complete our Event Details Questionnaire, which will provide our Team with more information about the logistics of your event. 
 
 About a month from your event, you will have more contact with our team as we work to finalize the details of your event and coordinate with our departments. If your group is using the dorms, you will need to select the dorm rooms that your group will has reserved based on your attendance numbers. Also at this point, you will receive from us maps, waivers (if your group is using the athletic field, pool, or fitness center), and parking permits to distribute to your guests.
 
