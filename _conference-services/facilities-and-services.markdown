@@ -3,29 +3,31 @@ title: Facilities and Services
 date: 2017-10-25 18:42:00 Z
 ---
 
+Tab bar for all three above
+
 ### *Residence Halls*
 
 Each dorm on campus offers two-person rooms. Our dorms have halls or wings with two community bathrooms on each floor. The rooms are designed to house two people per room; rooms can be reserved to host a single person for an additional charge. Extra rooms can also be reserved for an additional charge. Please note that families are welcome to stay in the rooms, but children older than four will need to have their own beds. Cribs, play-pens, etc. are welcome for children younger than four; however, keep in mind that space within the rooms is limited and the exit must not be obstructed.
 
 **Room Furnishings:** Each dorm room on campus includes two desks, two chairs, two twin (extra-long) mattresses, two dressers, and two closets. Please note that all furniture in our Residence Halls is built into each room and is not removable. Air conditioning is provided in all rooms.
 
-**Room Keys: **The Master’s University operates on an individual key system and keys will be distributed based on the discretion of the Conference Services Department. For the dorms, each individual room will receive a lounge and room key. All keys must be returned at the conclusion of your stay, and dorm and room keys must be returned together as a set. Lost or missing keys will be charged at a rate of $150/key.
+\*\*Room Keys: \*\*The Master’s University operates on an individual key system and keys will be distributed based on the discretion of the Conference Services Department. For the dorms, each individual room will receive a lounge and room key. All keys must be returned at the conclusion of your stay, and dorm and room keys must be returned together as a set. Lost or missing keys will be charged at a rate of $150/key.
 
 **Linens:** Linens, pillows, bedding, and towels are not provided. Guests are required to bring sleeping bags, pillows, sheets, and bath/swim towels for their stay.
 
-**Restrooms: **Each** **Residence Hall has two communal restrooms per floor. These contain both restrooms and showers with approximately 5-7 stalls per side. All guests must provide their own towels and toiletries.
+Restrooms: Each** **Residence Hall has two communal restrooms per floor. These contain both restrooms and showers with approximately 5-7 stalls per side. All guests must provide their own towels and toiletries.
 
-**Laundry Facilities: **Each** **Residence Hall is equipped with coin operated laundry facilities. Guests are welcome to utilize these during their stay. Detergent is not provided.
+Laundry Facilities: Each  Residence Hall is equipped with coin operated laundry facilities. Guests are welcome to utilize these during their stay. Detergent is not provided.
 
-**Housekeeping Services: **The Master’s University provides housekeeping services for all Residence Halls including cleaning of restrooms and common areas.
+Housekeeping Services:  The Master’s University provides housekeeping services for all Residence Halls including cleaning of restrooms and common areas.
 
-**Resident Director Apartments: **Each** **Residence Hall has a Resident Director who is a permanent resident. Their apartments, located inside the Residence Halls, are private homes and are unavailable to be used or accessed. Guests are not to disturb them. Any question or need for assistance must be directed to the Conference Services Team. Groups who disturb Resident Directors are subject to penalty or expulsion.
+Resident Director Apartments: Each Residence Hall has a Resident Director who is a permanent resident. Their apartments, located inside the Residence Halls, are private homes and are unavailable to be used or accessed. Guests are not to disturb them. Any question or need for assistance must be directed to the Conference Services Team. Groups who disturb Resident Directors are subject to penalty or expulsion.
 
 **Refrigerator/Kitchen Facilities:** The Master’s University does not provide refrigerators in the Residence Halls or have kitchen facilities available. However, groups are welcome to bring their own coolers or refrigerators. Occasionally we do have refrigerators left in sight inside our Residence Halls; please note that these are the private property of the permanent residents and students at The Master’s University and are not for use by groups.
 
-*Meeting Rooms and Facilities*
+***Meeting Rooms and Facilities***
 
-The Master's University has a variety of rooms and facilities available for events including meeting rooms, classrooms, gymnasium, athletic fields, residence halls, swimming pool, and tennis courts. Most meeting spaces can be reserved in full or half-day rentals while our athletic facilities and some other spaces typically are reserved at an hourly rate. Room rental rates include limited furnishings provided in the rooms such as tables and chairs, but does not include access or use of Audio/Visual or media equipment. Classroom setup (desks and/or tables and chairs) will be maintained in the classrooms. This setup is not available to change, and should be kept in mind when requesting these rooms.
+The Master's University has a variety of rooms and facilities available for events including meeting rooms, classrooms, gymnasium, athletic fields, residence halls, a swimming pool, and tennis courts. Most meeting spaces can be reserved in full or half-day rentals while our athletic facilities and some other spaces typically are reserved at an hourly rate. Room rental rates include limited furnishings provided in the rooms such as tables and chairs, but do not include access or use of Audio/Visual or media equipment. Classroom setup (desks and/or tables and chairs) will be maintained in the classrooms. This setup is not available to change, and should be kept in mind when requesting these rooms.
 
 **Set-up**
 
@@ -43,11 +45,11 @@ If groups require assistance with projectors or have questions about classroom A
 
 If a group is planning on using the gym as a conference space with full chapel set-up, chapel audio and/or video can at times be included for an extra charge. Please contact Conference Services if either chapel audio or video is necessary for your event.
 
-*Services*
+## *Services*
 
 **Meals**
 
-Meals are available for groups in our campus cafeteria – The Mustang Grill. The cafeteria serves a wide variety of entrée options and includes a fresh produce bar, homemade soups, multiple entrée options, pizza station, sandwich station, and dessert bar. We are happy to provide you with a sample menu during your stay. However, please note that due to our desire to meet the nutritional needs of large quantities of visitors using the cafeteria daily, we are not able to accommodate custom menus in the cafeteria.
+Meals are available for groups in our campus cafeteria – The Mustang Grill. The cafeteria serves a wide variety of entrée options and includes homemade soups, multiple entrée options, a fresh produce bar, a pizza station, a sandwich station, and a dessert bar. We are happy to provide you with a sample menu during your stay. However, please note that due to our desire to meet the nutritional needs of large quantities of visitors using the cafeteria daily, we are not able to accommodate custom menus in the cafeteria.
 
 Groups eating their meals in the cafeteria will need to provide their group name upon entry and will be charged based on the guaranteed number of attendees provided. Groups will guarantee their numbers in advance.
 
