@@ -31,6 +31,6 @@ Due to the commitment of TMU to the local church, facilities of the University c
 
 ### *Conference Services Office*
 
-The Conference Services Team is accessible to groups during regular office hours year round. Our office is open 8:30am-5:30pm, Monday-Friday. During this time, it is our pleasure to assist you with your event reservations and planning, including facility tours and event meetings.
+The Conference Services Team is accessible to groups during regular office hours year round. Our office is open 8:30am-5:00pm, Monday-Friday. During this time, it is our pleasure to assist you with your event reservations and planning, including facility tours and event meetings.
 
 The Conference Services Department is closed on weekends year round, as well as for regular holidays. During these times, we do not guarantee our assistance with your event needs.
