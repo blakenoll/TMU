@@ -5,7 +5,7 @@ date: 2017-10-25 18:41:00 Z
 
 **Available Dates/Times**
 
-Campus-wide facilities are available for use from June 1st through the last weekend of July. Other meeting facilities (excluding dorms) are be available during the active school year, but these are limited by the institutional calendar, and we will require sufficient notice to be able to reserve them.
+Campus-wide facilities are available for use from June 1st through the last weekend of July. Other meeting facilities (excluding dorms) are available during the active school year, but these are limited by the institutional calendar, and we will require sufficient notice to be able to reserve them.
 
 Due to the commitment of TMU to the local church, facilities of the University cannot host events or meetings planned during the normal, traditional service hours of churches in the area. We will not hold events on campus between 8:00 a.m. and 12:00 noon, and 6:00 p.m. to 8:00 p.m. on Sundays.
 
@@ -20,8 +20,6 @@ The Master’s University requires a group minimum of 40 attendees for housing a
 **Payment Deadlines**
 
 After you submit an Event Proposal Request, we will send you a proposal package including your event payment schedule. The initial deposit is due within 30 days of your confirmation of the event to hold the booking. This is a non-refundable deposit due in the amount of 25% of your total event cost.
-
-The event prepayment is due within 30 days of receipt of booking confirmation. This payment will be the amount of 50% of the total cost of the event.
 
 The final payment is due at least two weeks before the event start date. This payment will be the total remaining balance of your charges for the event.
 
@@ -45,7 +43,7 @@ At least two weeks away from the starting date of your event, the following will
 
 Anticipated numbers for catering, media, room set up and a final agenda or program should be given at proposal and updated one month away from the event. Guaranteed event numbers must be confirmed two weeks (14 days) prior to the function.
 
-*We do enforce a policy that restricts any event changes within two weeks of your event*. This means that we need your final attendance numbers and set-up arrangements *before *your two-week deadline. We recommend closing your event registration to attendees two weeks out to help ensure your final numbers for planning purposes.
+*We do enforce a policy that restricts any event changes within two weeks of your event*. This means that we need your final attendance numbers and set-up arrangements \*before \*your two-week deadline. We recommend closing your event registration to attendees two weeks out to help ensure your final numbers for planning purposes.
 
 If your group requires any changes to be made to your reservation *after* the two-week deadline has passed, each change will incur a charge of $150, in addition to the cost of each modification (for example, the normal charge for added rooms or equipment).
 
@@ -68,6 +66,8 @@ Upon your departure, please stop by Campus Security to turn in keys and forms as
 All vehicles parking on campus will need parking passes. This includes buses used for transportation as well as any individual cars within the group. You will receive parking passes from the Conference Services Department.
 
 Parking is limited on campus, but groups may park in the lots outlined by the parking map. If your group is arriving by bus, we recommend that your buses drop your group off in the main parking lot in front of the Campus Safety Office, and then proceed to the side of Pete Reese Field to be parked. It will be a short walk uphill for your group to the dorms from this lot. Unfortunately, this hill is often too steep for the buses to navigate safely, but Campus Safety officers will be available to help direct your group and provide any assistance for your drivers.
+
+\*add parking map\*
 
 **Housing Specifics**
 

@@ -3,6 +3,8 @@ title: FAQ'S
 date: 2017-10-25 18:43:00 Z
 ---
 
+Make sections accordion style 
+
 ### *Reservations*
 
 **When do I need to turn in my anticipated numbers?**
@@ -17,7 +19,7 @@ date: 2017-10-25 18:43:00 Z
 
 *Families are permitted in the dorms. However, the dorm set-up is not designed for children.*
 
-*Children 5 and older must be counted in the housing numbers and must sleep in their own bed. Children under the age of 5 are permitted to stay in the dorms with their parents in the condition that the parents provide a pack-&-play (or similar item) and place it against the back wall. Extra mattresses on the floor are not permitted due to fire codes and safety regulations.*
+*Children 5 and older must be counted in the housing numbers and must sleep in their own bed. Children under the age of 5 are permitted to stay in the dorms with their parents on the condition that the parents provide a pack-&-play (or similar item) and place it against the back wall. Extra mattresses on the floor are not permitted due to fire codes and safety regulations.*
 
 **How late can I make changes to my reservations?**
 

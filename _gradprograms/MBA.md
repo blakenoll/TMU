@@ -54,7 +54,6 @@ program-outline-text: |-
 
   6. $35 application fee
 courses-body:
-- 
 - number: MKT561
   name: Marketing Strategy
   units: 3
@@ -86,6 +85,14 @@ courses-body:
   name: Leadership
   number: MGT590
 parallax-img: "/images/Parallax3.jpg"
+pre-reqs-body: "Any of the following courses will meet the one Bible course you are
+  required to take any time prior to your final MBA course:\n\n* B101 Old Testament
+  Survey I\n\n* B102 Old Testament Survey II\n\n* B201 New Testament Survey I\n\n*
+  B202 New Testament Survey II\n\n* BTH321 Christian Theology I\n\n* BTH322 Christian
+  Theology II\n\n* B340 Biblical Interpretation\n\n* B342 Romans\n\n* B346 Life of
+  Christ\n\nThe following courses are available and required if you did not complete
+  these courses in your undergraduate program:\n  \n* ECN200 Macroeconomics\n* ECN210
+  Microeconomics\n* MGT422 Business Strategy"
 layout: mba
 ---
 

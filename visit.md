@@ -8,7 +8,7 @@ View-The-U-body: |-
 
   You will also be able to see our faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
 
-  Registration coming soon...
+  Registration coming soon for March 22-23rd
 
   ## Important Information for Registrants:
 

@@ -3,6 +3,8 @@ title: Pricing
 date: 2017-10-25 18:42:00 Z
 ---
 
+\*add cafe picture\*
+
 ### ***LODGING***
 
 *\*housing is only available to groups sized 40 people or more*
@@ -13,7 +15,7 @@ date: 2017-10-25 18:42:00 Z
 
 * $40 Per person Single Room Occupancy (1 person per room)
 
-### ***MEALS***
+### ***MEALS in the cafeteria ***
 
 *\*meals are only available to groups sized 40 people or more*
 
@@ -21,11 +23,23 @@ date: 2017-10-25 18:42:00 Z
 
 \$13.50 Per day Child Meal Plan (Breakfast, Lunch, Dinner) *\*for children 9 & under*
 
-\$11 Per meal Single Breakfast 
+\$12 Per meal Single Breakfast
 
-\$12 Per meal Single Lunch
+\$13 Per meal Single Lunch
 
-\$13 Per meal Single Dinner
+\$14 Per meal Single Dinner
+
+Children's Pricing(for ages 4-11. Children under 4 eat free)
+
+* Breakfast: $5.00
+
+* Lunch $5.50
+
+* Dinner $6.00
+
+## Catering Options
+
+Catering requires an order for 20 people or more. Our catering menu is available with food selection and prices, found here: [http://masterscollege.cafebonappetit.com/content/uploads/sites/164/2016/06/16-6121MASTERSCatering-v4.pdf](http://masterscollege.cafebonappetit.com/content/uploads/sites/164/2016/06/16-6121MASTERSCatering-v4.pdf)
 
 ### ***MEETING SPACES***
 
