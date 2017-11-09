@@ -85,6 +85,17 @@ a {
   }
 }
 
+.admissions {
+  blockquote {
+    border: none;
+    padding: 0px;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    color: #0c2340;
+  }
+}
+
 .admissions-a:before {
   display: block;
   content: " ";

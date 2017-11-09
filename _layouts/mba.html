@@ -47,23 +47,34 @@ layout: default
         <div class="card-tabs">
           <ul class="tabs tabs-fixed-width">
             <li class="tab"><a class="active" href="#test4">Major Courses</a></li>
-            <li class="tab"><a href="#test5">Gen Ed Courses</a></li>
-            <li class="tab"><a href="#test6">Electives</a></li>
+            <li class="tab"><a href="#test5">Prerequisites</a></li>
             <li class="tab"><a href="#test7">Requirments</a></li>
           </ul>
         </div>
         <div class="card-content grey lighten-4">
           <div id="test4">
             <!-- <p>{{ page.program-outline-text | markdownify}}</p> -->
-            <table class="bordered">
+            <table class="bordered highlight">
               <thead>
                 <th>Course Number</th>
                 <th>Course Title</th>
                 <th>Units</th>
               </thead>
               {% assign courses = page.courses %}
-              {% tablerow course in page.courses-body cols:1 %}
-              {{ course.number }} <td>{{ course.name }}</td> <td>{{ course.units }}</td>
+              {% tablerow course in page.courses cols:1 %}
+              <a href="#{{course.number}}">
+              {{ course.number }}
+              <td>{{ course.name }}</td> <td>{{ course.units }}</td>
+              </a>
+              <div id="{{course.number}}" class="modal">
+                <div class="modal-content">
+                  <h4>{{course.name}}</h4>
+                  <p>{{course.body}}</p>
+                </div>
+                <div class="modal-footer">
+                  <a href="#!" class="modal-action modal-close waves-effect btn-flat">close</a>
+                </div>
+              </div>
               {% endtablerow %}
             </table>
 
@@ -72,11 +83,8 @@ layout: default
             <h2>Course list</h2>
 
           </div>
-          <div id="test6">
-
-          </div>
           <div id="test7">
-
+            {{ page.program-outline-text | markdownify }}
           </div>
         </div>
        </div>
