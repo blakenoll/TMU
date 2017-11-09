@@ -20,7 +20,7 @@ layout: default
   <div class="row">
     <div class="col s12">
       <div class="col s12 m8 l9">
-        <h1>Faculty</h1>
+        <!-- <h1>Faculty</h1> -->
         <ul>
             {% for faculty in site.faculty %}
             {% if faculty.grad-program == page.title %}
@@ -31,6 +31,7 @@ layout: default
             {% endif %}
             {% endfor %}
         </ul>
+        <h1>Description</h1>
         {{ content }}
       </div>
 
@@ -43,7 +44,6 @@ layout: default
   </div>
   <div class="row">
     <div class="col s12 l9">
-      <h1 class="center">Degree Info</h1>
       <div class="card">
         <div class="card-tabs">
           <ul class="tabs tabs-fixed-width">
@@ -69,11 +69,12 @@ layout: default
               </a>
               <div id="{{course.number}}" class="modal">
                 <div class="modal-content">
-                  <h4>{{course.name}}</h4>
+                  <h3>{{course.name}}</h3>
+                  <hr>
                   <p>{{course.body}}</p>
                 </div>
                 <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect btn-flat">close</a>
+                  <a href="#!" class="modal-action modal-close waves-effect btn btn-navy">close</a>
                 </div>
               </div>
               {% endtablerow %}
@@ -81,6 +82,7 @@ layout: default
 
           </div>
           <div id="test5">
+            <p>Any of the following courses will meet the one Bible course you are required to take any time prior to your final MBA course:</p>
             <table class="bordered highlight">
               <thead>
                 <th>Course Title</th>
@@ -88,7 +90,7 @@ layout: default
               </thead>
               {% assign prereqcourses = page.prereqs-bible %}
               {% tablerow course in prereqcourses cols:1 %}
-              <a href="#{{course.number}}">
+              <a href="#!{{course.number}}">
               {{ course.title }}<td>{{ course.units }}</td>
               </a>
               <div id="{{course.number}}" class="modal">
@@ -112,7 +114,7 @@ layout: default
               </thead>
               {% assign prebus = page.prereqs-business %}
               {% tablerow course in prebus cols:1 %}
-              <a href="#{{course.number}}">
+              <a href="#!{{course.number}}">
               {{ course.title }}<td>{{ course.units }}</td>
               </a>
               <div id="{{course.number}}" class="modal">
@@ -134,8 +136,8 @@ layout: default
         </div>
        </div>
     </div>
-    <div class="col s12 l3 gen-info center">
-      <h1 class="center">Program Info</h1>
+    <div class="col s12 l3 gen-info">
+      <h1>Program Info</h1>
       <br>
       <h3>Weeks Per Class:</h3>
       <p>8</p>
