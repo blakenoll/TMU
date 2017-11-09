@@ -15,6 +15,8 @@ On June 23, 2017, The New York Times reported that American student Otto Warmbie
 
 Since then, the frequency of missile tests has escalated. Reuters reported on Oct. 10 that “North Korea has launched two missiles over Japan and conducted its sixth nuclear test in recent weeks.” As Pyongyang and Washington, D.C. trade rhetoric across the Pacific and the United Nations Security Council scrambles to impose sanctions on the repressive Communist regime, the world is left wondering how this newest crisis will end. Should we prepare for an imminent nuclear attack or brush off Kim Jong-un’s repeated threats as more attention-seeking bluster?
 
+![korea.jpg](/uploads/korea.jpg)
+
 It would take months of study to fully comprehend the nuances of decades of East Asian diplomatic policy, but every Christian has a responsibility to gain at least a basic understanding of the world around them. To this end, the faculty of The Master's University have offered their expertise.
 
 ## A Six-Decade Ceasefire
