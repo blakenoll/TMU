@@ -106,29 +106,31 @@ courses:
 level: grad
 prereqs-bible:
 - title: B101 Old Testament Survey I
-  body: 
+  body:
 - title: B102 Old Testament Survey II
-  body: 
+  body:
 - title: B201 New Testament Survey I
-  body: 
+  body:
 - title: B202 New Testament Survey II
-  body: 
+  body:
 - title: BTH321 Christian Theology I
-  body: 
+  body:
 - title: BTH322 Christian Theology II
-  body: 
+  body:
 - title: B340 Biblical Interpretation
-  body: 
+  body:
 - title: B342 Romans
-  body: 
+  body:
 - title: B346 Life of Christ
-  body: 
+  body:
 prereqs-business:
 - title: ECN200 Macroeconomics
-  body: 
+  body:
 - title: ECN210 Microeconomics
-  body: 
+  body:
 - title: MGT422 Business Strategy
-  body: 
+  body:
 layout: mba
 ---
+
+For those who desire to develop their leadership abilities, especially in the business world, The Master’s University’s Master of Business Administration program is the place to learn that much-needed craft.  Developed by business leaders with real world experience and a biblical worldview rooted in Scripture, the MBA program trains businessmen and businesswomen to become the leader God has gifted them to be. MBA graduates will be armed to meet the challenges facing today’s organizations and effectively lead them into the future.
