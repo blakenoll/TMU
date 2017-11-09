@@ -80,7 +80,53 @@ layout: default
 
           </div>
           <div id="test5">
-            <h2>Course list</h2>
+            <table class="bordered highlight">
+              <thead>
+                <th>Course Number</th>
+                <th>Course Title</th>
+                <th>Units</th>
+              </thead>
+              {% assign prereqcourses = page.prereqs-bible %}
+              {% tablerow course in prereqcourses cols:1 %}
+              <a href="#{{course.number}}">
+              {{ course.number }}
+              <td>{{ course.title }}</td> <td>{{ course.units }}</td>
+              </a>
+              <div id="{{course.number}}" class="modal">
+                <div class="modal-content">
+                  <h4>{{course.title}}</h4>
+                  <p>{{course.body}}</p>
+                </div>
+                <div class="modal-footer">
+                  <a href="#!" class="modal-action modal-close waves-effect btn-flat">close</a>
+                </div>
+              </div>
+              {% endtablerow %}
+            </table>
+            <p>The following courses are available and required if you did not complete these courses in your undergraduate program:</p>
+            <table class="bordered highlight">
+              <thead>
+                <th>Course Number</th>
+                <th>Course Title</th>
+                <th>Units</th>
+              </thead>
+              {% assign prebus = page.prereqs-business %}
+              {% tablerow course in prebus cols:1 %}
+              <a href="#{{course.number}}">
+              {{ course.number }}
+              <td>{{ course.title }}</td> <td>{{ course.units }}</td>
+              </a>
+              <div id="{{course.number}}" class="modal">
+                <div class="modal-content">
+                  <h4>{{course.title}}</h4>
+                  <p>{{course.body}}</p>
+                </div>
+                <div class="modal-footer">
+                  <a href="#!" class="modal-action modal-close waves-effect btn-flat">close</a>
+                </div>
+              </div>
+              {% endtablerow %}
+            </table>
 
           </div>
           <div id="test7">
