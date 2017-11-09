@@ -106,30 +106,30 @@ courses:
 level: grad
 prereqs-bible:
 - title: B101 Old Testament Survey I
-  body:
+  body: 
 - title: B102 Old Testament Survey II
-  body:
+  body: 
 - title: B201 New Testament Survey I
-  body:
+  body: 
 - title: B202 New Testament Survey II
-  body:
+  body: 
 - title: BTH321 Christian Theology I
-  body:
+  body: 
 - title: BTH322 Christian Theology II
-  body:
+  body: 
 - title: B340 Biblical Interpretation
-  body:
+  body: 
 - title: B342 Romans
-  body:
+  body: 
 - title: B346 Life of Christ
-  body:
+  body: 
 prereqs-business:
 - title: ECN200 Macroeconomics
-  body:
+  body: 
 - title: ECN210 Microeconomics
-  body:
+  body: 
 - title: MGT422 Business Strategy
-  body:
+  body: 
 layout: mba
 ---
 
