@@ -31,11 +31,12 @@ layout: default
             {% endif %}
             {% endfor %}
         </ul>
+        {{ content }}
       </div>
 
       <div class="col s12 m4 l3 right">
-        <p><a href="#" class="btn btn-navy music-btn">Apply</a></p>
-        <p><a href="#" class="btn btn-navy music-btn">Request Info</a></p>
+        <p><a href="https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB" class="btn btn-navy music-btn">Apply</a></p>
+        <p><a href="https://masters.tfaforms.net/217726" class="btn btn-navy music-btn">Request Info</a></p>
       </div>
 
     </div>
@@ -82,15 +83,13 @@ layout: default
           <div id="test5">
             <table class="bordered highlight">
               <thead>
-                <th>Course Number</th>
                 <th>Course Title</th>
                 <th>Units</th>
               </thead>
               {% assign prereqcourses = page.prereqs-bible %}
               {% tablerow course in prereqcourses cols:1 %}
               <a href="#{{course.number}}">
-              {{ course.number }}
-              <td>{{ course.title }}</td> <td>{{ course.units }}</td>
+              {{ course.title }}<td>{{ course.units }}</td>
               </a>
               <div id="{{course.number}}" class="modal">
                 <div class="modal-content">
@@ -103,18 +102,18 @@ layout: default
               </div>
               {% endtablerow %}
             </table>
+            <br>
             <p>The following courses are available and required if you did not complete these courses in your undergraduate program:</p>
+            <br>
             <table class="bordered highlight">
               <thead>
-                <th>Course Number</th>
                 <th>Course Title</th>
                 <th>Units</th>
               </thead>
               {% assign prebus = page.prereqs-business %}
               {% tablerow course in prebus cols:1 %}
               <a href="#{{course.number}}">
-              {{ course.number }}
-              <td>{{ course.title }}</td> <td>{{ course.units }}</td>
+              {{ course.title }}<td>{{ course.units }}</td>
               </a>
               <div id="{{course.number}}" class="modal">
                 <div class="modal-content">
