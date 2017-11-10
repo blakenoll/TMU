@@ -2,7 +2,7 @@
 title: The North Korean Crisis
 date: 2017-11-09 15:35:00 Z
 author: Allison Pari, Contributing Writer
-sm-image: "/uploads/korea.jpg"
+sm-image: "/uploads/Unknown-1.png"
 ---
 
 *Editor’s Note: The views expressed in this article are the opinions of the author and the faculty members interviewed and do not necessarily reflect the official position of The Master's University.*
