@@ -86,7 +86,6 @@ The President’s Scholarship is a competitive merit based scholarship awarded t
 
 </div> -->
 
-## 
 
 ## International Student Forms and Scholarships
 
