@@ -40,7 +40,7 @@ collections:
     output: true
   financialaid:
     title: Financial Aid
-    output: false
+    output: true
   give:
     title: Give
     output: true
