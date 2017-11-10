@@ -13,13 +13,13 @@ leadership-body: |-
 
   With these goals in mind, Student Care Leadership provides an opportunity for various students to serve in specific ministry capacities both on and off campus. These opportunities include service as a Global Outreach missions team leader, as an International Student Liaison, Military Student Liaison, a Multicultural Student Liaison, an Off Campus Assistant, as a Resident Assistant, or an Assistant Resident Assistant in one of the residence halls.
 
-  **2017-2018 Applications Due: March 5, 2017**
+  ### **2017-2018 Applications Due: March 5, 2017**
 
   If you have been on Student Leadership before please complete: <a href="http://masters.formstack.com/forms/student_leader_intention_to_serve" class="btn btn-navy"> Intent to Serve</a><br/>
 
   If this is your first time applying for Student Leadership please complete: <a href="http://masters.formstack.com/forms/student_leader_application_step1" class="btn btn-navy"> Leadership Application</a>
 
-  **Student Care Leadership Staff - Application Info**
+  ### **Student Care Leadership Staff - Application Info**
 
   Those going to IBEX in Spring 2018 must complete the Application by ***5pm on November 28, 2017.***
 
