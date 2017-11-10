@@ -4,7 +4,54 @@ date: 2017-04-05 22:13:00 Z
 sm-image: "/uploads/StudentLife_ResidentLife.png"
 group: studentlife
 intro-body: 
-community-covenant-body: 
+leadership-body: |-
+  ## Student Care Leadership
+
+  The Student Care Department believes that biblical community life on this campus is initiated and modeled by its students. The mission of TMU as defined in the doctrinal statements and modeled through the Distinctives is fleshed out in the context of a life-on-life community. It is through the lives of committed students who are faithful to pursue this goal and call others to follow that the reality of a biblical community can be lived out on campus.
+
+  Being on Student Care Leadership at The Master’s University is an incredible privilege and at the same time a great responsibility. It is the aim of Student Care Leadership to be a team that honors the Lord in all they do, to sacrifice of themselves for the growth of the community, and to model Christ likeness consistently, with the goal of impacting lives on The Master’s University campus for the Kingdom.
+
+  With these goals in mind, Student Care Leadership provides an opportunity for various students to serve in specific ministry capacities both on and off campus. These opportunities include service as a Global Outreach missions team leader, as an International Student Liaison, Military Student Liaison, a Multicultural Student Liaison, an Off Campus Assistant, as a Resident Assistant, or an Assistant Resident Assistant in one of the residence halls.
+
+  **2017-2018 Applications Due: March 5, 2017**
+
+  If you have been on Student Leadership before please complete: <a href="http://masters.formstack.com/forms/student_leader_intention_to_serve" class="btn btn-navy"> Intent to Serve</a><br/>
+
+  If this is your first time applying for Student Leadership please complete: <a href="http://masters.formstack.com/forms/student_leader_application_step1" class="btn btn-navy"> Leadership Application</a>
+
+  **Student Care Leadership Staff - Application Info**
+
+  Those going to IBEX in Spring 2018 must complete the Application by ***5pm on November 28, 2017.***
+
+  Students here in the Spring, can submit the application from ***February 19-March 5, 2018. \
+  No late applications will be accepted***.
+
+  If you are applying for RA, GO Leader, International Student Liaison, Multicultural Student Liaison, Military Student Liaison, or Off Campus Assistant you will need to sign up for an interview time in King Hall.
+
+  If you are interested in TMU’s Student Care Leadership, please read the following packet of information regarding the purpose and responsibilities of a Student Care Leader.
+
+  * [Ministry Overview and Guidelines](https://athletics.masters.edu/media/869354/1718-sls-ministry-overview-and-guidelines.pdf "1718 SLS Ministry Overview and Guidelines.pdf")
+
+  If you have any questions, send an e-mail to studentcare@masters.edu.
+
+  ## FAQ
+
+  Student Care Leadership Position FAQs
+  **Resident Life**
+
+  * Assistant Resident Assistant (ARA)
+
+  * Off Campus Assistant (OCA)
+
+  * Resident Assistant (RA)
+
+  **Outreach**
+
+  * Global Outreach Team Leader (GO)
+
+  * International Student Liaison
+
+  * Multicultural Student Liaison
 deans:
 - name: Dr. Joe Keller
   title: Dean of Students
