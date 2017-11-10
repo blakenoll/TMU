@@ -1,6 +1,5 @@
 ---
 title: Online
-published: false
 sm-image: "/uploads/AdmissionFinAid_online.png"
 online-101-body: |-
   ## Financial Aid 101: The Basics
