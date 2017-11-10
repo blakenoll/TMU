@@ -29,7 +29,7 @@ Biblical Counseling Professor Greg Gifford, who served as a captain in the U.S. 
 
 “It was volatile all the time…” he said. “I was there when Kim Jong-un’s father passed away… His dad had the same posture that he had…but never…(took) a direct step or a direct strike… None of this is new. They’ve had strong rhetoric all along. What is new is the way that our president is approaching it.”
 
-Frazer noted that in his opinion, Trump only seems more caustic in direct contrast to President Barak Obama, but not when compared to Presidents Ronald Reagan or George W. Bush. He also sees the recent threats as an escalation of tension due to three factors: the specificity of North Korea’s threats against the United States, their development of an ICBM, and their ability to detonate a hydrogen bomb.
+Frazer noted that in his opinion, Trump only seems more caustic in direct contrast to President Barack Obama, but not when compared to Presidents Ronald Reagan or George W. Bush. He also sees the recent threats as an escalation of tension due to three factors: the specificity of North Korea’s threats against the United States, their development of an ICBM, and their ability to detonate a hydrogen bomb.
 
 “You put all those pieces of the puzzle together and now you’ve got a real threat,” he said. “So, that’s why Russia and China are now voting with the United States on these issues. It’s a different ballgame.”
 
