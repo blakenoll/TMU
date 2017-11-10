@@ -111,10 +111,11 @@ body: |-
               21726 Placerita Canyon Rd<br>
               Santa Clarita, CA 91321<br><br></p>
           <p>We are open from 8:30am to 5:00pm, Monday through Friday. We would be happy for you to drop by without an appointment.</p>
+          <p>For Online and Printable Forms see below.</p>
         </div>
         <div class="row">
           {% assign topics = site.financialaid | sort: 'title' %}
-          {% for topic in topics %}
+          {% for topic in site.financialaid %}
           <a href="{{ topic.url | prepend: site.url }}">
             <div class="col s6 m4 l3">
               <div class="vector-card">
