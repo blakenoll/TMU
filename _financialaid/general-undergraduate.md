@@ -1,5 +1,6 @@
 ---
 title: General Undergraduate
+published: false
 sm-image: "/uploads/AdmissionFinAid_GeneralUndergrad.png"
 new-transfer-student-body: |-
   <h2 id="C7">Scholarships - New/Transfer Students</h2>
