@@ -30,7 +30,7 @@ leadership-body: |-
 
   If you are interested in TMU’s Student Care Leadership, please read the following packet of information regarding the purpose and responsibilities of a Student Care Leader.
 
-  * [Ministry Overview and Guidelines](https://athletics.masters.edu/media/869354/1718-sls-ministry-overview-and-guidelines.pdf "1718 SLS Ministry Overview and Guidelines.pdf")
+  * [Ministry Overview and Guidelines](/uploads/1718%20SLS%20Ministry%20Overview%20and%20Guidelines.pdf)
 
   If you have any questions, send an e-mail to studentcare@masters.edu.
 
@@ -39,19 +39,19 @@ leadership-body: |-
   Student Care Leadership Position FAQs
   **Resident Life**
 
-  * Assistant Resident Assistant (ARA)
+  * [Assistant Resident Assistant (ARA)](/uploads/_ARA%20FAQ%201718.pdf)
 
-  * Off Campus Assistant (OCA)
+  * [Off Campus Assistant (OCA)](/uploads/CA%20FAQ%201718.pdf)
 
-  * Resident Assistant (RA)
+  * [Resident Assistant (RA)](/uploads/RA%20FAQ%201718.pdf)
 
   **Outreach**
 
-  * Global Outreach Team Leader (GO)
+  * [Global Outreach Team Leader (GO)](/uploads/GO%20FAQ%201718.pdf)
 
-  * International Student Liaison
+  * [International Student Liaison](/uploads/ISL%20FAQ.PDF)
 
-  * Multicultural Student Liaison
+  * [Multicultural Student Liaison](/uploads/MCSL%20FAQ.PDF)
 deans:
 - name: Dr. Joe Keller
   title: Dean of Students
