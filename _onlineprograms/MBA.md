@@ -133,4 +133,4 @@ prereqs-business:
 layout: mba
 ---
 
-For those who desire to develop their leadership abilities, especially in the business world, The Master’s University’s Master of Business Administration program is the place to learn that much-needed craft.  Developed by business leaders with real world experience and a biblical worldview rooted in Scripture, the MBA program trains businessmen and businesswomen to become the leader God has gifted them to be. MBA graduates will be armed to meet the challenges facing today’s organizations and effectively lead them into the future.
+You want to develop into a leader in the business world and you are seeking the skills and knowledge to reach that goal. The Master’s University MBA program, developed by business leaders with real world experience, will train you to become the leader God has gifted you to be. TMU MBA graduates will be ready to meet the challenges facing today’s organizations and effectively lead them into the future.
