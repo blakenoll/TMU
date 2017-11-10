@@ -1,6 +1,7 @@
 ---
 title: Loans
 date: 2017-04-10 19:06:00 Z
+published: false
 sm-image: "/uploads/AdmissionFinAid_Loans.png"
 stafford-loan-body: |-
   ## Federal Direct Stafford Loans

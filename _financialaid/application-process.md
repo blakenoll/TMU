@@ -1,5 +1,6 @@
 ---
 title: Application Process
+published: false
 sm-image: "/uploads/AdmissionFinAid_ApplicationProcess.png"
 what-is-financial-aid-body: |-
   ## What is Financial Aid?

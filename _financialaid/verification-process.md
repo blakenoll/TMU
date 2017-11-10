@@ -1,5 +1,6 @@
 ---
 title: Verification Process
+published: false
 sm-image: "/uploads/AdmissionFinAid_VerificationProcess.png"
 ---
 
