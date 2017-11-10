@@ -1,6 +1,7 @@
 ---
 title: Scholarship search
 date: 2017-09-05 15:13:00 Z
+published: false
 sm-image: "/images/AcademicsUndergradIcons_Liberal Studies.png"
 ---
 
