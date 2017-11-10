@@ -16,7 +16,7 @@ layout: default
       <div id="doctrine" class="section scrollspy">
         <ul class="collapsible" data-collapsible="accordion">
           <li>
-            <div class="collapsible-header"><h1>Doctrinal Statement</h1></div>
+            <div class="collapsible-header">Doctrinal Statement<i class="material-icons" style="float: right;">keyboard_arrow_down</i></div>
             <div class="collapsible-body"><span>{{ page.doctrinal-statement-body | markdownify }}</span></div>
           </li>
         </ul>
@@ -25,7 +25,7 @@ layout: default
       <div id="history" class="section scrollspy">
         <ul class="collapsible" data-collapsible="accordion">
           <li>
-            <div class="collapsible-header"><h1>History</h1></div>
+            <div class="collapsible-header">History<i class="material-icons" style="float: right;">keyboard_arrow_down</i></div>
             <div class="collapsible-body about-history"><span>{{ page.history-body | markdownify }}</span></div>
           </li>
         </ul>
@@ -33,7 +33,7 @@ layout: default
       <div id="accreditation" class="section scrollspy">
         <ul class="collapsible" data-collapsible="accordion">
           <li>
-            <div class="collapsible-header"><h1>Accreditations</h1></div>
+            <div class="collapsible-header">Accreditations<i class="material-icons" style="float: right;">keyboard_arrow_down</i></div>
             <div class="collapsible-body"><span>{{ page.accredidations-body | markdownify }}</span></div>
           </li>
         </ul>
@@ -41,7 +41,7 @@ layout: default
       <div id="board" class="section scrollspy">
         <ul class="collapsible" data-collapsible="accordion">
           <li>
-            <div class="collapsible-header"><h1>Board of Directors</h1></div>
+            <div class="collapsible-header">Board of Directors<i class="material-icons" style="float: right;">keyboard_arrow_down</i></div>
             <div class="collapsible-body">
               {{ page.board-members-body | markdownify }}
             </div>
@@ -51,7 +51,7 @@ layout: default
       <div id="associations" class="section scrollspy">
         <ul class="collapsible" data-collapsible="accordion">
           <li>
-            <div class="collapsible-header"><h1>Associated Ministries</h1></div>
+            <div class="collapsible-header">Associated Ministries<i class="material-icons" style="float: right;">keyboard_arrow_down</i></div>
             <div class="collapsible-body">
               <div class="row">
                 {% for association in page.associated-organizations %}
