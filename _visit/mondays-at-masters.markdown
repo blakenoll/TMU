@@ -1,9 +1,10 @@
 ---
 title: Mondays @ Masters
 date: 2017-11-13 17:08:00 Z
-dates:
-- date: 2018-02-19 00:00:00 Z
-- date: 2018-04-09 00:00:00 Z
+date-text: |-
+  February 19, 2018
+
+  April 9, 2018
 ---
 
 # Mondays @ Master’s
