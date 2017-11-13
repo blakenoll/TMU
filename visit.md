@@ -1,5 +1,6 @@
 ---
 title: Visit
+permalink: "/visit/index.html"
 position: 4
 View-The-U-body: |-
   ## View The U
