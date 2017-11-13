@@ -163,7 +163,9 @@ layout: default
                   </div>
                 </div>
                 <div class="row">
-                  <p>I live outside the US</p>
+                  <div class="col s12">
+                    <a href="/admissions/josh-english" class="btn btn-gold">I live outside the U.S.</a>
+                  </div>
                 </div>
               </form>
             </div>
@@ -175,9 +177,41 @@ layout: default
 
         </div>
       </div>
+      <script type="text/javascript">
+      /*
+      * rwdImageMaps jQuery plugin v1.6
+      *
+      * Allows image maps to be used in a responsive design by recalculating the area coordinates to match the actual image size on load and window.resize
+      *
+      * Copyright (c) 2016 Matt Stow
+      * https://github.com/stowball/jQuery-rwdImageMaps
+      * http://mattstow.com
+      * Licensed under the MIT license
+      */
+      ;(function(a){a.fn.rwdImageMaps=function(){var c=this;var b=function(){c.each(function(){if(typeof(a(this).attr("usemap"))=="undefined"){return}var e=this,d=a(e);a("<img />").on('load',function(){var g="width",m="height",n=d.attr(g),j=d.attr(m);if(!n||!j){var o=new Image();o.src=d.attr("src");if(!n){n=o.width}if(!j){j=o.height}}var f=d.width()/100,k=d.height()/100,i=d.attr("usemap").replace("#",""),l="coords";a('map[name="'+i+'"]').find("area").each(function(){var r=a(this);if(!r.data(l)){r.data(l,r.attr(l))}var q=r.data(l).split(","),p=new Array(q.length);for(var h=0;h<p.length;++h){if(h%2===0){p[h]=parseInt(((q[h]/n)*100)*f)}else{p[h]=parseInt(((q[h]/j)*100)*k)}}r.attr(l,p.toString())})}).attr("src",d.attr("src"))})};a(window).resize(b).trigger("resize");return this}})(jQuery);
+
+      </script>
       <div class="col s12 m12 l8 pull-l4">
         <img id="Image-Maps-Com-image-maps-2017-08-22-131753" class="responsive-img" src="{{'/images/Counselor_1920x700.jpg' | prepend: site.url }}" width="1920" height="700" usemap="#image-maps-2017-08-22-131753" alt="" />
+        <map name="image-maps-2017-08-22-131753" id="ImageMapsCom-image-maps-2017-08-24-145053">
+        <area shape="rect" coords="1918,698,1920,700" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0" />
+        <area id="Alaska" alt="" title="Alaska" href="{{ '/admissions/maddie-olling' | prepend: site.url }}" shape="poly" coords="590,665,599,625,508,533,498,407,395,359,322,378,249,448,223,501,198,631,292,644" style="outline:none;" target="_self"     />
+        <area id="Hawaii" alt="" title="Hawaii" href="{{ '/admissions/morgan-pedrick' | prepend: site.url }}" shape="poly" coords="555,535,724,649,788,603,598,484,551,508" style="outline:none;" target="_self"     />
+        <area id="California" alt="" title="California" onclick="$('#california').modal('open');" shape="poly" coords="664,197,701,207,732,215,743,216,728,297,741,316,766,345,791,379,808,402,824,423,825,434,827,446,822,455,819,466,814,474,817,480,759,478,740,442,726,430,692,413,677,361,664,310,657,281,653,237" style="outline:none;" target="_self"     />
+        <area id="West Mid-West" alt="" title="West Mid-West" href="{{ '/admissions/mike-jackson' | prepend: site.url }}" shape="poly" coords="814,487,819,480,813,470,821,462,825,453,831,445,828,436,826,427,828,409,827,395,841,395,845,371,864,374,898,379,927,382,950,384,952,359,957,320,958,295,961,274,987,277,1012,279,1040,281,1062,280,1065,226,1066,171,1067,144,1071,63,1108,63,1150,64,1174,65,1194,63,1194,79,1196,90,1198,100,1202,108,1202,115,1203,129,1207,144,1207,154,1212,166,1213,181,1214,201,1214,214,1210,217,1208,228,1213,243,1217,259,1225,278,1232,294,1236,306,1244,312,1245,322,1252,329,1256,354,1257,375,1259,391,1231,390,1193,391,1153,391,1109,391,1078,391,1078,411,1078,441,1076,498,1076,525,1032,525,991,525,956,523,952,534,914,533,892,531" style="outline:none;" target="_self"     />
+        <area id="North-West" alt="" title="North-West" href="{{ '/admissions/maddie-olling' | prepend: site.url }}" shape="poly" coords="664,200,711,211,748,218,739,253,730,292,739,308,761,335,782,365,798,389,815,402,825,419,827,395,838,395,844,386,844,373,855,374,874,376,910,380,951,384,954,345,957,309,959,271,1000,276,1045,280,1060,281,1063,227,1067,144,1067,62,1007,59,897,50,833,39,735,20,698,17,662,174" style="outline:none;" target="_self"     />
+        <area id="Central" alt="" title="Central" href="{{ '/admissions/micah' | prepend: site.url }}" shape="poly" coords="995,524,1027,560,1048,595,1069,606,1165,674,1211,689,1289,583,1288,546,1279,528,1276,497,1318,495,1340,492,1337,476,1347,454,1356,438,1363,407,1374,386,1383,376,1393,354,1411,351,1425,342,1439,337,1446,324,1457,319,1457,313,1465,313,1478,317,1495,317,1507,319,1508,308,1509,302,1520,294,1531,280,1534,265,1535,251,1526,214,1434,108,1322,76,1230,60,1192,61,1198,90,1203,111,1203,133,1206,154,1213,168,1215,195,1217,212,1211,228,1216,249,1222,269,1230,293,1237,310,1245,314,1244,321,1253,329,1258,361,1257,389,1207,392,1139,395,1100,395,1078,392,1078,433,1077,487,1077,526" style="outline:none;" target="_self"     />
+        <area id="East Coast" alt="" title="East Coast" href="{{ '/admissions/morgan-pedrick' | prepend: site.url }}" shape="poly" coords="1277,498,1279,521,1287,538,1290,560,1288,584,1354,596,1600,667,1625,650,1625,626,1615,601,1589,555,1573,516,1583,484,1624,437,1662,398,1763,231,1770,25,1712,7,1673,12,1659,37,1525,200,1526,214,1532,246,1530,265,1533,279,1527,289,1520,300,1514,312,1506,320,1500,323,1487,319,1463,313,1456,321,1444,328,1436,341,1434,345,1422,345,1414,352,1401,354,1387,357,1390,366,1386,373,1379,379,1372,382,1370,393,1364,410,1357,428,1353,446,1347,456,1340,470,1337,475,1340,483,1340,492" style="outline:none;" target="_self"     />
+        </map>
       </div>
+      <script type="text/javascript">
+      $(document).ready(function(e) {
+        $('img[usemap]').rwdImageMaps();
+      });
+      $( "#counselor" ).click(function() {
+        $('img[usemap]').rwdImageMaps();
+      });
+      </script>
     </div>
 
 
