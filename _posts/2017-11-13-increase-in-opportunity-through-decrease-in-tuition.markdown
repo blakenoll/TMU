@@ -4,7 +4,7 @@ date: 2017-11-13 20:08:00 Z
 sm-image: "/uploads/tuitionreductionpressrelease.jpg"
 ---
 
-<img src="/uploads/tuitionreductionpressrelease.jpg" style="width: 60% !important; float:right !important; margin-left: 5px !important;" class="materialboxed"/>
+<img src="/uploads/tuitionreductionpressrelease.jpg" style="width: 60%; float:right; margin-left: 5px;" class="materialboxed"/>
 
 For 90 years, the Lord has had His gracious hand on The Master’s University.  Leadership, faculty, staff, students and donors have all been united around the virtue of full confidence in the truth of Scripture as the necessary foundation for all education.  The school’s ironclad conviction regarding biblical truth runs from the creation account in Genesis to the consummation of history in Revelation.
 
