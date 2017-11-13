@@ -2,9 +2,8 @@
 title: Mondays @ Masters
 date: 2017-11-13 17:08:00 Z
 dates:
-- February 19, 2018 at 12:00am
-- April 9, 2018 at 12:00am
-- 
+- date: 2018-02-19 00:00:00 Z
+- date: 2018-04-09 00:00:00 Z
 ---
 
 # Mondays @ Master’s
