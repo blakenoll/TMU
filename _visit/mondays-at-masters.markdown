@@ -5,6 +5,8 @@ date-text: |-
   February 19, 2018
 
   April 9, 2018
+image: "/images/Mondays@Masters_960x540.jpg"
+banner-image: 
 ---
 
 # Mondays @ Master’s
