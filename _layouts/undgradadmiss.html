@@ -79,46 +79,21 @@ layout: default
     <div class="row spacing">
       <div class="container">
         <div class="col s12">
-
+          {% for item in site.visit %}
           <div class="col s12 m12 l4">
             <div class="card hoverable">
               <div class="card-image">
-                <img src="{{ '/images/PersonalizedTour_960x540.jpg' | prepend: site.url }}">
+                <img src="{{ item.image }}">
               </div>
               <div class="card-content">
-                <p>about</p>
+                {{ item.date-text | markdownify }}
               </div>
               <div class="card-action">
                 <a href="#">Schedule Visit</a>
               </div>
             </div>
           </div>
-          <div class="col s12 m12 l4">
-            <div class="card hoverable">
-              <div class="card-image">
-                <img src="{{ '/images/Mondays@Masters_960x540.jpg' | prepend: site.url }}">
-              </div>
-              <div class="card-content">
-                <p>dates</p>
-              </div>
-              <div class="card-action">
-                <a href="#">Register</a>
-              </div>
-            </div>
-          </div>
-          <div class="col s12 m12 l4">
-            <div class="card hoverable">
-              <div class="card-image">
-                <img src="{{ '/images/ViewWeekend_960x540.jpg' | prepend: site.url }}">
-              </div>
-              <div class="card-content">
-                <p>dates</p>
-              </div>
-              <div class="card-action">
-                <a href="#">Register</a>
-              </div>
-            </div>
-          </div>
+          {% endfor %}
         </div>
       </div>
 
