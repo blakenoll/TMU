@@ -2,6 +2,8 @@
 title: View Weekend
 date: 2017-11-13 17:07:00 Z
 date-text: March 22-23rd
+image: "/images/ViewWeekend_960x540.jpg"
+banner-image: 
 ---
 
 # View The U
