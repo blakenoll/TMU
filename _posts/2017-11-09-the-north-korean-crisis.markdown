@@ -15,17 +15,17 @@ On June 23, 2017, The New York Times reported that American student Otto Warmbie
 
 Since then, the frequency of missile tests has escalated. Reuters reported on Oct. 10 that “North Korea has launched two missiles over Japan and conducted its sixth nuclear test in recent weeks.” As Pyongyang and Washington, D.C. trade rhetoric across the Pacific and the United Nations Security Council scrambles to impose sanctions on the repressive Communist regime, the world is left wondering how this newest crisis will end. Should we prepare for an imminent nuclear attack or brush off Kim Jong-un’s repeated threats as more attention-seeking bluster?
 
-![korea.jpg](/uploads/korea.jpg)
+![Kintner, J.jpg](/uploads/Kintner,%20J.jpg)
 
 It would take months of study to fully comprehend the nuances of decades of East Asian diplomatic policy, but every Christian has a responsibility to gain at least a basic understanding of the world around them. To this end, the faculty of The Master's University have offered their expertise.
 
 ## A Six-Decade Ceasefire
 
 **Any explanation of the current situation in North Korea must begin with historical context.** The trajectory of escalating tensions began with the Korean War in 1950. North Korea invaded South Korea and a UN (primarily U.S.) force was sent to enforce the border between the two countries, according to Dr. Gregg Frazer, the newly appointed dean of the School of Humanities and a political studies professor at Master’s U since 1988.
-When the fighting ended in 1953, “There was an armistice… A 64-year cease fire…” Frazer said. “Because there’s never been a peace treaty and because South Korea is a close friend of the United States, the United States has always had a large military presence in South Korea. We have guaranteed their independence and their safety.” 
+When the fighting ended in 1953, “There was an armistice… A 64-year cease fire…” Frazer said. “Because there’s never been a peace treaty and because South Korea is a close friend of the United States, the United States has always had a large military presence in South Korea. We have guaranteed their independence and their safety.”
 He explained that every U.S. president since Dwight Eisenhower has been faced with the “Korean situation” and that Bill Clinton was the first president to deal with a nuclear North Korea.
 
-Biblical Counseling Professor Greg Gifford, who served as a captain in the U.S. Army in South Korea between 2009 and 2012, said that none of the current headlines are any different from what he saw firsthand on the Korean Peninsula. 
+Biblical Counseling Professor Greg Gifford, who served as a captain in the U.S. Army in South Korea between 2009 and 2012, said that none of the current headlines are any different from what he saw firsthand on the Korean Peninsula.
 
 “It was volatile all the time…” he said. “I was there when Kim Jong-un’s father passed away… His dad had the same posture that he had…but never…(took) a direct step or a direct strike… None of this is new. They’ve had strong rhetoric all along. What is new is the way that our president is approaching it.”
 
@@ -35,11 +35,11 @@ Frazer noted that in his opinion, Trump only seems more caustic in direct contra
 
 ## Economic Intimidation
 
-North Korea has long had the weapons technology to effectively level Seoul, South Korea, and more recently developed an ICBM that can reach Guam, a U.S. territory in the South Pacific. Thus, despite any hardline rhetoric from the White House, diplomatic policy has historically favored economic sanctions rather than risk mass casualties in a military engagement.   
+North Korea has long had the weapons technology to effectively level Seoul, South Korea, and more recently developed an ICBM that can reach Guam, a U.S. territory in the South Pacific. Thus, despite any hardline rhetoric from the White House, diplomatic policy has historically favored economic sanctions rather than risk mass casualties in a military engagement.
 
 But economic sanctions have limited clout in North Korea, and in the opinion of one business professor, they haven’t gone far enough.
 
-Prof. Lawrence Pickering is an adjunct with the Department of Business Administration who teaches classes such as International Economics & Trade and International Business Marketing. He explained that China has historically supported North Korea and mitigated the economic damage caused by sanctions, continuing to trade with them when few other countries will. 
+Prof. Lawrence Pickering is an adjunct with the Department of Business Administration who teaches classes such as International Economics & Trade and International Business Marketing. He explained that China has historically supported North Korea and mitigated the economic damage caused by sanctions, continuing to trade with them when few other countries will.
 
 “…they (China) supply 85 percent of North Korea’s imports…” he said. “They also buy 83 percent of North Korea’s exports… China has a vested interest in keeping North Korea healthy because it doesn’t want, for example, refugees pouring across the border…”
 
@@ -54,7 +54,7 @@ The impact of sanctions also hinges on the North Korean government’s concern f
 
 “To be effective, because the attitude of the leadership in North Korea…, they (the U.N.) need to act more decisively in my view… The goal of these sanctions is to bring the leadership to the discussion table. I’m not so sure that a one-third-of-their-income sanction will do it…”
 
-But, there is no question that sanctions hurt an already suffering people. 
+But, there is no question that sanctions hurt an already suffering people.
 
 “Anyone who is opposing the leader is put to death,” Wong said. “People, even though they don’t like the current leader, they don’t dare to say a word. The culture is very dominant. The problem is that the majority of Korean people, they have no choice. They’re very timid; they’re so afraid that if they oppose it, they could face persecution, so they just yield to it.”
 
