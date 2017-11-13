@@ -1,9 +1,7 @@
 ---
 title: View Weekend
 date: 2017-11-13 17:07:00 Z
-dates:
-- start-date: 2018-03-22 00:00:00 Z
-  end-date: 2018-03-23 00:00:00 Z
+date-text: March 22-23rd
 ---
 
 # View The U
