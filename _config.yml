@@ -68,6 +68,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  visit:
+    title: visit
+    output: true
 defaults:
 - scope:
     path: ''
