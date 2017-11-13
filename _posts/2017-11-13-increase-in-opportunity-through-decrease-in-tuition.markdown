@@ -16,7 +16,7 @@ It is Master’s desire to steward both the truth and the lives entrusted to thi
 
 While sharing the news with the TMU student body – who ultimately responded with cheers and a standing ovation – President John MacArthur said, “All of this excellence (*referring to all TMU offers*) falls short if we do not make our unique education and opportunity possible for many more eager followers of our Lord.  Because of that reality, our Board has come to the conviction that we must open accessibility to TMU for many more students to meet the challenges and opportunities for the gospel in our day.  Recognizing that cost is the main barrier, the Board has mandated a significant decrease in tuition.”
 
-> Effective Fall 2018, the new annual tuition will drop approximately **26%**, from **$33,600 to $24,950**.  
+## Effective Fall 2018, the new annual tuition will drop approximately **26%**, from **$33,600 to $24,950**.
 
 The University will continue to provide meritorious academic and athletic scholarship aid as well as various forms of federal and state educational assistance for qualified students.  As MacArthur said in his announcement, a reduction of this size opens the door to many young people that previously believed an education at TMU was not attainable and “allows the university to multiply the lives that can be prepared for Kingdom influence.”
 
