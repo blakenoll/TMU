@@ -71,6 +71,7 @@ collections:
   undergrad-admissions:
     title: undergrad admissions
     output: true
+    permalink: "/admissions/undergrad/:path"
   visit:
     title: visit
     output: true
