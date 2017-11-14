@@ -102,8 +102,9 @@ title: Admissions
       <div class="container">
         <div class="col s12">
           <h1>With you every step of the way: Meet your Admissions Counselor</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab iste, doloribus, eum iure dolore quasi eius quae aperiam debitis inventore esse, officia laudantium ullam sit aliquam! Et mollitia vel numquam.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, aspernatur temporibus cum, similique maxime itaque id. In sequi inventore adipisci perspiciatis maxime corrupti eum alias, laboriosam id, maiores, ratione minus.</p>
+          <p>We invite all students considering admission for Fall 2018 to begin the application process now. Don’t miss out on a life-changing TMU education–complete your application as soon as possible! </p>
+          <p>Find your admissions counselor below to guide you along that process.</p>
+
         </div>
       </div>
     </div>
@@ -293,60 +294,60 @@ title: Admissions
     </div>
     <div class="row spacing">
       <div class="col s12 m7 push-m5 icon-links home-spacers valign-wrapper" >
-        <div class="col s6">
-        <a href="/apply" target="_blank">
-          <div class="valign-wrapper card" style="width: 100%;">
-            <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
-            <span>Freshmen</span>
-          </div>
-        </a>
-        <a href="{{ '/performingarts' | prepend: site.url }}">
-          <div class="valign-wrapper card" style="width: 100%;">
-            <img src="{{'/images/HomePage_PerformingArts.png' | prepend: site.url }}" alt="">
-            <span>Transfer</span>
-          </div>
-        </a>
-        <a href="{{'/studentlife' | prepend: site.url }}">
-          <div class="valign-wrapper card" style="width: 100%;">
-            <img src="{{'/uploads/StudentLife_ResidentLife.png' | prepend: site.url }}" alt="">
-            <span>Pastor's Family</span>
-          </div>
-        </a>
-        </div>
-        <div class="col s6">
-        <a href="/financial-aid/total-cost-calculator">
-          <div class="valign-wrapper card" style="width: 100%;">
-            <img src="{{'/uploads/AdmissionFinAid_Tuition.png' | prepend: site.url }}" alt="">
-            <span>International</span>
-          </div>
-        </a>
-        <a href="{{ '/calendar' | prepend: site.url }}">
+        <!-- <div class="col s6">
+
+        </div> -->
+        <div class="col s6 offset-s3">
+          <a href="http://www.masters.edu/admissions/#apply" target="_blank">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
+              <span>Freshmen</span>
+            </div>
+          </a>
+          <a href="http://www.masters.edu/admissions/#apply">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
+              <span>Transfer</span>
+            </div>
+          </a>
+          <!-- <a href="http://www.masters.edu/admissions/#apply">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/StudentLife_ResidentLife.png' | prepend: site.url }}" alt="">
+              <span>Pastor's Family</span>
+            </div>
+          </a> -->
+          <a href="http://www.masters.edu/admissions/#intl">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
+              <span>International</span>
+            </div>
+          </a>
+        <!-- <a href="{{ '/calendar' | prepend: site.url }}">
           <div class="valign-wrapper card" style="width: 100%;">
             <img src="{{'/images/HomePage_Calendar.png' | prepend: site.url }}" alt="">
             <span>Veterans & Military</span>
           </div>
-        </a>
-        <a href="/give">
+        </a> -->
+        <!-- <a href="/give">
           <div class="valign-wrapper card" style="width: 100%;">
             <img src="{{'/images/HomePage_Give.png' | prepend: site.url }}" alt="">
             <span>I'm not sure</span>
           </div>
-        </a>
+        </a> -->
         </div>
       </div>
-      {% for post in site.posts  limit:1 %}
+
         <div class="col s12 m5 pull-m7 home-spacers image valign-wrapper">
-          <div class="center">
-            <a href="{{ post.url | prepend: site.url }}">
-              <div class="card">
-                  <div class="card-image">
-                    <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
-                  </div>
-              </div>
-            </a>
+        
+        <div class="card">
+            <div class="card-image">
+              <img src="/images/applyadmin.jpg">
+              <span class="pa-titles">How to Apply</span>
+            </div>
           </div>
+
         </div>
-      {% endfor %}
+
     </div>
 
   </div>
