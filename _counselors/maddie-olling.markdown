@@ -7,6 +7,7 @@ phone: 16613622604
 video: |-
   <iframe src="https://player.vimeo.com/video/188209245" width="640" height="360"
       frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+image: "/uploads/Screen%20Shot%202017-11-13%20at%204.49.13%20PM.png"
 ---
 
 I was born and raised in Seattle, fully equipped with a plan to never leave. I stuck closely with my plan and followed my love of pine trees to Spokane, where I attended a small liberal arts school for a year and a half, before transferring to The Master’s University. The summer between my freshman and sophomore year of college, I worked at a summer camp high in the Cascade mountains, where I came to know Jesus Christ as my savior. Soon after, the Lord led me out of my home state to sunny California—which despite my objections, ended up being one of the sweetest gifts the Lord has given to me.
