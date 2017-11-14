@@ -28,4 +28,4 @@ The goal of this tuition reset is to enable many more students to benefit from T
 
 *For information on how you or someone you know can start the process of applying for admission to TMU, click below.*
 
-<a href="/admissions" class="btn btn-navy">Admissions</a>
+<a href="/admissions/undergrad" class="btn btn-navy">Admissions</a>
