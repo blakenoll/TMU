@@ -440,6 +440,13 @@ p {
   }
 }
 
+#timer {
+  font-size: 48px !important;
+  letter-spacing: 1rem;
+  padding-bottom: 20px;
+  font-weight: inheriant;
+}
+
 .spacing {
   padding-top: 50px;
   padding-bottom: 50px;
@@ -869,6 +876,10 @@ footer {
   }
   .program-title {
     font-size: 28pt;
+  }
+  #timer {
+    font-size: 24pt !important;
+    letter-spacing: 2px;
   }
   .article-body {
     font-size: 16px;
