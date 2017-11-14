@@ -7,6 +7,8 @@ date-text: |-
   April 9, 2018
 image: "/images/Mondays@Masters_960x540.jpg"
 banner-image: 
+button-txt: Register
+button-link: http://www.masters.edu/visit/#mondays
 ---
 
 # Mondays @ Master’s
