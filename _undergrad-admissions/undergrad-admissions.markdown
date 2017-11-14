@@ -12,6 +12,7 @@ upcoming-events-text: The things that make The Master’s University so special 
 counselor-text: |-
   We invite all students considering admission for Fall 2018 to begin the application process now. Don’t miss out on a life-changing TMU education–complete your application as soon as possible!
 
+
   Find your admissions counselor below to guide you along that process.
 app-deadlines:
 - text: |-
@@ -25,7 +26,7 @@ app-deadlines:
 - text: |-
     November 15, 2017
     Early Action: No application fee; admission decision within 2-3 weeks
-  red-text: MAR 3\+ 2018
+  red-text: MAR 3+ 2018
 quote-2: "“And then,” she said, “I went to IBEX.” Madi Cole (‘18) talks about her
   semester in Israel "
 Field name: 
