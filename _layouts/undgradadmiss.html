@@ -14,7 +14,9 @@ layout: default
         <div class="card navy">
           <div class="card-content white-text">
             <span class="card-title">Have a Question?</span>
-            <p>Call or Text:  <a href="tel:16613622363">  661.362.2363</a></p><br>
+            <p>Call:<a href="tel:16613622363">  661.362.2363</a></p>
+            <p>or Text: <a href="tel:661-748-0266">661-748-0266</a></p>
+
             {{ page.have-a-question-text}}
           </div>
           <div class="card-action">
@@ -44,8 +46,8 @@ layout: default
         <div class="col s12 m6 center">
           <h1>Early Application?</h1>
           <h1>We'll waive your application fee.</h1>
-          <br>
-          <h1>{{ page.early-application-date }}<small><a href="https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB" class="btn btn-navy">Apply</a></small></h1>
+          <h1>Due by {{ page.early-application-date | date: '%B %d'}}:</h1>
+          <a href="https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB" class="btn btn-navy">Apply</a>
         </div>
 
       </div>
@@ -208,36 +210,6 @@ layout: default
             </div>
           </div>
           {% endfor %}
-          <div class="row">
-            <div class="col s12 m8 offset-m2 card hoverable white valign-wrapper" style="padding: 15px;">
-              <div class="col s4">
-                <span>November 15, 2017<br />Early Action: No application fee; admission decision within 2-3 weeks</span>
-              </div>
-              <div class="col s4 offset-s4 center date">
-                NOV 15, 2017
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col s12 m8 offset-m2 card hoverable white valign-wrapper" style="padding: 15px;">
-              <div class="col s4">
-                <span>November 15, 2017<br />Early Action: No application fee; admission decision within 2-3 weeks</span>
-              </div>
-              <div class="col s4 offset-s4 center date">
-                MAR 2, 2018
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col s12 m8 offset-m2 card hoverable white valign-wrapper" style="padding: 15px;">
-              <div class="col s4">
-                <span>November 15, 2017<br />Early Action: No application fee; admission decision within 2-3 weeks</span>
-              </div>
-              <div class="col s4 offset-s4 center date">
-                MAR 3+ 2018
-              </div>
-            </div>
-          </div>
         </div>
       </div>
       <div class="row spacing">
