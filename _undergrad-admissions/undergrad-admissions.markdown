@@ -15,17 +15,11 @@ counselor-text: |-
 
   Find your admissions counselor below to guide you along that process.
 app-deadlines:
-- text: |-
-    November 15, 2017
-    Early Action: No application fee; admission decision within 2-3 weeks
+- text: 'Early Action: No application fee; admission decision within 2-3 weeks'
   red-text: NOV 15, 2017
-- text: |-
-    November 15, 2017
-    Early Action: No application fee; admission decision within 2-3 weeks
+- text: 'Early Action: No application fee; admission decision within 2-3 weeks'
   red-text: MAR 2, 2018
-- text: |-
-    November 15, 2017
-    Early Action: No application fee; admission decision within 2-3 weeks
+- text: 'Early Action: No application fee; admission decision within 2-3 weeks'
   red-text: MAR 3+ 2018
 quote-2: "“And then,” she said, “I went to IBEX.” Madi Cole (‘18) talks about her
   semester in Israel "
