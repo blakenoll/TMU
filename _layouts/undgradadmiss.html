@@ -113,7 +113,7 @@ layout: default
           {% for staff in site.counselors%}
           <a href="{{ staff.url | prepend: site.url }}">
           <div class="col s6 m4 l2 center">
-              <img src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="" class="circle responsive-img">
+              <img src="{{ staff.image }}" alt="" class="circle responsive-img">
               <a href="{{ staff.url | prepend: site.url }}">{{ staff.name }}</a>
           </div>
           </a>
