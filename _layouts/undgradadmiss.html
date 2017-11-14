@@ -72,7 +72,7 @@ layout: default
       <div class="container">
         <div class="col s12">
           <h1>Experience Master's First-hand: upcoming events</h1>
-          <p>The things that make The Master’s University so special can’t be experienced on your computer. You’ve got to see it for yourself! If you’re curious about the University, your next step should be to schedule a tour.</p>
+          <p class="flow-text">The things that make The Master’s University so special can’t be experienced on your computer. You’ve got to see it for yourself! If you’re curious about the University, your next step should be to schedule a tour.</p>
         </div>
       </div>
     </div>
@@ -102,8 +102,8 @@ layout: default
       <div class="container">
         <div class="col s12">
           <h1>With you every step of the way: Meet your Admissions Counselor</h1>
-          <p>We invite all students considering admission for Fall 2018 to begin the application process now. Don’t miss out on a life-changing TMU education–complete your application as soon as possible! </p>
-          <p>Find your admissions counselor below to guide you along that process.</p>
+          <p class="flow-text">We invite all students considering admission for Fall 2018 to begin the application process now. Don’t miss out on a life-changing TMU education–complete your application as soon as possible! </p>
+          <p class="flow-text">Find your admissions counselor below to guide you along that process.</p>
 
         </div>
       </div>
@@ -114,7 +114,7 @@ layout: default
           {% for staff in site.counselors%}
           <a href="{{ staff.url | prepend: site.url }}">
           <div class="col s6 m4 l2 center">
-              <img src="{{ staff.image }}" alt="" class="circle responsive-img">
+              <img src="{{ staff.image }}" alt="" class="circle responsive-img hoverable">
               <a href="{{ staff.url | prepend: site.url }}">{{ staff.name }}</a>
           </div>
           </a>
@@ -241,15 +241,15 @@ layout: default
 
 
   <div class="container spacing">
-    <div class="row spacing valign-wrapper">
+    <div class="row spacing">
       <div class="col s12 l8">
+        <h1 class="center">FAQ's</h1>
         <ul class="collapsible popout" data-collapsible="accordion">
           <li>
-            <div class="collapsible-header"><i class="material-icons">question_answer</i>What are TMU’s admission requirements?<i class="material-icons" style="float: right;">keyboard_arrow_down</i></div>
+            <div class="collapsible-header"><i class="material-icons hide-on-small-only">question_answer</i>What are TMU’s admission requirements?<i class="material-icons hide-on-small-only" style="float: right;">keyboard_arrow_down</i></div>
             <div class="collapsible-body card-content"><span>
               <ol>
-                <li>Faith in Jesus Christ as your personal Lord and Savior
-</li>
+                <li>Faith in Jesus Christ as your personal Lord and Savior</li>
                 <li>High school graduate, GED, or California High School Proficiency Exam</li>
                 <li>Application</li>
                 <li>Pastor Recommendation</li>
@@ -261,13 +261,13 @@ layout: default
             </span></div>
           </li>
           <li>
-            <div class="collapsible-header"><i class="material-icons">question_answer</i>What kind of financial aid is offered at TMU?<i class="material-icons" style="float: right;">keyboard_arrow_down</i></div>
+            <div class="collapsible-header"><i class="material-icons hide-on-small-only">question_answer</i>What kind of financial aid is offered at TMU?<i class="material-icons hide-on-small-only" style="float: right;">keyboard_arrow_down</i></div>
             <div class="collapsible-body"><span>
               <p>The important thing to know here is that a TMU education is a LOT more affordable than you think. We offer federal, state, institutional aid in the form of grants, loans, need based and merit based scholarships, and work study programs. Most of our students (93% at last count) receive some form of financial – why not you? The average TMU student receives over $20,000 in financial aid each year. Just make sure to get your application in early and to submit your FAFSA!</p>
             </span></div>
           </li>
           <li>
-            <div class="collapsible-header"><i class="material-icons">question_answer</i>What majors do we offer?<i class="material-icons" style="float: right;">keyboard_arrow_down</i></div>
+            <div class="collapsible-header"><i class="material-icons hide-on-small-only">question_answer</i>What majors do we offer?<i class="material-icons hide-on-small-only" style="float: right;">keyboard_arrow_down</i></div>
             <div class="collapsible-body"><span><a href="/academics/undergraduate/" class="btn btn-navy">View Majors</a></span></div>
           </li>
         </ul>
@@ -293,52 +293,9 @@ layout: default
       </div>
     </div>
     <div class="row spacing">
-      <div class="col s12 m7 push-m5 icon-links home-spacers valign-wrapper" >
-        <!-- <div class="col s6">
 
-        </div> -->
-        <div class="col s6 offset-s3">
-          <a href="http://www.masters.edu/admissions/#apply" target="_blank">
-            <div class="valign-wrapper card" style="width: 100%;">
-              <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
-              <span>Freshmen</span>
-            </div>
-          </a>
-          <a href="http://www.masters.edu/admissions/#apply">
-            <div class="valign-wrapper card" style="width: 100%;">
-              <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
-              <span>Transfer</span>
-            </div>
-          </a>
-          <!-- <a href="http://www.masters.edu/admissions/#apply">
-            <div class="valign-wrapper card" style="width: 100%;">
-              <img src="{{'/uploads/StudentLife_ResidentLife.png' | prepend: site.url }}" alt="">
-              <span>Pastor's Family</span>
-            </div>
-          </a> -->
-          <a href="http://www.masters.edu/admissions/#intl">
-            <div class="valign-wrapper card" style="width: 100%;">
-              <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
-              <span>International</span>
-            </div>
-          </a>
-        <!-- <a href="{{ '/calendar' | prepend: site.url }}">
-          <div class="valign-wrapper card" style="width: 100%;">
-            <img src="{{'/images/HomePage_Calendar.png' | prepend: site.url }}" alt="">
-            <span>Veterans & Military</span>
-          </div>
-        </a> -->
-        <!-- <a href="/give">
-          <div class="valign-wrapper card" style="width: 100%;">
-            <img src="{{'/images/HomePage_Give.png' | prepend: site.url }}" alt="">
-            <span>I'm not sure</span>
-          </div>
-        </a> -->
-        </div>
-      </div>
+        <div class="col s12 m5 home-spacers image valign-wrapper">
 
-        <div class="col s12 m5 pull-m7 home-spacers image valign-wrapper">
-        
         <div class="card">
             <div class="card-image">
               <img src="/images/applyadmin.jpg">
@@ -346,6 +303,49 @@ layout: default
             </div>
           </div>
 
+        </div>
+        <div class="col s12 m7 icon-links home-spacers valign-wrapper" >
+          <!-- <div class="col s6">
+
+          </div> -->
+          <div class="col s6 offset-s3">
+            <a href="http://www.masters.edu/admissions/#apply" target="_blank">
+              <div class="valign-wrapper card" style="width: 100%;">
+                <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
+                <span>Freshmen</span>
+              </div>
+            </a>
+            <a href="http://www.masters.edu/admissions/#apply">
+              <div class="valign-wrapper card" style="width: 100%;">
+                <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
+                <span>Transfer</span>
+              </div>
+            </a>
+            <!-- <a href="http://www.masters.edu/admissions/#apply">
+              <div class="valign-wrapper card" style="width: 100%;">
+                <img src="{{'/uploads/StudentLife_ResidentLife.png' | prepend: site.url }}" alt="">
+                <span>Pastor's Family</span>
+              </div>
+            </a> -->
+            <a href="http://www.masters.edu/admissions/#intl">
+              <div class="valign-wrapper card" style="width: 100%;">
+                <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
+                <span>International</span>
+              </div>
+            </a>
+          <!-- <a href="{{ '/calendar' | prepend: site.url }}">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/images/HomePage_Calendar.png' | prepend: site.url }}" alt="">
+              <span>Veterans & Military</span>
+            </div>
+          </a> -->
+          <!-- <a href="/give">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/images/HomePage_Give.png' | prepend: site.url }}" alt="">
+              <span>I'm not sure</span>
+            </div>
+          </a> -->
+          </div>
         </div>
 
     </div>
