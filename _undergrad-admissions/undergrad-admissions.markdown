@@ -12,6 +12,7 @@ upcoming-events-text: The things that make The Master’s University so special 
 counselor-text: |-
   We invite all students considering admission for Fall 2018 to begin the application process now. Don’t miss out on a life-changing TMU education–complete your application as soon as possible!
 
+
   Find your admissions counselor below to guide you along that process.
 app-deadlines:
 - text: |-
