@@ -22,7 +22,7 @@ Students texted friends about the announcement, encouraging them to come back to
 
 Sara Williams, TMU sophomore, expressed “it was a crazy answer to prayer, and I’ll be able to finish my education here because of it. . .” 
 
-That weekend, Williams proceeded to tell her church during their announcements before the sermon — finances to finish at Master’s had been a long-term prayer request that had now been answered. A family approached her afterward and expressed their utter surprise and excitement, it meant that their daughter could now better afford to go to Master’s as well. 
+That weekend, Williams proceeded to tell her church during their announcements before the sermon — finances to finish at Master’s had been a long-term prayer request that had now been answered. A family approached her afterward and expressed their utter surprise and excitement, it meant their daughter could now better afford to go to Master’s as well. 
 
 “I know one friend was looking at places to transfer last night because of how expensive it was,” another student said. “My friend after chapel expressed how excited she is because, now, that’s no longer the case.” 
 	
