@@ -38,8 +38,8 @@ app-deadlines:
   red-text: MAR 2, 2018
 - text: 'Early Action: No application fee; admission decision within 2-3 weeks'
   red-text: MAR 3+ 2018
-quote-2: "“And then,” she said, “I went to IBEX.” Madi Cole (‘18) talks about her
-  semester in Israel "
+quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
+  her semester in Israel "
 blurb2-text: 
 layout: undgradadmiss
 ---
