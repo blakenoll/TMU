@@ -20,7 +20,7 @@ quote-1: "“I saw firsthand what TMU had done for my brother ACADEMICALLY, ATHL
   ('17)"
 blurb1-text: |-
   The Master's University equips young Christian men and women for spiritual service and leadership - on the job, in the home, and through their ministries.
-  \
+
   Every class we teach and every degree we confer stand on the foundation of God's Word. Our students acquire knowledge from a Biblical perspective, filtering everything they learn through the lens of God's Word. In other words, they gain wisdom to serve and wisdom to lead.
 upcoming-events-text: The things that make The Master’s University so special can’t
   be experienced on your computer. You’ve got to see it for yourself! If you’re curious
@@ -42,13 +42,13 @@ blurb2-text: |-
 
   **#1 **CPA Exam Pass Rate *(NASBA)*
 
-  **#4 **Best Student-Teacher Ratio 12:1 *(US News)*
+  **#4** Best Student-Teacher Ratio 12:1 *(US News)*
 
   **TOP 35** Best Universities *(US Regional West)*
 
   **TOP 10** U.S. law schools accepting TMU graduates
 
-  **TOP 15 **Best Value schools in the U.S.* (US News 2017)*
+  **TOP 15** Best Value schools in the U.S. *(US News 2017)*
 
   **100%** Teaching graduates employed *(2017)*
 
