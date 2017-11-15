@@ -37,8 +37,6 @@ app-deadlines:
   red-text: MAR 2, 2018
 - text: 'Early Action: No application fee; admission decision within 2-3 weeks'
   red-text: MAR 3+ 2018
-blurb2-text:
-- text: 
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
 Field name: |-
@@ -65,6 +63,7 @@ Field name: |-
   TOP 20 best U.S. Colleges for veterans (US News 2017)
 
   TOP 80 colleges (Forbes 2017, US West)
+blurb2-text: 
 layout: undgradadmiss
 ---
 
