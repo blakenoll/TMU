@@ -893,6 +893,24 @@ ministry-matching-body: |-
   For questions please contact the Office of Financial Aid at 800.568.6248 x2290 or financialaid@masters.edu.
 
   Note: Ministry Matching funds can affect eligibility for institutional need-based aid. Contact the Office of Financial Aid to determine if your financial aid will be affected.
+scholorships-new-transfer:
+- award-text: |-
+    President's Scholarship
+
+    * Competitive scholarship awarded to full-time incoming freshmen. Applicants must have a high school GPA of 3.85 and a SAT I score (Critical Reading and Math sub-tests only) of 1400 or ACT score of 32. Renewable with a college GPA of 3.5.
+
+    * Deadline: January 20, 2017
+  amount: "$16,000"
+  document-text: "[President's Scholarship Application](/media/868518/forms-application-presidents-17-18.pdf)"
+- award-text: "Distinguished Scholar Scholarship \n\n* Awarded to traditional, full-time
+    students.\n\n* Renewable with a 2.75 cumulative GPA.\n\n* Click [here](https://588bad54d816e23fc16fc8c7.preview.siteleaf.com/tcc
+    \"Total Cost Calculator\") to see our Total Cost Calculator.\n\n* Transfer students
+    receive a $12,000 Distinguished Scholarship with a cumulative college GPA of 3.75\\\\\\+."
+  amount: "$13,000"
+  document-text: none
+- award-text: 
+  amount: 
+  document-text: 
 layout: gunderfin
 ---
 
