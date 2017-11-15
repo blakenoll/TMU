@@ -698,6 +698,13 @@ footer {
   width: 100%;
 }
 
+.no-line-spacing {
+  p {
+    margin: 0px;
+  }
+}
+
+
 .track-list {
   list-style: decimal !important;
 }

@@ -82,6 +82,7 @@ layout: default
       <div class="container">
         <div class="col s12">
           {% for item in site.visit %}
+          {% if item.title != 'Visit' %}
           <div class="col s12 m12 l4">
             <div class="card hoverable">
               <div class="card-image">
@@ -95,6 +96,7 @@ layout: default
               </div>
             </div>
           </div>
+          {% endif %}
           {% endfor %}
         </div>
       </div>
