@@ -7,7 +7,7 @@ phone: 16613622606
 video: |-
   <iframe src="https://player.vimeo.com/video/188209243" width="640" height="360"
       frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-image: http://www.masters.edu/images/FacutyBlank_500x500.png
+image: "/uploads/RJ_20171116_TMU_ADMISSIONS_0049FINAL.jpg"
 ---
 
 I was raised in the great state of Texas in a wonderful Christian home where I first heard about Master’s as my Dad is an alum of the college. I came to Master’s in 2012 to study biology pre-med and my time here ended up being more life changing than I could have ever imagined. It was during my four years at Master’s the Lord really showed me what it meant to live for Him through the examples of professors, mentors, and friends.
