@@ -13,7 +13,7 @@ tags:
 - application
 - deadline
 have-a-question-text: Send us a text message with any question or comments, we'll
-  write you back! Prefer by email? write us at admissions@masters.edu
+  write you back! Prefer by email? Write us at **admissions@masters.edu**
 early-application-date: 2017-11-15 00:00:00 Z
 quote-1: "“I saw firsthand what TMU had done for my brother ACADEMICALLY, ATHLETICALLY
   and SPIRITUALLY. So, choosing TMU myself became an easy decision.” \n- Jason Karkenny
@@ -38,30 +38,30 @@ app-deadlines:
 - text: 'Early Action: No application fee; admission decision within 2-3 weeks'
   red-text: MAR 3+ 2018
 blurb2-text:
-- |-
-  * #1 “Right Choice” University, 2 years in a row (Wall Street Journal)
+- Key 1: |2
+     #1 “Right Choice” University, 2 years in a row (Wall Street Journal)
 
-  * #1 CPA Exam Pass Rate (NASBA)
+     #1 CPA Exam Pass Rate (NASBA)
 
-  * #4 Best Student-Teacher Ratio 12:1 (US News)
+     #4 Best Student-Teacher Ratio 12:1 (US News)
 
-  * TOP 35 Best Universities (US Regional West)
+     TOP 35 Best Universities (US Regional West)
 
-  * TOP 10 U.S. law schools accepting TMU graduates
+     TOP 10 U.S. law schools accepting TMU graduates
 
-  * TOP 15 Best Value schools in the U.S. (US News 2017)
+     TOP 15 Best Value schools in the U.S. (US News 2017)
 
-  * 100% Teaching graduates employed (2017)
+     100% Teaching graduates employed (2017)
 
-  * 100% Business graduates employed (2017)
+     100% Business graduates employed (2017)
 
-  * 95% Medical School acceptance
+     95% Medical School acceptance
 
-  * TOP 8% Scoring on ETS-MFT business exam
+     TOP 8% Scoring on ETS-MFT business exam
 
-  * TOP 20 best U.S. Colleges for veterans (US News 2017)
+     TOP 20 best U.S. Colleges for veterans (US News 2017)
 
-  * TOP 80 colleges (Forbes 2017, US West)
+     TOP 80 colleges (Forbes 2017, US West)
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
 layout: undgradadmiss
