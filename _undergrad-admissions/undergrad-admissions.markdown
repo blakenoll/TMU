@@ -37,8 +37,7 @@ app-deadlines:
   red-text: MAR 2, 2018
 - text: 'Early Action: No application fee; admission decision within 2-3 weeks'
   red-text: MAR 3+ 2018
-blurb2-text:
-- |-
+blurb2-text: |-
   #1 “Right Choice” University, 2 years in a row (Wall Street Journal)
 
    #1 CPA Exam Pass Rate (NASBA)
