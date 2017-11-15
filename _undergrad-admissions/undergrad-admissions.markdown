@@ -17,6 +17,7 @@ have-a-question-text: Send us a text message with any question or comments, we'l
 early-application-date: 2017-11-15 00:00:00 Z
 quote-1: "“I saw firsthand what TMU had done for my brother ACADEMICALLY, ATHLETICALLY
   and SPIRITUALLY. So, choosing TMU myself became an easy decision.” - Jason Karkenny "
+blurb1-text: 
 Txt Snippet: "The Master's University equips young Christian men and women for spiritual
   service and leadership - on the job, in the home, and through their ministries.
   \nEvery class we teach and every degree we confer stand on the foundation of God's
@@ -40,6 +41,7 @@ app-deadlines:
   red-text: MAR 3+ 2018
 quote-2: "“And then,” she said, “I went to IBEX.” Madi Cole (‘18) talks about her
   semester in Israel "
+blurb2-text: 
 layout: undgradadmiss
 ---
 
