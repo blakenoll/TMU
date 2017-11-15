@@ -27,10 +27,9 @@ var tipuesearch_replace = {'words': [
 // Weighting
 
 var tipuesearch_weight = {'weight': [
-     {'url': '/academics/undergraduate/bible', 'score': 1000},
-     {'url': '/admissions/undergrad/', 'score': 1000},
-     {'url': '/academic-calendar.html', 'score': 1000},
-     {'url': '/calendar.html', 'score': 1001},
+     {'url': 'http://www.tipue.com', 'score': 20},
+     {'url': 'http://www.tipue.com/search', 'score': 30},
+     {'url': 'http://www.tipue.com/is', 'score': 10}
 ]};
 
 
@@ -78,3 +77,4 @@ var tipuesearch_string_15 = 'Searches related to';
 // Timer for showTime
 
 var startTimer = new Date().getTime();
+
