@@ -1,6 +1,7 @@
 ---
 title: Visit
 permalink: "/visit/index.html"
+published: false
 position: 4
 View-The-U-body: |-
   ## View The U
