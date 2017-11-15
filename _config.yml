@@ -259,7 +259,7 @@ tipue_search:
   include:
     pages: true
     collections:
-    - undergrad admissions
+    - undergrad-admissions
     - departments
     - gradprograms
     - studentlife
