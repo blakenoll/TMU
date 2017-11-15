@@ -1,6 +1,7 @@
 ---
-title: Student Response to Tuition Drop
+title: Standing Ovation by Student for Tuition Slash
 date: 2017-11-13 22:06:00 Z
+sm-image: "/uploads/tuitionslash.jpg"
 ---
 
 **On Friday, Nov. 10 at The Master’s University, every student and staff member in chapel stood and applauded, shed tears of thankfulness and grabbed their phones to text both parents and friends.** 
@@ -17,7 +18,11 @@ Karen Sanchez, a transfer student from College of the Canyons and second semeste
 	
 “I believe the Lord is calling me to teach English overseas,” said first semester senior Deborah Grindle. “I have to get a TESOL degree, still have some general education credits I need to fulfill because of units not transferring over from College of the Canyons, and there was no way I was going to be able to finish that in my final semester, let alone come back an additional semester because of the cost. I can do that now if I have to, and this announcement couldn’t have come at a more perfect time.” 
 
-Students texted friends about the announcement, encouraging them to come back to Master’s because it is now financially feasible. The parents of Matthew Logan, class of 2019, celebrated as their son broke the news over the phone. 
+Students texted friends about the announcement, encouraging them to come back to Master’s because it is now financially feasible. The parents of Matthew Logan, class of 2019, celebrated as their son broke the news over the phone right after chapel. 
+
+Sara Williams, TMU sophomore, expressed “it was a crazy answer to prayer, and I’ll be able to finish my education here because of it. . .” 
+
+That weekend, Williams proceeded to tell her church during their announcements before the sermon — finances to finish at Master’s had been a long-term prayer request that had now been answered. A family approached her afterward and expressed their utter surprise and excitement, it meant that their daughter could now better afford to go to Master’s as well. 
 
 “I know one friend was looking at places to transfer last night because of how expensive it was,” another student said. “My friend after chapel expressed how excited she is because, now, that’s no longer the case.” 
 	
@@ -27,4 +32,4 @@ Dr. Kevin Hill, dean of faculty, expressed his own excitement at the student res
 
 > “We would like everyone who would like to be here to have a better shot,” MacArthur concluded in chapel.
 
-**Now they can.** 
+**Now they do.** 

@@ -2,6 +2,7 @@
 title: Benjamin Foreman
 date: 2017-05-02 17:35:00 Z
 job-title: Assistant Professor of Biblical Studies, IBEX
+image: "/uploads/DSC_0184.jpg"
 department: Bible
 degrees:
 - B.A., Bible Exposition, The Master’s College
