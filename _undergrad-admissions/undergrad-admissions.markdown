@@ -38,30 +38,30 @@ app-deadlines:
 - text: 'Early Action: No application fee; admission decision within 2-3 weeks'
   red-text: MAR 3+ 2018
 blurb2-text:
-- text: |2
-     #1 “Right Choice” University, 2 years in a row (Wall Street Journal)
+- |-
+  #1 “Right Choice” University, 2 years in a row (Wall Street Journal)
 
-     #1 CPA Exam Pass Rate (NASBA)
+   #1 CPA Exam Pass Rate (NASBA)
 
-     #4 Best Student-Teacher Ratio 12:1 (US News)
+   #4 Best Student-Teacher Ratio 12:1 (US News)
 
-     TOP 35 Best Universities (US Regional West)
+   TOP 35 Best Universities (US Regional West)
 
-     TOP 10 U.S. law schools accepting TMU graduates
+   TOP 10 U.S. law schools accepting TMU graduates
 
-     TOP 15 Best Value schools in the U.S. (US News 2017)
+   TOP 15 Best Value schools in the U.S. (US News 2017)
 
-     100% Teaching graduates employed (2017)
+   100% Teaching graduates employed (2017)
 
-     100% Business graduates employed (2017)
+   100% Business graduates employed (2017)
 
-     95% Medical School acceptance
+   95% Medical School acceptance
 
-     TOP 8% Scoring on ETS-MFT business exam
+   TOP 8% Scoring on ETS-MFT business exam
 
-     TOP 20 best U.S. Colleges for veterans (US News 2017)
+   TOP 20 best U.S. Colleges for veterans (US News 2017)
 
-     TOP 80 colleges (Forbes 2017, US West)
+   TOP 80 colleges (Forbes 2017, US West)
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
 layout: undgradadmiss
