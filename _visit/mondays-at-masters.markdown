@@ -9,6 +9,7 @@ image: "/images/Mondays@Masters_960x540.jpg"
 banner-image: "/images/Mondays@Masters_1920x500.jpg"
 button-txt: Register
 button-link: http://www.masters.edu/visit/#mondays
+layout: visit-sub-page
 ---
 
 # Mondays @ Master’s
