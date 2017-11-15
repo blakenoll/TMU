@@ -1,6 +1,5 @@
 ---
 title: Total Cost Calculator
-published: false
 sm-image: "/uploads/AdmissionFinAid_TotalCostCalculator.png"
 ---
 
