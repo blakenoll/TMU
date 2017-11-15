@@ -17,13 +17,12 @@ have-a-question-text: Send us a text message with any question or comments, we'l
 early-application-date: 2017-11-15 00:00:00 Z
 quote-1: "“I saw firsthand what TMU had done for my brother ACADEMICALLY, ATHLETICALLY
   and SPIRITUALLY. So, choosing TMU myself became an easy decision.” - Jason Karkenny "
-blurb1-text: 
-Txt Snippet: "The Master's University equips young Christian men and women for spiritual
+blurb1-text: "The Master's University equips young Christian men and women for spiritual
   service and leadership - on the job, in the home, and through their ministries.
-  \nEvery class we teach and every degree we confer stand on the foundation of God's
-  Word. Our students acquire knowledge from a Biblical perspective, filtering everything
-  they learn through the lens of God's Word. In other words, they gain wisdom to serve
-  and wisdom to lead."
+  \n\\\nEvery class we teach and every degree we confer stand on the foundation of
+  God's Word. Our students acquire knowledge from a Biblical perspective, filtering
+  everything they learn through the lens of God's Word. In other words, they gain
+  wisdom to serve and wisdom to lead."
 upcoming-events-text: The things that make The Master’s University so special can’t
   be experienced on your computer. You’ve got to see it for yourself! If you’re curious
   about the University, your next step should be to schedule a tour.
