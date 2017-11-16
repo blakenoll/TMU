@@ -20,15 +20,10 @@ quote-1: "The Master's University equips young Christian men and women for spiri
   Every class we teach and every degree we confer stand on the foundation of God's
   Word. Our students acquire knowledge from a Biblical perspective, filtering everything
   they learn through the lens of God's Word. In other words, they gain wisdom to serve
-  and wisdom to lead.\n\n“I saw firsthand what TMU had done for my brother academically,
-  athletically  and spiritually. So, choosing TMU myself became an easy decision.”
-  \n- Jason Karkenny ('17)"
-blurb1-text: "> The Master's University equips young Christian men and women for spiritual
-  service and leadership - in their careers,  in their homes, and through their ministries.
-  Every class we teach and every degree we confer stand on the foundation of God's
-  Word. Our students acquire knowledge from a Biblical perspective, filtering everything
-  they learn through the lens of God's Word. In other words, they gain wisdom to serve
-  and wisdom to lead."
+  and wisdom to lead.\n\n"
+blurb1-text: "> “I saw firsthand what TMU had done for my brother academically, athletically
+  \ and spiritually. So, choosing TMU myself became an easy decision.” \n\\\n> - Jason
+  Karkenny ('17)"
 blurb2-text: "> Why are TMU graduates in such high demand? We can’t keep up with the
   requests from satisfied employers for more of our graduates.\n> \n>\n> * #1 “Right
   Choice” University, 2 years in a row (Wall Street Journal)\n>\n> * #1 CPA Exam Pass
