@@ -38,12 +38,11 @@ upcoming-events-text: "The things that make The Master’s University so special
   Los Angeles) can be experienced via a personal visit for a custom tour, a group
   visit with your family and friends, or in one of the many open-days.  Let us know
   when you are coming, we're excited to welcome you!"
-counselor-text: "Our admissions counselors are amazing! \n\nYou want a life-changing
-  TMU education, so we make sure your counselor will guide you along through every
-  step  of the way to get there. Your counselor is knowledgeable in all areas of the
-  university, so can provide you with fast, insightful, practical help. Select your
-  state to see who your counselor is and you can even watch their intro video to learn
-  more about them."
+counselor-text: |-
+  Our admissions counselors are amazing!
+
+
+  You want a life-changing TMU education, so we make sure your counselor will guide you along through every step  of the way to get there. Your counselor is knowledgeable in all areas of the university, so can provide you with fast, insightful, practical help. Select your state to see who your counselor is - and you can even watch their intro video to learn more about them.
 app-deadlines:
 - text: |-
     * 2017 ADMISSION
@@ -63,28 +62,21 @@ app-deadlines:
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
 Field name: |-
+  Why are TMU graduates in such high demand? We can’t keep up with the requests from satisfied employers for more of our graduates.
+
   #1 “Right Choice” University, 2 years in a row (Wall Street Journal)
-
   #1 CPA Exam Pass Rate (NASBA)
-
   #4 Best Student-Teacher Ratio 12:1 (US News)
-
+  162% Salary Growth for business alumni (CA residents, 10 year progression)
+  100+ Career Paths offered across 13 Majors
   TOP 35 Best Universities (US Regional West)
-
   TOP 10 U.S. law schools accepting TMU graduates
-
   TOP 15 Best Value schools in the U.S. (US News 2017)
-
   100% Teaching graduates employed (2017)
-
   100% Business graduates employed (2017)
-
   95% Medical School acceptance
-
   TOP 8% Scoring on ETS-MFT business exam
-
   TOP 20 best U.S. Colleges for veterans (US News 2017)
-
   TOP 80 colleges (Forbes 2017, US West)
 layout: undgradadmiss
 ---
