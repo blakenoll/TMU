@@ -81,7 +81,7 @@ schedule:
     location: MacArthur Center
 speakers:
 - name: John MacArthur
-  image: 
+  image: "/uploads/MacArthur,John_300x400.jpg"
   bio-text: |-
     John MacArthur is the pastor-teacher of [Grace Community Church](http://www.gracechurch.org/ "Grace Community Church") in Sun Valley, California, as well as an author, conference speaker, president of [The Master’s University](http://www.masters.edu/ "The Master's University") and [Seminary](http://www.tms.edu/ "The Master's Seminary"), and featured teacher with the Grace to You media ministry.\
     \
@@ -97,7 +97,7 @@ speakers:
     \
     John and his wife, Patricia, live in Southern California and have four married children. They also enjoy the enthusiastic company of their fifteen grandchildren.
 - name: Steve Lawson
-  image: 
+  image: "/uploads/Lawson,Steve_300x400.jpg"
   bio-text: |-
     Dr. Steven J. Lawson is President and founder of OnePassion Ministries, a ministry designed to equip biblical expositors to bring about a new reformation in the church. Dr. Lawson hosts The Institute for Expository Preaching in cities around the world. Dr. Lawson is also a Teaching Fellow for Ligonier Ministries, where he serves on its board. Moreover, he is Professor of Preaching and oversees the Doctor of Ministry program at The Master’s Seminary, where he also serves on its board. Dr. Lawson is also Professor in Residence for Truth Remains, a work designed to promote and proclaim God’s written Word. Further, Dr. Lawson serves as the Executive Editor for Expositor Magazine published by OnePassion Ministries.\
     \
@@ -107,7 +107,7 @@ speakers:
     \
     Dr. Lawson and his wife, Anne, have three sons, Andrew, James, and John, and a daughter, Grace Anne.*
 - name: Tom Pennington
-  image: 
+  image: "/uploads/Pennington,Tom_300x400.jpg"
   bio-text: |-
     Tom Pennington has served as Pastor-Teacher at Countryside Bible Church since October 2003. Prior to arriving in Texas, he served 16 years at Grace Community Church in Sun Valley, California, including as an elder. He spent his last four years there as Senior Associate Pastor and as personal assistant to John MacArthur. Prior to that, he served as Managing Director of Grace to You, overseeing the day-to-day operations of the international radio, tape, publications, and internet ministry.\
     \
