@@ -18,20 +18,42 @@ early-application-date: 2017-12-15 00:00:00 Z
 quote-1: "“I saw firsthand what TMU had done for my brother academically, athletically
   \ and spiritually. So, choosing TMU myself became an easy decision.” \n- Jason Karkenny
   ('17)"
-blurb1-text: |-
-  The Master's University equips young Christian men and women for spiritual service and leadership - on the job, in the home, and through their ministries.
+blurb1-text: The Master's University equips young Christian men and women for spiritual
+  service and leadership - in their careers,  in their homes, and through their ministries.
+  Every class we teach and every degree we confer stand on the foundation of God's
+  Word. Our students acquire knowledge from a Biblical perspective, filtering everything
+  they learn through the lens of God's Word. In other words, they gain wisdom to serve
+  and wisdom to lead.
+blurb2-text: |-
+  Why are TMU graduates in such high demand? We can’t keep up with the requests from satisfied employers for more of our graduates.
 
-  Every class we teach and every degree we confer stand on the foundation of God's Word. Our students acquire knowledge from a Biblical perspective, filtering everything they learn through the lens of God's Word. In other words, they gain wisdom to serve and wisdom to lead.
-blurb2-text: "Why are TMU graduates in such high demand? We can’t keep up with the
-  requests from satisfied employers for more of our graduates. \n\n#1 “Right Choice”
-  University, 2 years in a row (Wall Street Journal)\n#1 CPA Exam Pass Rate (NASBA)\n#4
-  Best Student-Teacher Ratio 12:1 (US News)\n162% Salary Growth for business alumni
-  (CA residents, 10 year progression)\n100+ Career Paths offered across 13 Majors\nTOP
-  35 Best Universities (US Regional West)\nTOP 10 U.S. law schools accepting TMU graduates\nTOP
-  15 Best Value schools in the U.S. (US News 2017)\n100% Teaching graduates employed
-  (2017)\n100% Business graduates employed (2017)\n95% Medical School acceptance\nTOP
-  8% Scoring on ETS-MFT business exam\nTOP 20 best U.S. Colleges for veterans (US
-  News 2017)\nTOP 80 colleges (Forbes 2017, US West)"
+  * #1 “Right Choice” University, 2 years in a row (Wall Street Journal)
+
+  * #1 CPA Exam Pass Rate (NASBA)
+
+  * #4 Best Student-Teacher Ratio 12:1 (US News)
+
+  * 162% Salary Growth for business alumni (CA residents, 10 year progression)
+
+  * 100\+ Career Paths offered across 13 Majors
+
+  * TOP 35 Best Universities (US Regional West)
+
+  * TOP 10 U.S. law schools accepting TMU graduates
+
+  * TOP 15 Best Value schools in the U.S. (US News 2017)
+
+  * 100% Teaching graduates employed (2017)
+
+  * 100% Business graduates employed (2017)
+
+  * 95% Medical School acceptance
+
+  * TOP 8% Scoring on ETS-MFT business exam
+
+  * TOP 20 best U.S. Colleges for veterans (US News 2017)
+
+  * TOP 80 colleges (Forbes 2017, US West)
 upcoming-events-text: "The things that make The Master’s University so special can’t
   be experienced on your computer....You’ve got to see it for yourself! \n\nOur beautiful,
   ranch-style campus nestled in the Southern-California canyon (just 30 miles from
@@ -44,20 +66,13 @@ counselor-text: |-
 
   You want a life-changing TMU education, so we make sure your counselor will guide you along through every step  of the way to get there. Your counselor is knowledgeable in all areas of the university, so can provide you with fast, insightful, practical help. Select your state to see who your counselor is - and you can even watch their intro video to learn more about them.
 app-deadlines:
-- text: |-
-    * 2017 ADMISSION
-
-    * receive admission decision for Fall 2018 before the end of 2017
-
-    * NEW reduced tuition structure
+- text: '2017 ADMISSION: receive admission decision for Fall 2018 before the end of
+    2017. NEW reduced tuition structure'
   red-text: DEC 15, 2017
-- text: |-
-    * PRIORITY DECISION
-    * Receive full consideration for the Fall 2018 semester
+- text: 'PRIORITY DECISION: Receive full consideration for the Fall 2018 semester'
   red-text: FEB 23, 2018
-- text: |-
-    * ROLLING ADMISSIONS
-    * We continue to accept applications but cannot guarantee consideration for Fall 2018
+- text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
+    consideration for Fall 2018'
   red-text: After FEB 23, 2018
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
