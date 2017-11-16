@@ -683,6 +683,35 @@ continuing-merit:
     * The Shamrock Foundation Grant was established in honor of Pearl S. and D. Arthur Wismer by their family. In addition to being wonderful parents, Pearl was a devoted elementary school teacher for over 50 years, and Arthur was an exemplary role model in all business matters.
   document-text: '[Shamrock Foundation Grant Application](file:///uploads/Forms-%20Application-%20Shamrock%202018-19.pdf
     "Forms- Application- Shamrock 2017-18.pdf")'
+continuing-need-based:
+- amount: Varies
+  award-text: |-
+    The Master's University Grant
+
+    * Awarded to students based on academic achievement and financial need. The student must be enrolled full-time at The Master's University and have a minimum GPA of 2.0.
+  document-text: "[FAFSA](http://www.fafsa.ed.gov)"
+- amount: Varies
+  award-text: |-
+    International Student Grant
+
+    * Awarded to new and continuing international student based on financial need and academic achievement.
+
+    * Please contact the International Student Office for more information.
+  document-text: See International Student Office
+- amount: Up to $3,000
+  award-text: |-
+    Christian Ministry Dependent
+
+    * Awarded to full-time students demonstrating need, who are dependents of full-time Christian ministry personnel who provide the family's primary support and whose ministries are consistent with the mission of TMU.
+  document-text: '[Christian Ministry Dependent Application](file:///media/868498/forms-application-cmd.pdf
+    "Forms- Application- CMD.pdf")'
+- amount: "$1,000"
+  award-text: |-
+    John R. Dunkin Alumni Scholarship
+
+    * Available for the dependent children of graduates (with bachelor's degree conferred) of Los Angeles Baptist College or The Master's College/University. The applicant must demonstrate financial need, be attending TMU full time and have a minimum cumulative GPA of 2.0.
+  document-text: '[John R. Dunkin Alumni Scholarship Application](file:///media/868327/dunkin-alumni-scholarship.pdf
+    "Dunkin Alumni Scholarship.pdf")'
 layout: gunderfin
 ---
 
