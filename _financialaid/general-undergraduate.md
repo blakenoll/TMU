@@ -1,6 +1,6 @@
 ---
 title: General Undergraduate
-published: false
+published: true
 sm-image: "/uploads/AdmissionFinAid_GeneralUndergrad.png"
 new-transfer-student-body: |-
   <h2 id="C7">Scholarships - New/Transfer Students</h2>
@@ -1058,4 +1058,3 @@ Federal-aid:
   amount: "$3,000 0r $6,000"
 layout: gunderfin
 ---
-

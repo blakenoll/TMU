@@ -21,11 +21,70 @@ layout: default
      <ul class="collapsible" data-collapsible="accordion">
        <li>
          <div class="collapsible-header">New/Transfer Student</div>
-         <div class="collapsible-body"><span>{{ page.new-transfer-student-body | markdownify }}</span></div>
+         <div class="collapsible-body"><span>{{ page.new-transfer-student-body | markdownify }}</span>
+           <h1>Merit Based scholorships</h1>
+           <table class="striped">
+             <thead>
+               <th>Award</th>
+               <th>Amount</th>
+               <th>Documents Needed</th>
+             </thead>
+             <tbody>
+               {% for item in page.scholorships-new-transfer %}
+               <tr>
+                 <td>{{item.award-text | markdownify }}</td>
+                 <td>{{item.amount}}</td>
+                 <td>{{item.document-text | markdownify }}</td>
+               </tr>
+
+               {% endfor %}
+             </tbody>
+           </table>
+           <h1>Need-Based scholorships</h1>
+           <table class="striped">
+             <thead>
+               <th>Award</th>
+               <th>Amount</th>
+               <th>Documents Needed</th>
+             </thead>
+             <tbody>
+               {% for item in page.needs-based %}
+               <tr>
+                 <td>{{item.award-text | markdownify }}</td>
+                 <td>{{item.amount}}</td>
+                 <td>{{item.document-text | markdownify }}</td>
+               </tr>
+
+               {% endfor %}
+             </tbody>
+           </table>
+           <h1>Federal Aid scholorships</h1>
+           <table class="striped">
+             <thead>
+               <th>Award</th>
+               <th>Amount</th>
+               <th>Documents Needed</th>
+             </thead>
+             <tbody>
+               {% for item in page.Federal-aid %}
+                 <td>{{item.award-text | markdownify }}</td>
+                 <td>{{item.amount}}</td>
+                 <td>{{item.document-text | markdownify }}</td>
+               </tr>
+
+               {% endfor %}
+             </tbody>
+           </table>
+         </div>
        </li>
        <li>
          <div class="collapsible-header">Continuing Students</div>
-         <div class="collapsible-body"><span>{{ page.continuing-students-body | markdownify }}</span></div>
+         <div class="collapsible-body">
+           <span>
+             {{ page.continuing-students-body | markdownify }}
+
+
+         </span></div>
        </li>
        <li>
          <div class="collapsible-header">Endowed Scholarships</div>
