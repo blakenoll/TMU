@@ -13,7 +13,7 @@ tags:
 - application
 - deadline
 have-a-question-text: Send us a text message with any question or comments, we'll
-  write you back! Prefer by email? Write us at admissions@masters.edu
+  write you back! Prefer by email? Write us at <strong>admissions@masters.edu<strong>
 early-application-date: 2017-12-15 00:00:00 Z
 quote-1: "“I saw firsthand what TMU had done for my brother academically, athletically
   \ and spiritually. So, choosing TMU myself became an easy decision.”  - Jason Karkenny
