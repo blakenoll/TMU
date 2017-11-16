@@ -40,6 +40,7 @@ layout: default
                {% endfor %}
              </tbody>
            </table>
+           <br>
            <h1>Need-Based scholorships</h1>
            <table class="striped">
              <thead>
@@ -58,6 +59,7 @@ layout: default
                {% endfor %}
              </tbody>
            </table>
+           <br>
            <h1>Federal Aid scholorships</h1>
            <table class="striped">
              <thead>
@@ -67,6 +69,7 @@ layout: default
              </thead>
              <tbody>
                {% for item in page.Federal-aid %}
+               <tr>
                  <td>{{item.award-text | markdownify }}</td>
                  <td>{{item.amount}}</td>
                  <td>{{item.document-text | markdownify }}</td>
@@ -80,11 +83,64 @@ layout: default
        <li>
          <div class="collapsible-header">Continuing Students</div>
          <div class="collapsible-body">
-           <span>
              {{ page.continuing-students-body | markdownify }}
+             <h1>Merit Based scholorships</h1>
+             <table class="striped">
+               <thead>
+                 <th>Award</th>
+                 <th>Amount</th>
+                 <th>Documents Needed</th>
+               </thead>
+               <tbody>
+                 {% for item in page.continuing-merit %}
+                 <tr>
+                   <td>{{item.award-text | markdownify }}</td>
+                   <td>{{item.amount}}</td>
+                   <td>{{item.document-text | markdownify }}</td>
+                 </tr>
 
+                 {% endfor %}
+               </tbody>
+             </table>
+             <br>
+             <h1>Need-based scholorships</h1>
+             <table class="striped">
+               <thead>
+                 <th>Award</th>
+                 <th>Amount</th>
+                 <th>Documents Needed</th>
+               </thead>
+               <tbody>
+                 {% for item in page.continuing-need-based %}
+                 <tr>
+                   <td>{{item.award-text | markdownify }}</td>
+                   <td>{{item.amount}}</td>
+                   <td>{{item.document-text | markdownify }}</td>
+                 </tr>
 
-         </span></div>
+                 {% endfor %}
+               </tbody>
+             </table>
+             <br>
+             <h1>Federal Aid scholorships</h1>
+             <table class="striped">
+               <thead>
+                 <th>Award</th>
+                 <th>Amount</th>
+                 <th>Documents Needed</th>
+               </thead>
+               <tbody>
+                 {% for item in page.Federal-aid %}
+                 <tr>
+                   <td>{{item.award-text | markdownify }}</td>
+                   <td>{{item.amount}}</td>
+                   <td>{{item.document-text | markdownify }}</td>
+                 </tr>
+
+                 {% endfor %}
+               </tbody>
+             </table>
+         </div>
        </li>
        <li>
          <div class="collapsible-header">Endowed Scholarships</div>
