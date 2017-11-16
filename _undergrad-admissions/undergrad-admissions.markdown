@@ -18,36 +18,6 @@ early-application-date: 2017-12-15 00:00:00 Z
 quote-1: "“I saw firsthand what TMU had done for my brother academically, athletically
   \ and spiritually. So, choosing TMU myself became an easy decision.”  - Jason Karkenny
   ('17)\n\n"
-blurb2-text: |-
-  Why are TMU graduates in such high demand? We can’t keep up with the requests from satisfied employers for more of our graduates.
-
-  * # `#1 “Right Choice” University, 2 years in a row (Wall Street Journal)`
-
-  * # `#1 CPA Exam Pass Rate (NASBA)`
-
-  * # `#4 Best Student-Teacher Ratio 12:1 (US News)`
-
-  * # `162% Salary Growth for business alumni (CA residents, 10 year progression)`
-
-  * # `100+ Career Paths offered across 13 Majors`
-
-  * # `TOP 35 Best Universities (US Regional West)`
-
-  * # `TOP 10 U.S. law schools accepting TMU graduates`
-
-  * # `TOP 15 Best Value schools in the U.S. (US News 2017)`
-
-  * # `100% Teaching graduates employed (2017)`
-
-  * # `100% Business graduates employed (2017)`
-
-  * # `95% Medical School acceptance`
-
-  * # `TOP 8% Scoring on ETS-MFT business exam`
-
-  * # `TOP 20 best U.S. Colleges for veterans (US News 2017)`
-
-  * # `TOP 80 colleges (Forbes 2017, US West)`
 blurb1-text: "The Master's University equips young Christian men and women for spiritual
   service and leadership - in their careers,  in their homes, and through their ministries.
   Every class we teach and every degree we confer stand on the foundation of God's
@@ -56,6 +26,42 @@ blurb1-text: "The Master's University equips young Christian men and women for s
   and wisdom to lead.\n\n> \n> “I saw firsthand what TMU had done for my brother academically,
   athletically  and spiritually. So, choosing TMU myself became an easy decision.”
   \ - Jason Karkenny ('17)"
+blurb2-text: |-
+  Why are TMU graduates in such high demand? We can’t keep up with the requests from satisfied employers for more of our graduates.
+
+  * #1 “Right Choice” University, 2 years in a row (Wall Street Journal)
+
+  * #1 CPA Exam Pass Rate (NASBA)
+
+  * #4 Best Student-Teacher Ratio 12:1 (US News)
+
+  * 162% Salary Growth for business alumni (CA residents, 10 year progression)
+
+  * 100\+ Career Paths offered across 13 Majors
+
+  * TOP 35 Best Universities (US Regional West)
+
+  * TOP 10 U.S. law schools accepting TMU graduates
+
+  * TOP 15 Best Value schools in the U.S. (US News 2017)
+
+  * 100% Teaching graduates employed (2017)
+
+  * 100% Business graduates employed (2017)
+
+  * 95% Medical School acceptance
+
+  * TOP 8% Scoring on ETS-MFT business exam
+
+  * TOP 20 best U.S. Colleges for veterans (US News 2017)
+
+  * TOP 80 colleges (Forbes 2017, US West)
+
+  | First name | Last name   | Age |
+  | ---------- | ----------- | --- |
+  | Jonnie     | Hallman     | 26  |
+  | Larry      | Fox         | 15  |
+  | Sawyer     | Hollenshead | 14  |
 upcoming-events-text: "The things that make The Master’s University so special can’t
   be experienced on your computer....You’ve got to see it for yourself! \n\nOur beautiful,
   ranch-style campus nestled in the Southern-California canyon (just 30 miles from
