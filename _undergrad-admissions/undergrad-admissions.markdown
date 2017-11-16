@@ -54,9 +54,8 @@ blurb2-text: |-
 
   * TOP 80 colleges (Forbes 2017, US West)
 
-  | First name | Last name   | Age |
-  | ---------- | ----------- | --- |
-  | Jonnie     | Hallman     | 26  |
+
+  | #1         | “Right Choice” University, 2 years in a row | Wall Street Journal |
   | Larry      | Fox         | 15  |
   | Sawyer     | Hollenshead | 14  |
 upcoming-events-text: "The things that make The Master’s University so special can’t
