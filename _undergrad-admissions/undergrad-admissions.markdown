@@ -23,23 +23,7 @@ blurb1-text: "The Master's University equips young Christian men and women for s
   and wisdom to lead.\n\n> \n> “I saw firsthand what TMU had done for my brother academically,
   athletically  and spiritually. So, choosing TMU myself became an easy decision.”
   \ - Jason Karkenny ('17)"
-blurb2-text: |
-  Why are TMU graduates in such high demand? We can’t keep up with the requests from satisfied employers for more of our graduates.
-
-  > |#1     | “Right Choice” University, Wall Street Journal (2016-2017)
-  > |#1     | CPA Exam Pass Rate (NASBA)
-  > |#4     | Best Student-Teacher Ratio (12:1) US News
-  > |162%   | Salary Growth, business alumni (CA residents) 10 year progression
-  > |100+   | Career Paths offered, 13 Majors
-  > |TOP 35 | Best Universities, US Regional West
-  > |TOP 10 | U.S. law schools (TMU graduate acceptance)
-  > |TOP 15 | Best Value schools in the U.S., US News 2017
-  > |100%   | 2017 employment, teaching majors
-  > |100%   | 2017 employment, business majors
-  > |95%    | Acceptance rate, medical school
-  > |TOP 8% | Scoring on ETS-MFT business exam
-  > |TOP 20 | best colleges for veterans, US News 2017
-  > |TOP 80 | colleges, Forbes 2017 (US West)
+blurb2-text: 
 upcoming-events-text: |-
   The things that make The Master’s University so special can’t be experienced on your computer....You’ve got to see it for yourself!
   | |
@@ -59,36 +43,17 @@ app-deadlines:
   red-text: After FEB 23, 2018
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
-Field name: |-
-  Why are TMU graduates in such high demand? We can’t keep up with the requests from satisfied employers for more of our graduates.
-
-  #1 “Right Choice” University, 2 years in a row (Wall Street Journal)
-
-  #1 CPA Exam Pass Rate (NASBA)
-
-  #4 Best Student-Teacher Ratio 12:1 (US News)
-
-  162% Salary Growth for business alumni (CA residents, 10 year progression)
-
-  100+ Career Paths offered across 13 Majors
-
-  TOP 35 Best Universities (US Regional West)
-
-  TOP 10 U.S. law schools accepting TMU graduates
-
-  TOP 15 Best Value schools in the U.S. (US News 2017)
-
-  100% Teaching graduates employed (2017)
-
-  100% Business graduates employed (2017)
-
-  95% Medical School acceptance
-
-  TOP 8% Scoring on ETS-MFT business exam
-
-  TOP 20 best U.S. Colleges for veterans (US News 2017)
-
-  TOP 80 colleges (Forbes 2017, US West)
+Field name: "Why are TMU graduates in such high demand? We can’t keep up with the
+  requests from satisfied employers for more of our graduates.\n\n> |#1     | “Right
+  Choice” University, Wall Street Journal (2016-2017) \n> |#1     | CPA Exam Pass
+  Rate (NASBA)\n> |#4     | Best Student-Teacher Ratio (12:1) US News\n> |162%   |
+  Salary Growth, business alumni (CA residents) 10 year progression\n> |100+   | Career
+  Paths offered, 13 Majors\n> |TOP 35 | Best Universities, US Regional West\n> |TOP
+  10 | U.S. law schools (TMU graduate acceptance)\n> |TOP 15 | Best Value schools
+  in the U.S., US News 2017\n> |100%   | 2017 employment, teaching majors\n> |100%
+  \  | 2017 employment, business majors\n> |95%    | Acceptance rate, medical school\n>
+  |TOP 8% | Scoring on ETS-MFT business exam\n> |TOP 20 | best colleges for veterans,
+  US News 2017\n> |TOP 80 | colleges, Forbes 2017 (US West)\n"
 quote-1: 
 layout: undgradadmiss
 ---
