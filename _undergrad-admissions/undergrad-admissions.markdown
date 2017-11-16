@@ -22,22 +22,29 @@ blurb1-text: |-
   The Master's University equips young Christian men and women for spiritual service and leadership - on the job, in the home, and through their ministries.
 
   Every class we teach and every degree we confer stand on the foundation of God's Word. Our students acquire knowledge from a Biblical perspective, filtering everything they learn through the lens of God's Word. In other words, they gain wisdom to serve and wisdom to lead.
-upcoming-events-text: The things that make The Master’s University so special can’t
-  be experienced on your computer. You’ve got to see it for yourself! If you’re curious
-  about the University, your next step should be to schedule a tour.
-counselor-text: |-
-  We invite all students considering admission for Fall 2018 to begin the application process now. Don’t miss out on a life-changing TMU education–complete your application as soon as possible!
-
-
-  Find your admissions counselor below to guide you along that process.
+upcoming-events-text: "The things that make The Master’s University so special can’t
+  be experienced on your computer....You’ve got to see it for yourself! \n\nOur beautiful,
+  ranch-style campus nestled in the Southern-California canyon (just 30 miles from
+  Los Angeles) can be experienced via a personal visit for a custom tour, a group
+  visit with your family and friends, or in one of the many open-days.  Let us know
+  when you are coming, we're excited to welcome you!"
+counselor-text: "Our admissions counselors are amazing! \n\nYou want a life-changing
+  TMU education, so we make sure your counselor will guide you along through every
+  step  of the way to get there. Your counselor is knowledgeable in all areas of the
+  university, so can provide you with fast, insightful, practical help. Select your
+  state to see who your counselor is and you can even watch their intro video to learn
+  more about them."
 app-deadlines:
-- text: '2017 Admission: receive admission decision before the end of the year. **NEW
-    **reduced tuition structure.'
+- text: "* 2017 ADMISSION\n* receive admission decision before the end of the year
+    \n* NEW reduced tuition structure"
   red-text: DEC 15, 2017
-- text: 'Priority Decision: Receive full consideration for the Fall 2018 semester'
+- text: |-
+    * PRIORITY DECISION
+    * Receive full consideration for the Fall 2018 semester
   red-text: FEB 23, 2018
-- text: 'Rolling admissions: We continue to accept applications but cannot guarantee
-    consideration for Fall 2018'
+- text: |-
+    * ROLLING ADMISSIONS
+    * We continue to accept applications but cannot guarantee consideration for Fall 2018
   red-text: After FEB 23, 2018
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
