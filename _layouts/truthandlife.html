@@ -17,18 +17,30 @@ layout: default
     </div>
   </div>
   <div class="row">
-    <div class="col s12 m8">
+    <!-- <div class="col s12 m8">
       {{ content }}
-    </div>
+    </div> -->
     <div class="col s12 m4">
       <h1>Speakers</h1>
       {% for speaker in page.speakers %}
-      <div class=" col s12 valign-warpper">
-        <div class="s4">
+      <div class=" col s12 valign-wrapper">
+        <!-- <div class="col s4">
+          <img src="{{speaker.image}}" alt="" width="100%" class="circle">
+        </div> -->
+        <div class="col s8">
+          <!-- Modal Trigger -->
+          <a class="modal-trigger" href="#{{speaker.name | remove: ' ' }}">{{speaker.name}}</a>
 
-        </div>
-        <div class="s8">
-          {{ speaker.name}}
+          <!-- Modal Structure -->
+          <div id="{{speaker.name | remove: ' ' }}" class="modal">
+            <div class="modal-content">
+              <h4>{{speaker.name}}</h4>
+              <p>{{speaker.bio-text | markdownify }}</p>
+            </div>
+            <div class="modal-footer">
+              <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+            </div>
+          </div>
         </div>
       </div>
       {% endfor %}
