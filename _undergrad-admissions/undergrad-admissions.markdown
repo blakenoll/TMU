@@ -22,6 +22,16 @@ blurb1-text: |-
   The Master's University equips young Christian men and women for spiritual service and leadership - on the job, in the home, and through their ministries.
 
   Every class we teach and every degree we confer stand on the foundation of God's Word. Our students acquire knowledge from a Biblical perspective, filtering everything they learn through the lens of God's Word. In other words, they gain wisdom to serve and wisdom to lead.
+blurb2-text: "Why are TMU graduates in such high demand? We can’t keep up with the
+  requests from satisfied employers for more of our graduates. \n\n#1 “Right Choice”
+  University, 2 years in a row (Wall Street Journal)\n#1 CPA Exam Pass Rate (NASBA)\n#4
+  Best Student-Teacher Ratio 12:1 (US News)\n162% Salary Growth for business alumni
+  (CA residents, 10 year progression)\n100+ Career Paths offered across 13 Majors\nTOP
+  35 Best Universities (US Regional West)\nTOP 10 U.S. law schools accepting TMU graduates\nTOP
+  15 Best Value schools in the U.S. (US News 2017)\n100% Teaching graduates employed
+  (2017)\n100% Business graduates employed (2017)\n95% Medical School acceptance\nTOP
+  8% Scoring on ETS-MFT business exam\nTOP 20 best U.S. Colleges for veterans (US
+  News 2017)\nTOP 80 colleges (Forbes 2017, US West)"
 upcoming-events-text: "The things that make The Master’s University so special can’t
   be experienced on your computer....You’ve got to see it for yourself! \n\nOur beautiful,
   ranch-style campus nestled in the Southern-California canyon (just 30 miles from
@@ -35,8 +45,12 @@ counselor-text: "Our admissions counselors are amazing! \n\nYou want a life-chan
   state to see who your counselor is and you can even watch their intro video to learn
   more about them."
 app-deadlines:
-- text: "* 2017 ADMISSION\n* receive admission decision before the end of the year
-    \n* NEW reduced tuition structure"
+- text: |-
+    * 2017 ADMISSION
+
+    * receive admission decision for Fall 2018 before the end of 2017
+
+    * NEW reduced tuition structure
   red-text: DEC 15, 2017
 - text: |-
     * PRIORITY DECISION
@@ -72,11 +86,10 @@ Field name: |-
   TOP 20 best U.S. Colleges for veterans (US News 2017)
 
   TOP 80 colleges (Forbes 2017, US West)
-blurb2-text: 
 layout: undgradadmiss
 ---
 
-# Now Accepting Applications for Fall 2018
+# YOUR FUTURE AND CAREER STARTS FALL '18
 
 The Master's University invites students considering admission for Fall 2018 to begin the application process now.
 
