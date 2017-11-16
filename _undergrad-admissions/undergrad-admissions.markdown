@@ -55,8 +55,8 @@ blurb2-text: |-
   * TOP 80 colleges (Forbes 2017, US West)
 
 
-  | #1         | “Right Choice” University, 2 years in a row | Wall Street Journal |
-  | #1         | CPA Exam Pass Rate                          | NASBA               |
+  > |    #1      | “Right Choice” University, 2 years in a row | Wall Street Journal |
+  > |    #1      | CPA Exam Pass Rate                          | NASBA               |
   | Sawyer     | Hollenshead | 14  |
 upcoming-events-text: "The things that make The Master’s University so special can’t
   be experienced on your computer....You’ve got to see it for yourself! \n\nOur beautiful,
