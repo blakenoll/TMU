@@ -1,6 +1,5 @@
 ---
 title: General Undergraduate
-published: false
 sm-image: "/uploads/AdmissionFinAid_GeneralUndergrad.png"
 new-transfer-student-body: |-
   <h2 id="C7">Scholarships - New/Transfer Students</h2>
@@ -1045,17 +1044,37 @@ needs-based:
   document-text: '[Pastor and Missionary Dependent Grant Application](/media/868500/forms-application-pmd-17-18.pdf
     "Forms- Application- PMD 17-18.pdf")'
 Federal-aid:
-- document-text: |-
+- award-text: |-
+    Cal Grant
+
+    * Awarded to low and middle income California residents and is based on need and GPA. The student must be enrolled in at least a two year program. Annual application is required.
+
+    * Additional documentation is required. Applicant must have submitted GPA verification (via the Registrar's Office at their high school or college). Click [here](http://www.masters.edu/financial-aid/generalundergraduateprogram/calgrant/) for more information.
+
+    * Deadline: March 2
+  amount: Up to $9,223
+  document-text: |-
     [GPA Verification Form](http://www.csac.ca.gov/doc.asp?id=1177)\
     \
     [FAFSA](http://www.fafsa.ed.gov/)
-  amount: Up to $9,223
-- document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
-  amount: Up to $5,920
-- document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
-  amount: Up to $1,000
-- document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
-  amount: "$3,000 0r $6,000"
+- amount: Up to $5,920
+  document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
+  award-text: |-
+    Pell Grant
+
+    * Federal program based on need.
+
+    * Please note that Pell Grant cannot be used at multiple schools simultaneously.
+- amount: Up to $1,000
+  document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
+  award-text: |-
+    Supplemental Education Opportunity Grant
+
+    * Federal program based on need. The student must also be eligible for Pell Grant (see above).
+- amount: "$3,000 0r $6,000"
+  document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
+  award-text: Federal Work Study Program
+Field name: 
 layout: gunderfin
 ---
 
