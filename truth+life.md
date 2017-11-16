@@ -32,7 +32,7 @@ schedule:
     location: Various Locations
   - time: 11:45-1:30pm
     event: Lunch Break
-    location: 
+    location:
   - time: "7:00-8:30pm\t"
     event: 'Main Session III: TOM PENNINGTON'
     location: 'MacArthur Center '
@@ -55,7 +55,7 @@ schedule:
     location: Various Locations
   - time: "11:45-1:30pm\t"
     event: Lunch Break
-    location: 
+    location:
   - time: 5:30-7:00pm
     event: "Alumni Dinner Event\t"
     location: Music Recital Hall
@@ -72,7 +72,7 @@ schedule:
   events:
   - time: 9:00am-11:00am
     event: 'The Master’s 5k '
-    location: 
+    location:
   - time: "12:00-2:00pm\t"
     event: Alumni Baseball Game
     location: Reese Field
@@ -81,7 +81,7 @@ schedule:
     location: MacArthur Center
 speakers:
 - name: John MacArthur
-  image: 
+  image:
   bio-text: |-
     John MacArthur is the pastor-teacher of [Grace Community Church](http://www.gracechurch.org/ "Grace Community Church") in Sun Valley, California, as well as an author, conference speaker, president of [The Master’s University](http://www.masters.edu/ "The Master's University") and [Seminary](http://www.tms.edu/ "The Master's Seminary"), and featured teacher with the Grace to You media ministry.\
     \
@@ -97,7 +97,7 @@ speakers:
     \
     John and his wife, Patricia, live in Southern California and have four married children. They also enjoy the enthusiastic company of their fifteen grandchildren.
 - name: Steve Lawson
-  image: 
+  image:
   bio-text: |-
     Dr. Steven J. Lawson is President and founder of OnePassion Ministries, a ministry designed to equip biblical expositors to bring about a new reformation in the church. Dr. Lawson hosts The Institute for Expository Preaching in cities around the world. Dr. Lawson is also a Teaching Fellow for Ligonier Ministries, where he serves on its board. Moreover, he is Professor of Preaching and oversees the Doctor of Ministry program at The Master’s Seminary, where he also serves on its board. Dr. Lawson is also Professor in Residence for Truth Remains, a work designed to promote and proclaim God’s written Word. Further, Dr. Lawson serves as the Executive Editor for Expositor Magazine published by OnePassion Ministries.\
     \
@@ -107,13 +107,12 @@ speakers:
     \
     Dr. Lawson and his wife, Anne, have three sons, Andrew, James, and John, and a daughter, Grace Anne.*
 - name: Tom Pennington
-  image: 
+  image:
   bio-text: |-
     Tom Pennington has served as Pastor-Teacher at Countryside Bible Church since October 2003. Prior to arriving in Texas, he served 16 years at Grace Community Church in Sun Valley, California, including as an elder. He spent his last four years there as Senior Associate Pastor and as personal assistant to John MacArthur. Prior to that, he served as Managing Director of Grace to You, overseeing the day-to-day operations of the international radio, tape, publications, and internet ministry.\
     \
     Tom completed his B.A. and M.A. at Bob Jones University and served as a member of the faculty while taking additional Ph.D. classes in New Testament Interpretation. In 2013, he received an honorary Doctor of Divinity (D.D.) from The Master’s College.\
     \
     Tom's role at Countryside includes teaching during the Sunday services, overseeing the church staff, and working with the rest of the elders to provide leadership to the entire church. Tom’s teaching ministry is featured on The Word Unleashed®. In addition to his role as Pastor-Teacher, he is actively involved internationally in training pastors in expository preaching. Tom and his wife, Sheila, have three children, Lauren, Katie, and Jessica.
-layout: default
+layout: truthandlife
 ---
-
