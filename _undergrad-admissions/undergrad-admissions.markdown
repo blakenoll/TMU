@@ -31,12 +31,14 @@ counselor-text: |-
 
   Find your admissions counselor below to guide you along that process.
 app-deadlines:
-- text: 'Early Action: No application fee; admission decision within 2-3 weeks'
-  red-text: NOV 15, 2017
-- text: 'Early Action: No application fee; admission decision within 2-3 weeks'
-  red-text: MAR 2, 2018
-- text: 'Early Action: No application fee; admission decision within 2-3 weeks'
-  red-text: MAR 3+ 2018
+- text: '2017 Admission: receive admission decision before the end of the year. **NEW**
+    reduced tuition structure.'
+  red-text: DEC 15, 2017
+- text: 'Priority Decision: Receive full consideration for the Fall 2018 semester'
+  red-text: FEB 23, 2018
+- text: 'Rolling admissions: We continue to accept applications but cannot guarantee
+    consideration for Fall 2018'
+  red-text: After FEB 23, 2018
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
 Field name: |-
