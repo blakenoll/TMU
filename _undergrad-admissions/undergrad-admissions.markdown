@@ -31,8 +31,8 @@ counselor-text: |-
 
   Find your admissions counselor below to guide you along that process.
 app-deadlines:
-- text: '2017 Admission: receive admission decision before the end of the year. **NEW**
-    reduced tuition structure.'
+- text: '2017 Admission: receive admission decision before the end of the year. **NEW
+    **reduced tuition structure.'
   red-text: DEC 15, 2017
 - text: 'Priority Decision: Receive full consideration for the Fall 2018 semester'
   red-text: FEB 23, 2018
