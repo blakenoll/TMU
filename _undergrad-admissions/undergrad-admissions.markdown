@@ -26,20 +26,20 @@ blurb1-text: "The Master's University equips young Christian men and women for s
 blurb2-text: |
   Why are TMU graduates in such high demand? We can’t keep up with the requests from satisfied employers for more of our graduates.
 
-  > *|  |#1     | “Right Choice” University      | Wall Street Journal 2016-2017     |
-  > *|  |#1     | CPA Exam Pass Rate             | NASBA                             |
-  > *|  |#4     | Best Student-Teacher Ratio     | 12:1, US News                     |
-  > *|  |162%   | Salary Growth, business alumni | CA residents, 10 year progression |
-  > *|  |100+   | Career Paths offered           | 13 Majors                         |
-  > *|  |TOP 35 | Best Universities              | US Regional West                  |
-  > *|  |TOP 10 | U.S. law schools               | TMU graduate acceptance           |
-  > *|  |TOP 15 | Best Value schools in the U.S. | US News 2017                      |
-  > *|  |100%   | 2017 employment                | Teaching majors                   |
-  > *|  |100%   | 2017 employment                | Business majors                   |
-  > *|  |95%    | Acceptance rate                | Medical School                    |
-  > *|  |TOP 8% | Scoring on ETS-MFT business exam
-  > *|  |TOP 20 | best colleges for veterans     | US News 2017                      |
-  > *|  |TOP 80 | colleges                       |Forbes 2017, US West               |
+  > |#1     | “Right Choice” University, Wall Street Journal (2016-2017)
+  > |#1     | CPA Exam Pass Rate (NASBA)
+  > |#4     | Best Student-Teacher Ratio (12:1) US News
+  > |162%   | Salary Growth, business alumni (CA residents) 10 year progression
+  > |100+   | Career Paths offered, 13 Majors
+  > |TOP 35 | Best Universities, US Regional West
+  > |TOP 10 | U.S. law schools (TMU graduate acceptance)
+  > |TOP 15 | Best Value schools in the U.S., US News 2017
+  > |100%   | 2017 employment, teaching majors
+  > |100%   | 2017 employment, business majors
+  > |95%    | Acceptance rate, medical school
+  > |TOP 8% | Scoring on ETS-MFT business exam
+  > |TOP 20 | best colleges for veterans, US News 2017
+  > |TOP 80 | colleges, Forbes 2017 (US West)
 upcoming-events-text: |-
   The things that make The Master’s University so special can’t be experienced on your computer....You’ve got to see it for yourself!
   ||
