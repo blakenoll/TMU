@@ -1044,6 +1044,18 @@ needs-based:
   amount: "$5,000"
   document-text: '[Pastor and Missionary Dependent Grant Application](/media/868500/forms-application-pmd-17-18.pdf
     "Forms- Application- PMD 17-18.pdf")'
+Federal-aid:
+- document-text: |-
+    [GPA Verification Form](http://www.csac.ca.gov/doc.asp?id=1177)\
+    \
+    [FAFSA](http://www.fafsa.ed.gov/)
+  amount: Up to $9,223
+- document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
+  amount: Up to $5,920
+- document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
+  amount: Up to $1,000
+- document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
+  amount: "$3,000 0r $6,000"
 layout: gunderfin
 ---
 
