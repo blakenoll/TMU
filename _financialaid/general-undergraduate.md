@@ -1,5 +1,6 @@
 ---
 title: General Undergraduate
+published: false
 sm-image: "/uploads/AdmissionFinAid_GeneralUndergrad.png"
 new-transfer-student-body: |-
   # Scholarships - New/Transfer Students
@@ -714,3 +715,4 @@ continuing-need-based:
     "Dunkin Alumni Scholarship.pdf")'
 layout: gunderfin
 ---
+
