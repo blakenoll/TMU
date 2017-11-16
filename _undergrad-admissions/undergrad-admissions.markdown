@@ -20,7 +20,7 @@ quote-1: "The Master's University equips young Christian men and women for spiri
   Every class we teach and every degree we confer stand on the foundation of God's
   Word. Our students acquire knowledge from a Biblical perspective, filtering everything
   they learn through the lens of God's Word. In other words, they gain wisdom to serve
-  and wisdom to lead.\n“I saw firsthand what TMU had done for my brother academically,
+  and wisdom to lead.\n\n“I saw firsthand what TMU had done for my brother academically,
   athletically  and spiritually. So, choosing TMU myself became an easy decision.”
   \n- Jason Karkenny ('17)"
 blurb1-text: "> The Master's University equips young Christian men and women for spiritual
