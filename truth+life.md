@@ -114,6 +114,6 @@ speakers:
     Tom completed his B.A. and M.A. at Bob Jones University and served as a member of the faculty while taking additional Ph.D. classes in New Testament Interpretation. In 2013, he received an honorary Doctor of Divinity (D.D.) from The Master’s College.
 
     Tom's role at Countryside includes teaching during the Sunday services, overseeing the church staff, and working with the rest of the elders to provide leadership to the entire church. Tom’s teaching ministry is featured on The Word Unleashed®. In addition to his role as Pastor-Teacher, he is actively involved internationally in training pastors in expository preaching. Tom and his wife, Sheila, have three children, Lauren, Katie, and Jessica.
-layout: default
+layout: truthandlife
 ---
 
