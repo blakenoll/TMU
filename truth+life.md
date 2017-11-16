@@ -32,7 +32,7 @@ schedule:
     location: Various Locations
   - time: 11:45-1:30pm
     event: Lunch Break
-    location:
+    location: 
   - time: "7:00-8:30pm\t"
     event: 'Main Session III: TOM PENNINGTON'
     location: 'MacArthur Center '
@@ -55,7 +55,7 @@ schedule:
     location: Various Locations
   - time: "11:45-1:30pm\t"
     event: Lunch Break
-    location:
+    location: 
   - time: 5:30-7:00pm
     event: "Alumni Dinner Event\t"
     location: Music Recital Hall
@@ -72,7 +72,7 @@ schedule:
   events:
   - time: 9:00am-11:00am
     event: 'The Master’s 5k '
-    location:
+    location: 
   - time: "12:00-2:00pm\t"
     event: Alumni Baseball Game
     location: Reese Field
@@ -116,3 +116,4 @@ speakers:
     Tom's role at Countryside includes teaching during the Sunday services, overseeing the church staff, and working with the rest of the elders to provide leadership to the entire church. Tom’s teaching ministry is featured on The Word Unleashed®. In addition to his role as Pastor-Teacher, he is actively involved internationally in training pastors in expository preaching. Tom and his wife, Sheila, have three children, Lauren, Katie, and Jessica.
 layout: truthandlife
 ---
+
