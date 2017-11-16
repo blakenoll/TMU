@@ -15,9 +15,6 @@ tags:
 have-a-question-text: Send us a text message with any question or comments, we'll
   write you back! Prefer by email? Write us at admissions@masters.edu
 early-application-date: 2017-12-15 00:00:00 Z
-quote-1: "“I saw firsthand what TMU had done for my brother academically, athletically
-  \ and spiritually. So, choosing TMU myself became an easy decision.”  - Jason Karkenny
-  ('17)\n\n"
 blurb1-text: "The Master's University equips young Christian men and women for spiritual
   service and leadership - in their careers,  in their homes, and through their ministries.
   Every class we teach and every degree we confer stand on the foundation of God's
@@ -114,6 +111,7 @@ Field name: |-
   TOP 20 best U.S. Colleges for veterans (US News 2017)
 
   TOP 80 colleges (Forbes 2017, US West)
+quote-1: 
 layout: undgradadmiss
 ---
 
