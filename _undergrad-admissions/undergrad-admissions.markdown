@@ -23,7 +23,6 @@ blurb1-text: "The Master's University equips young Christian men and women for s
   and wisdom to lead.\n\n> \n> “I saw firsthand what TMU had done for my brother academically,
   athletically  and spiritually. So, choosing TMU myself became an easy decision.”
   \ - Jason Karkenny ('17)"
-blurb2-text: 
 upcoming-events-text: |-
   The things that make The Master’s University so special can’t be experienced on your computer....You’ve got to see it for yourself!
   | |
@@ -54,6 +53,7 @@ Field name: "Why are TMU graduates in such high demand? We can’t keep up with 
   \  | 2017 employment, business majors\n> |95%    | Acceptance rate, medical school\n>
   |TOP 8% | Scoring on ETS-MFT business exam\n> |TOP 20 | best colleges for veterans,
   US News 2017\n> |TOP 80 | colleges, Forbes 2017 (US West)\n"
+blurb2-text: 
 quote-1: 
 layout: undgradadmiss
 ---
