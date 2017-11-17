@@ -8,7 +8,7 @@ date-text: |-
 image: "/images/Mondays@Masters_960x540.jpg"
 banner-image: "/images/Mondays@Masters_1920x500.jpg"
 button-txt: Register
-button-link: http://www.masters.edu/visit/#mondays
+button-link: https://masters.tfaforms.net/217729
 layout: visit-sub-page
 ---
 
