@@ -3,7 +3,7 @@ title: Mike Jackson
 date: 2017-07-11 19:26:00 Z
 name: Mike Jackson
 email: mjackson@masters.edu
-phone: 16613622606
+phone: 1 (661) 362-2606
 video: |-
   <iframe src="https://player.vimeo.com/video/188209243" width="640" height="360"
       frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>

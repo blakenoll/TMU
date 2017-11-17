@@ -25,7 +25,7 @@ forms-body: |-
 
   Spring Semester December 31
 
-  ### [New Student Health Record](https://www.masters.edu/media/870270/new-student-health-record-081617.pdf)
+  ### [New Student Health Record](/uploads/New%20Student%20Health%20Record%20Nov.%202017.pdfhttp://)
 
   ### [Immunization Waiver](https://www.masters.edu/media/869955/immunization-waiver.pdf)
 

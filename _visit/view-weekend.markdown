@@ -6,6 +6,7 @@ image: "/images/ViewWeekend_960x540.jpg"
 banner-image: "/images/ViewWeekend_1920x500.jpg"
 button-txt: Register
 button-link: http://www.masters.edu/visit/#view
+preview-text: View Weekend
 layout: visit-sub-page
 ---
 

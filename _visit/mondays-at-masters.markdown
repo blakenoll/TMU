@@ -9,6 +9,7 @@ image: "/images/Mondays@Masters_960x540.jpg"
 banner-image: "/images/Mondays@Masters_1920x500.jpg"
 button-txt: Register
 button-link: https://masters.tfaforms.net/217729
+preview-text: Mondays @ Master's
 layout: visit-sub-page
 ---
 
