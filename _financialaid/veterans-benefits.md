@@ -1,6 +1,5 @@
 ---
 title: Veterans Benefits
-published: false
 sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 ---
 
@@ -15,7 +14,7 @@ sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 <li>Complete the Admissions Process</li>
 <li>Obtain your “Certificate of Eligibility” from the Department of Veterans Affairs and provide a copy to the Office of Financial Aid.</li>
 <li>Complete <a href="/media/869351/forms-application-faa.pdf" target="_blank" title="Forms- Application- FAA.pdf">The Master’s University Financial Aid Application</a></li>
-<li>Complete the <a href="http://www.fafsa.ed.gov/" target="blank"">Free Application for Federal Student Aid</a></li>
+<li>Complete the <a href="http://www.fafsa.ed.gov/" target="blank">Free Application for Federal Student Aid</a></li>
 <li>If selected for a process called “Verification” by the Federal government additional documents may be requested (i.e. 1040 tax forms, W-2’s, Verification Worksheet, Schedule C, etc).  Please visit our <a href="http://www.masters.edu/financial-aid/verification-process" target="_blank">Verification page</a> for detailed instructions on this process.</li>
 </ol>
 <h3>Types of Aid Available</h3>
@@ -44,7 +43,7 @@ sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 <p><span class="boldText">Tuition Benefit:</span></p>
 <ul>
 <li>• $22,805 per year</li>
-<li>• Fall Term VA will pay tuition and fees, Spring Term VA will pay the remaining difference of Fall payment and $22,805. (Total Tuition $32,600– VA Benefit $22,805= $9,795. Yellow Ribbon= $4,897.50, TMU institutional aid= $4,897.50. Total Aid =$32,600).</li>
+<li>• Fall Term VA will pay tuition and fees, Spring Term VA will pay the remaining difference of Fall payment and $22,805. (Total Tuition $24,950– VA Benefit $22,805= $2,145. Yellow Ribbon= $1,072.50, TMU institutional aid= $1072.50. Total Aid =$24,950).</li>
 </ul>
 <p><span class="boldText">BAH (Basic Allowance for Housing):</span></p>
 <ul>
