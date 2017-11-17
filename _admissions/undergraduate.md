@@ -1,73 +1,96 @@
 ---
 title: Undergraduate
 position: 0
-apply-body: "## YOUR FUTURE AND CAREER STARTS FALL ‘18\n\nThe Master’s University
-  invites students considering admission for Fall 2018 to begin the application process
-  now.\n\nThe admissions committee carefully works with every applicant through every
-  step, ensuring that The Master’s University is indeed the right school for you.
-  There is application paperwork to complete, but let us help do it with you - from
-  walking through the application package with you, to helping you with financial
-  aid requests, making helpful recommendations, to welcoming you on campus. We want
-  you to experience the world-class standards of TMU from the first step.\n\nWe look
-  forward to meeting you!\n\nHave a Question?\n**call**: 661.362.2363 | **text**:
-  661.748.0266 | **write**: admissions@masters.edu\n\n## Extended Early Application!\n\n##
-  Celebrating our lowered tuition, we’ll waive application fees until December 15\n\nThe
-  Master’s University equips young Christian men and women for spiritual service and
-  leadership - in their careers, in their homes, and through their ministries. Every
-  class we teach and every degree we confer stand on the foundation of God’s Word.
-  Our students acquire knowledge from a Biblical perspective, filtering everything
-  they learn through the lens of God’s Word. In other words, they gain wisdom to serve
-  and wisdom to lead.\n\n> ***“I saw firsthand what TMU had done for my brother academically,
-  athletically and spiritually. So, choosing TMU myself became an easy decision.”
-  - Jason Karkenny (‘17)***\n\n## Option 1: Apply Online\n\n#### Application Checklist:\n\n[Online
-  Application](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB)\n\n*
-  In order to apply online, you'll create an \"account\" first (so you can save and
-  return to your application), before being able to complete the various sections
-  of the online application. Once an application is submitted, the applicant cannot
-  go back and change the application.\n\n* Personal Statements (Part of Online Application)\n\n*
-  The Master's University requires two personal statements as part of the application
-  (approx. 300-500 words each), so plan accordingly.\n\n[Pay Application Fee](https://www.formstack.com/forms/masters-application_fee_credit_card_processing)
-  (Fall Students extension waived until Dec. 15). Fee is refundable by May 1st for
-  Fall 2018 applicants\n\nPastor Recommendation Form. \n\n* Must be completed by non-relative
-  within applicant’s church. Form can be filled out by Head Pastor, Associate Pastor,
-  Youth Pastor, or Elder. Form can be sent directly to pastor from application by
-  inputting the pastor’s email address when requested, otherwise it is the applicants
-  responsibility to email their pastor the link to the form.\n\nOfficial Transcripts\n\n*
-  Applicant must request transcripts from current or most recent school. \n\n* Transcripts
-  can be emailed to [admissions@masters.edu](mailto:admissions@masters.edu) or mailed
-  directly to the Office of Admissions at 21726 Placerita Canyon Rd., Newhall, CA
-  91321\n\nACT or SAT scores (waived for transfer applicants)\n\n* To send your ACT
-  scores click [here](http://www.act.org/content/act/en/products-and-services/the-act/your-scores/send-your-scores.html)\n\n*
-  To send your SAT scores click [here](https://account.collegeboard.org/login/login?idp=ECL&appId=115&DURL=https%3A//nsat.collegeboard.org/satweb/login.jsp&affiliateId=aru%7Canypage&bannerId=ht%7Cnsat-send)\n\nCollege
-  Board Code for The Master’s University - 4411\n\nRead the [Doctrinal Statement](/about)
-  and [Student Handbook](http://www.masters.edu/handbook).\n\n#### Freshman/Transfer
-  Qualification\n\n**Freshman:** Students entering TMU the Fall directly after graduating
-  in the Spring are considered freshman. Students entering TMU with less than 24 college
-  level units completed are also considered freshman, with freshman scholarships available.\n\n**Transfer:**
-  Any student who has been out of high school for at least one semester, and has completed
-  a minimum of 24 college level units, is considered a transfer. If a student has
-  24 college level units, and is entering TMU the Fall directly after graduating in
-  the Spring they will not be considered a Transfer.\n\n## Option 2: Download Application
-  Documents (pdf format)\n\nIf you prefer to download and print your TMU Application
-  for Admission, rather than completing it online, you may download all the application
-  components [here](/downloads).\n\n## International Students\n\nPlease visit our
-  <a href=\"http://www.masters.edu/admissions/#intl\" target=\"_blank\">International
-  Student Application Page</a> for detailed information about how to apply.\n\n##
-  Application Deadlines\\*\\* for Fall 2018:\\*\\*\n\n**Extended Early Application
-  & 2017 Admission – December 15:**\nReceive admission decision for Fall 2018 before
-  the end of 2017\nThanks to the NEW reduced tuition structure, we also extend our
-  application fee waiver until Dec. 15.\n\n**Priority Decision – February 23, 2018:**\nReceive
-  full consideration for the Fall 2018 semester, applicants should complete their
-  admissions and financial aid applications by February 23.\n\n**Rolling Admissions
-  – After February 23, 2018:**\nWe continue to accept applications but cannot guarantee
-  consideration for Fall 2018\n\n## Already Applied? Check your application status
-  online!\n\n[Click here](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB)
-  to check the status of your online application in real time.\n\nIf you've been admitted
-  and have decided that TMU is the place for you, secure your spot today by submitting
-  your $200 tuition/housing deposit [here](https://www.formstack.com/forms/masters-new_student_deposit_payment
-  \"Undergrad Deposit Form\"). The deposit is fully refundable until May 1."
+apply-body: |-
+  ## YOUR FUTURE AND CAREER STARTS FALL ‘18
+
+  The Master’s University invites students considering admission for Fall 2018 to begin the application process now.
+
+  The admissions committee carefully works with every applicant through every step, ensuring that The Master’s University is indeed the right school for you. There is application paperwork to complete, but let us help do it with you - from walking through the application package with you, to helping you with financial aid requests, making helpful recommendations, to welcoming you on campus. We want you to experience the world-class standards of TMU from the first step.
+
+  We look forward to meeting you!
+
+  Have a Question?
+  **call**: 661.362.2363 | **text**: 661.748.0266 | **write**: admissions@masters.edu
+
+  ## Extended Early Application!
+
+  ## Celebrating our lowered tuition, we’ll waive application fees until December 15
+
+  The Master’s University equips young Christian men and women for spiritual service and leadership - in their careers, in their homes, and through their ministries. Every class we teach and every degree we confer stand on the foundation of God’s Word. Our students acquire knowledge from a Biblical perspective, filtering everything they learn through the lens of God’s Word. In other words, they gain wisdom to serve and wisdom to lead.
+
+  > ***“I saw firsthand what TMU had done for my brother academically, athletically and spiritually. So, choosing TMU myself became an easy decision.” - Jason Karkenny (‘17)***
+
+  ## Option 1: Apply Online
+
+  #### Application Checklist:
+
+  [1. Online Application](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB)
+
+     In order to apply online, you'll create an "account" first (so you can save and return to your application), before being able to complete the various sections of the online application. Once an application is submitted, the applicant cannot go back and change the application.
+
+     Personal Statements (Part of Online Application)
+
+     The Master's University requires two personal statements as part of the application (approx. 300-500 words each), so plan accordingly.
+
+  [Pay Application Fee](https://www.formstack.com/forms/masters-application_fee_credit_card_processing) (Fall Students extension waived until Dec. 15). Fee is refundable by May 1st for Fall 2018 applicants
+
+  Pastor Recommendation Form.
+
+  * Must be completed by non-relative within applicant’s church. Form can be filled out by Head Pastor, Associate Pastor, Youth Pastor, or Elder. Form can be sent directly to pastor from application by inputting the pastor’s email address when requested, otherwise it is the applicants responsibility to email their pastor the link to the form.
+
+  Official Transcripts
+
+  * Applicant must request transcripts from current or most recent school.
+
+  * Transcripts can be emailed to [admissions@masters.edu](mailto:admissions@masters.edu) or mailed directly to the Office of Admissions at 21726 Placerita Canyon Rd., Newhall, CA 91321
+
+  ACT or SAT scores (waived for transfer applicants)
+
+  * To send your ACT scores click [here](http://www.act.org/content/act/en/products-and-services/the-act/your-scores/send-your-scores.html)
+
+  * To send your SAT scores click [here](https://account.collegeboard.org/login/login?idp=ECL&appId=115&DURL=https%3A//nsat.collegeboard.org/satweb/login.jsp&affiliateId=aru%7Canypage&bannerId=ht%7Cnsat-send)
+
+  College Board Code for The Master’s University - 4411
+
+  Read the [Doctrinal Statement](/about) and [Student Handbook](http://www.masters.edu/handbook).
+
+  #### Freshman/Transfer Qualification
+
+  **Freshman:** Students entering TMU the Fall directly after graduating in the Spring are considered freshman. Students entering TMU with less than 24 college level units completed are also considered freshman, with freshman scholarships available.
+
+  **Transfer:** Any student who has been out of high school for at least one semester, and has completed a minimum of 24 college level units, is considered a transfer. If a student has 24 college level units, and is entering TMU the Fall directly after graduating in the Spring they will not be considered a Transfer.
+
+  ## Option 2: Download Application Documents (pdf format)
+
+  If you prefer to download and print your TMU Application for Admission, rather than completing it online, you may download all the application components [here](/downloads).
+
+  ## International Students
+
+  Please visit our <a href="http://www.masters.edu/admissions/#intl" target="_blank">International Student Application Page</a> for detailed information about how to apply.
+
+  ## Application Deadlines for Fall 2018:
+
+  **Extended Early Application & 2017 Admission – December 15:**
+  Receive admission decision for Fall 2018 before the end of 2017
+  Thanks to the NEW reduced tuition structure, we also extend our application fee waiver until Dec. 15.
+
+  **Priority Decision – February 23, 2018:**
+  Receive full consideration for the Fall 2018 semester, applicants should complete their admissions and financial aid applications by February 23.
+
+  **Rolling Admissions – After February 23, 2018:**
+  We continue to accept applications but cannot guarantee consideration for Fall 2018
+
+  ## Already Applied? Check your application status online!
+
+  [Click here](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB) to check the status of your online application in real time.
+
+  If you've been admitted and have decided that TMU is the place for you, secure your spot today by submitting your $200 tuition/housing deposit [here](https://www.formstack.com/forms/masters-new_student_deposit_payment "Undergrad Deposit Form"). The deposit is fully refundable until May 1.
 intl:
-  step1-body: Apply
+  step1-body: |-
+    Apply.
+
+    Complete your application online or download the PDF option. Submit your application.
   step2-body: |-
     ### 1. Request Transcripts
 
