@@ -1,6 +1,5 @@
 ---
 title: Veterans Benefits
-published: false
 sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 ---
 
