@@ -27,31 +27,31 @@ apply-body: |-
 
   **[Online Application](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB)**
 
-  - In order to apply online, you'll create an "account" first (so you can save and return to your application), before being able to complete the various sections of the online application. Once an application is submitted, the applicant cannot go back and change the application.
+  * In order to apply online, you'll create an "account" first (so you can save and return to your application), before being able to complete the various sections of the online application. Once an application is submitted, the applicant cannot go back and change the application.
 
-  - Personal Statements (Part of Online Application)
+  * Personal Statements (Part of Online Application)
 
-  - The Master's University requires two personal statements as part of the application (approx. 300-500 words each), so plan accordingly.
+  * The Master's University requires two personal statements as part of the application (approx. 300-500 words each), so plan accordingly.
 
   **[Pay Application Fee ](https://www.formstack.com/forms/masters-application_fee_credit_card_processing)**(Fall Students extension waived until Dec. 15). Fee is refundable by May 1st for Fall 2018 applicants
 
   **Pastor Recommendation Form**
 
-  - Must be completed by non-relative within applicant’s church. Form can be filled out by Head Pastor, Associate Pastor, Youth Pastor, or Elder. Form can be sent directly to pastor from application by inputting the pastor’s email address when requested, otherwise it is the applicants responsibility to email their pastor the link to the form.
+  * Must be completed by non-relative within applicant’s church. Form can be filled out by Head Pastor, Associate Pastor, Youth Pastor, or Elder. Form can be sent directly to pastor from application by inputting the pastor’s email address when requested, otherwise it is the applicants responsibility to email their pastor the link to the form.
 
   **Official Transcripts**
 
-  - Applicant must request transcripts from current or most recent school.
+  * Applicant must request transcripts from current or most recent school.
 
-  - Transcripts can be emailed to [admissions@masters.edu](mailto:admissions@masters.edu) or mailed directly to the *Office of Admissions at 21726 Placerita Canyon Rd., Newhall, CA 91321*
+  * Transcripts can be emailed to [admissions@masters.edu](mailto:admissions@masters.edu) or mailed directly to the *Office of Admissions at 21726 Placerita Canyon Rd., Newhall, CA 91321*
 
   **ACT or SAT scores** (waived for transfer applicants)
 
-  - To send your ACT scores click [here](http://www.act.org/content/act/en/products-and-services/the-act/your-scores/send-your-scores.html)
+  * To send your ACT scores click [here](http://www.act.org/content/act/en/products-and-services/the-act/your-scores/send-your-scores.html)
 
-  - To send your SAT scores click [here](https://account.collegeboard.org/login/login?idp=ECL&appId=115&DURL=https%3A//nsat.collegeboard.org/satweb/login.jsp&affiliateId=aru%7Canypage&bannerId=ht%7Cnsat-send)
+  * To send your SAT scores click [here](https://account.collegeboard.org/login/login?idp=ECL&appId=115&DURL=https%3A//nsat.collegeboard.org/satweb/login.jsp&affiliateId=aru%7Canypage&bannerId=ht%7Cnsat-send)
 
-  - College Board Code for The Master’s University: **4411**
+  * College Board Code for The Master’s University: **4411**
 
   **Read** the [Doctrinal Statement](/about) and [Student Handbook](http://www.masters.edu/handbook).
 
