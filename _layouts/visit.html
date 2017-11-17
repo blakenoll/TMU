@@ -16,16 +16,18 @@ layout: default
   <div class="col s12 l8" style="padding: 0px;">
     <img src="{{item.banner-image}}" alt="{{item.title}}" class="responsive-img">
   </div>
-  <div class="col s12 l4">
+  <div class="col s12 l4" style="padding-left: 30px;">
     <div class="card-content">
       {{item.title}}
-      <h2>Dates:</h2>
-      <div class="no-line-spacing">
-        {{item.date-text | markdownify}}
-      </div>
+
     </div>
 
     <div class="spacing">
+      <h4>Dates:</h4>
+      <div class="no-line-spacing">
+        {{item.date-text | markdownify}}
+        <br>
+      </div>
       <a href="{{item.button-link}}" class="btn btn-navy">{{item.button-txt}}</a>
       <a href="{{item.url}}" class="btn btn-gold">More Info</a>
     </div>

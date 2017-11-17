@@ -40,9 +40,8 @@ layout: default
           </div>
         </div>
         <div class="col s12 m6 center">
-          <h1>2017 Decision?</h1>
-          <h1>We’ll give your admissions decision before the end of the year! </h1>
-          <h1>Due by {{ page.early-application-date | date: '%B %d'}}:</h1>
+          <h1>Extended Early Application!</h1>
+          <h1>Celebrating our lowered tuition, we’ll waive application fees until {{ page.early-application-date | date: '%B %d'}}</h1>
           <a href="https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB" class="btn btn-navy">Apply</a>
         </div>
       </div>
@@ -83,19 +82,22 @@ layout: default
         <div class="col s12">
           {% for item in site.visit %}
           {% if item.title != 'Visit' %}
-          <div class="col s12 m12 l4">
-            <div class="card hoverable">
-              <div class="card-image">
-                <img src="{{ item.image }}">
-              </div>
-              <div class="card-content">
-                {{ item.date-text | markdownify }}
-              </div>
-              <div class="card-action">
-                <a href="{{ item.button-link }}">{{ item.button-txt }}</a>
+
+            <div class="col s12 m12 l4">
+              <div class="card hoverable">
+                <div class="card-image">
+                  <img src="{{ item.image }}">
+                </div>
+                <div class="card-content">
+                  {{ item.date-text | markdownify }}
+                </div>
+                <div class="card-action">
+                  <a href="{{ item.url }}">{{ item.button-txt }}</a>
+                </div>
               </div>
             </div>
-          </div>
+
+
           {% endif %}
           {% endfor %}
         </div>
