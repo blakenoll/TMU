@@ -44,7 +44,7 @@ sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 <p><span class="boldText">Tuition Benefit:</span></p>
 <ul>
 <li>• $22,805 per year</li>
-<li>• Fall Term VA will pay tuition and fees, Spring Term VA will pay the remaining difference of Fall payment and $22,805. (Total Tuition $32,600– VA Benefit $22,805= $9,795. Yellow Ribbon= $4,897.50, TMU institutional aid= $4,897.50. Total Aid =$32,600).</li>
+<li>• Fall Term VA will pay tuition and fees, Spring Term VA will pay the remaining difference of Fall payment and $22,805. (Total Tuition $24,950– VA Benefit $22,805= $2,145. Yellow Ribbon= $1,072.5, TMU institutional aid= $1072.5. Total Aid =$24,950).</li>
 </ul>
 <p><span class="boldText">BAH (Basic Allowance for Housing):</span></p>
 <ul>
