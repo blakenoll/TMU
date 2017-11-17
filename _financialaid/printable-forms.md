@@ -63,18 +63,7 @@ Undergraduate Financial Aid Forms and Scholarships
 
 [Federal Verification Worksheet 2018-19](/uploads/Forms-%20MI-%20FVW%2018-19.pdf)
 
-[Christian Ministry Dependent Grant](http://www.masters.edu/media/868498/forms-application-cmd.pdf "Forms- Application- CMD.pdf")
-
 [Pastor and Missionary Dependent Grant](http://www.masters.edu/media/868500/forms-application-pmd-17-18.pdf "Forms- Application- PMD 17-18.pdf")
-
-[John Dunkin Alumni Scholarship Application Form](http://www.masters.edu/media/868327/dunkin-alumni-scholarship.pdf "Dunkin Alumni Scholarship.pdf")
-
-[Ministry Matching Grant Application](http://www.masters.edu/media/869687/forms-application-mmg.pdf "Forms- Application- MMG.pdf")
-
-[President’s Scholarship Application](http://www.masters.edu/media/869263/17-18-presidents-scholarship-application_fillable.pdf "17-18 President's Scholarship Application_Fillable.pdf")\
-The President’s Scholarship is a competitive merit based scholarship awarded to full-time incoming freshman. Applicants must have a high school GPA of 3.85 and a SAT score of 1400 (Critical Reading and Math only) or ACT composite score of 32.
-
-[Bible Bee Scholarship Application](http://www.masters.edu/media/868514/forms-application-bible-bee.pdf "Forms- Application- Bible Bee.pdf")
 
 [Shamrock Foundation Grant Application](http://www.masters.edu/media/869290/forms-application-shamrock-2017-18.pdf "Forms- Application- Shamrock 2017-18.pdf")
 
@@ -82,10 +71,7 @@ The President’s Scholarship is a competitive merit based scholarship awarded t
 
 [Stafford Loan In-School Deferment Request Form](http://www.masters.edu/media/601637/Forms-%20LN-%20Stafford%20In-School%20Deferment%20Request%20Form.pdf)
 
-[2016-2017 PLUS Loan Amount Request Form](http://www.masters.edu/media/868499/forms-application-plarf.pdf "Forms- Application- PLARF.pdf")
-
 </div> -->
-
 
 ## International Student Forms and Scholarships
 
