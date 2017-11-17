@@ -14,8 +14,12 @@ apply-body: |-
   | Call: 661.362.2363 | Text: 661.748.0266 | write: admissions@masters.edu |
 
   ## Extended Early Application!
-  \
-  Celebrating our lowered tuition, we’ll waive application fees until December 15
+
+  ## Celebrating our lowered tuition, we’ll waive application fees until December 15
+
+  The Master’s University equips young Christian men and women for spiritual service and leadership - in their careers, in their homes, and through their ministries. Every class we teach and every degree we confer stand on the foundation of God’s Word. Our students acquire knowledge from a Biblical perspective, filtering everything they learn through the lens of God’s Word. In other words, they gain wisdom to serve and wisdom to lead.
+
+  > ***“I saw firsthand what TMU had done for my brother academically, athletically and spiritually. So, choosing TMU myself became an easy decision.” - Jason Karkenny (‘17)***
 
   ## Option 1: Apply Online
 
