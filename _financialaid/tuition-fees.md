@@ -20,7 +20,7 @@ The Master’s University strives to offer students a Christ-centered education 
 </tr>
 <tr>
 <td valign="top">12 to 18 units, per semester</td>
-<td valign="top">$16,300</td>
+<td valign="top">$12,475</td>
 </tr>
 <tr>
 <td valign="top">Less than 12 units, per unit</td>
