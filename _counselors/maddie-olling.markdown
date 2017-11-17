@@ -3,7 +3,7 @@ title: Maddie Olling
 date: 2017-07-11 19:28:00 Z
 name: Maddie Olling
 email: molling@masters.edu
-phone: 16613622604
+phone: 1 (661) 362-2604
 video: |-
   <iframe src="https://player.vimeo.com/video/188209245" width="640" height="360"
       frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
