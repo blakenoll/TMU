@@ -2,11 +2,20 @@
 title: Undergraduate
 position: 0
 apply-body: |-
-  ## Apply Now for Fall 2018!
+  ## YOUR FUTURE AND CAREER STARTS FALL ‘18
 
-  We invite all students considering admission for Fall 2018 to begin the application process now. Don't miss out on a life-changing TMU education--complete your application as soon as possible! Below we’ve listed what components are needed to complete the application process.
+  The Master’s University invites students considering admission for Fall 2018 to begin the application process now.
 
-  Have questions? Contact your <a href="http://www.masters.edu/admissions/#counselors" target="_blank">admissions counselor.</a>
+  The admissions committee carefully works with every applicant through every step, ensuring that The Master’s University is indeed the right school for you. There is application paperwork to complete, but let us help do it with you - from walking through the application package with you, to helping you with financial aid requests, making helpful recommendations, to welcoming you on campus. We want you to experience the world-class standards of TMU from the first step.
+
+  We look forward to meeting you!
+
+  Have a Question?
+  | Call: 661.362.2363 | Text: 661.748.0266 | write: admissions@masters.edu |
+
+  ## Extended Early Application!
+  \
+  Celebrating our lowered tuition, we’ll waive application fees until December 15
 
   ## Option 1: Apply Online
 
