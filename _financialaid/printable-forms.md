@@ -3,7 +3,7 @@ title: Printable Forms
 sm-image: "/uploads/AdmissionFinAid_PrintableForms.png"
 ---
 
-Undergraduate Registration Instructions
+## Undergraduate Registration Instructions
 
 [Spring 2017 New Student Pre-Registration Instructions ](http://www.masters.edu/media/868825/sp-17-new-student-pre-registration.pdf "SP 17 New Student Pre-Registration.pdf")(Step 1)
 
@@ -47,9 +47,7 @@ Undergraduate Registration Instructions
 
 [Activity Release Form](/uploads/TMU_ActivityRelease%202017.pdf)
 
-<!--<div>
-
-Undergraduate Financial Aid Forms and Scholarships
+## Undergraduate Financial Aid Forms and Scholarships
 
 [Financial Aid Application](http://www.masters.edu/media/869351/forms-application-faa.pdf "Forms- Application- FAA.pdf")
 
@@ -70,8 +68,6 @@ Undergraduate Financial Aid Forms and Scholarships
 [Stafford Loan Adjustment Form](http://www.masters.edu/media/868505/forms-application-stafford-loan-adjustment.pdf "Forms- Application- Stafford Loan Adjustment.pdf")
 
 [Stafford Loan In-School Deferment Request Form](http://www.masters.edu/media/601637/Forms-%20LN-%20Stafford%20In-School%20Deferment%20Request%20Form.pdf)
-
-</div> -->
 
 ## International Student Forms and Scholarships
 
