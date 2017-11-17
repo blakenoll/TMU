@@ -11,7 +11,7 @@ apply-body: |-
   We look forward to meeting you!
 
   Have a Question?
-  | Call: 661.362.2363 | Text: 661.748.0266 | write: admissions@masters.edu |
+  \*\*call: \*\*661.362.2363 | **text**: 661.748.0266 | \*\*write: \*\*admissions@masters.edu
 
   ## Extended Early Application!
 
@@ -72,7 +72,7 @@ apply-body: |-
 
   Please visit our <a href="http://www.masters.edu/admissions/#intl" target="_blank">International Student Application Page</a> for detailed information about how to apply.
 
-  ## Application Deadlines** for Fall 2018:**
+  ## Application Deadlines\*\* for Fall 2018:\*\*
 
   **Extended Early Application & 2017 Admission – December 15:**
   Receive admission decision for Fall 2018 before the end of 2017
