@@ -130,6 +130,9 @@ prereqs-business:
   body: 
 - title: MGT422 Business Strategy
   body: 
+weeks-per-class: 8
+number-of-classes: 12
+number-of-units: 36
 layout: mba
 ---
 
