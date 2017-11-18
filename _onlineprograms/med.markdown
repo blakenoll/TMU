@@ -129,4 +129,4 @@ prereqs-bible:
 layout: mba
 ---
 
-Coming Soon
+More Info Coming Soon
