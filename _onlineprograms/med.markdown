@@ -103,6 +103,9 @@ courses:
     · Work effectively as a leader and/or team member within a collaborative educational environment.
 
     · Perform and communicate results of graduate-level educational research, which includes effectively analyzing and evaluating the results of educational research, as well as applying the results to specific problems or issues as appropriate.
+weeks-per-class: 8
+number-of-classes: 11
+number-of-units: 33
 layout: mba
 ---
 
