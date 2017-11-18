@@ -1,7 +1,6 @@
 ---
 title: MED
 date: 2017-11-17 17:25:00 Z
-published: false
 sm-image: "/uploads/AcademicsUndergradIcons_Liberal%20Studies.png"
 program-outline-text: Coming Soon
 level: grad
