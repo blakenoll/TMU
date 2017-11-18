@@ -37,7 +37,6 @@ sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 <li><a href="/undergrad/financial-aid/generalundergraduateprogram/calgrant.aspx" target="_blank">Cal Grant</a>: up to $9,084</li>
 <li><a href="/undergrad/financial-aid/loans.aspx" target="_blank">Federal Stafford Loans</a> (Amount determined based on need and year in school)</li>
 </ul>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" alt="VA.jpg" src="/media/803973/VA.jpg" width="206" height="232" /></p>
 <h3><span>Post 9/11 Benefit and Yellow Ribbon Breakdown</span></h3>
 <p>Contact the Office of Financial Aid to speak with a counselor to receive your personal Financial Aid Award Letter detailing all funds you are eligible to receive.  Please note that an annual application must be submitted for VA benefit to be applied to account.  Below you will find a general breakdown of the awards available to Veterans of the U.S. Armed Forces.</p>
 <p><span class="boldText">Tuition Benefit:</span></p>
