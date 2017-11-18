@@ -61,13 +61,13 @@ bottom-tab:
   body: |-
     ### Application Deadline and Fee
 
-    * The application deadline for Summer, 2018 is Oct. 31st, 2017.
+    * The application deadline for Summer, 2018 is closed. The deadline to apply for Summer, 2019 is Oct. 31st, 2018.
 
     * Students will pay a $50 non-refundable application fee.
 
     ### Cancelation Policy
 
-    Accepted students will be billed on December 10th, 2017, after which the student will only get a certain amount of money back, depending on when the student cancels. If the student drops out in January 2018: 100% will be refunded; if in February 2018: 75%; if in March 2018: 50%; if in April 2018: 25%; and if after April 30th, 2018: 0% will be refunded. TMU in Italy expects accepted students to be committed before paying in December.
+    Accepted students will be billed on November 20th, 2017, after which the student will only get a certain amount of money back, depending on when the student cancels. If the student drops out in January 2018: 100% will be refunded; if in February 2018: 75%; if in March 2018: 50%; if in April 2018: 25%; and if after April 30th, 2018: 0% will be refunded. TMU in Italy expects accepted students to be committed before paying in December. [TMU Italy Financial Policy](/uploads/Italy%20Financial%20Policy.pdf)
 
     ### Memorandum of Understanding (MOU):
 
@@ -88,7 +88,7 @@ bottom-tab:
   body: |-
     ### When is the Application Deadline?
 
-    *The deadline for applications for Summer, 2018 is October 31st, 2017. Click [here ](https://masters.formstack.com/forms/tmu_italy_online_application)for the Application.*
+    *Application for Summer, 2018 is closed. The deadline to apply for Summer, 2019 is Oct. 31st, 2018. Click here for the Application.*
 
     ### Is there an application Fee?
 
@@ -112,9 +112,7 @@ bottom-tab:
 
     ### When do I need to pay for the program?
 
-    *Students accepted into the program will need to register for classes by the end of November. Their bill will be received on the 20th of the month after they register; if the student opts for the payment plan, they will make five payments throughout the spring semester. If the student is using the Full Pay option, the full amount of the program will be due by December 10th.*
-
-    *Please note: if the student uses the payment plan for the Spring, the student will still need to include the $85 Payment Plan Fee in the bill.*
+    *Students accepted into the program will need to register for classes by the end of November. Their bill will be received November 20th of the month after they register; if the student opts for the payment plan, they will make five payments throughout the spring semester. If the student is using the Full Pay option, the full amount of the program will be due by December 10th.*
 
     ### How can I pay for the program?
 
@@ -150,7 +148,7 @@ bottom-tab:
 
     ### What should students consider about being exposed to art forms that include nudity?
 
-    *Throughout the Italy program students will be exposed to many forms of art, including representations of the human form. Sometimes, this includes nudity. We understand that in humans’ fallen state, nudity is shameful and can sear a Christian’s conscience. We don’t want to hurt any student’s conscience and if a student thinks he or she will be tempted by the nudity represented in the art all over Italy, then the student should not participate in TMU in Italy. If the student is not sure, the student can meet with Professor Chua and Horner.*
+    *Throughout the Italy program students will be exposed to many forms of art, including representations of the human form. Sometimes, this includes nudity. We understand that in humans’ fallen state, nudity is shameful and can sear a Christian’s conscience. We don’t want to hurt any student’s conscience and if a student thinks he or she will be tempted by the nudity represented in the art all over Italy, then the student should not participate in TMU in Italy. If the student is not sure, the student can meet with Professors Chua and Horner.*
 - title: Health and Safety Policies
   body: |-
     ### Health Policies

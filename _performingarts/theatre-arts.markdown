@@ -62,59 +62,154 @@ contact-body: |-
 
   Santa Clarita, CA 91321
 audition-body: |-
-  ## Auditions for **OVER THE RIVER & THROUGH THE WOODS**
+  ## Auditions for **THE SECRET GARDEN**
 
-  SYNOPSIS: Nick visits his grandparents in Hoboken, NJ every Sunday for dinner. But what lengths will his grandparents go to to keep him from moving to Seattle?! As they plan blind dates and tempt to lure him with never-ending, mouthwatering meals, Nick has to evaluate what is really important in life and learn to count the cost of his decisions. We can promise gut-wrenching laughter along with a story that pulls on your heartstrings and calls each member of the audience to consider along with Nick as sees things from a different perspective than he originally intended.
+  * **Monday & Tuesday, December 4 & 5   **
 
-  ### Tuesday or Wednesday, August 29 or 30, 2017
+    * Time:   7:00pm – 10:00pm
 
-  * Time: 7:00pm – 10:00pm
+    * Location: MC101
 
-  * Location: MC101
+  * Callbacks | Wednesday, December 6 at 7:00pm in MC101
 
-  * Callbacks - Thursday, August 31 at 8:00pm in MC101
+  * Read/Sing Through for Cast | Saturday December 9th
+         | 2:00-5:00pm | MC101
 
-  * Read-Through - Saturday, September 2 at 6:30pm in MC101
+  **Looking For:**
 
-  * NOTE: You can audition either Tuesday or Wednesday night!
+  ### CAST
 
-  ### Details:
+    * 11 Men and 12 Women for both
+            principle and ensemble roles
 
-  * Auditions are open to all traditional TMU Students of all majors/disciplines/years!
+    * For a list of
+            characters/descriptions, please email [theatre@masters.edu ](mailto:theatre@masters.edu?subject=Secret%20Garden%20Auditions)
 
-  * Cast Auditions/Crew Applications: You can audition/apply either night, Tuesday or Wednesday and you can come any time between 7-10. Once you arrive, you will fill out an audition/crew application form and sign up for an audition slot (actors only). Each acting audition will last approx. 10 minutes.
+    * Accents: Most British, several
+            Yorkshire dialect (Martha, Dickon, Ben and rest of Mistelthwaite Manor
+            ensemble members) & 2 Indian (Fakir & Ayah),
 
-    * Acting audition - cold read – chosen by the directors from the script depending on the part you are auditioning for. We do this intentionally to keep everyone on the same page. There will be scripts in the lobby during auditions for those of you who feel that they struggle to read out loud and would like a few minutes to become familiar with the story/characters, as well as there are 2 scripts on reserve in the library now.\
+  ### PRODUCTION CREW
 
+    * Come to either night of auditions
+            to fill out a Production Crew Application in the lobby of MRH
 
-  * Rehearsals: Mondays & Wednesday 7:00-10:30pm - Approx 4 extra rehearsals will be scheduled on either Tuesday or Thursday nights. All involved in the production (cast and crew) will receive up to 1unit of credit and must enroll for TH300. This is good to have on your transcript! If you want to be in the CAST please have a plan for no night classes on the evenings listed above.
+  **Details:**
 
+  * Auditions are open to all
+         traditional TMU Students of all majors/disciplines/years
 
-  * TMU Fac/Staff and TMU Online students are welcome to audition with the understanding that if a current traditional student is as capable of playing the part, they will always take precedence. Email directors for special Fac/Staff/Online Audition slot
+  * Auditions will have 2
+         parts: **acting
+         & music. **You can audition either night, Monday or
+         Tuesday and you can come any time between 7-10pm. Once you arrive, in
+         the lobby, you will fill out an audition form and sign up for a slot
 
-  ### Looking for:
+    * **Acting audition - **cold read chosen by the directors
+            from the script depending on the part you are auditioning for
 
-  * Looking for: 3 Men and 3 Women for a variety of FUNNY and RICH characters to bring to life this hysterical story. The actors must be able to play a wide variety of ages. The roles are genuine, humorous and relatable. New Jersey accents are preferred. OVER THE RIVER offers actors an opportunity to be a part of a wonderfully funny, warm and real story of love, character and values that will impact audiences in a theatre program that will push them towards Christ!
+    * **Music audition - **An accompanist will be provided
 
-  ### Production Opportunities:
+      * We recommend listening to the [original Broadway cast recording](https://www.google.com/search?rlz=1C1GGRV_enUS748US749&q=1991\+Original\+Broadway\+Cast&stick=H4sIAAAAAAAAAOPgE-LSz9U3MMwrKTROUuLVT9c3NEyqLI83zy7K1RLLTrbSzy0tzkzWT8xJKs21SiwqySwuAQBeLum0NQAAAA&sa=X&ved=0ahUKEwj39YOx5MbXAhUB3mMKHdMFCX4QmxMI0gEoATAM&biw=1920&bih=959) to become familiar with the
+               music
 
-  * There are many opportunities to serve on production crews in the following areas.
+      * Please email the [theatre office](mailto:theatre@masters.edu?subject=Secret%20Garden%20Audition%20Music) for all sheet music (see below
+               for specifics) or stop by the music office to make a copy
 
-  * *You must come to auditions to fill out an application for production crew and then you will be notified when the crews are chosen.*
+      * **ALL AUDITIONERS** must audition with the
+               designated bars from the following song
 
-    * Makeup | Hair
+        * *The House Upon the Hill* | bars 36-62 | when it
+                  splits, learn the part that fits your voice part
 
-    * Costuming
+        * Be familiar with *There’s a Girl | *bars
+                  3-26 specific to your voice part
 
-    * Set Building & Design
+      * ***EXCEPTION***: If you are interested in
+               auditioning for any of the following specific roles, you will need to
+               either sing part of and/or be familiar with the following songs ***instead of **The House Upon the Hill *(above):
 
-    * Props
+        * Lily (soprano)
 
-    * Photography | Videography | Social Media Marketing
+          * Be prepared to sing *Come to My Garden *|
+                     bars 5-29 
 
-    * House Crew
+          * Be familiar with *How Could I Ever Know * (Duet
+                     with Archibald)
 
-    * Tech Crew
+          * Be familiar with *I Heard Someone Crying *(Trio
+                     with Archibald & Mary)
+
+        * Mary Lennox (mezzo-soprano)
+
+          * Be prepared to sing *The Girl I Mean to Be*
+
+          * Be familiar with *I Heard Someone Crying*
+
+        * Archibald Craven (Mary’s Uncle |
+                  baritone or tenor)
+
+          * Be prepared to sing *Lily’s Eyes *(Duet
+                     with Dr. Neville Craven) | bars 8-15 & 27-36
+
+          * Be familiar with *How Could I Ever Know * (Duet
+                     with Lily)
+
+          * Be familiar with *I Heard Someone Crying *(Trio
+                     with Lily & Mary)
+
+        * Dr. Neville Craven (Archibald’s
+                  Brother | baritone or bass)
+
+          * Be prepared to sing *Lily’s Eyes *(Duet
+                     with Archibald Craven) | bars 1-8 & 15-27
+
+        * Martha (a Chambermaid | alto)
+
+          * *If I Had a Fine White Horse
+                     | *bars
+                     11-23
+
+          * Be familiar with *Hold On*
+
+        * Dickon (Martha’s Brother |
+                  tenor)
+
+          * Be prepared to sing *Winter’s On the Wing*
+                     | bars 5-17
+
+        * Ben (the Gardener | baritone or
+                  tenor)
+
+          * Be prepared to sing *It’s a Maze* | bars
+                     12-16 & 22-30
+
+        * Colin (tenor | or boy soprano)
+
+          * Be prepared to sing *Round Shouldered Man*
+                     | bars 37-67 *in your
+                     octave*
+
+  **Rehearsals:**
+
+  * Rehearsals: Mon & Wed
+         7-10:30pm - Choreography rehearsals on Tuesday nights for the first few
+         weeks.
+
+  * Not all cast members will have to
+         be at all regular rehearsals – it will depend on the role and a schedule
+         will be given out at the beginning of the semester.
+
+  * All involved in the production
+         (cast and crew) will receive up to 1 unit of credit and *must *enroll in
+         TH300.
+
+  * **NOTE**: please do not plan on weekly
+         night classes for the Sp18 semester if you want to be in the cast/ensemble
+         of *The Secret Garden*.
+
+    * Please email the Director with any
+            questions about this: [thulet@masters.edu](mailto:thulet@masters.edu)
 
   ### Please email us at [theatre@masters.edu](mailto:theatre@masters.edu) or call us at 661-362-2255 with any questions
 fall-play:
