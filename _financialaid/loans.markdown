@@ -158,7 +158,7 @@ loan-deferment-body: |-
 
   Students who have taken out Stafford loans are eligible for deferment as long as they are enrolled in a program at least half-time. Unsubsidized loans will still accrue interest, and subsidized loans will cease accruing interest until a student drops below half-time again or graduates. Half-time status is defined as follows:
 
-  * Undergraduate and Degree Completion (DCP): 6 units
+  * Undergraduate: 6 units
 
   * M.Div: 5.5 units
 
