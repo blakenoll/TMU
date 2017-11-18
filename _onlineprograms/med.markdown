@@ -1,14 +1,14 @@
 ---
 title: MED
 date: 2017-11-17 17:25:00 Z
-published: false
-program-outline-text: 
+
+program-outline-text:
 level: grad
 courses:
 - name: 'Essentials of Curriculum Structure '
   units: 3
   number: ED534
-  body: 
+  body:
 - name: Classroom Management
   units: 3
   number: ED542
@@ -105,4 +105,3 @@ courses:
     · Perform and communicate results of graduate-level educational research, which includes effectively analyzing and evaluating the results of educational research, as well as applying the results to specific problems or issues as appropriate.
 layout: mba
 ---
-

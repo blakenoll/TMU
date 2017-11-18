@@ -10,7 +10,7 @@ layout: default
       <nav>
        <div class="nav-wrapper white">
          <div class="col s12">
-           <a href="{{ "/academics/graduate" | prepend: site.url }}" class="breadcrumb">Graduate</a>
+           <a href="{{ "/online" | prepend: site.url }}" class="breadcrumb">Online</a>
            <a href="#!" class="breadcrumb">{{ page.title }}</a>
          </div>
        </div>
@@ -141,9 +141,12 @@ layout: default
       <br>
       <h3>Weeks Per Class:</h3>
       <p>8</p>
+      {{page.weeks-per-class}}
       <h3>Total Number of Classes:</h3>
+      {{page.number-of-classes}}
       <p>12</p>
       <h3>Total Number of Units:</h3>
+      {{page.number-of-units}}
       <p>36</p>
     </div>
 
