@@ -1,7 +1,9 @@
 ---
 title: MED
 date: 2017-11-17 17:25:00 Z
-program-outline-text: 
+published: false
+sm-image: "/uploads/AcademicsUndergradIcons_Liberal%20Studies.png"
+program-outline-text: Coming Soon
 level: grad
 courses:
 - name: 'Essentials of Curriculum Structure '
@@ -105,7 +107,6 @@ courses:
 weeks-per-class: 8
 number-of-classes: 11
 number-of-units: 33
-layout: mba
 prereqs-bible:
 - title: B101 Old Testament Survey I
   body: 
@@ -125,5 +126,7 @@ prereqs-bible:
   body: 
 - title: B346 Life of Christ
   body: 
+layout: mba
 ---
 
+Coming Soon
