@@ -91,7 +91,7 @@ layout: default
               {% assign prereqcourses = page.prereqs-bible %}
               {% tablerow course in prereqcourses cols:1 %}
               <a href="#!{{course.number}}">
-              {{ course.title }}<td>{{ course.units }}</td>
+              {{ course.title }}<td>3</td>
               </a>
               <div id="{{course.number}}" class="modal">
                 <div class="modal-content">
@@ -105,6 +105,7 @@ layout: default
               {% endtablerow %}
             </table>
             <br>
+            {% if page.prereqs-business %}
             <p>The following courses are available and required if you did not complete these courses in your undergraduate program:</p>
             <br>
             <table class="bordered highlight">
@@ -128,6 +129,7 @@ layout: default
               </div>
               {% endtablerow %}
             </table>
+            {% endif %}
 
           </div>
           <div id="test7">
@@ -140,14 +142,11 @@ layout: default
       <h1>Program Info</h1>
       <br>
       <h3>Weeks Per Class:</h3>
-      <p>8</p>
-      {{page.weeks-per-class}}
+      <p>{{page.weeks-per-class}}</p>
       <h3>Total Number of Classes:</h3>
-      {{page.number-of-classes}}
-      <p>12</p>
+      <p>{{page.number-of-classes}}</p>
       <h3>Total Number of Units:</h3>
-      {{page.number-of-units}}
-      <p>36</p>
+      <p>{{page.number-of-units}}</p>
     </div>
 
   </div>

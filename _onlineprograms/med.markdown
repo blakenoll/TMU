@@ -107,4 +107,23 @@ weeks-per-class: 8
 number-of-classes: 11
 number-of-units: 33
 layout: mba
+prereqs-bible:
+- title: B101 Old Testament Survey I
+  body:
+- title: B102 Old Testament Survey II
+  body:
+- title: B201 New Testament Survey I
+  body:
+- title: B202 New Testament Survey II
+  body:
+- title: BTH321 Christian Theology I
+  body:
+- title: BTH322 Christian Theology II
+  body:
+- title: B340 Biblical Interpretation
+  body:
+- title: B342 Romans
+  body:
+- title: B346 Life of Christ
+  body: 
 ---
