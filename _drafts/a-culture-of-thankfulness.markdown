@@ -3,7 +3,7 @@ title: A Culture of Thankfulness
 date: 2017-11-20 21:30:00 Z
 ---
 
-## Across the centuries, notable individuals have magnified the importance of being thankful.
+## **Across the centuries, notable individuals have magnified the importance of being thankful.**
 
 “Gratitude is not only the greatest of virtues, but the parent of all others” (Cicero).
 
@@ -13,15 +13,15 @@ date: 2017-11-20 21:30:00 Z
 
 These tweetable quotes are wise and true, but how often do people actually practice an attitude of thankfulness? How often are news stories and our own social media feeds littered with complaints? How often do we take part?
 
-As Christians, Scripture calls us to a higher standard and a better motivation:
+**As Christians, Scripture calls us to a higher standard and a better motivation**:
 
-· Above all, we should be thankful for the character of the one true and living God whom we serve: “O **give thanks** to the Lord, for He is good; for His lovingkindness is everlasting” (1 Chronicles 16:34).
+* Above all, we should be thankful for the character of the one true and living God whom we serve: “O **give thanks** to the Lord, for He is good; for His lovingkindness is everlasting” (1 Chronicles 16:34).
 
-· We can only truly give thanks because of Christ and the redemption we received through Him. In “*whatever* (we) do in word or deed, do all in the name of the Lord Jesus, **giving thanks** through Him to God the Father” (Colossians 3:17).
+* We can only truly give thanks because of Christ and the redemption we received through Him. In “*whatever* (we) do in word or deed, do all in the name of the Lord Jesus, **giving thanks** through Him to God the Father” (Colossians 3:17).
 
-· We are to continuously practice thankfulness. “Devote (ourselves) to prayer, keeping alert in it with **an attitude of thanksgiving**” (Colossians 4:2).
+* We are to continuously practice thankfulness. “Devote (ourselves) to prayer, keeping alert in it with **an attitude of thanksgiving**” (Colossians 4:2).
 
-· No matter the situation, trial or challenge we are to “be anxious for nothing, but in everything by prayer and supplication **with thanksgiving** let (our) requests be made known to God” (Philippians 4:6).
+* No matter the situation, trial or challenge we are to “be anxious for nothing, but in everything by prayer and supplication **with thanksgiving** let (our) requests be made known to God” (Philippians 4:6).
 
 **Why?** Because of God and who He is, because of Christ and His example and sacrifice, because of the Holy Spirit through whom we have the power to follow Christ and obey God. Even if the grace of God were our only blessing—without family, friends, education, work, etc.—we would still have everything to be thankful for. What a unique contrast to the worldly philosophy that always seeks more and is never satisfied?
 
@@ -49,4 +49,4 @@ Thankfulness isn’t just an attitude for Thanksgiving, but one that should perm
 
 10\. To be led by the longest serving university president in the state of California, Dr. John MacArthur (1985-present).
 
-### This Thanksgiving, what are you thankful for?
+## This Thanksgiving, what are you thankful for?
