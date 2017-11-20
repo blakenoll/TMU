@@ -25,7 +25,7 @@ These tweetable quotes are wise and true, but how often do people actually pract
 
 **Why?** Because of God and who He is, because of Christ and His example and sacrifice, because of the Holy Spirit through whom we have the power to follow Christ and obey God. Even if the grace of God were our only blessing—without family, friends, education, work, etc.—we would still have everything to be thankful for. What a unique contrast to the worldly philosophy that always seeks more and is never satisfied?
 
-Thankfulness isn’t just an attitude for Thanksgiving, but one that should permeate every facet of our lives and cause us to radiate the transformative power of the gospel.
+> Thankfulness isn’t just an attitude for Thanksgiving, but one that should permeate every facet of our lives and cause us to radiate the transformative power of the gospel.
 
 ## **The following are only a few of the many reasons we as a university are thankful:**
 
