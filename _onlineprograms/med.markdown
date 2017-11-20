@@ -128,4 +128,4 @@ prereqs-bible:
 layout: mba
 ---
 
-More Info Coming Soon
+How do I serve my students better? By becoming a better teacher. The Master’s University M.Ed. in Teaching helps you gain practical knowledge and skills to deal with real classroom issues. Allowing you to do what you want, transform student lives.
