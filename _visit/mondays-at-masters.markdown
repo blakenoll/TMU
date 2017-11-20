@@ -9,7 +9,11 @@ image: "/images/Mondays@Masters_960x540.jpg"
 banner-image: "/images/Mondays@Masters_1920x500.jpg"
 button-txt: Register
 button-link: https://masters.tfaforms.net/217729
-preview-text: Mondays @ Master's
+preview-text: For the student who does not have much time to spare, Mondays @ Master’s
+  is a great opportunity to get a snapshot of what TMU is all about. Come visit classes,
+  take a campus tour, attend chapel, learn about financial aid opportunities, meet
+  some of our current TMU students, and get all of your questions about TMU answered.
+  It is the complete college visit packed into one fun-filled day!
 layout: visit-sub-page
 ---
 
