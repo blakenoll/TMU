@@ -73,7 +73,7 @@ schedule:
   - time: 9:00am-11:00am
     event: 'The Master’s 5k '
     location: 
-  - time: "12:00-2:00pm\t"
+  - time: "1:15pm\t"
     event: Alumni Baseball Game
     location: Reese Field
   - time: 2:00-5:00pm
