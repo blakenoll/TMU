@@ -984,8 +984,6 @@ senior-body: |-
 
   Graduation ceremonies are held once a year with the conclusion of the spring semester, usually in May. Students who finish their degree in the fall semester will receive their degree immediately and are invited to walk in commencement exercises the following May.
 
-  It is expected that all graduating students will be present at commencement ceremonies except in cases of extreme emergency or other similarly difficult circumstances. Permission to graduate in absentia must be secured from the Office of the Registrar well in advance.
-
   ## Undergraduate Graduation Honors
 
   Honors at graduation for baccalaureate recipients are granted to students who have completed at least 60 semester units at The Master's University and have attained the following cumulative grade point average:
