@@ -27,7 +27,7 @@ These tweetable quotes are wise and true, but how often do people actually pract
 
 Thankfulness isn’t just an attitude for Thanksgiving, but one that should permeate every facet of our lives and cause us to radiate the transformative power of the gospel.
 
-**The following are only a few of the many reasons we as a university are thankful:**
+## **The following are only a few of the many reasons we as a university are thankful:**
 
 1\. Faculty and staff who have continued in steadfast dedication to Christ and the inerrant Scripture for over 90 years
 
@@ -49,4 +49,4 @@ Thankfulness isn’t just an attitude for Thanksgiving, but one that should perm
 
 10\. To be led by the longest serving university president in the state of California, Dr. John MacArthur (1985-present).
 
-## This Thanksgiving, what are you thankful for?
+## **This Thanksgiving, what are you thankful for?**
