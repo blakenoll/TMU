@@ -23,7 +23,6 @@ layout: default
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  text-align: center;
 }
 
 .middle p {
@@ -65,8 +64,20 @@ layout: default
       <div class="overlay hide-on-med-and-down">
         <img src="{{item.banner-image}}" alt="{{item.title}}" class=" image responsive-img">
         <div class="middle">
-          {{item.preview-text | markdownify }}
-          <a href="{{item.url}}" class="btn btn-gold">More Info</a>
+          <div class="row">
+            <div class="col s4">
+              <h4 class="white-text">Dates:</h4>
+              <div class="no-line-spacing">
+                {{item.date-text | markdownify}}
+              </div>
+            </div>
+            <div class="col s8">
+              {{item.preview-text | truncatewords: 30 | markdownify }}
+              <a href="{{item.url}}" class="btn btn-gold">More Info</a>
+            </div>
+          </div>
+
+
         </div>
       </div>
       <div class="col s12 hide-on-large-only">
