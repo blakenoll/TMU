@@ -61,157 +61,62 @@ contact-body: |-
   21726 Placerita Canyon Rd. #13
 
   Santa Clarita, CA 91321
-audition-body: |-
-  ## Auditions for **THE SECRET GARDEN**
-
-  * **Monday & Tuesday, December 4 & 5   **
-
-    * Time:   7:00pm – 10:00pm
-
-    * Location: MC101
-
-  * Callbacks | Wednesday, December 6 at 7:00pm in MC101
-
-  * Read/Sing Through for Cast | Saturday December 9th
-         | 2:00-5:00pm | MC101
-
-  **Looking For:**
-
-  ### CAST
-
-    * 11 Men and 12 Women for both
-            principle and ensemble roles
-
-    * For a list of
-            characters/descriptions, please email [theatre@masters.edu ](mailto:theatre@masters.edu?subject=Secret%20Garden%20Auditions)
-
-    * Accents: Most British, several
-            Yorkshire dialect (Martha, Dickon, Ben and rest of Mistelthwaite Manor
-            ensemble members) & 2 Indian (Fakir & Ayah),
-
-  ### PRODUCTION CREW
-
-    * Come to either night of auditions
-            to fill out a Production Crew Application in the lobby of MRH
-
-  **Details:**
-
-  * Auditions are open to all
-         traditional TMU Students of all majors/disciplines/years
-
-  * Auditions will have 2
-         parts: **acting
-         & music. **You can audition either night, Monday or
-         Tuesday and you can come any time between 7-10pm. Once you arrive, in
-         the lobby, you will fill out an audition form and sign up for a slot
-
-    * **Acting audition - **cold read chosen by the directors
-            from the script depending on the part you are auditioning for
-
-    * **Music audition - **An accompanist will be provided
-
-      * We recommend listening to the [original Broadway cast recording](https://www.google.com/search?rlz=1C1GGRV_enUS748US749&q=1991\+Original\+Broadway\+Cast&stick=H4sIAAAAAAAAAOPgE-LSz9U3MMwrKTROUuLVT9c3NEyqLI83zy7K1RLLTrbSzy0tzkzWT8xJKs21SiwqySwuAQBeLum0NQAAAA&sa=X&ved=0ahUKEwj39YOx5MbXAhUB3mMKHdMFCX4QmxMI0gEoATAM&biw=1920&bih=959) to become familiar with the
-               music
-
-      * Please email the [theatre office](mailto:theatre@masters.edu?subject=Secret%20Garden%20Audition%20Music) for all sheet music (see below
-               for specifics) or stop by the music office to make a copy
-
-      * **ALL AUDITIONERS** must audition with the
-               designated bars from the following song
-
-        * *The House Upon the Hill* | bars 36-62 | when it
-                  splits, learn the part that fits your voice part
-
-        * Be familiar with *There’s a Girl | *bars
-                  3-26 specific to your voice part
-
-      * ***EXCEPTION***: If you are interested in
-               auditioning for any of the following specific roles, you will need to
-               either sing part of and/or be familiar with the following songs ***instead of **The House Upon the Hill *(above):
-
-        * Lily (soprano)
-
-          * Be prepared to sing *Come to My Garden *|
-                     bars 5-29 
-
-          * Be familiar with *How Could I Ever Know * (Duet
-                     with Archibald)
-
-          * Be familiar with *I Heard Someone Crying *(Trio
-                     with Archibald & Mary)
-
-        * Mary Lennox (mezzo-soprano)
-
-          * Be prepared to sing *The Girl I Mean to Be*
-
-          * Be familiar with *I Heard Someone Crying*
-
-        * Archibald Craven (Mary’s Uncle |
-                  baritone or tenor)
-
-          * Be prepared to sing *Lily’s Eyes *(Duet
-                     with Dr. Neville Craven) | bars 8-15 & 27-36
-
-          * Be familiar with *How Could I Ever Know * (Duet
-                     with Lily)
-
-          * Be familiar with *I Heard Someone Crying *(Trio
-                     with Lily & Mary)
-
-        * Dr. Neville Craven (Archibald’s
-                  Brother | baritone or bass)
-
-          * Be prepared to sing *Lily’s Eyes *(Duet
-                     with Archibald Craven) | bars 1-8 & 15-27
-
-        * Martha (a Chambermaid | alto)
-
-          * *If I Had a Fine White Horse
-                     | *bars
-                     11-23
-
-          * Be familiar with *Hold On*
-
-        * Dickon (Martha’s Brother |
-                  tenor)
-
-          * Be prepared to sing *Winter’s On the Wing*
-                     | bars 5-17
-
-        * Ben (the Gardener | baritone or
-                  tenor)
-
-          * Be prepared to sing *It’s a Maze* | bars
-                     12-16 & 22-30
-
-        * Colin (tenor | or boy soprano)
-
-          * Be prepared to sing *Round Shouldered Man*
-                     | bars 37-67 *in your
-                     octave*
-
-  **Rehearsals:**
-
-  * Rehearsals: Mon & Wed
-         7-10:30pm - Choreography rehearsals on Tuesday nights for the first few
-         weeks.
-
-  * Not all cast members will have to
-         be at all regular rehearsals – it will depend on the role and a schedule
-         will be given out at the beginning of the semester.
-
-  * All involved in the production
-         (cast and crew) will receive up to 1 unit of credit and *must *enroll in
-         TH300.
-
-  * **NOTE**: please do not plan on weekly
-         night classes for the Sp18 semester if you want to be in the cast/ensemble
-         of *The Secret Garden*.
-
-    * Please email the Director with any
-            questions about this: [thulet@masters.edu](mailto:thulet@masters.edu)
-
-  ### Please email us at [theatre@masters.edu](mailto:theatre@masters.edu) or call us at 661-362-2255 with any questions
+audition-body: "## Auditions for **THE SECRET GARDEN**\n\nMonday & Tuesday, December
+  4 & 5\n\n* Time:   7:00pm – 10:00pm\n\n* Location: MC101\n\n* Callbacks  Wednesday,
+  December 6 at 7:00pm in MC101\n\n* Read/Sing Through for Cast  Saturday December
+  9th\n  2:00-5:00pm  MC101\n\n**Looking For:**\n\n### CAST\n\n* 11 Men and 12 Women
+  for both\n  principle and ensemble roles\n\n* For a list of\n  characters/descriptions,
+  please email [theatre@masters.edu ](mailto:theatre@masters.edu?subject=Secret%20Garden%20Auditions)\n\n*
+  Accents: Most British, several\n  Yorkshire dialect (Martha, Dickon, Ben and rest
+  of Mistelthwaite Manor\n  ensemble members) & 2 Indian (Fakir & Ayah),\n\n### PRODUCTION
+  CREW\n\n* Come to either night of auditions\n  to fill out a Production Crew Application
+  in the lobby of MRH\n\n**Details:**\n\n* Auditions are open to all\n  traditional
+  TMU Students of all majors/disciplines/years\n\n* Auditions will have 2\n  parts: \\*\\*acting\n
+  \ \\& music. \\*\\*You can audition either night, Monday or\n  Tuesday and you can
+  come any time between 7-10pm. Once you arrive, in\n  the lobby, you will fill out
+  an audition form and sign up for a slot\n\n  * \\*\\*Acting audition - \\*\\*cold
+  read chosen by the directors\n    from the script depending on the part you are
+  auditioning for\n\n  * \\*\\*Music audition - \\*\\*An accompanist will be provided\n\n
+  \   * We recommend listening to the [original Broadway cast recording](https://www.google.com/search?rlz=1C1GGRV_enUS748US749&q=1991\\+Original\\+Broadway\\+Cast&stick=H4sIAAAAAAAAAOPgE-LSz9U3MMwrKTROUuLVT9c3NEyqLI83zy7K1RLLTrbSzy0tzkzWT8xJKs21SiwqySwuAQBeLum0NQAAAA&sa=X&ved=0ahUKEwj39YOx5MbXAhUB3mMKHdMFCX4QmxMI0gEoATAM&biw=1920&bih=959)
+  to become familiar with the\n      music\n\n    * Please email the [theatre office](mailto:theatre@masters.edu?subject=Secret%20Garden%20Audition%20Music)
+  for all sheet music (see below\n      for specifics) or stop by the music office
+  to make a copy\n\n    * **ALL AUDITIONERS** must audition with the\n      designated
+  bars from the following song\n\n      * *The House Upon the Hill* | bars 36-62 |
+  when it\n        splits, learn the part that fits your voice part\n\n      * Be
+  familiar with \\*There’s a Girl | \\*bars\n        3-26 specific to your voice part\n\n
+  \   * ***EXCEPTION***: If you are interested in\n      auditioning for any of the
+  following specific roles, you will need to\n      either sing part of and/or be
+  familiar with the following songs \\*\\*\\*instead of \\*\\*The House Upon the Hill
+  \\*(above):\n\n      * Lily (soprano)\n\n        * Be prepared to sing \\*Come to
+  My Garden \\*|\n          bars 5-29\n\n        * Be familiar with \\*How Could I
+  Ever Know \\* (Duet\n          with Archibald)\n\n        * Be familiar with \\*I
+  Heard Someone Crying \\*(Trio\n          with Archibald & Mary)\n\n      * Mary
+  Lennox (mezzo-soprano)\n\n        * Be prepared to sing *The Girl I Mean to Be*\n\n
+  \       * Be familiar with *I Heard Someone Crying*\n\n      * Archibald Craven
+  (Mary’s Uncle |\n        baritone or tenor)\n\n        * Be prepared to sing \\*Lily’s
+  Eyes \\*(Duet\n          with Dr. Neville Craven) | bars 8-15 & 27-36\n\n        *
+  Be familiar with \\*How Could I Ever Know \\* (Duet\n          with Lily)\n\n        *
+  Be familiar with \\*I Heard Someone Crying \\*(Trio\n          with Lily & Mary)\n\n
+  \     * Dr. Neville Craven (Archibald’s\n        Brother | baritone or bass)\n\n
+  \       * Be prepared to sing \\*Lily’s Eyes \\*(Duet\n          with Archibald
+  Craven) | bars 1-8 & 15-27\n\n      * Martha (a Chambermaid | alto)\n\n        *
+  \\*If I Had a Fine White Horse\n          | \\*bars\n          11-23\n\n        *
+  Be familiar with *Hold On*\n\n      * Dickon (Martha’s Brother \n        tenor)\n\n
+  \       * Be prepared to sing *Winter’s On the Wing*\n          | bars 5-17\n\n
+  \     * Ben (the Gardener  baritone or\n        tenor)\n\n        * Be prepared
+  to sing *It’s a Maze*  bars\n          12-16 & 22-30\n\n      * Colin (tenor or
+  boy soprano)\n\n        * Be prepared to sing *Round Shouldered Man*\n          bars
+  37-67 *in your\n          octave*\n\n**Rehearsals:**\n\n* Rehearsals: Mon & Wed\n
+  \ 7-10:30pm - Choreography rehearsals on Tuesday nights for the first few\n  weeks.\n\n*
+  Not all cast members will have to\n  be at all regular rehearsals – it will depend
+  on the role and a schedule\n  will be given out at the beginning of the semester.\n\n*
+  All involved in the production\n  \\(cast and crew) will receive up to 1 unit of
+  credit and \\*must \\*enroll in\n  TH300.\n\n* **NOTE**: please do not plan on weekly\n
+  \ night classes for the Sp18 semester if you want to be in the cast/ensemble\n  of
+  *The Secret Garden*.\n\n  * Please email the Director with any\n    questions about
+  this: [thulet@masters.edu](mailto:thulet@masters.edu)\n\n### Please email us at
+  [theatre@masters.edu](mailto:theatre@masters.edu) or call us at 661-362-2255 with
+  any questions"
 fall-play:
   image: "/images/OTR_2000x800.jpg"
   title: Over The River and Through the Woods

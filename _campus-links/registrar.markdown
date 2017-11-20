@@ -984,8 +984,6 @@ senior-body: |-
 
   Graduation ceremonies are held once a year with the conclusion of the spring semester, usually in May. Students who finish their degree in the fall semester will receive their degree immediately and are invited to walk in commencement exercises the following May.
 
-  It is expected that all graduating students will be present at commencement ceremonies except in cases of extreme emergency or other similarly difficult circumstances. Permission to graduate in absentia must be secured from the Office of the Registrar well in advance.
-
   ## Undergraduate Graduation Honors
 
   Honors at graduation for baccalaureate recipients are granted to students who have completed at least 60 semester units at The Master's University and have attained the following cumulative grade point average:
@@ -998,7 +996,7 @@ senior-body: |-
 transcript-body: |-
   <h1><strong><span>Transcripts</span></strong></h1>
   <p><a href="https://exchange.parchment.com/send/adds/index.php?main_page=login&s_id=L4S7GNOkItUPs1U3" target="_blank" title="TMU Transcript Ordering Services" class="btn btn-blue"><strong><span>ORDER TRANSCRIPTS</span></strong></a></p>
-  <p><strong>\*Update: Effective June 30, 2017 (Friday), The Registrar's Office will be implementing the use of Parchment for online ordering and electronic delivery. The Master's University and Seminary students will have the option to order transcripts with mail delivery, eTranscript, and/or campus pick-up.</strong></p>
+  <p><strong>\***Please note in celebration of the Thanksgiving holiday, the Registrar's Office will be closed from Nov 22nd - Nov 24th. We are happy to be of assistance when we return on Nov 27th.</strong></p>
   <p><strong>\*\*The Master's University students applying to The Master's Seminary do not need to order an official transcript. Please contact TMS for assistance. Separate orders are no longer required for those attending both TMU and TMS and only one fee will be charged per order. </strong></p>
   <p>Academic transcripts are maintained for every student ever in attendance at The Master's University, The Master's Institute, The Master's Seminary, Los Angeles Baptist College and Los Angeles Baptist Theological Seminary. Transcripts will not be released unless all financial obligations to the University or Seminary have been met. It is the student's responsibility to clear all holds on his/her account before ordering a transcript. If you have questions regarding a STOP, please contact the Student Accounts Office at <a href="mailto:accountinfo@masters.edu">accountinfo@masters.edu</a> or call (661) 362-2212.  </p>
 
