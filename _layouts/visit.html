@@ -1,21 +1,88 @@
 ---
 layout: default
 ---
+<style media="screen">
+.overlay {
+  position: relative;
+  background-color: #0c2340;
+}
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
 
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.middle p {
+  color: #fff;
+}
+
+.overlay:hover .image {
+  opacity: 0.3;
+}
+
+.overlay:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+</style>
 {% include parallax-header.html %}
 <div class="container">
   <div class="row">
-    <div class="col s12 m8 flow-text">
+    <div class="col s12  flow-text">
       {{ content }}
-    </div>
-    <div class="col s12 m4">
-
     </div>
   </div>
 </div>
 {% for item in site.visit %}
 {% if item.title != 'Visit' %}
-<div class="row spacing">
+<div class="container">
+  <div class="row">
+    <div class="col s12">
+      <div class="hide-on-large-only">
+        <img src="{{item.image}}" alt="" width="100%">
+
+      </div>
+      <div class="overlay hide-on-med-and-down">
+        <img src="{{item.banner-image}}" alt="{{item.title}}" class=" image responsive-img">
+        <div class="middle">
+          {{item.preview-text | markdownify }}
+          <a href="{{item.url}}" class="btn btn-gold">More Info</a>
+        </div>
+      </div>
+      <div class="col s12 hide-on-large-only">
+        <h4>Dates:</h4>
+        <div class="no-line-spacing">
+          {{item.date-text | markdownify}}
+          <br>
+        </div>
+        <a href="{{item.button-link}}" class="btn btn-navy">{{item.button-txt}}</a>
+        <a href="{{item.url}}" class="btn btn-gold">More Info</a>
+      </div>
+
+    </div>
+  </div>
+</div>
+<!-- <div class="row spacing">
   <div class="col s12 l8" style="padding: 0px;">
     <img src="{{item.banner-image}}" alt="{{item.title}}" class="responsive-img">
   </div>
@@ -37,6 +104,6 @@ layout: default
 
 
   </div>
-</div>
+</div> -->
 {% endif %}
 {% endfor %}
