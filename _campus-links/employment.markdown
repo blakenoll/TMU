@@ -293,8 +293,7 @@ positions:
     development of its employees and seeks to provide relevant, beneficial options
     whenever possible.\n\n•\tAdvancement may include “Sr Admissions Counselor”, “Admissions
     Regional Manager”, “Assistant Director”, or other roles within TMU.\n \n•\tTraining
-    may include conferences, classes, courses, and programs.\n\n•\tAdmissions Counselors
-    may qualify for a yearly bonus structure based on performance.\n\nWorking Conditions\n\n•\tWorking
+    may include conferences, classes, courses, and programs.\n\n\nWorking Conditions\n\n•\tWorking
     Environment: Mostly indoors in a typical office environment, with an occasional
     need to visit other areas on campus.  \n\n•\tPhysical Demands: Must be able to
     lift, pull, push, grasp and bend while lifting up to 30lbs.\n\n•\tRepetitive motions
