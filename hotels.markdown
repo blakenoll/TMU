@@ -57,10 +57,6 @@ Amenities:
 
 (661) 257-3220
 
-1/1/2017 – 4/30/2017 - $129
-5/1/2017 – 9/4/2017 - $139
-9/5/2017 – 12/31/2017 - $129
-
 * Includes Wi-Fi and waived parking fee
 
 * Swimming pool and fitness center
