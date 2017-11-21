@@ -197,12 +197,12 @@ TMU offers 3 options for family, friends, and guests at preferred negotiated rat
 
 TMU is able to provide airport transportation for students flying unaccompanied into [Burbank Airport](http://www.burbankairport.com/) (BUR). If you are flying into Los Angeles (LAX), please contact our coordinator for more info.
 
-**Registration with complete details will be opening soon**. 
+**Registration with complete details will be opening soon**.
 
-Questions in the meantime? 
+Questions in the meantime?
 
-* **Call  **661.362.2363
+* **call**  661.362.2363
 
-* **Text  **661.748.0266
+* **text**  661.748.0266
 
-* **Write  **admissions@masters.edu
+* **write**  admissions@masters.edu
