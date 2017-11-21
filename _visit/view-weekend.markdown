@@ -182,7 +182,7 @@ TMU offers 3 options for family, friends, and guests at preferred negotiated rat
 
 * Option 1: **A-la-carte**. Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
 
-* Option 2: **All-INCLUSIVE. **The best deal! Preferred TMU rates negotiated with *Hampton Inn Santa Clarita*. A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
+* Option 2: **All-inclusive.** *The best deal!* Preferred TMU rates negotiated with *Hampton Inn Santa Clarita*. A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
 
 * Option 3: **Premium. **Experience Santa Clarita's finest with a tailored experience in partnership with *Hyatt Regency Valencia. *A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
 
