@@ -1,7 +1,7 @@
 ---
 title: TMU Students Have Much To Be Thankful For
 date: 2017-11-13 22:06:00 Z
-sm-image: "/uploads/tuitionslash.jpg"
+sm-image: "/uploads/THANKFUL_STUDENT.jpg"
 ---
 
 **On Friday, Nov. 10 at The Master’s University, every student and staff member in chapel stood and applauded, shed tears of thankfulness and grabbed their phones to text both parents and friends.**
