@@ -180,7 +180,11 @@ TMU View Weekend is the unforgettable opportunity for prospective students to ex
 All overnight visitors need to bring a sleeping bag and pillow. Any additional overnight evenings in the dorm will cost $10 per night. TMU does not house chaperones or parents in the dorms. 
 
 TMU offers 3 options for family, friends, and guests at preferred negotiated rates:
-|a-la-carte|||
+|      a-la-carte      |      All-inclusive      |      Premium      |
+| choose your options  |        best deal        |                   |
+||||
+||||
+||||
 
 Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
 
