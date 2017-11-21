@@ -190,8 +190,8 @@ TMU is able to provide airport transportation for students flying unaccompanied 
 
 Questions in the meantime? 
 
-* Call 661.362.2363
+* **Call  **661.362.2363
 
-* Text 661.748.0266
+* **Text  **661.748.0266
 
-* Write admissions@masters.edu
+* **Write  **admissions@masters.edu
