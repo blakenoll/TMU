@@ -158,16 +158,30 @@ student-schedule-body: |-
 layout: visit-sub-page
 ---
 
-# View The U
+# March 22-23, 2018: An unforgettable weekend!
 
-A TMU View Weekend is an unforgettable opportunity for prospective students to experience dorm life and attend classes, chapel services, and intercollegiate athletic events.
+TMU View Weekend is the unforgettable opportunity for prospective students to experience dorm life and attend classes, chapel services, and intercollegiate athletic events.
 
-You will also be able to see our faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
+* You will experience our top faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
 
-Registration coming soon for March 22-23rd
+* Get first-hand experience staying in the legendary dorms where friendships are forged.
 
-## Important Information for Registrants:
+* Learn more about majors and areas of study to discover your passion and develop your calling.
 
-All overnight visitors need to bring a sleeping bag and pillow. Any additional overnight evenings in the dorm will cost $10 per night. Unfortunately, we cannot house chaperones or parents in the dorms. Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
+* Worship together with your future classmates in Chapel
+
+* Explore athletics, the music and arts on campus...and, of course, the restaurant!
+
+**(Registration opening soon for March 22-23rd)**
+**Location: **The Master's University, Santa Clarita, CA.
+
+## Important info for registrants:
+
+All overnight visitors need to bring a sleeping bag and pillow. Any additional overnight evenings in the dorm will cost $10 per night. TMU does not house chaperones or parents in the dorms. 
+
+TMU offers 3 options for family, friends, and guests at preferred negotiated rates:
+|a-la-carte|||
+
+Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
 
 TMU is only able to provide airport transportation for students flying unaccompanied. If possible, please make all attempts to fly into [Burbank Airport](http://www.burbankairport.com/) (BUR).
