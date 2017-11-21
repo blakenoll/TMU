@@ -174,7 +174,7 @@ TMU View Weekend is the unforgettable opportunity for prospective students to ex
 
 **(Registration opening soon for March 22-23rd)**
 
-**Location: **The Master's University, Santa Clarita, CA.
+Location: The Master's University, Santa Clarita, CA.
 
 ## Important info for registrants:
 
