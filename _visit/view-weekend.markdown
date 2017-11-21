@@ -160,8 +160,6 @@ layout: visit-sub-page
 
 # March 22-23, 2018: An unforgettable weekend!
 
-**(Registration opening soon for March 22-23rd)**
-
 TMU View Weekend is the unforgettable opportunity for prospective students to experience dorm life and attend classes, chapel services, and intercollegiate athletic events.
 
 * You will experience our top faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
@@ -187,3 +185,13 @@ TMU offers 3 options for family, friends, and guests at preferred negotiated rat
 * Option 3: **Premium**. Experience Santa Clarita's finest with a tailored experience in partnership with *Hyatt Regency Valencia*. A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
 
 TMU is able to provide airport transportation for students flying unaccompanied into [Burbank Airport](http://www.burbankairport.com/) (BUR). If you are flying into Los Angeles (LAX), please contact our coordinator for more info.
+
+**Registration with complete details will be opening soon. **
+
+Questions in the meantime? 
+
+* **Call **661.362.2363
+
+* **Text **661.748.0266
+
+* **Write **admissions@masters.edu
