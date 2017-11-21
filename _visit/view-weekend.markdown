@@ -182,11 +182,11 @@ TMU offers 3 options for family, friends, and guests at preferred negotiated rat
 
 * Option 2: **All-inclusive.** *The best deal!* Preferred TMU rates negotiated with *Hampton Inn Santa Clarita*. A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
 
-* Option 3: **Premium**. Experience Santa Clarita's finest with a tailored experience in partnership with *Hyatt Regency Valencia*. A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
+* Option 3: **Premium**. Experience Santa Clarita's finest with a tailored experience in partnership with *Hyatt Regency Valencia*.  A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
 
 TMU is able to provide airport transportation for students flying unaccompanied into [Burbank Airport](http://www.burbankairport.com/) (BUR). If you are flying into Los Angeles (LAX), please contact our coordinator for more info.
 
-**Registration with complete details will be opening soon. **
+**Registration with complete details will be opening soon**. 
 
 Questions in the meantime? 
 
