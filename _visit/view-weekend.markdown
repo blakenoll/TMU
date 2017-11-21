@@ -1,6 +1,17 @@
 ---
 title: View Weekend
 date: 2017-11-13 17:07:00 Z
+categories:
+- event
+- events
+- admissions
+- visit
+tags:
+- event
+- events
+- visit
+- admissions
+- undergraduate
 date-text: March 22-23, 2018
 image: "/images/ViewWeekend_960x540.jpg"
 banner-image: "/images/ViewWeekend_1920x500.jpg"
