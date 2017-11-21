@@ -180,12 +180,10 @@ All overnight visitors need to bring a sleeping bag and pillow. Any additional o
 
 TMU offers 3 options for family, friends, and guests at preferred negotiated rates:
 
-* Option 1
+* Option 1: **A-la-carte**. Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
 
-* Option 2
+* Option 2: **All-INCLUSIVE. **The best deal! Preferred TMU rates negotiated with *Hampton Inn Santa Clarita*. A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
 
-* Option 3
+* Option 3: **Premium. **Experience Santa Clarita's finest with a tailored experience in partnership with *Hyatt Regency Valencia. *A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
 
-Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
-
-TMU is only able to provide airport transportation for students flying unaccompanied. If possible, please make all attempts to fly into [Burbank Airport](http://www.burbankairport.com/) (BUR).
+TMU is able to provide airport transportation for students flying unaccompanied into [Burbank Airport](http://www.burbankairport.com/) (BUR). If you are flying into Los Angeles (LAX), please contact our coordinator for more info.
