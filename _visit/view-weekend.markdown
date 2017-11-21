@@ -1,11 +1,11 @@
 ---
 title: View Weekend
 date: 2017-11-13 17:07:00 Z
-date-text: March 22-23rd
+date-text: March 22-23, 2018
 image: "/images/ViewWeekend_960x540.jpg"
 banner-image: "/images/ViewWeekend_1920x500.jpg"
-button-txt: Register
-button-link: http://www.masters.edu/visit/#view
+button-txt: 'Registration opening soon '
+button-link: 
 preview-text: View Weekend
 parent-schedule-body: |-
   Parent Schedule
