@@ -173,6 +173,7 @@ TMU View Weekend is the unforgettable opportunity for prospective students to ex
 * Explore athletics, the music and arts on campus...and, of course, the restaurant!
 
 **(Registration opening soon for March 22-23rd)**
+
 **Location: **The Master's University, Santa Clarita, CA.
 
 ## Important info for registrants:
@@ -180,11 +181,9 @@ TMU View Weekend is the unforgettable opportunity for prospective students to ex
 All overnight visitors need to bring a sleeping bag and pillow. Any additional overnight evenings in the dorm will cost $10 per night. TMU does not house chaperones or parents in the dorms. 
 
 TMU offers 3 options for family, friends, and guests at preferred negotiated rates:
-|      a-la-carte      |      All-inclusive      |      Premium      |
-| choose your options  |        best deal        |                   |
-||||
-||||
-||||
+Option 1:
+Option 2:
+Option 3:
 
 Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
 
