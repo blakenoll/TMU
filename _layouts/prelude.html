@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% include parallax-header.html %}
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col s12">
+      <nav>
+       <div class="nav-wrapper white">
+         <div class="col s12">
+           <a href="{{ "/music/" | prepend: site.url }}" class="breadcrumb">Music</a>
+           <a href="#!" class="breadcrumb">{{ page.title }}</a>
+         </div>
+       </div>
+     </nav>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s12">
+      <img src="{{ page.image}}" alt="" class="responsive-img">
+    </div>
+    <div class="col s12">
+      <div class="row">
+        <div class="col s12">
+          <a href="{{page.button-link}}" class="btn btn-navy right">{{page.button-txt}}</a>
+        </div>
+      </div>
+      {{ content }}
+    </div>
+  </div>
+</div>
