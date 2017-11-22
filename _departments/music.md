@@ -795,10 +795,18 @@ bm-credits:
 ensembles:
 - name: The Master's Chorale
   image: http://www2.masters.edu/w/GetHostedFile.ashx?chorale.jpg&Id=161
-  body: |-
-    The Master's Chorale is a 60-member auditioned concert choir representing 30 states and virtually every major area of study. They perform sacred music from every major period, relating spiritual truth to people today. The Chorale performs throughout the year on and off campus. They have toured many parts of the United States, the United Kingdom, and have been guests of the Ministry of Tourism in Israel in 1993, 1997, 2001 and 2005.
-
-    In 2003 and 2006, the Chorale performed at Carnegie Hall in New York City. They will travel to Israel and Italy this year on their summer tour. Along with their own albums, they have recorded for Phil Barfoot, Steve Bock, Don Marsh, David Clydesdale and Ligonier Ministries. They were the featured choir of a series of hymn-story books with CD, featuring John MacArthur, Joni Eareckson Tada and Robert and Bobbie Wolgumuth. They also recorded Let Heaven and Nature Sing, a Christmas album arranged by David T. Clydesdale. Most recently they recorded "Light All Around".
+  body: "The Master's Chorale a 60-member auditioned choir under the direction of
+    Dr. Paul Plew, represents students from across the United States and around the
+    world. The Chorale is built of students from almost every academic major on the
+    university campus. During their annual tours, they have traveled to various regions
+    of the United States as well as special tours to the United Kingdom, Spain, Albania
+    and Russia. \n\nAdditionally, the Chorale has had the unique privilege of traveling
+    to Israel every four years since 1993. They performed at Carnegie Hall in New
+    York City in 2003 and 2007 and at Lincoln Center in May 2011. The Chorale has
+    been featured in recordings with Bob Krogstad, John MacArthur, and Joni Eareckson
+    Tada as well as a special recording for Slowly in Type Music at Capitol Records
+    in Los Angeles. Most recently, the Chorale filmed and recorded a special television
+    segment for Wretched TV."
 - name: 'Wind Ensemble '
   image: "/uploads/2016-2017.jpg"
   body: |-

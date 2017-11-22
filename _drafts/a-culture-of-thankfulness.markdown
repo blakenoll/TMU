@@ -1,6 +1,7 @@
 ---
 title: A Culture of Thankfulness
 date: 2017-11-20 21:30:00 Z
+sm-image: "/uploads/THANKFULNESS.jpg"
 ---
 
 ## **Across the centuries, notable individuals have magnified the importance of being thankful.**
