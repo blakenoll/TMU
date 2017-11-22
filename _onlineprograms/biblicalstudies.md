@@ -27,6 +27,8 @@ about-body: |-
   ### Textbooks
 
   [Click here](/media/870449/ba-bs-booklist1002.pdf) to view the Textbooks for all Online Biblical Studies courses.
+
+  [Senior Integration Seminar Booklist](/uploads/B400%20Senior%20Integration%20Seminar%20Booklist.pdf)
 major-requirments-body: |-
   ### Bible General
 
