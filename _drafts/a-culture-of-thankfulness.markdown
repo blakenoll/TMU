@@ -1,7 +1,6 @@
 ---
 title: A Culture of Thankfulness
 date: 2017-11-20 21:30:00 Z
-author: Sabrina Michael
 sm-image: "/uploads/THANKFULNESS.jpg"
 ---
 
