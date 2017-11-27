@@ -45,6 +45,14 @@ app-checklist:
 
     See: [http://www.masters.edu/financial-aid/general-undergraduate](http://www.masters.edu/financial-aid/general-undergraduate)
 layout: freshadmissions
+app-deadlines:
+- text: 'Extended Early Application: Celebrating the NEW tuition structure, we extend
+    the application fee waiver and provide you and early admissions decision.'
+  red-text: DEC 15, 2017
+- text: 'PRIORITY DECISION: Receive full consideration for the Fall 2018 semester'
+  red-text: FEB 23, 2018
+- text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
+    consideration for Fall 2018'
 ---
 
 Application Checklist

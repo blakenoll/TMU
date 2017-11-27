@@ -36,11 +36,16 @@ layout: default
         {{ content }}
       </div>
   </div>
+  <div class="row spacing">
+    <div class="col s12 m10 offset-m1 flow-text">
+      {{ page.blurb-body | markdownify }}
+    </div>
+  </div>
   <div class="row">
     <div class="col s12">
       <h1>Application Checklist</h1>
         {% for item in page.app-checklist %}
-        <div class="col s12 card hoverable">
+        <div class="col s12 m10 offset-m1 card hoverable">
           <div class="col s2">
             <h2 style="font-size: 64px; color: #DAAA00;">{{ forloop.index}}.</h2>
           </div>
@@ -51,6 +56,73 @@ layout: default
           </div>
         </div>
         {% endfor %}
+    </div>
+  </div>
+  <div class="row spacing">
+
+  </div>
+</div>
+<div class="parallax-container visit-parallax">
+<div class="parallax"><img src="http://www.masters.edu/images/Location.jpg" alt=" header-img" style="display: block; transform: translate3d(-50%, 121px, 0px);"></div>
+<div class="container" style="height: 100%">
+  <h1 class="program-title blakc-text center">Application Deadlines</h1>
+  {% for item in page.app-deadlines %}
+  <div class="row">
+    <div class="col s12 m8 offset-m2 card hoverable white valign-wrapper" style="padding: 15px;">
+      <div class="col s12 m4">
+        {{ item.text }}
+      </div>
+      <div class="col s12 m4 offset-m4 center date">
+        {{ item.red-text }}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+</div>
+<div class="container">
+  <div class="row spacing">
+    <div class="col s12 m10 offset-m1">
+      <h1 class="center">Helpful Links</h1>
+      <a href="/financial-aid">
+        <div class="col s12 m4">
+          <div class="vector-card">
+            <img src="/uploads/AdmissionFinAid_Loans.png" alt="" width="100%">
+            <h3 class="center">Financial Aid</h3>
+          </div>
+        </div>
+      </a>
+      <a href="/financial-aid/scholarship-search">
+        <div class="col s12 m4">
+          <div class="vector-card">
+            <img src="/images/AcademicsUndergradIcons_Liberal%20Studies.png" alt="" width="100%">
+            <h3 class="center">Scholarship Search</h3>
+          </div>
+        </div>
+      </a>
+      <a href="/academics/undergraduate">
+        <div class="col s12 m4">
+          <div class="vector-card">
+            <img src="/uploads/AcademicsOnline_OnlineGenEd.png" alt="" width="100%">
+            <h3 class="center">Academics</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+
+  </div>
+  <div class="row spacing center">
+    <div class="card navy">
+      <div class="card-content white-text">
+        <span class="card-title">Have a Question?</span>
+        <p>Call:<a href="tel:16613622363">  661.362.2363</a></p>
+        <p>or Text: <a href="tel:6617480266">661.748.0266</a></p>
+        {{ page.have-a-question-text}}
+      </div>
+      <div class="card-action">
+        <a href="https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB" class="btn btn-gold">Apply Now</a>
+        <a href="https://masters.tfaforms.net/217731" class="btn btn-gold">Request Info</a>
+      </div>
     </div>
   </div>
 </div>
