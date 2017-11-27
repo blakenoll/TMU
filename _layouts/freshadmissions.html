@@ -41,10 +41,10 @@ layout: default
       <h1>Application Checklist</h1>
         {% for item in page.app-checklist %}
         <div class="col s12 card hoverable">
-          <div class="col s3">
+          <div class="col s2">
             <h2 style="font-size: 64px; color: #DAAA00;">{{ forloop.index}}.</h2>
           </div>
-          <div class="col s9">
+          <div class="col s10">
             <div class="" style="padding: 20px;">
               {{ item.body | markdownify }}
             </div>
