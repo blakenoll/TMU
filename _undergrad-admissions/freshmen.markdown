@@ -44,7 +44,7 @@ app-checklist:
     The Master's University offers Merit-based Scholarships, Need-based Grants, and Federal/State Aid. All Institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.
 
     See: [http://www.masters.edu/financial-aid/general-undergraduate](http://www.masters.edu/financial-aid/general-undergraduate)
-layout: page
+layout: freshadmissions
 ---
 
 Application Checklist
