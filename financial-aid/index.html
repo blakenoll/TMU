@@ -101,19 +101,6 @@ body: |-
       </div>
       <div class="col s12 m9 pull-m3">
         <div class="row">
-          <p>Thank you for visiting the Financial Aid Website for the Master’s University. The webpage is currently under construction. If you have questions regarding financial aid, we would be happy to assist you. Please contact us by one of the options below:</p>
-          <p><strong>Phone:</strong> 800-568-6248 or 661-362-2290 <br>
-            <strong>Email:</strong> financialaid@masters.edu<br>
-            <strong>Fax: 661-362-2693<br>
-              Address</strong>:<br>
-              The Master’s University<br>
-              Financial Aid Office<br>
-              21726 Placerita Canyon Rd<br>
-              Santa Clarita, CA 91321<br><br></p>
-          <p>We are open from 8:30am to 5:00pm, Monday through Friday. We would be happy for you to drop by without an appointment.</p>
-          <p>For Online and Printable Forms see below.</p>
-        </div>
-        <div class="row">
           {% assign topics = site.financialaid | sort: 'title' %}
           {% for topic in site.financialaid %}
           <a href="{{ topic.url | prepend: site.url }}">
