@@ -383,19 +383,19 @@ upcoming-events:
   description: |-
     7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
 
-    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://www.masters.edu/music).
+    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://masters-music.tix.com/Schedule.aspx?OrgNum=2178).
 - title: Come Christmas Sing Concerts, “Joy to the World”
   date: 2017-12-01 00:00:00 Z
   description: |-
     7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
 
-    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://www.masters.edu/music).
+    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://masters-music.tix.com/Schedule.aspx?OrgNum=2178).
 - title: Come Christmas Sing Concerts, “Joy to the World”
   date: 2017-12-02 00:00:00 Z
   description: |-
     7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
 
-    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://www.masters.edu/music).
+    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://masters-music.tix.com/Schedule.aspx?OrgNum=2178).
 - title: Piano Extravaganza
   date: 2018-02-08 00:00:00 Z
   description: 
