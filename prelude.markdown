@@ -9,7 +9,7 @@ layout: prelude
 
 November 12-13, 2017
 
-Looking for a music program dedicated to growing and stretching your talent and your character? Come check out The Master’s University Music Department! While you're here, you'll have the opportunity to meet our faculty and current students, visit classes and chapel, stay in the dorms, tour the campus and hear our ensembles perform. You'll also be able to learn more about enrollment and financial aid at TMU as well as audition for a music scholarship.
+Looking for a music program dedicated to growing and stretching your talent and your character? Come check out The Master’s University School of Music! While you're here, you'll have the opportunity to meet our faculty and current students, visit classes and chapel, stay in the dorms, tour the campus and hear our ensembles perform. You'll also be able to learn more about enrollment and financial aid at TMU as well as audition for a music scholarship.
 
 [REGISTER HERE ](https://www.formstack.com/forms/?1130716-KK3hEWI7MZ "Register Here")  By November 6th.
 
@@ -21,37 +21,53 @@ E-mail [music@masters.edu](mailto:music@masters.edu) with inquiries or call 800-
 
 We want you to be a part of our growing music department!
 
-Music Department Auditions (optional)
+School of Music  Auditions (optional)
 
 For more information regarding Music Auditions, please email the [Music Department](mailto:music@masters.edu)
 
 Schedule:
 
-**Sunday**
+**SUNDAY**
 
-7:30-8:30 pm Registration, Dessert Reception & Meet the Dept. Chair
+7:30 pm Registration & Dessert Reception
 
-8:30-9:00 pm Chorale Concert Overnight Stay in Dorms
+7:45 Meet the Dean
+
+8:10 School of Music Tour
+
+8:30 The Master’s Chorale Performance
+
+9:00 Overnight Stay in the Dorms
 
 **MONDAY**
 
-9:10-10:25 am Chapel
+8:30 am Breakfast with Admissions
 
-10:40-11:35 am Class Visits/Campus Tour
+9:10 Chapel
 
-11:45-12:40 pm Class Visits/Campus Tour
+10:40 Class Visitation or Campus Tour
 
-12:45-1:45 pm Lunch with Music Faculty
+11:45 Lunch with Music Faculty
 
-2:00-4:00 pm Closed Music Scholarship Auditions
+12:40 pm Ensemble Performance
 
-1:55-3:40 pm Ensemble Performances/Class Visits
+12:50 Class Visitation or Admissions & Financial Aid Seminar
 
-3:30-4:30 pm Admissions and Financial Aid Seminar
+2:00 Entrance/Scholarship Auditions Begin
 
-4:20-5:00 pm Final Thoughts and Q&A with Dr. Plew
+2:15 Student Panel
 
-5:00-6:15 pm University Singers Rehearsal
+3:10 Ensemble Performances
+
+3:30 Class Visitation
+
+4:20 Closing Meeting with Dr. Plew
+
+5:00 University Singers / Orchestra Rehearsal
+
+6:15 Dismissal
+
+7:00 *Optional: Intro to* *Audio Technology class with Prof. John Martin*
 
 **Important Information for Registrants:**
 
