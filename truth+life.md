@@ -7,9 +7,6 @@ schedule:
   - time: 5:00 - 7:00
     event: Late Registration
     location: MacArthur Center
-  - time: 5:30-6:30pm
-    event: Speaker Dinner
-    location: Legacy Center
   - time: "7:00-8:30pm\t"
     event: 'Main Session I: JOHN MACARTHUR'
     location: MacArthur Center
