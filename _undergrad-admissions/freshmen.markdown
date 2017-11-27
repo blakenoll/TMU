@@ -34,7 +34,7 @@ app-checklist:
     2. Send SAT scores [HERE](https://account.collegeboard.org/login/login?idp=ECL&appId=115&DURL=https%3A//nsat.collegeboard.org/satweb/login.jsp&affiliateId=aru%7Canypage&bannerId=ht%7Cnsat-send)
 
     3. College Board Code for The Master’s University – *4411*
-- body: Read** **the [Doctrinal Statement](http://www.masters.edu/about) and [Student
+- body: Read the [Doctrinal Statement](http://www.masters.edu/about) and [Student
     Handbook](http://www.masters.edu/handbook).
 - body: |-
     **Complete Financial Aid Application**
