@@ -30,6 +30,8 @@ layout: default
       <div class="container">
          <div class="row">
             <div class="col s12 l8">
+               <br>
+              <a class="btn tbn-navy hide-on-large-only"href="http://masters-music.tix.com/Schedule.aspx?OrgNum=2178">Purchase Tickets</a>
               <h2>Upcoming Events</h2>
               {% assign current = "now" | date: "%Y%m%d" %}
               <ul>
@@ -57,7 +59,7 @@ layout: default
                <p><a class="btn btn-navy music-btn" href="#modal2">Alumni NYC Trip</a></p>
                <p><a class="btn btn-navy music-btn" href="http://portal.stretchinternet.com/tmuadmin/" target="_blank">Live Stream</a></p>
                <p><a class="btn btn-navy music-btn" href="{{ "/theatre-arts" | prepend: site.url }}" target="_blank">Theatre Arts</a></p>
-               
+
                <h2>Youth Programs</h2>
                {% for program in page.youth-programs %}
                <!-- Modal Trigger -->
