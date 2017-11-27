@@ -44,7 +44,7 @@ app-checklist:
     The Master's University offers Merit-based Scholarships, Need-based Grants, and Federal/State Aid. All Institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.
 
     See: [http://www.masters.edu/financial-aid/general-undergraduate](http://www.masters.edu/financial-aid/general-undergraduate)
-blurb-body:
+blurb-body: 
 app-deadlines:
 - text: 'Extended Early Application: Celebrating the NEW tuition structure, we extend
     the application fee waiver and provide you and early admissions decision.'
@@ -52,7 +52,7 @@ app-deadlines:
 - text: 'PRIORITY DECISION: Receive full consideration for the Fall 2018 semester'
   red-text: FEB 23, 2018
 - text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
-    consideration for Fall 2018' 
+    consideration for Fall 2018'
 layout: freshadmissions
 ---
 
