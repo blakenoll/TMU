@@ -3,10 +3,11 @@ title: Finals Lunch
 date: 2017-11-29 18:13:00 Z
 layout: page
 ---
+
 <div class="row">
   <div class="col s6 offset-s3">
     <h1 class="center">Finals Week Lunch Request</h1>
-    <form method="POST" action="http://formspree.io/nollblake@gmail.com, lreyes@masters.edu">
+    <form method="POST" action="http://formspree.io/lreyes@masters.edu">
       <div class="control-group">
         <label class="control-label" for="inputEmail">First</label>
         <div class="controls">
@@ -159,7 +160,7 @@ layout: page
     <div class="form-group">
       <textarea class="form-control" rows="5" id="comment" name="Allergies explained"></textarea>
     </div>
-      <button class="btn btn-navy"type="submit">Send</button>
+      <button class="btn btn-navy" type="submit">Send</button>
     </form>
   </div>
 </div>
