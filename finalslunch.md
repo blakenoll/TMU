@@ -160,7 +160,7 @@ layout: page
     <div class="form-group">
       <textarea class="form-control" rows="5" id="comment" name="Allergies explained"></textarea>
     </div>
-      <button class="btn btn-navy"type="submit">Send</button>
+      <button class="btn btn-navy" type="submit">Send</button>
     </form>
   </div>
 </div>
