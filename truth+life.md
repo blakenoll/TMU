@@ -1,5 +1,5 @@
 ---
-title: Truth & Life
+title: Truth and Life
 permalink: "/truthandlife"
 schedule:
 - date: 2018-01-10 00:00:00 Z
