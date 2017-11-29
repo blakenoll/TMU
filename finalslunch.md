@@ -7,7 +7,7 @@ layout: page
 <div class="row">
   <div class="col s6 offset-s3">
     <h1 class="center">Finals Week Lunch Request</h1>
-    <form method="POST" action="http://formspree.io/nollblake@gmail.com, lreyes@masters.edu">
+    <form method="POST" action="http://formspree.io/lreyes@masters.edu">
       <div class="control-group">
         <label class="control-label" for="inputEmail">First</label>
         <div class="controls">
