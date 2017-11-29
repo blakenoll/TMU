@@ -29,7 +29,8 @@ var tipuesearch_replace = {'words': [
 var tipuesearch_weight = {'weight': [
      {'url': 'http://www.tipue.com', 'score': 20},
      {'url': 'http://www.tipue.com/search', 'score': 30},
-     {'url': 'http://www.tipue.com/is', 'score': 10}
+     {'url': 'http://www.tipue.com/is', 'score': 10},
+     {'url': 'http://www.masters.edu/truthandlife', 'score': 1000}
 ]};
 
 
@@ -77,4 +78,3 @@ var tipuesearch_string_15 = 'Searches related to';
 // Timer for showTime
 
 var startTimer = new Date().getTime();
-
