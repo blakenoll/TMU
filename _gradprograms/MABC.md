@@ -82,11 +82,11 @@ courses-body: |-
 
   This course offers a consideration of the theological realities that form the basis of a proper approach to counseling. Special emphasis is given to the nature of God and of man (fallen and unfallen), a biblical definition of the image of God, the nature of sin, the realities of regeneration and progressive sanctification, the concept of “the flesh” (old man/new man), an understanding of the heart/mind as used in Scripture and the place of the local church in the ministry of counseling.
 
-  ## [BC521 - PROBLEMS & PROCEDURES](http://www.masters.edu/academics/graduate/video/bc521.aspx?width=575&height=365)
+  ## BC521 - PROBLEMS & PROCEDURES
 
   This course is designed to apply the biblical principles taught in the Introduction to Biblical Counseling (BC501) and the Methods of Biblical Change (BC503) courses to a range of specific counseling problems. Topics discussed include anger, fear, depression, homosexuality, anxiety, eating disorders, incest, child abuse, counseling youth, counseling divorcees, and crisis counseling. During the second semester of this course, each student will research and present to the class a detailed biblical counseling outline for a teacher-approved counseling issue. Pre-Requisite: BC501, BC531, BC503, BC511.
 
-  ## [BC531 - HERMENEUTICS](http://www.masters.edu/academics/graduate/video/bc531.aspx?width=575&height=365)
+  ## BC531 - HERMENEUTICS
 
   This course is an introduction to the science and art of interpretation, with special attention to the application of Scripture to counseling. Various interpretive approaches on key scriptural passages will be examined, especially as they relate to the biblical counselor and his task.
 
@@ -114,7 +114,7 @@ courses-body: |-
 
   This course consists of observations and discussions of counseling sessions and practice in counseling by correspondence. It is designed to help the student learn practical skills in counseling by observation, evaluation, ciritique, discussion and actual practice. Pre-Requisite: BC501, BC531, BC503, BC511.
 
-  ## [BC592 - COUNSELING INTERNSHIP](http://www.masters.edu/academics/graduate/video/bc592.aspx?width=575&height=365)
+  ## BC592 - COUNSELING INTERNSHIP
 
   This is a supervised and evaluated internship, consisting of at least two actual counseling sessions per week, and a total of 25 hours of counseling. Prerequisites: All core courses.
 
@@ -248,6 +248,8 @@ tuition-body: |-
   * **$495** week for meals and housing for traveling distance students in the summer semesters
 
   * Unknown travel or relocation expenses you may incur for the program
+
+  * A $250 deposit is required upon admission before your new student account can be finalized. See the instructions under Steps to Apply [here](http://www.masters.edu/admissions/#graduate).
 
   ## **Scholarships**
 
