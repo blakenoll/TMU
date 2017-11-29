@@ -30,7 +30,7 @@ date: 2017-11-29 18:13:00 Z
 <input type="text" id="inputID" placeholder="ID #" name="ID">
 </div>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel13">Select Your Meal Plan</label>
 <select class="form-control" id="sel13" name="Meal Plan">
 <option value="20+flex">20 meals per week plus $150 flex</option>
@@ -45,7 +45,7 @@ date: 2017-11-29 18:13:00 Z
 </select>
 </div>
 <h3>Days Needed</h3>
-<div class="form-group">
+<div class="input-field">
 <label for="sel1">Monday May 1st</label>
 <select class="form-control" id="sel1" name="Monday">
 <option value="N/A">None</option>
@@ -53,7 +53,7 @@ date: 2017-11-29 18:13:00 Z
 <option value="1:00 PM">1:00 PM</option>
 </select>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel2">Tuesday May 2nd</label>
 <select class="form-control" id="sel2" name="Tuesday">
 <option value="N/A">None</option>
@@ -61,7 +61,7 @@ date: 2017-11-29 18:13:00 Z
 <option value="1:00 PM">1:00 PM</option>
 </select>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel3">Wednesday May 3rd</label>
 <select class="form-control" id="sel3" name="Wednesday">
 <option value="N/A">None</option>
@@ -69,7 +69,7 @@ date: 2017-11-29 18:13:00 Z
 <option value="1:00 PM">1:00 PM</option>
 </select>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel4">Thursday May 4th</label>
 <select class="form-control" id="sel4" name="Thursday">
 <option value="N/A">None</option>
@@ -80,7 +80,7 @@ date: 2017-11-29 18:13:00 Z
 <p>
 Each sack lunch comes with a sandwich, bag of chips, fruit, dessert and drink. Please specify below which sandwich and sides you would prefer and let us know about any dietary restrictions.
 </p>
-<div class="form-group">
+<div class="input-field">
 <label for="sel5">Bread</label>
 <select class="form-control" id="sel5" name="Bread">
 <option value="White">White</option>
@@ -90,7 +90,7 @@ Each sack lunch comes with a sandwich, bag of chips, fruit, dessert and drink. P
 <option value="None">None</option>
 </select>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel6">Meat</label>
 <select class="form-control" id="sel6" name="Meat">
 <option value="Pastrami">Pastrami</option>
@@ -100,7 +100,7 @@ Each sack lunch comes with a sandwich, bag of chips, fruit, dessert and drink. P
 <option value="None">None</option>
 </select>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel7">Cheese</label>
 <select class="form-control" id="sel7" name="Cheese">
 <option value="American">American</option>
@@ -109,7 +109,7 @@ Each sack lunch comes with a sandwich, bag of chips, fruit, dessert and drink. P
 <option value="None">None</option>
 </select>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel8">Other</label>
 <select class="form-control" id="sel8" name="Other">
 <option value="Lettuce">Lettuce</option>
@@ -118,7 +118,7 @@ Each sack lunch comes with a sandwich, bag of chips, fruit, dessert and drink. P
 <option value="None">None</option>
 </select>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel9">Fruit</label>
 <select class="form-control" id="sel9" name="Fruit">
 <option value="Apple">Apple</option>
@@ -126,7 +126,7 @@ Each sack lunch comes with a sandwich, bag of chips, fruit, dessert and drink. P
 <option value="None">None</option>
 </select>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel10">Dessert</label>
 <select class="form-control" id="sel10" name="Dessert">
 <option value="Cookie">Cookie</option>
@@ -134,7 +134,7 @@ Each sack lunch comes with a sandwich, bag of chips, fruit, dessert and drink. P
 <option value="None">None</option>
 </select>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel11">Drink</label>
 <select class="form-control" id="sel11" name="Drink">
 <option value="Soda">Soda</option>
@@ -143,7 +143,7 @@ Each sack lunch comes with a sandwich, bag of chips, fruit, dessert and drink. P
 <option value="Water">Water</option>
 </select>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="sel12">Allergies</label>
 <div class="checkbox">
 <label><input type="checkbox" value="Dairy" name="Allergies">Dairy</label>
@@ -157,7 +157,7 @@ Each sack lunch comes with a sandwich, bag of chips, fruit, dessert and drink. P
 <div class="checkbox">
 <label><input type="checkbox" value="Peanuts" name="Allergies">Peanuts</label>
 </div>
-<div class="form-group">
+<div class="input-field">
 <label for="usr">Other:</label>
 <input type="text" class="form-control" id="usr" name="Allergies">
 </div>
@@ -165,7 +165,7 @@ Each sack lunch comes with a sandwich, bag of chips, fruit, dessert and drink. P
 <p>
 If you have allergies, please specify what you are able to eat:
 </p>
-<div class="form-group">
+<div class="input-field">
 <textarea class="form-control" rows="5" id="comment" name="Allergies explained"></textarea>
 </div>
 <button type="submit" class="btn btn-blue" style="width: 100%;">Send</button>
