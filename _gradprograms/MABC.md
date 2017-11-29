@@ -249,7 +249,7 @@ tuition-body: |-
 
   * Unknown travel or relocation expenses you may incur for the program
 
-  * A $250 deposit is required upon admission before your new student account can be finalized. See the instructions under Steps to Apply [here](http://www.masters.edu/admissions/#graduate).
+  * **A $250 deposit is required upon admission before your new student account can be finalized. See the instructions under Steps to Apply [here](http://www.masters.edu/admissions/#graduate).**
 
   ## **Scholarships**
 
