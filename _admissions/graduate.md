@@ -38,7 +38,11 @@ Please make sure to remind your school that the "Box #50" must be included in th
 
 Only for students in which English is not their first language, you will need to complete and score a minimum of 100 on the Test of English as a Foreign Language (TOEFL). Please visit their [website here](https://www.toeflgoanywhere.org/search-who-accepts-toefl) and search for "Master's College" or "Master's University" in Santa Clarita as the school where you would like your exam scores sent.
 
+<div id="deposit">
+
 When all of the application items have been completed and sent to us (online application, recommendations, official transcripts, TOEFL), then your application will be ready for review by the Admissions Committee in the Graduate Studies Office.  Assuming the Admissions Committee grants you acceptance, you will be instructed to pay a $250 deposit that will act as payment toward your first class(es). We will not be able to finalize setting up your new student account until the deposit is paid. You will be granted the opportunity to pay the deposit electronically through our PayPal service provider upon accepting the offer of admission, or you may send the deposit via mail to the address listed above.
+
+</div>
 
 \*Those who went to schools under a previous last name, please make sure to provide your Former Last Name in the application so that we can identify your transcripts. Thank you!
 
