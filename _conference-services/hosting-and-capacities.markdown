@@ -7,7 +7,7 @@ date: 2017-10-25 18:43:00 Z
 
 All throughout the year, institutional events and reservations have first priority on our calendar. This especially comes into play during the semester when the whole campus is alive with classes, student events, and regular day-to-day activities dealing with campus life.
 
-Because of this, the availability of our classrooms is very limited; however, groups can generally reserve a classroom during the evenings or on weekends. Our athletic facilities are also limited during the school year due to the athletic schedules of our teams.
+Because of this, the availability of our classrooms is very limited; however, groups can generally reserve a classroom during the evenings or on weekends. Our athletic facilities are also limited during the school year due to the athletic schedules of our teams. 
 
 Some facilities are not available at all during the school year (August-May). Students reside in the dorms during the semester, which means that our dormitories are not available to groups at all during the semester schedule. Our cafeteria is also not available for regular cafeteria use during the school year.
 

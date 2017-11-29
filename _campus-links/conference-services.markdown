@@ -1,7 +1,7 @@
 ---
 title: Conference Services
 date: 2017-04-11 23:21:00 Z
-layout: conferenceservices
+published: false
 contact-body: |-
   *For more information or to make a reservation, please contact...*
 
@@ -359,6 +359,7 @@ athletic-facilities-body: |-
   #### $120 per day
 
   \*Prices listed for the 2015school year and will be subject to change.
+layout: conferenceservices
 ---
 
 The Master's University in Santa Clarita, California, is located on over 95 tree-filled acres in the beautiful Placerita Canyon. The campus' natural beauty provides an inviting environment for your next conference or retreat. The facilities provide over a dozen meeting rooms with audio/visual setups and stadium seating, and our dormitories will sleep over 700 people during the summer.

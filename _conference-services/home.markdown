@@ -1,17 +1,17 @@
 ---
 title: Home
 date: 2017-10-25 18:40:00 Z
-permalink: "/conference-services-test/"
+permalink: "/conference-services/"
 amenities:
 - name: Gym
-  image: 
+  image: "/uploads/ConfServ_Gym.png"
   body: "* hardcourt floor (basketball)\n* chapel set up (podium)\n* conference set-up
     (chairs)\n* hosts up to 1,350 people for conferences (people) \n"
 - name: Athletic Field
   body: |
     * turf field (soccer ball)
     * half or whole field available (1/2)
-  image: 
+  image: "/uploads/ConfServ_AthleticField.png"
 - name: Conference Hall
   body: |
     * VGA connection (cord)
@@ -20,21 +20,21 @@ amenities:
     * catering (serving tray)
     * stage and podium (stage)
     * hosts up to 300 people (people)
-  image: 
+  image: "/uploads/ConfServ_ConferenceHall.png"
 - name: Dorms
   body: |
     * 2 people per room (bed)
     * coin laundry (washing machine)
     * community bathrooms (shower head)
     * hosts 84-194 people (people)
-  image: 
+  image: "/uploads/ConfServ_Dorms.png"
 - name: Cafeteria
   body: |
     * breakfast, lunch, & dinner (table setting)
     * gluten-free, vegetarian, vegan options offered (grains)
     * buffet-style service (serving spoon)
     * catering available (serving tray)
-  image: 
+  image: "/uploads/ConfServ_Cafeteria.png"
 - name: Classrooms
   body: |
     * VGA connection (cord)
@@ -42,7 +42,7 @@ amenities:
     * whiteboards (marker)
     * desks and chairs (desk/chair)
     * hosts 15-125 people (people)
-  image: 
+  image: "/uploads/ConfServ_Classrooms.png"
 whats-near-image: "/uploads/ConferenceServices_MapPrint.png"
 layout: conferenceserv
 ---

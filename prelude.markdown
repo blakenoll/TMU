@@ -1,9 +1,9 @@
 ---
 title: Prelude
 date: 2017-11-22 19:36:00 Z
-button-text: 
-button-link: 
-image: 
+button-text: Register
+button-link: https://www.formstack.com/forms/?1130716-KK3hEWI7MZ
+image: "/images/Music@Masters_1920x500.jpg"
 layout: prelude
 ---
 
