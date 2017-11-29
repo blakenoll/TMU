@@ -40,7 +40,7 @@ Only for students in which English is not their first language, you will need to
 
 <div id="deposit">
 
-When all of the application items have been completed and sent to us (online application, recommendations, official transcripts, TOEFL), then your application will be ready for review by the Admissions Committee in the Graduate Studies Office.  Assuming the Admissions Committee grants you acceptance, you will be instructed to pay a $250 deposit that will act as payment toward your first class(es). We will not be able to finalize setting up your new student account until the deposit is paid. You will be granted the opportunity to pay the deposit electronically through our PayPal service provider upon accepting the offer of admission, or you may send the deposit via mail to the address listed above.
+When all of the application items have been completed and sent to us (online application, recommendations, official transcripts, TOEFL), then your application will be ready for review by the Admissions Committee in the Graduate Studies Office.  **Assuming the Admissions Committee grants you acceptance, you will be instructed to pay a $250 deposit that will act as payment toward your first class(es). We will not be able to finalize setting up your new student account until the deposit is paid. You will be granted the opportunity to pay the deposit electronically through our PayPal service provider upon accepting the offer of admission, or you may send the deposit via mail to the address listed above.**
 
 </div>
 
