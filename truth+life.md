@@ -114,3 +114,4 @@ speakers:
 layout: truthandlife
 ---
 
+The 2018 Truth & Life Conference is focused on the topic of “Walking in Wisdom” from the Proverbs. Our speakers this year are Dr. John MacArthur, Dr. Steve Lawson, and Dr. Tom Pennington. The goal of each main session is to provide theological depth and personal enrichment to all in attendance. Our desire is to challenge and equip believers with the truths of the Proverbs and their application to many facets of daily life in this world.
