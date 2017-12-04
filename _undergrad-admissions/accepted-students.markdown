@@ -1,6 +1,7 @@
 ---
 title: Accepted Students
 date: 2017-12-04 19:55:00 Z
+layout: acceptedstudents
 ---
 
 
