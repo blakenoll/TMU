@@ -25,11 +25,13 @@ forms-body: |-
 
   Spring Semester December 31
 
-  ### [New Student Health Record](/uploads/New%20Student%20Health%20Record%20Nov.%202017.pdfhttp://)
+  ### [New Student Health Record](https://secure.rightsignature.com/templates/0c02141f-3b85-462f-8c81-10f3b1df6a68/template-signer-link/87e926d2cf3bb6fb5ca9d2352ae3bbc5)
 
   ### [Immunization Waiver](https://www.masters.edu/media/869955/immunization-waiver.pdf)
 
   ### [Additional for Intercollegiate Student-Athletes](http://athletics.masters.edu/athleticslinks/medical-forms/)
+
+  \(If a minor please contact the Health Center at [661-362-2655)](tel:16613622655)
 self-care-body: |-
   Students can use the Self-Care First Aid and Cold Center to treat ailments such as colds, minor aches and pains, and minor injuries. It is stocked with over-the-counter medications and first aid supplies. Please take only what supplies you need.
 
