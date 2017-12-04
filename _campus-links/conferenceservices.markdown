@@ -1,7 +1,6 @@
 ---
 title: Conference Services
 date: 2017-04-11 23:21:00 Z
-published: false
 redirect_to: http://www.masters.edu/conference-services/
 layout: redirect
 ---
