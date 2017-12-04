@@ -33,10 +33,29 @@ layout: default
       </div>
       </div>
       <div class="col s12 l7">
-          <img src="http://www.masters.edu/images/IntlAdmissions.jpg" alt="" width="100%">
-
-        {{ content }}
+        {{ content}}
       </div>
+
+
+  </div>
+  <div class="row spacing">
+    <div class="col s12 l6 offset-l3">
+      <div class="card horizontal">
+        <div class="card-image">
+          <img src="http://www.masters.edu/images/IMG_1046.JPG">
+        </div>
+        <div class="card-stacked">
+          <div class="card-content">
+            <h3 class="center">Inernational Admissions Counselor:</h3>
+            <br>
+            {{ counselor-blurb | markdownify }}
+          </div>
+          <div class="card-action">
+            <a href="http://www.masters.edu/admissions/josh-english">Contact</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
   <div class="row spacing">
     <div class="col s12 m10 offset-m1 flow-text">

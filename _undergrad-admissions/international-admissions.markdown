@@ -1,9 +1,7 @@
 ---
 title: International Admissions
 date: 2017-12-04 18:40:00 Z
-<<<<<<< HEAD
 layout: intladmission
-=======
 app-checklist:
 - body: <a href="https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB"
     class="btn btn-navy" target="_blank">Apply</a>
@@ -165,5 +163,12 @@ app-checklist:
     * [Sponsor Affidavit of Support Form](http://www2.masters.edu/admissions/downloads/SponsorAffidavitofSupport2010.pdf)
 
     Additional information about obtaining and maintaining your visa and/or F-1 student status will be provided once you have been accepted to The Master’s University and have received your financial aid package. In the meantime, general information about applying for a student visa can be found on the U.S. Government’s “Study in the States” website [here](http://studyinthestates.dhs.gov/students/).
->>>>>>> 31925dc31702f3fb286404c729501b6572dcbd05
+app-deadlines:
+    - text: 'Extended Early Application: Celebrating the NEW tuition structure, we extend
+        the application fee waiver and provide you and early admissions decision.'
+      red-text: DEC 15, 2017
+    - text: 'PRIORITY DECISION: Receive full consideration for the Fall 2018 semester'
+      red-text: FEB 23, 2018
+    - text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
+        consideration for Fall 20 1 8 '
 ---
