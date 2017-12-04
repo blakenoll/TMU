@@ -164,11 +164,12 @@ app-checklist:
 
     Additional information about obtaining and maintaining your visa and/or F-1 student status will be provided once you have been accepted to The Master’s University and have received your financial aid package. In the meantime, general information about applying for a student visa can be found on the U.S. Government’s “Study in the States” website [here](http://studyinthestates.dhs.gov/students/).
 app-deadlines:
-    - text: 'Extended Early Application: Celebrating the NEW tuition structure, we extend
-        the application fee waiver and provide you and early admissions decision.'
-      red-text: DEC 15, 2017
-    - text: 'PRIORITY DECISION: Receive full consideration for the Fall 2018 semester'
-      red-text: FEB 23, 2018
-    - text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
-        consideration for Fall 20 1 8 '
+- text: 'Extended Early Application: Celebrating the NEW tuition structure, we extend
+    the application fee waiver and provide you and early admissions decision.'
+  red-text: DEC 15, 2017
+- text: 'PRIORITY DECISION: Receive full consideration for the Fall 2018 semester'
+  red-text: FEB 23, 2018
+- text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
+    consideration for Fall 20 1 8 '
 ---
+
