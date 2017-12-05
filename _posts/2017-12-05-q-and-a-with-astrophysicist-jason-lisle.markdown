@@ -16,7 +16,7 @@ Almost 30 years later, Jason Lisle holds a Ph.D. in astrophysics, discovered a s
 
 **A.** Astronomy is wonderfully beautiful. It’s always abstract and it allows you to explore something we just don’t experience on earth. The sizes of objects in space are mind blowing. When you look through the window, there is this big bright sphere out there that is 100x the diameter of the earth, but then there are stars that are 600x the size of the sun! It is the artwork of God. The Bible says the heavens declare the glory of God and, when done properly, astronomy is a very spiritual science.
 
-### Q.** How did you marry your passion for astronomy with your passion for God?**
+### Q.How did you marry your passion for astronomy with your passion for God?
 
 A. For me, when I study the universe I am studying the handiwork of God. That makes it much more enjoyable. I don’t know how secular people do it. I don’t know how they can enjoy something that they think is just chance. That doesn’t make any sense. The fact that I was saved very young and became interested in astronomy when I was very young, is a tremendous blessing from God. I think it has caused me to enjoy science much more than my secular colleagues ever could.
 
@@ -74,4 +74,4 @@ Some people want to go into space. If you want to be an astronaut in NASA you mu
 
 **A.** There is room in my heart for both of them. Is there anything factual? Some things, but they take a lot of license. Faster than light travel is just not possible based on the way God has constructed this universe, and both of them have to use that in order to get people from one planet to the next in any sort of reasonable amount of time. Both are fascinating works of fiction and I really enjoy both. In Star Trek they will use terms like Heisenberg compensators, because they know the Heisenberg uncertainty principle would make transport impossible. They throw these little words in there that show they thought it through and so have gotten some of the terminology right.
 
-*To register for Dr. Lisle’s weeklong Astronomy course on January 3-10, 2018, go here. To purchase tickets for our annual Truth & Life Conference, go here. To learn more about BSI, click here.*
+*To register for Dr. Lisle’s weeklong Astronomy course on January 3-10, 2018, [go here](http://www.masters.edu/winterastronomy). To purchase tickets for our annual Truth & Life Conference, [go here](http://www.masters.edu/truthandlife). To learn more about BSI,[ click here](https://biblicalscienceinstitute.com).*
