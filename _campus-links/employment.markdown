@@ -321,7 +321,7 @@ positions:
     Procedures:\n\nAll documents included in your application remain the sole property
     of The Master’s College and will not be returned.   Your file for this opening
     will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: 'Marketing Coordinator '
+- title: Marketing Coordinator  (Regular Full-time)  (University)
   position: Staff
   about-body: "SUMMARY\n\nWithin the University Marketing department, develops, directs
     and/or maintains a marketing program. Designs, writes and/or edits university-wide
