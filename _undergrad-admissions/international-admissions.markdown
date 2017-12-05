@@ -1,7 +1,6 @@
 ---
 title: International Admissions
 date: 2017-12-04 18:40:00 Z
-layout: intladmission
 app-checklist:
 - body: <a href="https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB"
     class="btn btn-navy" target="_blank">Apply</a>
@@ -51,7 +50,7 @@ app-checklist:
 - body: |-
     ### Complete Financial Aid Application
 
-    At the present time, it costs approximately $42,000 (USD) to attend The Master’s University for one year (two semesters), including tuition, housing, and meals. Books, health insurance, and transportation may be extra.
+    At the present time, it costs approximately $24,950 (USD) to attend The Master’s University for one year (two semesters). Additional to tuition are  housing and meal expenses. Books, health insurance, and transportation may be extra. The approximate total cost per year is $36,000.
 
     We are happy to say that—while The Master’s University is not able to give students a full scholarship—we do offer significant funds for qualified international students. We understand that this is a difficult process requiring a great deal of effort and faith. We are praying with you that God’s provision and guidance would be clear to you through this process. Currently, over 90% of our student population receives financial aid! Please note that individual awards cannot be determined until the student has been admitted to the college.
 
@@ -84,64 +83,6 @@ app-checklist:
     3. [Satisfactory Academic Progress Policy](http://www.masters.edu/media/868183/undergrad-satisfactory-academic-progress-policy.pdf "SAPP")
        Signing this form is also required before any student can receive any Financial Aid from The Master’s University (not required for current/returning TMU students).
 
-    ### President’s Scholarship ($15,000)
-
-    **Application Deadline: Late January**
-    This is our largest and most competitive scholarship, available to full-time incoming freshmen (including international students). Applicants must have a high school GPA of 3.85 and a SAT I score (Critical Reasoning and Math sub-tests only) of 1400 or ACT score of 32. International students who have not taken the SAT may still apply. Renewable with a college GPA of 3.5. Note: replaces academic scholarship (see below). Not available for transfer or Spring students.
-
-    [President’s Scholarship Application](http://www.masters.edu/media/868336/17-18-presidents-scholarship-application-fillable.pdf "President's Scholarship Application")
-
-    ### Academic Scholarships ($2,000-$11,000)
-
-    Awarded to students who have demonstrated strong academic performance at the high school level. No extra steps required—automatically awarded to students who meet the academic qualifications.
-
-    ### TMU Grant (up to $7500)
-
-    Awarded to students with significant financial need. No extra steps required—automatically awarded based on calculated need.
-
-    ### International Student Grant ($-varies)
-
-    **Priority Application Deadline: March 2**
-    The International Grant is an award given to international students based on financial need, academic achievement, and local church recommendation. The amounts range from $500 to $3,500. The Grant Recommendation must be filled out and submitted by a local church leader who is not related to you. Scholarships are awarded as long as funds are available.
-
-    [International Student Grant Application Form](http://www.masters.edu/media/869264/isg-app-2.pdf "ISG App 2.pdf")
-
-    [International Student Grant Recommendation Form](http://www.masters.edu/media/868165/international-student-grant-recommendation-form.pdf "Intl Student Grant Rec Form.pdf")
-
-    ### Christian Ministry Dependent Grant ($3000)
-
-    This $3,000 grant is given to students who have at least one parent employed in full time Christian ministry. The grant application must be submitted with a copy of the organization’s doctrinal statement.
-
-    [Click here for the Christian Ministry Dependent Grant Application](http://www.masters.edu/media/868184/christian-ministry-dependent-grant-recreation.pdf "CMD Application")
-
-    ### Pastor and Missionary Dependent Scholarship ($5,000)
-
-    For those students who are children of full-time pastors or missionaries who provide the primary income for their family. Only applicable to students entering the college in the Fall of 2014 and subsequent years.
-
-    [Click here for the Pastor and Missionary Dependent Grant Application](http://www.masters.edu/media/868169/pmd-application.pdf "Pastor and Missionary Dependent Grant Application")
-
-    ### Ministry Matching Grant (up to $1500)
-
-    Awarded to students who receive sponsorship from a Christian ministry. TMU will match, on a dollar-for-dollar basis, up to a total of $1,500 per student. Both the application and the funds must be received by August 1st in order to qualify.
-
-    [Click here for the Ministry Matching Grant Application](http://www.masters.edu/media/869687/forms-application-mmg.pdf)
-
-    ### Awana Citation Award ($1000)
-
-    For those students who have received a complete AWANA citation. Award is $1,000. You must submit copy of your AWANA Citation Award by March 2.
-
-    ### Music Scholarships ($-varies)
-
-    For music majors only. Contact the Music Department separately.
-
-    ### Athletic Scholarships ($-varies)
-
-    For intercollegiate athletes only. Contact the Athletic Department separately.
-
-    ### Shamrock Scholarships ($-varies)
-
-    For more information, visit [www.masters.edu/scholarships](/scholarships)
-
     Note: The priority deadline for submitting most Financial Aid documents is March 2. Please submit your Financial Aid documents by that time in order to ensure consideration for available funds.
 
     As you prepare to submit these documents, you may scan and email your documents to the International Admissions Counselor, fax them to 661-362-2695, or submit them by post to The Master's University - International Admissions, 21726 Placerita Canyon Road, Santa Clarita, CA 91321
@@ -171,5 +112,6 @@ app-deadlines:
   red-text: FEB 23, 2018
 - text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
     consideration for Fall 20 1 8 '
+layout: intladmission
 ---
 
