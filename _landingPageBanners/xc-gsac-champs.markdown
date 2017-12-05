@@ -2,7 +2,7 @@
 title: XC GSAC Champs
 date: 2017-11-06 18:03:00 Z
 published: false
-position: 4
+position: 6
 image: "/uploads/CC_Champions.jpg"
 link: http://athletics.masters.edu/
 button-text: Read More
