@@ -15,16 +15,16 @@ stafford-loan-body: |-
 
   ## FAQ
 
-  1. How do I search for The Master’s University at the end of the Loan Counseling?\
+  1. **How do I search for The Master’s University at the end of the Loan Counseling?**
      Search just the word “Master’s”.
 
-  2. How do I get help with the on-line MPN or Loan counseilng site (StudentLoans.gov)?\
+  2. **How do I get help with the on-line MPN or Loan counseilng site (StudentLoans.gov)?**
      Call Direct Loan Customer Support at (800) 557-7394.
 
-  3. If I have completed Entrance Loan Counseling in previous years or at another college, do I need to do it again?\
+  3. **If I have completed Entrance Loan Counseling in previous years or at another college, do I need to do it again?**
      As long as you have completed entrance loan counseling for direct loans, you do not need to do so again. Please note that the "Financial Aid Awareness" tab on www.studentloans.gov does not fulfull this requirement.
 
-  4. If I have completed an MPN in previous years or at another school, do I need to do it again?\
+  4. **If I have completed an MPN in previous years or at another school, do I need to do it again?**
      As long as you have completed a Master Promissory Note for direct loans, you do not need to do so again.
 loan-counseling-body: |-
   ## Student Loan Counseling
