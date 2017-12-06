@@ -8,7 +8,7 @@ description: |-
 
   * **Equipping the saints:** students develop an understanding of science wherein their professional, academic and spiritual testimony, the Master is presented and exalted
 
-  * **Small class sizes** means close student-teacher relationships and valuable individual attentio
+  * **Small class sizes** means close student-teacher relationships and valuable individual attention
 
   * **Research opportunities** are ample, with freedom to structure, conduct and present research with faculty support
 
