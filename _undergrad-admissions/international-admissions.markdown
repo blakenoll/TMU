@@ -1,6 +1,13 @@
 ---
 title: International Admissions
 date: 2017-12-04 18:40:00 Z
+categories:
+- international
+- admissions
+tags:
+- international
+- exchage
+- admissions
 app-checklist:
 - body: <a href="https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB"
     class="btn btn-navy" target="_blank">Apply</a>
@@ -50,7 +57,7 @@ app-checklist:
 - body: |-
     ### Complete Financial Aid Application
 
-    At the present time, it costs approximately $24,950 (USD) to attend The Master’s University for one year (two semesters). Additional to tuition are  housing and meal expenses. Books, health insurance, and transportation may be extra. The approximate total cost per year is $36,000.
+    Tuition is $24,950 (USD) to attend The Master’s University for one year (two semesters). Additional to tuition are  housing and meal expenses. Books, health insurance, and transportation may be extra. The approximate total cost per year is $36,000.
 
     We are happy to say that—while The Master’s University is not able to give students a full scholarship—we do offer significant funds for qualified international students. We understand that this is a difficult process requiring a great deal of effort and faith. We are praying with you that God’s provision and guidance would be clear to you through this process. Currently, over 90% of our student population receives financial aid! Please note that individual awards cannot be determined until the student has been admitted to the college.
 
