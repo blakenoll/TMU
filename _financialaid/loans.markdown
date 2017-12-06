@@ -44,115 +44,101 @@ loan-counseling-body: |-
   This session will take about 30-40 minutes to complete.
 
   #### [Exit Loan Counseling](https://studentloans.gov/myDirectLoan/index.action)
-parent-loans-body: |-
-  The Federal Direct Parent PLUS Loan is available to parents of dependent undergraduate students. The student must be enrolled in at least six units and the loan is limited to the cost of attendance. PLUS loans have a fixed interest rate of 7%, and the borrower must have no adverse credit history. Fees of 4.276% will be deducted from the loan principal at the time of disbursement. \
-  \
-  If you have any questions about parent loans, please contact the Office of Financial Aid at (661) 362-2290 or by email at financialaid@masters.edu.
-
-  ### Follow these easy steps to complete your PLUS Loan application!
-
-  \*Returning borrowers may go directly to Step Three.
-
-  ### 1. APPLY
-
-  Applications are processed directly through [www.studentloans.gov](https://studentloans.gov/myDirectLoan/index.action). The parent will sign with their FAFSA PIN.
-
-  ### 2. COMPLETE A MASTER PROMISSORY NOTE
-
-  This is the parent’s contract on the loan, and can also be completed at [www.studentloans.gov](https://studentloans.gov/myDirectLoan/index.action).
-
-  ### 3. SEND US A PLUS LOAN AMOUNT REQUEST FORM
-
-  [2017-2018 PLUS Loan Request Form](http://www.masters.edu/media/869877/plus_loan_amount_request_form_fillable.pdf "PLUS_Loan_Amount_Request_Form_Fillable.pdf") (This can also be found at [www.masters.edu/downloads](http://www.masters.edu/downloads)). Fax to 661-362-2693, email to financialaid@masters.edu, or mail to: The Master's University, 21726 Placerita Canyon Rd #38, Santa Clarita, CA 91321.
-
-  ## FAQ
-
-  1. What is the Office of Financial Aid's fax number?\
-     \(661)362-2693
-
-  2. Will my credit be checked?\
-     Yes. A parent borrower can request a credit check on the Direct Loan website, or the school can do it. By signing the PLUS Loan Amount Request Form, the parent is authorizing the Office of Financial Aid to run a credit check as part of the PLUS loan request. Credit checks are good for 90 days.
-
-  3. If I have questions about the Direct Loan PLUS Loan program, where can I go for more information?\
-     Parents can [click here](https://studentaid.ed.gov/sa/types/loans/plus) for more information about PLUS loans, or call the Direct Loan Origination Center (Applicant Services) 1-800-557-7394.
-
-  4. When does the PLUS loan go into repayment?\
-     Typically loans go into repayment within 60 days of the final disbursement. You can also call Direct Loan Borrower Services at 800-848-0979 to choose to defer the loan repayment until up to 6 months after your student is out of school.
-
-  5. Will I be able to consolidate all of my PLUS loans?\
-     Yes, all PLUS loans for each borrower can be consolidated into the Direct Loan program.
-
-  6. If I have another Direct PLUS loan from another school, do I need to complete a new MPN?\
-     No. A parent borrower with Direct PLUS loans from other schools just needs to complete a PLUS Loan Amount Request Form for our office and does not need to complete an additional MPN.
-
-  7. How can I calculate what my payments on a PLUS loan will be?\
-     [Click here](https://studentloans.gov/myDirectLoan/mobile/repayment/repaymentEstimator.action) for a loan calculator. PLUS loans are typically paid over 10 years or 120 months. The interest rate is 6.31%. Type in the loan amount and click “Compute Payment & Cost.”
-
-  8. Can I pay down the PLUS Loan early?\
-     There is no penalty for early repayment. If the loan is reduced by the Office of Financial Aid during the school year, the loan fees are credited back to the loan. Contact us for more information.
-
-  9. How do I add an endorser to my PLUS loan?\
-     Your endorser will need to add themselves to your PLUS loan. They will need their own FSA ID, which they can apply for at[ ](http://www.masters.edu/umbraco/fsaid.ed.gov)[fsaid.ed.gov](http://fsaid.ed.gov/). To complete their addition to your application they will need your PLUS loan application confirmation number, which can be found under the "PLUS Loan Requests" link on the left-hand side after you log into [www.studentloans.gov](http://www.studentloans.gov/). Once they have this number, they can select the "Complete Endorser Addenda" link.
+parent-loans-body: "The Federal Direct Parent PLUS Loan is available to parents of
+  dependent undergraduate students. The student must be enrolled in at least six units
+  and the loan is limited to the cost of attendance. PLUS loans have a fixed interest
+  rate of 7%, and the borrower must have no adverse credit history. Fees of 4.276%
+  will be deducted from the loan principal at the time of disbursement. \n\nIf you
+  have any questions about parent loans, please contact the Office of Financial Aid
+  at (661) 362-2290 or by email at financialaid@masters.edu.\n\n### Follow these easy
+  steps to complete your PLUS Loan application!\n\n* Returning borrowers may go directly
+  to Step Three.\n\n### 1. APPLY\n\nApplications are processed directly through [www.studentloans.gov](https://studentloans.gov/myDirectLoan/index.action).
+  The parent will sign with their FAFSA PIN.\n\n### 2. COMPLETE A MASTER PROMISSORY
+  NOTE\n\nThis is the parent’s contract on the loan, and can also be completed at
+  [www.studentloans.gov](https://studentloans.gov/myDirectLoan/index.action).\n\n###
+  3. SEND US A PLUS LOAN AMOUNT REQUEST FORM\n\n[2017-2018 PLUS Loan Request Form](http://www.masters.edu/media/869877/plus_loan_amount_request_form_fillable.pdf
+  \"PLUS_Loan_Amount_Request_Form_Fillable.pdf\") (This can also be found at [www.masters.edu/downloads](http://www.masters.edu/downloads)).
+  Fax to 661-362-2693, email to financialaid@masters.edu, or mail to: \nThe Master's
+  University\n21726 Placerita Canyon Rd #38\nSanta Clarita, CA 91321.\n\n## FAQ\n\n1.
+  What is the Office of Financial Aid's fax number?\n(661)362-2693\n\n2. Will my credit
+  be checked?\nYes. A parent borrower can request a credit check on the Direct Loan
+  website, or the school can do it. By signing the PLUS Loan Amount Request Form,
+  the parent is authorizing the Office of Financial Aid to run a credit check as part
+  of the PLUS loan request. Credit checks are good for 90 days.\n\n3. If I have questions
+  about the Direct Loan PLUS Loan program, where can I go for more information?\nParents
+  can [click here](https://studentaid.ed.gov/sa/types/loans/plus) for more information
+  about PLUS loans, or call the Direct Loan Origination Center (Applicant Services)
+  1-800-557-7394.\n\n4. When does the PLUS loan go into repayment?\nTypically loans
+  go into repayment within 60 days of the final disbursement. You can also call Direct
+  Loan Borrower Services at 800-848-0979 to choose to defer the loan repayment until
+  up to 6 months after your student is out of school.\n\n5. Will I be able to consolidate
+  all of my PLUS loans?\nYes, all PLUS loans for each borrower can be consolidated
+  into the Direct Loan program.\n\n6. If I have another Direct PLUS loan from another
+  school, do I need to complete a new MPN?\nNo. A parent borrower with Direct PLUS
+  loans from other schools just needs to complete a PLUS Loan Amount Request Form
+  for our office and does not need to complete an additional MPN.\n\n7. How can I
+  calculate what my payments on a PLUS loan will be?\n[Click here](https://studentloans.gov/myDirectLoan/mobile/repayment/repaymentEstimator.action)
+  for a loan calculator. PLUS loans are typically paid over 10 years or 120 months.
+  The interest rate is 6.31%. Type in the loan amount and click “Compute Payment &
+  Cost.”\n\n8. Can I pay down the PLUS Loan early?\nThere is no penalty for early
+  repayment. If the loan is reduced by the Office of Financial Aid during the school
+  year, the loan fees are credited back to the loan. Contact us for more information.\n\n9.
+  How do I add an endorser to my PLUS loan?\nYour endorser will need to add themselves
+  to your PLUS loan. They will need their own FSA ID, which they can apply for at[
+  ](http://www.masters.edu/umbraco/fsaid.ed.gov)[fsaid.ed.gov](http://fsaid.ed.gov/).
+  To complete their addition to your application they will need your PLUS loan application
+  confirmation number, which can be found under the \"PLUS Loan Requests\" link on
+  the left-hand side after you log into [www.studentloans.gov](http://www.studentloans.gov/).
+  Once they have this number, they can select the \"Complete Endorser Addenda\" link."
 private-loans-body: 
-faq-body: |-
-  ### Questions...
-
-  * [Why are loans called “awards”?](http://www.masters.edu/financial-aid/loans/loanfaqs/#C1)
-
-  * [What are my loan choices?](http://www.masters.edu/financial-aid/loans/loanfaqs/#C2)
-
-  * [What is a Federal Stafford Loan?](http://www.masters.edu/financial-aid/loans/loanfaqs/#C3)
-
-  * [What is the difference between Subsidized and Unsubsidized Stafford Loans?](http://www.masters.edu/financial-aid/loans/loanfaqs/#C4)
-
-  * [How do I apply for Stafford Loans?](http://www.masters.edu/financial-aid/loans/loanfaqs/#C5)
-
-  * [What is Entrance Loan Counseling?](http://www.masters.edu/financial-aid/loans/loanfaqs/#C8)[\
-    ](http://www.masters.edu/financial-aid/loans/loanfaqs/#C9)
-
-  * [What is a Consolidation Loan?](http://www.masters.edu/financial-aid/loans/loanfaqs/#C10)
-
-  * [What is a Parent PLUS Loan?](http://www.masters.edu/financial-aid/loans/loanfaqs/#C11)
-
-  * [What if my parent is declined for a PLUS Loan?](http://www.masters.edu/financial-aid/loans/loanfaqs/#C12)
-
-  Can't find your question? Email [the Financial Aid Office](mailto:financialaid@masters.edu).
-
-  ### Answers...
-
-  Why are loans called “awards”?\
-  Although loans must be repaid, they are considered a financial aid award because they are part of the William D. Ford Federal Direct Loan Program, one of many programs offered by the federal government to financially assist students. The Office of Financial Aid “awards” Stafford loans to students along with any other aid they are eligible to receive. [(Return to Top)](http://www.masters.edu/financial-aid/loans/loanfaqs/#C30)
-
-  What are my loan choices?\
-  Students can be awarded Federal Stafford or Federal Perkins loans. In addition, parents may borrow fixed interest rate [PLUS LOANS](http://www.masters.edu/financial-aid/loans/directplusloans/ "directplusloans"). Students may also apply for variable interest rate co-signer [PRIVATE LOANS](https://choice.fastproducts.org/FastChoice/Welcome.do?configId=1352380267587). Contact the Office of Financial Aid at 661-362-2290 or financialaid@masters.edu to discuss these options. [(Return to Top)](http://www.masters.edu/financial-aid/loans/loanfaqs/#C30)
-
-  What is a Federal Stafford Loan?\
-  A Federal Stafford loan is a low-interest rate loan offered by the Federal Government to students enrolled at least half-time (6 units). They are offered as subsidized or unsubsidized loans as determined by the FAFSA, and students enter re-payment 6 months after they graduate or drop below 6 units. [(Return to Top)](http://www.masters.edu/financial-aid/loans/loanfaqs/#C30)
-
-  What is the difference between Subsidized and Unsubsidized Stafford Loans?\
-  Subsidized loans: Interest accrued is paid by the federal government while students are enrolled at least half-time (6 units) and during a 6 month grace period. Unsubsidized loans: Students are responsible to pay all interest accrued for the life of the loan; the interest accrued is capitalized at repayment (students can choose to pay interest while in school to prevent it from capitalizing). [(Return to Top)](http://www.masters.edu/financial-aid/loans/loanfaqs/#C30)
-
-  How do I apply for Stafford Loans?\
-  Loans are automatically offered to eligible students with their initial award. The type of loan received as well as the amount of the loan is based on grade level and need, as determined by the FAFSA; no additional request needs to be made by the student. [(Return to Top)](http://www.masters.edu/financial-aid/loans/loanfaqs/#C30)
-
-  What is Entrance Loan Counseling?\
-  Entrance Loan Counseling is a short on-line tutorial regarding a student’s rights and responsibilities as it pertains to Stafford loans. It is required by the federal government and must be completed before loan funds are placed on a student’s account. The [Online Tutorial](https://studentloans.gov/myDirectLoan/index.action) generally takes 15-20 minutes to complete. [(Return to Top)](http://www.masters.edu/financial-aid/loans/loanfaqs/#C30)
-
-  What is a Consolidation Loan?\
-  A consolidated loan is one that simplifies repayment of federal Stafford and/or Perkins loans by combining all the loans from your educational career into one comprehensive loan. Consolidation can be performed once, and will have an interest rate with a weighted average of all the loans being consolidated. [(Return to Top)](http://www.masters.edu/financial-aid/loans/loanfaqs/#C30)
-
-  What is a Parent PLUS Loan?\
-  A Parent PLUS Loan is a low-interest rate loan offered (pending pre-approval by a major lender) by the Federal Government to parents of students enrolled at least half-time (6 units). The amount borrowed is limited by a student’s budget and is payable 60 days after last disbursement. [(Return to Top)](http://www.masters.edu/financial-aid/loans/loanfaqs/#C30)
-
-  What if my parent is declined for a PLUS Loan?\
-  If a parent receives a PLUS loan denial, you may be eligible for an additional unsubsidized Stafford Loan. Freshmen and Sophomores are eligible for up to $4,000; Juniors and Seniors are eligible for up to $5,000. [(Return to Top)](http://www.masters.edu/financial-aid/loans/loanfaqs/#C30)
-
-  I have additional questions. How can I contact you?\
-  If you have questions that were not covered above, please feel free to contact us:
-
-  The Office of Financial Aid\
-  financialaid@masters.edu\
-  \(661)362-2290
+faq-body: "### Questions...\n\n* Why are loans called “awards”?\n\n* What are my loan
+  choices?\n\n* What is a Federal Stafford Loan?\n\n* What is the difference between
+  Subsidized and Unsubsidized Stafford Loans?\n\n* How do I apply for Stafford Loans?\n\n*
+  What is Entrance Loan Counseling?\\\n\n* What is a Consolidation Loan?\n\n* What
+  is a Parent PLUS Loan?\n\n* What if my parent is declined for a PLUS Loan?\n\nCan't
+  find your question? Email [the Financial Aid Office](mailto:financialaid@masters.edu).\n\n###
+  Answers...\n\n**Why are loans called “awards”?**\\\nAlthough loans must be repaid,
+  they are considered a financial aid award because they are part of the William D.
+  Ford Federal Direct Loan Program, one of many programs offered by the federal government
+  to financially assist students. The Office of Financial Aid “awards” Stafford loans
+  to students along with any other aid they are eligible to receive. \n\n**What are
+  my loan choices?**\\\nStudents can be awarded Federal Stafford or Federal Perkins
+  loans. In addition, parents may borrow fixed interest rate [PLUS LOANS](http://www.masters.edu/financial-aid/loans/directplusloans/
+  \"directplusloans\"). Students may also apply for variable interest rate co-signer
+  [PRIVATE LOANS](https://choice.fastproducts.org/FastChoice/Welcome.do?configId=1352380267587).
+  Contact the Office of Financial Aid at 661-362-2290 or financialaid@masters.edu
+  to discuss these options. \n\n**What is a Federal Stafford Loan?**\\\nA Federal
+  Stafford loan is a low-interest rate loan offered by the Federal Government to students
+  enrolled at least half-time (6 units). They are offered as subsidized or unsubsidized
+  loans as determined by the FAFSA, and students enter re-payment 6 months after they
+  graduate or drop below 6 units. \n\n**What is the difference between Subsidized
+  and Unsubsidized Stafford Loans?**\\\nSubsidized loans: Interest accrued is paid
+  by the federal government while students are enrolled at least half-time (6 units)
+  and during a 6 month grace period. Unsubsidized loans: Students are responsible
+  to pay all interest accrued for the life of the loan; the interest accrued is capitalized
+  at repayment (students can choose to pay interest while in school to prevent it
+  from capitalizing). \n\n**How do I apply for Stafford Loans?**\\\nLoans are automatically
+  offered to eligible students with their initial award. The type of loan received
+  as well as the amount of the loan is based on grade level and need, as determined
+  by the FAFSA; no additional request needs to be made by the student. \n\n**What
+  is Entrance Loan Counseling?**\\\nEntrance Loan Counseling is a short on-line tutorial
+  regarding a student’s rights and responsibilities as it pertains to Stafford loans.
+  It is required by the federal government and must be completed before loan funds
+  are placed on a student’s account. The [Online Tutorial](https://studentloans.gov/myDirectLoan/index.action)
+  generally takes 15-20 minutes to complete. \n\n**What is a Consolidation Loan?**\\\nA
+  consolidated loan is one that simplifies repayment of federal Stafford and/or Perkins
+  loans by combining all the loans from your educational career into one comprehensive
+  loan. Consolidation can be performed once, and will have an interest rate with a
+  weighted average of all the loans being consolidated. \n\n**What is a Parent PLUS
+  Loan?**\\\nA Parent PLUS Loan is a low-interest rate loan offered (pending pre-approval
+  by a major lender) by the Federal Government to parents of students enrolled at
+  least half-time (6 units). The amount borrowed is limited by a student’s budget
+  and is payable 60 days after last disbursement. \n\n**What if my parent is declined
+  for a PLUS Loan?**\\\nIf a parent receives a PLUS loan denial, you may be eligible
+  for an additional unsubsidized Stafford Loan. Freshmen and Sophomores are eligible
+  for up to $4,000; Juniors and Seniors are eligible for up to $5,000. \n\n**I have
+  additional questions. How can I contact you?**\\\nIf you have questions that were
+  not covered above, please feel free to contact us:\n\nThe Office of Financial Aid\\\nfinancialaid@masters.edu\\\n\\(661)362-2290"
 loan-deferment-body: |-
   **Loan Deferment**
 
