@@ -8,7 +8,7 @@ description: |-
 
   * **Only 30 miles** from all major studios in Los Angeles: Disney (23 miles), Columbia Pictures (31 miles), 20thCentury Fox (29 miles), Paramount Pictures (27 miles), Universal Pictures (23 miles), MGM (28 miles) and more.
 
-  * **Bleeding-edge content**: Students are taught \*ahead \*of the trends, positioning them to be pioneers and entreprenuers while still in school and leaders upon graduation.
+  * **Bleeding-edge content**: Students are taught ahead of the trends, positioning them to be pioneers and entreprenuers while still in school and leaders upon graduation.
 
   * **Award-winning**: short film “Drift” won an award at the Cliff Film Festival of which 13 countries participated in. Each student involved in its production received IMDB credit.
 
