@@ -11,25 +11,22 @@ tags:
 - management
 - leadership
 sm-image: "/uploads/AcademicsUndergradIcons_Business.png"
-description: "The Master’s University Business department can’t keep up with the requests
-  from satisfied employers for more of our graduates. TMU produces excellent businesspeople.
-  The Business department ranks among the biggest and best institutions in the country,
-  from CPA and ETS exams to the NASBA’s national ranking.\n\nThis is all credited
-  to uncompromisingly high expectations and the faculty’s commitment to personally
-  instructing their students in “why things matter”: this is business through a biblical
-  lens. In the business world, integrity stands out, and that’s why our graduates
-  have success.\n\n* **Best CPA Scores**: The Master's University CPA scores rank
-  above the biggest and best schools in California.\n\n* **Top Ranked: **Ranked top
-  7% nationally overall, top 5% in marketing, top 3% in finance. The *NASBA *report
-  ranked TMU among the top 10 institutions nationally, and ranked us second of similar-sized
-  school.\n\n* **Professors, Pastors, Professionals. **Our professors have served
-  or actively serve as elders, deacons, and pastors; they are experienced in business,
-  ministry, communications, law, and education.\n\n* **Performance and results based**:
-  Professors do not curve scores, teaching students to rise to the occasion. \n\n*
-  **Innovative curriculum: **cutting-edge content and teaching methods prepare graduates
-  for a head start in accounting, marketing, finance, international business and other
-  in-demand fields.\n\n* **Salary impact**: Of CA resident business alumni report
-  average salary of $112,709, 10 years post-graduation."
+description: |-
+  The Master’s University Business department can’t keep up with the requests from satisfied employers for more of our graduates. TMU produces excellent businesspeople. The Business department ranks among the biggest and best institutions in the country, from CPA and ETS exams to the NASBA’s national ranking.
+
+  This is all credited to uncompromisingly high expectations and the faculty’s commitment to personally instructing their students in “why things matter”: this is business through a biblical lens. In the business world, integrity stands out, and that’s why our graduates have success.
+
+  * **Best CPA Scores**: The Master's University CPA scores rank above the biggest and best schools in California.
+
+  * **Top Ranked:** Ranked top 7% nationally overall, top 5% in marketing, top 3% in finance. The *NASBA *report ranked TMU among the top 10 institutions nationally, and ranked us second of similar-sized school.
+
+  * **Professors, Pastors, Professionals.** Our professors have served or actively serve as elders, deacons, and pastors; they are experienced in business, ministry, communications, law, and education.
+
+  * **Performance and results based**: Professors do not curve scores, teaching students to rise to the occasion.
+
+  * **Innovative curriculum:** cutting-edge content and teaching methods prepare graduates for a head start in accounting, marketing, finance, international business and other in-demand fields.
+
+  * **Salary impact**: Of CA resident business alumni report average salary of $112,709, 10 years post-graduation.
 emphasis:
 - Accounting
 - 'Christian Ministries Administration '
