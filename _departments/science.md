@@ -10,7 +10,7 @@ description: |-
 
   * **Small class sizes** means close student-teacher relationships and valuable individual attention
 
-  * **Research opportunities **are ample, both to conduct and present research
+  * **Research opportunities **are ample, with freedom to structure, conduct and present research with faculty support
 
   * **Career prospects **in Southern California are diverse and numerous
 
