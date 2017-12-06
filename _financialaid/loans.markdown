@@ -149,7 +149,7 @@ faq-body: |-
   If you have questions that were not covered above, please feel free to contact us:
 
   The Office of Financial Aid
-  **write **financialaid@masters.edu or **call **(661)362-2290
+  **write** financialaid@masters.edu or **call** (661)362-2290
 loan-deferment-body: |-
   **Loan Deferment**
 
