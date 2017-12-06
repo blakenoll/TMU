@@ -226,6 +226,20 @@ layout: studentresources
 
 **Within the student resource section we aim to share with you valuable information that will guide you through your time as an online student at The Master's University.**
 
+## 2017-2018 Academic Calendar
+
+Spring Semester
+
+Session 1: 1/15/2018 – 3/11/2018
+
+Session 2: 3/12/2018 – 5/6/2018
+
+Summer Semester
+
+Session 1: 5/7/2018 – 7/1/2018
+
+Session 2: 7/2/2018 – 8/26/2018
+
 ### Important Contact Information
 
 **Student Finance Center**
