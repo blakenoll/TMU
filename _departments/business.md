@@ -18,7 +18,7 @@ description: |-
 
   * **Best CPA Scores**: The Master's University CPA scores rank above the biggest and best schools in California.
 
-  * **Top Ranked:** Ranked top 7% nationally overall, top 5% in marketing, top 3% in finance. The *NASBA *report ranked TMU among the top 10 institutions nationally, and ranked us second of similar-sized school.
+  * **Top Ranked:** Ranked top 7% nationally overall, top 5% in marketing, top 3% in finance. The NASBA report ranked TMU among the top 10 institutions nationally, and ranked us second of similar-sized school.
 
   * **Professors, Pastors, Professionals.** Our professors have served or actively serve as elders, deacons, and pastors; they are experienced in business, ministry, communications, law, and education.
 
