@@ -6,13 +6,13 @@ description: |-
 
   * **Doctrinally sound**: interpreting science through faith rather than faith through science, including teaching a literal six-day creation and a historical Space-Time Fall
 
-  * **Equipping the saints: **students develop an understanding of science wherein their professional, academic and spiritual testimony, the Master is presented and exalted
+  * **Equipping the saints:** students develop an understanding of science wherein their professional, academic and spiritual testimony, the Master is presented and exalted
 
-  * **Small class sizes** means close student-teacher relationships and valuable individual attention
+  * **Small class sizes** means close student-teacher relationships and valuable individual attentio
 
   * **Research opportunities **are ample, with freedom to structure, conduct and present research with faculty support
 
-  * **Career prospects **in Southern California are diverse and numerous
+  * **Career prospects** in Southern California are diverse and numerous
 
   * **95% Med-School** acceptance rate
 
