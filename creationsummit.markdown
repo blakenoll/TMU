@@ -2,6 +2,8 @@
 title: Creation Summit
 date: 2017-11-09 16:52:00 Z
 banner-image: "/uploads/CS_WebBanner.jpg"
+button-link: "#"
+button-text: Register
 layout: event
 ---
 
