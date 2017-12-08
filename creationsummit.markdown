@@ -27,7 +27,6 @@ Join us on February 24th and learn how science and faith do not need to be segre
 
 ## Schedule
 
-
 TECHNICAL SESSIONS
 Saturday, February 24  2-5 p.m.
 
