@@ -21,4 +21,4 @@ Office:
 Reese Center for Science and Mathematics
 
 Phone:
-(661) 259-3540 ext. 3158
+\(661) 259-3540 ext. 2706

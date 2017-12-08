@@ -4,19 +4,19 @@ sm-image: "/uploads/AcademicsUndergradIcons_Sciences.png"
 description: |-
   Dedicated to developing lifelong patterns of intellectual growth while also being uncompromising in the faith, the Science Department is committed to producing students who are intellectually competent and an exemplary testimony no matter what discipline they study. Holding firm to the truth and inerrancy of Scripture, The Master’s University teaches all classes with the unshakeable foundation of the Bible. From Biology (General, Cellular, and Molecular) to Pre-Medical, students will graduate ready to go onto the next step in their field, and defend their faith as an equipped and intellectual worker and break new ground.
 
-  * Teach a literal six-day creation
+  * **Doctrinally sound**: interpreting science through faith rather than faith through science, including teaching a literal six-day creation and a historical Space-Time Fall
 
-  * We are doctrinally sound: interpreting science through faith rather than faith through science
+  * **Equipping the saints:** students develop an understanding of science wherein their professional, academic and spiritual testimony, the Master is presented and exalted
 
-  * Historical Space-Time Fall
+  * **Small class sizes** means close student-teacher relationships and valuable individual attention
 
-  * Our goal is to send forth the saints with an understanding of science, so that through their professional, academic and spiritual testimony, the Master is presented and exalted
+  * **Research opportunities** are ample, with freedom to structure, conduct and present research with faculty support
 
-  * Close student-teacher relationships
+  * **Career prospects** in Southern California are diverse and numerous
 
-  * Ample opportunity to conduct and present research
+  * **95% Med-School** acceptance rate
 
-  Interested in paleontology and geology? Learn more about our new geology emphasis [here](/geology)!
+  * **NEW 2018** paleontology and geology. Learn more [here.](/geology)
 emphasis:
 - Animal Science/Pre-Veterinary Medicine
 - Cellular & Molecular Biology

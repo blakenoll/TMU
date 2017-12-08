@@ -66,19 +66,10 @@ master-of-arts-body: "<h2 style=\"text-align: center;\">Master of Arts Financial
   MABC students in their second and third year of the program and based on ministry
   potential, financial need, and academic achievement. Students are expected to be
   enrolled full-time each term. The scholarship will not exceed 50% of the student's
-  tuition costs for any given term.</p>\n<h4> </h4>\n<ul>\n<li>\n<h3>The Dr. Robert
-  Smith Scholarship</h3>\n</li>\n</ul>\n<p style=\"padding-left: 30px;\">Awarded to
-  the previous year's most outstanding MABC student. Based on ministry potential,
-  financial need, and academic achievement. Students are expected to be enrolled full-time
-  each term to be eligible for this scholarship.</p>\n<h4> </h4>\n<ul>\n<li>\n<h3>The
-  Dr. Robert Somerville Scholarship</h3>\n</li>\n</ul>\n<p style=\"padding-left: 30px;\">Awarded
-  to the most outstanding graduate of the traditional BABC degree program at the Master's
-  University applied to the first year of MABC studies--based on ministry potential,
-  financial need, and academic achievement. Students are expected to be enrolled full-time
-  each term to be eligible for this scholarship. </p>\n<h3> </h3>\n<h3>Scholarship
-  Contact Information</h3>\n<p style=\"padding-left: 30px;\">All scholarships are
-  administered by the MABC Department. For more information on scholarships, please
-  contact Jeff Miller at 661.362.2644 or <a href=\"mailto:jmiller@masters.edu\">jmiller@masters.edu</a>. </p>\n<p><span>  </span></p>\n<h3><span
+  tuition costs for any given term.</p>\n<h4> </h4>\n<h3> </h3>\n<h3>Scholarship Contact
+  Information</h3>\n<p style=\"padding-left: 30px;\">All scholarships are administered
+  by the MABC Department. For more information on scholarships, please contact Jeff
+  Miller at 661.362.2644 or <a href=\"mailto:jmiller@masters.edu\">jmiller@masters.edu</a>. </p>\n<p><span>  </span></p>\n<h3><span
   class=\"embeddedpicleft\" style=\"display: inline !important;\">Downloadable Documents</span></h3>\n<p> </p>\n<table
   border=\"0\">\n<tbody>\n<tr>\n<td>       </td>\n<td>\n<ul>\n<li><a href=\"/media/868281/graduate-financial-aid-application.pdf\"
   target=\"_blank\" title=\"MABC/S Financial Aid Application\">MABC/S Financial Aid

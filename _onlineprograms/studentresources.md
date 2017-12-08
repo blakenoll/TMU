@@ -131,11 +131,9 @@ textbooks-body: |-
 register-body: |-
   Taking Courses for Credit
 
-  Accepted applicants and returning students taking courses for credit can register for Online Courses through Self Service at [www.masters.edu/SelfService](https://portal.masters.edu/SelfService/Home.aspx) according to the instructions below. Please select the set of Instructions for your student category and note that you must first complete Pre-Registration before you register. This will be the key that unlocks registration for courses.
+  Accepted students can register for Online Courses through Self Service[www.masters.edu/SelfService](https://portal.masters.edu/SelfService/Home.aspx) according to the instructions below. Please select the set of Instructions for your student category and note that you must first complete Pre-Registration before you register. If you do not complete pre-registration you will not be able to complete registration.
 
-  * Online Degree Students (Financial Aid / Military Students) - please follow these specific [Instructions](http://www.masters.edu/media/869928/olp-registration-instructions-summer-2017.pdf "OLP Registration Instructions - Summer 2017.pdf") for registering for an Online Course
-
-  * TMU Online Students - please follow these specific [Instructions](http://www.masters.edu/media/869929/tmu-online-registration-instructions-summer-2017.pdf "TMU Online Registration Instructions - Summer 2017.pdf") for registering for a course
+  * Online Students (Financial Aid / Military Students)  - please follow these specific [Instructions](/uploads/Online%20Students%20Registration%20Instructions%20-%20Spring%202018.pdf) for registering for a course
 
   * Traditional Students - for summer courses please contact our office by email at tmuonline@masters.edu or by phone at 877-302-3337 and we will assist your in registering for those courses
 tuition-body: |-
@@ -227,6 +225,20 @@ layout: studentresources
 **We are so proud of your progress in laboring to attain an education from a Biblical worldview! We recognize that you have made sacrifices to be here and pray that you will glean both knowledge and truth from your courses.**
 
 **Within the student resource section we aim to share with you valuable information that will guide you through your time as an online student at The Master's University.**
+
+## 2017-2018 Academic Calendar
+
+Spring Semester
+
+Session 1: 1/15/2018 – 3/11/2018
+
+Session 2: 3/12/2018 – 5/6/2018
+
+Summer Semester
+
+Session 1: 5/7/2018 – 7/1/2018
+
+Session 2: 7/2/2018 – 8/26/2018
 
 ### Important Contact Information
 

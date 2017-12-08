@@ -47,6 +47,9 @@ collections:
   gradprograms:
     title: Grad-Programs
     output: true
+  italy-blog:
+    title: Italy blog
+    output: true
   landingPageBanners:
     title: Landing Page Banners
     output: true
