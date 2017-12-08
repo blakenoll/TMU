@@ -3,6 +3,7 @@ title: Creation Summit
 date: 2017-11-09 16:52:00 Z
 published: false
 banner-image: "/uploads/CS_WebBanner.jpg"
+layout: event
 ---
 
 # The Creation Summit: Creationism in the 21st Century
