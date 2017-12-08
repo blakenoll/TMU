@@ -463,8 +463,6 @@ FOR FULL-TIME FACULTY POSITIONS: Please submit your cover letter and Curriculum 
 
 FOR STAFF POSITIONS: [Click here to download an application for employment (including doctrinal statement).](http://www.masters.edu/uploads/TMUS%20Application%20for%20Employment-2cccfa.pdf) Completed applications should be submitted to the Human Resources department via one of the following options:
 
-FOR STAFF POSITIONS: [Click here to download an application for employment (including doctrinal statement).](http://www.masters.edu/media/869616/tmus-application-for-employment.pdf "TMUS Application for Employment.pdf") Completed applications should be submitted to the Human Resources department via one of the following options:
-
 * Email - humanresources@masters.edu
 
 * Fax - 661.362.2717
