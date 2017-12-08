@@ -27,7 +27,6 @@ Join us on February 24th and learn how science and faith do not need to be segre
 
 ## Schedule
 
-
 TECHNICAL SESSIONS
 Saturday, February 24  2-5 p.m.
 
@@ -42,7 +41,7 @@ Registration: $25.00
 
 ### FREE GENERAL SESSION
 
-Saturday, February 24 | 6:30-9:00 p.m.
+Saturday, February 24  6:30-9:00 p.m.
 
 * Dr Andrew Snelling - Fossils and Rock Layers: Evidence of the Genesis Flood
 
