@@ -24,9 +24,9 @@ Each of these questions and many more will be answered by a geneticist, Dr. Rob 
 
 Join us on February 24th and learn how science and faith do not need to be segregated, but rather the apologetic of science only goes to uphold the Bible's inerrancy.
 
-**Schedule**
+## **Schedule**
 
-\
+### \
 TECHNICAL SESSIONS\
 Saturday, February 24 | 2-5 p.m.
 
@@ -39,8 +39,8 @@ Saturday, February 24 | 2-5 p.m.
 Registration: $25.00\
 *fee includes conference admission for one and an hors d’oeuvres dinner reception with the speakers from 5:00-6:00*
 
-FREE GENERAL SESSION\
-Saturday, February 24 | 6:30-9:00 p.m.\\
+### FREE GENERAL SESSION\
+Saturday, February 24 | 6:30-9:00 p.m.
 
 * Dr Andrew Snelling | Fossils and Rock Layers: Evidence of the Genesis Flood\\
 
