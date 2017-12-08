@@ -25,27 +25,28 @@ Each of these questions and many more will be answered by a geneticist, Dr. Rob 
 
 Join us on February 24th and learn how science and faith do not need to be segregated, but rather the apologetic of science only goes to uphold the Bible's inerrancy.
 
-## **Schedule**
+## Schedule
 
-### \
-TECHNICAL SESSIONS\
-Saturday, February 24 | 2-5 p.m.
 
-* Dr. John Sanford | Wait Time: Is There Enough Time for Evolution
+TECHNICAL SESSIONS
+Saturday, February 24  2-5 p.m.
 
-* Dr. Rob Carter | What the Y Chromosome Reveals About our Heritage
+* Dr. John Sanford - Wait Time: Is There Enough Time for Evolution
 
-* Dr. Andrew Snelling | Radioactive Dating: Flawed Methods, But Relative Dates
+* Dr. Rob Carter - What the Y Chromosome Reveals About our Heritage
 
-Registration: $25.00\
+* Dr. Andrew Snelling - Radioactive Dating: Flawed Methods, But Relative Dates
+
+Registration: $25.00
 *fee includes conference admission for one and an hors d’oeuvres dinner reception with the speakers from 5:00-6:00*
 
-### FREE GENERAL SESSION\
+### FREE GENERAL SESSION
+
 Saturday, February 24 | 6:30-9:00 p.m.
 
-* Dr Andrew Snelling | Fossils and Rock Layers: Evidence of the Genesis Flood\\
+* Dr Andrew Snelling - Fossils and Rock Layers: Evidence of the Genesis Flood
 
-* Dr Rob Carter |How Modern Genetics Supports Genesis
+* Dr Rob Carter - How Modern Genetics Supports Genesis
 
 All sessions are located at the Music Recital Center (MRC) on The Master’s University campus.
 
