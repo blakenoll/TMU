@@ -578,6 +578,17 @@ footer {
   padding: 15px;
 }
 
+.card .card-content {
+   p {
+    margin: 1rem 0 1rem 0;
+    color: inherit;
+  }
+    li p {
+        margin: 0;
+        color: inherit;
+    }
+}
+
 .card-content {
   ul {
     padding-left: 20px;
@@ -594,6 +605,24 @@ footer {
   margin: auto;
 }
 
+.gradient-color {
+  background: rgb(255,255,255); /* Old browsers */
+  background: -moz-linear-gradient(45deg, rgba(255,255,255,1) 0%, rgba(174,182,191,1) 33%, rgba(93,108,128,1) 66%, rgba(12,35,64,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, rgba(255,255,255,1) 0%,rgba(174,182,191,1) 33%,rgba(93,108,128,1) 66%,rgba(12,35,64,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, rgba(255,255,255,1) 0%,rgba(174,182,191,1) 33%,rgba(93,108,128,1) 66%,rgba(12,35,64,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#0c2340',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  padding-bottom: 40px;
+
+  h1, h2, h3 {
+    color: #0c2340;
+  }
+
+}
+
+.event-page-banner {
+  margin: 0 auto;
+  max-width: 1400px;
+}
 .absolute-bg {
   position: absolute;
   top: 0;
