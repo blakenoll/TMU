@@ -461,7 +461,7 @@ Please see the list below for the faculty and staff positions that are currently
 
 FOR FULL-TIME FACULTY POSITIONS: Please submit your cover letter and Curriculum Vitae to the Academic Affairs department by emailing: apari@masters.edu.
 
-FOR STAFF POSITIONS: [Click here to download an application for employment (including doctrinal statement).](http://www.masters.edu/media/869616/tmus-application-for-employment.pdf "TMUS Application for Employment.pdf") Completed applications should be submitted to the Human Resources department via one of the following options:
+FOR STAFF POSITIONS: [Click here to download an application for employment (including doctrinal statement).](http://www.masters.edu/media/869616/tmus-application-for-employment.pdf "TMUS Application for Employment.pdf")[TMUS Application for Employment-2cccfa.pdf](/uploads/TMUS%20Application%20for%20Employment-2cccfa.pdf) Completed applications should be submitted to the Human Resources department via one of the following options:
 
 * Email - humanresources@masters.edu
 
