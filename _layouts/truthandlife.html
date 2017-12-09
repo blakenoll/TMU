@@ -2,94 +2,107 @@
 layout: default
 ---
 
-{% include parallax-header.html %}
-
-<div class="container">
-  <br>
-  <div class="row">
-    <div class="col s12">
-      <nav>
-       <div class="nav-wrapper white">
-         <div class="col s12">
-           <a href="{{ "/studentlife/campusactivities" | prepend: site.url }}" class="breadcrumb">Campus Activities</a>
-           <a href="#!" class="breadcrumb">{{ page.title }}</a>
-         </div>
-       </div>
-     </nav>
-    </div>
+<div class="gradient-color">
+<br>
+<div class="row">
+  <div class="col s12 m6 offset-m3 card white">
+    <img src="images/T&L_Logo.png" alt="" style="margin: 0 auto; width: 100%">
   </div>
-  <div class="row">
-    <div class="col s12">
-      <!-- Modal Trigger -->
-      <a class="btn btn-navy" href="#register">Register</a>
+</div>
 
-      <!-- Modal Structure -->
-      <div id="register" class="modal">
-        <div class="modal-content">
-          <h4 class="center">Truth & Life Registration</h4>
-          <iframe src="https://masters.formstack.com/forms/tlc_registration_free" width="100%" height="1000" style="border: none"></iframe>
+  <div class="container">
+    <div class="row">
+      <div class="col s12 card white">
+        <br>
+        <div class="row">
+          <div class="col s12">
+            <nav>
+             <div class="nav-wrapper white">
+               <div class="col s12">
+                 <a href="{{ "/studentlife/campusactivities" | prepend: site.url }}" class="breadcrumb">Campus Activities</a>
+                 <a href="#!" class="breadcrumb">{{ page.title }}</a>
+               </div>
+             </div>
+           </nav>
+          </div>
         </div>
-        <div class="modal-footer">
-          <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat"></a>
-        </div>
-      </div>
-    </div>
-    <div class="col s12 m6 offset-m3">
-      <img src="images/T&L_Logo.png" alt="" style="margin: 0 auto; width: 100%">
-    </div>
-  </div>
-  <div class="row">
-    <!-- <div class="col s12 m8">
-      {{ content }}
-    </div> -->
-    <div class="col s12 m4">
-      <h1>Speakers</h1>
-      {% for speaker in page.speakers %}
-      <div class=" col s12 valign-wrapper">
-        <!-- <div class="col s4">
-          <img src="{{speaker.image}}" alt="" width="100%" class="circle">
-        </div> -->
-        <div class="col s8">
-          <!-- Modal Trigger -->
-          <a class="modal-trigger" href="#{{speaker.name | remove: ' ' }}">{{speaker.name}}</a>
+        <br>
+        <div class="row">
+          <div class="col s12">
+            <!-- Modal Trigger -->
+            <a class="btn btn-navy right" href="#register">Register</a>
 
-          <!-- Modal Structure -->
-          <div id="{{speaker.name | remove: ' ' }}" class="modal">
-            <div class="modal-content">
-              <h4>{{speaker.name}}</h4>
-              <p>{{speaker.bio-text | markdownify }}</p>
-            </div>
-            <div class="modal-footer">
-              <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+            <!-- Modal Structure -->
+            <div id="register" class="modal">
+              <div class="modal-content">
+                <h4 class="center">Truth & Life Registration</h4>
+                <iframe src="https://masters.formstack.com/forms/tlc_registration_free" width="100%" height="1000" style="border: none"></iframe>
+              </div>
+              <div class="modal-footer">
+                <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat"></a>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-  <div class="row">
-    <div class="col s12">
-      <h1>Schedule</h1>
-      {% for item in page.schedule %}
-      <div class="col s12 m6">
-        <table class="striped">
-          <thead>
-            <th colspan="3">{{ item.date | date: "%A, %B %e"}}</th>
-          </thead>
-          <tbody>
-            {% for event in item.events %}
-            <tr>
-              <td>{{ event.time}}</td>
-              <td>{{ event.event}}</td>
-              <td>{{ event.location}}</td>
-            </tr>
+        <div class="row">
+          <div class="col s12 l10 offset-l1">
+            {{ content }}
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col s12 m4">
+            <h1>Speakers</h1>
+            {% for speaker in page.speakers %}
+            <div class=" col s12 valign-wrapper">
+              <!-- <div class="col s4">
+                <img src="{{speaker.image}}" alt="" width="100%" class="circle">
+              </div> -->
+              <div class="col s8">
+                <!-- Modal Trigger -->
+                <a class="modal-trigger" href="#{{speaker.name | remove: ' ' }}">{{speaker.name}}</a>
+
+                <!-- Modal Structure -->
+                <div id="{{speaker.name | remove: ' ' }}" class="modal">
+                  <div class="modal-content">
+                    <h4>{{speaker.name}}</h4>
+                    <p>{{speaker.bio-text | markdownify }}</p>
+                  </div>
+                  <div class="modal-footer">
+                    <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+                  </div>
+                </div>
+              </div>
+            </div>
             {% endfor %}
-          </tbody>
-        </table>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col s12">
+            <h1>Schedule</h1>
+            {% for item in page.schedule %}
+            <div class="col s12 m6">
+              <table class="striped">
+                <thead>
+                  <th colspan="3">{{ item.date | date: "%A, %B %e"}}</th>
+                </thead>
+                <tbody>
+                  {% for event in item.events %}
+                  <tr>
+                    <td>{{ event.time}}</td>
+                    <td>{{ event.event}}</td>
+                    <td>{{ event.location}}</td>
+                  </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+
       </div>
-      {% endfor %}
+      </div>
     </div>
-  </div>
 
 </div>
