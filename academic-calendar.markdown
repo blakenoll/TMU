@@ -84,11 +84,8 @@ layout: page
 </tbody>
 </table>
 <p> </p>
-<a name="finals">
-<h2 id="finalsschedule" style="padding-top: 40px; margin-top: -40px;">
-Fall 2017 Finals Schedule
-</h2>
-</a>
+<a name="finals"></a>
+<h2 id="finalsschedule">Fall 2017 Finals Schedule</h2>
 <table class="bordered">
 <tbody>
 <tr>
