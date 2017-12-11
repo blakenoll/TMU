@@ -84,7 +84,10 @@ layout: page
 </tbody>
 </table>
 <p> </p>
-<a name="finals"><h2 id="finalsschedule">Fall 2017 Finals Schedule</h2></a>
+<a name="finals">
+ <h1 style="padding-top: 40px; margin-top: -40px;">My anchor</h1>
+</a>
+<h2 id="finalsschedule">Fall 2017 Finals Schedule</h2>
 <table class="bordered">
 <tbody>
 <tr>
