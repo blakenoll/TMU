@@ -88,7 +88,7 @@ layout: page
 <h2 id="finalsschedule" style="padding-top: 40px; margin-top: -40px;">
 Fall 2017 Finals Schedule
 </h2>
-<a name="finals">
+</a>
 <table class="bordered">
 <tbody>
 <tr>
