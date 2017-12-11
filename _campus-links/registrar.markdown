@@ -545,7 +545,7 @@ ferpa-body: |-
   * To the parents of dependent children.
 
   * To the governmental officials designated by law, or in compliance with a judicial order.
-finals-schedule-body: "[Fall 2017](http://www.masters.edu/academic-calendar.html#finalsschedule)"
+finals-schedule-body: "[Current Finals Schedule](http://www.masters.edu/academic-calendar.html#finalsschedule)"
 forms-body: |-
   ### [Add/Drop](http://www.masters.edu/media/869463/add-drop.pdf)
 
