@@ -546,53 +546,58 @@ ferpa-body: |-
 
   * To the governmental officials designated by law, or in compliance with a judicial order.
 finals-schedule-body: |-
+  <h2 id="finalsschedule">Fall 2017 Finals Schedule</h2>
   <table class="bordered">
-    <tbody>
-    <tr>
-    <td class="boldText" style="text-align: center;">Exam Period</td>
-    <td class="boldText" style="text-align: center;">Mon, May 1</td>
-    <td class="boldText" style="text-align: center;">Tues, May 2</td>
-    <td class="boldText" style="text-align: center;">Wed, May 3</td>
-    <td class="boldText" style="text-align: center;">Thur, May 4</td>
-    </tr>
-    <tr>
-    <td style="text-align: center;"><strong>9:00-11:00am</strong></td>
-    <td style="text-align: center;">
-    <p>MWF <br>8:00 - 8:55</p>
-    </td>
-    <td style="text-align: center;">TTH <br>8:00 - 9:25</td>
-    <td style="text-align: center;">MWF <br>10:40 - 11:35</td>
-    <td style="text-align: center;">TTH <br>9:35 - 11:00</td>
-    </tr>
-    <tr>
-    <td colspan="5" style="text-align: center;"><strong>Break</strong></td>
-    </tr>
-    <tr>
-    <td style="text-align: center;"><strong>11:30am-1:30pm</strong></td>
-    <td style="text-align: center;">MWF <br>11:45 - 12:40</td>
-    <td style="text-align: center;">TTH <br>11:10 - 12:35</td>
-    <td style="text-align: center;">MWF <br>12:50 - 1:45</td>
-    <td style="text-align: center;">TTH <br>12:45 - 2:10</td>
-    </tr>
-    <tr>
-    <td colspan="5" style="text-align: center;"><strong>Break</strong></td>
-    </tr>
-    <tr>
-    <td style="text-align: center;"><strong>2:30-4:30pm</strong></td>
-    <td style="text-align: center;">MW <br>3:30 - 4:55</td>
-    <td style="text-align: center;">TTH <br>2:20 - 3:45</td>
-    <td style="text-align: center;">MW <br>1:55 - 3:20</td>
-    <td style="text-align: center;">TTH <br>3:55 - 5:20</td>
-    </tr>
-    <tr>
-    <td style="text-align: center;"><strong>Evening</strong></td>
-    <td style="text-align: center;">M 7:00-10:00pm</td>
-    <td style="text-align: center;">T 7:00-10:00pm</td>
-    <td style="text-align: center;">W 7:00-10:00pm</td>
-    <td style="text-align: center;">TH 7:00-10:00pm</td>
-    </tr>
-    </tbody>
-    </table>
+  <tbody>
+  <tr>
+  <td class="boldText">Exam Period</td>
+  <td class="boldText">Mon, Dec 11</td>
+  <td class="boldText">Tues, Dec 12</td>
+  <td class="boldText">Wed, Dec 13</td>
+  <td class="boldText">Thur, Dec 14</td>
+  </tr>
+  <tr>
+  <td><strong>9:00-11:00am</strong></td>
+  <td>
+  <p>MWF <br />10:40 - 11:35</p>
+  </td>
+  <td>TTH <br />9:35 - 11:00</td>
+  <td>MWF <br />8:00 - 8:55</td>
+  <td>TTH <br />8:00 - 9:25</td>
+  </tr>
+  <tr>
+  <td colspan="5"><strong>Break</strong></td>
+  </tr>
+  <tr>
+  <td><strong>11:30am-1:30pm</strong></td>
+  <td>MWF <br />12:50 - 1:45</td>
+  <td>TTH <br />12:45 - 2:10</td>
+  <td>MWF <br />11:45 - 12:40</td>
+  <td>TTH <br />11:10 - 12:35</td>
+  </tr>
+  <tr>
+  <td colspan="5"><strong>Break</strong></td>
+  </tr>
+  <tr>
+  <td><strong>2:30-4:30pm</strong></td>
+  <td>MW <br />1:55 - 3:20</td>
+  <td>TTH <br />3:55 - 5:20</td>
+  <td>MW <br />3:30 - 4:55</td>
+  <td>TTH <br />2:20 - 3:45</td>
+  </tr>
+  <tr>
+  <td><strong>Evening</strong></td>
+  <td>M 7:00-10:00pm</td>
+  <td>T 7:00-10:00pm</td>
+  <td>W 7:00-10:00pm</td>
+  <td>
+  <p> </p>
+  <p>TH 7:00-10:00pm<br /><br /></p>
+  </td>
+  </tr>
+  </tbody>
+  </table>
+  <p> </p>
 forms-body: |-
   ### [Add/Drop](http://www.masters.edu/media/869463/add-drop.pdf)
 
