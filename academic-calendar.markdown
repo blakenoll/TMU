@@ -85,9 +85,10 @@ layout: page
 </table>
 <p> </p>
 <a name="finals">
- <h1 style="padding-top: 40px; margin-top: -40px;">My anchor</h1>
-</a>
-<h2 id="finalsschedule">Fall 2017 Finals Schedule</h2>
+<h2 id="finalsschedule" style="padding-top: 40px; margin-top: -40px;">
+Fall 2017 Finals Schedule
+</h2>
+<a name="finals">
 <table class="bordered">
 <tbody>
 <tr>
