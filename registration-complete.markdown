@@ -10,7 +10,3 @@ date: 2017-12-12 04:43:00 Z
 <p style="text-align: center;"> </p>
 <p style="text-align: center;">We will contact you soon with info, if you need immediate help please contact us now</p>
 <p style="text-align: center;"><strong>Call</strong> 661.362.2363 | <strong>Text</strong>: 661.748.0266 | <strong>Write</strong> admissions@masters.edu</p>
-
-</strong></p>
-<p style="text-align: center;"> </p>
-<p style="text-align: center;">What to do next? Start your admissions process</p>
