@@ -545,54 +545,7 @@ ferpa-body: |-
   * To the parents of dependent children.
 
   * To the governmental officials designated by law, or in compliance with a judicial order.
-finals-schedule-body: |-
-  <table class="bordered">
-    <tbody>
-    <tr>
-    <td class="boldText" style="text-align: center;">Exam Period</td>
-    <td class="boldText" style="text-align: center;">Mon, May 1</td>
-    <td class="boldText" style="text-align: center;">Tues, May 2</td>
-    <td class="boldText" style="text-align: center;">Wed, May 3</td>
-    <td class="boldText" style="text-align: center;">Thur, May 4</td>
-    </tr>
-    <tr>
-    <td style="text-align: center;"><strong>9:00-11:00am</strong></td>
-    <td style="text-align: center;">
-    <p>MWF <br>8:00 - 8:55</p>
-    </td>
-    <td style="text-align: center;">TTH <br>8:00 - 9:25</td>
-    <td style="text-align: center;">MWF <br>10:40 - 11:35</td>
-    <td style="text-align: center;">TTH <br>9:35 - 11:00</td>
-    </tr>
-    <tr>
-    <td colspan="5" style="text-align: center;"><strong>Break</strong></td>
-    </tr>
-    <tr>
-    <td style="text-align: center;"><strong>11:30am-1:30pm</strong></td>
-    <td style="text-align: center;">MWF <br>11:45 - 12:40</td>
-    <td style="text-align: center;">TTH <br>11:10 - 12:35</td>
-    <td style="text-align: center;">MWF <br>12:50 - 1:45</td>
-    <td style="text-align: center;">TTH <br>12:45 - 2:10</td>
-    </tr>
-    <tr>
-    <td colspan="5" style="text-align: center;"><strong>Break</strong></td>
-    </tr>
-    <tr>
-    <td style="text-align: center;"><strong>2:30-4:30pm</strong></td>
-    <td style="text-align: center;">MW <br>3:30 - 4:55</td>
-    <td style="text-align: center;">TTH <br>2:20 - 3:45</td>
-    <td style="text-align: center;">MW <br>1:55 - 3:20</td>
-    <td style="text-align: center;">TTH <br>3:55 - 5:20</td>
-    </tr>
-    <tr>
-    <td style="text-align: center;"><strong>Evening</strong></td>
-    <td style="text-align: center;">M 7:00-10:00pm</td>
-    <td style="text-align: center;">T 7:00-10:00pm</td>
-    <td style="text-align: center;">W 7:00-10:00pm</td>
-    <td style="text-align: center;">TH 7:00-10:00pm</td>
-    </tr>
-    </tbody>
-    </table>
+finals-schedule-body: "[Current Finals Schedule](http://www.masters.edu/academic-calendar.html#finalsschedule)"
 forms-body: |-
   ### [Add/Drop](http://www.masters.edu/media/869463/add-drop.pdf)
 
