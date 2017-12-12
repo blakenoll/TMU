@@ -9,12 +9,12 @@ date: 2017-12-12 04:05:00 Z
 <!-- FORM: BODY SECTION -->
 
 <center>
-<div class="wFormContainer" style="max-width: 500px; width:auto;" >
+<div class="wFormContainer" style="max-width: 700px; width:auto;" >
 
 <style type="text/css">
 \#tfa_9,
 \*\[id^="tfa_9\["\] {
-width: 770px !important;
+width: 500px !important;
 }
 \#tfa_9-D,
 \*\[id^="tfa_9\["\]\[class\~="field-container-D"\] {
