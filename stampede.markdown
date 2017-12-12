@@ -6,8 +6,6 @@ date: 2017-12-12 04:05:00 Z
 
 <!-- FORM: HEAD SECTION -->
 
-<center>
-
 <div style="text-align: center;">
 
 <!-- FORM: BODY SECTION -->
