@@ -8,8 +8,8 @@ date: 2017-12-12 04:05:00 Z
 
 <!-- FORM: BODY SECTION -->
 
-
-<div class="wFormContainer" style="max-width: 700px; width:auto;" >
+<center>
+<div class="wFormContainer" style="max-width: 500px; width:auto;" >
 
 <style type="text/css">
 \#tfa_9,
