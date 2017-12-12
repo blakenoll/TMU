@@ -11,6 +11,8 @@ date: 2017-12-12 04:05:00 Z
 <div style="text-align: center;">
 
 <!-- FORM: BODY SECTION -->
+
+<center>
 <div class="wFormContainer" style="max-width: 700px; width:auto;" >
 
 <style type="text/css">
@@ -49,11 +51,5 @@ width: auto !important;
 <input type="hidden" value="217734" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="2ab3191916a681093f5e150302e6f1ec" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="34" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
 </form>
 </div></div>
-
-<p class="supportInfo" >
-<a href="https://masters.tfaforms.net/forms/help/217734" target="new" style="font-size: 0.7em;">
-Need assistance with this form?    </a>
-
-      </p>
 
 </div>
