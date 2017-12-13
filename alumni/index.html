@@ -63,6 +63,9 @@ parallax-img: "/images/Parallax3.jpg"
             <div class="card-content">
               <span class="card-title">{{ forloop.index}}. {{ event.title }}</span>
               {{ event.body | markdownify }}
+              {% if event.link %}
+              <a href="{{event.link}}" class="btn tbn-navy" target="_blank">View</a>
+              {% endif %}
             </div>
           </div>
 
