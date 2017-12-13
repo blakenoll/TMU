@@ -103,31 +103,35 @@ policies-body: |-
 textbooks-body: |-
   ### General Education
 
-  [(GE Booklist)](/media/870447/ge-booklist1002.pdf)
+  [(GE Booklist)](/uploads/GE%20Booklist.LS150%20Inlcluded_SP2018.pdf)
 
   ### Biblical Counseling
 
-  [(BA-BC Booklist)](http://www.masters.edu/media/870446/ba-bc-booklist_1002.pdf)
+  [(BA-BC Booklist)](/uploads/BA-BC%20Booklist.pdf)
 
   ### Biblical Studies
 
-  [(BA-BS Booklist)](http://www.masters.edu/media/870449/ba-bs-booklist1002.pdf)
+  [(BA-BS Booklist)](/uploads/BA-BS%20Booklist.pdf)
 
   ### Christian Ministries
 
-  [(BA-CM Booklist)](http://www.masters.edu/media/870445/ba-cm-booklist.pdf)
+  [(BA-CM Booklist)](/uploads/BA-CM%20Booklist.pdf)
 
   ### Organizational Management
 
-  [(BA-OM Booklist)](https://athletics.masters.edu/media/870448/ba-om-booklist1002.pdf)
+  [(BA-OM Booklist)](/uploads/BA-OM%20Booklist.pdf)
 
   ### Masters of Arts, Biblical Studies
 
-  [(MABS Booklist)](http://www.masters.edu/media/869677/mabs-booklist-32317.pdf)
+  [(MABS Booklist)](/uploads/MABS%20Booklist.pdf)
 
   ### Master of Business Administration
 
-  [(MBA Booklist)](/uploads/MABS%20Booklist_10.02.2017.pdf)
+  [(MBA Booklist)](/uploads/MBA%20Booklist.pdf)
+
+  ### Master of Education
+
+  [(MED Booklist)](/uploads/MED%20Booklist.pdf)
 register-body: |-
   Taking Courses for Credit
 
