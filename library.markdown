@@ -33,7 +33,7 @@ intelibraryloan-body: |-
 
   A limit of 5 ILL requests per day, per student may be submitted.
 
-  ILL request may be made directly through the WorldCat Discovery search platform. When a needed item is found but not held by the Powell Library, simple select the "Request item" button under "Availability" within the item record.
+  ILL request may be made directly through the WorldCat Discovery search platform. When a needed item is found but not held by the Powell Library, simple select the "Request item" button under "Availability" within the item record.  From off campus it is necessary to "Sign in" first.
 
   ILL forms may also be accessed through the links above. There is a separate form for periodicals and one for books, chapters or specific pages from books. Be sure to also request the title and verso when requesting a portion of a book so you will be able to properly cite your source. Submitting an ILL form for periodicals and portions of books indicates the patron has read the copyright statement and is willing to comply with all pertinent [copyright laws](http://www.masters.edu/campuslinks/dmca/the-copyright-law.aspx "The Copyright Law"). These ILL requests will not be sent without it.
 
