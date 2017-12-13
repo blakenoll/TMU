@@ -3,7 +3,7 @@ title: HEOA
 teach-prep-body: |-
   Each subject heading is a hyperlink to the relevant web page or PDF document. Please click subject heading to access consumer information. Certain links are password protected. If you require access to password protected links please request username and passwords from your departments Vice President.
 
-  ### [TMU Teacher Preparation Program Pass Rate](http://www.masters.edu/media/870054/titleii-2014-15-annualrpt.pdf "Annual Report Card 2016")
+  ### [TMU Teacher Preparation Program Pass Rate](/uploads/titleii-2015-16-annualrpt.pdf)
 
   ### [TMU Gainful Employment Disclosure Information](http://www.masters.edu/media/870057/131206-gedt-2017.html "TMU Gainful Employment")
 health-safety-body: |-
