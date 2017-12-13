@@ -5,6 +5,8 @@ author: Mason Nesbitt, TMU's Sports Information Director
 sm-image: "/uploads/transfer2.jpg"
 ---
 
+![transfer2.jpg](/uploads/transfer2.jpg)
+
 A box score printed on the night of Oct. 26 would relay the essentials: The Master’s University beat Bethesda University by 30. Brock Gardner scored 18 points. A lot of people were there to watch.  
 
 What it won’t show is that Gardner came off the court in the second half, with the game well in hand, flung his arms into the air, scrunched his face and unleashed a guttural yell. Moreover, it won’t tell where that particular brand of relentless intensity comes from (Gardner’s father, Troy, isn’t even sure). 
