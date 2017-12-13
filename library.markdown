@@ -3,13 +3,11 @@ title: Library
 date: 2017-04-06 22:48:00 Z
 parallax-img: "/images/Parallax5.jpg"
 searchtools-body: |-
-  [Research Guides NEW](http://masters.libguides.com/)
+  [Research Guides](http://masters.libguides.com/)
 
   [Find Databases](http://masters.libguides.com/az.php)
 
   [Find Journals](https://masters.on.worldcat.org/atoztitles/#journal)
-
-  [Find eBooks](https://masters.on.worldcat.org/atoztitles/#ebook)
 
   [Search LC Subject Headings](http://id.loc.gov/authorities/subjects.html)
 services-body: 
@@ -33,7 +31,7 @@ intelibraryloan-body: |-
 
   All ILL requests must be checked by the patron against TMU holdings prior to placing the request to verify that the item is unavailable from the TMU Library.
 
-  A limit of 5 ILL requests per day, per student will be submitted.
+  A limit of 5 ILL requests per day, per student may be submitted.
 
   ILL request may be made directly through the WorldCat Discovery search platform. When a needed item is found but not held by the Powell Library, simple select the "Request item" button under "Availability" within the item record.
 
@@ -95,9 +93,9 @@ intelibraryloan-body: |-
 general-use-policies-body: |-
   The library staff is continually seeking to improve our services and provide a quiet, resourceful and inviting place to study. Please come and let us help you in any way we can. It is our privilege to serve you and contribute as much as possible to helping you develop your studies in a God honoring way. Take a few minutes and familiarize yourself with the particulars of our library.
 
-  The Robert L. Powell Library exists to support the academic and scholarly programs of The Master's University and to serve primarily its faculty, staff and currently enrolled students. TMU Alumni, [The Master's Seminary (TMS)](http://www2.masters.edu/DeptPageNew.asp?PageID=1834) and other [visitors](http://www2.masters.edu/DeptPageNew.asp?PageID=1835) are welcome to use this library but must bear in mind that our first priority is to the TMU community.
+  The Robert L. Powell Library exists to support the academic and scholarly programs of The Master's University and to serve primarily its faculty, staff and currently enrolled students. TMU Alumni, [The Master's Seminary (TMS)](http://www.tms.edu) and other [visitors](http://masters.libguides.com/welcome/libraryvisitors) are welcome to use this library but must bear in mind that our first priority is to the TMU community.
 
-  Every patron of the Robert L. Powell Library is accountable for abiding by all applicable policies, procedures and copyright laws.
+  Every patron of the Robert L. Powell Library is accountable for abiding by all applicable [policies, procedures](http://masters.libguides.com/welcome/libraryservices) and [copyright laws](http://masters.libguides.com/copyright).
 
   ## [Patron Registration & ID Cards](http://masters.libguides.com/welcome/libraryusepolicy "Patron Registration")
 
