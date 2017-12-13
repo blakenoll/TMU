@@ -7,7 +7,7 @@ sm-image: "/uploads/transfer2.jpg"
 
 ![transfer2.jpg](/uploads/transfer2.jpg)
 
-A box score printed on the night of Oct. 26 would relay the essentials: The Master’s University beat Bethesda University by 30. Brock Gardner scored 18 points. A lot of people were there to watch.  
+**A box score printed on the night of Oct. 26 would relay the essentials**: The Master’s University beat Bethesda University by 30. Brock Gardner scored 18 points. A lot of people were there to watch.  
 
 What it won’t show is that Gardner came off the court in the second half, with the game well in hand, flung his arms into the air, scrunched his face and unleashed a guttural yell. Moreover, it won’t tell where that particular brand of relentless intensity comes from (Gardner’s father, Troy, isn’t even sure). 
 
@@ -17,14 +17,15 @@ Other aspects of the younger Gardner’s makeup, while still outside the scope o
 “I liked to dunk before dunking was cool,” Troy, a full 6-6, says. 
 
 
-Then, and maybe most importantly, there is Brock’s willingness to make basketball decisions that fly in the face of conventional basketball wisdom: say, when he forsook a large public high school for a tiny Christian one in Chandler, Arizona. Or when he willingly left a prominent club team. Or, this past summer, when he transferred from NCAA Division 1 Liberty University in Virginia, where he played in every game as a freshman, to The Master’s University. 
+**Then, and maybe most importantly, there is Brock’s willingness to make basketball decisions that fly in the face of conventional basketball wisdom:** say, when he forsook a large public high school for a tiny Christian one in Chandler, Arizona. Or when he willingly left a prominent club team. Or, this past summer, when he transferred from NCAA Division 1 Liberty University in Virginia, where he played in every game as a freshman, to The Master’s University. 
 
 
 The ability to make against-the-grain decisions also comes from Holli and Troy, who made a point early on of laying out the pros and cons and letting their four children choose, for better or worse. And it’d be hard to argue, through the first month of the 2017-18 season, that their youngest child’s latest choice wasn’t for the best. 
+
 On Dec. 2, Gardner scored a season-high 27 points on 10-of-11 shooting in the NAIA No. 5-ranked Mustangs’ rout of Pacific Union, upping his season average, at the time, to 13.8 points a night. 
 
 
-He’s currently averaging 6.4 rebounds, 2.5 assists and a gigawatt of energy every time he touches the floor. That, he said, was his goal early in the season when he came off the bench: He wanted to provide a spark. Eventually, he so lit it up that coach Kelvin Starr named him a starter.
+### He’s currently averaging 6.4 rebounds, 2.5 assists and a gigawatt of energy every time he touches the floor. That, he said, was his goal early in the season when he came off the bench: He wanted to provide a spark. Eventually, he so lit it up that coach Kelvin Starr named him a starter.
 
 
 The move was familiar to Gardner, who played varsity at Tri-City Christian Academy in Chandler as an eighth grader (per rules of the school’s athletic association) and served as a role player. 
@@ -33,7 +34,7 @@ The move was familiar to Gardner, who played varsity at Tri-City Christian Acade
 He was roughly 6-2 at the time and brimming with promise if not yet playmaking ability. But by season’s midpoint, his efforts forced the hand of coach Paul Brown.
 
 
-“I couldn’t keep him off the floor,” the coach says.  
+> “I couldn’t keep him off the floor,” the coach says.  
 
 
 Really, there was no guarantee Brown could keep Gardner at all.
@@ -118,7 +119,7 @@ How late? New students were due at TMU, where Gardner knew family friends Josh a
 Gardner’s decision didn’t take long. 
 
 
-“It was literally a 24-hour period where he decided he wanted to come here,” Starr says. “The meaning of that is this: The kid wants to be here.” 
+> “It was literally a 24-hour period where he decided he wanted to come here,” Starr says. “The meaning of that is this: The kid wants to be here.” 
 
 
 Here being a place that feels something like Tri-City, a close-knit community with outsized basketball talent. 
@@ -130,3 +131,5 @@ Here being a place that feels something like Tri-City, a close-knit community wi
 In the classroom, Gardner has declared as a biblical studies major. He envisions himself, potentially, as a military chaplain, preaching the word of God with passion. But that’s a decision for after basketball. And who’s to say Gardner won’t have more rims to attack and threes to shoot after his years at TMU are done?
 
 “The safest way to the next level is to be where God wants him,” Troy says. “It’s a non-traditional path. But he’s happy. We’re happy. I listen to chapel on a weekly basis, and I’m ecstatic he’s hearing that preaching and being influenced by the people he’s being influenced by.”
+
+![TMUBBallvsAzusa10-28-17-04203.jpg](/uploads/TMUBBallvsAzusa10-28-17-04203.jpg)
