@@ -2,8 +2,7 @@
   <div class="slideshow-container">
   {% assign banners = site.landingPageBanners | sort: 'position' 'last' %}
   {% for banner in banners %}
-  {% if banner.end-date %}
-    {% if banner.end-date >= site.time %}
+    {% unless banner.end-date <= site.time %}
     <div class="mySlides fade">
       <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.description }}" style="width:100%">
       <div class="text">
@@ -13,28 +12,17 @@
         </div>
       </div>
     </div>
-    {% else %}
-    <!--  Do nothing -->
-    {% endif %}
-  {% else %}
-  <div class="mySlides fade">
-    <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.description }}" style="width:100%">
-    <div class="text">
-      <div class="container">
-        <span class="left">{{ banner.description}}</span>
-      <a href="{{ banner.link }}" class="waves-effect waves-light btn btn-white right">{{ banner.button-text }}</a>
-      </div>
-    </div>
-  </div>
-  {% endif %}
+    {% endunless %}
   {% endfor %}
   </div>
   <br>
   <br>
   <br>
   <div style="text-align:center">
-    {% for banner in site.landingPageBanners %}
-    <span class="dot" onclick="currentSlide({{ forloop.index }})"></span>
+    {% for banner in banners %}
+      {% unless banner.end-date <= site.time %}
+      <span class="dot" onclick="currentSlide({% increment var %} + 1)"></span>
+      {% endunless %}
     {% endfor %}
   </div>
 </div>
