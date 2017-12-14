@@ -97,11 +97,11 @@ general-use-policies-body: |-
 
   Every patron of the Robert L. Powell Library is accountable for abiding by all applicable [policies, procedures](http://masters.libguides.com/welcome/libraryservices) and [copyright laws](http://masters.libguides.com/copyright).
 
-  ## [Patron Registration & ID Cards](http://masters.libguides.com/welcome/libraryusepolicy "Patron Registration")
+  ## [Patron Registration & ID Cards](http://masters.libguides.com/welcome/lendingpolicy)
 
-  A completed [Patron Registration form](http://www.masters.edu/media/747166/Patron%20Registration%20Form-general.pdf "Patron Registration Form") will need to be submitted to the Circulation Manager (Chloe Gustke, cgustke@masters.edu) before an ID card can be made. The Master's University ID card must be presented to circulation desk personnel whenever materials are checked out. All new students, faculty and staff will be given one card at no charge. However, there is a $5 fee to replace lost or broken cards. ID cards that have been worn to the point that the photo, barcode and/or magnetic strip are no longer viable may be replaced without the fee. Appointments for making replacement ID cards should be made with the Circulation Manager or the University Librarian.
+  A completed [Patron Registration form](http://www.masters.edu/media/747166/Patron%20Registration%20Form-general.pdf) will need to be submitted to the Circulation Manager (Chloe Gustke, cgustke@masters.edu) before an ID card can be made. The Master's University ID card must be presented to circulation desk personnel whenever materials are checked out. All new students, faculty and staff will be given one card at no charge. However, there is a $5 fee to replace lost or broken cards. ID cards that have been worn to the point that the photo, barcode and/or magnetic strip are no longer viable may be replaced without the fee. Appointments for making replacement ID cards should be made with the Circulation Manager or the University Librarian.
 
-  TMS students may use their seminary ID cards to check out materials at The Master's University. Refer to the Reciprocal Arrangements page on this Web site for details on TMU/TMS borrowing privileges.
+  TMS students may use their seminary ID cards to check out materials at The Master's University. Refer to the [Reciprocal Arrangements](http://masters.libguides.com/welcome/libraryservices#s-lib-ctab-14322964-10) page on this Web site for details on TMU/TMS borrowing privileges.
 
   Visitors desiring to check out circulating materials may apply for a resident library card. See "VISITORS" below for details.
 
