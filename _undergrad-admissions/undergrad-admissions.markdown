@@ -40,17 +40,7 @@ app-deadlines:
   red-text: After FEB 23, 2018
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
-Field name: "Why are TMU graduates in such high demand? We can’t keep up with the
-  requests from satisfied employers for more of our graduates.\n\n> |#1     | “Right
-  Choice” University, Wall Street Journal (2016-2017) \n> |#1     | CPA Exam Pass
-  Rate (NASBA)\n> |#4     | Best Student-Teacher Ratio (12:1) US News\n> |162%   |
-  Salary Growth, business alumni (CA residents) 10 year progression\n> |100+   | Career
-  Paths offered, 13 Majors\n> |TOP 35 | Best Universities, US Regional West\n> |TOP
-  10 | U.S. law schools (TMU graduate acceptance)\n> |TOP 15 | Best Value schools
-  in the U.S., US News 2017\n> |100%   | 2017 employment, teaching majors\n> |100%
-  \  | 2017 employment, business majors\n> |95%    | Acceptance rate, medical school\n>
-  |TOP 8% | Scoring on ETS-MFT business exam\n> |TOP 20 | best colleges for veterans,
-  US News 2017\n> |TOP 80 | colleges, Forbes 2017 (US West)\n"
+Field name: 
 blurb2-text: 
 quote-1: 
 layout: undgradadmiss
