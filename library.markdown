@@ -554,35 +554,39 @@ library-personnel-body: |
   Mrs. Grace Kamffer, MLIS Acquisitions Manager, Serials Manager/Interlibrary Loan Manager (661) 362-2274; gkamffer@masters.edu\
   Grace is responsible for ordering and processing all library materials. Sh also maintains all of our physical magazines, journals and indexes and assists in the management of our online full-text journals. She can tell you if we have received the latest issue of a particular journal or not. As Interlibrary Loan Manager, she handles finding the books and articles that you need but are unavailable in this library.\
 hours-body: |-
-  # Semester Hours
+  SEMESTER HOURS
 
-  Sunday - 8:00 p.m. - 12:00 p.m.
+  Sunday - 8:00 pm - 12:00 am
 
-  Monday & Wednesday 10:30 a.m. - 12:00 a.m.
+  Monday & Wednesday 10:30 am - 12:00 am
 
-  Tuesday & Thursday 9:30 a.m. - 12:00 a.m.
+  Tuesday & Thursday 9:30 am - 12:00 am
 
-  Friday 10:30 a.m. - 5:00 p.m.
+  Friday 10:30 am - 5:00 pm
 
-  Saturday 12:00 p.m. -7:00 p.m.
+  Saturday 12:00 pm -7:00 pm
 
-  ## Spring Break
+    FALL/SPRING BREAK
 
-  ### March 11th - March 19th
+  Monday - Thursday 2:00 pm - 6:00 pm
 
-  Monday - Thursday 2:00 p.m. - 6:00 p.m.
-
-  Friday 2:00 p.m. - 5:00 p.m.
+  Friday 2:00 pm - 5:00 pm
 
   Closed Saturday & Sunday
 
   ## FINALS WEEK
 
-  May 1st - 4th TBA
+  Saturday 10:00 am - 10:00 pm
+  Sunday 8:00 pm - midnight
+  Monday - Wednesday 9:00 am - midnight
+  Thursday 9:00 am - 6:00 pm
+  Friday 9:00 am - 5:00 pm
+
+  NOTE: The library will be closed 12/16/17 though 01/02/18 and will reopen 01/03/18 with BREAK HOURS.
 
   ## POST SESSION
 
-  May 8th - June 2nd TBA
+   TBA
 
   ## For more information contact the Circulation Desk (661) 362-2278.
 giving-body: |-
