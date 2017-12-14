@@ -53,7 +53,7 @@ Field name: "Why are TMU graduates in such high demand? We can’t keep up with 
   US News 2017\n> |TOP 80 | colleges, Forbes 2017 (US West)\n"
 blurb2-text: 
 quote-1: 
-layout: undgradadmiss
+layout: italy
 ---
 
 # YOUR FUTURE AND CAREER STARTS FALL '18
