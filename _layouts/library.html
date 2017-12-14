@@ -2,10 +2,22 @@
 title: Robert L. Powell Library
 layout: default
 ---
-
+<style media="screen">
+input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #0c2340;
+}
+input::-moz-placeholder { /* Firefox 19+ */
+  color: #0c2340;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #0c2340
+  :-moz-placeholder { /* Firefox 18- */
+    color: #0c2340;
+  }
+</style>
 {% include parallax-header.html %}
-<div class="container">
-  <br>
+<div class="container news">
+  <h2>Search</h2>
   <div class="row">
     <form action="https://masters.on.worldcat.org/search"  method="GET">
       <div class="col s8 m6">
@@ -20,6 +32,93 @@ layout: default
     </form>
 
   </div>
+  <div class="row">
+    <div class="col s12 l6 offset-l3 center">
+      <h3>News</h3>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam laborum, adipisci vel est sequi, ea quas, fuga, libero voluptatem impedit facilis. Enim, beatae aliquid ad quae cum fuga obcaecati illum?
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col s12 m7 push-m5 icon-links home-spacers valign-wrapper" >
+      <div class="col s6">
+        <a href="/apply" target="_blank">
+          <div class="valign-wrapper card hoverable" style="width: 100%; height: 90px;">
+            <!-- <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt=""> -->
+            <span style="margin: 0 auto;">Search Tools</span>
+          </div>
+        </a>
+        <a href="{{ '/performingarts' | prepend: site.url }}">
+          <div class="valign-wrapper card hoverable" style="width: 100%;">
+            <img src="{{'/images/HomePage_PerformingArts.png' | prepend: site.url }}" alt="">
+            <span>Services</span>
+          </div>
+        </a>
+        <a href="{{'/studentlife' | prepend: site.url }}">
+          <div class="valign-wrapper card hoverable" style="width: 100%;">
+            <img src="{{'/uploads/StudentLife_ResidentLife.png' | prepend: site.url }}" alt="">
+            <span>About</span>
+          </div>
+        </a>
+      </div>
+      <div class="col s6">
+        <a href="/tcc">
+          <div class="valign-wrapper card hoverable" style="width: 100%;">
+            <img src="{{'/uploads/AdmissionFinAid_TotalCostCalculator.png' | prepend: site.url }}" alt="">
+            <span>Total Cost Calculator</span>
+          </div>
+        </a>
+        <a href="{{ '/calendar' | prepend: site.url }}">
+          <div class="valign-wrapper card hoverable" style="width: 100%;">
+            <img src="{{'/images/HomePage_Calendar.png' | prepend: site.url }}" alt="">
+            <span>Calendar</span>
+          </div>
+        </a>
+        <a href="/give">
+          <div class="valign-wrapper card hoverable" style="width: 100%;">
+            <img src="{{'/images/HomePage_Give.png' | prepend: site.url }}" alt="">
+            <span>Give</span>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col s12 m5 pull-m7 home-spacers">
+      <br>
+      <h1 class="center">Hours</h1>
+      <table>
+        <thead>
+          <th>Day</th>
+          <th>Hours</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Monday</td>
+            <td>10:30am - 12:00 am</td>
+          </tr>
+          <tr>
+            <td>Tuesday & Thursday</td>
+            <td>9:30am - 12:00 am</td>
+          </tr>
+          <tr>
+            <td>Friday</td>
+            <td>10:30am - 5:00pm</td>
+          </tr>
+          <tr>
+            <td>Saturday</td>
+            <td>12:00pm - 7:00pm</td>
+          </tr>
+          <tr>
+            <td>Sunday</td>
+            <td>8:00pm - 12:00am</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <br>
+
 
 
 
@@ -32,97 +131,72 @@ layout: default
   </script>
   <div class="row">
     <div class="col s12">
-      <h2 id="office-hours">Semester Hours</h2>
-      <table class="bordered responsive-table">
-        <thead>
-          <tr>
-            <th>Monday & Wednesday</th>
-            <th>Tuesday & Thursday</th>
-            <th>Friday</th>
-            <th>Saturday</th>
-            <th>Sunday</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>10:30 am - 12:00 am </td>
-            <td>9:30 am - 12:00 am </td>
-            <td>10:30 am - 5:00 pm</td>
-            <td>12:00 pm - 7:00 pm</td>
-            <td>8:00 pm - 12:00 am</td>
-          </tr>
-        </tbody>
-      </table>
-      <p>Closed on school holidays</p>
-      <p><strong>Phone: </strong> <a href="tel:16613622278">661-362-2278 </a></p>
-    </div>
-   <div class="col s12">
-     <ul class="tabs">
-       <li class="tab"><a href="#test1">Search Tools</a></li>
-       <li class="tab"><a href="#test2">Services</a></li>
-       <li class="tab"><a href="#test3">About</a></li>
-     </ul>
-   </div>
-   <div id="test1" class="col s12">{{ page.searchtools-body | markdownify }}</div>
-   <div id="test2" class="col s12">
-    <div class="row">
-    <div class="col s12">
-      <ul class="tabs secondary-tab">
-        <li class="tab"><a class="active" href="#loan">InterLibrary Loan</a></li>
-        <li class="tab"><a href="#general">General Use Policies</a></li>
-        <li class="tab"><a href="#reference">Reference Services</a></li>
-        <li class="tab"><a href="#copy">Copying & Printing</a></li>
+      <ul class="tabs">
+        <li class="tab"><a href="#test1">Search Tools</a></li>
+        <li class="tab"><a href="#test2">Services</a></li>
+        <li class="tab"><a href="#test3">About</a></li>
       </ul>
     </div>
-    <div id="loan" class="col s12">
-      {{ page.intelibraryloan-body | markdownify }}
+    <div id="test1" class="col s12">{{ page.searchtools-body | markdownify }}</div>
+    <div id="test2" class="col s12">
+      <div class="row">
+        <div class="col s12">
+          <ul class="tabs secondary-tab">
+            <li class="tab"><a class="active" href="#loan">InterLibrary Loan</a></li>
+            <li class="tab"><a href="#general">General Use Policies</a></li>
+            <li class="tab"><a href="#reference">Reference Services</a></li>
+            <li class="tab"><a href="#copy">Copying & Printing</a></li>
+          </ul>
+        </div>
+        <div id="loan" class="col s12">
+          {{ page.intelibraryloan-body | markdownify }}
+        </div>
+        <div id="general" class="col s12">
+          {{ page.general-use-policies-body | markdownify }}
+        </div>
+        <div id="reference" class="col s12">
+          {{ page.reference-services-body | markdownify }}
+        </div>
+        <div id="copy" class="col s12">
+          {{ page.copying-printing-body | markdownify }}
+        </div>
+      </div>
+
     </div>
-    <div id="general" class="col s12">
-      {{ page.general-use-policies-body | markdownify }}
+    <div id="test3" class="col s12">
+      <div class="row">
+        <div class="col s12 m9 l10">
+          <div id="history" class="section scrollspy">
+            <p>{{ page.library-history-body | markdownify }}</p>
+          </div>
+
+          <div id="collection" class="section scrollspy">
+            <p>{{ page.library-collection-body | markdownify }}</p>
+          </div>
+
+          <div id="staff" class="section scrollspy">
+            <p>{{ page.library-personnel-body | markdownify }}</p>
+          </div>
+          <div id="giving" class="section scrollspy">
+            <p>{{ page.giving-body | markdownify }}</p>
+          </div>
+        </div>
+        <div class="col hide-on-small-only m3 l2">
+          <ul class="section table-of-contents fixed">
+            <li><a href="#history">Mission & History</a></li>
+            <li><a href="#collection">Collection Description</a></li>
+            <li><a href="#staff">Library Personnel</a></li>
+            <li><a href="#giving">Giving</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
-    <div id="reference" class="col s12">
-      {{ page.reference-services-body | markdownify }}
-    </div>
-    <div id="copy" class="col s12">
-      {{ page.copying-printing-body | markdownify }}
-    </div>
+
   </div>
-
-   </div>
-   <div id="test3" class="col s12">
-     <div class="row">
-       <div class="col s12 m9 l10">
-         <div id="history" class="section scrollspy">
-           <p>{{ page.library-history-body | markdownify }}</p>
-         </div>
-
-         <div id="collection" class="section scrollspy">
-           <p>{{ page.library-collection-body | markdownify }}</p>
-         </div>
-
-         <div id="staff" class="section scrollspy">
-           <p>{{ page.library-personnel-body | markdownify }}</p>
-         </div>
-         <div id="giving" class="section scrollspy">
-           <p>{{ page.giving-body | markdownify }}</p>
-         </div>
-       </div>
-       <div class="col hide-on-small-only m3 l2">
-         <ul class="section table-of-contents fixed">
-           <li><a href="#history">Mission & History</a></li>
-           <li><a href="#collection">Collection Description</a></li>
-           <li><a href="#staff">Library Personnel</a></li>
-           <li><a href="#giving">Giving</a></li>
-         </ul>
-       </div>
-     </div>
-   </div>
-
- </div>
 </div>
 <script type="text/javascript">
 $(document).ready(function(){
-$('.scrollspy').scrollSpy();
+  $('.scrollspy').scrollSpy();
 });
 
 </script>
