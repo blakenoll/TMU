@@ -203,5 +203,5 @@ layout: page
 
 </div></div>
 
- 
+After you hit submit, this form will be sent to the Office of Admissions and the form will refresh to the same page. 
 </div>
