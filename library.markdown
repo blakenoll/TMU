@@ -95,7 +95,7 @@ general-use-policies-body: |-
 
   The Robert L. Powell Library exists to support the academic and scholarly programs of The Master's University and to serve primarily its faculty, staff and currently enrolled students. TMU Alumni, [The Master's Seminary (TMS)](http://www.tms.edu) and other [visitors](http://masters.libguides.com/welcome/libraryvisitors) are welcome to use this library but must bear in mind that our first priority is to the TMU community.
 
-  Every patron of the Robert L. Powell Library is accountable for abiding by all applicable [policies, procedures](http://masters.libguides.com/welcome/libraryservices) and [copyright laws](http://masters.libguides.com/copyright).
+  Every patron of the Robert L. Powell Library is accountable for abiding by all applicable [policies](http://masters.libguides.com/welcome/libraryservices#s-lib-ctab-14323030-0), [procedures](http://masters.libguides.com/welcome/libraryservices#s-lib-ctab-14322964-0) and [copyright laws](http://masters.libguides.com/copyright).
 
   ## [Patron Registration & ID Cards](http://masters.libguides.com/welcome/lendingpolicy)
 
