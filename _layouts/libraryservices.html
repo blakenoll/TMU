@@ -1,0 +1,41 @@
+---
+layout: default
+---
+{% include parallax-header.html %}
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col s12">
+      <nav>
+       <div class="nav-wrapper white">
+         <div class="col s12">
+           <a href="{{ "/library/" | prepend: site.url }}" class="breadcrumb">Library</a>
+           <a href="#!" class="breadcrumb">{{ page.title }}</a>
+         </div>
+       </div>
+     </nav>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s12">
+      <ul class="tabs secondary-tab">
+        <li class="tab"><a class="active" href="#loan">InterLibrary Loan</a></li>
+        <li class="tab"><a href="#general">General Use Policies</a></li>
+        <li class="tab"><a href="#reference">Reference Services</a></li>
+        <li class="tab"><a href="#copy">Copying & Printing</a></li>
+      </ul>
+    </div>
+    <div id="loan" class="col s12">
+      {{ page.intelibraryloan-body | markdownify }}
+    </div>
+    <div id="general" class="col s12">
+      {{ page.general-use-policies-body | markdownify }}
+    </div>
+    <div id="reference" class="col s12">
+      {{ page.reference-services-body | markdownify }}
+    </div>
+    <div id="copy" class="col s12">
+      {{ page.copying-printing-body | markdownify }}
+    </div>
+  </div>
+</div>

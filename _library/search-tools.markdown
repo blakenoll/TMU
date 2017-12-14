@@ -1,6 +1,7 @@
 ---
 title: Search Tools
 date: 2017-12-14 18:20:00 Z
+layout: librarysubpage
 ---
 
 [Research Guides](http://masters.libguides.com/)
