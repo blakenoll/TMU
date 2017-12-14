@@ -3,13 +3,11 @@ title: Library
 date: 2017-04-06 22:48:00 Z
 parallax-img: "/images/Parallax5.jpg"
 searchtools-body: |-
-  [Research Guides NEW](http://masters.libguides.com/)
+  [Research Guides](http://masters.libguides.com/)
 
   [Find Databases](http://masters.libguides.com/az.php)
 
   [Find Journals](https://masters.on.worldcat.org/atoztitles/#journal)
-
-  [Find eBooks](https://masters.on.worldcat.org/atoztitles/#ebook)
 
   [Search LC Subject Headings](http://id.loc.gov/authorities/subjects.html)
 services-body: 
@@ -33,9 +31,9 @@ intelibraryloan-body: |-
 
   All ILL requests must be checked by the patron against TMU holdings prior to placing the request to verify that the item is unavailable from the TMU Library.
 
-  A limit of 5 ILL requests per day, per student will be submitted.
+  A limit of 5 ILL requests per day, per student may be submitted.
 
-  ILL request may be made directly through the WorldCat Discovery search platform. When a needed item is found but not held by the Powell Library, simple select the "Request item" button under "Availability" within the item record.
+  ILL request may be made directly through the WorldCat Discovery search platform. When a needed item is found but not held by the Powell Library, simple select the "Request item" button under "Availability" within the item record.  From off campus it is necessary to "Sign in" first.
 
   ILL forms may also be accessed through the links above. There is a separate form for periodicals and one for books, chapters or specific pages from books. Be sure to also request the title and verso when requesting a portion of a book so you will be able to properly cite your source. Submitting an ILL form for periodicals and portions of books indicates the patron has read the copyright statement and is willing to comply with all pertinent [copyright laws](http://www.masters.edu/campuslinks/dmca/the-copyright-law.aspx "The Copyright Law"). These ILL requests will not be sent without it.
 
@@ -95,15 +93,15 @@ intelibraryloan-body: |-
 general-use-policies-body: |-
   The library staff is continually seeking to improve our services and provide a quiet, resourceful and inviting place to study. Please come and let us help you in any way we can. It is our privilege to serve you and contribute as much as possible to helping you develop your studies in a God honoring way. Take a few minutes and familiarize yourself with the particulars of our library.
 
-  The Robert L. Powell Library exists to support the academic and scholarly programs of The Master's University and to serve primarily its faculty, staff and currently enrolled students. TMU Alumni, [The Master's Seminary (TMS)](http://www2.masters.edu/DeptPageNew.asp?PageID=1834) and other [visitors](http://www2.masters.edu/DeptPageNew.asp?PageID=1835) are welcome to use this library but must bear in mind that our first priority is to the TMU community.
+  The Robert L. Powell Library exists to support the academic and scholarly programs of The Master's University and to serve primarily its faculty, staff and currently enrolled students. TMU Alumni, [The Master's Seminary (TMS)](http://www.tms.edu) and other [visitors](http://masters.libguides.com/welcome/libraryvisitors) are welcome to use this library but must bear in mind that our first priority is to the TMU community.
 
-  Every patron of the Robert L. Powell Library is accountable for abiding by all applicable policies, procedures and copyright laws.
+  Every patron of the Robert L. Powell Library is accountable for abiding by all applicable [policies](http://masters.libguides.com/welcome/libraryservices#s-lib-ctab-14323030-0), [procedures](http://masters.libguides.com/welcome/libraryservices#s-lib-ctab-14322964-0) and [copyright laws](http://masters.libguides.com/copyright).
 
-  ## [Patron Registration & ID Cards](http://masters.libguides.com/welcome/libraryusepolicy "Patron Registration")
+  ## [Patron Registration & ID Cards](http://masters.libguides.com/welcome/lendingpolicy)
 
-  A completed [Patron Registration form](http://www.masters.edu/media/747166/Patron%20Registration%20Form-general.pdf "Patron Registration Form") will need to be submitted to the Circulation Manager (Chloe Gustke, cgustke@masters.edu) before an ID card can be made. The Master's University ID card must be presented to circulation desk personnel whenever materials are checked out. All new students, faculty and staff will be given one card at no charge. However, there is a $5 fee to replace lost or broken cards. ID cards that have been worn to the point that the photo, barcode and/or magnetic strip are no longer viable may be replaced without the fee. Appointments for making replacement ID cards should be made with the Circulation Manager or the University Librarian.
+  A completed [Patron Registration form](http://www.masters.edu/media/747166/Patron%20Registration%20Form-general.pdf) will need to be submitted to the Circulation Manager (Chloe Gustke, cgustke@masters.edu) before an ID card can be made. The Master's University ID card must be presented to circulation desk personnel whenever materials are checked out. All new students, faculty and staff will be given one card at no charge. However, there is a $5 fee to replace lost or broken cards. ID cards that have been worn to the point that the photo, barcode and/or magnetic strip are no longer viable may be replaced without the fee. Appointments for making replacement ID cards should be made with the Circulation Manager or the University Librarian.
 
-  TMS students may use their seminary ID cards to check out materials at The Master's University. Refer to the Reciprocal Arrangements page on this Web site for details on TMU/TMS borrowing privileges.
+  TMS students may use their seminary ID cards to check out materials at The Master's University. Refer to the [Reciprocal Arrangements](http://masters.libguides.com/welcome/libraryservices#s-lib-ctab-14322964-10) page on this Web site for details on TMU/TMS borrowing privileges.
 
   Visitors desiring to check out circulating materials may apply for a resident library card. See "VISITORS" below for details.
 
@@ -556,35 +554,39 @@ library-personnel-body: |
   Mrs. Grace Kamffer, MLIS Acquisitions Manager, Serials Manager/Interlibrary Loan Manager (661) 362-2274; gkamffer@masters.edu\
   Grace is responsible for ordering and processing all library materials. Sh also maintains all of our physical magazines, journals and indexes and assists in the management of our online full-text journals. She can tell you if we have received the latest issue of a particular journal or not. As Interlibrary Loan Manager, she handles finding the books and articles that you need but are unavailable in this library.\
 hours-body: |-
-  # Semester Hours
+  SEMESTER HOURS
 
-  Sunday - 8:00 p.m. - 12:00 p.m.
+  Sunday - 8:00 pm - 12:00 am
 
-  Monday & Wednesday 10:30 a.m. - 12:00 a.m.
+  Monday & Wednesday 10:30 am - 12:00 am
 
-  Tuesday & Thursday 9:30 a.m. - 12:00 a.m.
+  Tuesday & Thursday 9:30 am - 12:00 am
 
-  Friday 10:30 a.m. - 5:00 p.m.
+  Friday 10:30 am - 5:00 pm
 
-  Saturday 12:00 p.m. -7:00 p.m.
+  Saturday 12:00 pm -7:00 pm
 
-  ## Spring Break
+    FALL/SPRING BREAK
 
-  ### March 11th - March 19th
+  Monday - Thursday 2:00 pm - 6:00 pm
 
-  Monday - Thursday 2:00 p.m. - 6:00 p.m.
-
-  Friday 2:00 p.m. - 5:00 p.m.
+  Friday 2:00 pm - 5:00 pm
 
   Closed Saturday & Sunday
 
   ## FINALS WEEK
 
-  May 1st - 4th TBA
+  Saturday 10:00 am - 10:00 pm
+  Sunday 8:00 pm - midnight
+  Monday - Wednesday 9:00 am - midnight
+  Thursday 9:00 am - 6:00 pm
+  Friday 9:00 am - 5:00 pm
+
+  NOTE: The library will be closed 12/16/17 though 01/02/18 and will reopen 01/03/18 with BREAK HOURS.
 
   ## POST SESSION
 
-  May 8th - June 2nd TBA
+   TBA
 
   ## For more information contact the Circulation Desk (661) 362-2278.
 giving-body: |-

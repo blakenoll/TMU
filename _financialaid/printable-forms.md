@@ -84,7 +84,7 @@ sm-image: "/uploads/AdmissionFinAid_PrintableForms.png"
 
 [TMU Online Program Financial Aid Application](http://www.masters.edu/media/868174/online-program-financial-aid-application.pdf "Online Program - Financial Aid Application.pdf")
 
-[TMU Online Program Satisfactory Academic Progress Policy](http://www.masters.edu/media/868171/online-program-satisfactory-academic-progress-policy.pdf "Online Program Satisfactory Academic Progress Policy.pdf")
+[TMU Online Program Satisfactory Academic Progress Policy](http://www.masters.edu/media/867132/corrected-online-program-satisfactory-academic-progress-policy.pdf)
 
 [Federal Verification Worksheet 2016-17](http://www.masters.edu/media/868238/forms-mi-fvw-2016-17.pdf "Forms- MI- FVW 2016-17.pdf")
 
