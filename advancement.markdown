@@ -191,7 +191,6 @@ layout: page
 </div>
 <label id="tfa_5-L" for="tfa_5" class="label preField ">Referring TMU employee name</label><br><div class="inputWrapper"><input type="text" id="tfa_5" name="tfa_5" value="" placeholder="" title="Referring TMU employee name" class=""></div>
 
-</div>
 
 <div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction" value="Submit"></div>
 
