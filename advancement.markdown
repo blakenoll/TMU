@@ -203,16 +203,5 @@ layout: page
 
 </div></div>
 
-
-
-  <p class="supportInfo" >
-
-        <a href="https://masters.tfaforms.net/forms/help/217735" target="new" style="font-size: 0.7em;">
-
-      Need assistance with this form?    </a>
-
-      </p>
-
-
-
+ 
 </div>
