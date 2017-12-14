@@ -5,204 +5,188 @@ Field name:
 layout: page
 ---
 
-<!-- FORM: HEAD SECTION -->
-\
+FORM_TIME_START;
 
-\
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-\
-            <script type="text/javascript">
-\
-        document.addEventListener("DOMContentLoaded", function(){
-\
-            const FORM_TIME_START = Math.floor((new Date).getTime()/1000);
-\
-            let formElement = document.getElementById("tfa_0");
-\
-            let appendJsTimerElement = function(){
-\
-                let formTimeDiff = Math.floor((new Date).getTime()/1000) - FORM_TIME_START;
-\
                 let cumulatedTimeElement = document.getElementById("tfa_dbCumulatedTime");
-\
+
                 if (null !== cumulatedTimeElement) {
-\
+
                     let cumulatedTime = parseInt(cumulatedTimeElement.value);
-\
+
                     if (null !== cumulatedTime && cumulatedTime > 0) {
-\
+
                         formTimeDiff \+= cumulatedTime;
-\
+
                     }
-\
+
                 }
-\
+
                 let jsTimeInput = document.createElement("input");
-\
+
                 jsTimeInput.setAttribute("type", "hidden");
-\
+
                 jsTimeInput.setAttribute("value", formTimeDiff.toString());
-\
+
                 jsTimeInput.setAttribute("name", "tfa_dbElapsedJsTime");
-\
+
                 jsTimeInput.setAttribute("id", "tfa_dbElapsedJsTime");
-\
+
                 jsTimeInput.setAttribute("autocomplete", "off");
-\
+
                 if (null !== formElement) {
-\
+
                     formElement.appendChild(jsTimeInput);
-\
+
                 }
-\
+
             };
-\
+
             if (null !== formElement) {
-\
+
                 if(formElement.addEventListener){
-\
+
                     formElement.addEventListener('submit', appendJsTimerElement, false);
-\
+
                 } else if(formElement.attachEvent){
-\
+
                     formElement.attachEvent('onsubmit', appendJsTimerElement);
-\
+
                 }
-\
+
             }
-\
+
         });
-\
-    </script>
-\
 
-\
+    </script>
+
+
+
     <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout.css?v=4612" rel="stylesheet" type="text/css" />
-\
+
     <!--\[if IE 8\]>
-\
+
     <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
-\
+
     <!\[endif\]-->
-\
+
     <!--\[if IE 7\]>
-\
+
     <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
-\
+
     <!\[endif\]-->
-\
+
     <!--\[if IE 6\]>
-\
+
     <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
-\
+
     <!\[endif\]-->
-\
 
-\
+
+
     <link href="https://masters.tfaforms.net/themes/get/9" rel="stylesheet" type="text/css" />
-\
+
     <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-jsonly.css?v=4612" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
-\
+
     <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/wforms.js?v=4612"></script>
-\
+
     <script type="text/javascript">
-\
+
         wFORMS.behaviors.prefill.skip = false;
-\
+
     </script>
-\
+
         <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/localization-en_US.js?v=4612"></script>
-\
 
-\
+
+
 <!-- FORM: BODY SECTION -->
-\
-<div class="wFormContainer" style="max-width: 900px; width:auto;" >
-\
 
-\
+<div class="wFormContainer" style="max-width: 900px; width:auto;" >
+
+
+
   <style type="text/css">
-\
+
                 #tfa_1,
-\
+
                 \*\[id^="tfa_1\["\] {
-\
-                    width: 560px !important;
-\
+
+                    width: auto !important;
+
                 }
-\
+
                 #tfa_1-D,
-\
+
                 \*\[id^="tfa_1\["\]\[class\~="field-container-D"\] {
-\
+
                     width: auto !important;
-\
+
                 }
-\
+
             
-\
+
                 #tfa_2,
-\
+
                 \*\[id^="tfa_2\["\] {
-\
-                    width: 560px !important;
-\
+
+                    width: auto !important;
+
                 }
-\
+
                 #tfa_2-D,
-\
+
                 \*\[id^="tfa_2\["\]\[class\~="field-container-D"\] {
-\
+
                     width: auto !important;
-\
+
                 }
-\
+
             
-\
+
                 #tfa_3,
-\
+
                 \*\[id^="tfa_3\["\] {
-\
-                    width: 560px !important;
-\
+
+                    width: auto !important;
+
                 }
-\
+
                 #tfa_3-D,
-\
+
                 \*\[id^="tfa_3\["\]\[class\~="field-container-D"\] {
-\
+
                     width: auto !important;
-\
+
                 }
-\
+
             
-\
+
                 #tfa_4,
-\
+
                 \*\[id^="tfa_4\["\] {
-\
-                    width: 560px !important;
-\
-                }
-\
-                #tfa_4-D,
-\
-                \*\[id^="tfa_4\["\]\[class\~="field-container-D"\] {
-\
+
                     width: auto !important;
-\
+
                 }
-\
+
+                #tfa_4-D,
+
+                \*\[id^="tfa_4\["\]\[class\~="field-container-D"\] {
+
+                    width: auto !important;
+
+                }
+
             
-\
+
                 #tfa_6-L,
-\
+
                 label\[id^="tfa_6\["\] {
-\
-                    width: 380px !important;
-\
+
+                    width: auto !important;
+
                 }
-\
+
             
 \
                 #tfa_5,
