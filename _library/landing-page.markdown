@@ -1,6 +1,7 @@
 ---
 title: landing page
 date: 2017-12-14 18:04:00 Z
+permalink: "/library/"
 hours:
 - day: Monday & Wednesday
   hours: 10:30am - 12:00am
