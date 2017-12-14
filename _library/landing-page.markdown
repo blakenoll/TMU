@@ -12,5 +12,6 @@ hours:
   hours: 12:00pm - 7:00pm
 - day: Sunday
   hours: 8:00pm - 12:00am
+layout: library
 ---
 
