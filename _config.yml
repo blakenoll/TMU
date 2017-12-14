@@ -68,6 +68,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  library:
+    title: library
+    output: true
   undergrad-admissions:
     title: undergrad admissions
     output: true
