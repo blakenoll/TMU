@@ -15,6 +15,10 @@ tags:
 have-a-question-text: Send us a text message with any question or comments, we'll
   write you back! Prefer by email? Write us at admissions@masters.edu
 early-application-date: 2017-12-15 00:00:00 Z
+promo:
+  text: 
+  link: 
+  button-txt: 
 blurb1-text: "The Master's University equips young Christian men and women for spiritual
   service and leadership - in their careers,  in their homes, and through their ministries.
   Every class we teach and every degree we confer stand on the foundation of God's
