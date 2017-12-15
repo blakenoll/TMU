@@ -3,8 +3,16 @@ title: Welcome to Master's U
 date: 2017-12-15 23:53:00 Z
 ---
 
-<!-- FORM: HEAD SECTION -->
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
 
+    <title></title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+    
+    
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
             <script type="text/javascript">
         document.addEventListener("DOMContentLoaded", function(){
@@ -58,8 +66,16 @@ date: 2017-12-15 23:53:00 Z
     </script>
         <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/localization-en_US.js?v=4613-2"></script>
 
-<!-- FORM: BODY SECTION -->
-<div class="wFormContainer"  >
+            
+    <link href="https://masters.tfaforms.net/font/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+
+    
+</head>
+<body class="default wFormWebPage">
+
+
+    <div id="tfaContent">
+        <div class="wFormContainer"  >
 
   <style type="text/css">
                 #tfa_494-L,
@@ -750,4 +766,9 @@ date: 2017-12-15 23:53:00 Z
 
       </p>
 
-</div>
+</div>    </div>
+
+        <script src='https://masters.tfaforms.net/js/iframe_resize_helper_internal.js'></script>
+
+</body>
+</html>
