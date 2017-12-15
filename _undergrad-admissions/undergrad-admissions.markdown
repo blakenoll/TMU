@@ -16,8 +16,8 @@ have-a-question-text: Send us a text message with any question or comments, we'l
   write you back! Prefer by email? Write us at admissions@masters.edu
 early-application-date: 2017-12-15 00:00:00 Z
 promo:
-  text: Today is the last day to apply for free. Submit your application before the
-    end of Dec 15.
+  text: "# Today is the last day to apply for free. \n\n# Submit your application
+    before the end of Dec 15."
   link: https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB
   button-txt: Create your Master's U account
 blurb1-text: "The Master's University equips young Christian men and women for spiritual
