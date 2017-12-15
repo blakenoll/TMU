@@ -14,7 +14,11 @@ hours:
 - day: Sunday
   hours: 8:00pm - 12:00am
 Research Guides: "[Research Guides](http://masters.libguides.com/)"
+Find Databases: "[Find Databases](http://masters.libguides.com/az.php)"
+Find Journals: https://masters.on.worldcat.org/atoztitles/#journal
+Search LC Subject Headings: http://id.loc.gov/authorities/subjects.html
+Key: 
 layout: library
 ---
 
-[Research Guides](http://masters.libguides.com/)
+
