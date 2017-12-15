@@ -622,3 +622,10 @@ giving-body: |-
 layout: library
 ---
 
+[Research Guides](http://masters.libguides.com/)
+
+[Find Databases](http://masters.libguides.com/az.php)
+
+[Find Journals](https://masters.on.worldcat.org/atoztitles/#journal)
+
+[Search LC Subject Headings](http://id.loc.gov/authorities/subjects.html)
