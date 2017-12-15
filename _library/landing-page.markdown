@@ -17,7 +17,15 @@ Research Guides: "[Research Guides](http://masters.libguides.com/)"
 Find Databases: "[Find Databases](http://masters.libguides.com/az.php)"
 Find Journals: https://masters.on.worldcat.org/atoztitles/#journal
 Search LC Subject Headings: http://id.loc.gov/authorities/subjects.html
-Key: 
+links:
+- link: http://masters.libguides.com/
+  txt: Research Guides
+- link: http://masters.libguides.com/az.php
+  txt: Find Databases
+- link: https://masters.on.worldcat.org/atoztitles/#journal
+  txt: Find Journals
+- link: http://id.loc.gov/authorities/subjects.html
+  txt: Search LC Subject Headings
 layout: library
 ---
 
