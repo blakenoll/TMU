@@ -619,6 +619,9 @@ giving-body: |-
   Early English Books Online: 1475-1700 - provides digital access to more than 125,000 literary and historical classics. We need the MARC records so each of these titles is available through the library catalog. Estimated cost - $3,000.
 
   Web of Science: Science Citation Index and BIOSIS - initial subscription cost is estimated at $18,000-$20,000\+. Annual subscription thereafter is estimated at $9,000-$11,000.
+Research Guides: "[Research Guides](http://masters.libguides.com/)"
+Find Databases: "[Find Databases](http://masters.libguides.com/az.php)"
+Find Journals: "[Find Journals](https://masters.on.worldcat.org/atoztitles/#journal)"
 layout: library
 ---
 
