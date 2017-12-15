@@ -45,9 +45,6 @@ app-deadlines:
   red-text: After FEB 23, 2018
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
-Field name: 
-blurb2-text: 
-quote-1: 
 layout: undgradadmiss
 ---
 
