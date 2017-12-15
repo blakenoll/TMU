@@ -422,6 +422,12 @@ p {
   border-radius: 0px;
 }
 
+.no-padding {
+  tr td {
+    padding: 0px;
+  }
+}
+
 #nav-mobile {
   margin-top: 0px;
 }
