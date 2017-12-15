@@ -2,7 +2,7 @@
   <div class="slideshow-container">
   {% assign banners = site.landingPageBanners | sort: 'position' 'last' %}
   {% for banner in banners %}
-    {% unless banner.end-date <= site.time %}
+
     <div class="mySlides fade">
       <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.description }}" style="width:100%">
       <div class="text">
@@ -12,7 +12,7 @@
         </div>
       </div>
     </div>
-    {% endunless %}
+
   {% endfor %}
   </div>
   <br>
@@ -20,9 +20,7 @@
   <br>
   <div style="text-align:center">
     {% for banner in banners %}
-      {% unless banner.end-date <= site.time %}
       <span class="dot" onclick="currentSlide({% increment var %} + 1)"></span>
-      {% endunless %}
     {% endfor %}
   </div>
 </div>
