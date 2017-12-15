@@ -71,6 +71,9 @@ collections:
   library:
     title: library
     output: true
+  outreach:
+    title: outreach
+    output: true
   undergrad-admissions:
     title: undergrad admissions
     output: true
