@@ -51,7 +51,7 @@ input::-moz-placeholder { /* Firefox 19+ */
       </div>
       {% endfor %}
         {% for item in site.library %}
-        {% unless item.title == 'landing page' %}
+        {% unless item.title == 'library' %}
         <div class="col s6">
           <a href="{{ item.url }}">
             <div class="valign-wrapper card hoverable" style="width: 100%; height: 90px;">
