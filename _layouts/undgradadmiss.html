@@ -35,23 +35,22 @@ layout: default
               <p>Check your application status and confirm your spot today</p>
             </div>
             <div class="card-action">
-              <a href="https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTX_CommunitiesHome" class="btn btn-gold">Check Status</a>
+              <a href="https://www.masters.edu/accepted" class="btn btn-gold">Check Status</a>
             </div>
           </div>
         </div>
         <div class="col s12 m6 center">
-          <h1>Extended Early Application!</h1>
-          <h1>Celebrating our lowered tuition, we’ll waive application fees until {{ page.early-application-date | date: '%B %d'}}</h1>
-          <a href="https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB" class="btn btn-navy">Apply</a>
+          {{ page.promo.text | markdownify }}
+          <a href="{{ page.promo.link}}" class="btn btn-navy">{{ page.promo.button-txt }}</a>
         </div>
       </div>
-      <div class="row spacing">
+      <!-- <div class="row spacing">
         <div class="col s12 l10 offset-l1">
           <blockquote cite="http://www.masters.edu/news/the-university-exchange">
             {{ page.quote-1 }}
           </blockquote>
         </div>
-      </div>
+      </div> -->
       <div class="row spacing">
         <div class="col s12">
           <div class="flow-text center">
