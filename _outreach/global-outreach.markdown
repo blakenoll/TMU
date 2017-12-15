@@ -31,7 +31,7 @@ teams-body: "## **ECUADOR**\n\nThis team will be working in local Church ministr
   especially Bible, Business, Pre-Nursing, and Teaching\n\nLuke Riffle and Paige Miller\n\nMay
   15th – June 24th\n\n<br />\n\n\\*All Dates are approximate.\n\nThe cost of each
   trip is $3200."
-contribute-body:
+contribute-body: 
 travelars-health-body: |-
   Maintaining your health while overseas begins with proper planning and research before you depart. The following resources can help educate you about appropriate preventative measures prior to departure and during your travel abroad. Additionally, you should consult with a physician prior to your departure about your personal health and recommended vaccinations, immunizations, and other preventative medication.
 
@@ -473,7 +473,7 @@ engage-body: |2-
 
 
   [2017 Church Schedule Form](http://www.formstack.com/forms/?1228890-yr9dJfw42e)
-about-body:
+about-body: 
 layout: globo
 ---
 
