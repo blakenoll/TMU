@@ -248,3 +248,4 @@ giving-body: |-
   Web of Science: Science Citation Index and BIOSIS - initial subscription cost is estimated at $18,000-$20,000\+. Annual subscription thereafter is estimated at $9,000-$11,000.
 layout: libraryabout
 ---
+
