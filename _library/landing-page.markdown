@@ -1,5 +1,5 @@
 ---
-title: landing page
+title: library
 date: 2017-12-14 18:04:00 Z
 permalink: "/library/"
 hours:
