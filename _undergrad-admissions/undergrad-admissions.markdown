@@ -16,8 +16,8 @@ have-a-question-text: Send us a text message with any question or comments, we'l
   write you back! Prefer by email? Write us at admissions@masters.edu
 early-application-date: 2017-12-15 00:00:00 Z
 promo:
-  text: "# Today is the last day to apply for free. \n\n# Submit your application
-    before the end of Dec 15."
+  text: "# Create your free Master's U account to pre-select your major and preferences
+    today"
   link: https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB
   button-txt: Create your Master's U account
 blurb1-text: "The Master's University equips young Christian men and women for spiritual
@@ -45,13 +45,10 @@ app-deadlines:
   red-text: After FEB 23, 2018
 quote-2: "“And then,” she said, “I went to IBEX.” \n- Madi Cole (‘18) talks about
   her semester in Israel "
-Field name: 
-blurb2-text: 
-quote-1: 
 layout: undgradadmiss
 ---
 
-# YOUR FUTURE AND CAREER STARTS FALL '18
+# YOUR FUTURE AND CAREER STARTS HERE
 
 The Master's University invites students considering admission for Fall 2018 to begin the application process now.
 
