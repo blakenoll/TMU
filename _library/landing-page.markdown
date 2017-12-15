@@ -16,3 +16,4 @@ hours:
 layout: library
 ---
 
+[Research Guides](http://masters.libguides.com/)
