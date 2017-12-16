@@ -22,8 +22,13 @@ links:
   txt: Find Journals
 - link: http://id.loc.gov/authorities/subjects.html
   txt: Search LC Subject Headings
+NEWS: |-
+  The Library is closed from December 16th, 2017 until January 2nd, 2018.
+
+  We will reopen on January 3rd at noon.
 layout: library
 ---
 
+The Library is closed from December 16th, 2017 until January 2nd, 2018.
 
-The Library is closed from December 16th, 2017 until January 2nd, 2018.  We will reopen on January 3rd at noon.
+We will reopen on January 3rd at noon.
