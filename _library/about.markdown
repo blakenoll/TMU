@@ -140,7 +140,7 @@ library-collection-body: |-
 
   Puritanism - an in depth collection of materials by and about puritans and puritanism is being developed covering both the European and American venues.
 
-  TMU Archives - a collection of materials collected over the years revealing the history and development of LABC and TMU. The TMU archives are housed in the MacArthur Legacy Center.
+  TMU Archives - a collection of materials revealing the history and development of LABC, TMC and TMU including the Master's theses and Doctoral dissertations of the institution's faculty. The TMU archives are housed in the MacArthur Legacy Center.
 
   MacArthur Library - First edition copies of Dr. John MacArthur's published works as well as his original sermon notes and other speaking engagements produced over 25 years of exegeting the WORD of God are archived in the MacArthur Legacy Center.
 
