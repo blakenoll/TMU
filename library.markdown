@@ -2,7 +2,6 @@
 title: Library
 date: 2017-04-06 22:48:00 Z
 permalink: "/libraryold"
-published: false
 parallax-img: "/images/Parallax5.jpg"
 searchtools-body: |-
   [Research Guides](http://masters.libguides.com/)
