@@ -26,3 +26,4 @@ layout: library
 ---
 
 
+The Library is closed from December 16th, 2017 until January 2nd, 2018.  We will reopen on January 3rd at noon.
