@@ -5,7 +5,10 @@ Field name:
 layout: acceptedstudents
 ---
 
-## We want to learn more about you! Tell us about you [here](https://masters.tfaforms.net/217737) and receive your free copy of the book "Found: God's Will" by John MacArthur.
+* ## We want to learn more about you! 
+
+* ## Tell us about you [here](https://masters.tfaforms.net/217737) and receive your free copy of the book "Found: God's Will" by John MacArthur.
+
 
 * **ONE** single focus has guided The Master’s University since it was founded in 1927. This focus influences all we do: every class, activity, athletic event, friendship and conversation.
 
