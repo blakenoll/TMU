@@ -374,7 +374,7 @@ positions:
     in connection with these interviews will be the responsibility of the candidates.\n\nApplication
     Procedures:\n\nAll documents included in your application remain the sole property
     of The Master’s College and will not be returned.  Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
+    will not be considered unless all requested items are submitted and are complete.\n"
 layout: employment
 ---
 
