@@ -7,25 +7,25 @@ layout: acceptedstudents
 
 ## We want to learn more about you! Tell us about you [here](https://masters.tfaforms.net/217737) and receive your free copy of the book "Found: God's Will" by John MacArthur.
 
-**ONE** single focus has guided The Master’s University since it was founded in 1927. This focus influences all we do: every class, activity, athletic event, friendship and conversation.\
-\
-This focus? Our Master, Jesus Christ.\
-\
-TMU provides limitless opportunities to accelerate your education and passion across the world. It's all uncompromisingly built on Him as our singular focus -
+* **ONE** single focus has guided The Master’s University since it was founded in 1927. This focus influences all we do: every class, activity, athletic event, friendship and conversation.
+
+* This focus? Our Master, Jesus Christ.
+
+* TMU provides limitless opportunities to accelerate your education and passion across the world. It's all uncompromisingly built on Him as our singular focus -
 
 #### TOP-RANKED ACADEMICS
 
-* #1 in Wall Street Journal 2-years-in-a-row as the "Right Choice" university
+* - #1 in Wall Street Journal 2-years-in-a-row as the "Right Choice" university
 
-* #2 in Wall Street as "most inspirational"
+* - #2 in Wall Street as "most inspirational"
 
-* #1 CPA exam pass-rate surpassing all other universities
+* - #1 CPA exam pass-rate surpassing all other universities
 
-* Top 15 by US News 2017 for "best value"
+* - Top 15 by US News 2017 for "best value"
 
-* Top 20 for "veterans"
+* - Top 20 for "veterans"
 
-* Top 8% scoring on ETS-MFT business exam
+* - Top 8% scoring on ETS-MFT business exam
 
 #### THE PROFESSOR. PROFESSIONAL. PASTOR.
 
@@ -33,15 +33,15 @@ Highly academically qualified and carefully selected professors teach all TMU cl
 
 #### CAREER ACCELERATION
 
-100\+ in-demand career paths offered across 13\+ majors including the new BA in **Marketing Media. **TMU offers among the best degrees to graduate with for salary potential and job satisfaction. Just look at the numbers: 
+100\+ in-demand career paths offered across 13\+ majors including the new BA in \*\*Marketing Media. \*\*TMU offers among the best degrees to graduate with for salary potential and job satisfaction. Just look at the numbers:
 
-* 95% med-school acceptance rate
+* - 95% med-school acceptance rate
 
-* 100% business and teacher graduate employment rate
+* - 100% business and teacher graduate employment rate
 
-* 162% salary growth for business alumni in California across a 10 year progression (average salary is $112,709)
+* - 162% salary growth for business alumni in California across a 10 year progression (average salary is $112,709)
 
-* Top 10 law schools accepting TMU graduates.
+* - Top 10 law schools accepting TMU graduates.
 
 #### VIBRANT, LIMITLESS STUDENT LIFE
 
