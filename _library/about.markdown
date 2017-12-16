@@ -100,9 +100,9 @@ library-collection-body: |-
 
   973 United States History
 
-  ## Locating Library Resources: Solomon
+  ## Locating Library Resources: WorldCat Discovery
 
-  Solomon, the library's online catalog and database search tool provides location and bibliographic information for all of the resources available in and through the library. Keywords, titles, authors, subjects, or a combination of these may be used in searching Solomon. Solomon also allows patrons to view their own account to find what items they have checked out, check the due date of an item, renew an item and access information regarding any fines/fees owed. The library catalog is available in the library or via the World Wide Web (WWW).
+  WorldCat Discovery, the library's online catalog and database search tool, provides location and bibliographic information for all of the resources available in and through the library. Keywords, titles, authors, subjects, or a combination of these may be used in searching the Discovery catalog. Discovery also allows patrons to view their own account to find what items they have checked out, check the due date of an item, renew an item and access information regarding any fines/fees owed. The library catalog is available at [www.masters.edu/library](http://www.masters.edu/library/).
 
   ## Help in Locating Library Resources
 
