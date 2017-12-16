@@ -1,15 +1,13 @@
 ---
-title: DISCOVER MASTER'S UNIVERSITY
-date: 2017-12-16 00:31:00 Z
-Field name: 
-layout: page
+title: Discover TMU
+date: 2017-12-16 06:39:00 Z
 ---
 
 <h2>We want to learn more about you!</h2>
 \
-<h2>Tell us about you <a href="https://masters.tfaforms.net/217737">here</a> and receive your free copy of the book "Found: God's Will" by John MacArthur.&nbsp;</h2>
+<h2>Tell us about you <a href="https://masters.tfaforms.net/217737">here</a> and receive your free copy of the book "Found: God's Will" by John MacArthur. </h2>
 \
-<p><strong>ONE</strong> single focus has guided The Master&rsquo;s University since it was founded in 1927. This focus influences all we do: every class, activity, athletic event, friendship and conversation.</p>
+<p><strong>ONE</strong> single focus has guided The Master’s University since it was founded in 1927. This focus influences all we do: every class, activity, athletic event, friendship and conversation.</p>
 \
 <p>This focus? Our Master, Jesus Christ.</p>
 \
@@ -55,7 +53,7 @@ layout: page
 \
 <tr>
 \
-<td style="width: 660px;">&nbsp;</td>
+<td style="width: 660px;"> </td>
 \
 </tr>
 \
@@ -77,7 +75,7 @@ layout: page
 \
 <tr>
 \
-<td style="width: 660px;">&nbsp;</td>
+<td style="width: 660px;"> </td>
 \
 </tr>
 \
@@ -115,7 +113,7 @@ layout: page
 \
 <tr>
 \
-<td style="width: 660px;">&nbsp;</td>
+<td style="width: 660px;"> </td>
 \
 </tr>
 \
@@ -137,7 +135,7 @@ layout: page
 \
 <tr>
 \
-<td style="width: 660px;">&nbsp;</td>
+<td style="width: 660px;"> </td>
 \
 </tr>
 \
@@ -153,13 +151,13 @@ layout: page
 \
 <tr>
 \
-<td style="width: 660px;">Including the new Olympic medalist Aquatics Program in addition to the women's, men's and intramural athletics teams and options.&nbsp;<em>Go Mustangs!</em></td>
+<td style="width: 660px;">Including the new Olympic medalist Aquatics Program in addition to the women's, men's and intramural athletics teams and options. <em>Go Mustangs!</em></td>
 \
 </tr>
 \
 <tr>
 \
-<td style="width: 660px;">&nbsp;</td>
+<td style="width: 660px;"> </td>
 \
 </tr>
 \
@@ -167,7 +165,7 @@ layout: page
 \
 <td style="width: 660px; background-color: #10203a;">
 \
-<h4 style="text-align: center;"><span style="color: #ffffff;">INSPIRING &amp; IMPACTFUL</span></h4>
+<h4 style="text-align: center;"><span style="color: #ffffff;">INSPIRING & IMPACTFUL</span></h4>
 \
 </td>
 \
@@ -181,7 +179,7 @@ layout: page
 \
 <tr>
 \
-<td style="width: 660px;">&nbsp;</td>
+<td style="width: 660px;"> </td>
 \
 </tr>
 \
@@ -203,7 +201,7 @@ layout: page
 \
 <tr>
 \
-<td style="width: 660px;">&nbsp;</td>
+<td style="width: 660px;"> </td>
 \
 </tr>
 \
@@ -211,9 +209,9 @@ layout: page
 \
 <td style="width: 660px;">
 \
-<p>Could The Master&rsquo;s University be perfect for you? Let's develop your calling and find your passion.</p>
+<p>Could The Master’s University be perfect for you? Let's develop your calling and find your passion.</p>
 \
-<h4>&nbsp;</h4>
+<h4> </h4>
 \
 </td>
 \
@@ -223,16 +221,16 @@ layout: page
 \
 </table>
 \
-<h4 style="text-align: center;">&nbsp;</h4>
+<h4 style="text-align: center;"> </h4>
 \
-<p>&nbsp;</p>
+<p> </p>
 \
-<h4 style="text-align: center;">&nbsp;</h4>
+<h4 style="text-align: center;"> </h4>
 \
-<p>&nbsp;</p>
+<p> </p>
 \
-<h4 style="text-align: center;">&nbsp;</h4>
+<h4 style="text-align: center;"> </h4>
 \
-<p>&nbsp;</p>
+<p> </p>
 \
-<h4>&nbsp;</h4>
+<h4> </h4>
