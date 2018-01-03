@@ -3,6 +3,7 @@ title: 'From the Eyes of Alumni: Christmas Around the World'
 date: 2017-12-25 16:05:00 Z
 author: Allison Pari, Contributing Writer
 image: "/uploads/CHRISTMASWORLD.jpg"
+sm-image: "/uploads/CHRISTMASWORLD.jpg"
 ---
 
 > “Do not be afraid; for behold, I bring you good news of great joy which will be for all the people…” (Luke 2:10).
