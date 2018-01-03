@@ -12,8 +12,8 @@ tags:
 - apply
 - application
 - deadline
-have-a-question-text: Send us a text message with any question or comments, we'll
-  write you back! Prefer by email? Write us at admissions@masters.edu
+have-a-question-text: Send us a text message with any question or comments. Prefer
+  by email? Write us at admissions@masters.edu
 early-application-date: 2017-12-15 00:00:00 Z
 promo:
   text: "# Create your free Master's U account to pre-select your major and preferences
