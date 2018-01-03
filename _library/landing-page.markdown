@@ -22,6 +22,10 @@ links:
   txt: Find Journals
 - link: http://id.loc.gov/authorities/subjects.html
   txt: Search LC Subject Headings
+- link: http://masters.libguides.com/welcome
+  txt: About
+- link: http://masters.libguides.com/welcome/libraryservices
+  txt: Services
 NEWS: |-
   The Library is closed from December 16th, 2017 until January 2nd, 2018.
 
