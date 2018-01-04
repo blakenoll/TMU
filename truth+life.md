@@ -29,7 +29,7 @@ schedule:
     location: Various Locations
   - time: 11:45-1:30pm
     event: Lunch Break
-    location: 
+    location:
   - time: "7:00-8:30pm\t"
     event: 'Main Session III: TOM PENNINGTON'
     location: 'MacArthur Center '
@@ -52,7 +52,7 @@ schedule:
     location: Various Locations
   - time: "11:45-1:30pm\t"
     event: Lunch Break
-    location: 
+    location:
   - time: 5:30-7:00pm
     event: "Alumni Dinner Event\t"
     location: Music Recital Hall
@@ -69,7 +69,7 @@ schedule:
   events:
   - time: 9:00am-11:00am
     event: 'The Master’s 5k '
-    location: 
+    location:
   - time: "1:15pm\t"
     event: Alumni Baseball Game
     location: Reese Field
@@ -114,4 +114,4 @@ speakers:
 layout: truthandlife
 ---
 
-The 2018 Truth & Life Conference is focused on the topic of “Walking in Wisdom” from the Proverbs. Our speakers this year are Dr. John MacArthur, Dr. Steve Lawson, and Dr. Tom Pennington. The goal of each main session is to provide theological depth and personal enrichment to all in attendance. Our desire is to challenge and equip believers with the truths of the Proverbs and their application to many facets of daily life in this world.
+The 2018 Truth & Life Conference will address the theme “Walking in Wisdom.” Dr. John Macarthur, Dr. Steve Lawson and Dr. Tom Pennington will be helping believers to further “know wisdom and instruction, to understand words of insight, and receive instruction in wise dealing . . .” (Proverbs 1:2). Each main session will be focused on the book of Proverbs and each seminar session around its practical application. 

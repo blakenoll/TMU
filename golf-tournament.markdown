@@ -1,7 +1,9 @@
 ---
 title: Golf Tournament
 date: 2017-11-09 17:48:00 Z
-published: false
+published: true
+layout: golftourney
+banner-image: /images/TMU_GT18_Logo_WebPage_575x575.png
 ---
 
 # TMU 25th Annual Golf Tournament
@@ -11,7 +13,7 @@ Valencia Country Club
 27330 Tourney Road\
 Valencia, CA 91355
 
-Your participation helps raise  funds for student scholarships.! 
+Your participation helps raise  funds for student scholarships.!
 
 REGISTER ONLINE
 
