@@ -60,7 +60,7 @@ schedule:
     event: TLC 4 Kids
     location: Placerita Bible Church
   - time: 7:30-9:00pm
-    event: 'Main Session VII: STEVE LAWSON'
+    event: 'Main Session IV: STEVE LAWSON'
     location: MacArthur Center
   - time: 7:00-9:30pm
     event: TLC 4 Kids
