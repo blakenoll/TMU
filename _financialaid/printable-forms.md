@@ -53,7 +53,7 @@ sm-image: "/uploads/AdmissionFinAid_PrintableForms.png"
 
 [Free Application Federal Student Aid (FAFSA)](http://www.fafsa.ed.gov/)
 
-[FAFSA Waiver Form](http://www.masters.edu/media/868509/forms-mi-fafsa-waiver.pdf "Forms- MI- FAFSA Waiver.pdf")
+[FAFSA Waiver Form](/uploads/Forms-%20MI-%20FAFSA%20Waiver%20rev.pdf)
 
 [Undergraduate Satisfactory Academic Progress Policy](http://www.masters.edu/media/868183/undergrad-satisfactory-academic-progress-policy.pdf "Undergrad - Satisfactory Academic Progress Policy.pdf")
 
