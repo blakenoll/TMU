@@ -1,9 +1,9 @@
 ---
 title: Golf Tournament
 date: 2017-11-09 17:48:00 Z
-permalink: /golftournament/
+permalink: "/golftournament/"
 layout: golftourney
-banner-image: /images/TMU_GT18_Logo_WebPage_575x575.png
+banner-image: "/images/TMU_GT18_Logo_WebPage_575x575.png"
 ---
 
 # TMU 25th Annual Golf Tournament
