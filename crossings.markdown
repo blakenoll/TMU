@@ -1,12 +1,13 @@
 ---
 title: Discover TMU
 date: 2017-12-16 06:39:00 Z
+layout: default
 ---
 
-<h2>We want to learn more about you!</h2>
-<h2>Tell us about you  and receive your free copy of the book "Found: God's Will" by John MacArthur. </h2>
+<h2 style="text-align: center;">We want to learn more about you!</h2>
+<h2 style="text-align: center;">Tell us about you  and receive your free copy of the book "Found: God's Will" by John MacArthur. </h2>
 <h2 style="text-align: center;"> </h2>
-<h2 style="text-align: center;">[\[ Start Here \]](https://masters.tfaforms.net/217737)</h2>
+<h2 style="text-align: center;"><a href="https://masters.tfaforms.net/217737">Start Here</a></h2>
 <p> </p>
 <p><strong>ONE</strong> single focus has guided The Master’s University since it was founded in 1927. This focus influences all we do: every class, activity, athletic event, friendship and conversation.</p>
 <p>This focus? Our Master, Jesus Christ.</p>
