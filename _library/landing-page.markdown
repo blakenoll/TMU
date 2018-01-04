@@ -27,12 +27,24 @@ links:
 - link: http://masters.libguides.com/welcome/libraryservices
   txt: Services
 NEWS: |-
-  The Library is closed from December 16th, 2017 until January 2nd, 2018.
+  Winterim Library Hours
+  January 3rd & 4th = 12:00 p.m. - 6:00 p.m.
+  January 5th = 12:00 p.m. - 5:00 p.m.
+  January 8th - 11th = 12:00 p.m. - 6:00 p.m.
+  January 12th = 12:00 p.m. - 6:00 p.m.
+  Closed Saturday & Sunday
+  Closed Monday January 15th Martin Luther King Jr. Day
 
-  We will reopen on January 3rd at noon.
+  Regular Semester hours will resume on Tuesday, January 16th
 layout: library
 ---
 
-The Library is closed from December 16th, 2017 until January 2nd, 2018.
+                     Winterim Library Hours
+January 3rd & 4th = 12:00 p.m. - 6:00 p.m.
+January 5th = 12:00 p.m. - 5:00 p.m.
+January 8th - 11th = 12:00 p.m. - 6:00 p.m.
+January 12th = 12:00 p.m. - 6:00 p.m.
+Closed Saturday & Sunday
+Closed Monday January 15th Martin Luther King Jr. Day
 
-We will reopen on January 3rd at noon.
+Regular Semester hours will resume on Tuesday, January 16th
