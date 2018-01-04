@@ -1,0 +1,13 @@
+{
+  "name": "TMUsiteleaf",
+  "version": "1.0.0",
+  "main": "/js/index.js",
+  "repository": "https://github.com/blakenoll/TMU.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build js/index.js -d js/build"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

@@ -1,0 +1,97 @@
+---
+layout: landingpage
+exclude_from_search: true
+---
+
+{% include slides.html %}
+{% include news.html %}
+{% include stats.html %}
+{% include president.html %}
+{% include visit.html %}
+{% include upcomingevents.html %}
+
+<script src="/dist/1fa89329b83f5f6aced5530064c9ef30.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+  $('.parallax').parallax();
+  $('.carousel').carousel({padding: 100});
+});
+
+function Timer(fn, t) {
+    var timerObj = setInterval(fn, t);
+
+    this.stop = function() {
+        if (timerObj) {
+            clearInterval(timerObj);
+            timerObj = null;
+        }
+        return this;
+    }
+
+    // start timer using current settings (if it's not already running)
+    this.start = function() {
+        if (!timerObj) {
+            this.stop();
+            timerObj = setInterval(fn, t);
+        }
+        return this;
+    }
+
+    // start with new interval, stop current interval
+    this.reset = function(newT) {
+        t = newT;
+        return this.stop().start();
+    }
+}
+
+var timer = new Timer(function() {
+    $('.carousel').carousel('next');
+}, 5000);
+
+
+$('.carousel-item').click(function() {
+  timer.reset(5000);
+});
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+
+}
+
+var slideTimer = new Timer(function() {
+    plusSlides(1);
+}, 5000);
+
+
+$('.dot').click(function() {
+  slideTimer.reset(5000);
+});
+
+
+</script>
