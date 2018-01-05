@@ -14,7 +14,7 @@ The Master’s University strives to offer students a Christ-centered education 
 <td class="tmc_tblTmcTableHeader boldText"><span>Price</span></td>
 </tr>
 <tr>
-<td class="boldText" valign="top"><span><span>Undergraduate Program</span></span></td>
+<td class="boldText" valign="top"><span><b>Undergraduate Program</b></span></td>
 <td valign="top"> </td>
 </tr>
 <tr>
@@ -23,7 +23,7 @@ The Master’s University strives to offer students a Christ-centered education 
 </tr>
 <tr>
 <td valign="top">Less than 12 units, per unit</td>
-<td valign="top"><span>$1,370</span></td>
+<td valign="top"><span>$1,050</span></td>
 </tr>
 <tr>
 <td valign="top">More than 18 units, per unit</td>
@@ -38,15 +38,15 @@ The Master’s University strives to offer students a Christ-centered education 
 <td valign="top">$50</td>
 </tr>
 <tr>
-<td class="boldText" valign="top"><span><span>Master of Arts</span></span></td>
+<td class="boldText" valign="top"><span><b>Master of Arts</b></span></td>
 <td valign="top"> </td>
 </tr>
 <tr>
 <td valign="top">Tuition, per unit</td>
-<td valign="top">$500 (estimated)</td>
+<td valign="top">$435 (estimated)</td>
 </tr>
 <tr>
-<td class="boldText" valign="top"><span>Teaching Credential</span></td>
+<td class="boldText" valign="top"><span><b>Teaching Credential</b></span></td>
 <td valign="top"> </td>
 </tr>
 <tr>
@@ -54,45 +54,45 @@ The Master’s University strives to offer students a Christ-centered education 
 <td valign="top"><span>$460</span></td>
 </tr>
 <tr>
-<td class="boldText" valign="top"><span><span>Room</span></span></td>
+<td class="boldText" valign="top"><span><b>Room</b></span></td>
 <td valign="top"> </td>
 </tr>
 <tr>
 <td valign="top">On-campus dormitory, per semester</td>
-<td valign="top">$2,975</td>
+<td valign="top">$3,070</td>
 </tr>
 <tr>
-<td class="boldText" valign="top"><span><span>Meal Plans (Board), per semester</span></span></td>
+<td class="boldText" valign="top"><span><b>Meal Plans (Board), per semester</b></span></td>
 <td valign="top"> </td>
 </tr>
 <tr>
 <td valign="top">20 meals per week plus $150 Flex</td>
-<td valign="top"><span>$2,600</span></td>
+<td valign="top"><span>$2,680</span></td>
 </tr>
 <tr>
 <td valign="top">20 meals per week</td>
-<td valign="top"><span>$2,450</span></td>
+<td valign="top"><span>$2,530</span></td>
 </tr>
 <tr>
 <td valign="top">14 meals per week plus $150 Flex</td>
-<td valign="top"><span>$2,450</span></td>
+<td valign="top"><span>$2,520</span></td>
 </tr>
 <tr>
 <td valign="top">14 meals per week</td>
-<td valign="top"><span>$2,300</span></td>
+<td valign="top"><span>$2,370</span></td>
 </tr>
 <tr>
 <td valign="top">10 meals per week plus $150 Flex</td>
-<td valign="top"><span>$2,300</span></td>
+<td valign="top"><span>$2,370</span></td>
 </tr>
 <tr>
 <td valign="top">10 meals per week</td>
-<td valign="top"><span>$2,150</span></td>
+<td valign="top"><span>$2,220</span></td>
 </tr>
 <tr>
 <td valign="top">5 meals per week (commuter students only)</td>
 <td valign="top">
-<p><span>$1,</span>000</p>
+<p>$1,080</p>
 </td>
 </tr>
 </tbody>
