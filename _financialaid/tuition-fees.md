@@ -103,34 +103,34 @@ Meal plans may be supplemented with Flex Bucks available for purchase in blocks 
 
 ### Deposits and Fees
 
-New Student Deposit
+#### New Student Deposit
 A Tuition Deposit of $200, which is applied against tuition, is required of all new students in order to receive course selection materials. Should you choose not to enroll, your deposit is refundable until May 1.
 
-Books
+#### Books
 Typical cost for books each semester ranges from $200 to $400, payable directly to the Campus Bookstore at time of purchase.
 
-Course and Notebook Computer Fees
+#### Course and Notebook Computer Fees
 Some courses have specific fees, noted on the course schedule. All full-time students are required to have a notebook computer. Students must ensure their computer meets minimum configuration specifications. For more information, see [Computer Services](http://www.masters.edu/campuslinks/computerservices/studentcompinfo/notebookguide.aspx "Computer Services").
 
-Directed Studies Fee
+#### Directed Studies Fee
 A Directed Studies Fee of $50 is assessed for each semester unit taken in this format.
 
-Graduation Fee
+#### Graduation Fee
 A estimated Graduation Fee of $125 is required for graduation from all academic programs.
 
-Individual Music Instruction Fee
+#### Individual Music Instruction Fee
 An Individual Music Instruction Fee of $485 will be charged for each semester unit in this format.
 
-Mandatory Health Insurance
+#### Mandatory Health Insurance
 An estimated annual (August 1 through July 31) Health Insurance Premium of $1,900 will be charged unless the student signs the insurance waiver (i.e. if the student does not have his or her own health insurance). The premium for the year will be charged to the Fall semester.
 
-Student Services Fee
+#### Student Services Fee
 A estimated Student Activity Fee of $220 is charged each semester for students taking 6 units or more and covers clubs, chapel media functions, ASB, dorm funds, intramurals, and special events.
 
-Vehicle Fee
+#### Vehicle Fee
 A $45 per semester fee is charged to any registered student who drives and parks a vehicle on campus.
 
-Payment Plan Administrative Fee
+#### Payment Plan Administrative Fee
 A fee of $85 per semester is charged if the student chooses the 5 month payment plan.
 
 \*The Master’s University reserves the right to change, without notice, any charges, fees or policies listed on this website.
