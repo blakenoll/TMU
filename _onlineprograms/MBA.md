@@ -2,7 +2,7 @@
 title: MBA
 sm-image: "/uploads/AcademicsGraduate_MBA.png"
 parallax-img: "/images/Parallax3.jpg"
-program-outline-text: "## Admissions Requirements \n\n1\\. Faith in Jesus Christ as
+program-outline-text: "## Admissions Requirements\n\n1\\. Faith in Jesus Christ as
   your personal Lord and Savior\n\n2\\. Sealed official College transcripts\n\n3\\.
   2.75 or higher undergraduate GPA\n\n4\\. Completed Application\n\n## Program-level
   Learning Outcomes\n\nAt completion of The Master’s University Master of Business
@@ -11,7 +11,7 @@ program-outline-text: "## Admissions Requirements \n\n1\\. Faith in Jesus Christ
   problems.\n\n3. Integrate Scripture into the decision making process.\n\n4. Communicate
   at an advanced level in a variety of verbal and written formats, and a range of
   business-related situations.\n\n5. Apply high level business concepts to real life
-  business situations.\n\n## Textbooks\n\n[Click here](https://athletics.masters.edu/media/870451/mba-booklist1002.pdf)
+  business situations.\n\n## Textbooks\n\n[Click here](http://www.masters.edu/academics/online/studentresources#forms)
   to view the Textbooks for all Online MBA courses.\n\nTo Order Textbooks: The following
   link will connect you to the Master's University Bookstorewhere you can check out
   pricing to buy, rent, and order your texts from the convenience of your home.\n\n##
