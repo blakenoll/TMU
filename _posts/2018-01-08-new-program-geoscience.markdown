@@ -2,6 +2,8 @@
 title: 'New Program: Geoscience'
 date: 2018-01-08 22:51:00 Z
 author: Sabrina Michael
+image: "/uploads/GEOSceince.jpg"
+sm-image: "/uploads/GEOSceince.jpg"
 ---
 
 **Santa Clarita, California** —— Starting in fall 2018, The Master’s University will launch a new Geoscience major, building on the already solid foundation offered by the Biological and Physical Sciences program. Students will now be able to graduate with a Bachelor of Science in Geoscience with an emphasis in either Geology or Environmental Sciences. 
