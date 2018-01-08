@@ -538,7 +538,7 @@ Federal-aid:
   document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
   award-text: Federal Work Study Program
 continuing-merit:
-- amount: "$10,000/$9,000 respectively"
+- amount: "$,5000"
   award-text: |-
     Distinguished Scholar Scholarship
 
@@ -548,33 +548,13 @@ continuing-merit:
 
     * Renewable with a 2.75 cumulative GPA
   document-text: none
-- amount: "$7,500"
+- amount: "$3,000"
   award-text: |-
     Honors Scholarship
 
     * Awarded to traditional, full-time students
 
     * Minimum GPA: 3.65
-
-    * Renewable with a 2.75 cumulative GPA
-  document-text: none
-- amount: "$6,000"
-  award-text: |-
-    Merit Scholarship
-
-    * Awarded to traditional, full-time students
-
-    * Minimum GPA: 3.45
-
-    * Renewable with a 2.75 cumulative GPA
-  document-text: none
-- amount: "$2,500"
-  award-text: |-
-    Achievement Scholarship
-
-    * Awarded to traditional, full-time students
-
-    * Minimum GPA: 3.25
 
     * Renewable with a 2.75 cumulative GPA
   document-text: none
@@ -600,12 +580,6 @@ continuing-merit:
   document-text: |-
     See Music Dept.\
     [Click Here for More Details](http://www.masters.edu/musicscholarships)
-- amount: "$1,000"
-  award-text: |-
-    AWANA Citation Award
-
-    * Awarded to full-time incoming freshman or transfer students who have completed twelve years of AWANA training and who are designated as Citation Award winners.
-  document-text: Copy of Citation Award
 - amount: Up to $1,500
   award-text: |-
     Ministry Matching Grant
@@ -624,8 +598,7 @@ continuing-merit:
     * The Shamrock Foundation Grant is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master's University.\
 
     * The Shamrock Foundation Grant was established in honor of Pearl S. and D. Arthur Wismer by their family. In addition to being wonderful parents, Pearl was a devoted elementary school teacher for over 50 years, and Arthur was an exemplary role model in all business matters.
-  document-text: '[Shamrock Foundation Grant Application](file:///uploads/Forms-%20Application-%20Shamrock%202018-19.pdf
-    "Forms- Application- Shamrock 2017-18.pdf")'
+  document-text: Application forthcoming
 continuing-need-based:
 - amount: Varies
   award-text: |-
@@ -641,20 +614,6 @@ continuing-need-based:
 
     * Please contact the International Student Office for more information.
   document-text: See International Student Office
-- amount: Up to $3,000
-  award-text: |-
-    Christian Ministry Dependent
-
-    * Awarded to full-time students demonstrating need, who are dependents of full-time Christian ministry personnel who provide the family's primary support and whose ministries are consistent with the mission of TMU.
-  document-text: '[Christian Ministry Dependent Application](file:///media/868498/forms-application-cmd.pdf
-    "Forms- Application- CMD.pdf")'
-- amount: "$1,000"
-  award-text: |-
-    John R. Dunkin Alumni Scholarship
-
-    * Available for the dependent children of graduates (with bachelor's degree conferred) of Los Angeles Baptist College or The Master's College/University. The applicant must demonstrate financial need, be attending TMU full time and have a minimum cumulative GPA of 2.0.
-  document-text: '[John R. Dunkin Alumni Scholarship Application](file:///media/868327/dunkin-alumni-scholarship.pdf
-    "Dunkin Alumni Scholarship.pdf")'
 layout: gunderfin
 ---
 
