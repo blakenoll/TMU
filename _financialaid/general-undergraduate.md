@@ -417,10 +417,10 @@ scholorships-new-transfer:
 - award-text: |-
     President's Scholarship
 
-    * Competitive scholarship awarded to full-time incoming freshmen. Applicants must have a high school GPA of 3.85 and a SAT I score (Critical Reading and Math sub-tests only) of 1400 or ACT score of 32. Renewable with a college GPA of 3.5.
+    * Competitive scholarship awarded to full-time incoming freshmen. Applicants must have a high school GPA of 4.00 and a SAT I score (Critical Reading and Math sub-tests only) of 1400 or ACT score of 32. Renewable with a college GPA of 3.5.
 
-    * Deadline: January 20, 2017
-  amount: "$16,000"
+    * Deadline: February 19, 2017
+  amount: "$12,000"
   document-text: "[President's Scholarship Application](/media/868518/forms-application-presidents-17-18.pdf)"
 - award-text: "Distinguished Scholar Scholarship \n\n* Awarded to traditional, full-time
     students.\n\n* Renewable with a 2.75 cumulative GPA.\n\n* Click [here](https://588bad54d816e23fc16fc8c7.preview.siteleaf.com/tcc
