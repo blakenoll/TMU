@@ -421,12 +421,12 @@ scholorships-new-transfer:
 
     * Deadline: February 19, 2017
   amount: "$12,000"
-  document-text: "[President's Scholarship Application](/media/868518/forms-application-presidents-17-18.pdf)"
+  document-text: "[President's Scholarship Application](/uploads/Forms-%20Application-%20Presidents%2018-19.pdf)"
 - award-text: "Distinguished Scholar Scholarship \n\n* Awarded to traditional, full-time
     students.\n\n* Renewable with a 2.75 cumulative GPA.\n\n* Click [here](https://588bad54d816e23fc16fc8c7.preview.siteleaf.com/tcc
     \"Total Cost Calculator\") to see our Total Cost Calculator.\n\n* Transfer students
-    receive a $12,000 Distinguished Scholarship with a cumulative college GPA of 3.75\\\\\\+."
-  amount: "$13,000"
+    receive a $5,000 Distinguished Scholarship with a cumulative college GPA of 3.75\\\\\\+."
+  amount: "$5,000"
   document-text: none
 - award-text: |-
     Honors Scholarship
@@ -437,32 +437,8 @@ scholorships-new-transfer:
 
     * Click [here](https://588bad54d816e23fc16fc8c7.preview.siteleaf.com/tcc "Total Cost Calculator") to see our Total Cost Calculator.
 
-    * Transfer students receive a $10,000 Honors Scholarship a with a cumulative college GPA of 3.50-3.74.
-  amount: "$11,000"
-  document-text: none
-- award-text: |-
-    Merit Scholarship
-
-    * Awarded to traditional, full-time students.
-
-    * Renewable with a 2.75 cumulative GPA.
-
-    * Click [here](https://588bad54d816e23fc16fc8c7.preview.siteleaf.com/tcc "Total Cost Calculator") to see our Total Cost Calculator.
-
-    * Transfer students receive a $8,000 Merit Scholarship with a cumulative college GPA of 3.25-3.54.
-  amount: "$9,000"
-  document-text: none
-- award-text: |-
-    Achievement Scholarship
-
-    * Awarded to traditional, full-time students.
-
-    * Renewable with a 2.75 cumulative GPA.
-
-    * Click [here](http://www.masters.edu/financial-aid/total-cost-calculator/ "Total Cost Calculator") to see our Total Cost Calculator.
-
-    * Transfer students receive a $6,000 Achievement Scholarship with a cumulative college GPA of 3.00-3.24.
-  amount: "$7,000"
+    * Transfer students receive a $3,000 Honors Scholarship a with a cumulative college GPA of 3.50-3.74.
+  amount: "$3,000"
   document-text: none
 - award-text: |-
     Athletic Scholarship
@@ -489,12 +465,6 @@ scholorships-new-transfer:
 
     [Click Here for More Details](http://www.masters.edu/academics/undergraduate/music)
 - award-text: |-
-    AWANA Citation Award
-
-    * Awarded to full-time incoming freshman or transfer students who have completed twelve years of AWANA training and who are designated as Citation Award winners.
-  amount: "$1,000"
-  document-text: Copy of Citation Award
-- award-text: |-
     Ministry Matching Grant
 
     * Awarded to students who receive sponsorship from a Christian ministry. TMU will match, on a dollar-for-dollar basis, up to a total of $1,500 per student, as long as funds remain available.
@@ -511,21 +481,7 @@ scholorships-new-transfer:
 
     * The Shamrock Foundation Grant was established in honor of Pearl S. and D. Arthur Wismer by their family. In addition to being wonderful parents, Pearl was a devoted elementary school teacher for over 50 years, and Arthur was an exemplary role model in all business matters.
   amount: Varies
-  document-text: '[Shamrock Foundation Grant Application](/uploads/Forms-%20Application-%20Shamrock%202018-19.pdf
-    "Forms- Application- Shamrock 2017-18.pdf")'
-- award-text: |-
-    Bible Bee Scholarship
-
-    * Awarded to students who competed in the National Bible Bee and placed 1st-5th in the senior level.
-
-    * The Bible Bee Scholarship is intended for new freshmen only.
-
-    * Proof of placement is required.
-  amount: "$3,000"
-  document-text: '[Bible Bee Scholarship Application](/media/868514/forms-application-bible-bee.pdf
-    "Forms- Application- Bible Bee.pdf")
-
-'
+  document-text: Application forthcoming
 needs-based:
 - award-text: |-
     The Master'sUniversity Grant
@@ -542,30 +498,21 @@ needs-based:
   amount: Varies
   document-text: See International student Office
 - award-text: |-
-    Christian Ministry Dependent Grant
-
-    * Awarded to full-time students demonstrating need, who are dependents of full-time Christian ministry personnel who provide the family's primary support and whose ministries are consistent with the mission of TMU.
-  amount: Up to $3,000
-  document-text: '[Christian Ministry Dependent Application](/media/868498/forms-application-cmd.pdf
-    "Forms- Application- CMD.pdf")'
-- award-text: |-
-    John R. Dunkin Alumni Scholarship
-
-    * Available for the dependent children of graduates (with bachelor's degree conferred) of Los Angeles Baptist College or The Master's College/University. The applicant must demonstrate financial need, be attending TMU full time and have a minimum cumulative GPA of 2.0.
-  amount: "$2,000"
-  document-text: '[John R. Dunkin Alumni Scholarship Application](/media/868327/dunkin-alumni-scholarship.pdf
-    "Dunkin Alumni Scholarship.pdf")'
-- award-text: |-
     Pastor and Missionary Dependent Grant
 
     * Awarded to full-time students demonstrating need, who are dependents of full-time pastors or missionaries who provide their family's primary support and whose ministries are consistent with the mission of TMU.
 
     * Please see the tab below for more information on this grant.
-  amount: "$5,000"
+  amount: "$1,000"
   document-text: '[Pastor and Missionary Dependent Grant Application](/media/868500/forms-application-pmd-17-18.pdf
     "Forms- Application- PMD 17-18.pdf")'
 Federal-aid:
-- award-text: |-
+- amount: Up to $9,084
+  document-text: |-
+    [GPA Verification Form](http://www.csac.ca.gov/doc.asp?id=1177)\
+    \
+    [FAFSA](http://www.fafsa.ed.gov/)
+  award-text: |-
     Cal Grant
 
     * Awarded to low and middle income California residents and is based on need and GPA. The student must be enrolled in at least a two year program. Annual application is required.
@@ -573,11 +520,6 @@ Federal-aid:
     * Additional documentation is required. Applicant must have submitted GPA verification (via the Registrar's Office at their high school or college). Click [here](http://www.masters.edu/financial-aid/generalundergraduateprogram/calgrant/) for more information.
 
     * Deadline: March 2
-  amount: Up to $9,223
-  document-text: |-
-    [GPA Verification Form](http://www.csac.ca.gov/doc.asp?id=1177)\
-    \
-    [FAFSA](http://www.fafsa.ed.gov/)
 - amount: Up to $5,920
   document-text: "[FAFSA](http://www.fafsa.ed.gov/)"
   award-text: |-
