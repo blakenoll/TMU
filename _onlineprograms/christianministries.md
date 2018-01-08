@@ -24,7 +24,7 @@ about-body: |-
 
   ### Textbooks
 
-  [Click here](/media/870445/ba-cm-booklist.pdf) to view the Textbooks for all Online Christian Ministries courses.
+  [Click here](http://www.masters.edu/academics/online/studentresources#forms) to view the Textbooks for all Online Christian Ministries courses.
 major-requirments-body: |-
   ### Christian Ministries
 

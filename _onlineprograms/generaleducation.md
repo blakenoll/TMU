@@ -492,5 +492,5 @@ parallax-img: "/images/Parallax3.jpg"
 </table>
 <div>
 <h2>Textbooks</h2>
-<h3><strong><a href="/media/870447/ge-booklist1002.pdf">Click Here </a>to view the Required Textbooks for all Online General Education and Elective Courses</strong></h3>
+<h3><strong><a href="http://www.masters.edu/academics/online/studentresources#forms">Click Here </a>to view the Required Textbooks for all Online General Education and Elective Courses</strong></h3>
 </div>
