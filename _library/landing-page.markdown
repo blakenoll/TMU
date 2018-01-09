@@ -28,8 +28,6 @@ links:
   txt: Services
 NEWS: |-
   Winterim Library Hours
-  January 3rd & 4th = 12:00 p.m. - 6:00 p.m.
-  January 5th = 12:00 p.m. - 5:00 p.m.
   January 8th - 11th = 12:00 p.m. - 6:00 p.m.
   January 12th = 12:00 p.m. - 6:00 p.m.
   Closed Saturday & Sunday
@@ -40,8 +38,6 @@ layout: library
 ---
 
                      Winterim Library Hours
-January 3rd & 4th = 12:00 p.m. - 6:00 p.m.
-January 5th = 12:00 p.m. - 5:00 p.m.
 January 8th - 11th = 12:00 p.m. - 6:00 p.m.
 January 12th = 12:00 p.m. - 6:00 p.m.
 Closed Saturday & Sunday
