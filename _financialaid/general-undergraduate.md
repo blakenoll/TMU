@@ -1,6 +1,5 @@
 ---
 title: General Undergraduate
-published: false
 sm-image: "/uploads/AdmissionFinAid_GeneralUndergrad.png"
 new-transfer-student-body: |-
   # Scholarships - New/Transfer Students
@@ -356,7 +355,7 @@ pastor-dep-grant-body: |-
 
   * **Academic Scholarships from $5,000 to $3,000.**
 
-  * The [Shamrock Foundation Grant](/uploads/Forms-%20Application-%20Shamrock%202018-19.pdf) which is awarded by departments for qualifying students.
+  * The [Shamrock Foundation Grant](http:///uploads/Forms-%20Application-%20Shamrock%202018-19-39703c.pdf) which is awarded by departments for qualifying students.
 
   * The [Ministry Matching Grant](/uploads/Forms-%20Application-%20MMG.pdf) where The Master’s University matches funds from Christian ministries who desire to make an investment in a student.
 
