@@ -131,7 +131,7 @@ schedules:
   days-body: Monday - Friday
   hours-body: 9:00am - 5:00pm
 - name: Registrar
-  ext: 2812
+  ext: 2813
   days-body: Monday - Friday
   hours-body: 8:30am - 5:00pm
 - name: Fitness Center
