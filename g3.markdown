@@ -3,74 +3,19 @@ title: G3 Conference 2018
 date: 2018-01-10 03:45:00 Z
 ---
 
-<!-- FORM: HEAD SECTION -->
-
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-            <script type="text/javascript">
-        document.addEventListener("DOMContentLoaded", function(){
-            const FORM_TIME_START = Math.floor((new Date).getTime()/1000);
-            let formElement = document.getElementById("tfa_0");
-            let appendJsTimerElement = function(){
-                let formTimeDiff = Math.floor((new Date).getTime()/1000) - FORM_TIME_START;
-                let cumulatedTimeElement = document.getElementById("tfa_dbCumulatedTime");
-                if (null !== cumulatedTimeElement) {
-                    let cumulatedTime = parseInt(cumulatedTimeElement.value);
-                    if (null !== cumulatedTime && cumulatedTime > 0) {
-                        formTimeDiff += cumulatedTime;
-                    }
-                }
-                let jsTimeInput = document.createElement("input");
-                jsTimeInput.setAttribute("type", "hidden");
-                jsTimeInput.setAttribute("value", formTimeDiff.toString());
-                jsTimeInput.setAttribute("name", "tfa_dbElapsedJsTime");
-                jsTimeInput.setAttribute("id", "tfa_dbElapsedJsTime");
-                jsTimeInput.setAttribute("autocomplete", "off");
-                if (null !== formElement) {
-                    formElement.appendChild(jsTimeInput);
-                }
-            };
-            if (null !== formElement) {
-                if(formElement.addEventListener){
-                    formElement.addEventListener('submit', appendJsTimerElement, false);
-                } else if(formElement.attachEvent){
-                    formElement.attachEvent('onsubmit', appendJsTimerElement);
-                }
-            }
-        });
-    </script>
-
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout.css?v=4614-1" rel="stylesheet" type="text/css" />
-    <!--[if IE 8]>
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
-    <![endif]-->
-    <!--[if IE 7]>
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
-    <![endif]-->
-    <!--[if IE 6]>
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
-    <![endif]-->
-
-    <link href="https://masters.tfaforms.net/themes/get/default" rel="stylesheet" type="text/css" />
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-jsonly.css?v=4614-1" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
-    <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/wforms.js?v=4614-1"></script>
-    <script type="text/javascript">
-        wFORMS.behaviors.prefill.skip = false;
-    </script>
-        <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/localization-en_US.js?v=4614-1"></script>
-
 <!-- FORM: BODY SECTION -->
 <div class="wFormContainer"  >
 
-  <style type="text/css">
-                #tfa_1,
-                *[id^="tfa_1["] {
-                    width: 420px !important;
-                }
-                #tfa_1-D,
-                *[id^="tfa_1["][class~="field-container-D"] {
-                    width: auto !important;
-                }
-            
+<style type="text/css">
+\#tfa_1,
+\*\[id^="tfa_1\["\] {
+width: 420px !important;
+}
+\#tfa_1-D,
+\*\[id^="tfa_1\["\]\[class\~="field-container-D"\] {
+width: auto !important;
+}
+
                 #tfa_2,
                 *[id^="tfa_2["] {
                     width: 420px !important;
@@ -136,12 +81,13 @@ date: 2018-01-10 03:45:00 Z
                     width: 490px !important;
                 }
             </style><div class=""><div class="wForm" id="tfa_0-WRPR" dir="ltr">
+
 <div class="codesection" id="code-tfa_0"></div>
-<h3 class="wFormTitle" id="tfa_0-T">G3 2018 Conference&nbsp;</h3>
+<h3 class="wFormTitle" id="tfa_0-T">G3 2018 Conference </h3>
 <form method="post" action="https://masters.tfaforms.net/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
 <div class="htmlSection" id="tfa_7"><div class="htmlContent" id="tfa_7-HTML">The Master's University will be raffling off books and book bundles each day of G3! Sign up here:</div></div>
 <div class="oneField field-container-D     " id="tfa_1-D">
-<label id="tfa_1-L" for="tfa_1" class="label preField reqMark">First &amp; Last Name</label><br><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" title="First &amp; Last Name" class="required"></div>
+<label id="tfa_1-L" for="tfa_1" class="label preField reqMark">First & Last Name</label><br><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" title="First & Last Name" class="required"></div>
 </div>
 <div class="oneField field-container-D     " id="tfa_2-D">
 <label id="tfa_2-L" for="tfa_2" class="label preField reqMark">Email address</label><br><div class="inputWrapper"><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" title="Email address" class="validate-email required"></div>
@@ -164,9 +110,9 @@ date: 2018-01-10 03:45:00 Z
 </form>
 </div></div>
 
-  <p class="supportInfo" >
-        <a href="https://masters.tfaforms.net/forms/help/217739" target="new" style="font-size: 0.7em;">
-      Need assistance with this form?    </a>
+<p class="supportInfo" >
+<a href="https://masters.tfaforms.net/forms/help/217739" target="new" style="font-size: 0.7em;">
+Need assistance with this form?    </a>
 
       </p>
 
