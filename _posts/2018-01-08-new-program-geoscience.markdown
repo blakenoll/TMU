@@ -18,7 +18,7 @@ This new program not only corresponds perfectly to the study of origins, but als
 
 Filled with renowned destinations like Vasquez Rocks, Sharktooth Hill, Rainbow Basin, Death Valley, Yosemite and the La Brea Tar Pits, and close to the Grand Canyon, the Petrified Forest and Zion National Park, California is a gold mine for the rock enthusiast. 
 
-“The geologists who sees the most rocks is the best geologist,” McLain explained, and this program aims for just that. The classroom is not limited to the four walls of the Reese Center for Science and Mathematics on TMU’s campus. 
+“The geologist who sees the most rocks is the best geologist,” McLain explained, and this program aims for just that. The classroom is not limited to the four walls of the Reese Center for Science and Mathematics on TMU’s campus. 
 
 Field studies will practically prepare graduates for their future careers. According to McLain, there are many professional routes available, including research, the National Parks Service and oil, gas or coal mining companies. California also contains many ice age fossils and Native American artifacts—several of which are dug up consistently across the state. Consulting jobs are in high demand because builders are now required to hire a geologist to inspect the land before laying their foundations. 
 
