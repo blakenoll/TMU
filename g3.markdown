@@ -3,116 +3,171 @@ title: G3 Conference 2018
 date: 2018-01-10 03:45:00 Z
 ---
 
-<h2 style="text-align: center;">We want to learn more about you!</h2>
-<h2 style="text-align: center;">Tell us about you  and receive your free copy of the book "Found: God's Will" by John MacArthur. </h2>
-<h2 style="text-align: center;"> </h2>
-<h2 style="text-align: center;"><a href="https://masters.tfaforms.net/217737">Start Here</a></h2>
-<p> </p>
-<p><strong>ONE</strong> single focus has guided The Master’s University since it was founded in 1927. This focus influences all we do: every class, activity, athletic event, friendship and conversation.</p>
-<p>This focus? Our Master, Jesus Christ.</p>
-<p>TMU provides limitless opportunities to accelerate your education and passion across the world. It's all uncompromisingly built on Him as our singular focus.</p>
-<p> </p>
-<table style="height: 380px; margin-left: auto; margin-right: auto;" width="669">
-<tbody>
-<tr>
-<td style="width: 660px; background-color: #10203a;">\
-<h4 style="text-align: center;"><span style="color: #ffffff;">TOP-RANKED ACADEMICS</span></h4>
-</td>
-</tr>
-<tr>
-<td style="width: 660px;"><br />
-<ul>
-<li>#1 in Wall Street Journal 2-years-in-a-row as the "Right Choice" university</li>
-<li>#2 in Wall Street as "most inspirational"</li>
-<li>#1 CPA exam pass-rate surpassing all other universities</li>
-<li>Top 15 by US News 2017 for "best value"</li>
-<li>Top 20 for "veterans"</li>
-<li>Top 8% scoring on ETS-MFT business exam</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 660px;"> </td>
-</tr>
-<tr>
-<td style="width: 660px; background-color: #10203a;">\
-<h4 style="text-align: center;"><span style="color: #ffffff;">THE PROFESSOR. PROFESSIONAL. PASTOR.</span></h4>
-</td>
-</tr>
-<tr>
-<td style="width: 660px;">Highly academically qualified and carefully selected professors teach all TMU classes through a Biblical perspective, usually in small class sizes meaning you receive the valuable individual guidance to accelerate your learning. Professors have real-world experience in their fields allowing them to create high-impact, in-demand curriculum. Many of our faculty also serve in various ministries in their churches and communities, therefore bringing their spiritual leadership skills into the classroom.</td>
-</tr>
-<tr>
-<td style="width: 660px;"> </td>
-</tr>
-<tr>
-<td style="width: 660px; background-color: #10203a;">\
-<h4 style="text-align: center;"><span style="color: #ffffff;">CAREER ACCELERATION</span></h4>
-</td>
-</tr>
-<tr>
-<td style="width: 660px;">
-<p>100\+ in-demand career paths offered across 13\+ majors including the new BA in <em>Marketing Media</em>. TMU offers among the best degrees to graduate with for salary potential and job satisfaction. Just look at the numbers:</p>
-<ul>
-<li>95% med-school acceptance rate</li>
-<li>100% business and teacher graduate employment rate</li>
-<li>162% salary growth for business alumni in California across a 10 year progression (average salary is $112,709)</li>
-<li>Top 10 law schools accepting TMU graduates</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="width: 660px;"> </td>
-</tr>
-<tr>
-<td style="width: 660px; background-color: #10203a;">\
-<h4 style="text-align: center;"><span style="color: #ffffff;">VIBRANT, LIMITLESS STUDENT LIFE</span></h4>
-</td>
-</tr>
-<tr>
-<td style="width: 660px;">1000\+ diverse students at the beautiful campus in Southern California where mountains, beach, sun, fun, worship, travel, adventure, friends, sport, music...well, that's just part of your typical week!</td>
-</tr>
-<tr>
-<td style="width: 660px;"> </td>
-</tr>
-<tr>
-<td style="width: 660px; background-color: #10203a;">\
-<h4 style="text-align: center;"><span style="color: #ffffff;">CHAMPIONSHIP ATHLETICS</span></h4>
-</td>
-</tr>
-<tr>
-<td style="width: 660px;">Including the new Olympic medalist Aquatics Program in addition to the women's, men's and intramural athletics teams and options. <em>Go Mustangs!</em></td>
-</tr>
-<tr>
-<td style="width: 660px;"> </td>
-</tr>
-<tr>
-<td style="width: 660px; background-color: #10203a;">\
-<h4 style="text-align: center;"><span style="color: #ffffff;">INSPIRING & IMPACTFUL</span></h4>
-</td>
-</tr>
-<tr>
-<td style="width: 660px;">Choices in overseas study and global outreach trips to the TMU Israel Bible Exchange (IBEX) included in your enrollment, Italy, and multiple other locations to experience and in which to serve.</td>
-</tr>
-<tr>
-<td style="width: 660px;"> </td>
-</tr>
-<tr>
-<td style="width: 660px; background-color: #10203a;">\
-<h4 style="text-align: center;"><span style="color: #ffffff;">WORLD-CLASS</span></h4>
-</td>
-</tr>
-<tr>
-<td style="width: 660px;">Music and arts programs including The Master's Chorale, Wind Ensemble, Women's Chamber Choir, Handbells, Chamber Strings, University Singers, TMU Orchestra, Opera and more.</td>
-</tr>
-<tr>
-<td style="width: 660px;"> </td>
-</tr>
-<tr>
-<td style="width: 660px;">
-<p>Could The Master’s University be perfect for you? Let's develop your calling and find your passion.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4> </h4>
+<!-- FORM: HEAD SECTION -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function(){
+            const FORM_TIME_START = Math.floor((new Date).getTime()/1000);
+            let formElement = document.getElementById("tfa_0");
+            let appendJsTimerElement = function(){
+                let formTimeDiff = Math.floor((new Date).getTime()/1000) - FORM_TIME_START;
+                let cumulatedTimeElement = document.getElementById("tfa_dbCumulatedTime");
+                if (null !== cumulatedTimeElement) {
+                    let cumulatedTime = parseInt(cumulatedTimeElement.value);
+                    if (null !== cumulatedTime && cumulatedTime > 0) {
+                        formTimeDiff += cumulatedTime;
+                    }
+                }
+                let jsTimeInput = document.createElement("input");
+                jsTimeInput.setAttribute("type", "hidden");
+                jsTimeInput.setAttribute("value", formTimeDiff.toString());
+                jsTimeInput.setAttribute("name", "tfa_dbElapsedJsTime");
+                jsTimeInput.setAttribute("id", "tfa_dbElapsedJsTime");
+                jsTimeInput.setAttribute("autocomplete", "off");
+                if (null !== formElement) {
+                    formElement.appendChild(jsTimeInput);
+                }
+            };
+            if (null !== formElement) {
+                if(formElement.addEventListener){
+                    formElement.addEventListener('submit', appendJsTimerElement, false);
+                } else if(formElement.attachEvent){
+                    formElement.attachEvent('onsubmit', appendJsTimerElement);
+                }
+            }
+        });
+    </script>
+
+    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout.css?v=4614-1" rel="stylesheet" type="text/css" />
+    <!--[if IE 8]>
+    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 6]>
+    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <link href="https://masters.tfaforms.net/themes/get/default" rel="stylesheet" type="text/css" />
+    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-jsonly.css?v=4614-1" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
+    <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/wforms.js?v=4614-1"></script>
+    <script type="text/javascript">
+        wFORMS.behaviors.prefill.skip = false;
+    </script>
+        <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/localization-en_US.js?v=4614-1"></script>
+
+<!-- FORM: BODY SECTION -->
+<div class="wFormContainer"  >
+
+  <style type="text/css">
+                #tfa_1,
+                *[id^="tfa_1["] {
+                    width: 420px !important;
+                }
+                #tfa_1-D,
+                *[id^="tfa_1["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_2,
+                *[id^="tfa_2["] {
+                    width: 420px !important;
+                }
+                #tfa_2-D,
+                *[id^="tfa_2["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_3,
+                *[id^="tfa_3["] {
+                    width: 420px !important;
+                }
+                #tfa_3-D,
+                *[id^="tfa_3["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_3-L,
+                label[id^="tfa_3["] {
+                    width: 490px !important;
+                }
+            
+                #tfa_4,
+                *[id^="tfa_4["] {
+                    width: 420px !important;
+                }
+                #tfa_4-D,
+                *[id^="tfa_4["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_4-L,
+                label[id^="tfa_4["] {
+                    width: 470px !important;
+                }
+            
+                #tfa_5,
+                *[id^="tfa_5["] {
+                    width: 420px !important;
+                }
+                #tfa_5-D,
+                *[id^="tfa_5["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_5-L,
+                label[id^="tfa_5["] {
+                    width: 490px !important;
+                }
+            
+                #tfa_6,
+                *[id^="tfa_6["] {
+                    width: 100px !important;
+                }
+                #tfa_6-D,
+                *[id^="tfa_6["][class~="field-container-D"] {
+                    width: auto !important;
+                }
+            
+                #tfa_6-L,
+                label[id^="tfa_6["] {
+                    width: 490px !important;
+                }
+            </style><div class=""><div class="wForm" id="tfa_0-WRPR" dir="ltr">
+<div class="codesection" id="code-tfa_0"></div>
+<h3 class="wFormTitle" id="tfa_0-T">G3 2018 Conference&nbsp;</h3>
+<form method="post" action="https://masters.tfaforms.net/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
+<div class="htmlSection" id="tfa_7"><div class="htmlContent" id="tfa_7-HTML">The Master's University will be raffling off books and book bundles each day of G3! Sign up here:</div></div>
+<div class="oneField field-container-D     " id="tfa_1-D">
+<label id="tfa_1-L" for="tfa_1" class="label preField reqMark">First &amp; Last Name</label><br><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" title="First &amp; Last Name" class="required"></div>
+</div>
+<div class="oneField field-container-D     " id="tfa_2-D">
+<label id="tfa_2-L" for="tfa_2" class="label preField reqMark">Email address</label><br><div class="inputWrapper"><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" title="Email address" class="validate-email required"></div>
+</div>
+<div class="oneField field-container-D     " id="tfa_3-D">
+<label id="tfa_3-L" for="tfa_3" class="label preField reqMark">Mobile phone to contact you during G3 Conference <i style="font-weight: normal;">(ex: 123-456-7890)</i></label><br><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="" title="Mobile phone to contact you during G3 Conference (ex: 123-456-7890)" class="required"></div>
+</div>
+<div class="oneField field-container-D     " id="tfa_4-D">
+<label id="tfa_4-L" for="tfa_4" class="label preField ">Your position <span style="font-weight: normal;"><i>(ex: Sr Pastor, Worship Leader, Youth Director)</i></span></label><br><div class="inputWrapper"><input type="text" id="tfa_4" name="tfa_4" value="" placeholder="" title="Your position (ex: Sr Pastor, Worship Leader, Youth Director)" class=""></div>
+</div>
+<div class="oneField field-container-D     " id="tfa_5-D">
+<label id="tfa_5-L" for="tfa_5" class="label preField ">Your church name <span style="font-weight: normal;"><i>(ex: Grace Community Church)</i></span></label><br><div class="inputWrapper"><input type="text" id="tfa_5" name="tfa_5" value="" placeholder="" title="Your church name (ex: Grace Community Church)" class=""></div>
+</div>
+<div class="oneField field-container-D     " id="tfa_6-D">
+<label id="tfa_6-L" for="tfa_6" class="label preField ">Which state <span style="font-weight: normal;"><i>(ex: GA, CA, TX, NY....)</i></span></label><br><div class="inputWrapper"><input type="text" id="tfa_6" name="tfa_6" value="" placeholder="" title="Which state (ex: GA, CA, TX, NY....)" class=""></div>
+</div>
+<div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction" value="Submit"></div>
+<div style="clear:both"></div>
+<input type="hidden" value="217739" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="9d9f7d3b772bbd8e1af49005588ff0bf" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="2" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+</form>
+</div></div>
+
+  <p class="supportInfo" >
+        <a href="https://masters.tfaforms.net/forms/help/217739" target="new" style="font-size: 0.7em;">
+      Need assistance with this form?    </a>
+
+      </p>
+
+</div>
