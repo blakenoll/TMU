@@ -11,11 +11,9 @@ sm-image: "/uploads/TL2018_GeneralGraphic.jpg"
 
 In short, the emperor thought he was clothed when in fact he was naked, and no one was willing to tell him.
 
-
 The Master’s University's President, Dr. John MacArthur, referenced the story Wednesday night as he opened the first session of the annual Truth and Life Conference at TMU. This year’s theme, “Walking in Wisdom,” is centered on the book of Proverbs, and MacArthur didn’t dance around the subject.
 
-> “You are either a fool or wise,” MacArthur said to a gymnasium packed with students back from winter break. “If you don’t know God, you are a fool. If you do know God, you are wise. That’s the dividing line.”
-
+“You are either a fool or wise,” MacArthur said to a gymnasium packed with students back from winter break. “If you don’t know God, you are a fool. If you do know God, you are wise. That’s the dividing line.”
 
 MacArthur led off with a bird’s-eye view for the theme of the next two days, a theme that will be explored by speakers Steven J. Lawson and Tom Pennington, both of whom spoke at last year’s conference.
 
@@ -31,4 +29,4 @@ Of course, wisdom manifests itself in a variety of ways. Continuing to unpack Pr
 
 Before closing the night in prayer, MacArthur said, **“This whole effort at wisdom should be going on every day, every hour. Buy up your time so you can walk in wisdom. Wisdom is found with God, nowhere else. That’s where the quest will take you, to God and to Him alone.”**
 
-*To watch the entire session, go to our homepage on [Facebook](https://www.facebook.com/mastersuniv/).
+*To watch the entire session, go to our [Facebook] page (https://www.facebook.com/mastersuniv/).
