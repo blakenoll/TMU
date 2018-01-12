@@ -12,7 +12,7 @@
         </div>
       </div>
     </div>
-
+    
   {% endfor %}
   </div>
   <br>
@@ -20,7 +20,7 @@
   <br>
   <div style="text-align:center">
     {% for banner in banners %}
-      <span class="dot" onclick="currentSlide({% increment var %} + 1)"></span>
+      <span class="dot" onclick="currentSlide({{forloop.index}})"></span>
     {% endfor %}
   </div>
 </div>
