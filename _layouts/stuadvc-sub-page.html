@@ -17,12 +17,25 @@ layout: default
      </nav>
      <div class="row spacing">
        <div class="col s12">
+         <img src="{{page.image}}" alt="{{page.title}}" width="100%">
          <div class="card-content">
            {{ content }}
          </div>
        </div>
 
      </div>
+     <div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        {% for tab in page.tabs %}
+        <li class="tab"><a href="#{{forloop.index}}">{{tab.title}}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% for tab in page.tabs %}
+    <div id="{{forloop.index}}" class="col s12">{{ tab.body | markdownify }}</div>
+    {% endfor %}
+  </div>
     </div>
   </div>
 
