@@ -59,6 +59,9 @@ collections:
   redirects:
     title: Redirects
     output: true
+  student-advancment:
+    title: Student Advancment
+    output: true
   studentlife:
     title: Student Life
     output: true
