@@ -137,6 +137,7 @@ tabs:
     For more detailed information about ROTC and scholarships, please visit our [Frequently Asked Questions](http://www.masters.edu/student-life/student-advancement/military-students/frequently-asked-questions/) and scroll down to the bottom of the page.
 
     To contact the Military Student Advancement Office you may call 661-362-2814, or send an e-mail to [military@masters.edu](mailto:%20military@masters.edu).
+image: "/images/Military_1920x500.jpg"
 layout: stuadvc-sub-page
 ---
 
