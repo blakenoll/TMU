@@ -179,7 +179,7 @@ positions:
     trucks and power-driven grounds equipment.  \n\nQUALIFICATIONS\nList minimum requirements
     to be considered for this position:\n•\tHas a personal relationship with Jesus
     Christ\n•\tEducation:  High School Diploma or its equivalent or Higher\n•\tExperience:
-    \ 1+ years as an groundskeeper preferred\n\n\nWORKING CONDITIONS\n•\tWorking Environment:
+    \ 1+ years as an groundskeeper preferred\n\nWORKING CONDITIONS\n•\tWorking Environment:
     Mostly outdoors with extreme temperature changes\n•\tAble to exercise good judgment
     and discernment.  \n•\tMultitasked in an environment with many distractions is
     a must. \n•\tPhysical Demands:  Able to lift, pull, push, grasp and bend while
