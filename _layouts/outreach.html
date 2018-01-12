@@ -1,18 +1,19 @@
 ---
 layout: default
 ---
-
+{% include parallax-header.html %}
 <div class="gradient-color">
-  <div class="row">
+  <!-- <div class="row">
     <div class="col s12 m6 offset-m3 card white center">
       <h1>Outreach</h1>
       <img src="images/T&L_Logo.png" alt="" style="margin: 0 auto; width: 100%">
     </div>
-  </div>
+  </div> -->
   <!-- <div class="event-page-banner">
     <br>
     <img class="card" src="{{ page.banner-image }}" alt="" width="100%">
   </div> -->
+  <br>
   <div class="container">
     <div class="row">
       <div class="col s12 card">
@@ -36,7 +37,7 @@ layout: default
             <a href="{{ item.url | prepend: site.url }}">
               <div class="col s6 m4">
                 <div class="vector-card">
-                  <img src="http://www.masters.edu/uploads/StudentLife_GlobalOutreach.png" alt="" width="100%">
+                  <img src="{{item.icon-image}}" alt="" width="100%">
                   <h3 class="center">{{ item.title }}</h3>
                 </div>
               </div>
