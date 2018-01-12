@@ -51,6 +51,7 @@ tabs:
     ## Missionaries-in-Residence
 
     Each year The Master’s University hosts a hand-picked missionary family (on furlough) living on campus (this could be you!). Their home—kitchen, fireplace, and all—is available to students who want to stop by. TMU’s Missionaries-in-Residence become a great asset not only to students currently pursuing global missions, but to international students and TCKs who just want to share their own experiences with someone, or seek a bit of extra advice.
+image: "/images/IntlAdmissions.jpg"
 layout: stuadvc-sub-page
 ---
 
