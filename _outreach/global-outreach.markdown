@@ -474,6 +474,7 @@ engage-body: |2-
 
   [2017 Church Schedule Form](http://www.formstack.com/forms/?1228890-yr9dJfw42e)
 about-body: 
+icon-image: "/uploads/StudentLife_GlobalOutreach.png"
 layout: globo
 ---
 
