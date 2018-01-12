@@ -114,4 +114,6 @@ speakers:
 layout: truthandlife
 ---
 
-The 2018 Truth & Life Conference will address the theme “Walking in Wisdom.” Dr. John Macarthur, Dr. Steve Lawson and Dr. Tom Pennington will be helping believers to further “know wisdom and instruction, to understand words of insight, and receive instruction in wise dealing . . .” (Proverbs 1:2). Each main session will be focused on the book of Proverbs and each seminar session around its practical application. 
+<a href="https://www.facebook.com/mastersuniv/" target="_blank" class="btn btn-navy">Watch Live</a>
+
+The 2018 Truth & Life Conference will address the theme “Walking in Wisdom.” Dr. John Macarthur, Dr. Steve Lawson and Dr. Tom Pennington will be helping believers to further “know wisdom and instruction, to understand words of insight, and receive instruction in wise dealing . . .” (Proverbs 1:2). Each main session will be focused on the book of Proverbs and each seminar session around its practical application.

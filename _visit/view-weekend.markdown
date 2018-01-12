@@ -1,5 +1,5 @@
 ---
-title: View Weekend
+title: View the U | Weekend Experience
 date: 2017-11-13 17:07:00 Z
 categories:
 - event
@@ -171,7 +171,7 @@ layout: visit-sub-page
 
 # March 22-23, 2018: An unforgettable weekend!
 
-TMU View Weekend is the unforgettable opportunity for prospective students to experience dorm life and attend classes, chapel services, and intercollegiate athletic events.
+The TMU View the U Weekend Experience is the unforgettable opportunity for prospective students to experience dorm life and attend classes, chapel services, and intercollegiate athletic events.
 
 * You will experience our top faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
 
