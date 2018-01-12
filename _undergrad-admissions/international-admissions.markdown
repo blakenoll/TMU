@@ -119,6 +119,7 @@ app-deadlines:
   red-text: FEB 23, 2018
 - text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
     consideration for Fall 20 1 8 '
+counselor-name: Josh English
 layout: intladmission
 ---
 
