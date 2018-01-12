@@ -103,7 +103,7 @@ tabs:
     The development of culturally applicable programming and social support of underrepresented students
 
     Student organization involvement
-images: "/images/MultiCultural_1920x500.jpg"
+image: "/images/MultiCultural_1920x500.jpg"
 layout: stuadvc-sub-page
 ---
 
