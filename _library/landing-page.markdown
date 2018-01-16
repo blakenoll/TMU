@@ -37,11 +37,8 @@ NEWS: |-
 layout: library
 ---
 
-Winterim Library Hours
+Welcome Back TMU Students and Faculty!
 
-January 8th - 11th = 12:00 p.m. - 6:00 p.m.
-January 12th = 12:00 p.m. - 6:00 p.m.
-Closed Saturday & Sunday
-Closed Monday January 15th Martin Luther King Jr. Day
+The Library staff eagerly awaits the opportunity to serve you.
 
-Regular Semester hours will resume on Tuesday, January 16th
+We will resume Regular Semester Hours on Tuesday, January 16th, 2018. 
