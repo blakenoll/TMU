@@ -89,10 +89,10 @@ date: 2018-01-10 03:45:00 Z
 <label id="tfa_1-L" for="tfa_1" class="label preField reqMark">First &amp; Last Name</label><br><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" title="First &amp; Last Name" class="required"></div>
 </div>
 <div class="oneField field-container-D     " id="tfa_2-D">
-<label id="tfa_2-L" for="tfa_2" class="label preField reqMark">Email address</label><br><div class="inputWrapper"><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" title="Email address" class="validate-email required"></div>
+<label id="tfa_2-L" for="tfa_2" class="label preField reqMark">Email address</label><br><div class="inputWrapper"><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" title="Email address*" class="validate-email required"></div>
 </div>
 <div class="oneField field-container-D     " id="tfa_3-D">
-<label id="tfa_3-L" for="tfa_3" class="label preField reqMark">Mobile phone to contact you during G3 Conference</label><br><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="" autoformat="###-###-####" title="Mobile phone to contact you during G3 Conference" class="validate-custom /^([\(]{1}[0-9]{3}[\)]{1}[\.| |\-]{0,1}|^[0-9]{3}[\.|\-| ]?)?[0-9]{3}(\.|\-| )?[0-9]{4}$/ required"></div>
+<label id="tfa_3-L" for="tfa_3" class="label preField reqMark">Mobile phone to contact you during G3 Conference*</label><br><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="" autoformat="###-###-####" title="Mobile phone to contact you during G3 Conference" class="validate-custom /^([\(]{1}[0-9]{3}[\)]{1}[\.| |\-]{0,1}|^[0-9]{3}[\.|\-| ]?)?[0-9]{3}(\.|\-| )?[0-9]{4}$/ required"></div>
 </div>
 <div class="oneField field-container-D     " id="tfa_4-D">
 <label id="tfa_4-L" for="tfa_4" class="label preField ">Your position <span style="font-weight: normal;"><i>(ex: Sr Pastor, Worship Leader, Youth Director)</i></span></label><br><div class="inputWrapper"><input type="text" id="tfa_4" name="tfa_4" value="" placeholder="" title="Your position (ex: Sr Pastor, Worship Leader, Youth Director)" class=""></div>
