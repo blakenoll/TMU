@@ -3,43 +3,6 @@ title: G3 Conference 2018
 date: 2018-01-10 03:45:00 Z
 ---
 
-<!-- FORM: HEAD SECTION -->
-
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-            <script type="text/javascript">
-        document.addEventListener("DOMContentLoaded", function(){
-            const FORM_TIME_START = Math.floor((new Date).getTime()/1000);
-            let formElement = document.getElementById("tfa_0");
-            let appendJsTimerElement = function(){
-                let formTimeDiff = Math.floor((new Date).getTime()/1000) - FORM_TIME_START;
-                let cumulatedTimeElement = document.getElementById("tfa_dbCumulatedTime");
-                if (null !== cumulatedTimeElement) {
-                    let cumulatedTime = parseInt(cumulatedTimeElement.value);
-                    if (null !== cumulatedTime && cumulatedTime > 0) {
-                        formTimeDiff += cumulatedTime;
-                    }
-                }
-                let jsTimeInput = document.createElement("input");
-                jsTimeInput.setAttribute("type", "hidden");
-                jsTimeInput.setAttribute("value", formTimeDiff.toString());
-                jsTimeInput.setAttribute("name", "tfa_dbElapsedJsTime");
-                jsTimeInput.setAttribute("id", "tfa_dbElapsedJsTime");
-                jsTimeInput.setAttribute("autocomplete", "off");
-                if (null !== formElement) {
-                    formElement.appendChild(jsTimeInput);
-                }
-            };
-            if (null !== formElement) {
-                if(formElement.addEventListener){
-                    formElement.addEventListener('submit', appendJsTimerElement, false);
-                } else if(formElement.attachEvent){
-                    formElement.attachEvent('onsubmit', appendJsTimerElement);
-                }
-            }
-        });
-    </script>
-
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout.css?v=4614-2" rel="stylesheet" type="text/css" />
     <!--[if IE 8]>
     <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
     <![endif]-->
@@ -139,7 +102,7 @@ date: 2018-01-10 03:45:00 Z
 <div class="codesection" id="code-tfa_0"></div>
 <h3 class="wFormTitle" id="tfa_0-T">G3 2018 Conference&nbsp;</h3>
 <form method="post" action="https://masters.tfaforms.net/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
-<div class="htmlSection" id="tfa_7"><div class="htmlContent" id="tfa_7-HTML">The Master's University will be raffling off books and book bundles each day of G3! Sign up here:</div></div>
+<div class="htmlSection" id="tfa_7"><div class="htmlContent" id="tfa_7-HTML">The Master's University will be raffling off books and book bundles each day of G3! By joining the raffle, you will be contacted by The Master's University to arrange an event either at your home church, or a dedicated event for your home church hosted at TMU. The event purpose is to allow interested families and individuals to learn more about TMU undergraduate, online, graduate and dual enrollment programs and encourage them to apply to the university if it is the right fit. Event formats are fully customizable to mutually meet interested parties needs. Sign up here:</div></div>
 <div class="oneField field-container-D     " id="tfa_1-D">
 <label id="tfa_1-L" for="tfa_1" class="label preField reqMark">First &amp; Last Name</label><br><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" title="First &amp; Last Name" class="required"></div>
 </div>
