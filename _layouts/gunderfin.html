@@ -22,7 +22,7 @@ layout: default
        <li>
          <div class="collapsible-header">New/Transfer Student</div>
          <div class="collapsible-body"><span>{{ page.new-transfer-student-body | markdownify }}</span>
-           <h1>Merit Based scholorships</h1>
+           <h1>Merit Based scholarships</h1>
            <table class="striped">
              <thead>
                <th>Award</th>
@@ -30,7 +30,7 @@ layout: default
                <th>Documents Needed</th>
              </thead>
              <tbody>
-               {% for item in page.scholorships-new-transfer %}
+               {% for item in page.scholarships-new-transfer %}
                <tr>
                  <td>{{item.award-text | markdownify }}</td>
                  <td>{{item.amount}}</td>
@@ -41,7 +41,7 @@ layout: default
              </tbody>
            </table>
            <br>
-           <h1>Need-Based scholorships</h1>
+           <h1>Need-Based scholarships</h1>
            <table class="striped">
              <thead>
                <th>Award</th>
@@ -60,7 +60,7 @@ layout: default
              </tbody>
            </table>
            <br>
-           <h1>Federal Aid scholorships</h1>
+           <h1>Federal Aid scholarships</h1>
            <table class="striped">
              <thead>
                <th>Award</th>
@@ -84,7 +84,7 @@ layout: default
          <div class="collapsible-header">Continuing Students</div>
          <div class="collapsible-body">
              {{ page.continuing-students-body | markdownify }}
-             <h1>Merit Based scholorships</h1>
+             <h1>Merit Based scholarships</h1>
              <table class="striped">
                <thead>
                  <th>Award</th>
@@ -103,7 +103,7 @@ layout: default
                </tbody>
              </table>
              <br>
-             <h1>Need-based scholorships</h1>
+             <h1>Need-based scholarships</h1>
              <table class="striped">
                <thead>
                  <th>Award</th>
@@ -122,7 +122,7 @@ layout: default
                </tbody>
              </table>
              <br>
-             <h1>Federal Aid scholorships</h1>
+             <h1>Federal Aid scholarships</h1>
              <table class="striped">
                <thead>
                  <th>Award</th>
