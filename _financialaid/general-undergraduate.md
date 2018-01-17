@@ -475,7 +475,7 @@ scholorships-new-transfer:
 
     * The Shamrock Foundation Grant was established in honor of Pearl S. and D. Arthur Wismer by their family. In addition to being wonderful parents, Pearl was a devoted elementary school teacher for over 50 years, and Arthur was an exemplary role model in all business matters.
   amount: Varies
-  document-text: Application forthcoming
+  document-text: "[Shamrock Foundation Grant Application](/uploads/Forms-%20Application-%20Shamrock%202018-19-6494a7.pdf)"
 needs-based:
 - award-text: |-
     The Master'sUniversity Grant
@@ -590,7 +590,7 @@ continuing-merit:
     * The Shamrock Foundation Grant is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master's University.\
 
     * The Shamrock Foundation Grant was established in honor of Pearl S. and D. Arthur Wismer by their family. In addition to being wonderful parents, Pearl was a devoted elementary school teacher for over 50 years, and Arthur was an exemplary role model in all business matters.
-  document-text: Application forthcoming
+  document-text: "[Shamrock Foundation Grant Application](/uploads/Forms-%20Application-%20Shamrock%202018-19-6494a7.pdf)"
 continuing-need-based:
 - amount: Varies
   award-text: |-
