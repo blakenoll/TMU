@@ -85,7 +85,7 @@ width: auto !important;
 <div class="codesection" id="code-tfa_0"></div>
 <h3 class="wFormTitle" id="tfa_0-T">G3 2018 Conference </h3>
 <form method="post" action="https://masters.tfaforms.net/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
-<div class="htmlSection" id="tfa_7"><div class="htmlContent" id="tfa_7-HTML">The Master's University will be raffling off books and book bundles each day of G3! Sign up here:</div></div>
+<div class="htmlSection" id="tfa_7"><div class="htmlContent" id="tfa_7-HTML">The Master's University will be raffling off books and book bundles each day of G3! By joining the raffle, you will be contacted by The Master's University to arrange an event either at your home church, or a dedicated event for your home church hosted at TMU. The event purpose is to allow interested families and individuals to learn more about TMU undergraduate, online, graduate and dual enrollment programs and encourage them to apply to the university if it is the right fit. Event formats are fully customizable to mutually meet interested parties needs. Sign up here:</div></div>
 <div class="oneField field-container-D     " id="tfa_1-D">
 <label id="tfa_1-L" for="tfa_1" class="label preField reqMark">First & Last Name</label><br><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" title="First & Last Name" class="required"></div>
 </div>
