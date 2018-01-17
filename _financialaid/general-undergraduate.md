@@ -407,7 +407,7 @@ ministry-matching-body: |-
   For questions please contact the Office of Financial Aid at 800.568.6248 x2290 or financialaid@masters.edu.
 
   Note: Ministry Matching funds can affect eligibility for institutional need-based aid. Contact the Office of Financial Aid to determine if your financial aid will be affected.
-scholorships-new-transfer:
+scholarships-new-transfer:
 - award-text: |-
     President's Scholarship
 
