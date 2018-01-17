@@ -15,8 +15,8 @@ tags:
 date-text: March 22-23, 2018
 image: "/images/ViewWeekend_960x540.jpg"
 banner-image: "/images/ViewWeekend_1920x500.jpg"
-button-txt: 'Registration opening soon '
-button-link: 
+button-txt: Register Now
+button-link: https://masters.tfaforms.net/217732
 preview-text: View Weekend
 parent-schedule-body: |-
   Parent Schedule
@@ -166,6 +166,14 @@ student-schedule-body: |-
   **6:00 PM**
 
   **Student Life Event, TBA**
+Field name: |
+  TMU offers 3 options for family, friends, and guests at preferred negotiated rates:
+
+  * Option 1: **A-la-carte**. Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
+
+  * Option 2: **All-inclusive.** *The best deal!* Preferred TMU rates negotiated with *Hampton Inn Santa Clarita*. A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
+
+  * Option 3: **Premium**. Experience Santa Clarita's finest with a tailored experience in partnership with *Hyatt Regency Valencia*.  A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
 layout: visit-sub-page
 ---
 
@@ -187,17 +195,10 @@ The TMU View the U Weekend Experience is the unforgettable opportunity for prosp
 
 All overnight visitors need to bring a sleeping bag and pillow. Any additional overnight evenings in the dorm will cost $10 per night. TMU does not house chaperones or parents in the dorms.
 
-TMU offers 3 options for family, friends, and guests at preferred negotiated rates:
-
-* Option 1: **A-la-carte**. Please visit our [hotels](http://www.masters.edu/hotels) page to plan overnight housing at a local area hotel.
-
-* Option 2: **All-inclusive.** *The best deal!* Preferred TMU rates negotiated with *Hampton Inn Santa Clarita*. A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
-
-* Option 3: **Premium**. Experience Santa Clarita's finest with a tailored experience in partnership with *Hyatt Regency Valencia*.  A single payment includes hotel accommodations, complete "View the U" package, and everything you need.
+Paid event: $40.00
+Additional guests: $10.00
 
 TMU is able to provide airport transportation for students flying unaccompanied into [Burbank Airport](http://www.burbankairport.com/) (BUR). If you are flying into Los Angeles (LAX), please contact our coordinator for more info.
-
-**Registration with complete details will be opening soon**.
 
 Questions in the meantime?
 

@@ -5,7 +5,7 @@ date-text: 'Schedule a visit any time. '
 image: "/images/PersonalizedTour_960x540.jpg"
 banner-image: "/images/PersonalizedTour_1920x500.jpg"
 button-txt: Schedule
-button-link: http://www.masters.edu/visit/#personal
+button-link: https://masters.tfaforms.net/217730
 preview-text: The things that make The Master’s University so special can’t be experienced
   on your computer. You’ve got to see it for yourself! If you’re curious about the
   University, your next step should be to schedule a tour.
