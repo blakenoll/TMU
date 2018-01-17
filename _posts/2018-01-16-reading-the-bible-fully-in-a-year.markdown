@@ -1,6 +1,7 @@
 ---
 title: Reading the Bible Fully in a Year
 date: 2018-01-16 23:17:00 Z
+published: false
 author: Dr. Abner Chou, John F. MacArthur Endowed Fellow
 ---
 
