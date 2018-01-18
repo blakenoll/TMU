@@ -415,7 +415,7 @@ scholarships-new-transfer:
 
     * Deadline: February 19, 2017
   amount: "$12,000"
-  document-text: "[President's Scholarship Application](/uploads/Forms-%20Application-%20Presidents%2018-19-485555.pdf)"
+  document-text: "[President's Scholarship Application](/uploads/Forms-%20Application-%20Presidents%2018-19-c5b548.pdf)"
 - award-text: "Distinguished Scholar Scholarship \n\n* Awarded to traditional, full-time
     students.\n\n* Renewable with a 2.75 cumulative GPA.\n\n* Click [here](https://588bad54d816e23fc16fc8c7.preview.siteleaf.com/tcc
     \"Total Cost Calculator\") to see our Total Cost Calculator.\n\n* Transfer students
