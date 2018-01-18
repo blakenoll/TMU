@@ -1,10 +1,10 @@
-<div class="navy-section" style="width: 100%">
+<div class="navy-section">
   <div class="slideshow-container">
   {% assign banners = site.landingPageBanners | sort: 'position' 'last' %}
   {% for banner in banners %}
 
     <div class="mySlides fade">
-      <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.description }}" style="width:100%">
+      <img src="{{ banner.image | prepend: site.url }}" alt="{{ banner.title }}" class="banner-img">
       <div class="text">
         <div class="container">
           <span class="left">{{ banner.description}}</span>
@@ -12,15 +12,15 @@
         </div>
       </div>
     </div>
-    
+
   {% endfor %}
   </div>
   <br>
   <br>
   <br>
-  <div style="text-align:center">
+  <div class="center">
     {% for banner in banners %}
-      <span class="dot" onclick="currentSlide({{forloop.index}})"></span>
+      <span class="dot" onclick="currentSlide({{forloop.index}})" onkeypress="currentSlide({{forloop.index}})"></span>
     {% endfor %}
   </div>
 </div>

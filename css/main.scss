@@ -375,6 +375,10 @@ p {
     }
 }
 
+.full-width {
+  width: 100%;
+}
+
 .col-container {
   display: table;
 
@@ -385,6 +389,13 @@ p {
 
 .social-icons {
   padding-top: 30px;
+}
+
+.stats {
+
+  .container {
+    height: 100%;
+  }
 }
 
 .theatre-play {
@@ -519,11 +530,15 @@ p {
 
 .tabs {
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
-  
+
 }
 
 #home-logo {
   width: 290px;
+}
+
+#home-logo-online {
+  width: 200px;
 }
 
 #search {
@@ -549,6 +564,10 @@ footer {
 .top-banner {
   height: 50px;
   background-color: #97999B;
+}
+
+.banner-img {
+  width: 100%;
 }
 
 #upper-nav-text {
@@ -861,6 +880,10 @@ footer {
 
   #home-logo {
     width: 180px;
+  }
+
+  #home-logo-online {
+    width: 115px;
   }
 
   .navbar-brand {
