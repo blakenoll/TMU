@@ -63,7 +63,9 @@ sm-image: "/uploads/AdmissionFinAid_PrintableForms.png"
 
 [Pastor and Missionary Dependent Grant](http://www.masters.edu/media/868500/forms-application-pmd-17-18.pdf "Forms- Application- PMD 17-18.pdf")
 
-[Shamrock Foundation Grant Application](http://www.masters.edu/media/869290/forms-application-shamrock-2017-18.pdf "Forms- Application- Shamrock 2017-18.pdf")
+[President's Scholarship Application](/uploads/Forms-%20Application-%20Presidents%2018-19-28141d.pdf)
+
+[Shamrock Foundation Grant Application](/uploads/Forms-%20Application-%20Shamrock%202018-19-0a742d.pdf)
 
 [Stafford Loan Adjustment Form](http://www.masters.edu/media/868505/forms-application-stafford-loan-adjustment.pdf "Forms- Application- Stafford Loan Adjustment.pdf")
 

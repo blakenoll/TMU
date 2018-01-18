@@ -407,7 +407,7 @@ ministry-matching-body: |-
   For questions please contact the Office of Financial Aid at 800.568.6248 x2290 or financialaid@masters.edu.
 
   Note: Ministry Matching funds can affect eligibility for institutional need-based aid. Contact the Office of Financial Aid to determine if your financial aid will be affected.
-scholorships-new-transfer:
+scholarships-new-transfer:
 - award-text: |-
     President's Scholarship
 
@@ -415,7 +415,7 @@ scholorships-new-transfer:
 
     * Deadline: February 19, 2017
   amount: "$12,000"
-  document-text: "[President's Scholarship Application](/uploads/Forms-%20Application-%20Presidents%2018-19.pdf)"
+  document-text: "[President's Scholarship Application](/uploads/Forms-%20Application-%20Presidents%2018-19-485555.pdf)"
 - award-text: "Distinguished Scholar Scholarship \n\n* Awarded to traditional, full-time
     students.\n\n* Renewable with a 2.75 cumulative GPA.\n\n* Click [here](https://588bad54d816e23fc16fc8c7.preview.siteleaf.com/tcc
     \"Total Cost Calculator\") to see our Total Cost Calculator.\n\n* Transfer students
@@ -475,7 +475,7 @@ scholorships-new-transfer:
 
     * The Shamrock Foundation Grant was established in honor of Pearl S. and D. Arthur Wismer by their family. In addition to being wonderful parents, Pearl was a devoted elementary school teacher for over 50 years, and Arthur was an exemplary role model in all business matters.
   amount: Varies
-  document-text: Application forthcoming
+  document-text: "[Shamrock Foundation Grant Application](/uploads/Forms-%20Application-%20Shamrock%202018-19-6494a7.pdf)"
 needs-based:
 - award-text: |-
     The Master'sUniversity Grant
@@ -590,7 +590,7 @@ continuing-merit:
     * The Shamrock Foundation Grant is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master's University.\
 
     * The Shamrock Foundation Grant was established in honor of Pearl S. and D. Arthur Wismer by their family. In addition to being wonderful parents, Pearl was a devoted elementary school teacher for over 50 years, and Arthur was an exemplary role model in all business matters.
-  document-text: Application forthcoming
+  document-text: "[Shamrock Foundation Grant Application](/uploads/Forms-%20Application-%20Shamrock%202018-19-6494a7.pdf)"
 continuing-need-based:
 - amount: Varies
   award-text: |-
