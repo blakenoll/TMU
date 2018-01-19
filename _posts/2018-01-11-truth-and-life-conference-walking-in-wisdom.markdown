@@ -1,6 +1,8 @@
 ---
 title: 'Truth & Life Conference: Walking in Wisdom'
 date: 2018-01-11 16:25:00 Z
+tags:
+- online
 author: Sabrina Michael
 catergory: Life At TMU
 image: "/uploads/TL2018_GeneralGraphic.jpg"

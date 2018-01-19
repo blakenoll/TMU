@@ -1,6 +1,8 @@
 ---
 title: The North Korean Crisis
 date: 2017-11-09 15:35:00 Z
+tags:
+- online
 author: Allison Pari, Contributing Writer
 sm-image: "/uploads/Unknown-1.png"
 ---

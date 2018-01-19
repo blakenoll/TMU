@@ -1,6 +1,8 @@
 ---
 title: The Habits of Time Management
 date: 2017-10-24 15:14:00 Z
+tags:
+- online
 sm-image: "/uploads/TimeManagement.jpg"
 ---
 
