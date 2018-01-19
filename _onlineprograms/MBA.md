@@ -123,7 +123,7 @@ prereqs-bible:
   body: 
 - title: B346 Life of Christ
   body: 
-prereqs-business:
+prereqs:
 - title: ECN200 Macroeconomics
   body: 
 - title: ECN210 Microeconomics
