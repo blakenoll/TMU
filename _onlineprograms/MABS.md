@@ -166,6 +166,14 @@ prereqs-business:
   body: 
 - title: BTH322 Christian Theology 2
   body: 
+prereq-text: A student must demonstrate they have completed 18 Units of Bible and
+  Theology course at the undergraduate level. If they are unable to or fall short
+  in meeting that requirement, they may meet the requirement by taking the courses
+  listed below or by taking a three-part comprehensive entrance exam.
+prereq-bottom-text: |-
+  A student may also choose to test out of the 18 units by taking our comprehensive three-part entrance examination in the Old Testament, New Testament, and Christian Theology. This will certify a level of theological knowledge necessary for graduate study. The student must get a grade of 70 or higher in each section to pass that section. A student may pass just 1 section and be exempt from that course work requirement.
+
+  Here is the study guide for the entrance exam. ([http://www.masters.edu/media/868647/study-guide-for-mabs-exam.pdf](http://www.masters.edu/media/868647/study-guide-for-mabs-exam.pdf))
 ---
 
 The Master’s University Master of Arts in Biblical Studies (MABS) is a fully online graduate degree with no on-campus requirements. This program provides a systematic graduate-level study of the various sections of the Old and New Testaments. It also includes an examination of the major categories of Christian Theology, with particular focus on their application to current societal issues. Through six units of independent study coursework, the student is able to develop a more advanced understanding of the biblical foundation and methods of selected aspects of church ministry that are particularly relevant to their life situation.
