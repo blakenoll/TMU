@@ -154,7 +154,7 @@ courses:
 weeks-per-class: 8
 number-of-classes: 17
 number-of-units: 34
-prereqs-business:
+prereqs:
 - title: B101 Old Testament Survey 1
   body:
 - title: B102 Old Testament Survey 2
