@@ -130,6 +130,8 @@ prereqs:
   body: 
 - title: MGT422 Business Strategy
   body: 
+prereq-text: 'The following courses are available and required if you did not complete
+  these courses in your undergraduate program:'
 weeks-per-class: 8
 number-of-classes: 12
 number-of-units: 36
