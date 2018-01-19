@@ -1,6 +1,7 @@
 ---
 title: 'Know the Board: John Van Wingerdan'
 date: 2018-01-19 17:37:00 Z
+author: Karin Sicoli, Class of '98
 image: "/uploads/KnowTheBoard_VanWingerden.jpg"
 sm-image: "/uploads/KnowTheBoard_VanWingerden.jpg"
 ---
