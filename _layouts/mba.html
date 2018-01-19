@@ -82,7 +82,8 @@ layout: online
 
           </div>
           <div id="test5">
-            <p>Any of the following courses will meet the one Bible course you are required to take any time prior to your final MBA course:</p>
+            {% if page.prereqs-bible %}
+            <p>Any of the following courses will meet the one Bible course you are required to take any time prior to your final course:</p>
             <table class="bordered highlight">
               <thead>
                 <th>Course Title</th>
@@ -104,8 +105,10 @@ layout: online
               </div>
               {% endtablerow %}
             </table>
+            {% endif %}
             <br>
             {% if page.prereqs-business %}
+            {{ page.prereq-text | markdownify }}
             <p>The following courses are available and required if you did not complete these courses in your undergraduate program:</p>
             <br>
             <table class="bordered highlight">
@@ -129,6 +132,7 @@ layout: online
               </div>
               {% endtablerow %}
             </table>
+            {{ page.prereq-bottom-text | markdownify }}
             {% endif %}
 
           </div>
@@ -151,8 +155,3 @@ layout: online
 
   </div>
 </div>
-<script type="text/javascript">
-$(document).ready(function(){
-$('.parallax').parallax();
-});
-</script>
