@@ -156,17 +156,17 @@ number-of-classes: 17
 number-of-units: 34
 prereqs:
 - title: B101 Old Testament Survey 1
-  body:
+  body: 
 - title: B102 Old Testament Survey 2
-  body:
+  body: 
 - title: B201 New Testament Survey 1
-  body:
+  body: 
 - title: B202 New Testament Survey 2
-  body:
+  body: 
 - title: BTH321 Christian Theology 1
-  body:
+  body: 
 - title: BTH322 Christian Theology 2
-  body:
+  body: 
 prereq-text: A student must demonstrate they have completed 18 Units of Bible and
   Theology course at the undergraduate level. If they are unable to or fall short
   in meeting that requirement, they may meet the requirement by taking the courses

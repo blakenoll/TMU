@@ -29,6 +29,8 @@ program-outline-text: "## Admissions Requirements\n\n1\\. Faith in Jesus Christ 
   Degree Requirements Summary\n\n[Click here](http://www.masters.edu/media/868244/mba-olp-online-tmu.pdf
   \"MBA- OLP Online-TMU.pdf\")[ ](http://www.masters.edu/media/793588/organizational%20management%20-%20dcp%20online%20(2).pdf)to
   print a summary of the degree requirements for the Master of Business Administration\n\n## "
+prereq-text: 'The following courses are available and required if you did not complete
+  these courses in your undergraduate program:'
 courses:
 - units: 3
   name: 'Enterprise and Public Policy '
@@ -130,8 +132,6 @@ prereqs:
   body: 
 - title: MGT422 Business Strategy
   body: 
-prereq-text: 'The following courses are available and required if you did not complete
-  these courses in your undergraduate program:'
 weeks-per-class: 8
 number-of-classes: 12
 number-of-units: 36

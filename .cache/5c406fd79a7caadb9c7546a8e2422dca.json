@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"./init.js","loc":{"line":1,"column":7}},{"name":"./materialize.min.js","loc":{"line":2,"column":7}}],"generated":{"js":"\"use strict\";require(\"./init.js\"),require(\"./materialize.min.js\");"},"hash":"97e60d0da77f8224b005c447fbb3763f"}
