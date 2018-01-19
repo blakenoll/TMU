@@ -82,6 +82,7 @@ layout: online
 
           </div>
           <div id="test5">
+            <!--  Bible pre reqs -->
             {% if page.prereqs-bible %}
             <p>Any of the following courses will meet the one Bible course you are required to take any time prior to your final course:</p>
             <table class="bordered highlight">
@@ -106,35 +107,36 @@ layout: online
               {% endtablerow %}
             </table>
             {% endif %}
+            <!-- end bible pre reqs -->
             <br>
-            {% if page.prereqs-business %}
-            {{ page.prereq-text | markdownify }}
-            <p>The following courses are available and required if you did not complete these courses in your undergraduate program:</p>
-            <br>
-            <table class="bordered highlight">
-              <thead>
-                <th>Course Title</th>
-                <th>Units</th>
-              </thead>
-              {% assign prebus = page.prereqs-business %}
-              {% tablerow course in prebus cols:1 %}
-              <a href="#!{{course.number}}">
-              {{ course.title }}<td>{{ course.units }}</td>
-              </a>
-              <div id="{{course.number}}" class="modal">
-                <div class="modal-content">
-                  <h4>{{course.title}}</h4>
-                  <p>{{course.body}}</p>
+            <!-- pre reqs -->
+            {% if page.prereqs %}
+              {{ page.prereq-text | markdownify }}
+              <br>
+              <table class="bordered highlight">
+                <thead>
+                  <th>Course Title</th>
+                  <th>Units</th>
+                </thead>
+                {% assign prebus = page.prereqs %}
+                {% tablerow course in prebus cols:1 %}
+                <a href="#!{{course.number}}">
+                {{ course.title }}<td>{{ course.units }}</td>
+                </a>
+                <div id="{{course.number}}" class="modal">
+                  <div class="modal-content">
+                    <h4>{{course.title}}</h4>
+                    <p>{{course.body}}</p>
+                  </div>
+                  <div class="modal-footer">
+                    <a href="#!" class="modal-action modal-close waves-effect btn-flat">close</a>
+                  </div>
                 </div>
-                <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect btn-flat">close</a>
-                </div>
-              </div>
-              {% endtablerow %}
-            </table>
-            {{ page.prereq-bottom-text | markdownify }}
+                {% endtablerow %}
+              </table>
+              {{ page.prereq-bottom-text | markdownify }}
             {% endif %}
-
+            <!-- end prereqs -->
           </div>
           <div id="test7">
             {{ page.program-outline-text | markdownify }}
