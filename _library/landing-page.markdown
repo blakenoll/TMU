@@ -39,6 +39,4 @@ layout: library
 
 Welcome Back TMU Students and Faculty!
 
-The Library staff eagerly awaits the opportunity to serve you.
-
-We will resume Regular Semester Hours on Tuesday, January 16th, 2018. 
+Congratulations to Mr. Stone for his appointment as Library Director over both TMU and TMS libraries!

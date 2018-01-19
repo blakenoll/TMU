@@ -36,7 +36,7 @@ staff:
     \
     "To the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen." Jude 25
 - name: James Phillipps
-  image: 
+  image: "/uploads/Phillips,%20James%20.jpg"
   bio-body: |-
     James has been involved with Theater Arts since his freshman year in 2007. As a student at Master's, he participated in every show the revived department put on, beginning with the role of Merriman in "The Importance of Being Earnest" in 2007 and culminating with the lead role of Nick Cristano in "Over the River and Through the Woods" in 2011. During his time as a college student, James saw the Lord use theater in an incredible way to shape him as a Christian. He is grateful to be able to give back to the current students some of what he learned through TMU Theater. James currently serves as the Student Accounts Manager for the University and Seminary. He constantly tells people he has the privilege of working his dream job, and he hopes to continue serving in both Accounting and Theater for as long as the Lord lets him.
 
