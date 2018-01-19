@@ -39,4 +39,4 @@ layout: library
 
 Welcome Back TMU Students and Faculty!
 
-The Library staff eagerly awaits the opportunity to serve you.
+Congratulations to Mr. Stone for his appointment as Library Director over both TMU and TMS libraries!
