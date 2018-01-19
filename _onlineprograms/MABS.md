@@ -154,7 +154,17 @@ weeks-per-class: 8
 number-of-classes: 17
 number-of-units: 34
 prereqs-business:
-- title: 
+- title: B101 Old Testament Survey 1
+  body: 
+- title: B102 Old Testament Survey 2
+  body: 
+- title: B201 New Testament Survey 1
+  body: 
+- title: B202 New Testament Survey 2
+  body: 
+- title: BTH321 Christian Theology 1
+  body: 
+- title: BTH322 Christian Theology 2
   body: 
 ---
 
