@@ -1,1 +1,0 @@
-{"dependencies":[],"generated":{"js":"(function($){\n  $(function(){\n\n    $('.button-collapse').sideNav();\n    $('.parallax').parallax();\n    $('select').material_select();\n\n  }); // end of document ready\n})(jQuery); // end of jQuery name space\n"},"hash":"44927864b7ad4a6595083b1cbf868d15"}
