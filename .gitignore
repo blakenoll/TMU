@@ -3,3 +3,5 @@
 .jekyll-metadata
 .DS_Store
 _site
+/node_modules
+yarn.lock
