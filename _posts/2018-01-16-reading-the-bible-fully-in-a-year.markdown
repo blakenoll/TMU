@@ -5,6 +5,8 @@ published: false
 tags:
 - online
 author: Dr. Abner Chou, John F. MacArthur Endowed Fellow
+image: "/uploads/READBIBLE.jpg"
+sm-image: "/uploads/READBIBLE.jpg"
 ---
 
 # Getting Theology from the Text
