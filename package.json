@@ -5,10 +5,12 @@
   "repository": "https://github.com/blakenoll/TMU.git",
   "license": "MIT",
   "scripts": {
-    "build": "parcel build js/index.js -d js/build"
+    "build": "webpack"
   },
   "dependencies": {
     "jquery": "^3.2.1",
-    "materialize-css": "^0.100.2"
+    "materialize-css": "^0.100.2",
+    "webkul-micron": "^1.0.4",
+    "webpack": "^3.10.0"
   }
 }

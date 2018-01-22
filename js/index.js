@@ -1,3 +1,5 @@
-import $ from 'jquery'
-import './init.js'
-import './materialize.js'
+import $ from "jquery";
+import './materialize.js';
+import './init.js';
+
+// import micron from 'webkul-micron';
