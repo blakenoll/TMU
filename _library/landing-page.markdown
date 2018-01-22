@@ -16,16 +16,22 @@ hours:
 links:
 - link: http://masters.libguides.com/
   txt: Research Guides
+  image: "/images/Library_ResearchGuides.png"
 - link: http://masters.libguides.com/welcome/libraryservices
   txt: Services
+  image: "/images/Library_SelfService.png"
 - link: http://masters.libguides.com/az.php
   txt: Find Databases
+  image: "/images/Library_Databases.png"
 - link: http://id.loc.gov/authorities/subjects.html
   txt: Search LC Subject Headings
+  image: "/images/Library_LCSH.png"
 - link: https://masters.on.worldcat.org/atoztitles/#journal
   txt: Find Journals
+  image: "/images/Library_FindJournals.png"
 - link: http://masters.libguides.com/welcome
   txt: About
+  image: "/images/Library_About.png"
 NEWS: |-
   Winterim Library Hours
   January 8th - 11th = 12:00 p.m. - 6:00 p.m.
