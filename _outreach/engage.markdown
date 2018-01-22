@@ -1,7 +1,7 @@
 ---
 title: Engage
 date: 2017-12-15 19:30:00 Z
-icon-image: "/uploads/engage-logo-2.png"
+icon-image: "/images/Outreach_Engage.png"
 layout: page
 ---
 
