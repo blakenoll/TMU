@@ -1,10 +1,11 @@
 ---
 title: Reading the Bible Fully in a Year
-date: 2018-01-16 23:17:00 Z
-published: false
+date: 2018-01-22 10:00:00 Z
 tags:
 - online
 author: Dr. Abner Chou, John F. MacArthur Endowed Fellow
+image: "/uploads/READBIBLE.jpg"
+sm-image: "/uploads/READBIBLE.jpg"
 ---
 
 # Getting Theology from the Text
