@@ -19,13 +19,13 @@ links:
   image: "/images/Library_ResearchGuides.png"
 - link: http://masters.libguides.com/welcome/libraryservices
   txt: Services
-  image: "/images/Library_SelfService.png"
+  image: "/images/Library_LCSH.png"
 - link: http://masters.libguides.com/az.php
   txt: Find Databases
   image: "/images/Library_Databases.png"
 - link: http://id.loc.gov/authorities/subjects.html
   txt: Search LC Subject Headings
-  image: "/images/Library_LCSH.png"
+  image: "/images/Library_SelfService.png "
 - link: https://masters.on.worldcat.org/atoztitles/#journal
   txt: Find Journals
   image: "/images/Library_FindJournals.png"
