@@ -1,5 +1,5 @@
 ---
-title: Donna Morely
+title: Donna Morley
 date: 2017-05-02 17:56:00 Z
 job-title: 'Adjunct Faculty '
 department: Communication
