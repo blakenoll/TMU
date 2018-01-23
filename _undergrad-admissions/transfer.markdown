@@ -4,7 +4,13 @@ date: 2017-11-14 16:49:00 Z
 layout: page
 ---
 
-# Create your Master's U Account
+# I. Read the Doctrinal Statement and Student Handbook
+
+* Find the TMU Doctrinal Statement [here](http://www.masters.edu/about)
+
+* Find the TMU Student Handbook [here](http://www.masters.edu/handbook)
+
+# II. Create your Master's U Account
 
 In order to apply online, you’ll create an account first. This will allow you to save and return to your application.
 
@@ -12,36 +18,32 @@ In order to apply online, you’ll create an account first. This will allow you 
 
 Next, you'll fill out the various sections of the online application. Once an application is submitted, the applicant cannot go back and change the application.
 
-# Personal Statements
+# III. Personal Statement & Recommendations
 
-The Master’s University requires two personal statements as part of the application (approx. 300-500 words each), so plan accordingly.
+The Master’s University requires two personal statements as part of the application (approx. 300-500 words each), and one Pastor's recommendation form. The later must be completed by non-relative within applicant’s church. Form can be filled out by Head Pastor, Associate Pastor, Youth Pastor, or Elder. Form can be sent directly to pastor from application by inputting the pastor’s email address when requested, otherwise it is the applicants responsibility to email their pastor the link to the form.
 
-# Pay Application Fee
+# IV. Pay Application Fee
 
 Fee is refundable by May 1st for Fall 2018 applicants
 
-# Pastor Recommendation Form
-
-Must be completed by non-relative within applicant’s church. Form can be filled out by Head Pastor, Associate Pastor, Youth Pastor, or Elder. Form can be sent directly to pastor from application by inputting the pastor’s email address when requested, otherwise it is the applicants responsibility to email their pastor the link to the form.
-
 # 
-Official Transcripts
+V. Official Transcripts
 
-Applicant must request transcripts from current or most recent school.
+Request to send TMU transcripts from your current or most recent school.
 
-Transcripts may be emailed to [admissions@masters.edu ](admissions@masters.edu)
+* Transcripts may be emailed to [admissions@masters.edu ](admissions@masters.edu)
 
-Uploaded to our **[secure portal](https://tmu.sharefile.com/share/getinfo/rfcda47ba6074810a)**
+* Uploaded to our **[secure portal](https://tmu.sharefile.com/share/getinfo/rfcda47ba6074810a)**
 
-Or mailed directly to the Office of Admissions at 
+* Or mailed directly to the Office of Admissions at 
 
-*Office of Admissions*
+> *Office of Admissions*
+>
+> *21726 Placerita Canyon Rd.*
+>
+> *Newhall, CA 91321*
 
-*21726 Placerita Canyon Rd.*
-
-*Newhall, CA 91321*
-
-# ACT or SAT scores 
+# VI. ACT or SAT scores 
 
 \(waived for transfer applicants)
 
@@ -51,14 +53,18 @@ Or mailed directly to the Office of Admissions at
 
 College Board Code for The Master’s University: 4411
 
-# Read the Doctrinal Statement and Student Handbook
-
-* Find the TMU Doctrinal Statement [here](http://www.masters.edu/about)
-
-* Find the TMU Student Handbook [here](http://www.masters.edu/handbook)
-
 # Freshman/Transfer Qualification
 
 **Freshman**: Students entering TMU the Fall directly after graduating in the Spring are considered freshman. Students entering TMU with less than 24 college level units completed are also considered freshman, with freshman scholarships available.
 
 **Transfer**: Any student who has been out of high school for at least one semester, and has completed a minimum of 24 college level units, is considered a transfer. If a student has 24 college level units, and is entering TMU the Fall directly after graduating in the Spring they will not be considered a Transfer.
+
+# Questions?
+
+**Call** 661.362.2363
+\
+
+**Text** 661.748.0266
+\
+
+**Write** admissions@masters.edu
