@@ -1,0 +1,11 @@
+---
+title: Tavi Jinariu
+date: 2018-01-23 19:37:00 Z
+position: Adjunct Faculty, Guitar
+---
+
+During the past 10 years, Tavi Jinariu has distinguished himself as one of the preeminent classical guitarists in the Los Angeles area. His artistry is defined by deep emotional expression, focused attention to technical accuracy and details, as well as a certain performance pathos that never fails to captivate audiences.
+
+Tavi hails from the beautiful Carpathian Mountains of Transylvania, Romania. His musical explorations began at age thirteen when he began a course in basic guitar foundations. At the age of sixteen, Tavi was exposed for the first time to the sound of the classical guitar, after which he fell in love with the lyrical and melancholic sound of the instrument. Within three short years of studying the classical guitar, Tavi drew attention, being invited to tour America in the fall of 1998. During this tour Tavi played some sixty concerts in twenty-seven states. In the fall of 1999 Tavi was awarded a generous scholarship that made it possible for him to receive the personalized instruction of the world's preeminent classical guitarist, Christopher Parkening. During his years in college Tavi began a fruitful collaboration with luthier Thomas Malapanis and has since performed exclusively on Malapanis Guitars. Tavi won 1st prize in The ASTA Classical Guitar Competition for the greater Los Angeles Area (2001 and 2002) and the ASTA Artist Guitar Competition for the State of California (2003). Tavi's guitar performances have taken him to numerous European countries (Romania, Hungary, Germany, The Netherlands), to Israel, and through most of the United States. He has been featured as a solo artist with various orchestras (New West Symphony, Calabasas Chamber Orchestra, The Master's College Orchestra) and participated in numerous recording projects and radio appearances.
+
+Currently Tavi teaches guitar at the Master's University in Santa Clarita CA and maintains a busy performance and teaching schedule while pursuing his Ph.D. degree in Classical Philology. Tavi and his wife Melissa reside in Southern California and enjoy living their busy but exciting lives together. They both share a deep commitment to their faith in Jesus Christ.
