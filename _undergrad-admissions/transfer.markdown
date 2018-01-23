@@ -6,15 +6,19 @@ layout: page
 
 # I. Read the Doctrinal Statement and Student Handbook
 
-* Find the TMU Doctrinal Statement [here](http://www.masters.edu/about)
+The Master’s University is a remarkable place. It is a place that celebrates the Lordship of Christ and the
+\
+sufficiency of His Word to address every academic discipline and detail of life. The mission of The Master’s University is to empower students for a life of enduring commitment to Christ, biblical fidelity, moral integrity, intellectual growth and lasting contribution to the Kingdom of God worldwide. Before continuing, we encourage you to read and pray through our doctrinal statement and student handbook:
 
-* Find the TMU Student Handbook [here](http://www.masters.edu/handbook)
+1. ### Read the TMU Doctrinal Statement **[here](http://www.masters.edu/about)**
+
+2. ### Read the TMU Student Handbook **[here](http://www.masters.edu/handbook)**
 
 # II. Create your Master's U Account
 
 In order to apply online, you’ll create an account first. This will allow you to save and return to your application.
 
-[Create your TMU account ](https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB)
+## [Create your TMU account ](https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB)
 
 Next, you'll fill out the various sections of the online application. Once an application is submitted, the applicant cannot go back and change the application.
 
@@ -26,8 +30,7 @@ The Master’s University requires two personal statements as part of the applic
 
 Fee is refundable by May 1st for Fall 2018 applicants
 
-# 
-V. Official Transcripts
+# V. Official Transcripts
 
 Request to send TMU transcripts from your current or most recent school.
 
@@ -35,7 +38,7 @@ Request to send TMU transcripts from your current or most recent school.
 
 * Uploaded to our **[secure portal](https://tmu.sharefile.com/share/getinfo/rfcda47ba6074810a)**
 
-* Or mailed directly to the Office of Admissions at 
+* Or mailed directly to the Office of Admissions at
 
 > *Office of Admissions*
 >
@@ -43,15 +46,15 @@ Request to send TMU transcripts from your current or most recent school.
 >
 > *Newhall, CA 91321*
 
-# VI. ACT or SAT scores 
+# VI. ACT or SAT scores
 
 \(waived for transfer applicants)
 
-* To send your ACT scores click [here](http://www.act.org/content/act/en/products-and-services/the-act/your-scores/send-your-scores.html)
+* Send ACT scores  **[here](http://www.act.org/content/act/en/products-and-services/the-act/your-scores/send-your-scores.html)**
 
-* To send your SAT scores click [here](https://account.collegeboard.org/login/login?idp=ECL&appId=115&DURL=https%3A//nsat.collegeboard.org/satweb/login.jsp&affiliateId=aru%7Canypage&bannerId=ht%7Cnsat-send)
+* Send SAT scores  **[here](https://account.collegeboard.org/login/login?idp=ECL&appId=115&DURL=https%3A//nsat.collegeboard.org/satweb/login.jsp&affiliateId=aru%7Canypage&bannerId=ht%7Cnsat-send)**
 
-College Board Code for The Master’s University: 4411
+College Board Code for The Master’s University: **4411**
 
 # Freshman/Transfer Qualification
 
@@ -62,9 +65,7 @@ College Board Code for The Master’s University: 4411
 # Questions?
 
 **Call** 661.362.2363
-\
 
 **Text** 661.748.0266
-\
 
 **Write** admissions@masters.edu
