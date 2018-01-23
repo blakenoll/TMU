@@ -10,7 +10,7 @@ Now that you have been accepted, there are a few things we need you to do to sec
 
 ## Step 1:
 
-Accept Your Offer: Let us know if you plan on attending next semester by clicking [here](https://www.formstack.com/forms/masters-new_student_deposit_payment)! This is a $200 deposit refundable through May 1st 2017 that reserves a seat for you in the next incoming class.
+Accept Your Offer: Let us know if you plan on attending next semester by clicking [here](https://www.formstack.com/forms/masters-new_student_deposit_payment)! This is a $200 deposit refundable through May 1st 2018 that reserves a seat for you in the next incoming class.
 
 ## Step 2:
 
