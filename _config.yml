@@ -71,6 +71,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  adjunct-faculty:
+    title: adjunct-faculty
+    output: true
   library:
     title: library
     output: true
