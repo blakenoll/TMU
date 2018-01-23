@@ -41,16 +41,31 @@ input::-moz-placeholder { /* Firefox 19+ */
 
   <div class="row spacing">
     <div class="col s12 m7 push-m5 icon-links" >
-      {% for item in page.links %}
-      <div class="col s6">
-        <a href="{{ item.link }}">
-          <div class="valign-wrapper card hoverable full-width">
-            <img src="{{ item.image | prepend: site.url }}" alt="">
-            <span>{{ item.txt }}</span>
-          </div>
-        </a>
+      <div class="col m12 l6">
+        {% for item in page.links limit: 3 %}
+
+          <a href="{{ item.link }}">
+            <div class="valign-wrapper card hoverable full-width">
+              <img src="{{ item.image | prepend: site.url }}" alt="">
+              <span>{{ item.txt }}</span>
+            </div>
+          </a>
+
+        {% endfor %}
       </div>
-      {% endfor %}
+      <div class="col m12 l6">
+        {% for item in page.links offset: 3 %}
+
+          <a href="{{ item.link }}">
+            <div class="valign-wrapper card hoverable full-width">
+              <img src="{{ item.image | prepend: site.url }}" alt="">
+              <span>{{ item.txt }}</span>
+            </div>
+          </a>
+
+        {% endfor %}
+      </div>
+
         <!-- {% for item in site.library %}
         {% unless item.title == 'library' %}
         <div class="col s6">
