@@ -1,5 +1,18 @@
 ---
 title: General Undergraduate
+categories:
+- scholarships
+- grants
+- tuition
+- fees
+tags:
+- scholarships
+- financial aid
+- fafsa
+- grants
+- tuition
+- assistance
+- fees
 sm-image: "/uploads/AdmissionFinAid_GeneralUndergrad.png"
 new-transfer-student-body: |-
   # Scholarships - New/Transfer Students
@@ -413,7 +426,7 @@ scholarships-new-transfer:
 
     * Competitive scholarship awarded to full-time incoming freshmen. Applicants must have a high school GPA of 4.00 and a SAT I score (Critical Reading and Math sub-tests only) of 1400 or ACT score of 32. Renewable with a college GPA of 3.5.
 
-    * Deadline: February 19, 2017
+    * Deadline: February 19, 2018
   amount: "$12,000"
   document-text: "[President's Scholarship Application](/uploads/Forms-%20Application-%20Presidents%2018-19-c5b548.pdf)"
 - award-text: "Distinguished Scholar Scholarship \n\n* Awarded to traditional, full-time
