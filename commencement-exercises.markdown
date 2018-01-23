@@ -21,8 +21,9 @@ For the website of our contracted graduation announcements & rings vendor - [Cli
 
 [Driving Directions to 26455 Rockwell Canyon Rd Valencia, CA 91355-1803](https://maps.google.com/maps?daddr=26455\+Rockwell\+Canyon\+Rd\+Valencia,\+CA\+91355-1803&hl=en&sll=34.408855,-118.494632&sspn=0.151256,0.264702&t=h&mra=ls&z=12)
 
-**Commencement exercises will be held in the athletic stadium. Use parking Lots 7 & 8.\
-Campus Map\
+**Commencement exercises will be held in the athletic stadium. Use parking Lots 7 & 8
+
+Campus Map
 **
 
 <img alt="" src="http://www2.masters.edu/images/twallis/cocmap.jpg" />
