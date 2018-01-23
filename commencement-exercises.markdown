@@ -16,3 +16,5 @@ For a list of hotels and motels in the area - [Click here](https://www.masters.e
 For the website of our contracted graduation photographer, Ultimate Exposures, Inc - [Click here](http://www.ultimateexposures.com/).
 
 Our contracted graduation photographer will be doing optional portrait sittings (not included in graduation fee) in April at **The Master's University, Penberthy Dining Hall**. [Click here](https://www.masters.edu/uploads/2018gradportraits.pdf) for more information.
+
+For the website of our contracted graduation announcements & rings vendor - [Click here](http://www.cbgrad.com/school/TMU).
