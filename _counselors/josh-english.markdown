@@ -4,6 +4,7 @@ date: 2017-11-06 22:35:00 Z
 name: Josh English
 email: jenglish@masters.edu
 phone: 1 (661) 362 2249
+video: "/images/IMG_1046.JPG"
 image: "/images/IMG_1046.JPG"
 Field name: |-
   <iframe src="https://www.masters.edu/images/IMG_1046.JPG" width="640" height="360"
