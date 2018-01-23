@@ -207,3 +207,5 @@ Questions in the meantime?
 * **text**  661.748.0266
 
 * **write**  admissions@masters.edu
+
+<a class="btn btn-navy"href="/uploads/View%20SP18%20Sample%20Schedule%20Real.pdf">Schedule</a> 
