@@ -47,4 +47,4 @@ Welcome Back TMU Students and Faculty!
 
 Congratulations to Mr. Stone for his appointment as Library Director over both TMU and TMS libraries!
 
-![Suitte Royale Square-969c84.jpg width="360" height="360"](/uploads/Suitte%20Royale%20Square-969c84.jpg)
+![Suitte Royale Square-969c84.jpg](/uploads/Suitte%20Royale%20Square-969c84.jpg)
