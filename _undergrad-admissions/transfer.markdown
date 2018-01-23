@@ -10,9 +10,9 @@ The Master’s University is a remarkable place. It is a place that celebrates t
 \
 sufficiency of His Word to address every academic discipline and detail of life. The mission of The Master’s University is to empower students for a life of enduring commitment to Christ, biblical fidelity, moral integrity, intellectual growth and lasting contribution to the Kingdom of God worldwide. Before continuing, we encourage you to read and pray through our doctrinal statement and student handbook:
 
-1. ### Read the TMU Doctrinal Statement **[here](http://www.masters.edu/about)**
+### Read the TMU Doctrinal Statement **[here](http://www.masters.edu/about)**
 
-2. ### Read the TMU Student Handbook **[here](http://www.masters.edu/handbook)**
+### Read the TMU Student Handbook **[here](http://www.masters.edu/handbook)**
 
 # II. Create your Master's U Account
 
