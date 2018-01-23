@@ -35,9 +35,8 @@ counselor-text: |-
   Our admissions counselors are amazing!
   You want a life-changing TMU education, so we make sure your counselor will guide you along through every step  of the way to get there. Your counselor is knowledgeable in all areas of the university, so can provide you with fast, insightful, practical help. Select your state to see who your counselor is - and you can even watch their intro video to learn more about them.
 app-deadlines:
-- text: 'Extended Early Application: Celebrating the NEW tuition structure, we extend
-    the application fee waiver and provide you and early admissions decision.'
-  red-text: DEC 15, 2017
+- text: Scholarship application deadline
+  red-text: FEB 19, 2018
 - text: 'PRIORITY DECISION: Receive full consideration for the Fall 2018 semester'
   red-text: FEB 23, 2018
 - text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
