@@ -23,7 +23,7 @@ parent-schedule-body: |-
 
   **EARLY ARRIVAL OPTION 5:00 PM**
 
-  \*\*Mustang Women’s Basketball vs. CBU \*\**(Bross Court, #24)*
+  **Mustang Women’s Basketball vs. CBU ** *(Bross Court, #24)*
 
   **6:00 PM**
 
@@ -35,7 +35,7 @@ parent-schedule-body: |-
 
   **8:00 PM**
 
-  \*\*Men’s Basketball Game vs. Bethesda \*\**(Bross Court, #24)*
+  **Men’s Basketball Game vs. Bethesda ** *(Bross Court, #24)*
 
   **Friday, March 23rd:**
 
@@ -45,7 +45,7 @@ parent-schedule-body: |-
 
   **9:10 AM**
 
-  \*\*Chapel \*\*(*MacArthur Center, #24*)
+  **Chapel** (*MacArthur Center, #24*)
 
   **10:40 AM**
 
@@ -67,16 +67,16 @@ parent-schedule-body: |-
 
   **12:45-2:00 PM**
 
-  \*\*Parent Luncheon with Student Life Staff \*\**(EHC 100, #35)*
+  **Parent Luncheon with Student Life Staff ** *(EHC 100, #35)*
 
   **2:10 PM**
 
   **Admissions & Financial Aid Seminar** (*Biblical Studies Center 200, #32*)
 
-  **3:15-4:30 PM\
+  **3:15-4:30 PM
   3:15-3:35 PM**
 
-  \*\*Meet the Majors Department Fair \*\**(EHC 100, #35)*
+  **Meet the Majors Department Fair ** *(EHC 100, #35)*
 
   **Meet the Majors Focus Session** (Selected Departments)\
   *Enclosed schedule has location of department sessions*
