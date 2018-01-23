@@ -123,4 +123,7 @@ counselor-name: Josh English
 layout: intladmission
 ---
 
-![WEB_TMU.jpg](/uploads/WEB_TMU.jpg)
+# **International Student admissions**
+
+
+This is the walk through the 4 steps to admissions, your admissions counselor who can help you with any questions, application deadlines, and other helpful links. We look forward to welcoming you to TMU!
