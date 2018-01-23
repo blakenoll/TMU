@@ -53,6 +53,7 @@ app-deadlines:
 layout: freshadmissions
 ---
 
+
 Application Checklist
 
 1. Complete Application
