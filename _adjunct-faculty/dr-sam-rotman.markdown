@@ -1,7 +1,7 @@
 ---
 title: Dr. Sam Rotman
 date: 2018-01-23 18:36:00 Z
-position: Guest Faculty, PIano
+job-title: Guest Faculty, PIano
 ---
 
 When Sam Rotman made his debut at the age of 16 with the San Antonio Symphony Orchestra before an audience of 6,000 people, the Baldwin Keynote Magazine wrote, "Sam Rotman is a pianist with abundant potential."
