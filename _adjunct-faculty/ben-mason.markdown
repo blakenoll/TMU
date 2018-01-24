@@ -1,7 +1,8 @@
 ---
 title: Ben Mason
 date: 2018-01-23 19:36:00 Z
-position: Adjunct Faculty, Composition Coordinator, Theory & Organ
+department: Music
+job-title: Adjunct Faculty, Composition Coordinator, Theory & Organ
 ---
 
 Ben Mason is an active pianist, organist, arranger, and composer in Los Angeles. He composes music for church settings, television, and film. In addition to teaching at the Master’s University, Ben also teaches at Point Loma Nazarene University. He accompanies the Towne Singers in Pasadena and performs at various gigs around Los Angeles.

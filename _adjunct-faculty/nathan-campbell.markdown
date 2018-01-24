@@ -1,7 +1,8 @@
 ---
 title: Nathan Campbell
 date: 2018-01-23 19:19:00 Z
-position: Adjunct Faculty, French Horn
+department: Music
+job-title: Adjunct Faculty, French Horn
 ---
 
 After receiving his bachelor's degree from Wichita State University, Nathan Campbell moved to southern California in 1981. While freelancing, he completed his master's degree at USC, where he studied with Vincent DeRosa.

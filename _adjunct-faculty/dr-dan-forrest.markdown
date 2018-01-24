@@ -1,7 +1,8 @@
 ---
 title: Dr. Dan Forrest
 date: 2018-01-23 18:34:00 Z
-position: Guest Faculty,  Composition
+department: Music
+job-title: Guest Faculty,  Composition
 ---
 
 Dan Forrest has been described as “a composer of substance” (Columbus Dispatch), with “superb choral writing…full of spine-tingling moments” (Salt Lake Tribune). Born in 1978, Dan is a pianist-turned-composer whose choral music has already established a lasting presence in the US and abroad.

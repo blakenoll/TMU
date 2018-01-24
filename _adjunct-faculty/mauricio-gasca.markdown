@@ -1,7 +1,8 @@
 ---
 title: Mauricio Gasca
 date: 2018-01-23 18:38:00 Z
-position: Adjunct Faculty, Audio Technology
+department: Music
+job-title: Adjunct Faculty, Audio Technology
 ---
 
 Mauricio Gasca is a prolific audio engineer, composer, songwriter and producer. He has engineered, arranged and co-produced many Grammy, Billboard, BMI and ASCAP winning tracks and albums for artists such as Jennifer Lopez, Pitbull, Marc Anthony, Ricky Martin, Thalia, Alexandre Pires, Chayanne and Cristian Castro among many others.

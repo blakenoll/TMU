@@ -1,7 +1,8 @@
 ---
 title: Robert Berg
 date: 2018-01-23 19:32:00 Z
-position: Adjunct Faculty, Viola
+department: Music
+job-title: Adjunct Faculty, Viola
 ---
 
 Robert Berg began playing the violin at the tender age of 5 and by the young age of 14 had decided to make the viola his life long devotion. He began his high school studies in Leningrad at the renowned Music School of Rimsky Korsakov and continued his studies at the prestigious St. Petersburg Conservatory where he studied under the tutelage of Violist and Professor Juri Kramarov. At the conservatory he became assistant to Professor Kramarov. He graduated in 1983 with a Masters in Music and Viola.

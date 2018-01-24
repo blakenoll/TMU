@@ -1,7 +1,8 @@
 ---
 title: William Powell
 date: 2018-01-23 19:26:00 Z
-position: Adjunct Faculty, Clarinet
+department: Music
+job-title: Adjunct Faculty, Clarinet
 ---
 
 William Powell, clarinetist, has performed at major concert venues throughout the U.S., Europe and Asia including Avery Fischer, Merkin and Carnegie Recital Halls; the Dag Hammarskjold Auditorium at the United Nations; the Kennedy Center; at the North American New Music Festival as soloist with the Buffalo Philharmonic; and at the International Congresses on Women in Music in Los Angeles, New York, Paris and Bremen. The recipient of a Senior Research Grant from the Fulbright Commission, he lived for a year in India where he presented concerts of American music, collaborated in cross-cultural performances, and recorded for All India Radio. He has performed with the Aspen Festival and Chamber Orchestras, the contemporary music ensemble SONOR, the Sierra Wind Quintet, the Naumburg Awardwinning Aulos Wind Quintet and, as principal clarinetist, with the San Diego Chamber Orchestra, the Las Vegas Symphony and the Reno Philharmonic. Currently, Mr. Powell serves on the faculty at California Institute of the Arts where he performs with the CalArts New Century Players, a faculty ensemble devoted to the performance of contemporary music. He has also taught at the University of California, San Diego; San Diego State University; California State University, Long Beach; and the University of Nevada, Las Vegas. His major teachers were Stanley Drucker (principal clarinetist with the New York Philharmonic), Michelle Zukovsky (principal clarinetist with the Los Angeles Philharmonic), and Leon Russianoff. He has made recordings for the Cambria, CRI, Electra/Asylum and Nonesuch labels.

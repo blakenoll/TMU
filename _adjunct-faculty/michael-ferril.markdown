@@ -1,7 +1,8 @@
 ---
 title: Michael Ferril
 date: 2018-01-23 19:34:00 Z
-position: Adjunct Faculty, Violin
+department: Music
+job-title: Adjunct Faculty, Violin
 ---
 
 Prof. Michael Ferril began violin studies through the Glendale Unified School Strings Program and quickly progressed to private lessons with Purcell Mayor, a member of the Los Angeles Philharmonic and Hollywood Bowl Orchestra in the 1930's and 1940's. Mr. Ferril attended Cal State Northridge under scholarship and faculty, Endre Granat and Robert Lipsett. During the summers of 1977-1981 Mr. Ferril attended The Meadowmount School of Music, Ivan Galamian Director, and studied with Sally Thomas and chamber music with Josef Gingold.

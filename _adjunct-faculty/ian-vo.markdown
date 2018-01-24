@@ -1,8 +1,8 @@
 ---
 title: Ian Vo
 date: 2018-01-23 18:03:00 Z
-image: 
-position: 
+department: Music
+job-title: Adjunct Faculty, Saxophone
 ---
 
 Ian holds an MFA in Jazz Reeds from the California Institute of Arts (2006) and a BA in Music from the University of California Los Angeles (2004). During his formative years, he’s had the honor of studying with Kenny Burrell, Charlie Haden, Jeff Clayton, Joe LaBarbara and Larry Koonse among others.

@@ -1,7 +1,8 @@
 ---
 title: Marissa Honda
 date: 2018-01-23 19:25:00 Z
-position: Adjunct Faculty, Oboe
+department: Music
+job-title: Adjunct Faculty, Oboe
 ---
 
 Marissa Honda is a freelance oboist and teacher in the Los Angeles, CA area. She has performed with the New West Symphony, Kaleidoscope Chamber Orchestra, Fresno Grand Opera, Opera San Luis Obispo, Los Angeles Musicians Collective and others. In 2014, she won the English Horn position with the Fresno Philharmonic Orchestra and she also currently holds the position of English Horn in the American Youth Symphony. She has spent summers performing at the National Orchestral Institute, the Atlantic Music Festival , the Idyllwild Summer Arts Festival, the Lake George Music Festival Orchestra and others. Marissa has received honors as a soloist, winning the Fresno Musical Club Bell T. Richie Award for Advanced Musicians, the Fresno Youth Symphony Concerto Competition, and has been featured on KVPR Young Artists Spotlight. She can periodically be seen as an on screen musician for the FOX TV series GLEE.
