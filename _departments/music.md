@@ -746,6 +746,70 @@ required-courses-body: |-
 
   **Total Bachelor of Arts in Music units: 65**
 
+  # **Student Ministries Emphasis Courses**
+
+  * MU131 Piano Foundations I ♦ (1)
+
+  * MU132 Piano Foundations II ♦ (1)
+
+  * MU141A Music Theory I (3)
+
+  * MU141B Aural Skills 1 (1)
+
+  * MU142A Music Theory II (3)
+
+  * MU142B Aural Skills II (1)
+
+  * MU160/360 Individual Instruction in Primary Instrument (6)
+
+  * MU271 Basic Conducting (2)
+
+  * MU295 Music & Art for Musicians\* (3)
+
+  * MU310 University Singers/Orchestra (4)
+
+  * MU330 Concert Attendance (0)
+
+  * MU390 Performance Practicum (0)
+
+  * MU396 World Music (3)
+
+  * MU411 Computers in Music (2)
+
+  * MU482 Senior Seminar (2)
+
+  * MU233 Popular Music Theory I (3)
+
+  * MU324 Worship Band Leadership (2)
+
+  * MU333 Worship and Songs of the Church (3)
+
+  * MU334 Church Music Leadership and Administration (2)
+
+    Choose One:
+
+  * MU393 Music History & Literature I (3)
+
+  * MU394 Music History & Literature II (3)
+
+  * MU494 Worship Internship (2)
+
+  * Major Performing Ensemble (4)
+
+  * Music Electives (4)
+
+  * MU260 Recital (30 min.) or approved project (1)
+
+  * BC300 Introduction to Biblical Counseling (3)
+
+  * BC332 Crisis and Youth Counseling (3)
+
+  * BCE313 Introduction to Christian Education (3)
+
+  * BYM331 Survey of Student Ministries (3)
+
+  **Total units for emphasis (68)**
+
   \*Satisfies General Education Requirement
 
   ♦ Testing out allowed for one or both semesters
