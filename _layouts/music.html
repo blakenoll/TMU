@@ -129,20 +129,20 @@ layout: default
          <div class="col s12 m3">
            <h2>Visit</h2>
                 <p><a class="btn btn-navy music-btn" href="/prelude">Prelude</a></p>
-           <h2>Emphasis</h2>
+           <h2>Selected Emphasis</h2>
             <ul>
               {% for emphasis in page.emphasis %}
               <li>{{ emphasis }}</li>
               {% endfor %}
             </ul>
-           <h2>Program Credits</h2>
+           <!-- <h2>Program Credits</h2>
            <p>Total: {{ page.total-credits }}<br>
            General Education: {{ page.GE-credits }}<br>
            {% if page.bible-credits != '' %}
            Bible: {{ page.bible-credits }}<br>
            {% endif %}
            Major Core Courses: {{ page.core-courses }}<br>
-           Emphasis/Electives: {{ page.emphasis-electives }}</p>
+           Emphasis/Electives: {{ page.emphasis-electives }}</p> -->
            <h2>Sample Course Offerings:</h2>
            <ul>
              {% for course in page.course-offerings %}
