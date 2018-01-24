@@ -1,7 +1,7 @@
 ---
 title: Scott Weber
 date: 2018-01-23 18:41:00 Z
-position: Adjunct Faculty, Audio Technology
+job-title: Adjunct Faculty, Audio Technology
 ---
 
 Scott Weber, a veteran in the field of sound editorial, ADR, Foley mixing and re-recording, discovered his true passion for sound as a child when he took guitar and vocal lessons. He was part of a musical group in high school and, when they recorded an album in a studio, he knew that sound production was going to be his life.

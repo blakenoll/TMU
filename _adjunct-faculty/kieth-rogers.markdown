@@ -1,7 +1,7 @@
 ---
 title: Kieth Rogers
 date: 2018-01-23 18:40:00 Z
-position: Adjunct Faculty, Audio Technology
+job-title: Adjunct Faculty, Audio Technology
 ---
 
 Keith Rogers has been a Re-Recording mixer for 20 years. His career began in 1993 at EFX, where he learned the business and developed his skills in digital audio. Keith quickly moved into a mixing position in 1995, and eventually a 13-year staff mixing position at Walt Disney Studios. Keith has spent the last several years as an independent mixer, currently working for Todd A/O Soundelux.

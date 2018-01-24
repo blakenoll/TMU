@@ -1,7 +1,7 @@
 ---
 title: Grant Fonda
 date: 2018-01-23 18:43:00 Z
-position: Adjunct Faculty, Composition & Theory
+job-title: Adjunct Faculty, Composition & Theory
 ---
 
 Grant Fonda is a composer for visual media and the concert stage from Valencia, California. Grant has collaborated with numerous creatives on a wide array of notable projects, including the acclaimed *Shawn* (dir. Brian Ivie, the director of *The Drop Box*), the internationally distributed short film *The Story* (2015) with Spread Truth Ministries, and the traveling production of *Titanic: Live* to picture (2015).
