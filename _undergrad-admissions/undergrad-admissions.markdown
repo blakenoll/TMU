@@ -29,11 +29,14 @@ blurb1-text: "The Master's University equips young Christian men and women for s
   athletically  and spiritually. So, choosing TMU myself became an easy decision.”
   \ - Jason Karkenny ('17)"
 upcoming-events-text: |-
-  The things that make The Master’s University so special can’t be experienced on your computer....You’ve got to see it for yourself!
-  Our beautiful, ranch-style campus nestled in the Southern-California canyon (just 30 miles from Los Angeles) can be experienced via a personal visit for a custom tour, a group visit with your family and friends, or in one of the many open-days.  Let us know when you are coming, we're excited to welcome you!
-counselor-text: |-
-  Our admissions counselors are amazing!
-  You want a life-changing TMU education, so we make sure your counselor will guide you along through every step  of the way to get there. Your counselor is knowledgeable in all areas of the university, so can provide you with fast, insightful, practical help. Select your state to see who your counselor is - and you can even watch their intro video to learn more about them.
+  ## Experience Master’s First-hand: Upcoming Events
+
+  The things that make The Master’s University so special can’t be experienced on your computer… you’ve got to see it for yourself! Our beautiful, ranch-style campus nestled in a Southern-California canyon (just 30 miles from Los Angeles) can be experienced in a few ways. You are welcome to schedule a personal tour and visit at your availability, sign up for a group visit with your family and friends, or join us for one of our many visit days. Let us know when you are coming, we’re excited to welcome you!
+counselor-text: Our admissions counselors are amazing! You want a life-changing TMU
+  education, so we make sure your counselor will be there to guide you through each
+  step. Knowledgeable in all areas of the university, your counselor will provide
+  you with fast, insightful, and practical help. Select your state to find your counselor-
+  and watch their intro video to learn more about them.
 app-deadlines:
 - text: Scholarship application deadline
   red-text: FEB 19, 2018
@@ -60,8 +63,8 @@ layout: undgradadmiss
 
 # YOUR FUTURE AND CAREER STARTS HERE
 
-The Master's University invites students considering admission for Fall 2018 to begin the application process now.
+The Master’s University invites students considering admission for Fall 2018 to begin the application process now.
 
-The admissions committee carefully works with every applicant through every step, ensuring that The Master's University is indeed the right school for you. There is application paperwork to complete, but let us help do it with you - from walking through the application package with you, to helping you with financial aid requests, making helpful recommendations, to welcoming you on campus. We want you to experience the world-class standards of TMU from the first step.
+The admissions committee carefully walks you through each step of the application process, ensuring that The Master’s University is indeed the right school for you. The process can be confusing, but we’re here to help you through it. From the application itself, to completing financial aid requests, we are here to work with you every step of the way, until you arrive on campus as a new student. The world-class standards of TMU will be obvious from the first step.
 
 We look forward to meeting you!
