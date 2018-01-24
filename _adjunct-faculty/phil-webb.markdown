@@ -1,7 +1,8 @@
 ---
 title: Phil Webb
 date: 2018-01-23 18:33:00 Z
-position: Guest Faculty, Voice
+department: Music
+job-title: Guest Faculty, Voice
 ---
 
 International Opera tenor, Philip Webb, grew up in Liberty, Missouri, the son of a Baptist Minister. It was during his teenage years that Philip began to develop his voice and sing in his father’s church. In 1988 he recorded his second gospel CD, “He Is King” and was heard in churches all over the United States and Canada.
