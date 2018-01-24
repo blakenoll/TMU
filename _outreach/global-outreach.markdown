@@ -1,7 +1,7 @@
 ---
 title: Global Outreach
 date: 2017-12-15 19:30:00 Z
-sm-image: "/uploads/StudentLife_GlobalOutreach.png"
+icon-image: "/images/GlobalOutreach_Logo-01.jpg"
 group: studentlife
 teams-body: "## **ECUADOR**\n\nThis team will be working in local Church ministries
   through community outreach and organizing a Biblical Counseling Conference.\n\nAll
@@ -474,7 +474,6 @@ engage-body: |2-
 
   [2017 Church Schedule Form](http://www.formstack.com/forms/?1228890-yr9dJfw42e)
 about-body: 
-icon-image: "/images/GlobalOutreach_Logo-01.jpg"
 layout: globo
 ---
 
