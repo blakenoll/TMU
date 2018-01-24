@@ -28,10 +28,13 @@ blurb1-text: "The Master's University equips young Christian men and women for s
   and wisdom to lead.\n\n> \n> “I saw firsthand what TMU had done for my brother academically,
   athletically  and spiritually. So, choosing TMU myself became an easy decision.”
   \ - Jason Karkenny ('17)"
-upcoming-events-text: |-
-  ## Experience Master’s First-hand: Upcoming Events
-
-  The things that make The Master’s University so special can’t be experienced on your computer… you’ve got to see it for yourself! Our beautiful, ranch-style campus nestled in a Southern-California canyon (just 30 miles from Los Angeles) can be experienced in a few ways. You are welcome to schedule a personal tour and visit at your availability, sign up for a group visit with your family and friends, or join us for one of our many visit days. Let us know when you are coming, we’re excited to welcome you!
+upcoming-events-text: The things that make The Master’s University so special can’t
+  be experienced on your computer… you’ve got to see it for yourself! Our beautiful,
+  ranch-style campus nestled in a Southern-California canyon (just 30 miles from Los
+  Angeles) can be experienced in a few ways. You are welcome to schedule a personal
+  tour and visit at your availability, sign up for a group visit with your family
+  and friends, or join us for one of our many visit days. Let us know when you are
+  coming, we’re excited to welcome you!
 counselor-text: Our admissions counselors are amazing! You want a life-changing TMU
   education, so we make sure your counselor will be there to guide you through each
   step. Knowledgeable in all areas of the university, your counselor will provide
