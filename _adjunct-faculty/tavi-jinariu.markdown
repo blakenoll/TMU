@@ -1,7 +1,8 @@
 ---
 title: Tavi Jinariu
 date: 2018-01-23 19:37:00 Z
-position: Adjunct Faculty, Guitar
+department: Music
+job-title: Adjunct Faculty, Guitar
 ---
 
 During the past 10 years, Tavi Jinariu has distinguished himself as one of the preeminent classical guitarists in the Los Angeles area. His artistry is defined by deep emotional expression, focused attention to technical accuracy and details, as well as a certain performance pathos that never fails to captivate audiences.
