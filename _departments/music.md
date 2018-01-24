@@ -12,7 +12,7 @@ emphasis:
 - Music Education
 - Piano Pedagogy
 - Performance
-total-credits: 155-162
+total-credits: 123- 134
 bible-credits: 21
 GE-credits: 40
 core-courses: 29
