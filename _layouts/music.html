@@ -48,6 +48,7 @@ layout: default
            </ul>
            <h2>Adjunct Faculty</h2>
            {% for faculty in site.adjunct-faculty %}
+           {% if faculty.department contains page.title %}
            <div class="chip">
              {% if faculty.image != '' %}
              <img src="{{ faculty.image | prepend: site.url }}" alt="{{ faculty.title }}">
@@ -56,6 +57,7 @@ layout: default
              {% endif %}
              <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
            </div>
+           {% endif %}
            {% endfor %}
 
            <div class="card">
