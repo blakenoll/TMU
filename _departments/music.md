@@ -72,7 +72,7 @@ required-courses-body: |-
 
   * MU295 Music & Art for Musicians\* (3)
 
-  * MU310 Collegiate Singers/Orchestra (4)
+  * MU310 University Singers and Orchestra (4)
 
   * MU330 Concert Attendance (0)
 
@@ -111,7 +111,7 @@ required-courses-body: |-
 
     * MU366 Tonal Counterpoint (2)
 
-    * MU443 20th Century Analysis (2)
+    * MU445 Arranging (2)
 
     * MU474 Orchestration (2)
 
@@ -129,7 +129,7 @@ required-courses-body: |-
 
   **The BACHELOR OF MUSIC in PERFORMANCE prepares students for a career in performance, teaching, or for advanced study in piano, voice or an instrument. The program includes a breadth and depth of music studies to assure a thorough foundation. Students must demonstrate satisfactory progress by the end of the sophomore year in order to continue in the B.M. degree program.**
 
-  * Bachelor of Music Degree Core Courses (61)
+  * Bachelor of Music Degree Core Courses (51-55\*)
 
   * MU160 Individual Instruction in a Keyboard Instrument other than piano (1)
 
@@ -143,7 +143,7 @@ required-courses-body: |-
 
   * MU386 Piano Pedagogy II (2)
 
-  * MU240 Collaborative Keyboard\* (2-4)
+  * MU440 Collaborative Keyboard\* (2-4)
 
   * MU473 Advanced Piano Literature (2)
 
@@ -157,11 +157,11 @@ required-courses-body: |-
 
   **Exempted from Piano Foundations**
 
-  ### Piano Pedagogy**
+  ### Piano Pedagogy\*\*
 
   **The BACHELOR OF MUSIC in PIANO PERFORMANCE with emphasis in PEDAGOGY allows piano majors who plan to teach the opportunity to focus on pedagogy through course work and practical experience. The program includes a breadth and depth of music studies to assure a thorough foundation. Students must demonstrate satisfactory progress by the end of the sophomore year in order to continue in the B.M. degree program**
 
-  * Bachelor of Music Degree Core Courses (61)
+  * Bachelor of Music Degree Core Courses (53-55\*)
 
   * MU352 Teaching Piano Internship I (1.5)
 
@@ -187,7 +187,7 @@ required-courses-body: |-
 
   * MU460 Recital (60 minutes) (2)
 
-  **Total units required for emphasis: 85.5**
+  **Total units required for emphasis: 81.5**
 
   ***\*2-4 units count for Major Performing Ensemble (Core)***
 
@@ -219,15 +219,15 @@ required-courses-body: |-
 
   **The BACHELOR OF MUSIC in COMPOSITION gives students the foundation to continue in graduate school or engage in one of many careers in music. Examples include composing, teaching, performing, and careers in the recording industry. Students acquire skills in instrumentation, arranging, and other aspects of composition, along with experiencing performances of their own compositions. Students learn to write both short and long forms in various representative musical and instrumental idioms, are encouraged to explore trends in modern music composition, and experiment with compositional styles in order to discover a personal compositional “voice.”**
 
-  * Bachelor of Music Degree Core Courses (61)
+  * Bachelor of Music Degree Core Courses (57)
 
   * MU160w/360w Individual Instruction in Composition (6)\*
 
-  * MU225 Introduction to Composition (2)
+  * MU222 Introduction to Composition (2)
 
   * MU366 Tonal Counterpoint (2)
 
-  * MU406 Popular Music since 1900 (2)
+  * MU406 Popular Music since 1900 (3)
 
   * MU443 20th Century Analysis (2)
 
@@ -281,13 +281,13 @@ required-courses-body: |-
 
       * MU170B Class Voice (1)
 
-      * MU340C Instrumental Chamber Ensembles\*\* (2)
+      * MU340 Instrumental Chamber Ensembles in primary instrument (2)
 
       * MU414 Instrumental Methods (2)
 
     * Vocal:
 
-      * MU320C Vocal Chamber Ensembles\*\* (2)
+      * MU320 or 320w Vocal Chamber Ensembles\*\* (2)
 
       * MU428 Choral Methods (2)
 
@@ -311,7 +311,7 @@ required-courses-body: |-
 
   * MU360 Additional individual instruction in primary instrument\* (2)
 
-  * MU428 Teaching Choral Music (2)
+  * MU428 Choral Methods (2)
 
   * MU445 Arranging (2)
 
@@ -357,13 +357,13 @@ required-courses-body: |-
 
   * MU242A Music Theory IV (3)
 
-  * MU242B Music Theory IV (1)
+  * MU242B Aural Skills IV (1)
 
   * MU271 Basic Conducting (2)
 
   * MU295 Music & Art for Musicians\* (3)
 
-  * MU310 Collegiate Singers/Orchestra (4)
+  * MU310 University Singers/Orchestra (4)
 
   * MU330 Concert Attendance (0)
 
@@ -414,7 +414,9 @@ required-courses-body: |-
 
   * MU160/360 Private Instruction (6)
 
-  * MU225 Introduction to Composition (2)
+  * MU221 Digital Music Technology/Film Scoring (2)
+
+  * MU222 Introduction to Composition (2)
 
   * MU271 Basic Conducting (2)
 
@@ -431,8 +433,6 @@ required-courses-body: |-
   * MU396 World Music (3)
 
   * MU406 Popular Music Since 1900 (3)
-
-  * MU411 Computers in Music (2)
 
   * MU482 Senior Seminar (2)
 
@@ -486,13 +486,13 @@ required-courses-body: |-
 
   * MU295 Music & Art for Musicians\* (3)
 
-  * MU310 Collegiate Singers/Orchestra (4)
+  * MU310 University Singers and Orchestra (4)
 
   * MU330 Concert Attendance (0)
 
   * MU333 Worship and Songs of the Church (3)
 
-  * MU334 Music Leadership and Administration (2)
+  * MU334 Church Music Leadership and Administration (2)
 
   * MU390 Performance Practicum (0)
 
@@ -551,7 +551,7 @@ required-courses-body: |-
 
   * MU333 Worship and Songs of the Church (3)
 
-  * MU334 Music Leadership and Administration (2)
+  * MU334 Church Music Leadership and Administration (2)
 
   * MU390 Performance Practicum (0)
 
@@ -637,13 +637,13 @@ required-courses-body: |-
 
   * MU295 Music & Art for Musicians\* (3)
 
-  * MU310 Collegiate Singers/Orchestra (4)
+  * MU310 University Singers and Orchestra (4)
 
   * MU330 Concert Attendance (0)
 
   * MU333 Worship and Songs of the Church (3)
 
-  * MU334 Music Leadership and Administration (2)
+  * MU334 Church Music Leadership and Administration (2)
 
   * MU390 Performance Practicum (0)
 
@@ -702,7 +702,7 @@ required-courses-body: |-
 
   * MU295 Music & Art for Musicians\* (3)
 
-  * MU310 Collegiate Singers/Orchestra (4)
+  * MU310 University Singers and Orchestra (4)
 
   * MU330 Concert Attendance (0)
 
@@ -724,15 +724,15 @@ required-courses-body: |-
 
   * MU333 Worship and Songs of the Church (3)
 
-  * MU334 Music Leadership and Administration (2)
+  * MU334 Church Music Leadership and Administration (2)
 
   * MU494 Worship Internship (2)
 
   * Major Performing Ensemble (4)
 
-  * Electives (8)
+  * MU260 Recital (30 min.) or approved project (1)
 
-  choose at least 5 from the following
+  Electives, including six units from the following: (8 units)
 
   * Biblical Studies Courses
 
@@ -743,8 +743,6 @@ required-courses-body: |-
   * MU223 Audio Engineering I (3)
 
   * MU354 Audio Editing, Pro Tools 2 (3)
-
-  * MU260 Recital (30 min.) or approved project (1)
 
   **Total Bachelor of Arts in Music units: 65**
 
@@ -762,7 +760,7 @@ required-courses-body: |-
 
   * MU132 Piano Foundations II ♦ (1)
 
-  * MU141.1,2 Music Theory & Aural Skills I (4)
+  * MU141.A,B Music Theory & Aural Skills I (4)
 
   * MU160/360 Individual Instruction (4)
 
@@ -770,7 +768,7 @@ required-courses-body: |-
 
   * MU295 Music & Art for Musicians\* (3)
 
-  * MU310 Collegiate Singers/Orchestra (2)
+  * MU310 University Singers and Orchestra (2)
 
   * MU330 Concert Attendance (4 semesters) (0)
 
