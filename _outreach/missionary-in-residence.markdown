@@ -5,13 +5,13 @@ icon-image: "/images/Outreach_Missionary.png"
 layout: outreach-subpage
 ---
 
-**Missionary in Residence**
+### **Missionary in Residence**
 
-**The Missionary in Residence (MIR) program is designed to give qualified missionaries an opportunity to minister in an academic setting as a part of the Student Life Department and Biblical Studies Department of The Master's University. Serving as a global resource the campus, the Missionary in Residence will provide mentoring for the international community and students interested in missions. The Master's University, in turn, will provide the missionary with a community for their own enrichment spiritually and academically.**
+The Missionary in Residence (MIR) program is designed to give qualified missionaries an opportunity to minister in an academic setting as a part of the Student Life Department and Biblical Studies Department of The Master's University. Serving as a global resource the campus, the Missionary in Residence will provide mentoring for the international community and students interested in missions. The Master's University, in turn, will provide the missionary with a community for their own enrichment spiritually and academically.
 
 ### **The Purpose of the program is:**
 
-* **To provide a positive model for the campus of a godly, global servant.**
+* To provide a positive model for the campus of a godly, global servant.
 
 * To provide mentoring to international students and TCK's as needed.
 
@@ -25,7 +25,7 @@ layout: outreach-subpage
 
 ### **The Master's University will provide:**
 
-* **A furnished, two bedroom, one and a half bath apartment including utilities. (Internet is the responsibility of the MIR.)**
+* A furnished, two bedroom, one and a half bath apartment including utilities. (Internet is the responsibility of the MIR.)
 
 * Three free meals each week and unlimited discounted meals in our Dining Center when meeting with students.
 
@@ -41,7 +41,7 @@ layout: outreach-subpage
 
 ### **The Missionary in Residence will provide:**
 
-* **Active involvement in building relationships with the international community, including international students and TCK's through personal interaction and activities.**
+* Active involvement in building relationships with the international community, including international students and TCK's through personal interaction and activities.
 
 * Participation in Student Life activities.
 
