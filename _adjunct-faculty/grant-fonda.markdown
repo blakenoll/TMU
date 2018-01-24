@@ -1,6 +1,7 @@
 ---
 title: Grant Fonda
 date: 2018-01-23 18:43:00 Z
+department: Music
 job-title: Adjunct Faculty, Composition & Theory
 ---
 
