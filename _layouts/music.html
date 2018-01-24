@@ -46,6 +46,17 @@ layout: default
                {% endif %}
                {% endfor %}
            </ul>
+           <h2>Adjunct Faculty</h2>
+           {% for faculty in site.adjunct-faculty %}
+           <div class="chip">
+             {% if faculty.image != '' %}
+             <img src="{{ faculty.image | prepend: site.url }}" alt="{{ faculty.title }}">
+             {% else %}
+             <img src="{{ "/images/FacutyBlank_500x500.png" | prepend: site.url }}" alt="{{ faculty.title }}">
+             {% endif %}
+             <a href="{{ faculty.url | prepend: site.url }}">{{ faculty.title }}</a>
+           </div>
+           {% endfor %}
 
            <div class="card">
              <!-- <div class="card-content">
