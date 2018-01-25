@@ -1,7 +1,6 @@
 ---
 title: Why Master's?
 date: 2018-01-25 17:34:00 Z
-published: false
 sm-image: "/uploads/whytmu.jpg"
 ---
 
