@@ -1,7 +1,7 @@
 ---
 title: Global Outreach
 date: 2017-12-15 19:30:00 Z
-icon-image: "/images/GlobalOutreach_Logo-01.jpg"
+icon-image: "/uploads/AcademicsUndergradIcons_History.png"
 group: studentlife
 teams-body: "## **ECUADOR**\n\nThis team will be working in local Church ministries
   through community outreach and organizing a Biblical Counseling Conference.\n\nAll

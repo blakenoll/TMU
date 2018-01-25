@@ -125,5 +125,4 @@ layout: intladmission
 
 # **International Student admissions**
 
-
-This is the walk through the 4 steps to admissions, your admissions counselor who can help you with any questions, application deadlines, and other helpful links. We look forward to welcoming you to TMU!
+Below is the four-step process of admissions. Your admissions counselor, Josh English, is your point of contact for all things TMU. We know that continuing your education in a different country is daunting, and we want you to feel as cared for and informed as possible. Application deadlines and other helpful links are at the bottom of this page for your convenience. Feel free to contact Josh with any questions or concerns you may have. We look forward to welcoming you at TMU!

@@ -6,7 +6,7 @@ apply-body: |-
 
   The Master’s University invites students considering admission for Fall 2018 to begin the application process now.
 
-  The admissions committee carefully works with every applicant through every step, ensuring that The Master’s University is indeed the right school for you. There is application paperwork to complete, but let us help do it with you - from walking through the application package with you, to helping you with financial aid requests, making helpful recommendations, to welcoming you on campus. We want you to experience the world-class standards of TMU from the first step.
+  The admissions committee carefully walks you through each step of the application process, ensuring that The Master’s University is indeed the right school for you. The process can be confusing, but we’re here to help you through it. From the application itself, to completing financial aid requests, we are here to work with you every step of the way, until you arrive on campus as a new student. The world-class standards of TMU will be obvious from the first step.
 
   We look forward to meeting you!
 

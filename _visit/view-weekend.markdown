@@ -179,17 +179,17 @@ layout: visit-sub-page
 
 # March 22-23, 2018: An unforgettable weekend!
 
-The TMU View the U Weekend Experience is the unforgettable opportunity for prospective students to experience dorm life and attend classes, chapel services, and intercollegiate athletic events.
+The TMU View the U Weekend Experience is an unforgettable opportunity for students to become a Mustang for a few days. Each registrant will experience dorm life, attend classes, chapel, and intercollegiate athletic events, as well as interact with current students and professors.
 
-* You will experience our top faculty in action; a highly qualified team of godly men and women who are dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
+You will sit under our top faculty in action; a highly qualified team of godly men and women dedicated to cultivating the spiritual and academic potential of our students through personal, one-on-one attention.
 
-* Get first-hand experience staying in the legendary dorms where friendships are forged.
+* Get first-hand experience staying in the dorms, where friendships are forged.
 
-* Learn more about majors and areas of study to discover your passion and develop your calling.
+* Learn more about specific majors and areas of study to discover your passion and develop your calling.
 
-* Worship together with your future classmates in Chapel
+* Worship with your future classmates in Chapel.
 
-* Explore athletics, the music and arts on campus...and, of course, the restaurant!
+* Explore athletics, the music and arts on campus… and of course, the cafeteria!
 
 ## Important info for registrants:
 
@@ -198,7 +198,7 @@ All overnight visitors need to bring a sleeping bag and pillow. Any additional o
 Paid event: $40.00
 Additional guests: $10.00
 
-TMU is able to provide airport transportation for students flying unaccompanied into [Burbank Airport](http://www.burbankairport.com/) (BUR). If you are flying into Los Angeles (LAX), please contact our coordinator for more info.
+TMU is able to provide airport transportation for students flying unaccompanied into Burbank Airport (BUR) and Los Angeles (LAX). Please contact our coordinator if you have special requests.
 
 Questions in the meantime?
 
@@ -208,4 +208,4 @@ Questions in the meantime?
 
 * **write**  admissions@masters.edu
 
-<a class="btn btn-navy" href="/uploads/View%20SP18%20Sample%20Schedule%20Real.pdf">Schedule</a> 
+<a class="btn btn-navy" href="/uploads/View%20SP18%20Sample%20Schedule%20Real.pdf">Schedule</a>
