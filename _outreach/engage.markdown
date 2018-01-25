@@ -2,7 +2,7 @@
 title: Engage
 date: 2017-12-15 19:30:00 Z
 icon-image: "/images/Outreach_Engage.png"
-layout: page
+layout: outreach-subpage
 ---
 
 Our fall event Engage! will be held October 12-15, 2017. As an extension of the office of Outreach, Engage! is a campus-wide effort of The Master’s University to serve in and learn from churches throughout Southern California. Each year we mobilize approximately 650 student volunteers to serve with local churches in various types of ministry ranging from cross-cultural and urban to homeless and prison outreach.
