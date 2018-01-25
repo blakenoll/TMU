@@ -198,7 +198,7 @@ All overnight visitors need to bring a sleeping bag and pillow. Any additional o
 Paid event: $40.00
 Additional guests: $10.00
 
-TMU is able to provide airport transportation for students flying unaccompanied into [Burbank Airport](http://www.burbankairport.com/) (BUR). If you are flying into Los Angeles (LAX), please contact our coordinator for more info.
+TMU is able to provide airport transportation for students flying unaccompanied into Burbank Airport (BUR) and Los Angeles (LAX). Please contact our coordinator if you have special requests.
 
 Questions in the meantime?
 
