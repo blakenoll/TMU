@@ -1,6 +1,7 @@
 ---
 title: Why Master's?
 date: 2018-01-25 17:34:00 Z
+published: false
 ---
 
 In our culture, each individual strives to be a hero in a crowd of followers—to leave their mark on something before they exit this earth—yet I often catch myself wondering whether we all somehow end up just as common as the next person in line at Starbucks. 
