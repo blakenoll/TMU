@@ -50,7 +50,7 @@ padding-bottom: 20px;"/>
 {% endfor %}
 {% endif %}
 <h4>Contact</h4>
-<a href="mailto:{{ page.email }}">{{ page.email }}</a>
+<a href="mailto:{{ page.department | downcase }}">{{ page.department | downcase }}@masters.edu</a>
 <br>
 <br>
 <a id="faculty-back" class="btn btn-navy" href="javascript:history.go(-1)">Back</a>

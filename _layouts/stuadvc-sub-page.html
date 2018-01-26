@@ -30,6 +30,9 @@ layout: default
         {% for tab in page.tabs %}
         <li class="tab"><a href="#{{forloop.index}}">{{tab.title}}</a></li>
         {% endfor %}
+        {% if page.title == "International Students"%}
+        <li class="tab"><a href="/admissions/undergrad/international-admissions" target="_self">Admissions</a></li>
+        {% endif %}
       </ul>
     </div>
     {% for tab in page.tabs %}
