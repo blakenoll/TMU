@@ -2,7 +2,7 @@
 title: Paul T. Plew
 date: 2017-05-02 18:19:00 Z
 job-title: |-
-  Chairperson, Department of Music
+  Dean, School of Music
   Professor of Choral Studies
 image: "/uploads/FacultyHeadshots/Plew,%20P.jpg"
 department: Music
