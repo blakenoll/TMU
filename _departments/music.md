@@ -947,13 +947,13 @@ ensembles:
     of the TMU Chamber Orchestra also perform at the annual Christmas and Forest Lawn
     concerts.
 - name: University Singers
-  image: 
+  image: "/uploads/University%20Singers.jpg"
   body: |-
     Dr. Paul T. Plew, Director
 
     The University Singers is a non-auditioned, campus community choir of appoximately 150 members. Performances include a large Christmas production in the MacArthur Center as well as Easter concerts at the Hall of Crucifixion-Resurrection at Forest Lawn each year. A wide variety of classical and contemporary sacred music is performed. This group appeared at Lincoln Center in May of 2011 to perform Rutter's "Requiem".
 - name: The Master's University Orchestra
-  image: 
+  image: "/uploads/Blue%20Light%20Orchestra%20-%20Christmas%20Concert%202012%20Preston%20Richardson%20(153%20of%20250)%20-%20Copy.jpg"
   body: |-
     Dr. Stephen R. Opfer, Conductor
 
