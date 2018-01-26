@@ -3,6 +3,9 @@ title: Beth Mitchell
 date: 2018-01-23 19:14:00 Z
 department: Music
 job-title: Adjunct Faculty, Tuba
+degrees:
+- B.M., Peabody Conservatory of Music
+- M.M., University of Southern California
 ---
 
 Before settling in Los Angeles, Beth Chouinard-Mitchell was principal tubist with the Women’s Philharmonic Orchestra in San Francisco. She has played with the Baltimore Symphony Orchestra, the Pacific Symphony Orchestra, the Orchesta Sinfonica de Monterrey, Germany’s Eurobrass, and has toured frequently throughout the United States and Europe.
