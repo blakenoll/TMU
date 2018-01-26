@@ -18,7 +18,7 @@ Let us know that you plan on attending next semester. This is a $200 deposit ref
 
 Pre-Registration: This is where you will tell us your roommate preferences, request a dorm, select a meal plan, and all the other fun stuff! Click [here](http://www.masters.edu/register) for directions on how to pre-register for next semester.
 
-<a class="btn btn-navy"  href="#!">Pre-Registration</a>
+<a class="btn btn-navy"  href="#!">Pre-Registration</a> Opens March 9, 2018 for Fall incoming students 
 
 ## Step 3: Sign up for an advising appointment
 
