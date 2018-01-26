@@ -8,16 +8,20 @@ Congratulations on being accepted to The Master’s University! We believe the b
 
 Now that you have been accepted, there are a few things we need you to do to secure your spot here! Once all of these are completed, you can rest easy and start your dorm shopping!
 
-## Step 1:
+## Step 1: Accept Your Offer
 
-Accept Your Offer: Let us know if you plan on attending next semester by clicking [here](https://www.formstack.com/forms/masters-new_student_deposit_payment)! This is a $200 deposit refundable through May 1st 2018 that reserves a seat for you in the next incoming class.
+Let us know that you plan on attending next semester. This is a $200 deposit refundable through May 1, 2018 that reserves a seat for you in the next incoming class.
 
-## Step 2:
+<a class="btn btn-navy"  href="https://www.formstack.com/forms/masters-new_student_deposit_payment" target="_blank">Accept Offer</a>
+
+## Step 2: Pre-Registration
 
 Pre-Registration: This is where you will tell us your roommate preferences, request a dorm, select a meal plan, and all the other fun stuff! Click [here](http://www.masters.edu/register) for directions on how to pre-register for next semester.
 
-## Step 3:
+<a class="btn btn-navy"  href="#!">Pre-Registration</a>
 
-Sign up for an advising appointment! During your advising appointment you will officially enroll in classes for the upcoming semester! Don’t worry, we will have a schedule ready for your appointment so it can be as quick and seamless as possible. Click [here](http://www.masters.edu/enroll) for step-by-step directions on scheduling an advising appointment.
+## Step 3: Sign up for an advising appointment
+
+During your advising appointment you will officially enroll in classes for the upcoming semester! Don’t worry, we will have a schedule ready for your appointment so it can be as quick and seamless as possible. Click [here](http://www.masters.edu/enroll) for step-by-step directions on scheduling an advising appointment.
 
 If you have questions on any of these steps, pick up the phone and call us at 661-362-2363 or shoot us an email at admissions@masters.edu. We can’t wait for you to come!
