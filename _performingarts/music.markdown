@@ -25,37 +25,31 @@ youth-programs:
   body: |-
     ## Students Ages 8-11
 
-    * Monday, June 19 - Friday, June 23
+    Monday, June 18 - Friday, June 22
 
-    * 1:30 - 4:30 pm
+    1:30 - 4:30 pm
 
-    * Friday Concert @ 7:00 pm
+    Friday Concert @ 7:00 pm
 
-    * $170
+    \$170
 
     ## Students Ages 12-18
 
-    * Monday, June 19 - Thursday, June 22
+    Monday, June 18 - Thursday, June 21
 
-    * 9:00 am - 12:30 pm
+    9:00 am - 12:30 pm
 
-    * Thursday Concert @ 7:00 pm
+    Thursday Concert @ 7:00 pm
 
-    * $170
+    \$170
 
     ## Location
 
-    The Master's University Department of Music
+    The Master’s University School of Music
 
     ## Staff
 
-    Coordinator/Director: Sarah Dixon, M.M. {TMU Voice Faculty}\
-    Beginning Camp & Choir Director: Megan Dixon, M.M. {Multnomah University Music Faculty, TMU Graduate}\
-    Accompanist & Choir Director: Susi Johnson {Santa Clarita Christian School Choral Director, TMU Graduate} \
-    Theory Teacher: Kellie Cunningham, M.M. {TMU Piano Faculty}\
-    Choir Accompanist: Tiffany Gibb {Music Teacher, TMU Graduate}\
-    Improv Teachers: Tricia Hulet, M.A. {TMU Theatre Arts Director} & James Phillipps {TMU Theatre Arts Asst. Director}\
-    Camp Assistant: Emily Mack {Songs of Summer Alum}
+    TBA
 
     ## Cost
 
