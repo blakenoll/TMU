@@ -14,11 +14,18 @@ This is it! You've decided to join the Stampede. Now it's time to reserve your s
 
 <a class="btn btn-navy"  href="https://www.formstack.com/forms/masters-new_student_deposit_payment" target="_blank">Accept Offer</a>
 
+This $200 deposit, which is refundable until May 1st, secures your spot at The Master’s University and allows you to proceed in the registration process. The deposit will be credited toward your student billing account for next semester, and is not an extra fee. You may also pay by phone (661-362-2237) or by mailing a check to the following address:
+
+The Master's University
+Office of Student Finance
+21726 Placerita Canyon Road
+Santa Clarita, CA 91321
+
 ## Step 2: Complete Pre-Registration
 
 Submit your preferences for housing, roommates, meal plans and other campus-related items to ensure you're ready to go on day one! Click [here](http://www.masters.edu/register) for directions on how to pre-register.
 
-<a class="btn btn-navy"  href="#!">Pre-Registration</a> Opens March 9, 2018 for Fall incoming students 
+<a class="btn btn-navy"  href="#!">Pre-Registration</a> Opens March 9, 2018 for Fall incoming students
 
 ## Step 3: Schedule Advising Appointment
 
