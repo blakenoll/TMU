@@ -16,10 +16,7 @@ This is it! You've decided to join the Stampede. Now it's time to reserve your s
 
 This $200 deposit, which is refundable until May 1st, secures your spot at The Master’s University and allows you to proceed in the registration process. The deposit will be credited toward your student billing account for next semester, and is not an extra fee. You may also pay by phone (661-362-2237) or by mailing a check to the following address:
 
-The Master's University
-Office of Student Finance
-21726 Placerita Canyon Road
-Santa Clarita, CA 91321
+<p>The Master's University<br />Office of  Student Finance<br />21726 Placerita Canyon Road<br />Santa Clarita, CA 91321</p>
 
 ## Step 2: Complete Pre-Registration
 
