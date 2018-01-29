@@ -20,7 +20,7 @@ This $200 deposit, which is refundable until May 1st, secures your spot at The M
 
 ## Step 2: Complete Pre-Registration
 
-Submit your preferences for housing, roommates, meal plans and other campus-related items to ensure you're ready to go on day one! 
+Submit your preferences for housing, roommates, meal plans and other campus-related items to ensure you're ready to go on day one!
 
 1. To begin, log in using your TMU Self-Service username and password that was sent to you in the mail. If you do not have this information, contact the Admissions Office at 661-362-2363.
 
@@ -28,7 +28,7 @@ Submit your preferences for housing, roommates, meal plans and other campus-rela
 
 3. Complete the information in each section. To save your changes along the way, click the Save and Continue button at the bottom of each page. If you need to log out and complete registration at another time, make sure that you have completed the current page, then click the Save and Continue button before exiting. Always save your information before logging out.
 
-4. When you have completed and saved each pre-registration section you will be able to **Sign & Confirm **your information. Please ensure that all sections are complete and accurate before confirming your information. Electronically sign the confirmation page using your Self-Service username and password.
+4. When you have completed and saved each pre-registration section you will be able to **Sign & Confirm** your information. Please ensure that all sections are complete and accurate before confirming your information. Electronically sign the confirmation page using your Self-Service username and password.
 
 5. Once your pre-registration information has been submitted and the $200 deposit is received, you will be ready to schedule an **Academic Advising Appointment**. During your advising appointment—in person or by phone—your academic advisor will help set up your class schedule for the upcoming semester. Instructions for this step will be sent separately.
 
@@ -36,6 +36,10 @@ Submit your preferences for housing, roommates, meal plans and other campus-rela
 
 ## Step 3: Schedule Advising Appointment
 
-During your advising appointment you will officially enroll in classes for the upcoming semester. To make it easy, we'll have a schedule of classes waiting for you so you won't have to worry about a thing. This is where we start to see students get really excited to join #LifeAtTMU! Click [here](http://www.masters.edu/enroll) for step-by-step directions on scheduling an advising appointment.
+During your advising appointment you will officially enroll in classes for the upcoming semester. To make it easy, we'll have a schedule of classes waiting for you so you won't have to worry about a thing. This is where we start to see students get really excited to join #LifeAtTMU! 
+
+**Option 1:**
+
+**Option 2:**
 
 If you have questions on any of these steps, pick up the phone and call us at 661-362-2363 or shoot us an email at admissions@masters.edu. We can’t wait for you to arrive!
