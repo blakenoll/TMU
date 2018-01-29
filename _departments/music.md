@@ -1015,71 +1015,54 @@ facilities-body: |-
   ## Computer Lab
 
   Featuring eight iMac workstations continually updated with the latest music production and notation software
-new-student-info-body: |-
-  ## Music Major Entrance Auditions
-
-  Friday, August 18, 2017, 2:00-4:00 pm, MC203
-
-  Tuesday, August 29, 2017, 4:00-6:00 pm, MC203
-
-  For all entering music majors who have not yet performed a music scholarship audition.
-
-  Contact Caroline Peters at [cgmartin@masters.edu](mailto:cemartin@masters.edu) to schedule your audition.
-
-  ## Music Theory Placement Exams
-
-  Date & Time TBA
-
-  A mandatory Music Theory Placement exam is required of all incoming music students. This basic exam covers the fundamentals of music including pitch, rhythm, scales, key signatures, intervals and triad types.
-
-  Course Exemption exams are available for entering students with extensive theory background. These exams cover significant topics from each course and are only available at the beginning of a student’s time as a TMU music major. The course descriptions available in the TMU catalog contain specific content information. Once a student has taken Exemption exams and been placed into the music theory sequence, all remaining required levels of music theory courses must be completed.
-
-  At this time, students seeking to transfer music theory coursework from either AP classes or another college must still complete a TMU Exemption exam to verify that the topics covered are equitable.
-
-  ## Piano Foundations Information
-
-  Description:
-
-  The four-semester Piano Foundations sequence facilitates the development of functional piano skills for the non-keyboard music major and the nonperformance keyboard music major. The courses build skills in the areas of:
-
-  * Keyboard theory and technique
-
-  * Sight-reading
-
-  * Solo and ensemble repertoire
-
-  * Harmonization and improvisation
-
-  * Accompanying, transposition and score reading (instrumental, vocal and choral)
-
-  Mandatory Placement Auditions:
-
-  Date & Time TBA
-  *Sign ups for specific times will be available at the Music Department table during WOW check-in and at the Music Major Orientation Meeting.*
-
-  All students must take a Piano Foundations audition at the beginning of their time as a TMU music major. The purpose of these auditions is to allow entering students to place into the course most suited to their current level of ability. Students are permitted to audition once; multiple auditions are not permitted. Once a student has auditioned and been placed into the sequence, all remaining levels of the Piano Foundations courses must be completed.
-
-  Auditions are held during WOW week and are informal. Each student will be asked to demonstrate their current level of ability as a pianist and will be given sight-reading and technical components to match the various course levels.
-
-  Requirements by Degree:
-
-  Piano Foundations I-IV (MU131, MU132, MU231, MU232) is a requirement for students pursuing a Bachelor of Music\* or Bachelor of Arts in Music (General) degree program. Piano Performance and Piano Performance/Pedagogy majors are exempted due to other degree-specific coursework. \*Composition, Music Education, Traditional Worship, and B.A. in Music (General) majors who list piano as their primary performance instrument must establish sufficient skill level to place out of Piano Foundations or must take the courses to attain that skill level concurrently with individual instruction.
-
-  Piano Foundations I-II (MU 131, MU132) is a requirement for any students pursuing a Bachelor of Arts in Music with Emphases (Audio Technology, Biblical Studies, Communication, Modern Worship, and Student Ministry) degree program or a Minor in Music.
-
-  Individual instruction in piano is not a substitute for the Piano Foundations requirement, but private lessons in piano for non-keyboard emphasis students may be pursued once the degree requirement is fulfilled.
-
-  ## Private Lesson Fees
-
-  \$485 per unit (30 minute lesson) *in addition to regular tuition fees*\
-
-  ## Accompanists
-
-  Vocalists and instrumentalists will be responsible for hiring and paying their own accompanists for private vocal or instrumental lessons ($150 and higher per semester based on accompanist experience and availability). An approved list of student and professional accompanists will be provided when students arrive on campus.
-
-  ## Class Schedule
-
-  Contact the Freshman Advisor, Claire Blackwell, at [cblackwell@masters.edu](mailto:cblackwell@masters.edu) if you have questions about your major requirements or class schedule.
+new-student-info-body: "## \n\n## Music Theory Placement Exams\n\nDate & Time TBA\n\nA
+  mandatory Music Theory Placement exam is required of all incoming music students.
+  This basic exam covers the fundamentals of music including pitch, rhythm, scales,
+  key signatures, intervals and triad types.\n\nCourse Exemption exams are available
+  for entering students with extensive theory background. These exams cover significant
+  topics from each course and are only available at the beginning of a student’s time
+  as a TMU music major. The course descriptions available in the TMU catalog contain
+  specific content information. Once a student has taken Exemption exams and been
+  placed into the music theory sequence, all remaining required levels of music theory
+  courses must be completed.\n\nAt this time, students seeking to transfer music theory
+  coursework from either AP classes or another college must still complete a TMU Exemption
+  exam to verify that the topics covered are equitable.\n\n## Piano Foundations Information\n\nDescription:\n\nThe
+  four-semester Piano Foundations sequence facilitates the development of functional
+  piano skills for the non-keyboard music major and the nonperformance keyboard music
+  major. The courses build skills in the areas of:\n\n* Keyboard theory and technique\n\n*
+  Sight-reading\n\n* Solo and ensemble repertoire\n\n* Harmonization and improvisation\n\n*
+  Accompanying, transposition and score reading (instrumental, vocal and choral)\n\nMandatory
+  Placement Auditions:\n\nDate & Time TBA\n*Sign ups for specific times will be available
+  at the Music Department table during WOW check-in and at the Music Major Orientation
+  Meeting.*\n\nAll students must take a Piano Foundations audition at the beginning
+  of their time as a TMU music major. The purpose of these auditions is to allow entering
+  students to place into the course most suited to their current level of ability.
+  Students are permitted to audition once; multiple auditions are not permitted. Once
+  a student has auditioned and been placed into the sequence, all remaining levels
+  of the Piano Foundations courses must be completed.\n\nAuditions are held during
+  WOW week and are informal. Each student will be asked to demonstrate their current
+  level of ability as a pianist and will be given sight-reading and technical components
+  to match the various course levels.\n\nRequirements by Degree:\n\nPiano Foundations
+  I-IV (MU131, MU132, MU231, MU232) is a requirement for students pursuing a Bachelor
+  of Music\\* or Bachelor of Arts in Music (General) degree program. Piano Performance
+  and Piano Performance/Pedagogy majors are exempted due to other degree-specific
+  coursework. \\*Composition, Music Education, Traditional Worship, and B.A. in Music
+  (General) majors who list piano as their primary performance instrument must establish
+  sufficient skill level to place out of Piano Foundations or must take the courses
+  to attain that skill level concurrently with individual instruction.\n\nPiano Foundations
+  I-II (MU 131, MU132) is a requirement for any students pursuing a Bachelor of Arts
+  in Music with Emphases (Audio Technology, Biblical Studies, Communication, Modern
+  Worship, and Student Ministry) degree program or a Minor in Music.\n\nIndividual
+  instruction in piano is not a substitute for the Piano Foundations requirement,
+  but private lessons in piano for non-keyboard emphasis students may be pursued once
+  the degree requirement is fulfilled.\n\n## Private Lesson Fees\n\n\\$485 per unit
+  (30 minute lesson) *in addition to regular tuition fees*\\\\\n\n## Accompanists\n\nVocalists
+  and instrumentalists will be responsible for hiring and paying their own accompanists
+  for private vocal or instrumental lessons ($150 and higher per semester based on
+  accompanist experience and availability). An approved list of student and professional
+  accompanists will be provided when students arrive on campus.\n\n## Class Schedule\n\nContact
+  the Freshman Advisor, Claire Blackwell, at [cblackwell@masters.edu](mailto:cblackwell@masters.edu)
+  if you have questions about your major requirements or class schedule."
 layout: music
 ---
 
