@@ -16,7 +16,7 @@ date-text: March 22-23, 2018
 image: "/images/ViewWeekend_960x540.jpg"
 banner-image: "/images/ViewWeekend_1920x500.jpg"
 button-txt: Register Now
-button-link: https://masters.tfaforms.net/217732
+button-link: https://masters.tfaforms.net/217742
 preview-text: View Weekend
 parent-schedule-body: |-
   Parent Schedule
