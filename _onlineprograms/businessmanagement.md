@@ -3,11 +3,10 @@ title: Business Management
 sm-image: "/uploads/AcademicsOnline_OrganizationalMgmt.png"
 parallax-img: "/images/Parallax9.jpg"
 level: undergrad
-about-body: |2-
-
+about-body: |-
   <br />
 
-  <p><a href="https://athletics.masters.edu/%7BlocalLink:40628%7D" class="btn btn-navy">Request Info</a></p>
+  <p><a href="https://masters.tfaforms.net/217726" class="btn btn-navy">Request Info</a></p>
 
   <br />
 
