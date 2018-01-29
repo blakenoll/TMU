@@ -33,41 +33,41 @@ about-body: |-
   Click here to print a summary of the degree requirements for BA in Biblical Counseling.
   Click here to view the textbooks for all Online Biblical Studies courses.
 major-requirments-body: |-
-  **BC310 Foundations of Biblical Study 3 Units:**
+  ### **BC310 Foundations of Biblical Study 3 Units:**
 
   This course introduces the student to the necessary skills and techniques that promote educational success in the online environment. *Must be taken as the first major course in the program.*
 
-  **B340 Biblical Interpretation 3 Units**
+  ### **B340 Biblical Interpretation 3 Units**
 
   An analysis of how to study and understand Scripture. *Must be taken as the second major course in the program.*
 
-  **BC300 Introduction to Biblical Counseling 3 Units**
+  ### **BC300 Introduction to Biblical Counseling 3 Units**
 
   A general introduction to basic concepts and distinctive features of biblical counseling. *Must be taken as the third major course in the program.*
 
-  **BL305/6/7 Elementary Greek I,II,III 3 Units Each**
+  ### **BL305/6/7 Elementary Greek I,II,III 3 Units Each**
 
   Designed for beginners in Greek. Includes a thorough study of the pronunciation and acquisition of a working vocabulary; exercises in translation from Greek to English, as well as from English to Greek, and translation of selected passages of the Greek New Testament.
 
-  **BC330 Methods of Biblical Change 3 Units**
+  ### **BC330 Methods of Biblical Change 3 Units**
 
   An overview of the counseling process presenting a comprehensive methodological model for promoting biblical change in people.
 
   *Prerequisite: BC300.*
 
-  **BC311 Theological Basis of Biblical Counseling 3 Units**
+  ### **BC311 Theological Basis of Biblical Counseling 3 Units**
 
   A consideration of the theological realities that form the basis of a proper approach to counseling. *Prerequisites: BTH321, BTH322.*
 
-  **BE101 Introduction to Psychology 3 Units**
+  ### **BE101 Introduction to Psychology 3 Units**
 
   General introduction to the basic concepts of psychology, with emphasis given to the various theories of psychology along with a thorough biblical analysis and critique.
 
-  **BC342 Marriage & Family 3 Units**
+  ### **BC342 Marriage & Family 3 Units**
 
   Marriage and family problems are present in the majority of counseling cases. This course will give an overview of general marriage and family counseling issues relating to the content and process of counseling.
 
-  **BC362 Biblical Conflict Resolution 3 Units**
+  ### **BC362 Biblical Conflict Resolution 3 Units**
 
   This course is designed to help the student think biblically about conflict and how to respond to life’s conflicts in a way that glorifies the Lord (1 Cor. 10:31).
 Field name: 
