@@ -1,5 +1,6 @@
 ---
 title: Student Advancement
+published: false
 sm-image: "/uploads/StudentLife_StudentAdvancement.png"
 group: studentlife
 international-students-body: The international community at The Master’s University
