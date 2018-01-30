@@ -1015,16 +1015,8 @@ facilities-body: |-
   ## Computer Lab
 
   Featuring eight iMac workstations continually updated with the latest music production and notation software
-new-student-info-body: |-
-  ## Music Major Entrance Auditions
+new-student-info-body: |2-
 
-  Friday, August 18, 2017, 2:00-4:00 pm, MC203
-
-  Tuesday, August 29, 2017, 4:00-6:00 pm, MC203
-
-  For all entering music majors who have not yet performed a music scholarship audition.
-
-  Contact Caroline Peters at [cgmartin@masters.edu](mailto:cemartin@masters.edu) to schedule your audition.
 
   ## Music Theory Placement Exams
 
@@ -1071,7 +1063,7 @@ new-student-info-body: |-
 
   ## Private Lesson Fees
 
-  \$485 per unit (30 minute lesson) *in addition to regular tuition fees*\
+  \$485 per unit (30 minute lesson) *in addition to regular tuition fees*\\
 
   ## Accompanists
 
