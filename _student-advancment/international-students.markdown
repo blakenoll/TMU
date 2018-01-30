@@ -8,7 +8,7 @@ programs-resources-body: |-
 
   ## Custom-Tailored Admissions Process
 
-  Several years ago the TMU Admissions Office recognized the benefit of having an admissions counselor specifically dedicated to international students and other TCKs. The [international admissions staff](http://www.masters.edu/admissions/#intl) work with applicants and their families to ensure a smooth application process marked by open and consistent communication, whether a student is applying from Tokyo or Tulsa.
+  Several years ago the TMU Admissions Office recognized the benefit of having an admissions counselor specifically dedicated to international students and other TCKs. The [international admissions staff ](/admissions/undergrad/international-admissions)work with applicants and their families to ensure a smooth application process marked by open and consistent communication, whether a student is applying from Tokyo or Tulsa.
 
   ## Unique International Orientation Program
 
@@ -16,7 +16,7 @@ programs-resources-body: |-
 
   ## Customized Financial Aid
 
-  It’s becoming harder and harder to find a comprehensive, high-caliber education founded upon a biblical worldview. In light of this, a quality education from The Master’s University has become more valuable than ever. It’s something worth investing in. International students and TCKs have proven to be an asset to the TMU campus and successful representatives of the college in their future endeavors. Consequently, The Master’s University has made a strong commitment to partner with these students and their families in funding this important investment. While TMU cannot provide a full scholarship to students, significant discounts may be obtained. Detailed information about scholarships and grants for international students can be found [here](http://localhost:4000/financial-aid/general-undergraduate).
+  It’s becoming harder and harder to find a comprehensive, high-caliber education founded upon a biblical worldview. In light of this, a quality education from The Master’s University has become more valuable than ever. It’s something worth investing in. International students and TCKs have proven to be an asset to the TMU campus and successful representatives of the college in their future endeavors. Consequently, The Master’s University has made a strong commitment to partner with these students and their families in funding this important investment. While TMU cannot provide a full scholarship to students, significant discounts may be obtained. Detailed information about scholarships and grants for international students can be found [here](/financial-aid/general-undergraduate).
 
   ## International Community
 
@@ -28,13 +28,13 @@ programs-resources-body: |-
 tabs:
 - title: Programs & Resources
   body: |-
-    ### One-Stop Resource Office
+    ## One-Stop Resource Office
 
     TMU’s International Ministries Office serves as an important connection point for international students and TCKs, starting at the application stage and continuing through to graduation and beyond. Experienced staff come alongside professors and residence life staff help meet the unique needs of students coming from a variety of cross-cultural backgrounds.
 
     ## Custom-Tailored Admissions Process
 
-    Several years ago the TMU Admissions Office recognized the benefit of having an admissions counselor specifically dedicated to international students and other TCKs. The [international admissions staff](http://www.masters.edu/admissions/#intl) work with applicants and their families to ensure a smooth application process marked by open and consistent communication, whether a student is applying from Tokyo or Tulsa.
+    Several years ago the TMU Admissions Office recognized the benefit of having an admissions counselor specifically dedicated to international students and other TCKs. The [international admissions staff ](/admissions/undergrad/international-admissions)work with applicants and their families to ensure a smooth application process marked by open and consistent communication, whether a student is applying from Tokyo or Tulsa.
 
     ## Unique International Orientation Program
 
@@ -42,7 +42,7 @@ tabs:
 
     ## Customized Financial Aid
 
-    It’s becoming harder and harder to find a comprehensive, high-caliber education founded upon a biblical worldview. In light of this, a quality education from The Master’s University has become more valuable than ever. It’s something worth investing in. International students and TCKs have proven to be an asset to the TMU campus and successful representatives of the college in their future endeavors. Consequently, The Master’s University has made a strong commitment to partner with these students and their families in funding this important investment. While TMU cannot provide a full scholarship to students, significant discounts may be obtained. Detailed information about scholarships and grants for international students can be found [here](http://localhost:4000/financial-aid/general-undergraduate).
+    It’s becoming harder and harder to find a comprehensive, high-caliber education founded upon a biblical worldview. In light of this, a quality education from The Master’s University has become more valuable than ever. It’s something worth investing in. International students and TCKs have proven to be an asset to the TMU campus and successful representatives of the college in their future endeavors. Consequently, The Master’s University has made a strong commitment to partner with these students and their families in funding this important investment. While TMU cannot provide a full scholarship to students, significant discounts may be obtained. Detailed information about scholarships and grants for international students can be found [here](/financial-aid/general-undergraduate).
 
     ## International Community
 
@@ -55,4 +55,3 @@ image: "/images/IntlAdmissions.jpg"
 layout: stuadvc-sub-page
 ---
 
-blurb about international students 
