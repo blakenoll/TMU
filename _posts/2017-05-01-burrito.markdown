@@ -1,15 +1,15 @@
 ---
 title: 'Senior Memoir: Kailey Richardson'
 date: 2017-05-01 22:24:00 Z
+author: Sabrina Michael
+catergory: Senior Memoir
+image: "/images/Parallax_Focus.jpg"
+sm-image: http://www.masters.edu/media/869871/richardson.jpg
 preview-text: Master’s was my last choice. Not only was it my last choice, but it
   was the only choice I tried to run away from.  I have been around this school my
   entire life. I was born and raised in the Santa Clarita Valley. I grew up going
   to Placerita Bible Church, which is next to Masters, for the first seventeen years
   of my life.
-author: Sabrina Michael
-catergory: Events
-image: "/images/Parallax_Focus.jpg"
-sm-image: http://www.masters.edu/media/869871/richardson.jpg
 ---
 
 > Master’s was my last choice. Not only was it my last choice, but it was the only choice I tried to run away from.
