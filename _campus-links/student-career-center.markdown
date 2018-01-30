@@ -3,7 +3,7 @@ title: Student Career Center
 date: 2017-04-11 23:21:00 Z
 parallax-img: "/images/Parallax6.jpg"
 work-study-body: |-
-  How work study works
+  ## How work study works
 
   * Work study is awarded through the Office of Financial Aid. At the beginning of the semester, 80% of your Work Study award is applied to your student billing account (for example, if your fall award is $1,250 then $1,000 was applied). Throughout the semester, you "work off" the amount applied to your student account. If you do not earn the 80% of work study funds applied to your Student Account, you will be responsible to pay the un-earned funds back to the university. You also have potential to earn all 100% of your Work Study award.
 
