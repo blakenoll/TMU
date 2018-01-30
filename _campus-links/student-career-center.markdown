@@ -313,6 +313,8 @@ layout: studentcareercenter
 ---
 
 Welcome to the Career Services Department here at The Master's University. Obtaining a degree here at Master's is a lifechanging experience and the knowledge you gain while on this journey can take you far in your post-graduate opportunities. However, holding a diploma after four years of intensive efforts won't necessarily guarantee you a profitable career. It is important to fortify some essential strategies and skills that will make you more employable and ready to compete for jobs in a real world that is changing every day.
+
+
 In the Career Center at The Master's University, our goal is to offer services that will empower students to become dynamic agents in their professional preparation and career outcomes. We want to help students with the formation of their career plans… identifying their passions, their competencies, and their aptitudes. Additionally, it is important that these students have an overview of what it takes to customize resumes and write noticeable cover letters, to put their best foot forward in interviews sessions, to know the importance of networking in the business community, and to understand the essence of professionalism in the workplace.
 It is our pleasure to provide assurance and meaningful assistance to our students here at The Master's University and to help propel them into amazing opportunities for future success.
 
