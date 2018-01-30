@@ -19,9 +19,12 @@ layout: default
   <h2>{{ page.name }}</h2>
   <div class="row">
     <div class="col s12 m6">
+      {% if page.video != ' ' %}
       <div class="video-container">
         {{ page.video }}
       </div>
+      {% else %}
+      <img src="{{ page.image }}" alt="Image of {{page.name }}" class="circle responsive-img hoverable">
     </div>
     <div class="col s12 m6">
 
