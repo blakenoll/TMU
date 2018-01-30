@@ -55,4 +55,3 @@ image: "/images/IntlAdmissions.jpg"
 layout: stuadvc-sub-page
 ---
 
-blurb about international students 
