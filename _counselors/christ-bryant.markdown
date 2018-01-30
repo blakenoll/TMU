@@ -4,7 +4,7 @@ date: 2017-07-11 19:28:00 Z
 name: Chris Bryant
 email: cbryant@masters.edu
 phone: 1 (661) 362-2605
-image: 
+image: "/images/FacutyBlank_500x500.png"
 ---
 
 I was born and raised in Peoria, Illinois where my life was always busy. Between sports practice, chorale obligations, church events, and school I was constantly on the move. I played football, basketball, swam, club frisbee, and rugby. I still love getting outdoors, and have picked up soccer, camping, and drone flying. As I finished high school, there were multiple universities that caught my eye and Master’s was one of them. This university had a reputation that I could not ignore. So, with the plan to “get out” for college, I packed up my stuff and road tripped 2,000 miles to Southern California.
