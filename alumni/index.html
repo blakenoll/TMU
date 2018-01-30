@@ -53,6 +53,7 @@ parallax-img: "/images/Parallax3.jpg"
         {% for item in site.alumni %}
         <li class="tab"><a href="#{{ item.title | remove: " " }}">{{ item.title }}</a></li>
         {% endfor %}
+        <li class="tab"><a href="#alumninews">Alumni News</a></li>
       </ul>
     </div>
     {% for item in site.alumni %}
@@ -74,5 +75,21 @@ parallax-img: "/images/Parallax3.jpg"
       {% endif %}
     </div>
     {% endfor %}
+    <div id="alumninews" class="col s12">
+      <h2>Alumni News</h2>
+      {% for post in site.posts %}
+       {% if post.catergory == "Alumni Focus" %}
+       <div class="col s12 m6 l4 image">
+         <a href="{{ post.url | prepend: site.url }}">
+           <div class="card">
+               <div class="card-image">
+                 <img src="{{ post.sm-image }}" alt="{{ post.title }} image" width="100%">
+               </div>
+           </div>
+         </a>
+       </div>
+       {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </div>
