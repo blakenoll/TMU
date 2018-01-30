@@ -2,7 +2,7 @@
 title: 'Student Focus: Humphrey Mahowa'
 date: 2016-10-12 00:29:00 Z
 catergory: Student Focus
-sm-image: http://masters.edu/media/868527/humphreyblue.jpg
+sm-image: "/media/868527/humphreyblue.jpg"
 ---
 
 Growing up in Malawi, Africa, the second youngest of ten children, Humphrey Mahowa cannot remember a time when he didn’t play soccer and doesn’t plan on stopping anytime soon. Following graduation from The Master’s University, Mahowa hopes to play professionally, “If God wants me to go play \[soccer\] somewhere and opens that up than that’s where I am going, wherever He calls me; Africa, America, Europe, Asia. I just want to be connected with people in the community where I can impact kids and share the gospel.”
