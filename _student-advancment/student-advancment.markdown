@@ -1,7 +1,7 @@
 ---
-title: Student Advancment
+title: Student Advancement
 date: 2018-01-12 23:23:00 Z
-permalink: "/studentlife/student-advancment/"
+permalink: "/studentlife/student-advancement/"
 layout: stuadvc
 ---
 
