@@ -2,6 +2,7 @@
 title: 'Alumni Focus: Joshua Ungerecht'
 date: 2017-10-16 16:10:00 Z
 author: Adam Setser
+catergory: Alumni Focus
 sm-image: "/uploads/Alumni_Joshua.jpg"
 ---
 

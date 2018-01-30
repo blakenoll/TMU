@@ -2,7 +2,7 @@
 title: 'Alumni Focus: Ryan Zamroz'
 date: 2016-08-30 00:16:00 Z
 catergory: Alumni Focus
-sm-image: http://masters.edu/media/868266/alumnifocus-ryan-zamroz-graphic.jpg
+sm-image: "/media/868266/alumnifocus-ryan-zamroz-graphic.jpg"
 ---
 
 A map of Europe prominently hangs on the wall behind Ryan Zamroz’s desk, flanked by photos of the French Riviera, Spain, and Portugal. These photos are only a small representation of the six years Zamroz, athlete and alum of The Master’s University, played pro-basketball internationally.
