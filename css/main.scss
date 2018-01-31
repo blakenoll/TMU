@@ -6,6 +6,7 @@
 
 $gold: #DAAA00;
 $navy: #0C2340;
+$secondary-navy: #243853;
 $white: #ffffff;
 
 
@@ -59,7 +60,9 @@ a {
 
   height: 30px;
   line-height: 30px;
-  background-color: #0C2340;
+  background: $navy;
+  background: -webkit-linear-gradient(to right, #0c2340, $secondary-navy); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0c2340, $secondary-navy); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   .a-padding {
     font-size: 14px;
@@ -199,7 +202,9 @@ a {
 
 .btn-navy {
   color: fff;
-  background-color: $navy;
+  background: $navy;
+  background: -webkit-linear-gradient(to right, #0c2340, $secondary-navy); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0c2340, $secondary-navy); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   &:hover {
     background-color: lighten($navy, 5%)
   }
@@ -225,7 +230,9 @@ a {
 
 
 .navy {
-  background-color: #0C2340;
+  background: $navy;
+  background: -webkit-linear-gradient(to right, #0c2340, $secondary-navy); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0c2340, $secondary-navy); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   a {
     color: $gold !important;
   }
