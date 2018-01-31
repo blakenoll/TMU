@@ -16,18 +16,19 @@ layout: default
      </nav>
     </div>
   </div>
-  <h2>{{ page.name }}</h2>
   <div class="row">
-    <div class="col s12 m6">
-      {% if page.video != ' ' %}
+    <br>
+    <div class="col s12 m6 offset-m3">
+      {% if page.video != '' %}
       <div class="video-container">
         {{ page.video }}
       </div>
       {% else %}
       <img src="{{ page.image }}" alt="Image of {{page.name }}" class="circle responsive-img hoverable">
+      {% endif %}
     </div>
-    <div class="col s12 m6">
-
+    <div class="col s12 m8 offset-m2">
+      <h2>{{ page.name }}</h2>
       email: <a href="mailto:{{ page.email }}">{{ page.email }}</a><br>
       phone: <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
       <p>{{ content | markdownify }}</p>
