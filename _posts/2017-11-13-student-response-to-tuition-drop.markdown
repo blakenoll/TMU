@@ -1,6 +1,7 @@
 ---
 title: TMU Students Have Much To Be Thankful For
 date: 2017-11-13 22:06:00 Z
+published: false
 sm-image: "/uploads/THANKFUL_STUDENT.jpg"
 ---
 
