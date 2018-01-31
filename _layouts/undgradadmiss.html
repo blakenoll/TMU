@@ -62,6 +62,41 @@ layout: default
           </div>
         </div>
       </div>
+  </div>
+  <div class="parallax-container admissions-parallax">
+    <div class="parallax"><img src="{% if page.parallax-img %}{{ page.parallax-img | prepend: site.url }}{% else %}{{ '/images/Parallax12.jpg' | prepend: site.url }}{% endif %}" alt="{{ page.title }} header-img"></div>
+    <div class="container icon-links" style="height: 100%">
+      <div class="row spacing valign-wrapper">
+        <div class="col s12 m6">
+          <h1 class="program-title white-text center">How to Apply</h1>
+        </div>
+        <div class="col s12 m6">
+          <a href="/admissions/undergrad/freshmen" target="_blank">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
+              <span>Freshmen</span>
+            </div>
+          </a>
+          <a href="https://www.masters.edu/admissions/#apply">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
+              <span>Transfer</span>
+            </div>
+          </a>
+          <a href="/admissions/undergrad/international-admissions">
+            <div class="valign-wrapper card" style="width: 100%;">
+              <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
+              <span>International</span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container">
+
       <div class="row spacing">
         <div class="col s12 m8 offset-m2">
           <div class="video-container">
@@ -287,63 +322,5 @@ layout: default
         </a>
       </div>
     </div>
-    <div class="row spacing">
-
-        <div class="col s12 m5 home-spacers valign-wrapper">
-
-        <div class="card">
-            <div class="card-image">
-              <img src="/images/applyadmin.jpg">
-              <span class="pa-titles">How to Apply</span>
-            </div>
-          </div>
-
-        </div>
-        <div class="col s12 m7 icon-links home-spacers valign-wrapper" >
-          <!-- <div class="col s6">
-
-          </div> -->
-          <div class="col s6 offset-s3">
-            <a href="/admissions/undergrad/freshmen" target="_blank">
-              <div class="valign-wrapper card" style="width: 100%;">
-                <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
-                <span>Freshmen</span>
-              </div>
-            </a>
-            <a href="https://www.masters.edu/admissions/#apply">
-              <div class="valign-wrapper card" style="width: 100%;">
-                <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
-                <span>Transfer</span>
-              </div>
-            </a>
-            <!-- <a href="http://www.masters.edu/admissions/#apply">
-              <div class="valign-wrapper card" style="width: 100%;">
-                <img src="{{'/uploads/StudentLife_ResidentLife.png' | prepend: site.url }}" alt="">
-                <span>Pastor's Family</span>
-              </div>
-            </a> -->
-            <a href="/admissions/undergrad/international-admissions">
-              <div class="valign-wrapper card" style="width: 100%;">
-                <img src="{{'/uploads/AdmissionFinAid_ApplicationProcess.png' | prepend: site.url }}" alt="">
-                <span>International</span>
-              </div>
-            </a>
-          <!-- <a href="{{ '/calendar' | prepend: site.url }}">
-            <div class="valign-wrapper card" style="width: 100%;">
-              <img src="{{'/images/HomePage_Calendar.png' | prepend: site.url }}" alt="">
-              <span>Veterans & Military</span>
-            </div>
-          </a> -->
-          <!-- <a href="/give">
-            <div class="valign-wrapper card" style="width: 100%;">
-              <img src="{{'/images/HomePage_Give.png' | prepend: site.url }}" alt="">
-              <span>I'm not sure</span>
-            </div>
-          </a> -->
-          </div>
-        </div>
-
-    </div>
-
   </div>
 </div>
