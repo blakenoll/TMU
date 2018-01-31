@@ -7,7 +7,7 @@ sm-image: "/uploads/AdmissionFinAid_VeteransBenefits.png"
 <p>The Office of Financial Aid at The Master’s University welcomes veterans and members of the U.S. Armed Forces. We have designed this page as a resource for Veterans, active duty, reservists and their families to navigate the unique financial aid resources and benefits available. The Master’s University is approved to enroll those students and their families who are eligible for educational assistance benefits from the<a style="background-color: #ffffff;" href="http://www.va.gov/" target="_blank"> U.S. Department of Veterans Affairs (DVA).</a> We are committed to assisting you in taking full advantage of your Veterans benefits to secure an excellent higher Christian education at The Master’s University.</p>
 <ul>
 <li><span class="boldText">The Master's University is a Yellow Ribbon School</span></li>
-<li><span class="boldText">Please visit our <a href="http://www.masters.edu/admissions/military.aspx" target="_blank">Military Resource page</a> for additional information regarding Military students</span></li>
+<li><span class="boldText">Please visit our <a href="http://www.masters.edu/financial-aid/veterans-benefits" target="_blank">Military Resource page</a> for additional information regarding Military students</span></li>
 </ul>
 <h3>How do I start the process?</h3>
 <ol>
