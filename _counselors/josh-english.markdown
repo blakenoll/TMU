@@ -4,11 +4,7 @@ date: 2017-11-06 22:35:00 Z
 name: Josh English
 email: jenglish@masters.edu
 phone: 1 (661) 362 2249
-video: |-
-  <iframe src="https://www.masters.edu/images/IMG_1046.JPG" width="640" height="600"
-      frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 image: "/images/IMG_1046.JPG"
-Field name: 
 ---
 
 I was raised in a small town in Northern California where I grew to love adventure. Excitedly I welcome anything and everything (definitely exhausting at times!), but I never wanted to slow down. This lifestyle carried over into my faith in our Savior, Jesus Christ - I wanted to do everything I could to please God. It took some time to realize that my greatest efforts could not please God on their own (phew...), but instead I needed grace through Christ.
