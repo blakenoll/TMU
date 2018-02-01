@@ -2,6 +2,7 @@
 title: Stuart Scott
 date: 2017-09-21 17:27:00 Z
 job-title: Professor of Biblical Counseling
+image: "/uploads/Scott,%20S.jpg"
 department: Bible
 grad-program: MABC
 degrees:
