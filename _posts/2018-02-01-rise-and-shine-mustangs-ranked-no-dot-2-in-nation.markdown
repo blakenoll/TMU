@@ -1,7 +1,6 @@
 ---
 title: 'Rise and Shine: Mustangs Ranked No.2 in Nation'
 date: 2018-02-01 16:03:00 Z
-published: false
 author: Mason Nesbitt, TMU's Sports Information Director
 image: "/uploads/NO2.jpg"
 sm-image: "/uploads/NO2.jpg"
@@ -32,3 +31,5 @@ TMU’s ultimate goal is to win a national title. And Tuesday’s No. 2 ranking 
 Reigning GSAC Defensive Player of the Year Lawrence Russell, though, said the Mustangs are focused on the immediate future.
 
 “Our biggest goal right now is to win the GSAC,” he said, “and take it one game at a time.”
+
+*Meet the players, study the stats, come to a game, find all the information on our [new site](https://gomustangs.com).*
