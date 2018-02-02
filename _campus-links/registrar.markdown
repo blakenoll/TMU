@@ -8,481 +8,481 @@ articulation-body: |-
 
   ## **Alaska**
 
-  **[Alaska-Anchorage Community Colleges](https://athletics.masters.edu/media/868627/alaska-anchorage.pdf) / [Alaska-Anchorage Community Colleges FA15](https://athletics.masters.edu/media/868626/alaska-anchorage-fa15.pdf)**
+  **[Alaska-Anchorage Community Colleges](https://www.masters.edu/media/868627/alaska-anchorage.pdf) / [Alaska-Anchorage Community Colleges FA15](https://www.masters.edu/media/868626/alaska-anchorage-fa15.pdf)**
 
   **Arizona**
 
-  **[Arizona Western College](https://athletics.masters.edu/media/868827/arizonawesterncoll.pdf) / [Arizona Western College FA15](https://athletics.masters.edu/media/868826/arizonawesterncoll-f15.pdf "ArizonaWesternColl F15.pdf")**
+  **[Arizona Western College](https://www.masters.edu/media/868827/arizonawesterncoll.pdf) / [Arizona Western College FA15](https://www.masters.edu/media/868826/arizonawesterncoll-f15.pdf "ArizonaWesternColl F15.pdf")**
 
-  **[Central Arizona College](https://athletics.masters.edu/media/868829/centralarizonacollartic.pdf) / [Central Arizona College FA15](https://athletics.masters.edu/media/868828/centralarizonacollartic-fa15.pdf "CentralArizonacollartic FA15.pdf")**
+  **[Central Arizona College](https://www.masters.edu/media/868829/centralarizonacollartic.pdf) / [Central Arizona College FA15](https://www.masters.edu/media/868828/centralarizonacollartic-fa15.pdf "CentralArizonacollartic FA15.pdf")**
 
-  **[Chandler Gilbert Community College](https://athletics.masters.edu/media/295708/chandler-gilbertcollegeartic.pdf) /[ ](https://athletics.masters.edu/media/866649/chandler-gilbertcollegeartic-fa15.pdf "Chandler-GilbertCollegeartic FA15.pdf")[Chandler Gilbert Community College FA15](https://athletics.masters.edu/media/867002/chandler-gilbertcollegeartic-fa15.pdf "Chandler-GilbertCollegeartic FA15.pdf")**
+  **[Chandler Gilbert Community College](https://www.masters.edu/media/295708/chandler-gilbertcollegeartic.pdf) /[ ](https://www.masters.edu/media/866649/chandler-gilbertcollegeartic-fa15.pdf "Chandler-GilbertCollegeartic FA15.pdf")[Chandler Gilbert Community College FA15](https://www.masters.edu/media/867002/chandler-gilbertcollegeartic-fa15.pdf "Chandler-GilbertCollegeartic FA15.pdf")**
 
-  **[Cochise College ](https://athletics.masters.edu/media/868830/cochisecollartic.pdf)/[ Cochise College FA15](https://athletics.masters.edu/media/867182/cochisecollartic-fa15.pdf "Cochisecollartic FA15 RE.pdf")**
+  **[Cochise College ](https://www.masters.edu/media/868830/cochisecollartic.pdf)/[ Cochise College FA15](https://www.masters.edu/media/867182/cochisecollartic-fa15.pdf "Cochisecollartic FA15 RE.pdf")**
 
-  **[Coconino County Community College](https://athletics.masters.edu/media/868831/coconinocollartic.pdf) / [Coconino County Community College FA15](https://athletics.masters.edu/media/868832/coconinocollartic-fa15.pdf "Coconinocollartic FA15.pdf")**
+  **[Coconino County Community College](https://www.masters.edu/media/868831/coconinocollartic.pdf) / [Coconino County Community College FA15](https://www.masters.edu/media/868832/coconinocollartic-fa15.pdf "Coconinocollartic FA15.pdf")**
 
-  **[Eastern Arizona College](https://athletics.masters.edu/media/868833/easternarizonacollegeartic.pdf) / [Eastern Arizona College FA15](https://athletics.masters.edu/media/868834/easternarizonacollegeartic-fa15.pdf "EasternArizonaCollegeartic FA15 RE.pdf")**
+  **[Eastern Arizona College](https://www.masters.edu/media/868833/easternarizonacollegeartic.pdf) / [Eastern Arizona College FA15](https://www.masters.edu/media/868834/easternarizonacollegeartic-fa15.pdf "EasternArizonaCollegeartic FA15 RE.pdf")**
 
-  **[Estrella Mountain Community College](https://athletics.masters.edu/media/868835/estrellamountaincollegeartic.pdf) / [Estrella Mountain Community College FA15](https://athletics.masters.edu/media/868836/estrellamountaincollegeartic-fa15.pdf "EstrellaMountainCollegeartic FA15.pdf")**
+  **[Estrella Mountain Community College](https://www.masters.edu/media/868835/estrellamountaincollegeartic.pdf) / [Estrella Mountain Community College FA15](https://www.masters.edu/media/868836/estrellamountaincollegeartic-fa15.pdf "EstrellaMountainCollegeartic FA15.pdf")**
 
-  **[GateWay Community College](https://athletics.masters.edu/media/868837/gatewaycollegeartic.pdf) /[ GateWay Community College FA15](https://athletics.masters.edu/media/868838/gatewaycollegeartic-fa15.pdf "GatewayCollegeartic FA15.pdf")**
+  **[GateWay Community College](https://www.masters.edu/media/868837/gatewaycollegeartic.pdf) /[ GateWay Community College FA15](https://www.masters.edu/media/868838/gatewaycollegeartic-fa15.pdf "GatewayCollegeartic FA15.pdf")**
 
-  **[Glendale Community College](https://athletics.masters.edu/media/868840/glendalecommcollegeartic-az.pdf) / [Glendale Community College FA15](https://athletics.masters.edu/media/868839/glendalecommcollegeartic-az-fa15.pdf "GlendaleCommCollegeartic(AZ) FA15.pdf")**
+  **[Glendale Community College](https://www.masters.edu/media/868840/glendalecommcollegeartic-az.pdf) / [Glendale Community College FA15](https://www.masters.edu/media/868839/glendalecommcollegeartic-az-fa15.pdf "GlendaleCommCollegeartic(AZ) FA15.pdf")**
 
-  **[Mesa Community College](https://athletics.masters.edu/media/868841/mesacollartic.pdf) / [Mesa Community College FA15](https://athletics.masters.edu/media/868842/mesacollartic-fa15.pdf "MesaCollartic FA15.pdf")**
+  **[Mesa Community College](https://www.masters.edu/media/868841/mesacollartic.pdf) / [Mesa Community College FA15](https://www.masters.edu/media/868842/mesacollartic-fa15.pdf "MesaCollartic FA15.pdf")**
 
-  **[Mohave Community College](https://athletics.masters.edu/media/868843/mohavecollartic.pdf) / [Mohave Community College FA15](https://athletics.masters.edu/media/868844/mohavecollartic-fa15.pdf "Mohavecollartic FA15.pdf")**
+  **[Mohave Community College](https://www.masters.edu/media/868843/mohavecollartic.pdf) / [Mohave Community College FA15](https://www.masters.edu/media/868844/mohavecollartic-fa15.pdf "Mohavecollartic FA15.pdf")**
 
-  **[Northland Pioneer College](https://athletics.masters.edu/media/868845/northlandpioneercollartic.pdf) / [Northland Pioneer College FA15](https://athletics.masters.edu/media/868847/northlandpioneercollartic-fa15.pdf "NorthlandPioneercollartic FA15.pdf")**
+  **[Northland Pioneer College](https://www.masters.edu/media/868845/northlandpioneercollartic.pdf) / [Northland Pioneer College FA15](https://www.masters.edu/media/868847/northlandpioneercollartic-fa15.pdf "NorthlandPioneercollartic FA15.pdf")**
 
-  **[Paradise Valley Community College](https://athletics.masters.edu/media/868848/paradisevalleyccartic.pdf) / [Paradise Valley Community College FA15](https://athletics.masters.edu/media/868850/phoenixcollartic.pdf)**
+  **[Paradise Valley Community College](https://www.masters.edu/media/868848/paradisevalleyccartic.pdf) / [Paradise Valley Community College FA15](https://www.masters.edu/media/868850/phoenixcollartic.pdf)**
 
-  **[Phoenix College](https://athletics.masters.edu/media/868850/phoenixcollartic.pdf) / [Phoenix College FA15](https://athletics.masters.edu/media/868851/phoenixcollartic-fa15.pdf "Phoenixcollartic FA15.pdf")**
+  **[Phoenix College](https://www.masters.edu/media/868850/phoenixcollartic.pdf) / [Phoenix College FA15](https://www.masters.edu/media/868851/phoenixcollartic-fa15.pdf "Phoenixcollartic FA15.pdf")**
 
-  **[Pima Community College](https://athletics.masters.edu/media/868852/pimacollartic.pdf) / [Pima Community College FA15](https://athletics.masters.edu/media/868853/pimacollartic-fa15.pdf "Pimacollartic FA15.pdf")**
+  **[Pima Community College](https://www.masters.edu/media/868852/pimacollartic.pdf) / [Pima Community College FA15](https://www.masters.edu/media/868853/pimacollartic-fa15.pdf "Pimacollartic FA15.pdf")**
 
-  **[Rio Salado Community College](https://athletics.masters.edu/media/868854/riosaladocollartic.pdf) / [Rio Salado Community College FA15](https://athletics.masters.edu/media/868855/riosaladocollartic-fa15.pdf "RioSaladocollartic FA15.pdf")**
+  **[Rio Salado Community College](https://www.masters.edu/media/868854/riosaladocollartic.pdf) / [Rio Salado Community College FA15](https://www.masters.edu/media/868855/riosaladocollartic-fa15.pdf "RioSaladocollartic FA15.pdf")**
 
-  **[Scottsdale Community College](https://athletics.masters.edu/media/868856/scottsdalecommcollartic.pdf) / [Scottsdale Community College FA15](https://athletics.masters.edu/media/868857/scottsdalecommcollartic-fa15.pdf "ScottsdaleCommCollartic FA15.pdf")**
+  **[Scottsdale Community College](https://www.masters.edu/media/868856/scottsdalecommcollartic.pdf) / [Scottsdale Community College FA15](https://www.masters.edu/media/868857/scottsdalecommcollartic-fa15.pdf "ScottsdaleCommCollartic FA15.pdf")**
 
-  **[South Mountain Community College](https://athletics.masters.edu/media/868858/southmountaincollartic.pdf) / [South Mountain Community College FA15](https://athletics.masters.edu/media/868859/southmountaincollartic-fa15.pdf "SouthMountainCollartic FA15.pdf")**
+  **[South Mountain Community College](https://www.masters.edu/media/868858/southmountaincollartic.pdf) / [South Mountain Community College FA15](https://www.masters.edu/media/868859/southmountaincollartic-fa15.pdf "SouthMountainCollartic FA15.pdf")**
 
-  **[Yavapai College](https://athletics.masters.edu/media/868860/yavapaicollartic.pdf) / [Yavapai College FA15](https://athletics.masters.edu/media/868861/yavapaicollartic-fa15.pdf "Yavapaicollartic FA15.pdf")**
+  **[Yavapai College](https://www.masters.edu/media/868860/yavapaicollartic.pdf) / [Yavapai College FA15](https://www.masters.edu/media/868861/yavapaicollartic-fa15.pdf "Yavapaicollartic FA15.pdf")**
 
   ## **California**
 
-  **[Allan Hancock College](https://athletics.masters.edu/media/868792/allanhancockcollartic.pdf) / [Allan Hancock College FA15](https://athletics.masters.edu/media/868779/allanhancockcollartic-fa15.pdf "AllanHancockcollartic FA15.pdf")**
+  **[Allan Hancock College](https://www.masters.edu/media/868792/allanhancockcollartic.pdf) / [Allan Hancock College FA15](https://www.masters.edu/media/868779/allanhancockcollartic-fa15.pdf "AllanHancockcollartic FA15.pdf")**
 
-  **[American River College](https://athletics.masters.edu/media/868863/american-rivercollartic.pdf) /[ American River College FA15](https://athletics.masters.edu/media/868864/american-rivercollartic-fa15.pdf "American RiverCollartic FA15.pdf")**
+  **[American River College](https://www.masters.edu/media/868863/american-rivercollartic.pdf) /[ American River College FA15](https://www.masters.edu/media/868864/american-rivercollartic-fa15.pdf "American RiverCollartic FA15.pdf")**
 
-  **[Antelope Valley College](https://athletics.masters.edu/media/868865/antelopevallcollartic.pdf) / [Antelope Valley College FA15](https://athletics.masters.edu/media/868866/antelopevallcollartic-fa15.pdf "AntelopeVallCollartic FA15.pdf")**
+  **[Antelope Valley College](https://www.masters.edu/media/868865/antelopevallcollartic.pdf) / [Antelope Valley College FA15](https://www.masters.edu/media/868866/antelopevallcollartic-fa15.pdf "AntelopeVallCollartic FA15.pdf")**
 
-  **[Bakersfield College](https://athletics.masters.edu/media/868867/bakersfieldcollartic.pdf) / [Bakersfield College FA15](https://athletics.masters.edu/media/868868/bakersfieldcollartic-fa15.pdf "Bakersfieldcollartic FA15.pdf")**
+  **[Bakersfield College](https://www.masters.edu/media/868867/bakersfieldcollartic.pdf) / [Bakersfield College FA15](https://www.masters.edu/media/868868/bakersfieldcollartic-fa15.pdf "Bakersfieldcollartic FA15.pdf")**
 
-  **[Barstow College](https://athletics.masters.edu/media/868874/barstowcollartic.pdf) / [Barstow College FA15](https://athletics.masters.edu/media/868875/barstowcollartic-fa15.pdf "Barstowcollartic FA15.pdf")**
+  **[Barstow College](https://www.masters.edu/media/868874/barstowcollartic.pdf) / [Barstow College FA15](https://www.masters.edu/media/868875/barstowcollartic-fa15.pdf "Barstowcollartic FA15.pdf")**
 
-  **[Berkeley City College](https://athletics.masters.edu/media/868876/berkeleycitycollartic.pdf) / [Berkeley City College FA15](https://athletics.masters.edu/media/868877/berkeleycitycollartic-fa15.pdf "BerkeleyCityCollartic FA15.pdf")**
+  **[Berkeley City College](https://www.masters.edu/media/868876/berkeleycitycollartic.pdf) / [Berkeley City College FA15](https://www.masters.edu/media/868877/berkeleycitycollartic-fa15.pdf "BerkeleyCityCollartic FA15.pdf")**
 
-  **[Butte College](https://athletics.masters.edu/media/868878/buttecollartic.pdf) / [Butte College FA15](https://athletics.masters.edu/media/868879/buttecollartic-fa15.pdf "Buttecollartic FA15.pdf")**
+  **[Butte College](https://www.masters.edu/media/868878/buttecollartic.pdf) / [Butte College FA15](https://www.masters.edu/media/868879/buttecollartic-fa15.pdf "Buttecollartic FA15.pdf")**
 
-  **[Cabrillo College](https://athletics.masters.edu/media/868880/cabrillocollartic.pdf) / [Cabrillo College FA15](https://athletics.masters.edu/media/868881/cabrillocollartic-fa15.pdf "Cabrillocollartic FA15.pdf")[\
-  ](https://athletics.masters.edu/media/866443/cabrillocollartic-fa15.pdf "Cabrillo College FA15")**
+  **[Cabrillo College](https://www.masters.edu/media/868880/cabrillocollartic.pdf) / [Cabrillo College FA15](https://www.masters.edu/media/868881/cabrillocollartic-fa15.pdf "Cabrillocollartic FA15.pdf")[\
+  ](https://www.masters.edu/media/866443/cabrillocollartic-fa15.pdf "Cabrillo College FA15")**
 
-  **[Cañada College](https://athletics.masters.edu/media/868882/canadacollartic.pdf "Canadacollartic.pdf (1)")[ ](https://athletics.masters.edu/media/299554/canadacollartic-fa15.pdf "Canadacollartic.pdf")/ [Cañada College FA15](https://athletics.masters.edu/media/868883/canadacollartic-fa15.pdf "Canadacollartic FA15.pdf")**
+  **[Cañada College](https://www.masters.edu/media/868882/canadacollartic.pdf "Canadacollartic.pdf (1)")[ ](https://www.masters.edu/media/299554/canadacollartic-fa15.pdf "Canadacollartic.pdf")/ [Cañada College FA15](https://www.masters.edu/media/868883/canadacollartic-fa15.pdf "Canadacollartic FA15.pdf")**
 
-  **[Cerritos College](https://athletics.masters.edu/media/868884/cerritoscollgeartic.pdf) / [Cerritos College FA15](https://athletics.masters.edu/media/868885/cerritoscollgeartic-fa15.pdf "CerritosCollgeartic FA15.pdf")**
+  **[Cerritos College](https://www.masters.edu/media/868884/cerritoscollgeartic.pdf) / [Cerritos College FA15](https://www.masters.edu/media/868885/cerritoscollgeartic-fa15.pdf "CerritosCollgeartic FA15.pdf")**
 
-  **[Cerro Coso Community College](https://athletics.masters.edu/media/868886/cerrocosocollegeartic.pdf) / [Cerro Coso Community College FA15](https://athletics.masters.edu/media/868887/cerrocosocollegeartic-fa15.pdf "CerroCosoCollegeartic FA15.pdf")**
+  **[Cerro Coso Community College](https://www.masters.edu/media/868886/cerrocosocollegeartic.pdf) / [Cerro Coso Community College FA15](https://www.masters.edu/media/868887/cerrocosocollegeartic-fa15.pdf "CerroCosoCollegeartic FA15.pdf")**
 
-  **[Chabot College](https://athletics.masters.edu/media/868888/chabotcollegeartic.pdf) / [Chabot College FA15](https://athletics.masters.edu/media/868889/chabotcollegeartic-fa15.pdf "ChabotCollegeartic FA15.pdf")**
+  **[Chabot College](https://www.masters.edu/media/868888/chabotcollegeartic.pdf) / [Chabot College FA15](https://www.masters.edu/media/868889/chabotcollegeartic-fa15.pdf "ChabotCollegeartic FA15.pdf")**
 
-  **[Chaffey College](https://athletics.masters.edu/media/868890/chaffeycollegeartic.pdf) / [Chaffey College FA15](https://athletics.masters.edu/media/868891/chaffeycollegeartic-fa15.pdf "ChaffeyCollegeartic FA15.pdf")**
+  **[Chaffey College](https://www.masters.edu/media/868890/chaffeycollegeartic.pdf) / [Chaffey College FA15](https://www.masters.edu/media/868891/chaffeycollegeartic-fa15.pdf "ChaffeyCollegeartic FA15.pdf")**
 
-  **[Citrus College](https://athletics.masters.edu/media/868892/citruscollegeartic.pdf) / [Citrus College FA15](https://athletics.masters.edu/media/868893/citruscollegeartic-fa15.pdf "CitrusCollegeartic FA15.pdf")**
+  **[Citrus College](https://www.masters.edu/media/868892/citruscollegeartic.pdf) / [Citrus College FA15](https://www.masters.edu/media/868893/citruscollegeartic-fa15.pdf "CitrusCollegeartic FA15.pdf")**
 
-  **[City College of San Francisco](https://athletics.masters.edu/media/868920/citycollegeofsanfranartic.pdf) / [City College of San Francisco FA15](https://athletics.masters.edu/media/868921/citycollegeofsanfranartic-fa15.pdf "CityCollegeofSanFranartic FA15.pdf")**
+  **[City College of San Francisco](https://www.masters.edu/media/868920/citycollegeofsanfranartic.pdf) / [City College of San Francisco FA15](https://www.masters.edu/media/868921/citycollegeofsanfranartic-fa15.pdf "CityCollegeofSanFranartic FA15.pdf")**
 
-  **[Clovis College FA15](https://athletics.masters.edu/media/868922/cloviscommunitycollege-ca-artic-fa15.pdf "ClovisCommunityCollege (CA)artic FA15.pdf")**
+  **[Clovis College FA15](https://www.masters.edu/media/868922/cloviscommunitycollege-ca-artic-fa15.pdf "ClovisCommunityCollege (CA)artic FA15.pdf")**
 
-  **[Coastline Community College](https://athletics.masters.edu/media/868923/coastlineartic.pdf) / [Coastline Community College FA15](https://athletics.masters.edu/media/868924/coastlineartic-fa15.pdf "Coastline Community College FA15")**
+  **[Coastline Community College](https://www.masters.edu/media/868923/coastlineartic.pdf) / [Coastline Community College FA15](https://www.masters.edu/media/868924/coastlineartic-fa15.pdf "Coastline Community College FA15")**
 
-  **[College of Alameda](https://athletics.masters.edu/media/868925/collegeofalamedaartic.pdf) / [College of Alameda FA15](https://athletics.masters.edu/media/868926/collegeofalamedaartic-fa15.pdf "CollegeofAlamedaartic FA15.pdf")**
+  **[College of Alameda](https://www.masters.edu/media/868925/collegeofalamedaartic.pdf) / [College of Alameda FA15](https://www.masters.edu/media/868926/collegeofalamedaartic-fa15.pdf "CollegeofAlamedaartic FA15.pdf")**
 
-  **[College of Marin](https://athletics.masters.edu/media/868927/collegeofmarinartic.pdf) / [College of Marin FA15](https://athletics.masters.edu/media/868928/collegeofmarinartic-fa15.pdf "CollegeofMarinartic FA15.pdf")**
+  **[College of Marin](https://www.masters.edu/media/868927/collegeofmarinartic.pdf) / [College of Marin FA15](https://www.masters.edu/media/868928/collegeofmarinartic-fa15.pdf "CollegeofMarinartic FA15.pdf")**
 
-  **[College of San Mateo](https://athletics.masters.edu/media/868929/collegeofsanmateoartic.pdf) / [College of San Mateo FA15](https://athletics.masters.edu/media/868930/collegeofsanmateoartic-fa15-revise.pdf "CollegeofSanMateoartic FA15 REVISE.pdf")**
+  **[College of San Mateo](https://www.masters.edu/media/868929/collegeofsanmateoartic.pdf) / [College of San Mateo FA15](https://www.masters.edu/media/868930/collegeofsanmateoartic-fa15-revise.pdf "CollegeofSanMateoartic FA15 REVISE.pdf")**
 
-  **[College of the Canyons](https://athletics.masters.edu/media/868931/collofthecanyonsartic.pdf) / [College of the Canyons FA15](https://athletics.masters.edu/media/868932/collofthecanyonsartic-fa15.pdf "ColloftheCanyonsartic FA15.pdf")**
+  **[College of the Canyons](https://www.masters.edu/media/868931/collofthecanyonsartic.pdf) / [College of the Canyons FA15](https://www.masters.edu/media/868932/collofthecanyonsartic-fa15.pdf "ColloftheCanyonsartic FA15.pdf")**
 
-  **[College of the Desert](https://athletics.masters.edu/media/868933/collegeofthedesertartic.pdf) / [College of the Desert FA15](https://athletics.masters.edu/media/868934/collegeofthedesertartic-fa15.pdf "CollegeoftheDesertartic FA15.pdf")**
+  **[College of the Desert](https://www.masters.edu/media/868933/collegeofthedesertartic.pdf) / [College of the Desert FA15](https://www.masters.edu/media/868934/collegeofthedesertartic-fa15.pdf "CollegeoftheDesertartic FA15.pdf")**
 
-  **[College of the Redwoods](https://athletics.masters.edu/media/868935/colloftheredwoodsartic.pdf) / [College of the Redwoods FA15](https://athletics.masters.edu/media/868936/colloftheredwoodsartic-fa15.pdf "ColloftheRedwoodsartic FA15.pdf (1)")**
+  **[College of the Redwoods](https://www.masters.edu/media/868935/colloftheredwoodsartic.pdf) / [College of the Redwoods FA15](https://www.masters.edu/media/868936/colloftheredwoodsartic-fa15.pdf "ColloftheRedwoodsartic FA15.pdf (1)")**
 
-  **[College of the Sequoias](https://athletics.masters.edu/media/868937/collofthesequoiasartic.pdf) / [College of the Sequoias FA15](https://athletics.masters.edu/media/868938/collofthesequoiasartic-fa15.pdf "ColloftheSequoiasartic FA15.pdf")**
+  **[College of the Sequoias](https://www.masters.edu/media/868937/collofthesequoiasartic.pdf) / [College of the Sequoias FA15](https://www.masters.edu/media/868938/collofthesequoiasartic-fa15.pdf "ColloftheSequoiasartic FA15.pdf")**
 
-  **[College of the Siskiyous](https://athletics.masters.edu/media/868939/collofthesiskiyousartic.pdf) / [College of the Siskiyous FA15](https://athletics.masters.edu/media/868940/collofthesiskiyousartic-fa15.pdf "ColloftheSiskiyousartic FA15.pdf")**
+  **[College of the Siskiyous](https://www.masters.edu/media/868939/collofthesiskiyousartic.pdf) / [College of the Siskiyous FA15](https://www.masters.edu/media/868940/collofthesiskiyousartic-fa15.pdf "ColloftheSiskiyousartic FA15.pdf")**
 
-  **[Columbia College](https://athletics.masters.edu/media/868941/columbiacollegeartic.pdf) / [Columbia College FA15](https://athletics.masters.edu/media/868942/columbiacollegeartic-fa15.pdf "ColumbiaCollegeartic FA15.pdf")**
+  **[Columbia College](https://www.masters.edu/media/868941/columbiacollegeartic.pdf) / [Columbia College FA15](https://www.masters.edu/media/868942/columbiacollegeartic-fa15.pdf "ColumbiaCollegeartic FA15.pdf")**
 
-  **[Contra Costa College](https://athletics.masters.edu/media/868943/contracostacollegeartic.pdf) / [Contra Costa College FA15](https://athletics.masters.edu/media/868944/contracostacollegeartic-fa15.pdf "ContraCostaCollegeartic FA15.pdf")**
+  **[Contra Costa College](https://www.masters.edu/media/868943/contracostacollegeartic.pdf) / [Contra Costa College FA15](https://www.masters.edu/media/868944/contracostacollegeartic-fa15.pdf "ContraCostaCollegeartic FA15.pdf")**
 
-  **[Copper Mountain College](https://athletics.masters.edu/media/868945/coppermtncollartic.pdf) / [Copper Mountain College FA15](https://athletics.masters.edu/media/868946/coppermtncollartic-fa15.pdf "CopperMtncollartic FA15.pdf")**
+  **[Copper Mountain College](https://www.masters.edu/media/868945/coppermtncollartic.pdf) / [Copper Mountain College FA15](https://www.masters.edu/media/868946/coppermtncollartic-fa15.pdf "CopperMtncollartic FA15.pdf")**
 
-  **[Cosumnes River College](https://athletics.masters.edu/media/868947/cosumnesrivercollegeartic.pdf) / [Cosumnes River College FA15](https://athletics.masters.edu/media/868948/cosumnesrivercollegeartic-fa15.pdf "CosumnesRiverCollegeartic FA15.pdf")**
+  **[Cosumnes River College](https://www.masters.edu/media/868947/cosumnesrivercollegeartic.pdf) / [Cosumnes River College FA15](https://www.masters.edu/media/868948/cosumnesrivercollegeartic-fa15.pdf "CosumnesRiverCollegeartic FA15.pdf")**
 
-  **[Crafton Hills College](https://athletics.masters.edu/media/868949/craftonhillscollegeartic.pdf) / [Crafton Hills College FA15](https://athletics.masters.edu/media/868950/craftonhillscollegeartic-fa15.pdf "CraftonHillsCollegeartic FA15.pdf")**
+  **[Crafton Hills College](https://www.masters.edu/media/868949/craftonhillscollegeartic.pdf) / [Crafton Hills College FA15](https://www.masters.edu/media/868950/craftonhillscollegeartic-fa15.pdf "CraftonHillsCollegeartic FA15.pdf")**
 
-  **[Cuesta College](https://athletics.masters.edu/media/300756/CuestaCollegeartic.pdf) / [Cuesta College FA15](https://athletics.masters.edu/media/868952/cuestacollegeartic-fa15.pdf "CuestaCollegeartic FA15.pdf")**
+  **[Cuesta College](https://www.masters.edu/media/300756/CuestaCollegeartic.pdf) / [Cuesta College FA15](https://www.masters.edu/media/868952/cuestacollegeartic-fa15.pdf "CuestaCollegeartic FA15.pdf")**
 
-  **[Cuyamaca College](https://athletics.masters.edu/media/868953/cuyamacacollegeartic.pdf) / [Cuyamaca College FA15](https://athletics.masters.edu/media/868954/cuyamacacollegeartic-fa15.pdf "CuyamacaCollegeartic FA15.pdf")**
+  **[Cuyamaca College](https://www.masters.edu/media/868953/cuyamacacollegeartic.pdf) / [Cuyamaca College FA15](https://www.masters.edu/media/868954/cuyamacacollegeartic-fa15.pdf "CuyamacaCollegeartic FA15.pdf")**
 
-  **[Cypress College](https://athletics.masters.edu/media/868955/cypresscollegeartic.pdf) / [Cypress College FA15](https://athletics.masters.edu/media/868956/cypresscollegeartic-fa15.pdf "CypressCollegeartic FA15.pdf")**
+  **[Cypress College](https://www.masters.edu/media/868955/cypresscollegeartic.pdf) / [Cypress College FA15](https://www.masters.edu/media/868956/cypresscollegeartic-fa15.pdf "CypressCollegeartic FA15.pdf")**
 
-  **[DeAnza College](https://athletics.masters.edu/media/868957/deanzacollegeartic.pdf) / [DeAnza College FA15](https://athletics.masters.edu/media/868958/deanzacollegeartic-fa15.pdf "DeAnzaCollegeartic FA15.pdf")**
+  **[DeAnza College](https://www.masters.edu/media/868957/deanzacollegeartic.pdf) / [DeAnza College FA15](https://www.masters.edu/media/868958/deanzacollegeartic-fa15.pdf "DeAnzaCollegeartic FA15.pdf")**
 
-  **[Diablo Valley College](https://athletics.masters.edu/media/868959/diablovalleycollageartic.pdf) / [Diablo Valley College FA15](https://athletics.masters.edu/media/868960/diablovalleycollageartic-fa15.pdf "DiabloValleyCollageartic FA15.pdf")**
+  **[Diablo Valley College](https://www.masters.edu/media/868959/diablovalleycollageartic.pdf) / [Diablo Valley College FA15](https://www.masters.edu/media/868960/diablovalleycollageartic-fa15.pdf "DiabloValleyCollageartic FA15.pdf")**
 
-  **[East Los Angeles College](https://athletics.masters.edu/media/868961/eastlosangelescollegeartic.pdf) / [East Los Angeles College FA15](https://athletics.masters.edu/media/868962/eastlosangelescollegeartic-fa15.pdf "EastLosAngelesCollegeartic FA15.pdf")**
+  **[East Los Angeles College](https://www.masters.edu/media/868961/eastlosangelescollegeartic.pdf) / [East Los Angeles College FA15](https://www.masters.edu/media/868962/eastlosangelescollegeartic-fa15.pdf "EastLosAngelesCollegeartic FA15.pdf")**
 
-  **[El Camino College](https://athletics.masters.edu/media/868963/elcaminocollegeartic.pdf) / [El Camino College FA15](https://athletics.masters.edu/media/868964/elcaminocollegeartic-fa15.pdf "ElCaminoCollegeartic FA15.pdf")**
+  **[El Camino College](https://www.masters.edu/media/868963/elcaminocollegeartic.pdf) / [El Camino College FA15](https://www.masters.edu/media/868964/elcaminocollegeartic-fa15.pdf "ElCaminoCollegeartic FA15.pdf")**
 
-  **[Evergreen Valley College](https://athletics.masters.edu/media/868965/evergreenvalleycollegeartic.pdf) / [Evergreen Valley College FA15](https://athletics.masters.edu/media/868966/evergreenvalleycollegeartic-fa15.pdf "EvergreenValleyCollegeartic FA15.pdf")**
+  **[Evergreen Valley College](https://www.masters.edu/media/868965/evergreenvalleycollegeartic.pdf) / [Evergreen Valley College FA15](https://www.masters.edu/media/868966/evergreenvalleycollegeartic-fa15.pdf "EvergreenValleyCollegeartic FA15.pdf")**
 
-  **[Feather River College](https://athletics.masters.edu/media/868967/featherrivercollegeartic.pdf) /[ Feather River College FA15](https://athletics.masters.edu/media/868968/featherrivercollegeartic-fa15.pdf "FeatherRiverCollegeartic FA15.pdf")**
+  **[Feather River College](https://www.masters.edu/media/868967/featherrivercollegeartic.pdf) /[ Feather River College FA15](https://www.masters.edu/media/868968/featherrivercollegeartic-fa15.pdf "FeatherRiverCollegeartic FA15.pdf")**
 
-  **[Folsom Lake College](https://athletics.masters.edu/media/868969/folsomlakecollegeartic.pdf) / [Folsom Lake College FA15](https://athletics.masters.edu/media/868970/folsomlakecollegeartic-fa15.pdf "FolsomLakeCollegeartic FA15.pdf")**
+  **[Folsom Lake College](https://www.masters.edu/media/868969/folsomlakecollegeartic.pdf) / [Folsom Lake College FA15](https://www.masters.edu/media/868970/folsomlakecollegeartic-fa15.pdf "FolsomLakeCollegeartic FA15.pdf")**
 
-  **[Foothill College](https://athletics.masters.edu/media/868971/foothillcollegeartic.pdf) / [Foothill College FA15](https://athletics.masters.edu/media/868972/foothillcollegeartic-fa15.pdf "FoothillCollegeartic FA15.pdf")**
+  **[Foothill College](https://www.masters.edu/media/868971/foothillcollegeartic.pdf) / [Foothill College FA15](https://www.masters.edu/media/868972/foothillcollegeartic-fa15.pdf "FoothillCollegeartic FA15.pdf")**
 
-  **[Fresno City College](https://athletics.masters.edu/media/868973/fresnocitycollegeartic.pdf) / [Fresno City College FA15](https://athletics.masters.edu/media/868974/fresnocitycollegeartic-fa15.pdf "FresnoCityCollegeartic FA15.pdf")**
+  **[Fresno City College](https://www.masters.edu/media/868973/fresnocitycollegeartic.pdf) / [Fresno City College FA15](https://www.masters.edu/media/868974/fresnocitycollegeartic-fa15.pdf "FresnoCityCollegeartic FA15.pdf")**
 
-  **[Fullerton College](https://athletics.masters.edu/media/868975/fullertoncollegeartic.pdf) / [Fullerton College FA15](https://athletics.masters.edu/media/868976/fullertoncollegeartic-fa15.pdf "FullertonCollegeartic FA15.pdf")**
+  **[Fullerton College](https://www.masters.edu/media/868975/fullertoncollegeartic.pdf) / [Fullerton College FA15](https://www.masters.edu/media/868976/fullertoncollegeartic-fa15.pdf "FullertonCollegeartic FA15.pdf")**
 
-  **[Gavilan College](https://athletics.masters.edu/media/868977/gavilancollegeartic.pdf) / [Gavilan College FA15](https://athletics.masters.edu/media/868978/gavilancollegeartic-fa15.pdf "GavilanCollegeartic FA15.pdf")**
+  **[Gavilan College](https://www.masters.edu/media/868977/gavilancollegeartic.pdf) / [Gavilan College FA15](https://www.masters.edu/media/868978/gavilancollegeartic-fa15.pdf "GavilanCollegeartic FA15.pdf")**
 
-  **[Glendale Community College](https://athletics.masters.edu/media/868979/glendalecommcollegeartic-ca.pdf) / [Glendale Community College FA15](https://athletics.masters.edu/media/868980/glendalecommcollegeartic-ca-fa15.pdf "GlendaleCommCollegeartic(CA) FA15.pdf")**
+  **[Glendale Community College](https://www.masters.edu/media/868979/glendalecommcollegeartic-ca.pdf) / [Glendale Community College FA15](https://www.masters.edu/media/868980/glendalecommcollegeartic-ca-fa15.pdf "GlendaleCommCollegeartic(CA) FA15.pdf")**
 
-  **[Golden West College](https://athletics.masters.edu/media/868981/goldenwestcollegeartic.pdf) / [Golden West College FA15](https://athletics.masters.edu/media/868983/goldenwestcollegeartic-fa15.pdf "Golden West College FA15")**
+  **[Golden West College](https://www.masters.edu/media/868981/goldenwestcollegeartic.pdf) / [Golden West College FA15](https://www.masters.edu/media/868983/goldenwestcollegeartic-fa15.pdf "Golden West College FA15")**
 
-  **[Grossmont College](https://athletics.masters.edu/media/868984/grossmontcollegeartic.pdf) / [Grossmont College FA15](https://athletics.masters.edu/media/868985/grossmontcollegeartic-fa15.pdf "GrossmontCollegeartic FA15.pdf")**
+  **[Grossmont College](https://www.masters.edu/media/868984/grossmontcollegeartic.pdf) / [Grossmont College FA15](https://www.masters.edu/media/868985/grossmontcollegeartic-fa15.pdf "GrossmontCollegeartic FA15.pdf")**
 
-  **[Hartnell College](https://athletics.masters.edu/media/868986/hartnellcollegeartic.pdf) / [Hartnell College FA15](https://athletics.masters.edu/media/868987/hartnellcollegeartic-fa15.pdf "HartnellCollegeartic FA15.pdf")**
+  **[Hartnell College](https://www.masters.edu/media/868986/hartnellcollegeartic.pdf) / [Hartnell College FA15](https://www.masters.edu/media/868987/hartnellcollegeartic-fa15.pdf "HartnellCollegeartic FA15.pdf")**
 
-  **[Imperial Valley College](https://athletics.masters.edu/media/868988/imperialvalleycollegeartic.pdf) / [Imperial Valley College FA15](https://athletics.masters.edu/media/869335/imperialvalleycollegeartic-fa15.pdf "ImperialValleyCollegeartic FA15.pdf")**
+  **[Imperial Valley College](https://www.masters.edu/media/868988/imperialvalleycollegeartic.pdf) / [Imperial Valley College FA15](https://www.masters.edu/media/869335/imperialvalleycollegeartic-fa15.pdf "ImperialValleyCollegeartic FA15.pdf")**
 
-  **[Irvine Valley College](https://athletics.masters.edu/media/868990/irvinevalleycollegeartic.pdf) / [Irvine Valley College FA15](https://athletics.masters.edu/media/868991/irvinevalleycollegeartic-fa15.pdf "IrvineValleyCollegeartic FA15.pdf")**
+  **[Irvine Valley College](https://www.masters.edu/media/868990/irvinevalleycollegeartic.pdf) / [Irvine Valley College FA15](https://www.masters.edu/media/868991/irvinevalleycollegeartic-fa15.pdf "IrvineValleyCollegeartic FA15.pdf")**
 
-  **[Lake Tahoe Community College](https://athletics.masters.edu/media/868992/laketahoecollegeartic.pdf) / [Lake Tahoe Community College FA15](https://athletics.masters.edu/media/868993/laketahoecollegeartic-fa15.pdf "LakeTahoeCollegeartic FA15.pdf")**
+  **[Lake Tahoe Community College](https://www.masters.edu/media/868992/laketahoecollegeartic.pdf) / [Lake Tahoe Community College FA15](https://www.masters.edu/media/868993/laketahoecollegeartic-fa15.pdf "LakeTahoeCollegeartic FA15.pdf")**
 
-  **[Laney College](https://athletics.masters.edu/media/868996/laneycollegeartic.pdf "LaneyCollegeartic.pdf") / [Laney College FA15](https://athletics.masters.edu/media/868997/laneycollegeartic-fa15.pdf "LaneyCollegeartic FA15.pdf")**
+  **[Laney College](https://www.masters.edu/media/868996/laneycollegeartic.pdf "LaneyCollegeartic.pdf") / [Laney College FA15](https://www.masters.edu/media/868997/laneycollegeartic-fa15.pdf "LaneyCollegeartic FA15.pdf")**
 
-  **[Las Positas College](https://athletics.masters.edu/media/868998/laspositascollartic.pdf) /[ Las Positas College FA15](https://athletics.masters.edu/media/868999/laspositascollartic-fa15.pdf "LasPositasCollartic FA15.pdf")**
+  **[Las Positas College](https://www.masters.edu/media/868998/laspositascollartic.pdf) /[ Las Positas College FA15](https://www.masters.edu/media/868999/laspositascollartic-fa15.pdf "LasPositasCollartic FA15.pdf")**
 
-  **[Lassen College](https://athletics.masters.edu/media/869000/lassencollartic.pdf) /[ Lassen College FA15](https://athletics.masters.edu/media/869001/lassencollartic-fa15.pdf "LassenCollartic FA15.pdf")**
+  **[Lassen College](https://www.masters.edu/media/869000/lassencollartic.pdf) /[ Lassen College FA15](https://www.masters.edu/media/869001/lassencollartic-fa15.pdf "LassenCollartic FA15.pdf")**
 
-  **[Long Beach City College](https://athletics.masters.edu/media/869002/longbeachcitycollartic.pdf) / [Long Beach City College FA15](https://athletics.masters.edu/media/869003/longbeachcitycollartic-fa15.pdf "LosAngelesCityCollartic FA15.pdf")**
+  **[Long Beach City College](https://www.masters.edu/media/869002/longbeachcitycollartic.pdf) / [Long Beach City College FA15](https://www.masters.edu/media/869003/longbeachcitycollartic-fa15.pdf "LosAngelesCityCollartic FA15.pdf")**
 
-  **[Los Angeles Bible Training School FA15](https://athletics.masters.edu/media/869004/losangelesbibletrainingschoolartic.pdf "LosAngelesBibleTrainingSchoolartic.pdf")**
+  **[Los Angeles Bible Training School FA15](https://www.masters.edu/media/869004/losangelesbibletrainingschoolartic.pdf "LosAngelesBibleTrainingSchoolartic.pdf")**
 
-  **[Los Angeles City College](https://athletics.masters.edu/media/869005/losangelescitycollartic.pdf) / [Los Angeles City College FA15](https://athletics.masters.edu/media/869006/losangelescitycollartic-fa15.pdf "LosAngelesCityCollartic FA15.pdf")**
+  **[Los Angeles City College](https://www.masters.edu/media/869005/losangelescitycollartic.pdf) / [Los Angeles City College FA15](https://www.masters.edu/media/869006/losangelescitycollartic-fa15.pdf "LosAngelesCityCollartic FA15.pdf")**
 
-  **[Los Angeles Harbor College](https://athletics.masters.edu/media/869007/losangelesharborcollartic.pdf) / [Los Angeles Harbor College FA15](https://athletics.masters.edu/media/869008/losangelesharborcollartic-fa15.pdf "LosAngelesHarborCollartic FA15.pdf")**
+  **[Los Angeles Harbor College](https://www.masters.edu/media/869007/losangelesharborcollartic.pdf) / [Los Angeles Harbor College FA15](https://www.masters.edu/media/869008/losangelesharborcollartic-fa15.pdf "LosAngelesHarborCollartic FA15.pdf")**
 
-  **[Los Angeles Mission College](https://athletics.masters.edu/media/869009/losangelesmissioncollartic.pdf) / [Los Angeles Mission College FA15](https://athletics.masters.edu/media/869010/losangelesmissioncollartic-fa15.pdf "LosAngelesMissionCollartic FA15.pdf")**
+  **[Los Angeles Mission College](https://www.masters.edu/media/869009/losangelesmissioncollartic.pdf) / [Los Angeles Mission College FA15](https://www.masters.edu/media/869010/losangelesmissioncollartic-fa15.pdf "LosAngelesMissionCollartic FA15.pdf")**
 
-  **[Los Angeles Pierce College](https://athletics.masters.edu/media/869011/losangelespiercecollartic.pdf) / [Los Angeles Pierce College FA15](https://athletics.masters.edu/media/869012/losangelespiercecollartic-fa15.pdf "LosAngelesPierceCollartic FA15.pdf")**
+  **[Los Angeles Pierce College](https://www.masters.edu/media/869011/losangelespiercecollartic.pdf) / [Los Angeles Pierce College FA15](https://www.masters.edu/media/869012/losangelespiercecollartic-fa15.pdf "LosAngelesPierceCollartic FA15.pdf")**
 
-  **[Los Angeles Southwest College](https://athletics.masters.edu/media/869013/losangelessouthwestcollartic.pdf) /[ Los Angeles Southwest College FA15](https://athletics.masters.edu/media/869014/losangelessouthwestcollartic-fa15.pdf "LosAngelesSouthwestCollartic FA15.pdf")**
+  **[Los Angeles Southwest College](https://www.masters.edu/media/869013/losangelessouthwestcollartic.pdf) /[ Los Angeles Southwest College FA15](https://www.masters.edu/media/869014/losangelessouthwestcollartic-fa15.pdf "LosAngelesSouthwestCollartic FA15.pdf")**
 
-  **[Los Angeles Trade-Tech College](https://athletics.masters.edu/media/869015/losangelestradetechcollartic.pdf) /[ Los Angeles Trade-Tech College FA15](https://athletics.masters.edu/media/869016/losangelestradetechcollartic-fa15.pdf "LosAngelesTradeTechCollartic FA15.pdf")**
+  **[Los Angeles Trade-Tech College](https://www.masters.edu/media/869015/losangelestradetechcollartic.pdf) /[ Los Angeles Trade-Tech College FA15](https://www.masters.edu/media/869016/losangelestradetechcollartic-fa15.pdf "LosAngelesTradeTechCollartic FA15.pdf")**
 
-  **[Los Angeles Valley College](https://athletics.masters.edu/media/869017/losangelesvalleycollartic.pdf) /[ Los Angeles Valley College FA15](https://athletics.masters.edu/media/869018/losangelesvalleycollartic-fa15.pdf "LosAngelesValleyCollartic FA15.pdf")**
+  **[Los Angeles Valley College](https://www.masters.edu/media/869017/losangelesvalleycollartic.pdf) /[ Los Angeles Valley College FA15](https://www.masters.edu/media/869018/losangelesvalleycollartic-fa15.pdf "LosAngelesValleyCollartic FA15.pdf")**
 
-  **[Los Medanos College](https://athletics.masters.edu/media/869019/losmedanoscollartic.pdf) / [Los Medanos College FA15](https://athletics.masters.edu/media/869020/losmedanoscollartic-fa15.pdf "LosMedanosCollartic FA15.pdf")**
+  **[Los Medanos College](https://www.masters.edu/media/869019/losmedanoscollartic.pdf) / [Los Medanos College FA15](https://www.masters.edu/media/869020/losmedanoscollartic-fa15.pdf "LosMedanosCollartic FA15.pdf")**
 
-  **[Mendocino College](https://athletics.masters.edu/media/869051/mendocinocollartic.pdf) / [Mendocino College FA15](https://athletics.masters.edu/media/869050/mendocinocollartic-fa15.pdf "MendocinoCollartic FA15.pdf")**
+  **[Mendocino College](https://www.masters.edu/media/869051/mendocinocollartic.pdf) / [Mendocino College FA15](https://www.masters.edu/media/869050/mendocinocollartic-fa15.pdf "MendocinoCollartic FA15.pdf")**
 
-  **[Merced College](https://athletics.masters.edu/media/869052/mercedcollartic.pdf) / [Merced College FA15](https://athletics.masters.edu/media/869053/mercedcollartic-fa15.pdf "MercedCollartic FA15.pdf")**
+  **[Merced College](https://www.masters.edu/media/869052/mercedcollartic.pdf) / [Merced College FA15](https://www.masters.edu/media/869053/mercedcollartic-fa15.pdf "MercedCollartic FA15.pdf")**
 
-  **[Merritt College](https://athletics.masters.edu/media/869054/merrittcollartic.pdf) / [Merritt College FA15](https://athletics.masters.edu/media/869055/merrittcollartic-fa15.pdf "MerrittCollartic FA15.pdf")**
+  **[Merritt College](https://www.masters.edu/media/869054/merrittcollartic.pdf) / [Merritt College FA15](https://www.masters.edu/media/869055/merrittcollartic-fa15.pdf "MerrittCollartic FA15.pdf")**
 
-  **[Miracosta College](https://athletics.masters.edu/media/869056/miracostacollartic.pdf) / [Miracosta College FA15](https://athletics.masters.edu/media/869057/miracostacollartic-fa15.pdf "MiraCostaCollartic FA15.pdf")**
+  **[Miracosta College](https://www.masters.edu/media/869056/miracostacollartic.pdf) / [Miracosta College FA15](https://www.masters.edu/media/869057/miracostacollartic-fa15.pdf "MiraCostaCollartic FA15.pdf")**
 
-  **[Mission College](https://athletics.masters.edu/media/869058/missioncollegeartic.pdf) / [Mission College FA15](https://athletics.masters.edu/media/869059/missioncollegeartic-fa15.pdf "MissionCollegeartic FA15.pdf")**
+  **[Mission College](https://www.masters.edu/media/869058/missioncollegeartic.pdf) / [Mission College FA15](https://www.masters.edu/media/869059/missioncollegeartic-fa15.pdf "MissionCollegeartic FA15.pdf")**
 
-  **[Modesto Junior College](https://athletics.masters.edu/media/869060/modestojcartic.pdf) / [Modesto Junior College FA15](https://athletics.masters.edu/media/869061/modestojcartic-fa15.pdf "ModestoJCartic FA15.pdf")**
+  **[Modesto Junior College](https://www.masters.edu/media/869060/modestojcartic.pdf) / [Modesto Junior College FA15](https://www.masters.edu/media/869061/modestojcartic-fa15.pdf "ModestoJCartic FA15.pdf")**
 
-  **[Monterey Peninsula College](https://athletics.masters.edu/media/869062/monterypeninsulacartic.pdf) / [Monterey Peninsula College FA15](https://athletics.masters.edu/media/869063/monterypeninsulacartic-fa15.pdf "MonteryPeninsulaCartic FA15.pdf")**
+  **[Monterey Peninsula College](https://www.masters.edu/media/869062/monterypeninsulacartic.pdf) / [Monterey Peninsula College FA15](https://www.masters.edu/media/869063/monterypeninsulacartic-fa15.pdf "MonteryPeninsulaCartic FA15.pdf")**
 
-  **[Moorpark College](https://athletics.masters.edu/media/869064/moorparkcollartic.pdf) / [Moorpark College FA15](https://athletics.masters.edu/media/869065/moorparkcollartic-fa15.pdf "Moorparkcollartic FA15.pdf")**
+  **[Moorpark College](https://www.masters.edu/media/869064/moorparkcollartic.pdf) / [Moorpark College FA15](https://www.masters.edu/media/869065/moorparkcollartic-fa15.pdf "Moorparkcollartic FA15.pdf")**
 
   **Moreno Valley College / Moreno Valley College FA15**
 
-  **[Mt. San Antonio College](https://athletics.masters.edu/media/869066/mtsanantoniocollartic.pdf) / [Mt. San Antonio College FA15](https://athletics.masters.edu/media/869067/mtsanantoniocollartic-fa15.pdf "Mt.SanAntoniocollartic FA15.pdf")**
+  **[Mt. San Antonio College](https://www.masters.edu/media/869066/mtsanantoniocollartic.pdf) / [Mt. San Antonio College FA15](https://www.masters.edu/media/869067/mtsanantoniocollartic-fa15.pdf "Mt.SanAntoniocollartic FA15.pdf")**
 
-  **[Mt. San Jacinto College](https://athletics.masters.edu/media/869068/mtsanjacintocollartic.pdf) / [Mt. San Jacinto College FA15](https://athletics.masters.edu/media/869069/mtsanjacintocollartic-fa15.pdf "Mt.SanJacintocollartic FA15.pdf")**
+  **[Mt. San Jacinto College](https://www.masters.edu/media/869068/mtsanjacintocollartic.pdf) / [Mt. San Jacinto College FA15](https://www.masters.edu/media/869069/mtsanjacintocollartic-fa15.pdf "Mt.SanJacintocollartic FA15.pdf")**
 
-  **[Napa Valley College](https://athletics.masters.edu/media/869070/napavalleycollartic.pdf) / [Napa Valley College FA15](https://athletics.masters.edu/media/869071/napavalleycollartic-fa15.pdf "NapaValleycollartic FA15.pdf")**
+  **[Napa Valley College](https://www.masters.edu/media/869070/napavalleycollartic.pdf) / [Napa Valley College FA15](https://www.masters.edu/media/869071/napavalleycollartic-fa15.pdf "NapaValleycollartic FA15.pdf")**
 
-  **Norco College / [Norco College FA15](https://athletics.masters.edu/media/868823/norcocollcartic-fa15.pdf)**
+  **Norco College / [Norco College FA15](https://www.masters.edu/media/868823/norcocollcartic-fa15.pdf)**
 
-  **[Ohlone College](https://athletics.masters.edu/media/869072/ohlonecollartic.pdf) / [Ohlone College FA15](https://athletics.masters.edu/media/869073/ohlonecollartic-fa15.pdf "Ohlonecollartic FA15.pdf")**
+  **[Ohlone College](https://www.masters.edu/media/869072/ohlonecollartic.pdf) / [Ohlone College FA15](https://www.masters.edu/media/869073/ohlonecollartic-fa15.pdf "Ohlonecollartic FA15.pdf")**
 
-  **[Orange Coast College](https://athletics.masters.edu/media/869074/orangecoastcollartic.pdf) / [Orange Coast College FA15](https://athletics.masters.edu/media/869075/orangecoastcollartic-fa15.pdf "OrangeCoastcollartic FA15.pdf")**
+  **[Orange Coast College](https://www.masters.edu/media/869074/orangecoastcollartic.pdf) / [Orange Coast College FA15](https://www.masters.edu/media/869075/orangecoastcollartic-fa15.pdf "OrangeCoastcollartic FA15.pdf")**
 
-  **[Oxnard College](https://athletics.masters.edu/media/869076/oxnardcollartic.pdf) / [Oxnard College FA15](https://athletics.masters.edu/media/869077/oxnardcollartic-fa15.pdf "Oxnardcollartic FA15.pdf")**
+  **[Oxnard College](https://www.masters.edu/media/869076/oxnardcollartic.pdf) / [Oxnard College FA15](https://www.masters.edu/media/869077/oxnardcollartic-fa15.pdf "Oxnardcollartic FA15.pdf")**
 
-  **[Palo Verde College](https://athletics.masters.edu/media/869078/paloverdeccartic.pdf) / [Palo Verde College FA15](https://athletics.masters.edu/media/869079/paloverdeccartic-fa15.pdf "PaloVerdeCCartic FA15.pdf")**
+  **[Palo Verde College](https://www.masters.edu/media/869078/paloverdeccartic.pdf) / [Palo Verde College FA15](https://www.masters.edu/media/869079/paloverdeccartic-fa15.pdf "PaloVerdeCCartic FA15.pdf")**
 
-  **[Palomar College](https://athletics.masters.edu/media/869080/palomarcollegeartic.pdf) / [Palomar College FA15](https://athletics.masters.edu/media/869081/palomarcollegeartic-fa15.pdf "PalomarCollegeartic FA15.pdf")**
+  **[Palomar College](https://www.masters.edu/media/869080/palomarcollegeartic.pdf) / [Palomar College FA15](https://www.masters.edu/media/869081/palomarcollegeartic-fa15.pdf "PalomarCollegeartic FA15.pdf")**
 
-  **[Pasadena City College](https://athletics.masters.edu/media/869082/pasadenaccartic.pdf) / [Pasadena City College FA15](https://athletics.masters.edu/media/869083/pasadenaccartic-fa15.pdf "PasadenaCCartic FA15.pdf")**
+  **[Pasadena City College](https://www.masters.edu/media/869082/pasadenaccartic.pdf) / [Pasadena City College FA15](https://www.masters.edu/media/869083/pasadenaccartic-fa15.pdf "PasadenaCCartic FA15.pdf")**
 
-  **[Porterville College](https://athletics.masters.edu/media/869084/portervillecollegeartic.pdf) / [Porterville College FA15](https://athletics.masters.edu/media/869085/portervillecollegeartic-fa15.pdf "Portervillecollegeartic FA15.pdf")**
+  **[Porterville College](https://www.masters.edu/media/869084/portervillecollegeartic.pdf) / [Porterville College FA15](https://www.masters.edu/media/869085/portervillecollegeartic-fa15.pdf "Portervillecollegeartic FA15.pdf")**
 
-  **[Reedley College](https://athletics.masters.edu/media/869086/reedleycollartic.pdf) / [Reedley College FA15](https://athletics.masters.edu/media/868776/reedleycollartic-fa15.pdf)**
+  **[Reedley College](https://www.masters.edu/media/869086/reedleycollartic.pdf) / [Reedley College FA15](https://www.masters.edu/media/868776/reedleycollartic-fa15.pdf)**
 
-  **[Rio Hondo College](https://athletics.masters.edu/media/869087/riohondocollartic.pdf) / [Rio Hondo College FA15](https://athletics.masters.edu/media/869088/riohondocollartic-fa15.pdf "RioHondocollartic FA15.pdf")**
+  **[Rio Hondo College](https://www.masters.edu/media/869087/riohondocollartic.pdf) / [Rio Hondo College FA15](https://www.masters.edu/media/869088/riohondocollartic-fa15.pdf "RioHondocollartic FA15.pdf")**
 
-  **[Riverside City College](https://athletics.masters.edu/media/869089/riversideccartic.pdf) /[ Riverside City College FA15](https://athletics.masters.edu/media/869090/riversideccartic-fa15.pdf "RiversideCCartic FA15.pdf")**
+  **[Riverside City College](https://www.masters.edu/media/869089/riversideccartic.pdf) /[ Riverside City College FA15](https://www.masters.edu/media/869090/riversideccartic-fa15.pdf "RiversideCCartic FA15.pdf")**
 
-  **[Sacramento City College](https://athletics.masters.edu/media/869091/sacramentocollartic.pdf) / [Sacramento City College FA15](https://athletics.masters.edu/media/869092/sacramentocollartic-fa15.pdf "Sacramentocollartic FA15.pdf")**
+  **[Sacramento City College](https://www.masters.edu/media/869091/sacramentocollartic.pdf) / [Sacramento City College FA15](https://www.masters.edu/media/869092/sacramentocollartic-fa15.pdf "Sacramentocollartic FA15.pdf")**
 
-  **[Saddleback College](https://athletics.masters.edu/media/869093/saddlebackcollartic.pdf) / [Saddleback College FA15](https://athletics.masters.edu/media/869094/saddlebackcollartic-fa15.pdf "Saddlebackcollartic FA15.pdf")**
+  **[Saddleback College](https://www.masters.edu/media/869093/saddlebackcollartic.pdf) / [Saddleback College FA15](https://www.masters.edu/media/869094/saddlebackcollartic-fa15.pdf "Saddlebackcollartic FA15.pdf")**
 
-  **[San Bernardino Valley College](https://athletics.masters.edu/media/869095/sanbernardinovalleycollartic.pdf) / [San Bernardino Valley College FA15](https://athletics.masters.edu/media/869109/sanbernardinovalleycollartic-fa15.pdf "SanBernardinoValleycollartic FA15.pdf")**
+  **[San Bernardino Valley College](https://www.masters.edu/media/869095/sanbernardinovalleycollartic.pdf) / [San Bernardino Valley College FA15](https://www.masters.edu/media/869109/sanbernardinovalleycollartic-fa15.pdf "SanBernardinoValleycollartic FA15.pdf")**
 
-  **[San Diego City College](https://athletics.masters.edu/media/869110/sandiegoccartic.pdf) / [San Diego City College FA15](https://athletics.masters.edu/media/869111/sandiegoccartic-fa15.pdf "SanDiegoCCartic FA15.pdf")**
+  **[San Diego City College](https://www.masters.edu/media/869110/sandiegoccartic.pdf) / [San Diego City College FA15](https://www.masters.edu/media/869111/sandiegoccartic-fa15.pdf "SanDiegoCCartic FA15.pdf")**
 
-  **[San Diego Mesa College](https://athletics.masters.edu/media/869112/sandiegomesacollartic.pdf) / [San Diego Mesa College FA15](https://athletics.masters.edu/media/869113/sandiegomesacollartic-fa15.pdf "SanDiegoMesaCollartic FA15.pdf")**
+  **[San Diego Mesa College](https://www.masters.edu/media/869112/sandiegomesacollartic.pdf) / [San Diego Mesa College FA15](https://www.masters.edu/media/869113/sandiegomesacollartic-fa15.pdf "SanDiegoMesaCollartic FA15.pdf")**
 
-  **[San Diego Miramar College](https://athletics.masters.edu/media/869114/sandiegomiramarcollartic.pdf) / [San Diego Miramar College FA15](https://athletics.masters.edu/media/869115/sandiegomiramarcollartic-fa15.pdf "SanDiegoMiramarCollartic FA15.pdf")**
+  **[San Diego Miramar College](https://www.masters.edu/media/869114/sandiegomiramarcollartic.pdf) / [San Diego Miramar College FA15](https://www.masters.edu/media/869115/sandiegomiramarcollartic-fa15.pdf "SanDiegoMiramarCollartic FA15.pdf")**
 
-  **[San Joaquin Delta College](https://athletics.masters.edu/media/869116/sanjoaquindeltacollartic.pdf) / [San Joaquin Delta College FA15](https://athletics.masters.edu/media/869117/sanjoaquindeltacollartic-fa15.pdf "SanJoaquinDeltaCollartic FA15.pdf")**
+  **[San Joaquin Delta College](https://www.masters.edu/media/869116/sanjoaquindeltacollartic.pdf) / [San Joaquin Delta College FA15](https://www.masters.edu/media/869117/sanjoaquindeltacollartic-fa15.pdf "SanJoaquinDeltaCollartic FA15.pdf")**
 
-  **[San Jose City College](https://athletics.masters.edu/media/869118/sanjosecitycollartic.pdf) / [San Jose City College FA15](https://athletics.masters.edu/media/869119/sanjosecitycollartic-fa15.pdf "SanJoseCityCollartic FA15.pdf")**
+  **[San Jose City College](https://www.masters.edu/media/869118/sanjosecitycollartic.pdf) / [San Jose City College FA15](https://www.masters.edu/media/869119/sanjosecitycollartic-fa15.pdf "SanJoseCityCollartic FA15.pdf")**
 
-  **[Santa Ana College](https://athletics.masters.edu/media/869120/santaanacollcartic.pdf) / [Santa Ana College FA15](https://athletics.masters.edu/media/869121/santaanacollcartic-fa15.pdf "SantaAnaCollCartic FA15.pdf")**
+  **[Santa Ana College](https://www.masters.edu/media/869120/santaanacollcartic.pdf) / [Santa Ana College FA15](https://www.masters.edu/media/869121/santaanacollcartic-fa15.pdf "SantaAnaCollCartic FA15.pdf")**
 
-  **[Santa Barbara City College](https://athletics.masters.edu/media/869122/santabarbaraccartic.pdf) / [Santa Barbara City College FA15](https://athletics.masters.edu/media/869123/santabarbaraccartic-fa15.pdf "SantaBarbaraCCartic FA15.pdf")**
+  **[Santa Barbara City College](https://www.masters.edu/media/869122/santabarbaraccartic.pdf) / [Santa Barbara City College FA15](https://www.masters.edu/media/869123/santabarbaraccartic-fa15.pdf "SantaBarbaraCCartic FA15.pdf")**
 
-  **[Santa Monica College](https://athletics.masters.edu/media/869124/santamonicacollartic.pdf) / [Santa Monica College FA15](https://athletics.masters.edu/media/869125/santamonicacollartic-fa15.pdf "SantaMonicaCollartic FA15.pdf")**
+  **[Santa Monica College](https://www.masters.edu/media/869124/santamonicacollartic.pdf) / [Santa Monica College FA15](https://www.masters.edu/media/869125/santamonicacollartic-fa15.pdf "SantaMonicaCollartic FA15.pdf")**
 
-  **[Santa Rosa Junior College](https://athletics.masters.edu/media/869126/santarosajcartic.pdf) / [Santa Rosa Junior College FA15](https://athletics.masters.edu/media/869134/santarosajcartic-fa15.pdf "SantaRosaJCartic FA15.pdf")**
+  **[Santa Rosa Junior College](https://www.masters.edu/media/869126/santarosajcartic.pdf) / [Santa Rosa Junior College FA15](https://www.masters.edu/media/869134/santarosajcartic-fa15.pdf "SantaRosaJCartic FA15.pdf")**
 
-  **[Santiago Canyon College](https://athletics.masters.edu/media/869128/santiagocanyoncollcartic.pdf) /[Santiago Canyon College FA15](https://athletics.masters.edu/media/869129/santiagocanyoncollcartic-fa15.pdf "SantiagoCanyonCollCartic FA15.pdf")**
+  **[Santiago Canyon College](https://www.masters.edu/media/869128/santiagocanyoncollcartic.pdf) /[Santiago Canyon College FA15](https://www.masters.edu/media/869129/santiagocanyoncollcartic-fa15.pdf "SantiagoCanyonCollCartic FA15.pdf")**
 
-  **[Shasta College](https://athletics.masters.edu/media/869130/shastacollartic.pdf) / [Shasta College FA15](https://athletics.masters.edu/media/869131/shastacollartic-fa15.pdf "Shastacollartic FA15.pdf")**
+  **[Shasta College](https://www.masters.edu/media/869130/shastacollartic.pdf) / [Shasta College FA15](https://www.masters.edu/media/869131/shastacollartic-fa15.pdf "Shastacollartic FA15.pdf")**
 
-  **[Sierra College](https://athletics.masters.edu/media/869132/sierracartic.pdf) / [Sierra College FA15](https://athletics.masters.edu/media/869133/sierracartic-fa15.pdf "SierraCartic FA15.pdf")**
+  **[Sierra College](https://www.masters.edu/media/869132/sierracartic.pdf) / [Sierra College FA15](https://www.masters.edu/media/869133/sierracartic-fa15.pdf "SierraCartic FA15.pdf")**
 
-  **[Skyline College](https://athletics.masters.edu/media/869135/skylinecollartic.pdf) /[ Skyline College FA15](https://athletics.masters.edu/media/869136/skylinecollartic-fa15.pdf "SkylineCollartic FA15.pdf")**
+  **[Skyline College](https://www.masters.edu/media/869135/skylinecollartic.pdf) /[ Skyline College FA15](https://www.masters.edu/media/869136/skylinecollartic-fa15.pdf "SkylineCollartic FA15.pdf")**
 
-  **[Solano Community College](https://athletics.masters.edu/media/869137/solanocollartic.pdf) / [Solano Community College FA15](https://athletics.masters.edu/media/869138/solanocollartic-fa15.pdf "SolanoCollartic FA15.pdf")**
+  **[Solano Community College](https://www.masters.edu/media/869137/solanocollartic.pdf) / [Solano Community College FA15](https://www.masters.edu/media/869138/solanocollartic-fa15.pdf "SolanoCollartic FA15.pdf")**
 
-  **[Southwestern College](https://athletics.masters.edu/media/869139/southwesterncollartic.pdf) / [Southwestern College FA15](https://athletics.masters.edu/media/869140/southwesterncollartic-fa15.pdf "SouthwesternCollartic FA15.pdf")**
+  **[Southwestern College](https://www.masters.edu/media/869139/southwesterncollartic.pdf) / [Southwestern College FA15](https://www.masters.edu/media/869140/southwesterncollartic-fa15.pdf "SouthwesternCollartic FA15.pdf")**
 
-  **[Taft College](https://athletics.masters.edu/media/869141/taftcollegeartic.pdf) / [Taft College FA15](https://athletics.masters.edu/media/869142/taftcollegeartic-fa15.pdf "TaftCollegeartic FA15.pdf")**
+  **[Taft College](https://www.masters.edu/media/869141/taftcollegeartic.pdf) / [Taft College FA15](https://www.masters.edu/media/869142/taftcollegeartic-fa15.pdf "TaftCollegeartic FA15.pdf")**
 
-  **[Ventura College](https://athletics.masters.edu/media/869143/venturacollartic.pdf) / [Ventura College FA15](https://athletics.masters.edu/media/869144/venturacollartic-fa15.pdf "Venturacollartic FA15.pdf")**
+  **[Ventura College](https://www.masters.edu/media/869143/venturacollartic.pdf) / [Ventura College FA15](https://www.masters.edu/media/869144/venturacollartic-fa15.pdf "Venturacollartic FA15.pdf")**
 
-  **[Victor Valley College](https://athletics.masters.edu/media/869145/victorvalleycollartic.pdf) / [Victor Valley College FA15](https://athletics.masters.edu/media/869146/victorvalleycollartic-fa15.pdf "VictorValleycollartic FA15.pdf")**
+  **[Victor Valley College](https://www.masters.edu/media/869145/victorvalleycollartic.pdf) / [Victor Valley College FA15](https://www.masters.edu/media/869146/victorvalleycollartic-fa15.pdf "VictorValleycollartic FA15.pdf")**
 
-  **[West Hills College Coalinga](https://athletics.masters.edu/media/869147/westhillscollartic.pdf) / [West Hills College Coalinga FA15](https://athletics.masters.edu/media/869149/westhillscollartic-fa15.pdf "WestHillsCollartic FA15.pdf")**
+  **[West Hills College Coalinga](https://www.masters.edu/media/869147/westhillscollartic.pdf) / [West Hills College Coalinga FA15](https://www.masters.edu/media/869149/westhillscollartic-fa15.pdf "WestHillsCollartic FA15.pdf")**
 
-  **[West Hills College Lemoore](https://athletics.masters.edu/media/869147/westhillscollartic.pdf "WestHillsCollartic FA15.pdf") / [West Hills College Lemoore FA15](https://athletics.masters.edu/media/869149/westhillscollartic-fa15.pdf "WestHillsCollartic FA15.pdf")**
+  **[West Hills College Lemoore](https://www.masters.edu/media/869147/westhillscollartic.pdf "WestHillsCollartic FA15.pdf") / [West Hills College Lemoore FA15](https://www.masters.edu/media/869149/westhillscollartic-fa15.pdf "WestHillsCollartic FA15.pdf")**
 
-  **[West Los Angeles College](https://athletics.masters.edu/media/869150/westlacollartic.pdf) / [West Los Angeles College FA15](https://athletics.masters.edu/media/869151/westlacollartic-fa15.pdf "WestLACollartic FA15.pdf")**
+  **[West Los Angeles College](https://www.masters.edu/media/869150/westlacollartic.pdf) / [West Los Angeles College FA15](https://www.masters.edu/media/869151/westlacollartic-fa15.pdf "WestLACollartic FA15.pdf")**
 
-  **[West Valley College](https://athletics.masters.edu/media/869152/westvalleycollartic.pdf) / [West Valley College FA15](https://athletics.masters.edu/media/869170/westvalleycollartic-fa15.pdf)**
+  **[West Valley College](https://www.masters.edu/media/869152/westvalleycollartic.pdf) / [West Valley College FA15](https://www.masters.edu/media/869170/westvalleycollartic-fa15.pdf)**
 
-  **[Woodland Community College](https://athletics.masters.edu/media/869153/woodlandcollartic.pdf) / [Woodland Community College FA15](https://athletics.masters.edu/media/869154/woodlandcollartic-fa15.pdf "WoodlandCollartic FA15.pdf")**
+  **[Woodland Community College](https://www.masters.edu/media/869153/woodlandcollartic.pdf) / [Woodland Community College FA15](https://www.masters.edu/media/869154/woodlandcollartic-fa15.pdf "WoodlandCollartic FA15.pdf")**
 
-  **[Yuba College](https://athletics.masters.edu/media/869155/yubacollartic.pdf) / [Yuba College FA15](https://athletics.masters.edu/media/869172/yubacollartic-fa15.pdf)**
+  **[Yuba College](https://www.masters.edu/media/869155/yubacollartic.pdf) / [Yuba College FA15](https://www.masters.edu/media/869172/yubacollartic-fa15.pdf)**
 
   ## **Colorado**
 
-  **[Morgan Community College](https://athletics.masters.edu/media/869159/morgancommunitycollartic.pdf) / [Morgan Community College FA15](https://athletics.masters.edu/media/869160/morgancommunitycollartic-fa15.pdf "MorganCommunitycollartic FA15.pdf")**
+  **[Morgan Community College](https://www.masters.edu/media/869159/morgancommunitycollartic.pdf) / [Morgan Community College FA15](https://www.masters.edu/media/869160/morgancommunitycollartic-fa15.pdf "MorganCommunitycollartic FA15.pdf")**
 
   ## **Hawaii**
 
-  **[Leeward Community College FA15](https://athletics.masters.edu/media/868768/leewardcommcollegeartic-fa15.pdf)**
+  **[Leeward Community College FA15](https://www.masters.edu/media/868768/leewardcommcollegeartic-fa15.pdf)**
 
-  **[Windward COmmunity College FA15](https://athletics.masters.edu/media/870065/windwardcommcollegeartic-fa15.pdf "Windward Community College FA15")**
+  **[Windward COmmunity College FA15](https://www.masters.edu/media/870065/windwardcommcollegeartic-fa15.pdf "Windward Community College FA15")**
 
   ## **Idaho**
 
-  **[College of Western Idaho](https://athletics.masters.edu/media/869171/collofwesternidahoartic.pdf) / [College of Western Idaho FA15](https://athletics.masters.edu/media/869161/collofwesternidahoartic-fa15.pdf "CollofWesternIdahoartic FA15.pdf")**
+  **[College of Western Idaho](https://www.masters.edu/media/869171/collofwesternidahoartic.pdf) / [College of Western Idaho FA15](https://www.masters.edu/media/869161/collofwesternidahoartic-fa15.pdf "CollofWesternIdahoartic FA15.pdf")**
 
-  **[North Idaho College](https://athletics.masters.edu/media/869162/northidahocollcartic.pdf) / [North Idaho College FA15](https://athletics.masters.edu/media/869163/northidahocollcartic-fa15.pdf "NorthIdahoCollCartic FA15.pdf")**
+  **[North Idaho College](https://www.masters.edu/media/869162/northidahocollcartic.pdf) / [North Idaho College FA15](https://www.masters.edu/media/869163/northidahocollcartic-fa15.pdf "NorthIdahoCollCartic FA15.pdf")**
 
-  **[University of Idaho (On-line)](https://athletics.masters.edu/media/869164/univ-of-idaho-on-line.pdf) / [University of Idaho (On-line) FA15](https://athletics.masters.edu/media/869173/univ-of-idaho-on-line-fa15.pdf)**
+  **[University of Idaho (On-line)](https://www.masters.edu/media/869164/univ-of-idaho-on-line.pdf) / [University of Idaho (On-line) FA15](https://www.masters.edu/media/869173/univ-of-idaho-on-line-fa15.pdf)**
 
   ## **Iowa**
 
-  **[Des Moines Area Community College FA15](https://athletics.masters.edu/media/870105/desmoinesareacollegeartic-fa15.pdf "Des Moines Area Community College")**
+  **[Des Moines Area Community College FA15](https://www.masters.edu/media/870105/desmoinesareacollegeartic-fa15.pdf "Des Moines Area Community College")**
 
   ## **Illinois**
 
-  **[College of Lake County FA15](https://athletics.masters.edu/media/869353/collegeoflakecountyartic-fa15.pdf "College of Lake County (IL)")**
+  **[College of Lake County FA15](https://www.masters.edu/media/869353/collegeoflakecountyartic-fa15.pdf "College of Lake County (IL)")**
 
-  **[Illinois Central College FA15](https://athletics.masters.edu/media/869339/illinoiscentralcollegeartic-fa15.pdf "Illinos Central College FA15")**
+  **[Illinois Central College FA15](https://www.masters.edu/media/869339/illinoiscentralcollegeartic-fa15.pdf "Illinos Central College FA15")**
 
   ## **Kansas**
 
-  **[Butler Community College](https://athletics.masters.edu/media/869166/butlercommcollartic.pdf) /[ Butler Community College FA15\
-  ](https://athletics.masters.edu/media/869167/butlercommcollartic-fa15.pdf "Butler Community College FA15")**
+  **[Butler Community College](https://www.masters.edu/media/869166/butlercommcollartic.pdf) /[ Butler Community College FA15\
+  ](https://www.masters.edu/media/869167/butlercommcollartic-fa15.pdf "Butler Community College FA15")**
 
   ## **Oklahoma**
 
-  **[Tulsa Community College FA15](https://athletics.masters.edu/media/869817/tulsacommcollegeartic-fa15.pdf "Tulsa Community College FA15")**
+  **[Tulsa Community College FA15](https://www.masters.edu/media/869817/tulsacommcollegeartic-fa15.pdf "Tulsa Community College FA15")**
 
   ## **Nebraska**
 
-  **[Mid-Plain Community College FA15](https://athletics.masters.edu/media/869296/midplainscommcollartic-fa15.pdf "Mid-Plains Community College")**
+  **[Mid-Plain Community College FA15](https://www.masters.edu/media/869296/midplainscommcollartic-fa15.pdf "Mid-Plains Community College")**
 
   ## **Nevada**
 
-  **[Western Nevada College FA15](https://athletics.masters.edu/media/870106/westernnevadacollegeartic-fa15.pdf "Western Nevada College FA15")**
+  **[Western Nevada College FA15](https://www.masters.edu/media/870106/westernnevadacollegeartic-fa15.pdf "Western Nevada College FA15")**
 
   ## **New Mexico**
 
-  **[Clovis College FA15](https://athletics.masters.edu/media/869664/cloviscommunitycollege-nm-artic-fa15.pdf "Clovis College (NM) FA15")**
+  **[Clovis College FA15](https://www.masters.edu/media/869664/cloviscommunitycollege-nm-artic-fa15.pdf "Clovis College (NM) FA15")**
 
   ## **Oregon**
 
-  **[Blue Mountain Community College](https://athletics.masters.edu/media/869168/bluemountaincollartic.pdf "BlueMountaincollartic.pdf") / [Blue Mountain Community College FA15](https://athletics.masters.edu/media/869169/bluemountaincollartic-fa15.pdf "BlueMountaincollartic FA15.pdf")**
+  **[Blue Mountain Community College](https://www.masters.edu/media/869168/bluemountaincollartic.pdf "BlueMountaincollartic.pdf") / [Blue Mountain Community College FA15](https://www.masters.edu/media/869169/bluemountaincollartic-fa15.pdf "BlueMountaincollartic FA15.pdf")**
 
-  **[Central Oregon Community College](https://athletics.masters.edu/media/869482/centraloregoncollartic.pdf) / [Central Oregon Community College FA15](https://athletics.masters.edu/media/869483/centraloregoncollartic-fa15.pdf "CentralOregoncollartic FA15.pdf")**
+  **[Central Oregon Community College](https://www.masters.edu/media/869482/centraloregoncollartic.pdf) / [Central Oregon Community College FA15](https://www.masters.edu/media/869483/centraloregoncollartic-fa15.pdf "CentralOregoncollartic FA15.pdf")**
 
-  **[Chemeketa Community College](https://athletics.masters.edu/media/869484/chemeketacollartic.pdf) /[ Chemeketa Community College FA15](https://athletics.masters.edu/media/869485/chemeketacollartic-fa15.pdf "Chemeketacollartic FA15.pdf")**
+  **[Chemeketa Community College](https://www.masters.edu/media/869484/chemeketacollartic.pdf) /[ Chemeketa Community College FA15](https://www.masters.edu/media/869485/chemeketacollartic-fa15.pdf "Chemeketacollartic FA15.pdf")**
 
-  **[Clackamas Community College](https://athletics.masters.edu/media/869486/clackamascollartic.pdf) / [Clackamas Community College FA15](https://athletics.masters.edu/media/869487/clackamascollartic-fa15.pdf "Clackamascollartic FA15.pdf")**
+  **[Clackamas Community College](https://www.masters.edu/media/869486/clackamascollartic.pdf) / [Clackamas Community College FA15](https://www.masters.edu/media/869487/clackamascollartic-fa15.pdf "Clackamascollartic FA15.pdf")**
 
-  **[Clatsop Community College](https://athletics.masters.edu/media/869488/clatsopcollartic.pdf) / [Clatsop Community College FA15](https://athletics.masters.edu/media/869489/clatsopcollartic-fa15.pdf "Clatsopcollartic FA15.pdf")**
+  **[Clatsop Community College](https://www.masters.edu/media/869488/clatsopcollartic.pdf) / [Clatsop Community College FA15](https://www.masters.edu/media/869489/clatsopcollartic-fa15.pdf "Clatsopcollartic FA15.pdf")**
 
-  **[Columbia Gorge Community College FA15](https://athletics.masters.edu/media/869635/columbiagorgeccartic-fa15.pdf "Columbia Gorge Community College FA15")**
+  **[Columbia Gorge Community College FA15](https://www.masters.edu/media/869635/columbiagorgeccartic-fa15.pdf "Columbia Gorge Community College FA15")**
 
-  **[Klamath Community College](https://athletics.masters.edu/media/869490/klamathcommcollegeartic.pdf) / [Klamath Community College FA15](https://athletics.masters.edu/media/869491/klamathcommcollegeartic-fa15.pdf "KlamathCommCollegeartic FA15.pdf")**
+  **[Klamath Community College](https://www.masters.edu/media/869490/klamathcommcollegeartic.pdf) / [Klamath Community College FA15](https://www.masters.edu/media/869491/klamathcommcollegeartic-fa15.pdf "KlamathCommCollegeartic FA15.pdf")**
 
-  **[Lane Community College](https://athletics.masters.edu/media/868994/lanecollegeartic.pdf) /[ Lane Community College FA15](https://athletics.masters.edu/media/868995/lanecollegeartic-fa15.pdf "LaneCollegeartic FA15.pdf")**
+  **[Lane Community College](https://www.masters.edu/media/868994/lanecollegeartic.pdf) /[ Lane Community College FA15](https://www.masters.edu/media/868995/lanecollegeartic-fa15.pdf "LaneCollegeartic FA15.pdf")**
 
-  **[Linn-Benton Community College](https://athletics.masters.edu/media/869492/linn-bentoncitycollartic.pdf) / [Linn-Benton Community College FA15](https://athletics.masters.edu/media/869493/linn-bentoncitycollartic-fa15.pdf "Linn-BentonCityCollartic FA15.pdf")**
+  **[Linn-Benton Community College](https://www.masters.edu/media/869492/linn-bentoncitycollartic.pdf) / [Linn-Benton Community College FA15](https://www.masters.edu/media/869493/linn-bentoncitycollartic-fa15.pdf "Linn-BentonCityCollartic FA15.pdf")**
 
-  **[Mount Hood Community College](https://athletics.masters.edu/media/869494/mthoodcollartic.pdf) / [Mount Hood Community College FA15](https://athletics.masters.edu/media/869495/mthoodcollartic-fa15.pdf "MtHoodcollartic FA15.pdf")**
+  **[Mount Hood Community College](https://www.masters.edu/media/869494/mthoodcollartic.pdf) / [Mount Hood Community College FA15](https://www.masters.edu/media/869495/mthoodcollartic-fa15.pdf "MtHoodcollartic FA15.pdf")**
 
-  **[Oregon Coast Community College](https://athletics.masters.edu/media/336706/OrangeCoastcollartic.pdf) / [Oregon Coast Community College FA15](https://athletics.masters.edu/media/869639/oregoncoastcollartic-fa15.pdf "Oregon Coast Community College FA15")**
+  **[Oregon Coast Community College](https://www.masters.edu/media/336706/OrangeCoastcollartic.pdf) / [Oregon Coast Community College FA15](https://www.masters.edu/media/869639/oregoncoastcollartic-fa15.pdf "Oregon Coast Community College FA15")**
 
-  **[Portland Community College](https://athletics.masters.edu/media/429371/Portlandcollegeartic.pdf) / [Portland Community College FA15](https://athletics.masters.edu/media/869496/portlandcollegeartic-fa15.pdf "Portlandcollegeartic FA15.pdf")**
+  **[Portland Community College](https://www.masters.edu/media/429371/Portlandcollegeartic.pdf) / [Portland Community College FA15](https://www.masters.edu/media/869496/portlandcollegeartic-fa15.pdf "Portlandcollegeartic FA15.pdf")**
 
-  **[Rogue Community College](https://athletics.masters.edu/media/429377/Roguecollartic.pdf) / [Rogue Community College FA15](https://athletics.masters.edu/media/869497/roguecollartic-fa15.pdf "Roguecollartic FA15.pdf")**
+  **[Rogue Community College](https://www.masters.edu/media/429377/Roguecollartic.pdf) / [Rogue Community College FA15](https://www.masters.edu/media/869497/roguecollartic-fa15.pdf "Roguecollartic FA15.pdf")**
 
-  **[Southwestern Oregon Community College](https://athletics.masters.edu/media/420763/SouthwesternOregonCollartic.pdf) / [Southwestern Oregon Community College FA15](https://athletics.masters.edu/media/869498/southwesternoregoncollartic-fa15.pdf "SouthwesternOregonCollartic FA15.pdf")**
+  **[Southwestern Oregon Community College](https://www.masters.edu/media/420763/SouthwesternOregonCollartic.pdf) / [Southwestern Oregon Community College FA15](https://www.masters.edu/media/869498/southwesternoregoncollartic-fa15.pdf "SouthwesternOregonCollartic FA15.pdf")**
 
-  **Tillamook Bay Community College / [Tillamook Bay Community College FA15](https://athletics.masters.edu/media/869641/tillamookbaycommcollartic-fa15.pdf "Tillamook Bay Community College FA15")**
+  **Tillamook Bay Community College / [Tillamook Bay Community College FA15](https://www.masters.edu/media/869641/tillamookbaycommcollartic-fa15.pdf "Tillamook Bay Community College FA15")**
 
-  **[Treasure Valley Community College](https://athletics.masters.edu/media/429383/TreasureValleyCollegeartic.pdf) / [Treasure Valley Community College FA15](https://athletics.masters.edu/media/869499/treasurevalleycollegeartic-fa15.pdf "TreasureValleyCollegeartic FA15.pdf")**
+  **[Treasure Valley Community College](https://www.masters.edu/media/429383/TreasureValleyCollegeartic.pdf) / [Treasure Valley Community College FA15](https://www.masters.edu/media/869499/treasurevalleycollegeartic-fa15.pdf "TreasureValleyCollegeartic FA15.pdf")**
 
-  **[Umpqua Community College](https://athletics.masters.edu/media/420778/Umpquacollegeartic.pdf) / [Umpqua Community College FA15](https://athletics.masters.edu/media/869500/umpquacollegeartic-fa15.pdf "Umpquacollegeartic FA15.pdf")**
+  **[Umpqua Community College](https://www.masters.edu/media/420778/Umpquacollegeartic.pdf) / [Umpqua Community College FA15](https://www.masters.edu/media/869500/umpquacollegeartic-fa15.pdf "Umpquacollegeartic FA15.pdf")**
 
   ## **Texas**
 
-  **[Cedar Valley College](https://athletics.masters.edu/media/869477/cedarvalleycollartic.pdf "CedarValleycollartic.pdf") / [Cedar Valley College FA15](https://athletics.masters.edu/media/869501/cedarvalleycollartic-fa15.pdf "CedarValleycollartic FA15.pdf")**
+  **[Cedar Valley College](https://www.masters.edu/media/869477/cedarvalleycollartic.pdf "CedarValleycollartic.pdf") / [Cedar Valley College FA15](https://www.masters.edu/media/869501/cedarvalleycollartic-fa15.pdf "CedarValleycollartic FA15.pdf")**
 
-  **[Central Texas College](https://athletics.masters.edu/media/869478/centraltexascollartic.pdf "CentralTexascollartic.pdf") / [Central Texas College FA15](https://athletics.masters.edu/media/869503/centraltexascollartic-fa15.pdf "CentralTexascollartic FA15.pdf")**
+  **[Central Texas College](https://www.masters.edu/media/869478/centraltexascollartic.pdf "CentralTexascollartic.pdf") / [Central Texas College FA15](https://www.masters.edu/media/869503/centraltexascollartic-fa15.pdf "CentralTexascollartic FA15.pdf")**
 
-  **[Dallas County College FA15](https://athletics.masters.edu/media/870103/dallascountycollegeartic-fa15.pdf "Dallas County College FA15")**
+  **[Dallas County College FA15](https://www.masters.edu/media/870103/dallascountycollegeartic-fa15.pdf "Dallas County College FA15")**
 
-  **[Houston Community College](https://athletics.masters.edu/media/869479/houstoncommcollegeartic.pdf "Houston Community College") / [Houston Community College FA15](https://athletics.masters.edu/media/869504/houstoncommcollegeartic-fa15.pdf "HoustonCommCollegeartic FA15.pdf")**
+  **[Houston Community College](https://www.masters.edu/media/869479/houstoncommcollegeartic.pdf "Houston Community College") / [Houston Community College FA15](https://www.masters.edu/media/869504/houstoncommcollegeartic-fa15.pdf "HoustonCommCollegeartic FA15.pdf")**
 
-  **[St. Philip's Community College FA15](https://athletics.masters.edu/media/869505/stphilipscollartic-fa15.pdf "StPhilip'scollartic FA15.pdf")**
+  **[St. Philip's Community College FA15](https://www.masters.edu/media/869505/stphilipscollartic-fa15.pdf "StPhilip'scollartic FA15.pdf")**
 
-  **[Northwest Vista College](https://athletics.masters.edu/media/869480/northwestvistacollegeartic.pdf "NorthwestVistaCollegeartic.pdf") / [Northwest Vista College FA15](https://athletics.masters.edu/media/869506/northwestvistacollegeartic-fa15.pdf "NorthwestVistaCollegeartic FA15.pdf")**
+  **[Northwest Vista College](https://www.masters.edu/media/869480/northwestvistacollegeartic.pdf "NorthwestVistaCollegeartic.pdf") / [Northwest Vista College FA15](https://www.masters.edu/media/869506/northwestvistacollegeartic-fa15.pdf "NorthwestVistaCollegeartic FA15.pdf")**
 
-  **[Tarrant County College](https://athletics.masters.edu/media/869284/tarrantcountycollartic.pdf "TarrantCountyCollartic.pdf") / [Tarrant County College F15](https://athletics.masters.edu/media/869507/tarrantcountycollartic-fa15.pdf "TarrantCountyCollartic FA15.pdf")**
+  **[Tarrant County College](https://www.masters.edu/media/869284/tarrantcountycollartic.pdf "TarrantCountyCollartic.pdf") / [Tarrant County College F15](https://www.masters.edu/media/869507/tarrantcountycollartic-fa15.pdf "TarrantCountyCollartic FA15.pdf")**
 
-  **[Victoria College FA15](https://athletics.masters.edu/media/870102/victoriacollegeartic-fa15.pdf "Victoria College FA15")**
+  **[Victoria College FA15](https://www.masters.edu/media/870102/victoriacollegeartic-fa15.pdf "Victoria College FA15")**
 
-  **[Western Texas College FA15](https://athletics.masters.edu/media/870104/westerntexascollartic-fa15.pdf "Western Texas College FA15")**
+  **[Western Texas College FA15](https://www.masters.edu/media/870104/westerntexascollartic-fa15.pdf "Western Texas College FA15")**
 
-  **[Wharton County Junior College FA15](https://athletics.masters.edu/media/867865/whartoncountycommcollartic-fa15.pdf "Wharton County Junior College")**
+  **[Wharton County Junior College FA15](https://www.masters.edu/media/867865/whartoncountycommcollartic-fa15.pdf "Wharton County Junior College")**
 
   ## **Utah**
 
-  **[Salt Lake City Community College FA15](https://athletics.masters.edu/media/869953/saltlakecitycommunitycollegeartic-fa15.pdf "Salt Lake City Community College FA15")**
+  **[Salt Lake City Community College FA15](https://www.masters.edu/media/869953/saltlakecitycommunitycollegeartic-fa15.pdf "Salt Lake City Community College FA15")**
 
   ## **Washington**
 
-  **[Bellevue College](https://athletics.masters.edu/media/429374/Bellevuecollartic.pdf) / [Bellevue College FA15](https://athletics.masters.edu/media/869508/bellevuecollartic-fa15.pdf "Bellevuecollartic FA15.pdf")**
+  **[Bellevue College](https://www.masters.edu/media/429374/Bellevuecollartic.pdf) / [Bellevue College FA15](https://www.masters.edu/media/869508/bellevuecollartic-fa15.pdf "Bellevuecollartic FA15.pdf")**
 
-  **[Big Bend Community College](https://athletics.masters.edu/media/429389/BigBendcollartic.pdf) /[ ](https://athletics.masters.edu/media/866632/bigbendcollartic-fa15.pdf "BigBendcollartic FA15.pdf")[Big Bend Community College FA15](https://athletics.masters.edu/media/869509/bigbendcollartic-fa15.pdf "BigBendcollartic FA15.pdf")**
+  **[Big Bend Community College](https://www.masters.edu/media/429389/BigBendcollartic.pdf) /[ ](https://www.masters.edu/media/866632/bigbendcollartic-fa15.pdf "BigBendcollartic FA15.pdf")[Big Bend Community College FA15](https://www.masters.edu/media/869509/bigbendcollartic-fa15.pdf "BigBendcollartic FA15.pdf")**
 
-  **[Cascadia Community College](https://athletics.masters.edu/media/429392/Cascadiacollartic.pdf) /[ ](https://athletics.masters.edu/media/866944/cascadiacollartic-fa15.pdf "Cascadiacollartic FA15.pdf")[Cascadia Community College FA15](https://athletics.masters.edu/media/869510/cascadiacollartic-fa15.pdf "Cascadiacollartic FA15.pdf")**
+  **[Cascadia Community College](https://www.masters.edu/media/429392/Cascadiacollartic.pdf) /[ ](https://www.masters.edu/media/866944/cascadiacollartic-fa15.pdf "Cascadiacollartic FA15.pdf")[Cascadia Community College FA15](https://www.masters.edu/media/869510/cascadiacollartic-fa15.pdf "Cascadiacollartic FA15.pdf")**
 
-  **[Centralia College](https://athletics.masters.edu/media/429395/Centraliacollartic.pdf) / [Centralia College FA15](https://athletics.masters.edu/media/869511/centraliacollartic-fa15.pdf "Centraliacollartic FA15.pdf")**
+  **[Centralia College](https://www.masters.edu/media/429395/Centraliacollartic.pdf) / [Centralia College FA15](https://www.masters.edu/media/869511/centraliacollartic-fa15.pdf "Centraliacollartic FA15.pdf")**
 
-  **[Clark College](https://athletics.masters.edu/media/429398/Clarkcollartic.pdf) /[ ](https://athletics.masters.edu/media/866655/clarkcollartic-fa15.pdf "Clarkcollartic FA15.pdf")[Clark College FA15](https://athletics.masters.edu/media/869512/clarkcollartic-fa15.pdf "Clarkcollartic FA15.pdf")**
+  **[Clark College](https://www.masters.edu/media/429398/Clarkcollartic.pdf) /[ ](https://www.masters.edu/media/866655/clarkcollartic-fa15.pdf "Clarkcollartic FA15.pdf")[Clark College FA15](https://www.masters.edu/media/869512/clarkcollartic-fa15.pdf "Clarkcollartic FA15.pdf")**
 
-  **[Columbia Basin College](https://athletics.masters.edu/media/429401/ColumbiaBasinartic.pdf) / [Columbia Basin College FA15](https://athletics.masters.edu/media/869636/columbiabasinartic-fa15.pdf "ColumbiaBasinartic FA15.pdf")**
+  **[Columbia Basin College](https://www.masters.edu/media/429401/ColumbiaBasinartic.pdf) / [Columbia Basin College FA15](https://www.masters.edu/media/869636/columbiabasinartic-fa15.pdf "ColumbiaBasinartic FA15.pdf")**
 
-  **[Edmonds Community College](https://athletics.masters.edu/media/513934/EdmondsCommCollegeartic.pdf) / [Edmonds Community College FA15](https://athletics.masters.edu/media/869514/edmondscommcollegeartic-fa15.pdf "EdmondsCommCollegeartic FA15.pdf")**
+  **[Edmonds Community College](https://www.masters.edu/media/513934/EdmondsCommCollegeartic.pdf) / [Edmonds Community College FA15](https://www.masters.edu/media/869514/edmondscommcollegeartic-fa15.pdf "EdmondsCommCollegeartic FA15.pdf")**
 
-  **[Everett Community College](https://athletics.masters.edu/media/429407/EverettCommCollegeartic.pdf) / [Everett Community College FA15](https://athletics.masters.edu/media/869515/everettcommcollegeartic-fa15.pdf "EverettCommCollegeartic FA15.pdf")**
+  **[Everett Community College](https://www.masters.edu/media/429407/EverettCommCollegeartic.pdf) / [Everett Community College FA15](https://www.masters.edu/media/869515/everettcommcollegeartic-fa15.pdf "EverettCommCollegeartic FA15.pdf")**
 
-  **[Grays Harbor College](https://athletics.masters.edu/media/429410/GraysHarborCollegeartic.pdf) / [Grays Harbor College FA15](https://athletics.masters.edu/media/869516/graysharborcollegeartic-fa15.pdf "GraysHarborCollegeartic FA15.pdf")**
+  **[Grays Harbor College](https://www.masters.edu/media/429410/GraysHarborCollegeartic.pdf) / [Grays Harbor College FA15](https://www.masters.edu/media/869516/graysharborcollegeartic-fa15.pdf "GraysHarborCollegeartic FA15.pdf")**
 
-  **[Green River Community College](https://athletics.masters.edu/media/429413/GreenRiverCollegeartic.pdf) / [Green River Community College FA15](https://athletics.masters.edu/media/869517/greenrivercollegeartic-fa15.pdf "GreenRiverCollegeartic FA15.pdf")**
+  **[Green River Community College](https://www.masters.edu/media/429413/GreenRiverCollegeartic.pdf) / [Green River Community College FA15](https://www.masters.edu/media/869517/greenrivercollegeartic-fa15.pdf "GreenRiverCollegeartic FA15.pdf")**
 
-  **[Highline Community College](https://athletics.masters.edu/media/420721/HighlineCollegeartic.pdf) / [Highline Community College FA15](https://athletics.masters.edu/media/869518/highlinecollegeartic-fa15.pdf "HighlineCollegeartic FA15.pdf")**
+  **[Highline Community College](https://www.masters.edu/media/420721/HighlineCollegeartic.pdf) / [Highline Community College FA15](https://www.masters.edu/media/869518/highlinecollegeartic-fa15.pdf "HighlineCollegeartic FA15.pdf")**
 
-  **[Lower Columbia College](https://athletics.masters.edu/media/429419/LowerColumbiaCollartic.pdf) /[ ](https://athletics.masters.edu/media/866769/lowercolumbiacollartic-fa15.pdf "LowerColumbiaCollartic FA15.pdf")[Lower Columbia College FA15](https://athletics.masters.edu/media/869885/lowercolumbiacollartic-fa15.pdf "LowerColumbiaCollartic FA15.pdf")**
+  **[Lower Columbia College](https://www.masters.edu/media/429419/LowerColumbiaCollartic.pdf) /[ ](https://www.masters.edu/media/866769/lowercolumbiacollartic-fa15.pdf "LowerColumbiaCollartic FA15.pdf")[Lower Columbia College FA15](https://www.masters.edu/media/869885/lowercolumbiacollartic-fa15.pdf "LowerColumbiaCollartic FA15.pdf")**
 
-  **[North Seattle Community College](https://athletics.masters.edu/media/429422/NorthSeattleCommCollartic.pdf) /[ North Seattle Community College FA15](https://athletics.masters.edu/media/869520/northseattlecommcollartic-fa15.pdf "NorthSeattleCommCollartic FA15.pdf")**
+  **[North Seattle Community College](https://www.masters.edu/media/429422/NorthSeattleCommCollartic.pdf) /[ North Seattle Community College FA15](https://www.masters.edu/media/869520/northseattlecommcollartic-fa15.pdf "NorthSeattleCommCollartic FA15.pdf")**
 
-  **[Olympic College](https://athletics.masters.edu/media/429425/Olympiccollartic.pdf) / [Olympic College FA15](https://athletics.masters.edu/media/869886/olympiccollartic-fa15.pdf "Olympiccollartic FA15.pdf")**
+  **[Olympic College](https://www.masters.edu/media/429425/Olympiccollartic.pdf) / [Olympic College FA15](https://www.masters.edu/media/869886/olympiccollartic-fa15.pdf "Olympiccollartic FA15.pdf")**
 
-  **[Peninsula College](https://athletics.masters.edu/media/429428/Peninsulacollegeartic.pdf) /[ ](https://athletics.masters.edu/media/866829/peninsulacollegeartic-fa15.pdf "Peninsulacollegeartic FA15.pdf")[Peninsula College FA15](https://athletics.masters.edu/media/869522/peninsulacollegeartic-fa15.pdf "Peninsulacollegeartic FA15.pdf")**
+  **[Peninsula College](https://www.masters.edu/media/429428/Peninsulacollegeartic.pdf) /[ ](https://www.masters.edu/media/866829/peninsulacollegeartic-fa15.pdf "Peninsulacollegeartic FA15.pdf")[Peninsula College FA15](https://www.masters.edu/media/869522/peninsulacollegeartic-fa15.pdf "Peninsulacollegeartic FA15.pdf")**
 
-  **[Pierce College](https://athletics.masters.edu/media/429431/Piercecoll(WA)artic.pdf) /[ Pierce College FA15](https://athletics.masters.edu/media/869523/piercecoll-wa-artic-fa15.pdf "Piercecoll(WA)artic FA15.pdf")**
+  **[Pierce College](https://www.masters.edu/media/429431/Piercecoll(WA)artic.pdf) /[ Pierce College FA15](https://www.masters.edu/media/869523/piercecoll-wa-artic-fa15.pdf "Piercecoll(WA)artic FA15.pdf")**
 
-  **[Seattle Central Community College](https://athletics.masters.edu/media/429434/SeattleCentralCommCollartic.pdf) / [Seattle Central Community College FA15](https://athletics.masters.edu/media/869524/seattlecentralcommcollartic-fa15.pdf "SeattleCentralCommCollartic FA15.pdf")**
+  **[Seattle Central Community College](https://www.masters.edu/media/429434/SeattleCentralCommCollartic.pdf) / [Seattle Central Community College FA15](https://www.masters.edu/media/869524/seattlecentralcommcollartic-fa15.pdf "SeattleCentralCommCollartic FA15.pdf")**
 
-  **[Shoreline Community College](https://athletics.masters.edu/media/429437/Shorelinecollartic.pdf) / [Shoreline Community College FA15](https://athletics.masters.edu/media/869538/shorelinecollartic-fa15.pdf "Shorelinecollartic FA15.pdf")**
+  **[Shoreline Community College](https://www.masters.edu/media/429437/Shorelinecollartic.pdf) / [Shoreline Community College FA15](https://www.masters.edu/media/869538/shorelinecollartic-fa15.pdf "Shorelinecollartic FA15.pdf")**
 
-  **[Skagit Valley College](https://athletics.masters.edu/media/429440/SkagitValleyCollartic.pdf) / [Skagit Valley College FA15](https://athletics.masters.edu/media/869539/skagitvalleycollartic-fa15.pdf "SkagitValleyCollartic FA15.pdf")**
+  **[Skagit Valley College](https://www.masters.edu/media/429440/SkagitValleyCollartic.pdf) / [Skagit Valley College FA15](https://www.masters.edu/media/869539/skagitvalleycollartic-fa15.pdf "SkagitValleyCollartic FA15.pdf")**
 
-  **[South Puget Sound Community College](https://athletics.masters.edu/media/429443/SouthPugetSoundCollartic.pdf) / [South Puget Sound Community College FA15](https://athletics.masters.edu/media/869540/southpugetsoundcollartic-fa15.pdf "SouthPugetSoundCollartic FA15.pdf")**
+  **[South Puget Sound Community College](https://www.masters.edu/media/429443/SouthPugetSoundCollartic.pdf) / [South Puget Sound Community College FA15](https://www.masters.edu/media/869540/southpugetsoundcollartic-fa15.pdf "SouthPugetSoundCollartic FA15.pdf")**
 
-  **[South Seattle Community College](https://athletics.masters.edu/media/429446/SouthSeattleCommCollartic.pdf) / [South Seattle Community College FA15](https://athletics.masters.edu/media/869541/southseattlecommcollartic-fa15.pdf "SouthSeattleCommCollartic FA15.pdf")**
+  **[South Seattle Community College](https://www.masters.edu/media/429446/SouthSeattleCommCollartic.pdf) / [South Seattle Community College FA15](https://www.masters.edu/media/869541/southseattlecommcollartic-fa15.pdf "SouthSeattleCommCollartic FA15.pdf")**
 
-  **[Spokane Community College](https://athletics.masters.edu/media/429449/SpokaneCommCollartic.pdf) / [Spokane Community College FA15](https://athletics.masters.edu/media/869542/spokanecommcollartic-fa15.pdf "SpokaneCommCollartic FA15.pdf")**
+  **[Spokane Community College](https://www.masters.edu/media/429449/SpokaneCommCollartic.pdf) / [Spokane Community College FA15](https://www.masters.edu/media/869542/spokanecommcollartic-fa15.pdf "SpokaneCommCollartic FA15.pdf")**
 
-  **[Spokane Falls Community College](https://athletics.masters.edu/media/429452/SpokaneFallsCollartic.pdf) / [Spokane Falls Community College FA15](https://athletics.masters.edu/media/869543/spokanefallscollartic-fa15.pdf "SpokaneFallsCollartic FA15.pdf")**
+  **[Spokane Falls Community College](https://www.masters.edu/media/429452/SpokaneFallsCollartic.pdf) / [Spokane Falls Community College FA15](https://www.masters.edu/media/869543/spokanefallscollartic-fa15.pdf "SpokaneFallsCollartic FA15.pdf")**
 
-  **[Tacoma Community College](https://athletics.masters.edu/media/429455/TacomaCollegeartic.pdf) / [Tacoma Community College FA15](https://athletics.masters.edu/media/869544/tacomacollegeartic-fa15.pdf "TacomaCollegeartic FA15.pdf")**
+  **[Tacoma Community College](https://www.masters.edu/media/429455/TacomaCollegeartic.pdf) / [Tacoma Community College FA15](https://www.masters.edu/media/869544/tacomacollegeartic-fa15.pdf "TacomaCollegeartic FA15.pdf")**
 
-  **[Walla Walla Community College](https://athletics.masters.edu/media/429458/WallaWallaCollartic.pdf) / [Walla Walla Community College FA15](https://athletics.masters.edu/media/869545/wallawallacollartic-fa15.pdf "WallaWallaCollartic FA15.pdf")**
+  **[Walla Walla Community College](https://www.masters.edu/media/429458/WallaWallaCollartic.pdf) / [Walla Walla Community College FA15](https://www.masters.edu/media/869545/wallawallacollartic-fa15.pdf "WallaWallaCollartic FA15.pdf")**
 
-  **[Wenatchee Valley College](https://athletics.masters.edu/media/429461/WenatcheeValleyCollartic.pdf) / [Wenatchee Valley College FA15](https://athletics.masters.edu/media/869546/wenatcheevalleycollartic-fa15.pdf "WenatcheeValleyCollartic FA15.pdf")**
+  **[Wenatchee Valley College](https://www.masters.edu/media/429461/WenatcheeValleyCollartic.pdf) / [Wenatchee Valley College FA15](https://www.masters.edu/media/869546/wenatcheevalleycollartic-fa15.pdf "WenatcheeValleyCollartic FA15.pdf")**
 
-  **[Whatcom Community College](https://athletics.masters.edu/media/429464/WhatcomCommCollartic.pdf) /[ ](https://athletics.masters.edu/media/866911/whatcomcommcollartic-fa15.pdf "WhatcomCommCollartic FA15.pdf")[Whatcom Community College FA15](https://athletics.masters.edu/media/869547/whatcomcommcollartic-fa15.pdf "WhatcomCommCollartic FA15.pdf")**
+  **[Whatcom Community College](https://www.masters.edu/media/429464/WhatcomCommCollartic.pdf) /[ ](https://www.masters.edu/media/866911/whatcomcommcollartic-fa15.pdf "WhatcomCommCollartic FA15.pdf")[Whatcom Community College FA15](https://www.masters.edu/media/869547/whatcomcommcollartic-fa15.pdf "WhatcomCommCollartic FA15.pdf")**
 
-  **[Yakima Valley Community College](https://athletics.masters.edu/media/429467/YakimaValleyCommCollartic.pdf) / [Yakima Valley Community College FA15](https://athletics.masters.edu/media/869548/yakimavalleycommcollartic-fa15.pdf "YakimaValleyCommCollartic FA15.pdf")**
+  **[Yakima Valley Community College](https://www.masters.edu/media/429467/YakimaValleyCommCollartic.pdf) / [Yakima Valley Community College FA15](https://www.masters.edu/media/869548/yakimavalleycommcollartic-fa15.pdf "YakimaValleyCommCollartic FA15.pdf")**
 
-  ## **[Other Colleges](https://athletics.masters.edu/media/867948/yakimavalleycommcollartic-fa15.pdf "YakimaValleyCommCollartic FA15.pdf")**
+  ## **[Other Colleges](https://www.masters.edu/media/867948/yakimavalleycommcollartic-fa15.pdf "YakimaValleyCommCollartic FA15.pdf")**
 
-  **[American Public University](https://athletics.masters.edu/media/869583/americanpublicunivcollartic.pdf) / [American Public University FA15](https://athletics.masters.edu/media/869584/americanpublicunivcollartic-fa15.pdf "AmericanPublicUnivcollartic FA15.doc")**
+  **[American Public University](https://www.masters.edu/media/869583/americanpublicunivcollartic.pdf) / [American Public University FA15](https://www.masters.edu/media/869584/americanpublicunivcollartic-fa15.pdf "AmericanPublicUnivcollartic FA15.doc")**
 
-  **[American Samoa Community College](https://athletics.masters.edu/media/869560/americansamoaccartic.pdf "AmericanSamoaCCartic.pdf") / [American Samoa Community College FA15](https://athletics.masters.edu/media/869559/americansamoacollartic-fa15.pdf "AmericanSamoaCollartic FA15.pdf")**
+  **[American Samoa Community College](https://www.masters.edu/media/869560/americansamoaccartic.pdf "AmericanSamoaCCartic.pdf") / [American Samoa Community College FA15](https://www.masters.edu/media/869559/americansamoacollartic-fa15.pdf "AmericanSamoaCollartic FA15.pdf")**
 
-  **[Central Carolina Community College](https://athletics.masters.edu/media/869562/centralcarolinacollartic.pdf "CentralCarolinacollartic.pdf") / [Central Carolina Community College FA15](https://athletics.masters.edu/media/869561/centralcarolinacollartic-fa15.pdf "CentralCarolinacollartic FA15.pdf")**
+  **[Central Carolina Community College](https://www.masters.edu/media/869562/centralcarolinacollartic.pdf "CentralCarolinacollartic.pdf") / [Central Carolina Community College FA15](https://www.masters.edu/media/869561/centralcarolinacollartic-fa15.pdf "CentralCarolinacollartic FA15.pdf")**
 
-  **[Central Lakes College](https://athletics.masters.edu/media/869563/centrallakescollegeartic.pdf "CentralLakesCollegeartic.pdf") /[ Central Lakes College (MN) FA15](https://athletics.masters.edu/media/869564/centrallakescollegeartic-fa15.pdf "CentralLakesCollegeartic FA15.pdf")**
+  **[Central Lakes College](https://www.masters.edu/media/869563/centrallakescollegeartic.pdf "CentralLakesCollegeartic.pdf") /[ Central Lakes College (MN) FA15](https://www.masters.edu/media/869564/centrallakescollegeartic-fa15.pdf "CentralLakesCollegeartic FA15.pdf")**
 
-  **[Century College](https://athletics.masters.edu/media/869565/centurycollegeartic.pdf "CenturyCollegeartic.pdf") / [Century College (MN) FA15](https://athletics.masters.edu/media/869566/centurycollegeartic-fa15.pdf "CenturyCollegeartic FA15.pdf")**
+  **[Century College](https://www.masters.edu/media/869565/centurycollegeartic.pdf "CenturyCollegeartic.pdf") / [Century College (MN) FA15](https://www.masters.edu/media/869566/centurycollegeartic-fa15.pdf "CenturyCollegeartic FA15.pdf")**
 
-  **[Liberty University](https://athletics.masters.edu/media/869031/liberty-university.pdf) /[ ](https://athletics.masters.edu/media/869032/liberty-university-fa15.pdf "Liberty University FA15.pdf")[Liberty University FA15](https://athletics.masters.edu/media/869567/liberty-university-fa15.pdf "Liberty University FA15.pdf")**
+  **[Liberty University](https://www.masters.edu/media/869031/liberty-university.pdf) /[ ](https://www.masters.edu/media/869032/liberty-university-fa15.pdf "Liberty University FA15.pdf")[Liberty University FA15](https://www.masters.edu/media/869567/liberty-university-fa15.pdf "Liberty University FA15.pdf")**
 
-  **[Louisiana State University](https://athletics.masters.edu/media/869030/louisianastateunivartic.pdf) / [Louisiana State University FA15](https://athletics.masters.edu/media/869638/louisianastateunivartic-fa15.pdf "Louisiana State University FA15")**
+  **[Louisiana State University](https://www.masters.edu/media/869030/louisianastateunivartic.pdf) / [Louisiana State University FA15](https://www.masters.edu/media/869638/louisianastateunivartic-fa15.pdf "Louisiana State University FA15")**
 
-  **[Nashville State Community College FA15](https://athletics.masters.edu/media/869568/nashvillestatecommcollegeartic-fa15.pdf "NashvilleStateCommCollegeartic FA15.pdf")**
+  **[Nashville State Community College FA15](https://www.masters.edu/media/869568/nashvillestatecommcollegeartic-fa15.pdf "NashvilleStateCommCollegeartic FA15.pdf")**
 
-  **[North Central Michigan College FA15](https://athletics.masters.edu/media/869569/northcentralmichigancollcartic-fa15.pdf "NorthCentralMichiganCollCartic FA15.pdf")**
+  **[North Central Michigan College FA15](https://www.masters.edu/media/869569/northcentralmichigancollcartic-fa15.pdf "NorthCentralMichiganCollCartic FA15.pdf")**
 
-  **[Truckee Meadows Community College](https://athletics.masters.edu/media/869282/truckeemeadowscollegeartic.pdf "TruckeeMeadowsCollegeartic.pdf") / [Truckee Meadows Community College F15](https://athletics.masters.edu/media/869570/truckeemeadowscollegeartic-fa15.pdf "TruckeeMeadowsCollegeartic FA15.pdf")**
+  **[Truckee Meadows Community College](https://www.masters.edu/media/869282/truckeemeadowscollegeartic.pdf "TruckeeMeadowsCollegeartic.pdf") / [Truckee Meadows Community College F15](https://www.masters.edu/media/869570/truckeemeadowscollegeartic-fa15.pdf "TruckeeMeadowsCollegeartic FA15.pdf")**
 
-  **[Word of Life](https://athletics.masters.edu/media/869027/word-of-life.pdf) / [Word of Life FA15](https://athletics.masters.edu/media/869571/word-of-life-fa15.pdf "Word of Life FA15.pdf")**
+  **[Word of Life](https://www.masters.edu/media/869027/word-of-life.pdf) / [Word of Life FA15](https://www.masters.edu/media/869571/word-of-life-fa15.pdf "Word of Life FA15.pdf")**
 
   ## **Tests**
 
-  **[AP Tests](https://athletics.masters.edu/media/869021/ap-test.pdf) / [AP Tests FA15](https://athletics.masters.edu/media/869572/ap-test-fa15.pdf "AP Test-FA15.pdf")**
+  **[AP Tests](https://www.masters.edu/media/869021/ap-test.pdf) / [AP Tests FA15](https://www.masters.edu/media/869572/ap-test-fa15.pdf "AP Test-FA15.pdf")**
 
-  **[CLEP Tests](https://athletics.masters.edu/media/869023/clep-test.pdf) / [CLEP Tests FA15](https://athletics.masters.edu/media/869573/clep-test-fa15.pdf "CLEP Test-FA15.pdf")**
+  **[CLEP Tests](https://www.masters.edu/media/869023/clep-test.pdf) / [CLEP Tests FA15](https://www.masters.edu/media/869573/clep-test-fa15.pdf "CLEP Test-FA15.pdf")**
 
-  **[DSST Tests](https://athletics.masters.edu/media/832064/DANTES.pdf) / [DSST Tests FA15](https://athletics.masters.edu/media/866816/dantes-fa15.pdf "DSST Test Equivalencies by course 2015-2016.pdf")**
+  **[DSST Tests](https://www.masters.edu/media/832064/DANTES.pdf) / [DSST Tests FA15](https://www.masters.edu/media/866816/dantes-fa15.pdf "DSST Test Equivalencies by course 2015-2016.pdf")**
 
-  **[IB Exams](https://athletics.masters.edu/media/869026/ib-exams.pdf) /[ IB Exams FA15](https://athletics.masters.edu/media/869574/ib-exams-fa15.pdf "IB Exams FA15.pdf")**
+  **[IB Exams](https://www.masters.edu/media/869026/ib-exams.pdf) /[ IB Exams FA15](https://www.masters.edu/media/869574/ib-exams-fa15.pdf "IB Exams FA15.pdf")**
 ferpa-body: |-
   ## Family Education Rights and Privacy Act of 1974 as Amended
 
