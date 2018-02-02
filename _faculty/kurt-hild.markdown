@@ -2,6 +2,7 @@
 title: Kurt Hild
 date: 2017-05-02 17:21:00 Z
 job-title: Professor of English
+image: "/uploads/Hild,%20K.jpg"
 department: English
 degrees:
 - B.A., Kearney (NE) State College
