@@ -167,7 +167,7 @@ positions:
     with many distractions is a must.\n\n•\tReading and comprehending correspondence
     is imperative.\n\n•\tMust successfully pass a background investigation.\n\nAdvancement,
     Training & Compensation \n\n•\tTMU provides options for employee advancement and
-    training, both internally and externally. TMU values the personal an professional
+    training, both internally and externally. TMU values the personal and professional
     development of its employees and seeks to provide relevant, beneficial options
     whenever possible.\n\n•\tAdvancement may include “Sr Admissions Counselor”, “Admissions
     Regional Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining
