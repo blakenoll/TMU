@@ -131,7 +131,7 @@ articulation-body: |-
 
   **[Feather River College](https://www.masters.edu/media/868967/featherrivercollegeartic.pdf) /[ Feather River College FA15](https://www.masters.edu/media/868968/featherrivercollegeartic-fa15.pdf "FeatherRiverCollegeartic FA15.pdf")**
 
-  **[Folsom Lake College](https://www.masters.edu/media/868969/folsomlakecollegeartic.pdf) / [Folsom Lake College FA15](https://www.masters.edu/media/868970/folsomlakecollegeartic-fa15.pdf "FolsomLakeCollegeartic FA15.pdf")**
+  **[Folsom Lake College](https://www.masters.edu/media/868969/folsomlakecollegeartic.pdf) / [Folsom Lake College FA15]https://www.masters.edu/media/870661/folsomlakecollegeartic-fa15.pdf "FolsomLakeCollegeartic FA15.pdf")**
 
   **[Foothill College](https://www.masters.edu/media/868971/foothillcollegeartic.pdf) / [Foothill College FA15](https://www.masters.edu/media/868972/foothillcollegeartic-fa15.pdf "FoothillCollegeartic FA15.pdf")**
 
@@ -235,7 +235,7 @@ articulation-body: |-
 
   **[San Diego City College](https://www.masters.edu/media/869110/sandiegoccartic.pdf) / [San Diego City College FA15](https://www.masters.edu/media/869111/sandiegoccartic-fa15.pdf "SanDiegoCCartic FA15.pdf")**
 
-  **[San Diego Mesa College](https://www.masters.edu/media/869112/sandiegomesacollartic.pdf) / [San Diego Mesa College FA15](https://www.masters.edu/media/869113/sandiegomesacollartic-fa15.pdf "SanDiegoMesaCollartic FA15.pdf")**
+  **[San Diego Mesa College](https://www.masters.edu/media/869112/sandiegomesacollartic.pdf) / [San Diego Mesa College FA15](https://www.masters.edu/media/870660/sandiegomesacollartic-fa15.pdf "SanDiegoMesaCollartic FA15.pdf")**
 
   **[San Diego Miramar College](https://www.masters.edu/media/869114/sandiegomiramarcollartic.pdf) / [San Diego Miramar College FA15](https://www.masters.edu/media/869115/sandiegomiramarcollartic-fa15.pdf "SanDiegoMiramarCollartic FA15.pdf")**
 
