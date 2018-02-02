@@ -192,13 +192,358 @@ positions:
     practicing principles of equal employment opportunity and diversity based upon
     sovereign Biblical principles.\n\n\nApplication Process\nCompleted application
     form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\nThe Master’s University and Seminary\n\nHuman Resources Department\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n(800) 568-6248
+    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
+    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
     • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\nAll applications
     will be reviewed by the Human Resources department.  Selected candidates will
     be invited for a personal interview at The Master’s College.  Any expense incurred
     in connection with these interviews will be the responsibility of the candidates.\n\nApplication
     Procedures:\nAll documents included in your application remain the sole property
+    of The Master’s College and will not be returned.   Your file for this opening
+    will not be considered unless all requested items are submitted and are complete.\n\n"
+- title: Regional Admissions Counselor for Central California (Part-time, seasonal)  (University)
+  position: Staff
+  about-body: "Responsible for representing TMU undergraduate programs to the Christian
+    public, including to schools, churches, organizations, and camps, in order generate
+    brand awareness and recruit students according to TMU goals for a defined geographic
+    region. CA Region may include Los Angeles, Sacramento, San Francisco/Bay Area,
+    etc.\n\nEssential Functions\n\n•\tSchedules appointments and hosts various recruitment
+    activities at college fairs, churches, high schools, conferences, organizations,
+    families, etc. to promote and market TMU to both the organizations and the students.\n\n•\tGives
+    engaging presentations and promotions to attract and entice students and partners.\n\n•\tCoordinates
+    with TMU admissions office to plan communications and travel, and to make strategic
+    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
+    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
+    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
+    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
+    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
+    to provide initial counsel, advise, and assist prospective students through the
+    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
+    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
+    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    be able to travel to various locations in the defined geographic region (eg, state)
+    and do presentations on the benefits of receiving an education from The Master's
+    University.\n\n•\tMust be able to define one’s own hours and travel schedule within
+    requirments and limits\n\n•\tMust be able to work independently \n\n•\tFamiliarity
+    with The Master's University is desirable.\n\n•\tAbility to establish and maintain
+    effective working relationships with staff, faculty, vendors, students, &/or community
+    members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
+    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    relationship with Jesus Christ and a demonstrated commitment to the doctrinal
+    position of TMU&S and a continuous exhibition of a desire to minister and serve
+    others in varied capacities.\n \n•\tMust be able to get along with co-workers
+    and the public.\n\n•\tEducation:  Bachelor’s degree preferred.\n\n•\tExperience:
+    \ 1+ years in an admissions office in an educational institution preferred\n\n•\tHave
+    strong computer proficiency.\n\n•\tExcellent oral and written command of the English
+    language is required.\n\n•\tPossess excellent organizational skills.\n\n•\tExercise
+    confidentiality, good judgment and discernment.\n\n•\tService oriented and able
+    to interface with many people is mandatory.\n\n•\tMust successfully pass a background
+    investigation.\n\nAdvancement, Training & Compensation \n\n•\tTMU provides all
+    approved related travel and marketing expenses \n\n•\tTMU provides options for
+    employee advancement and training, both internally and externally. TMU values
+    the personal and professional development of its employees and seeks to provide
+    relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
+    increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
+    Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
+    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
+    in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
+    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\nMinimum Conditions
+    for Beginning Employment:\nPrior to beginning employment, in accordance with The
+    Master’s University policy and/or under federal or state law, all employees must:\n\n1.\tSign
+    and return an offer of “At Will” employment.\n\n2.\tPresent verification of their
+    identity and authorization to work in the United States.\n\nIf, because of a disability,
+    you need special services or facilities in order to apply or interview for this
+    opening please contact the Human Resources department.\n\nThe Master’s University
+    & Seminary does not discriminate on the basis of race, color, national origin,
+    ancestry, gender, age, marital status, veteran status or prior military service,
+    medical condition, or any physical or mental disability.  We are committed to
+    practicing principles of equal employment opportunity and diversity based upon
+    sovereign Biblical principles.\n\nApplication Process\n\nCompleted application
+    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
+    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
+    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
+    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\nAll applications
+    will be reviewed by the Human Resources department.  Selected candidates will
+    be invited for a personal interview at The Master’s College.  Any expense incurred
+    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
+    Procedures:\nAll documents included in your application remain the sole property
+    of The Master’s College and will not be returned.   Your file for this opening
+    will not be considered unless all requested items are submitted and are complete.\n\n"
+- title: Regional Admissions Counselor for AZ (Part-time, seasonal)  (University)
+  position: Staff
+  about-body: "Responsible for representing TMU undergraduate programs to the Christian
+    public, including to schools, churches, organizations, and camps, in order generate
+    brand awareness and recruit students according to TMU goals for a defined geographic
+    region. Region includes Arizona state.\n\nEssential Functions\n\n•\tSchedules
+    appointments and hosts various recruitment activities at college fairs, churches,
+    high schools, conferences, organizations, families, etc. to promote and market
+    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
+    and promotions to attract and entice students and partners.\n\n•\tCoordinates
+    with TMU admissions office to plan communications and travel, and to make strategic
+    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
+    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
+    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
+    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
+    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
+    to provide initial counsel, advise, and assist prospective students through the
+    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
+    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
+    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    be able to travel to various locations in the defined geographic region (eg, state)
+    and do presentations on the benefits of receiving an education from The Master's
+    University.\n\n•\tMust be able to define one’s own hours and travel schedule within
+    requirements and limits\n\n•\tMust be able to work independently \n\n•\tFamiliarity
+    with The Master's University is desirable.\n\n•\tAbility to establish and maintain
+    effective working relationships with staff, faculty, vendors, students, &/or community
+    members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
+    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    relationship with Jesus Christ and a demonstrated commitment to the doctrinal
+    position of TMU&S and a continuous exhibition of a desire to minister and serve
+    others in varied capacities.\n \n•\tMust be able to get along with co-workers
+    and the public.\n\n•\tEducation:  Bachelor’s degree preferred.\n\n•\tExperience:
+    \ 1+ years in an admissions office in an educational institution preferred\n\n•\tHave
+    strong computer proficiency.\n\n•\tExcellent oral and written command of the English
+    language is required.\n\n•\tPossess excellent organizational skills.\n\n•\tExercise
+    confidentiality, good judgment and discernment.\n\n•\tService oriented and able
+    to interface with many people is mandatory.\n\n•\tMust successfully pass a background
+    investigation.\n\nAdvancement, Training & Compensation \n\n•\tTMU provides all
+    approved related travel and marketing expenses \n\n•\tTMU provides options for
+    employee advancement and training, both internally and externally. TMU values
+    the personal and professional development of its employees and seeks to provide
+    relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
+    increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
+    Manager”, “Assistant Director”, or other roles within TMU.\n \n•\tTraining may
+    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
+    in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
+    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\n\nMinimum
+    Conditions for Beginning Employment:\nPrior to beginning employment, in accordance
+    with The Master’s University policy and/or under federal or state law, all employees
+    must:\n\n1.\tSign and return an offer of “At Will” employment.\n\n2.\tPresent
+    verification of their identity and authorization to work in the United States.\n\nIf,
+    because of a disability, you need special services or facilities in order to apply
+    or interview for this opening please contact the Human Resources department.\n\nThe
+    Master’s University & Seminary does not discriminate on the basis of race, color,
+    national origin, ancestry, gender, age, marital status, veteran status or prior
+    military service, medical condition, or any physical or mental disability.  We
+    are committed to practicing principles of equal employment opportunity and diversity
+    based upon sovereign Biblical principles.\n\nApplication Process\n\nCompleted
+    application form from The Master’s University.  This can be obtained at www.masters.edu/jobs
+    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
+    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
+    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
+    will be reviewed by the Human Resources department.  Selected candidates will
+    be invited for a personal interview at The Master’s College.  Any expense incurred
+    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
+    Procedures:\n\nAll documents included in your application remain the sole property
+    of The Master’s College and will not be returned.   Your file for this opening
+    will not be considered unless all requested items are submitted and are complete.\n\n"
+- title: Regional Admissions Counselor for TX (Part-time, seasonal)  (University)
+  position: Staff
+  about-body: "Responsible for representing TMU undergraduate programs to the Christian
+    public, including to schools, churches, organizations, and camps, in order generate
+    brand awareness and recruit students according to TMU goals for a defined geographic
+    region. Region includes Texas or counties within.\n\nEssential Functions\n\n•\tSchedules
+    appointments and hosts various recruitment activities at college fairs, churches,
+    high schools, conferences, organizations, families, etc. to promote and market
+    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
+    and promotions to attract and entice students and partners.\n\n•\tCoordinates
+    with TMU admissions office to plan communications and travel, and to make strategic
+    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
+    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
+    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
+    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
+    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
+    to provide initial counsel, advise, and assist prospective students through the
+    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
+    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
+    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    be able to travel to various locations in the defined geographic region (eg, state)
+    and do presentations on the benefits of receiving an education from The Master's
+    University.\n\n•\tMust be able to define one’s own hours and travel schedule within
+    requirements and limits\n\n•\tMust be able to work independently \n\n•\tFamiliarity
+    with The Master's University is desirable.\n\n•\tAbility to establish and maintain
+    effective working relationships with staff, faculty, vendors, students, &/or community
+    members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
+    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    relationship with Jesus Christ and a demonstrated commitment to the doctrinal
+    position of TMU&S and a continuous exhibition of a desire to minister and serve
+    others in varied capacities.\n \n•\tMust be able to get along with co-workers
+    and the public.\n\n•\tEducation:  Bachelor’s degree preferred.\n\n•\tExperience:
+    \ 1+ years in an admissions office in an educational institution preferred\n\n•\tHave
+    strong computer proficiency.\n\n•\tExcellent oral and written command of the English
+    language is required.\n\n•\tPossess excellent organizational skills.\n\n•\tExercise
+    confidentiality, good judgment and discernment.\n\n•\tService oriented and able
+    to interface with many people is mandatory.\n\n•\tMust successfully pass a background
+    investigation.\n\nAdvancement, Training & Compensation \n\n•\tTMU provides all
+    approved related travel and marketing expenses \n\n•\tTMU provides options for
+    employee advancement and training, both internally and externally. TMU values
+    the personal and professional development of its employees and seeks to provide
+    relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
+    increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
+    Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
+    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
+    in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
+    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\nMinimum Conditions
+    for Beginning Employment:\nPrior to beginning employment, in accordance with The
+    Master’s University policy and/or under federal or state law, all employees must:\n\n1.\tSign
+    and return an offer of “At Will” employment.\n\n2.\tPresent verification of their
+    identity and authorization to work in the United States.\n\nIf, because of a disability,
+    you need special services or facilities in order to apply or interview for this
+    opening please contact the Human Resources department.\n\nThe Master’s University
+    & Seminary does not discriminate on the basis of race, color, national origin,
+    ancestry, gender, age, marital status, veteran status or prior military service,
+    medical condition, or any physical or mental disability.  We are committed to
+    practicing principles of equal employment opportunity and diversity based upon
+    sovereign Biblical principles.\n\nApplication Process\n\nCompleted application
+    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
+    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
+    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
+    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
+    will be reviewed by the Human Resources department.  Selected candidates will
+    be invited for a personal interview at The Master’s College.  Any expense incurred
+    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
+    Procedures:\n\nAll documents included in your application remain the sole property
+    of The Master’s College and will not be returned.   Your file for this opening
+    will not be considered unless all requested items are submitted and are complete.\n\n"
+- title: Regional Admissions Counselor for Southern California (Part-time, seasonal)  (University)
+  position: Staff
+  about-body: "Responsible for representing TMU undergraduate programs to the Christian
+    public, including to schools, churches, organizations, and camps, in order generate
+    brand awareness and recruit students according to TMU goals for a defined geographic
+    region. So. Cal. Region may include portions of Los Angeles, San Diego, etc.\n\nEssential
+    Functions\n\n•\tSchedules appointments and hosts various recruitment activities
+    at college fairs, churches, high schools, conferences, organizations, families,
+    etc. to promote and market TMU to both the organizations and the students.\n\n•\tGives
+    engaging presentations and promotions to attract and entice students and partners.\n\n•\tCoordinates
+    with TMU admissions office to plan communications and travel, and to make strategic
+    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
+    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
+    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
+    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
+    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
+    to provide initial counsel, advise, and assist prospective students through the
+    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
+    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
+    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    be able to travel to various locations in the defined geographic region (eg, state)
+    and do presentations on the benefits of receiving an education from The Master's
+    University.\n\n•\tMust be able to define one’s own hours and travel schedule within
+    requirments and limits\n\n•\tMust be able to work independently \n\n•\tFamiliarity
+    with The Master's University is desirable.\n\n•\tAbility to establish and maintain
+    effective working relationships with staff, faculty, vendors, students, &/or community
+    members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
+    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    relationship with Jesus Christ and a demonstrated commitment to the doctrinal
+    position of TMU&S and a continuous exhibition of a desire to minister and serve
+    others in varied capacities.\n \n•\tMust be able to get along with co-workers
+    and the public.\n\n•\tEducation:  Bachelor’s degree preferred.\n\n•\tExperience:
+    \ 1+ years in an admissions office in an educational institution preferred\n\n•\tHave
+    strong computer proficiency.\n\n•\tExcellent oral and written command of the English
+    language is required.\n\n•\tPossess excellent organizational skills.\n\n•\tExercise
+    confidentiality, good judgment and discernment.\n\n•\tService oriented and able
+    to interface with many people is mandatory.\n\n•\tMust successfully pass a background
+    investigation.\n\nAdvancement, Training & Compensation \n\n•\tTMU provides all
+    approved related travel and marketing expenses \n\n•\tTMU provides options for
+    employee advancement and training, both internally and externally. TMU values
+    the personal and professional development of its employees and seeks to provide
+    relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
+    increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
+    Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
+    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
+    in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
+    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\nMinimum Conditions
+    for Beginning Employment:\nPrior to beginning employment, in accordance with The
+    Master’s University policy and/or under federal or state law, all employees must:\n\n1.\tSign
+    and return an offer of “At Will” employment.\n\n2.\tPresent verification of their
+    identity and authorization to work in the United States.\n\nIf, because of a disability,
+    you need special services or facilities in order to apply or interview for this
+    opening please contact the Human Resources department.\n\nThe Master’s University
+    & Seminary does not discriminate on the basis of race, color, national origin,
+    ancestry, gender, age, marital status, veteran status or prior military service,
+    medical condition, or any physical or mental disability.  We are committed to
+    practicing principles of equal employment opportunity and diversity based upon
+    sovereign Biblical principles.\n\nApplication Process\n\nCompleted application
+    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
+    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
+    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
+    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
+    will be reviewed by the Human Resources department.  Selected candidates will
+    be invited for a personal interview at The Master’s College.  Any expense incurred
+    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
+    Procedures:\n\nAll documents included in your application remain the sole property
+    of The Master’s College and will not be returned.   Your file for this opening
+    will not be considered unless all requested items are submitted and are complete.\n\n"
+- title: Regional Admissions Counselor for Northern California (Part-time, seasonal)  (University)
+  position: Staff
+  about-body: "Responsible for representing TMU undergraduate programs to the Christian
+    public, including to schools, churches, organizations, and camps, in order generate
+    brand awareness and recruit students according to TMU goals for a defined geographic
+    region. Region is Northern California counties.\n\nEssential Functions\n\n•\tSchedules
+    appointments and hosts various recruitment activities at college fairs, churches,
+    high schools, conferences, organizations, families, etc. to promote and market
+    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
+    and promotions to attract and entice students and partners.\n\n•\tCoordinates
+    with TMU admissions office to plan communications and travel, and to make strategic
+    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
+    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
+    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
+    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
+    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
+    to provide initial counsel, advise, and assist prospective students through the
+    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
+    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
+    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    be able to travel to various locations in the defined geographic region (eg, state)
+    and do presentations on the benefits of receiving an education from The Master's
+    University.\n\n•\tMust be able to define one’s own hours and travel schedule within
+    requirments and limits\n\n•\tMust be able to work independently \n\n•\tFamiliarity
+    with The Master's University is desirable.\n\n•\tAbility to establish and maintain
+    effective working relationships with staff, faculty, vendors, students, &/or community
+    members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
+    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    relationship with Jesus Christ and a demonstrated commitment to the doctrinal
+    position of TMU&S and a continuous exhibition of a desire to minister and serve
+    others in varied capacities.\n \n•\tMust be able to get along with co-workers
+    and the public.\n\n•\tEducation:  Bachelor’s degree preferred.\n\n•\tExperience:
+    \ 1+ years in an admissions office in an educational institution preferred\n\n•\tHave
+    strong computer proficiency.\n\n•\tExcellent oral and written command of the English
+    language is required.\n\n•\tPossess excellent organizational skills.\n\n•\tExercise
+    confidentiality, good judgment and discernment.\n\n•\tService oriented and able
+    to interface with many people is mandatory.\n\n•\tMust successfully pass a background
+    investigation.\n\nAdvancement, Training & Compensation\n \n•\tTMU provides all
+    approved related travel and marketing expenses \n\n•\tTMU provides options for
+    employee advancement and training, both internally and externally. TMU values
+    the personal and professional development of its employees and seeks to provide
+    relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
+    increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
+    Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
+    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
+    in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
+    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\n\nMinimum
+    Conditions for Beginning Employment:\nPrior to beginning employment, in accordance
+    with The Master’s University policy and/or under federal or state law, all employees
+    must:\n\n1.\tSign and return an offer of “At Will” employment.\n\n2.\tPresent
+    verification of their identity and authorization to work in the United States.\n\nIf,
+    because of a disability, you need special services or facilities in order to apply
+    or interview for this opening please contact the Human Resources department.\n\nThe
+    Master’s University & Seminary does not discriminate on the basis of race, color,
+    national origin, ancestry, gender, age, marital status, veteran status or prior
+    military service, medical condition, or any physical or mental disability.  We
+    are committed to practicing principles of equal employment opportunity and diversity
+    based upon sovereign Biblical principles.\n\nApplication Process\n\nCompleted
+    application form from The Master’s University.  This can be obtained at www.masters.edu/jobs
+    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
+    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
+    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
+    will be reviewed by the Human Resources department.  Selected candidates will
+    be invited for a personal interview at The Master’s College.  Any expense incurred
+    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
+    Procedures:\n\nAll documents included in your application remain the sole property
     of The Master’s College and will not be returned.   Your file for this opening
     will not be considered unless all requested items are submitted and are complete.\n\n"
 layout: employment
