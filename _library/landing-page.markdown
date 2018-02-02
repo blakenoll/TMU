@@ -43,6 +43,4 @@ NEWS: |-
 layout: library
 ---
 
-Welcome Back TMU Students and Faculty!
-
-Congratulations to Mr. Stone for his appointment as Library Director over both TMU and TMS libraries!
+Did you know if we don't have the book or article you need, we can get it for you?  Use our free [InterLibrary Loan Service](http://masters.libguides.com/welcome/illservices).
