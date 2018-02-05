@@ -34,7 +34,7 @@ Saturday, February 24  2:00-5:00 pm.
 
 * Dr. John Sanford - Wait Time: Is There Enough Time for Evolution?
 
-* Dr. Rob Carter - What the Y Chromosome Reveals About our Heritage
+* Dr. Rob Carter - Contested Bones
 
 * Dr. Andrew Snelling - Radioactive Dating: Flawed Methods, but Relative Dates
 
