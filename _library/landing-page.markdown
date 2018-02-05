@@ -17,18 +17,18 @@ links:
 - link: http://masters.libguides.com/
   txt: Research Guides
   image: "/images/Library_ResearchGuides.png"
-- link: http://masters.libguides.com/welcome/libraryservices
-  txt: Services
-  image: "/images/Library_LCSH.png"
 - link: http://masters.libguides.com/az.php
   txt: Find Databases
   image: "/images/Library_Databases.png"
-- link: http://id.loc.gov/authorities/subjects.html
-  txt: Search LC Subject Headings
-  image: "/images/Library_SelfService.png "
 - link: https://masters.on.worldcat.org/atoztitles/#journal
   txt: Find Journals
   image: "/images/Library_FindJournals.png"
+- link: http://id.loc.gov/authorities/subjects.html
+  txt: Search LC Subject Headings
+  image: "/images/Library_SelfService.png "
+- link: http://masters.libguides.com/welcome/libraryservices
+  txt: Services
+  image: "/images/Library_LCSH.png"
 - link: http://masters.libguides.com/welcome
   txt: About
   image: "/images/Library_About.png"
@@ -43,6 +43,4 @@ NEWS: |-
 layout: library
 ---
 
-Welcome Back TMU Students and Faculty!
-
-Congratulations to Mr. Stone for his appointment as Library Director over both TMU and TMS libraries!
+Did you know if we don't have the book or article you need, we can get it for you?  Use our free [InterLibrary Loan Service](http://masters.libguides.com/welcome/illservices).

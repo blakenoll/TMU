@@ -2,6 +2,7 @@
 title: Brian Morley
 date: 2017-05-02 17:27:00 Z
 job-title: Professor of Philosophy and Apologetics
+image: "/uploads/Morley,%20B.jpg"
 department: Bible
 degrees:
 - B.A., University of Southern California

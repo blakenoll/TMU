@@ -2,6 +2,7 @@
 title: Jason Beals
 date: 2017-11-29 21:23:00 Z
 job-title: Professor of Biblical Studies
+image: "/uploads/Beals,%20J.jpg"
 department: Bible
 degrees:
 - B.A., The Master's University

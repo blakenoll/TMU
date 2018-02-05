@@ -1,6 +1,7 @@
 ---
 title: Increase in Opportunity through Decrease in Tuition
 date: 2017-11-13 20:08:00 Z
+published: false
 sm-image: "/uploads/tuitionreductionpressrelease.jpg"
 ---
 
