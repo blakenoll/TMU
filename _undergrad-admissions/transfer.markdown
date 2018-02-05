@@ -38,7 +38,7 @@ app-checklist:
     our registrar. Once evaluated, your counselor will contact you and let you know
     the official results.
 blurb-body: |-
-  ### Transfer FAQ
+  ## Transfer FAQ
 
   **Do I need to read a doctrinal statement or handbook?**
 
@@ -82,7 +82,7 @@ blurb-body: |-
 
   **What is the full transfer policy at TMU?**
 
-  The full transfer policy and details is available here: \[[http://www.masters.edu/registrar/\]button](http://www.masters.edu/registrar/\]button)
+  The full transfer policy and details is available here: \[[http://www.masters.edu/registrar/\]button](http://www.masters.edu/registrar/%5Dbutton)
 
   This includes:
 
