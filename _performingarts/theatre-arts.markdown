@@ -33,7 +33,7 @@ staff:
   bio-body: |-
     Tricia directs the Theatre Arts program, produces the annual Come ChristmasSing concerts series, and manages all concerts, recitals, and events through the Music Department. She is a graduate of The Master's College (MA Biblical Counseling; BA Biblical Counseling/minor in Music), where she studied voice and was extensively involved in musical theatre. She has held leading roles in several major productions including Hodel in "Fiddler on the Roof", and Marry Lennox in the musical version of "The Secret Garden". Tricia values the performing arts as a means to reflect the Creator and as a way to serve and impact the kingdom of God. She first began directing theatre in 2004 for a Christian high school; she was then brought on in 2007 to revive Theatre Arts as a part of the Music Department. Tricia has seen theatre arts function as a refining tool in many lives - shaping and sharpening hearts to live in light of the Gospel we have been graciously saved by - and used to build another example of biblical community that is a bright light to the watching world. Helping students round out their biblical worldview in the area of performing arts is a joy and blessing. Tricia and her husband, Dave - the Associate Dean of Students here at TMU, met here as students and are blessed to continue work at The Master's University together and be members of Grace Community Church.
 
-    \
+
     "To the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen." Jude 25
 - name: James Phillipps
   image: "/uploads/Phillips,%20James%20.jpg"
@@ -41,6 +41,13 @@ staff:
     James has been involved with Theater Arts since his freshman year in 2007. As a student at Master's, he participated in every show the revived department put on, beginning with the role of Merriman in "The Importance of Being Earnest" in 2007 and culminating with the lead role of Nick Cristano in "Over the River and Through the Woods" in 2011. During his time as a college student, James saw the Lord use theater in an incredible way to shape him as a Christian. He is grateful to be able to give back to the current students some of what he learned through TMU Theater. James currently serves as the Student Accounts Manager for the University and Seminary. He constantly tells people he has the privilege of working his dream job, and he hopes to continue serving in both Accounting and Theater for as long as the Lord lets him.
 
     “The fear of the Lord is the instruction for wisdom, and before honor comes humility” – Proverbs 15:33
+  title: Assistant Director
+- name: Seth Bowling
+  image: 
+  bio-body: |-
+    Raised in Northern California, Seth moved to Los Angeles to attend The Master’s University and pursue a career in the film industry. Graduating with a degree Communications, Seth has performed in two productions with TMU Theatre Arts while a student - having had the opportunity to play Nick Cristano in the Fall 2017 revival production of “Over the River and Through the Woods,” and Henry Tilney in “Northanger Abbey.” Due to his desire to work professionally in the industry, Seth is grateful to get to be a part of this Christ-centered program as he knows it is a rare opportunity in the performing arts. Theater at TMU has pushed him on and off of the stage as an actor and as a whole person being made more into the image of Christ. Now as an Assistant Director, he is excited for the opportunity to give back to the current students what he has learned through this program, as well as what he has learned and is continuing to learn in his time working in the film industry. He is excited to work in this capacity alongside the cast, crew, and fellow directors to display God’s glory on and off the stage.
+
+    “Come now, you who say, ‘Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit’ – yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes. Instead you ought to say, “If the Lord wills, we will live and do this or that.’” James 4:13-15
   title: Assistant Director
 contact-body: |-
   Mailing Adress
