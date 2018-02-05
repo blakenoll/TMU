@@ -43,7 +43,7 @@ staff:
     “The fear of the Lord is the instruction for wisdom, and before honor comes humility” – Proverbs 15:33
   title: Assistant Director
 - name: Seth Bowling
-  image: 
+  image: "/images/FacutyBlank_500x500.png"
   bio-body: |-
     Raised in Northern California, Seth moved to Los Angeles to attend The Master’s University and pursue a career in the film industry. Graduating with a degree Communications, Seth has performed in two productions with TMU Theatre Arts while a student - having had the opportunity to play Nick Cristano in the Fall 2017 revival production of “Over the River and Through the Woods,” and Henry Tilney in “Northanger Abbey.” Due to his desire to work professionally in the industry, Seth is grateful to get to be a part of this Christ-centered program as he knows it is a rare opportunity in the performing arts. Theater at TMU has pushed him on and off of the stage as an actor and as a whole person being made more into the image of Christ. Now as an Assistant Director, he is excited for the opportunity to give back to the current students what he has learned through this program, as well as what he has learned and is continuing to learn in his time working in the film industry. He is excited to work in this capacity alongside the cast, crew, and fellow directors to display God’s glory on and off the stage.
 
