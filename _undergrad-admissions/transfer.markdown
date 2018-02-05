@@ -1,71 +1,73 @@
 ---
 title: transfer
 date: 2017-11-14 16:49:00 Z
-layout: page
+app-checklist:
+- body: |-
+    [Online Application](https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB):
+
+    In order to apply online, you’ll create an “account” first (so you can save and return to your application), before being able to complete the various sections of the online application. Once an application is submitted, the applicant cannot go back and change the application.
+- body: |-
+    **Personal Statements:**
+
+    The Master’s University requires two personal statements as part of the application (approx. 300-500 words each), so plan accordingly.
+- body: |-
+    [Pay Application Fee](https://www.formstack.com/forms/masters-application_fee_credit_card_processing)
+
+    ***Fall Students waived before November 15th***
+
+    Fee is refundable by May 1st for Fall applicants
+- body: |-
+    **Pastor Recommendation Form:**
+
+    Must be completed by non-relative within applicant’s church. Form can be filled out by Head Pastor, Associate Pastor, Youth Pastor, or Elder. Form can be sent directly to pastor from application by inputting the pastor’s email address when requested, otherwise it is the applicants responsibility to email their pastor the link to the form.
+- body: "**Official Transcripts**\n\ntranscripts must be requested from current or
+    most recent school. Transcripts may be emailed to [admissions@masters.edu](mailto:admissions@masters.edu)
+    or mailed directly to\n\nOffice of Admissions\n21726 Placerita Canyon Rd., \nNewhall,
+    CA 91321"
+- body: |-
+    **ACT or SAT scores**
+
+    *waived for transfer applicants*
+
+    1. Send ACT scores [HERE](http://www.act.org/content/act/en/products-and-services/the-act/your-scores/send-your-scores.html)
+
+    2. Send SAT scores [HERE](https://account.collegeboard.org/login/login?idp=ECL&appId=115&DURL=https%3A//nsat.collegeboard.org/satweb/login.jsp&affiliateId=aru%7Canypage&bannerId=ht%7Cnsat-send)
+
+    3. College Board Code for The Master’s University – *4411*
+- body: Read the [Doctrinal Statement](http://www.masters.edu/about) and [Student
+    Handbook](http://www.masters.edu/handbook).
+- body: |-
+    **Complete Financial Aid Application**
+
+    Every student must complete a Financial Aid Application to be considered for any financial aid (including Music, Athletics and outside scholarships).
+
+    The Master's University offers Merit-based Scholarships, Need-based Grants, and Federal/State Aid. All Institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.
+
+    See: [http://www.masters.edu/financial-aid/general-undergraduate](http://www.masters.edu/financial-aid/general-undergraduate)
+blurb-body:
+app-deadlines:
+- text: 'PRIORITY DECISION: Receive full consideration for the Fall 2018 semester'
+  red-text: FEB 23, 2018
+- text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
+    consideration for Fall 2018'
+layout: freshadmissions
 ---
 
-# I. Read the Doctrinal Statement and Student Handbook
 
-The Master’s University is a remarkable place. It is a place that celebrates the Lordship of Christ and the
-\
-sufficiency of His Word to address every academic discipline and detail of life. The mission of The Master’s University is to empower students for a life of enduring commitment to Christ, biblical fidelity, moral integrity, intellectual growth and lasting contribution to the Kingdom of God worldwide. Before continuing, we encourage you to read and pray through our doctrinal statement and student handbook:
+Application Checklist
 
-### Read the TMU Doctrinal Statement **[here](http://www.masters.edu/about)**
+1. Complete Application
 
-### Read the TMU Student Handbook **[here](http://www.masters.edu/handbook)**
+2. Personal Statements
 
-# II. Create your Master's U Account
+3. Application fee
 
-In order to apply online, you’ll create an account first. This will allow you to save and return to your application.
+4. Pastor’s Recommendation
 
-## [Create your TMU account ](https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB)
+5. Official Transcripts
 
-Next, you'll fill out the various sections of the online application. Once an application is submitted, the applicant cannot go back and change the application.
+6. SAT or ACT score submitted
 
-# III. Personal Statement & Recommendations
+7. Read TMU statement & handbook
 
-The Master’s University requires two personal statements as part of the application (approx. 300-500 words each), and one Pastor's recommendation form. The later must be completed by non-relative within applicant’s church. Form can be filled out by Head Pastor, Associate Pastor, Youth Pastor, or Elder. Form can be sent directly to pastor from application by inputting the pastor’s email address when requested, otherwise it is the applicants responsibility to email their pastor the link to the form.
-
-# IV. Pay Application Fee
-
-Fee is refundable by May 1st for Fall 2018 applicants
-
-# V. Official Transcripts
-
-Request to send TMU transcripts from your current or most recent school.
-
-* Transcripts may be emailed to [admissions@masters.edu ](admissions@masters.edu)
-
-* Uploaded to our **[secure portal](https://tmu.sharefile.com/share/getinfo/rfcda47ba6074810a)**
-
-* Or mailed directly to the Office of Admissions at
-
-> *Office of Admissions*
->
-> *21726 Placerita Canyon Rd.*
->
-> *Newhall, CA 91321*
-
-# VI. ACT or SAT scores
-
-\(waived for transfer applicants)
-
-* Send ACT scores  **[here](http://www.act.org/content/act/en/products-and-services/the-act/your-scores/send-your-scores.html)**
-
-* Send SAT scores  **[here](https://account.collegeboard.org/login/login?idp=ECL&appId=115&DURL=https%3A//nsat.collegeboard.org/satweb/login.jsp&affiliateId=aru%7Canypage&bannerId=ht%7Cnsat-send)**
-
-College Board Code for The Master’s University: **4411**
-
-# Freshman/Transfer Qualification
-
-**Freshman**: Students entering TMU the Fall directly after graduating in the Spring are considered freshman. Students entering TMU with less than 24 college level units completed are also considered freshman, with freshman scholarships available.
-
-**Transfer**: Any student who has been out of high school for at least one semester, and has completed a minimum of 24 college level units, is considered a transfer. If a student has 24 college level units, and is entering TMU the Fall directly after graduating in the Spring they will not be considered a Transfer.
-
-# Questions?
-
-**Call** 661.362.2363
-
-**Text** 661.748.0266
-
-**Write** admissions@masters.edu
+8. Complete Financial Aid Application
