@@ -8,7 +8,7 @@ title: Presidents Circle
 <p><span style="color: #669beb; font-size: 16px; line-height: 19px;">Every year</span></p>
 <p>President's Circle members commit to the following:</p>
 <ul>
-<li><strong>GIVE</strong> a minimum annual gift of $600 to the TMU Fund to help support our mission</li>   
+<li><strong>GIVE</strong> a minimum annual gift of $600 to the TMU Fund to help support our mission</li>\
 <li><strong>PRAY</strong> for our students, faculty, and staff</li>
 <li><strong>PROMOTE</strong> the mission of TMU in your community</li>
 <li><strong>ENCOURAGE</strong> others to consider supporting TMU</li>
