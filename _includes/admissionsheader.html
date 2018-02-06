@@ -11,7 +11,7 @@
 
   <ul id="aboutdropdown" class="dropdown-content">
     <li><a href="/admissions/undergrad/freshmen">Freshmen</a></li>
-    <li><a href="https://www.masters.edu/admissions/#apply">Transfer</a></li>
+    <li><a href="/admissions/undergrad/transfer">Transfer</a></li>
     <li><a href="/admissions/undergrad/international-admissions">International</a></li>
   </ul>
 
@@ -50,6 +50,8 @@
               </li>
               <li><a class="a-padding" href="{{ "/accepted" | prepend: site.url }}" data-activates="dropdown3">Accepted Students</a>
               </li>
+              <li><a class="a-padding" href="{{ "/academics" | prepend: site.url }}" data-activates="dropdown3">Academics</a>
+              </li>
               <li><a class="a-padding" href="{{ "/" | prepend: site.url }}" data-activates="dropdown3">masters.edu</a>
               </li>
 
@@ -83,12 +85,17 @@
 
   <!-- mobile side menu -->
   <ul class="side-nav" id="mobile-demo">
-    <li><a href="{{ "/admissions/#online" | prepend: site.url }}">Admissions</a></li>
-    <li><a href="{{ "/academics/online/" | prepend: site.url }}">Programs</a></li>
-    <li><a href="{{ "/academics/online/studentresources#tuition" | prepend: site.url }}">Cost</a></li>
-    <li><a href="http://www.masters.edu/academics/online/studentresources#info">Dates</a></li>
-    <li><a href="https://masters.tfaforms.net/217726">Request Info</a></li>
-    <li><a href="/">Back to masters.edu</a></li>
+    <li><a href="{{ "/admissions/#online" | prepend: site.url }}" target="_blank">Apply</a></li>
+    <li><a href="/academics/undergraduate/">Programs</a></li>
+    <li><a href="{{ "/academics/online/" | prepend: site.url }}">Visit</a></li>
+    <li><div class="divider"></div></li>
+    <li><a class="subheader">Steps</a></li>
+    <li><a href="/admissions/undergrad/freshmen">Freshmen</a></li>
+    <li><a href="/admissions/undergrad/transfer">Transfer</a></li>
+    <li><a href="/admissions/undergrad/international-admissions">International</a></li>
+    <li><a href="/accepted">Accepted Students</a></li>
+    <li><div class="divider"></div></li>
+    <li><a class="subheader">Search</a></li>
     <li class="search">
       <form class="nav-search"action="{{ "/search" | relative_url }}">
         <div class="input-field nav-search">
