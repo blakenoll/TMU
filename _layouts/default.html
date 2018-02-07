@@ -12,6 +12,17 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <!--  Scripts-->
+    <script src="{{ "/js/materialize.js" | prepend: site.url }}"></script>
+    <script src="{{ "/js/init.js" | prepend: site.url }}"></script>
+    <!-- <script src="/dist/bundle.js"></script> -->
+
+    {% include new-header.html %}
+    <main>
+        {{ content }}
+    </main>
+    
     <script type="text/javascript">
     adroll_adv_id = "IFZYBWMLMVBUZPSDAGIWHM";
     adroll_pix_id = "6HACLMGAJBGAZIOHP73I4J";
@@ -33,16 +44,6 @@
       else {window.attachEvent('onload', _onload)}
     }());
     </script>
-    <!--  Scripts-->
-    <script src="{{ "/js/materialize.js" | prepend: site.url }}"></script>
-    <script src="{{ "/js/init.js" | prepend: site.url }}"></script>
-    <!-- <script src="/dist/bundle.js"></script> -->
-
-    {% include new-header.html %}
-    <main>
-        {{ content }}
-    </main>
-
   </body>
   {% include footer.html %}
 </html>
