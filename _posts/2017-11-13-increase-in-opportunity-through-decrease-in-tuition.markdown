@@ -1,8 +1,7 @@
 ---
 title: Increase in Opportunity through Decrease in Tuition
 date: 2017-11-13 20:08:00 Z
-published: false
-sm-image: "/uploads/tuitionreductionpressrelease.jpg"
+sm-image: "/uploads/TuitionReset_ArticleGraphic.jpg"
 ---
 
 **For 90 years, the Lord has had His gracious hand on The Master’s University.**  Leadership, faculty, staff, students and donors have all been united around the virtue of full confidence in the truth of Scripture as the necessary foundation for all education.  The school’s ironclad conviction regarding biblical truth runs from the creation account in Genesis to the consummation of history in Revelation.
