@@ -1,7 +1,7 @@
 ---
 title: 'Faculty Focus: Dr. Jordan Morton'
 date: 2016-09-30 00:26:00 Z
-sm-image: /media/868466/drmorton.jpg
+sm-image: "/media/868466/drmorton.jpg"
 ---
 
 Teachers. We have all had them. Some we have loved and others we have despised. Some are recollected in epic proportions, and of some we share horror stories like a badge of honor, boasting our survival. Others bring a nostalgic smile to our face and a few were not merely mentors, but friends. Whatever impression made, there is no question, teachers have a lasting impact.

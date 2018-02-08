@@ -1,7 +1,7 @@
 ---
 title: The Faith of the Founding Fathers
 date: 2016-10-04 00:28:00 Z
-sm-image: /media/868491/faithofthefounders.jpg
+sm-image: "/media/868491/faithofthefounders.jpg"
 ---
 
 Written By: Dr. Gregg Frazer, Professor of History & Political Studies at The Master's University

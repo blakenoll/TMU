@@ -2,7 +2,7 @@
 title: 'A Legacy of Leadership: Coach Kelvin Starr'
 date: 2017-02-02 00:52:00 Z
 catergory: Athletics
-sm-image: /media/869321/legacyofleadership-1.jpg
+sm-image: "/media/869321/legacyofleadership-1.jpg"
 ---
 
 Hired last March, Kelvin Starr, the new men’s basketball coach, has turned last year’s 4-20 record around to 18-3 with almost half of his team being newcomers. To make this turn-around in one season is monumental and has earned him a growing respect around campus and further strengthened his reputation in the GSAC community.

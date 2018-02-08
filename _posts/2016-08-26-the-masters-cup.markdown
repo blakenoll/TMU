@@ -1,7 +1,7 @@
 ---
 title: The Master's Cup
 date: 2016-08-26 00:14:00 Z
-sm-image: /media/868258/masterscup.jpg
+sm-image: "/media/868258/masterscup.jpg"
 ---
 
 Painted black, head to toe, with scowls plastered on their faces, Hotchkiss entered Bross gym in their traditional manner, silent. C-dub, bearing the marks of Greekwarriors and rulers, glittered with gold, chanting back and forth as they took to their corner. The women’s 2015 Master’s Cup champions, Dixon and their brother dorm, Waldock, went straight to the center of the room to perform the “haka”, while dressed in green and painted for war. Slight, the defending men’s champion, and Sweazy took their time to enter but when they did they beat the floor with their fists causing the building to shake. Then in sudden darkness, entering backlit came the Commuter students in Dark Knight-esque fashion. A few of them had entered previously disguised as their enemies, Trojan horses amongst the competition, but upon a single hand motion from their RD’s they ripped off their C-Dub, Hotchkiss, Dixon, Waldock, Slight and Sweazy garb and rejoined their team.

@@ -2,7 +2,7 @@
 title: One Nation Under God
 date: 2016-11-09 00:45:00 Z
 catergory: Events
-sm-image: /media/868789/election.jpg
+sm-image: "/media/868789/election.jpg"
 ---
 
 God, in His sovereign will and plan, has allowed Donald J. Trump to lead America for the next 4 years. Our comfort and hope does not rest in any man, but in our promised future. Many Christians prayed for our country and voted yesterday. God hears our prayers and works through people to accomplish His will. For 8 years, Christians have been sidelined and our values, standards and morals have been attacked and belittled. Last night, we grasped onto hope of a brighter future for our country and for our children. We have a president whose promised ideology will put America and Americans first!

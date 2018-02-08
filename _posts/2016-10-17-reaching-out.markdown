@@ -2,7 +2,7 @@
 title: Reaching Out
 date: 2016-10-17 00:34:00 Z
 catergory: Life At TMU
-sm-image: /media/868607/outreach2016.jpg
+sm-image: "/media/868607/outreach2016.jpg"
 ---
 
 This past weekend more than 400 students, faculty and staff, scattered themselves across 33 Southern California churches, participating in the 20th annual Outreach Week. Stopping school for three days, The Master’s University disseminates teams to “serve, evangelize, and fellowship.”

@@ -1,7 +1,7 @@
 ---
 title: Confronting the Postmodern Lie
 date: 2016-09-08 00:18:00 Z
-sm-image: /media/868299/confrontingpostmodernlie_graphic.jpg
+sm-image: "/media/868299/confrontingpostmodernlie_graphic.jpg"
 ---
 
 There is an insidious weed slowly and deceptively poisoning the worldview of the present-day Christian and weakening the foundation of many. It is a lie that, according to culture, is presented as truth. It is a motto preached from almost every social media outlet, car radio, television screen, schools both secular and, remorsefully, some claiming the name of Christ. It is a weed so intertwined with our thinking that at times we cannot differentiate the plant from the intruder. This is postmodernism. It has been and will continue to strangle and suffocate the impact of a clear and distinct Christian testimony unless something is done to eradicate it. To do so we must understand the very roots we are pulling out.

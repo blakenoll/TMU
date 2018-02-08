@@ -2,7 +2,7 @@
 title: More Than Camping
 date: 2016-11-21 00:49:00 Z
 catergory: Life At TMU
-sm-image: /media/868916/campout.jpg
+sm-image: "/media/868916/campout.jpg"
 ---
 
 In any educational institution, different roles exist for different functions. Faculty teach and research, staff administrate, and students learn. They interact on a daily basis, but only to a certain extent. Boundaries, drawn by their inherent and practical purposes, divide them.

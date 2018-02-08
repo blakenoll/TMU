@@ -2,7 +2,7 @@
 title: 2016 Presidential Election and Current Events
 date: 2016-09-28 00:25:00 Z
 catergory: Events
-sm-image: /media/868414/updatedsummitgraphic.jpg
+sm-image: "/media/868414/updatedsummitgraphic.jpg"
 ---
 
 DATE: November 2nd, 2016 \

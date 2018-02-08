@@ -2,7 +2,7 @@
 title: All the World's a Stage
 date: 2016-09-21 00:23:00 Z
 catergory: Life At TMU
-sm-image: /media/868351/alltheworldsastage.jpg
+sm-image: "/media/868351/alltheworldsastage.jpg"
 ---
 
 It’s that moment.
