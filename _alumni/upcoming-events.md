@@ -1,5 +1,6 @@
 ---
 title: Upcoming Events
+published: false
 upcomingevents:
 - title: Truth & Life Conference
   body: |-
