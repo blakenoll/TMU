@@ -1,7 +1,7 @@
 ---
 title: Our Response to SB 1146
 date: 2016-07-22 00:09:00 Z
-sm-image: http://masters.edu/media/867943/screen-shot-2016-07-22-at-14538-pm.png
+sm-image: /media/867943/screen-shot-2016-07-22-at-14538-pm.png
 ---
 
 Tolerate: verb. Allow the existence, occurrence, or practice of (something that one does not necessarily like or agree with) without interference.

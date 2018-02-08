@@ -2,7 +2,7 @@
 title: 'The Master''s University: Italy'
 date: 2016-10-28 00:40:00 Z
 catergory: TMU Abroud
-sm-image: http://masters.edu/media/868696/tmuitalia_graphic.jpg
+sm-image: /media/868696/tmuitalia_graphic.jpg
 ---
 
 \

@@ -2,7 +2,7 @@
 title: The Art of Fear
 date: 2016-10-31 00:43:00 Z
 catergory: Life At TMU
-sm-image: http://masters.edu/media/868708/artoffear.jpg
+sm-image: /media/868708/artoffear.jpg
 ---
 
 As children we can all remember that terrifying walk in the dark from the safety of our parent’s bedroom to the comfort of our bed. The hallway that used to be only a few feet long seemed to stretch for miles. The mad dash would begin, heart racing and blood pumping, until the leap onto the bed was landed and you were tucked into the covers --- making sure no limb was hanging over the edge of the mattress, just on the off chance something, or someone, was hiding underneath.

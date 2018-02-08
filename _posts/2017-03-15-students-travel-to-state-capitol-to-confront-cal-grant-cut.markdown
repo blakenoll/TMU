@@ -2,7 +2,7 @@
 title: Students Travel to State Capitol to Confront Cal Grant Cut
 date: 2017-03-15 00:29:00 Z
 catergory: Life At TMU
-sm-image: http://www.masters.edu/media/869643/statecapitol.jpg
+sm-image: /media/869643/statecapitol.jpg
 ---
 
 SACRAMENTO, CA --- How am I going to pay off the last four years of my education? Many of us have been faced with this question, trying to figure out ways to creatively fund a hard-earned degree: special scholarships, a full-time job, multiple part-time jobs or, unfortunately, a debt-bomb that will hit as soon as one steps off the stage at graduation. Thankfully, the Cal Grant, a financial endowment given to California residents attending school in state, has been one of the more accessible means of easing that financial burden, especially for nearly 200 students at The Master’s University.

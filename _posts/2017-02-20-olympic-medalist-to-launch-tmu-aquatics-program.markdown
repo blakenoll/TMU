@@ -1,7 +1,7 @@
 ---
 title: Olympic Medalist to Launch TMU Aquatics Program
 date: 2017-02-20 00:47:00 Z
-sm-image: http://www.masters.edu/media/869430/swimprogram.jpg
+sm-image: /media/869430/swimprogram.jpg
 ---
 
 SANTA CLARITA, CA – February 21, 2017 – Gabe Woodward, bronze medalist in the 4x100 meter freestyle at the 2004 Olympics, All-American swimmer and 2001 graduate of USC, joins The Master’s University to launch their first ever swimming and diving program for the Fall 2018 season. The team is already coming together and plans to use the 2017-2018 season as a strategic building and training year.

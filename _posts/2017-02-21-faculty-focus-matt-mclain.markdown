@@ -2,7 +2,7 @@
 title: 'Faculty Focus: Matt McLain'
 date: 2017-02-21 00:45:00 Z
 author: Sabrina Michael
-sm-image: http://www.masters.edu/media/869450/mclain.jpg
+sm-image: /media/869450/mclain.jpg
 ---
 
 The most many of us know about dinosaurs is what we have learned from Jurassic Park. The main lesson? Don’t try to bring the extinct back into existence. However, for Dr. Matthew McLain, a recent addition to our faculty, the existence of dinosaurs is his profession.

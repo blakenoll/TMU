@@ -1,7 +1,7 @@
 ---
 title: 'More Than A Master''s Degree: Online MBA'
 date: 2017-03-07 00:36:00 Z
-sm-image: http://www.masters.edu/media/869549/mba.png
+sm-image: /media/869549/mba.png
 ---
 
 “Organizations are only as good as their leadership.”

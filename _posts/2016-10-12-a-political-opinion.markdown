@@ -2,7 +2,7 @@
 title: A Political Opinion
 date: 2016-10-12 00:31:00 Z
 catergory: Events
-sm-image: http://masters.edu/media/868528/politicalopinion.jpg
+sm-image: /media/868528/politicalopinion.jpg
 ---
 
 **Written by:** Dr. John Stead, Vice President of Academic Affairs and Professor of History & Political Studies at The Master's University

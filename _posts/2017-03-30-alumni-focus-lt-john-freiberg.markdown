@@ -2,7 +2,7 @@
 title: 'Alumni Focus: LT John Freiberg'
 date: 2017-03-30 00:27:00 Z
 catergory: Alumni Focus
-sm-image: http://www.masters.edu/media/869760/alumfocusfreiberg.jpg
+sm-image: /media/869760/alumfocusfreiberg.jpg
 ---
 
 

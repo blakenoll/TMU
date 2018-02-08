@@ -2,7 +2,7 @@
 title: 'Theatre Preview: Northanger Abbey'
 date: 2017-03-14 00:31:00 Z
 image: http://www.masters.edu/media/869637/theatrepreview.jpg?width=500&height=320
-sm-image: http://www.masters.edu/media/869637/theatrepreview.jpg
+sm-image: /media/869637/theatrepreview.jpg
 ---
 
 A worn Los Angeles Dodgers hat, black Vans with fraying laces, pink pants and a polka dot sweater, a one-size-too-large white hoodie and a trench coat were only some of the clothes standing out in the Music Recital Hall on Monday night. Each person, still allowed to dress in their street clothes until dress rehearsals began, then donned the garb of English aristocracy in the early 1800s.

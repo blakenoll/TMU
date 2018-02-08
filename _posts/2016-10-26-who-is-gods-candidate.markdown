@@ -2,7 +2,7 @@
 title: Who is God's Candidate?
 date: 2016-10-26 00:39:00 Z
 catergory: Events
-sm-image: http://masters.edu/media/868651/godscandidate.jpg
+sm-image: /media/868651/godscandidate.jpg
 ---
 
 **Written By:** Dr. John MacArthur, President of the Master's University and Pastor-Teacher of Grace Community Church.

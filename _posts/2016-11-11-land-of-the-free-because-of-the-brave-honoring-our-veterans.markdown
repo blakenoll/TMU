@@ -2,7 +2,7 @@
 title: 'Land of the Free, Because of the Brave: Honoring Our Veterans'
 date: 2016-11-11 00:47:00 Z
 catergory: Life At TMU
-sm-image: http://masters.edu/media/868800/veterans.jpg
+sm-image: /media/868800/veterans.jpg
 ---
 
 **We are all familiar with war.** We have read the history books stained with the bloody battles of the past, statistics of lives lost and territory gained, epic battles and endless skirmishes. We have been devastated by news headlines, inspired by romanticized television shows, and stultified by video games.

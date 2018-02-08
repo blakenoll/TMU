@@ -1,7 +1,7 @@
 ---
 title: 'Creation Summit: God''s First Man Q&A'
 date: 2017-02-15 00:49:00 Z
-sm-image: http://www.masters.edu/media/869370/creationsummit_qa.jpg
+sm-image: /media/869370/creationsummit_qa.jpg
 ---
 
 The idea that Adam was the first created human is under attack within evangelical circles. Dr. John MacArthur warned about this issue in the introduction to his book, *The Battle for the Beginning* in 2001. We decided to hold a conference on this topic as the theme for our annual creation conference now called the Creation Summit. Much of what we will cover in the Summit is based on the book *What Happened in the Garden*, written by the faculty of The Master’s University and Dr. MacArthur.

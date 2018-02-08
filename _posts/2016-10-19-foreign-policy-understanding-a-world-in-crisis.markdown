@@ -1,7 +1,7 @@
 ---
 title: 'Foreign Policy: Understanding a World in Crisis'
 date: 2016-10-19 00:35:00 Z
-sm-image: http://masters.edu/media/868620/foreignpolicy.jpg
+sm-image: /media/868620/foreignpolicy.jpg
 ---
 
 The next president of the United States will inherit a world that is significantly more chaotic and insecure than at any point in recent history. The primary cause of the global disorder is the lack of American leadership at home and abroad.

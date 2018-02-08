@@ -1,7 +1,7 @@
 ---
 title: 'Life in the Promised Land: An IBEX Student''s Perspective (Vol. 1)'
 date: 2017-02-06 00:53:00 Z
-sm-image: http://www.masters.edu/media/869329/promisedland.jpg
+sm-image: /media/869329/promisedland.jpg
 ---
 
 Article by: Ryan Swedberg

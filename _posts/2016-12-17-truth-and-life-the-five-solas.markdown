@@ -1,7 +1,7 @@
 ---
 title: 'Truth & Life: The Five Solas'
 date: 2016-12-17 00:50:00 Z
-sm-image: http://masters.edu/media/869236/tl_articlegraphic.jpg
+sm-image: /media/869236/tl_articlegraphic.jpg
 ---
 
 October 31, 1517. It has been 500 years since the then Catholic monk, Martin Luther, nailed his 95 Theses to the church doors in Wittenberg, Germany. It has been 500 years since the heart of Christianity was finally taken back to its roots: sola fide, sola scriptura, solus christus, sola gratia and soli deo Gloria.

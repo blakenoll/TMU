@@ -2,7 +2,7 @@
 title: Convocation Chapel
 date: 2016-08-31 00:17:00 Z
 catergory: Life At TMU
-sm-image: http://masters.edu/media/868273/convocationchapel.jpg
+sm-image: /media/868273/convocationchapel.jpg
 ---
 
 Beginning in 1927, on the foundation of an uncompromising commitment to the inerrancy of Scripture and the God who wrote it, The Master’s University has been unshakeable in a century of turbulence. Celebrating our ninetieth year as an institution and our first year as a university, the entire student body and faculty gathered together for the annual convocation chapel.

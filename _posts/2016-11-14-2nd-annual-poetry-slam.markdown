@@ -1,7 +1,7 @@
 ---
 title: 2nd Annual Poetry Slam
 date: 2016-11-14 00:48:00 Z
-sm-image: http://masters.edu/media/868810/poetryslam.jpg
+sm-image: /media/868810/poetryslam.jpg
 ---
 
 The faculty, staff and students of The Master’s University were torn between too many options to fill their Friday night schedule: a Men’s basketball game against Embry-Riddle, a jazz night at a local coffee shop, and the men’s weekend camping retreat in Malibu. However, for all those options, an elect few spent their evening between the book-filled walls of the Powell Library listening to poetry.
