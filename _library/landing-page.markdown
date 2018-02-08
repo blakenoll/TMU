@@ -43,4 +43,4 @@ NEWS: |-
 layout: library
 ---
 
-[WICHAsquare.jpg](/uploads/WICHAsquare.jpg)
+![WICHAsquare-d1a63f.jpg](/uploads/WICHAsquare-d1a63f.jpg)
