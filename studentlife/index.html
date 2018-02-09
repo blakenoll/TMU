@@ -10,6 +10,7 @@ parallax-img: "/images/Parallax11.jpg"
   <div class="row">
     {% assign icons = site.studentlife | sort: 'title' %}
     {% for page in icons %}
+    {% unless page.title == "Global Outreach" %}
     <a href="{{ page.url | prepend: site.url }}">
       <div class="col s6 m4">
         <div class="vector-card">
@@ -18,6 +19,7 @@ parallax-img: "/images/Parallax11.jpg"
         </div>
       </div>
     </a>
+    {% endunless %}
     {% endfor%}
     <a href="/outreach">
       <div class="col s6 m4">
