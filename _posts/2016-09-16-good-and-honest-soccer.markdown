@@ -2,7 +2,7 @@
 title: Good and Honest Soccer
 date: 2016-09-16 00:20:00 Z
 catergory: Athletics
-sm-image: /media/868339/goodandhonest.jpg
+sm-image: "/media/868339/goodandhonest.jpg"
 ---
 
 Defeating Bethesda 6-3, The Master’s University Soccer Team, under the leadership of Coach Jim Rickard, has won their 300th game. 300 wins. 300 games in which they have dominated the field. This number not only represents a history of success and dedication from of our players throughout the years, but most especially the dedication of our coach.

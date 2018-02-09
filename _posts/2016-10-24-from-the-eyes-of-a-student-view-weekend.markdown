@@ -2,7 +2,7 @@
 title: 'From the Eyes of a Student: View Weekend'
 date: 2016-10-24 00:37:00 Z
 catergory: Life At TMU
-sm-image: /media/868640/viewweekend.jpg
+sm-image: "/media/868640/viewweekend.jpg"
 ---
 
 **Written By:** Ali Rae, a junior Communications major

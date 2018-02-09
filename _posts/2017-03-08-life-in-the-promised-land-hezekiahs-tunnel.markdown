@@ -2,7 +2,7 @@
 title: 'Life in the Promised Land: Hezekiah''s Tunnel'
 date: 2017-03-08 00:35:00 Z
 catergory: TMU Abroud
-sm-image: /media/869589/promisedlandv12.png
+sm-image: "/media/869589/promisedlandv12.png"
 ---
 
 *Article By: Ryan Swedberg\

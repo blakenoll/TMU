@@ -43,4 +43,4 @@ NEWS: |-
 layout: library
 ---
 
-Did you know if we don't have the book or article you need, we can get it for you?  Use our free [InterLibrary Loan Service](http://masters.libguides.com/welcome/illservices).
+![WICHAsquare-d1a63f.jpg](/uploads/WICHAsquare-d1a63f.jpg)

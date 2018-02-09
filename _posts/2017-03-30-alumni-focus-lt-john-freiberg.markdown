@@ -2,9 +2,8 @@
 title: 'Alumni Focus: LT John Freiberg'
 date: 2017-03-30 00:27:00 Z
 catergory: Alumni Focus
-sm-image: /media/869760/alumfocusfreiberg.jpg
+sm-image: "/media/869760/alumfocusfreiberg.jpg"
 ---
-
 
 “CONGRESS SHALL MAKE NO LAW RESPECTING AN ESTABLISHMENT OF RELIGION, OR PROHIBITING THE FREE EXERCISE THEREOF..."
 

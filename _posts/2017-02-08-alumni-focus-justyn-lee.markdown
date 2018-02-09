@@ -2,7 +2,7 @@
 title: 'Alumni Focus: Justyn Lee'
 date: 2017-02-08 00:51:00 Z
 catergory: Alumni Focus
-sm-image: /media/869337/justynlee.jpg
+sm-image: "/media/869337/justynlee.jpg"
 ---
 
 Life is full of choices. Major fork-in-the-road decisions: where to pursue an education, whom to marry, in what do I put my faith, etc. Not all decisions are that significant but even the small ones can have a lasting effect on the path our lives take. The ultimate informant to that path is the sincere answer we offer to the question, who do I want to be?

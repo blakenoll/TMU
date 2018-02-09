@@ -1,7 +1,7 @@
 ---
 title: Hope of Gold
 date: 2016-08-16 00:13:00 Z
-sm-image: /media/868019/hopeofgold.jpg
+sm-image: "/media/868019/hopeofgold.jpg"
 ---
 
 The premier stage of the world, where the preeminent in the world compete; the Olympics. With the longevity and progression of these games, the standard to reach that ancient stage, let alone win, is set high. Only few make it.

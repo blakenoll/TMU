@@ -1,7 +1,7 @@
 ---
 title: Best in Business
 date: 2016-08-18 00:12:00 Z
-sm-image: /media/868020/bestinbusiness.jpg
+sm-image: "/media/868020/bestinbusiness.jpg"
 ---
 
 Ranked No. 1 in the state of California by the NASBA surpassing other universities like USC, Stanford, Berkeley, and UCLA in their CPA exam scores, The Master’s University now offers an online MBA program.

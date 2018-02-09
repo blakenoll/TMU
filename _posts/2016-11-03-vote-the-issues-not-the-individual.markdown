@@ -2,7 +2,7 @@
 title: Vote the Issues, Not the Individual
 date: 2016-11-03 00:44:00 Z
 catergory: Events
-sm-image: /media/868744/tmu_summit_webgraphic-1.jpg
+sm-image: "/media/868744/tmu_summit_webgraphic-1.jpg"
 ---
 
 Almost every American citizen has commented on the current campaign for presidency, regarding it the most debased one in US history. Christians have been at a complete loss as to what to do and how to vote.

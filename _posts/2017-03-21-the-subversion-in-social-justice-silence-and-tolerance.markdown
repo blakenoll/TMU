@@ -1,7 +1,7 @@
 ---
 title: The Subversion in Social Justice, Silence and Tolerance
 date: 2017-03-21 00:28:00 Z
-sm-image: /media/869663/socialjustice.jpg
+sm-image: "/media/869663/socialjustice.jpg"
 ---
 
 We want to help those who suffer from incurable diseases, we want to give a voice to the unborn, we hurt when we see anyone suffering political injustice. Many causes motivate good people everywhere to passionately fundraise to meet needs, boldly speak up against oppression and eagerly march to show solidarity with the oppressed.

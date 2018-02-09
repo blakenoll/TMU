@@ -1,7 +1,7 @@
 ---
 title: Spurgeonfest
 date: 2017-03-31 00:26:00 Z
-sm-image: /media/869762/spurgeonfest.jpg
+sm-image: "/media/869762/spurgeonfest.jpg"
 ---
 
 “I want to mimic what Jake \[Litwin\] said on Monday and thank the Bible Department for allowing me to have this opportunity,” said Nate Youtzy, his deep voice booming as he opened his Spurgeonfest sermon.
