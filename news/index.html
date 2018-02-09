@@ -37,20 +37,47 @@ pagination:
 
         <div class="row">
           <div class="col s12 center">
-            <div class="pagination">
+            {% if paginator.total_pages > 1 %}
+            <ul class="pagination">
               {% if paginator.previous_page %}
-              <a href="{{ paginator.previous_page_path }}" class="previous btn btn-navy">Previous</a>
+              <li class="waves-effect">
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_left</i></a>
+              </li>
               {% else %}
-              <span class="previous">Previous</span>
+              <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
               {% endif %}
-              <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+              {% for page in (1..paginator.total_pages) %}
+              {% if page == paginator.page %}
+              <li class="active">
+                <a href="#!">{{ page }}</a>
+              </li>
+
+              {% elsif page == 1 %}
+              <li class="waves-effect">
+                <a href="/news">{{ page }}</a>
+              </li>
+
+              {% else %}
+              <li class="waves-effect">
+                <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+              </li>
+
+              {% endif %}
+              {% endfor %}
+
               {% if paginator.next_page %}
-              <a href="{{ paginator.next_page_path }}" class="next btn btn-navy">Next</a>
+              <li class="waves-effect">
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_right</i></a>
+              </li>
+
               {% else %}
-              <span class="next ">Next</span>
+              <li class="disabled"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
               {% endif %}
-            </div>
+            </ul>
+            {% endif %}
           </div>
+
         </div>
       </div>
 
