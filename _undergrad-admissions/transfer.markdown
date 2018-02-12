@@ -17,7 +17,7 @@ app-checklist:
 
     Check and see if your school has an articulation agreement here:
 
-    <a href="http://www.masters.edu/registrar/" class="btn btn-navy">Articulations</a> (select ARTICULATIONS)
+    <a href="http://www.masters.edu/registrar/#articulation" class="btn btn-navy">Articulations</a> (select ARTICULATIONS)
 
     This is how you will know which of the classes you already completed will be accepted by TMU specifically from your school. We recommend only taking classes from this list, since it is guaranteed that they will transfer to TMU.
 
