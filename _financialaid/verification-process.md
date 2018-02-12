@@ -35,7 +35,7 @@ NOTE: The student and parent must go to the IRS separately. Please ensure that y
 
 ### What if I Cannot Complete the IRS Data Retrieval?
 
-If you cannot complete Step 1 (above), you may request an IRS transcript and submit it to the Office of Financial Aid. (See our guide on [How to Request an IRS Tax Transcript](/uploads/Info-%20Verification-%20IRS%20Transcript%20Request%20rev-f099fd.pdf)). You must request an IRS transcript if:
+If you cannot complete Step 1 (above), you may request an IRS transcript and submit it to the Office of Financial Aid. (See our guide on [How to Request an IRS Tax Transcript](/uploads/Info-%20Verification-%20IRS%20Transcript%20Request%20rev-956e1c.pdf)). You must request an IRS transcript if:
 
 • You (or your parent) did not use the IRS Data Retrieval Process either at initial FAFSA filing or through subsequent corrections.\
 • You changed information after using the IRS Data retrieval process.\
@@ -47,7 +47,7 @@ If you cannot complete Step 1 (above), you may request an IRS transcript and sub
 
 ### Requesting an IRS Transcript:
 
-1. On the [IRS website](http://www.irs.gov/) choose “Get Transcript of Your Tax Records” or call 800.908.9946 and request the transcript by phone (See our guide on [How to Request an IRS Tax Transcript](/uploads/Info-%20Verification-%20IRS%20Transcript%20Request%20rev-f099fd.pdf)). You may also request one in writing by completing the [IRS form 4506T-EZ](https://www.irs.gov/uac/About-Form-4506T) and mailing it to the IRS.
+1. On the [IRS website](http://www.irs.gov/) choose “Get Transcript of Your Tax Records” or call 800.908.9946 and request the transcript by phone (See our guide on [How to Request an IRS Tax Transcript](/uploads/Info-%20Verification-%20IRS%20Transcript%20Request%20rev-956e1c.pdf)). You may also request one in writing by completing the [IRS form 4506T-EZ](https://www.irs.gov/uac/About-Form-4506T) and mailing it to the IRS.
 
 2. Select the "Get Transcript by Mail" option.
 
