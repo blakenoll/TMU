@@ -29,7 +29,7 @@ The IRS Data Retrieval is a feature of [FAFSA](http://www.fafsa.ed.gov/) on the 
 
 ### How to use the IRS Data Retrieval:
 
-See our [IRS Data Retrieval Step by Step Guide](http://www.masters.edu/media/868615/info-verification-fafsa-irs-data-retrieval.pdf "Info- Verification- FAFSA IRS Data Retrieval.pdf").
+See our [IRS Data Retrieval Step by Step Guide](/uploads/Info-%20Verification-%20FAFSA%20IRS%20Data%20Retrieval.pdf).
 
 NOTE: The student and parent must go to the IRS separately. Please ensure that you have a valid Social Security Number and have already filed taxes for the previous year.
 
