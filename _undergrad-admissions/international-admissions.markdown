@@ -118,7 +118,7 @@ app-deadlines:
 - text: 'PRIORITY DECISION: Receive full consideration for the Fall 2018 semester'
   red-text: FEB 23, 2018
 - text: 'ROLLING ADMISSIONS: We continue to accept applications but cannot guarantee
-    consideration for Fall 20 1 8 '
+    consideration for Fall 2018'
 counselor-name: Josh English
 layout: intladmission
 ---
