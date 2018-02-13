@@ -126,7 +126,11 @@ layout: campussafety
 
 ## TMU Alert 
 
-In the event of a life threatening emergency, faculty, staff, and students registered with the campus mass notification service will receive emergency alerts via text message to cell phone. Students may register for TMU Alert during semester pre-registration and any student or staff member may register or update a primary cell phone at any time by navigating to Self-Service / My Profile / Phone Numbers.
+TMU Alert is an emergency notification system that allows university officials to contact you during an emergency by sending messages via text message. 
+
+When an emergency occurs, authorized TMU officials will promptly notify you with instructions on where to go, what to do (or what not to do), whom to contact and other important information.
+
+Students and employees may opt-in to TMU Alert by navigating to @ Self-Service / My Profile / Phone Numbers and adding or updating your primary cell phone number. 
 
 ## Active Shooter Training
 
