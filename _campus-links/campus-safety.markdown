@@ -132,7 +132,7 @@ When an emergency occurs, authorized TMU officials will promptly notify you with
 
 Students and employees may opt-in to TMU Alert by navigating to Self-Service / My Profile / Phone Numbers and adding or updating your primary cell phone number. 
 
-## Active Shooter Training
+## Surviving a Violent Incident Training
 
 The following video presentations are provided as a service to the campus community:
 
