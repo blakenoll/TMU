@@ -148,7 +148,7 @@ The following video presentation (TMU LOGIN REQUIRED) is provided as a service t
 
 [Campus Safety Codes (Vehicle and Safety Policies)](http://www.masters.edu/media/870173/campus-safety-codes_aug-2017.pdf "Campus Safety Codes_Aug 2017.pdf (1)")
 
-[Parking Map](http://www.masters.edu/visitorinfo/parking-information/)
+[Campus Map](http://www.masters.edu/uploads/campus_map_3.pdf)
 
 [Golf Cart Safety Training](#video)
 
