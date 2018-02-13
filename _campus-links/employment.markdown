@@ -179,28 +179,31 @@ positions:
     and bend while lifting up to 30lbs.\n\n•\tRepetitive motions on a keyboard and
     looking at a computer monitor for an extended duration of time is required.\n\n•\tTravel:
     Seasonal travel involved including overnight stays. Typically 1-5 day travel,
-    typically in the US.\n\nAdditional Information\nMinimum Conditions for Beginning
-    Employment:\nPrior to beginning employment, in accordance with The Master’s University
-    policy and/or under federal or state law, all employees must:\n\n\nSign and return
-    an offer of “At Will” employment.\n2.\tPresent verification of their identity
-    and authorization to work in the United States.\n\n\nIf, because of a disability,
-    you need special services or facilities in order to apply or interview for this
-    opening please contact the Human Resources department.\n\n\nThe Master’s College
-    & Seminary does not discriminate on the basis of race, color, national origin,
-    ancestry, gender, age, marital status, veteran status or prior military service,
-    medical condition, or any physical or mental disability.  We are committed to
-    practicing principles of equal employment opportunity and diversity based upon
-    sovereign Biblical principles.\n\n\nApplication Process\nCompleted application
-    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
+    typically in the US.\n\nMinimum Conditions for Beginning Employment:\nPrior to
+    beginning employment, in accordance with The Master’s University policy and/or
+    under federal or state law, all employees must:\n\n1.\tSign and return an offer
+    of “At Will” employment.\n2.\tPresent verification of their identity and authorization
+    to work in the United States.\n\nIf, because of a disability, you need special
+    services or facilities in order to apply or interview for this opening please
+    contact the Human Resources department.\n\nThe Master’s University & Seminary
+    does not discriminate on the basis of race, color, national origin, ancestry,
+    gender, age, marital status, veteran status or prior military service, medical
+    condition, or any physical or mental disability.  We are committed to practicing
+    principles of equal employment opportunity and diversity based upon sovereign
+    Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered for a position,
+    a completed Application for Employment must be submitted to the Human Resources
+    office.  The application may be picked up in person in the HR office or is available
+    to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
 - title: Regional Admissions Counselor for Central California (Part-time, temporary,
     seasonal)  (University)
   position: Staff
@@ -250,28 +253,31 @@ positions:
     include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\nMinimum Conditions
-    for Beginning Employment:\nPrior to beginning employment, in accordance with The
-    Master’s University policy and/or under federal or state law, all employees must:\n\n1.\tSign
-    and return an offer of “At Will” employment.\n\n2.\tPresent verification of their
-    identity and authorization to work in the United States.\n\nIf, because of a disability,
+    grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
+    Employment:\nPrior to beginning employment, in accordance with The Master’s University
+    policy and/or under federal or state law, all employees must:\n\n1.\tSign and
+    return an offer of “At Will” employment.\n2.\tPresent verification of their identity
+    and authorization to work in the United States.\n\nIf, because of a disability,
     you need special services or facilities in order to apply or interview for this
     opening please contact the Human Resources department.\n\nThe Master’s University
     & Seminary does not discriminate on the basis of race, color, national origin,
     ancestry, gender, age, marital status, veteran status or prior military service,
     medical condition, or any physical or mental disability.  We are committed to
     practicing principles of equal employment opportunity and diversity based upon
-    sovereign Biblical principles.\n\nApplication Process\n\nCompleted application
-    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
 - title: Regional Admissions Counselor for AZ (Part-time, temporary, seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
@@ -319,28 +325,31 @@ positions:
     include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\n\nMinimum
-    Conditions for Beginning Employment:\nPrior to beginning employment, in accordance
-    with The Master’s University policy and/or under federal or state law, all employees
-    must:\n\n1.\tSign and return an offer of “At Will” employment.\n\n2.\tPresent
-    verification of their identity and authorization to work in the United States.\n\nIf,
-    because of a disability, you need special services or facilities in order to apply
-    or interview for this opening please contact the Human Resources department.\n\nThe
-    Master’s University & Seminary does not discriminate on the basis of race, color,
-    national origin, ancestry, gender, age, marital status, veteran status or prior
-    military service, medical condition, or any physical or mental disability.  We
-    are committed to practicing principles of equal employment opportunity and diversity
-    based upon sovereign Biblical principles.\n\nApplication Process\n\nCompleted
-    application form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\n\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
+    grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
+    Employment:\nPrior to beginning employment, in accordance with The Master’s University
+    policy and/or under federal or state law, all employees must:\n\n1.\tSign and
+    return an offer of “At Will” employment.\n2.\tPresent verification of their identity
+    and authorization to work in the United States.\n\nIf, because of a disability,
+    you need special services or facilities in order to apply or interview for this
+    opening please contact the Human Resources department.\n\nThe Master’s University
+    & Seminary does not discriminate on the basis of race, color, national origin,
+    ancestry, gender, age, marital status, veteran status or prior military service,
+    medical condition, or any physical or mental disability.  We are committed to
+    practicing principles of equal employment opportunity and diversity based upon
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
 - title: Regional Admissions Counselor for TX (Part-time, temporary, seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
@@ -389,28 +398,31 @@ positions:
     include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\nMinimum Conditions
-    for Beginning Employment:\nPrior to beginning employment, in accordance with The
-    Master’s University policy and/or under federal or state law, all employees must:\n\n1.\tSign
-    and return an offer of “At Will” employment.\n\n2.\tPresent verification of their
-    identity and authorization to work in the United States.\n\nIf, because of a disability,
+    grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
+    Employment:\nPrior to beginning employment, in accordance with The Master’s University
+    policy and/or under federal or state law, all employees must:\n\n1.\tSign and
+    return an offer of “At Will” employment.\n2.\tPresent verification of their identity
+    and authorization to work in the United States.\n\nIf, because of a disability,
     you need special services or facilities in order to apply or interview for this
     opening please contact the Human Resources department.\n\nThe Master’s University
     & Seminary does not discriminate on the basis of race, color, national origin,
     ancestry, gender, age, marital status, veteran status or prior military service,
     medical condition, or any physical or mental disability.  We are committed to
     practicing principles of equal employment opportunity and diversity based upon
-    sovereign Biblical principles.\n\nApplication Process\n\nCompleted application
-    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\n\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
 - title: Regional Admissions Counselor for Southern California (Part-time, temporary,
     seasonal)  (University)
   position: Staff
@@ -460,28 +472,31 @@ positions:
     include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\nMinimum Conditions
-    for Beginning Employment:\nPrior to beginning employment, in accordance with The
-    Master’s University policy and/or under federal or state law, all employees must:\n\n1.\tSign
-    and return an offer of “At Will” employment.\n\n2.\tPresent verification of their
-    identity and authorization to work in the United States.\n\nIf, because of a disability,
+    grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
+    Employment:\nPrior to beginning employment, in accordance with The Master’s University
+    policy and/or under federal or state law, all employees must:\n\n1.\tSign and
+    return an offer of “At Will” employment.\n2.\tPresent verification of their identity
+    and authorization to work in the United States.\n\nIf, because of a disability,
     you need special services or facilities in order to apply or interview for this
     opening please contact the Human Resources department.\n\nThe Master’s University
     & Seminary does not discriminate on the basis of race, color, national origin,
     ancestry, gender, age, marital status, veteran status or prior military service,
     medical condition, or any physical or mental disability.  We are committed to
     practicing principles of equal employment opportunity and diversity based upon
-    sovereign Biblical principles.\n\nApplication Process\n\nCompleted application
-    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\n\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
 - title: Regional Admissions Counselor for Northern California (Part-time, temporary,
     seasonal)  (University)
   position: Staff
@@ -531,28 +546,98 @@ positions:
     include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\n\nMinimum
+    grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
+    Employment:\nPrior to beginning employment, in accordance with The Master’s University
+    policy and/or under federal or state law, all employees must:\n\n1.\tSign and
+    return an offer of “At Will” employment.\n2.\tPresent verification of their identity
+    and authorization to work in the United States.\n\nIf, because of a disability,
+    you need special services or facilities in order to apply or interview for this
+    opening please contact the Human Resources department.\n\nThe Master’s University
+    & Seminary does not discriminate on the basis of race, color, national origin,
+    ancestry, gender, age, marital status, veteran status or prior military service,
+    medical condition, or any physical or mental disability.  We are committed to
+    practicing principles of equal employment opportunity and diversity based upon
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
+- title: Admissions Counselor (Regular part time) (Seminary)
+  position: Staff
+  about-body: "\nThe Master’s Seminary is seeking an Admissions Counselor to serve
+    prospective students from the point of initial contact until they are an on-campus
+    student. Counselors need to have an intimate knowledge of all TMS programs (Dip.Th/B.Th/M.Div/Th.M/D.Min/Ph.D),
+    excellent people skills, and a strong work ethic.\n\n\nESSENTIAL FUNCTIONS\n\n•\tRecruits
+    prospective students by contacting prospects, explaining TMS programs, quoting
+    fees, and answering questions and concerns.\n•\tResponds to inquiry calls and
+    emails regarding detailed questions about the programs, financial aid, student
+    life, etc.\n•\tSchedules and hosts various recruitment activities at Seminary
+    fairs, churches, conferences, etc.\n•\tResponds to new inquiries via phone, email,
+    and instant messaging platform.\n•\tCompletes daily computer data entry in recruitment
+    database to assist in tracking new inquiries.\n•\tKeeps a detailed log of contacts
+    and monitors student interest.\n•\tCounsels, advises, and assists prospective
+    students through the enrollment and financial aid process.\n•\tPerforms preliminary
+    transcript assessment to determine students’ potential enrollment status and transfer
+    credits (if any) from other institutions.\n•\tConducts campus tours for visiting
+    students and families.  \n•\tRegular attendance and travel are required.\n•\tOther
+    duties as assigned.\n\nCOMPETENCIES\n\n•\tExcellent interpersonal communication
+    skills.\n•\tFamiliarity with The Master's Seminary.\n•\tMust be able to travel
+    to various locations and do presentations on the benefits of receiving an education
+    from The Master's Seminary.\n•\tDetail oriented.\n•\tMust be able to work in a
+    high paced office environment.\n•\tHas to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas
+    a personal relationship with Jesus Christ and a demonstrated commitment to the
+    doctrinal position of TMU&S and a continuous exhibition of a desire to minister
+    and serve others in varied capacities. \n•\tMust be able to get along with co-workers
+    and the public.\n•\tEducation: Bachelor’s degree preferred.\n•\tExcellent writing
+    skills.\n•\tMust be able to type approximately 60 words per minute.\n•\tExperience:
+    1+ years in an educational institution preferred\n•\tDemonstrated ability to establish
+    and maintain effective working relationships with staff, faculty, vendors, students,
+    &/or community members of diverse academic, socio-economic, cultural, & ethnic
+    backgrounds.\n•\tProficient computer skills.\n•\tBasic mathematics and accounting
+    knowledge is necessary.\n•\tAbility to compose, proofread and edit correspondence.\n•\tPossess
+    excellent organizational skills.\n•\tExercise confidentiality, good judgment and
+    discernment.\n•\tService oriented and able to interface with many people is mandatory.\n•\tSelf-motivated
+    and proactive in communication with prospective students.\n•\tAbility to multitask
+    in an environment with many distractions is a must.\n•\tReading and comprehending
+    correspondence is imperative.\n•\tMust successfully pass a background investigation.\n\nWORKING
+    CONDITIONS\n\n•\tWorking Environment: Mostly indoors in a typical office environment,
+    with an occasional need to visit other areas on campus.  \n•\tPhysical Demands:
+    Must be able to lift, pull, push, grasp and bend while lifting up to 50lbs.\n•\tRepetitive
+    motions on a keyboard and looking at a computer monitor for an extended duration
+    of time is required.\n•\tTravel: Some travel involved including overnight stays.\n\nMinimum
     Conditions for Beginning Employment:\nPrior to beginning employment, in accordance
     with The Master’s University policy and/or under federal or state law, all employees
-    must:\n\n1.\tSign and return an offer of “At Will” employment.\n\n2.\tPresent
-    verification of their identity and authorization to work in the United States.\n\nIf,
-    because of a disability, you need special services or facilities in order to apply
-    or interview for this opening please contact the Human Resources department.\n\nThe
+    must:\n\n1.\tSign and return an offer of “At Will” employment.\n2.\tPresent verification
+    of their identity and authorization to work in the United States.\n\nIf, because
+    of a disability, you need special services or facilities in order to apply or
+    interview for this opening please contact the Human Resources department.\n\nThe
     Master’s University & Seminary does not discriminate on the basis of race, color,
     national origin, ancestry, gender, age, marital status, veteran status or prior
     military service, medical condition, or any physical or mental disability.  We
     are committed to practicing principles of equal employment opportunity and diversity
-    based upon sovereign Biblical principles.\n\nApplication Process\n\nCompleted
-    application form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\n\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
+    based upon sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to
+    be considered for a position, a completed Application for Employment must be submitted
+    to the Human Resources office.  The application may be picked up in person in
+    the HR office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
 layout: employment
 ---
 
