@@ -34,24 +34,19 @@ Directors-greeting-body: "Welcome to The Master's University!      \n\nThe Campu
   on behalf of the entire Safety staff, I want to personally welcome you as a student
   of The Master's University!\n\n**C. Powell**\nDirector of Campus Safety\nThe Master's
   College\n661\\.362.2208"
-preparedness-body: |-
-  The Campus Safety Department works in close partnership with the Los Angeles County Fire and Sheriff's Department, who have stations within close proximity to the University. The Campus Safety Department plays one part in a larger Emergency Management Plan which the college incorporates to facilitate effective coordination of resources in any emergency. In the event of a life threatening emergency, cellular text messages to registered users will be distributed to communicate important instructions on how Faculty, Staff, and Students should respond.
-
-  ## Dare to Prepare
-
-  * [What to Do During an Earthquake](http://www.ready.gov/earthquakes)
-
-  * [What to Do During a Wildfire](http://www.ready.gov/wildfires)
-
-  * [View Video: "Hands only CPR"](http://handsonlycpr.eisenberginc.com/video/Hands-Only-Promo-English.wmv)
-
-  * [Los Angeles County Emergency Survival Guide](http://lacoa.org/pdf/emergencysurvivalguide-lowres.pdf) \[.pdf\]\
-
-  ## Questions or Comments
-
-  * E-mail: campussafety@masters.edu
-
-  * Guard Shack: (661) 362-2500
+preparedness-body: "The Campus Safety Department works in close partnership with the
+  Los Angeles County Fire and Sheriff's Department, who have stations within close
+  proximity to the University. The Campus Safety Department plays one part in a larger
+  Emergency Management Plan which the college incorporates to facilitate effective
+  coordination of resources in any emergency. In the event of a life threatening emergency,
+  cellular text messages to registered users will be distributed to communicate important
+  instructions on how Faculty, Staff, and Students should respond.\n\n## Dare to Prepare\n\n*
+  [What to Do During an Earthquake](http://www.ready.gov/earthquakes)\n\n* [What to
+  Do During a Wildfire](http://www.ready.gov/wildfires)\n\n* [View Video: \"Hands
+  only CPR\"](http://handsonlycpr.eisenberginc.com/video/Hands-Only-Promo-English.wmv)\n\n*
+  [Los Angeles County Emergency Survival Guide](http://lacoa.org/pdf/emergencysurvivalguide-lowres.pdf)
+  \n\n## Questions or Comments\n\n* E-mail: campussafety@masters.edu\n\n* Guard Shack:
+  (661) 362-2500"
 code-manual-body: |-
   [Campus Safety Codes](/campussafetycodes)
 
