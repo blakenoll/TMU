@@ -124,7 +124,7 @@ layout: campussafety
 
 * Effectiveness: To excel as a competent and efficient university public safety team
 
-## TMU Alert
+## TMU Alert 
 
 In the event of a life threatening emergency, faculty, staff, and students registered with the campus mass notification service will receive emergency alerts via text message to cell phone. Students may register for TMU Alert during semester pre-registration and any student or staff member may register or update a primary cell phone at any time by navigating to Self-Service / My Profile / Phone Numbers.
 
