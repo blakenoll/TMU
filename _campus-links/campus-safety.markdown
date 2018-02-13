@@ -118,11 +118,11 @@ layout: campussafety
 
 ## The Master's University Department of Campus Safety exists to glorify God and supports the mission and values of the institution, by our: 
 
-* Professionalism: To excel as a capable and skilled University public safety team
+* Professionalism: To excel as a capable and skilled university public safety team
 
-* Customer Service: To excel as a courteous and friendly University public safety team
+* Customer Service: To excel as a courteous and friendly university public safety team
 
-* Effectiveness: To excel as a competent and efficient University public safety team
+* Effectiveness: To excel as a competent and efficient university public safety team
 
 ## TMU Alert
 
