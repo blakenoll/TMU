@@ -131,8 +131,11 @@ In the event of a life threatening emergency, faculty, staff, and students regis
 ## Active Shooter Training
 
 The following video presentations are provided as a service to the campus community:
+
 [Center For Personal Protection: Shots Fired On Campus Training Presentation](https://mix.office.com/watch/d8mtp1ue02zp) 
+
 [LASD: Surviving An Active Shooter Training Presentation](https://www.youtube.com/watch?v=DFQ-oxhdFjE)
+
 Remember: Call 911 AND Campus Safety.
 
 ## Twitter Feed
