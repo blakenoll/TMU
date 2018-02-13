@@ -144,7 +144,7 @@ Remember: Call 911 AND Campus Safety.
 
 ## Twitter Feed
 
-[Follow @TMUCampusSafety for recent reports of crime and safety concerns on campus](https://twitter.com/TMUCampusSafety)
+[Follow @TMUCampusSafety](https://twitter.com/TMUCampusSafety)for recent reports of crime and safety concerns on campus
 
 ## Campus Community "Need to know"
 
