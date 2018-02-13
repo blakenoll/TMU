@@ -129,7 +129,7 @@ positions:
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, and training others to do so, in order to recruit and admit students according
-    to TMU goals.\n\nEssential Functions\n\n•\tRecruits prospective students by contacting
+    to TMU goals.\n\nESSENTIAL FUNCTIONS\n\n•\tRecruits prospective students by contacting
     prospects, explaining courses offered by the university, and quoting fees.\n\n•\tResponds
     to inquiry calls and emails regarding detailed questions about the programs, financial
     aid, student life, etc.\n\n•\tSchedules and hosts various recruitment activities
@@ -146,7 +146,7 @@ positions:
     with faculty, coaches, staff, and administration to coordinate successful campus
     visits.\n  \n•\tCompetitive analysis and understanding of the competing schools
     and the industry in general\n\n•\tRegular attendance and travel is essential.\n\n•\tOther
-    duties as assigned\n\nCompetencies\n\n•\tFamiliarity with The Master's University
+    duties as assigned\n\nCOMPETENCIES\n\n•\tFamiliarity with The Master's University
     is desirable.\n\n•\tMust be able to travel to various locations across the U.S
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tVery detailed oriented\n\n•\tMust be able to work in a high
@@ -211,7 +211,7 @@ positions:
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
     region. CA Region may include Los Angeles, Sacramento, San Francisco/Bay Area,
-    etc.  This is a part time, temporary position.\n\nEssential Functions\n\n•\tSchedules
+    etc.  This is a part time, temporary position.\n\nESSENTIAL FUNCTIONS\n\n•\tSchedules
     appointments and hosts various recruitment activities at college fairs, churches,
     high schools, conferences, organizations, families, etc. to promote and market
     TMU to both the organizations and the students.\n\n•\tGives engaging presentations
@@ -225,7 +225,7 @@ positions:
     to provide initial counsel, advise, and assist prospective students through the
     enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
     of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
-    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -233,7 +233,7 @@ positions:
     with The Master's University is desirable.\n\n•\tAbility to establish and maintain
     effective working relationships with staff, faculty, vendors, students, &/or community
     members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
-    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas a personal
     relationship with Jesus Christ and a demonstrated commitment to the doctrinal
     position of TMU&S and a continuous exhibition of a desire to minister and serve
     others in varied capacities.\n \n•\tMust be able to get along with co-workers
@@ -250,7 +250,7 @@ positions:
     relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
     increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
     Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
-    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    include conferences, classes, courses, and programs.\n\nWORKING CONDITIONS\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
     grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
@@ -283,8 +283,8 @@ positions:
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
-    region. Region includes Arizona state.  This is a part time, temporary position.\n\nEssential
-    Functions\n\n•\tSchedules appointments and hosts various recruitment activities
+    region. Region includes Arizona state.  This is a part time, temporary position.\n\nESSENTIAL
+    FUNCTIONS\n\n•\tSchedules appointments and hosts various recruitment activities
     at college fairs, churches, high schools, conferences, organizations, families,
     etc. to promote and market TMU to both the organizations and the students.\n\n•\tGives
     engaging presentations and promotions to attract and entice students and partners.\n\n•\tCoordinates
@@ -297,7 +297,7 @@ positions:
     to provide initial counsel, advise, and assist prospective students through the
     enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
     of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
-    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -305,7 +305,7 @@ positions:
     with The Master's University is desirable.\n\n•\tAbility to establish and maintain
     effective working relationships with staff, faculty, vendors, students, &/or community
     members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
-    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas a personal
     relationship with Jesus Christ and a demonstrated commitment to the doctrinal
     position of TMU&S and a continuous exhibition of a desire to minister and serve
     others in varied capacities.\n \n•\tMust be able to get along with co-workers
@@ -322,7 +322,7 @@ positions:
     relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
     increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
     Manager”, “Assistant Director”, or other roles within TMU.\n \n•\tTraining may
-    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    include conferences, classes, courses, and programs.\n\nWORKING CONDITIONS\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
     grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
@@ -356,7 +356,7 @@ positions:
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
     region. Region includes Texas or counties within.  This is a part time, temporary
-    position.\n\nEssential Functions\n\n•\tSchedules appointments and hosts various
+    position.\n\nESSENTIAL FUNCTIONS\n\n•\tSchedules appointments and hosts various
     recruitment activities at college fairs, churches, high schools, conferences,
     organizations, families, etc. to promote and market TMU to both the organizations
     and the students.\n\n•\tGives engaging presentations and promotions to attract
@@ -370,7 +370,7 @@ positions:
     counsel, advise, and assist prospective students through the enrollment and financial
     aid process.\n\n•\tCompetitive analysis and understanding of the competing schools
     and the industry in general\n\n•\tWork remotely 90-100% of the time\n\n•\tRegular
-    travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    travel is essential.\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -378,7 +378,7 @@ positions:
     with The Master's University is desirable.\n\n•\tAbility to establish and maintain
     effective working relationships with staff, faculty, vendors, students, &/or community
     members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
-    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas a personal
     relationship with Jesus Christ and a demonstrated commitment to the doctrinal
     position of TMU&S and a continuous exhibition of a desire to minister and serve
     others in varied capacities.\n \n•\tMust be able to get along with co-workers
@@ -395,7 +395,7 @@ positions:
     relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
     increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
     Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
-    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    include conferences, classes, courses, and programs.\n\nWORKING CONDITIONS\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
     grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
@@ -430,7 +430,7 @@ positions:
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
     region. So. Cal. Region may include portions of Los Angeles, San Diego, etc.  This
-    is a part time, temporary position.\n\nEssential Functions\n\n•\tSchedules appointments
+    is a part time, temporary position.\n\nESSENTIAL FUNCTIONS\n\n•\tSchedules appointments
     and hosts various recruitment activities at college fairs, churches, high schools,
     conferences, organizations, families, etc. to promote and market TMU to both the
     organizations and the students.\n\n•\tGives engaging presentations and promotions
@@ -444,7 +444,7 @@ positions:
     counsel, advise, and assist prospective students through the enrollment and financial
     aid process.\n\n•\tCompetitive analysis and understanding of the competing schools
     and the industry in general\n\n•\tWork remotely 90-100% of the time\n\n•\tRegular
-    travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    travel is essential.\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -452,7 +452,7 @@ positions:
     with The Master's University is desirable.\n\n•\tAbility to establish and maintain
     effective working relationships with staff, faculty, vendors, students, &/or community
     members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
-    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas a personal
     relationship with Jesus Christ and a demonstrated commitment to the doctrinal
     position of TMU&S and a continuous exhibition of a desire to minister and serve
     others in varied capacities.\n \n•\tMust be able to get along with co-workers
@@ -469,7 +469,7 @@ positions:
     relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
     increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
     Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
-    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    include conferences, classes, courses, and programs.\n\nWORKING CONDITIONS\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
     grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
@@ -504,7 +504,7 @@ positions:
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
     region. Region is Northern California counties.  This is a part time, temporary
-    position.\n\nEssential Functions\n\n•\tSchedules appointments and hosts various
+    position.\n\nESSENTIAL FUNCTIONS\n\n•\tSchedules appointments and hosts various
     recruitment activities at college fairs, churches, high schools, conferences,
     organizations, families, etc. to promote and market TMU to both the organizations
     and the students.\n\n•\tGives engaging presentations and promotions to attract
@@ -518,7 +518,7 @@ positions:
     counsel, advise, and assist prospective students through the enrollment and financial
     aid process.\n\n•\tCompetitive analysis and understanding of the competing schools
     and the industry in general\n\n•\tWork remotely 90-100% of the time\n\n•\tRegular
-    travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    travel is essential.\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -526,7 +526,7 @@ positions:
     with The Master's University is desirable.\n\n•\tAbility to establish and maintain
     effective working relationships with staff, faculty, vendors, students, &/or community
     members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
-    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas a personal
     relationship with Jesus Christ and a demonstrated commitment to the doctrinal
     position of TMU&S and a continuous exhibition of a desire to minister and serve
     others in varied capacities.\n \n•\tMust be able to get along with co-workers
@@ -543,7 +543,7 @@ positions:
     relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
     increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
     Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
-    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    include conferences, classes, courses, and programs.\n\nWORKING CONDITIONS\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
     grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
