@@ -130,7 +130,7 @@ TMU Alert is an emergency notification system that allows university officials t
 
 When an emergency occurs, authorized TMU officials will promptly notify you with instructions on where to go, what to do (or what not to do), whom to contact and other important information.
 
-Students and employees may opt-in to TMU Alert by navigating to @ Self-Service / My Profile / Phone Numbers and adding or updating your primary cell phone number. 
+Students and employees may opt-in to TMU Alert by navigating to Self-Service / My Profile / Phone Numbers and adding or updating your primary cell phone number. 
 
 ## Active Shooter Training
 
