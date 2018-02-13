@@ -201,16 +201,18 @@ positions:
     Procedures:\nAll documents included in your application remain the sole property
     of The Master’s College and will not be returned.   Your file for this opening
     will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Regional Admissions Counselor for Central California (Part-time, seasonal)  (University)
+- title: Regional Admissions Counselor for Central California (Part-time, temporary,
+    seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
     region. CA Region may include Los Angeles, Sacramento, San Francisco/Bay Area,
-    etc.\n\nEssential Functions\n\n•\tSchedules appointments and hosts various recruitment
-    activities at college fairs, churches, high schools, conferences, organizations,
-    families, etc. to promote and market TMU to both the organizations and the students.\n\n•\tGives
-    engaging presentations and promotions to attract and entice students and partners.\n\n•\tCoordinates
+    etc.  This is a part time, temporary position.\n\nEssential Functions\n\n•\tSchedules
+    appointments and hosts various recruitment activities at college fairs, churches,
+    high schools, conferences, organizations, families, etc. to promote and market
+    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
+    and promotions to attract and entice students and partners.\n\n•\tCoordinates
     with TMU admissions office to plan communications and travel, and to make strategic
     recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
     to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
@@ -270,16 +272,16 @@ positions:
     Procedures:\nAll documents included in your application remain the sole property
     of The Master’s College and will not be returned.   Your file for this opening
     will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Regional Admissions Counselor for AZ (Part-time, seasonal)  (University)
+- title: Regional Admissions Counselor for AZ (Part-time, temporary, seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
-    region. Region includes Arizona state.\n\nEssential Functions\n\n•\tSchedules
-    appointments and hosts various recruitment activities at college fairs, churches,
-    high schools, conferences, organizations, families, etc. to promote and market
-    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
-    and promotions to attract and entice students and partners.\n\n•\tCoordinates
+    region. Region includes Arizona state.  This is a part time, temporary position.\n\nEssential
+    Functions\n\n•\tSchedules appointments and hosts various recruitment activities
+    at college fairs, churches, high schools, conferences, organizations, families,
+    etc. to promote and market TMU to both the organizations and the students.\n\n•\tGives
+    engaging presentations and promotions to attract and entice students and partners.\n\n•\tCoordinates
     with TMU admissions office to plan communications and travel, and to make strategic
     recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
     to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
@@ -339,26 +341,27 @@ positions:
     Procedures:\n\nAll documents included in your application remain the sole property
     of The Master’s College and will not be returned.   Your file for this opening
     will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Regional Admissions Counselor for TX (Part-time, seasonal)  (University)
+- title: Regional Admissions Counselor for TX (Part-time, temporary, seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
-    region. Region includes Texas or counties within.\n\nEssential Functions\n\n•\tSchedules
-    appointments and hosts various recruitment activities at college fairs, churches,
-    high schools, conferences, organizations, families, etc. to promote and market
-    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
-    and promotions to attract and entice students and partners.\n\n•\tCoordinates
-    with TMU admissions office to plan communications and travel, and to make strategic
-    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
-    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
-    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
-    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
-    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
-    to provide initial counsel, advise, and assist prospective students through the
-    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
-    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
-    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    region. Region includes Texas or counties within.  This is a part time, temporary
+    position.\n\nEssential Functions\n\n•\tSchedules appointments and hosts various
+    recruitment activities at college fairs, churches, high schools, conferences,
+    organizations, families, etc. to promote and market TMU to both the organizations
+    and the students.\n\n•\tGives engaging presentations and promotions to attract
+    and entice students and partners.\n\n•\tCoordinates with TMU admissions office
+    to plan communications and travel, and to make strategic recommendations.\n\n•\tCompletes
+    regular computer data entry in recruitment database to assist in tracking new
+    inquiries.\n\n•\tMaintains a detailed log of contacts and monitors the level of
+    and changes in students’ interests.\n\n•\tResponsible to develop a full strategic
+    travel and presentation schedule\n\n•\tResponsible to track, request and report
+    all expenses and budgets according to TMU policy\n\n•\tAbilities to provide initial
+    counsel, advise, and assist prospective students through the enrollment and financial
+    aid process.\n\n•\tCompetitive analysis and understanding of the competing schools
+    and the industry in general\n\n•\tWork remotely 90-100% of the time\n\n•\tRegular
+    travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -408,26 +411,28 @@ positions:
     Procedures:\n\nAll documents included in your application remain the sole property
     of The Master’s College and will not be returned.   Your file for this opening
     will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Regional Admissions Counselor for Southern California (Part-time, seasonal)  (University)
+- title: Regional Admissions Counselor for Southern California (Part-time, temporary,
+    seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
-    region. So. Cal. Region may include portions of Los Angeles, San Diego, etc.\n\nEssential
-    Functions\n\n•\tSchedules appointments and hosts various recruitment activities
-    at college fairs, churches, high schools, conferences, organizations, families,
-    etc. to promote and market TMU to both the organizations and the students.\n\n•\tGives
-    engaging presentations and promotions to attract and entice students and partners.\n\n•\tCoordinates
-    with TMU admissions office to plan communications and travel, and to make strategic
-    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
-    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
-    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
-    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
-    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
-    to provide initial counsel, advise, and assist prospective students through the
-    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
-    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
-    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    region. So. Cal. Region may include portions of Los Angeles, San Diego, etc.  This
+    is a part time, temporary position.\n\nEssential Functions\n\n•\tSchedules appointments
+    and hosts various recruitment activities at college fairs, churches, high schools,
+    conferences, organizations, families, etc. to promote and market TMU to both the
+    organizations and the students.\n\n•\tGives engaging presentations and promotions
+    to attract and entice students and partners.\n\n•\tCoordinates with TMU admissions
+    office to plan communications and travel, and to make strategic recommendations.\n\n•\tCompletes
+    regular computer data entry in recruitment database to assist in tracking new
+    inquiries.\n\n•\tMaintains a detailed log of contacts and monitors the level of
+    and changes in students’ interests.\n\n•\tResponsible to develop a full strategic
+    travel and presentation schedule\n\n•\tResponsible to track, request and report
+    all expenses and budgets according to TMU policy\n\n•\tAbilities to provide initial
+    counsel, advise, and assist prospective students through the enrollment and financial
+    aid process.\n\n•\tCompetitive analysis and understanding of the competing schools
+    and the industry in general\n\n•\tWork remotely 90-100% of the time\n\n•\tRegular
+    travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -477,26 +482,28 @@ positions:
     Procedures:\n\nAll documents included in your application remain the sole property
     of The Master’s College and will not be returned.   Your file for this opening
     will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Regional Admissions Counselor for Northern California (Part-time, seasonal)  (University)
+- title: Regional Admissions Counselor for Northern California (Part-time, temporary,
+    seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
-    region. Region is Northern California counties.\n\nEssential Functions\n\n•\tSchedules
-    appointments and hosts various recruitment activities at college fairs, churches,
-    high schools, conferences, organizations, families, etc. to promote and market
-    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
-    and promotions to attract and entice students and partners.\n\n•\tCoordinates
-    with TMU admissions office to plan communications and travel, and to make strategic
-    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
-    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
-    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
-    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
-    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
-    to provide initial counsel, advise, and assist prospective students through the
-    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
-    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
-    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    region. Region is Northern California counties.  This is a part time, temporary
+    position.\n\nEssential Functions\n\n•\tSchedules appointments and hosts various
+    recruitment activities at college fairs, churches, high schools, conferences,
+    organizations, families, etc. to promote and market TMU to both the organizations
+    and the students.\n\n•\tGives engaging presentations and promotions to attract
+    and entice students and partners.\n\n•\tCoordinates with TMU admissions office
+    to plan communications and travel, and to make strategic recommendations.\n\n•\tCompletes
+    regular computer data entry in recruitment database to assist in tracking new
+    inquiries.\n\n•\tMaintains a detailed log of contacts and monitors the level of
+    and changes in students’ interests.\n\n•\tResponsible to develop a full strategic
+    travel and presentation schedule\n\n•\tResponsible to track, request and report
+    all expenses and budgets according to TMU policy\n\n•\tAbilities to provide initial
+    counsel, advise, and assist prospective students through the enrollment and financial
+    aid process.\n\n•\tCompetitive analysis and understanding of the competing schools
+    and the industry in general\n\n•\tWork remotely 90-100% of the time\n\n•\tRegular
+    travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
