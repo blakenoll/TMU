@@ -132,7 +132,7 @@ When an emergency occurs, authorized TMU officials will promptly notify you with
 
 Students and employees may opt-in to TMU Alert by navigating to Self-Service / My Profile / Phone Numbers and adding or updating your primary cell phone number. 
 
-## Surviving a Violent Incident Training
+## Active Shooter Awareness Training
 
 The following video presentations are provided as a service to the campus community:
 
@@ -144,7 +144,7 @@ Remember: Call 911 AND Campus Safety.
 
 ## Twitter Feed
 
-[Follow @TMUCampusSafety](https://twitter.com/TMUCampusSafety)
+[Follow @TMUCampusSafety for recent reports of crime and safety concerns on campus](https://twitter.com/TMUCampusSafety)
 
 ## Campus Community "Need to know"
 
