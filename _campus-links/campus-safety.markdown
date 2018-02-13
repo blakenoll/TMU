@@ -7,8 +7,8 @@ Directors-greeting-body: "Welcome to The Master's University!      \n\nThe Campu
   safety services. In addition to working full-time for the University Safety Department,
   many of the Safety employees are studying for the Pastorate at The Master's Seminary,
   also led by our President, John MacArthur. All that to say, I want you to know that
-  you are served by a group of men who are not only concerned for your safety, but
-  genuinely have a Pastor's heart for you to grow in Christ.\n\nThe Safety Department
+  you are served by a group of officers who are not only concerned for your safety,
+  but genuinely have a Pastor's heart for you to grow in Christ.\n\nThe Safety Department
   maintains a 24 hour presence on The Master's University property, and the Main Security
   Booth is located across the street from the Gym, at the entrance to the residential
   housing area. You will frequently see officers walking around the campus, locking
