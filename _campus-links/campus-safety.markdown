@@ -140,15 +140,15 @@ When an emergency occurs, authorized TMU officials will promptly notify you with
 
 Students and employees may opt-in to TMU Alert by navigating to Self-Service / My Profile / Phone Numbers and adding or updating your primary cell phone number. 
 
-## Active Shooter Awareness Training
+## Training Presentations 
 
 The following video presentations are provided as a service to the campus community:
+
+[Student Film: TMU Campus Safety Department](https://www.youtube.com/watch?v=jDKW0gpBgco)
 
 [Shots Fired On Campus Training Presentation](https://mix.office.com/watch/d8mtp1ue02zp) 
 
 [LASD: Surviving An Active Shooter Training Presentation](https://www.youtube.com/watch?v=DFQ-oxhdFjE)
-
-Remember: Call 911 AND Campus Safety.
 
 ## Twitter Feed
 
