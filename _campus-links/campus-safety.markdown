@@ -144,17 +144,19 @@ Students and employees may opt-in to TMU Alert by navigating to Self-Service / M
 
 The following video presentations are provided as a service to the campus community:
 
+Remember: Always call 911 and Campus Safety.
+
 [Shots Fired On Campus Training Presentation](https://mix.office.com/watch/d8mtp1ue02zp) 
 
 [LASD: Surviving An Active Shooter Training Presentation](https://www.youtube.com/watch?v=DFQ-oxhdFjE)
-
-Remember: Call 911 AND Campus Safety.
 
 ## Twitter Feed
 
 Follow [@TMUCampusSafety](https://twitter.com/TMUCampusSafety) for recent reports of crime and safety concerns on campus
 
 ## Campus Community "Need to know"
+
+[Introduction Campus Safety Department] (https://youtube.com/watch?v=jDKW0gpBgco) [A Student Film]
 
 [2017 The Master's University Annual Campus Security and Fire Safety Report](/media/870363/2017-annual-security-and-fire-safety-report.pdf)
 
