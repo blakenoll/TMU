@@ -156,7 +156,7 @@ Follow [@TMUCampusSafety](https://twitter.com/TMUCampusSafety) for recent report
 
 ## Campus Community "Need to know"
 
-[Introduction Campus Safety Department] (https://youtube.com/watch?v=jDKW0gpBgco) [A Student Film]
+[Student Film: Introduction to The Campus Safety Department](https://youtube.com/watch?v=jDKW0gpBgco)
 
 [2017 The Master's University Annual Campus Security and Fire Safety Report](/media/870363/2017-annual-security-and-fire-safety-report.pdf)
 
