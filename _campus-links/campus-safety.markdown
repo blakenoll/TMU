@@ -116,7 +116,15 @@ golf-cart-body: |-
 layout: campussafety
 ---
 
-## The Master's University Department of Campus Safety exists to glorify God and supports the mission and values of the institution, by our: 
+## Mission Statement 
+
+The mission of the Department of Campus Safety is to serve and protect the people and property of The Master's University.  
+
+## Core Values 
+
+The Department of Campus Safety is committed to recruiting high integrity employees, exceeding the standards of the private security industry, and conducting ourselves at all times in a manner that accords with our community's shared Christian values.    
+
+Our pledge to the campus community is to serve and protect with: 
 
 * Professionalism: To excel as a capable and skilled university public safety team
 
