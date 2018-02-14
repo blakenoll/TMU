@@ -1,6 +1,7 @@
 ---
 title: 'Rise and Shine: Mustangs Ranked No.2 in Nation'
 date: 2018-02-01 16:03:00 Z
+published: false
 author: Mason Nesbitt, TMU's Sports Information Director
 image: "/uploads/NO2.jpg"
 sm-image: "/uploads/NO2.jpg"
