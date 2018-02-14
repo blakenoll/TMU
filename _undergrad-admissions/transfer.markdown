@@ -7,7 +7,7 @@ app-checklist:
 
     Create your new TMU account or log in if you already have one, and complete the online application. If you have any questions as you do that, your admissions counselor is there to help.
 
-    <a href="[https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB](https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB)" class="btn btn-navy">Apply</a>
+    <a href="https://mastersuniversity.force.com/application/TX_CommunitiesSelfReg?startURL=%2Fapplication%2FTargetX_Portal__PB" class="btn btn-navy">Apply</a>
 
     Go through the traditional application process, which includes your online application, your essays & personal statement, your transcript and pastor’s recommendation. Depending on when you are applying, there is normally an application fee.
 
@@ -17,7 +17,7 @@ app-checklist:
 
     Check and see if your school has an articulation agreement here:
 
-    <a href="[http://www.masters.edu/registrar/](http://www.masters.edu/registrar/) " class="btn btn-navy">Articulations</a> (select ARTICULATIONS)
+    <a href="http://www.masters.edu/registrar/#articulation" class="btn btn-navy">Articulations</a> (select ARTICULATIONS)
 
     This is how you will know which of the classes you already completed will be accepted by TMU specifically from your school. We recommend only taking classes from this list, since it is guaranteed that they will transfer to TMU.
 

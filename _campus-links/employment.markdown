@@ -129,7 +129,7 @@ positions:
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, and training others to do so, in order to recruit and admit students according
-    to TMU goals.\n\nEssential Functions\n\n•\tRecruits prospective students by contacting
+    to TMU goals.\n\nESSENTIAL FUNCTIONS\n\n•\tRecruits prospective students by contacting
     prospects, explaining courses offered by the university, and quoting fees.\n\n•\tResponds
     to inquiry calls and emails regarding detailed questions about the programs, financial
     aid, student life, etc.\n\n•\tSchedules and hosts various recruitment activities
@@ -146,7 +146,7 @@ positions:
     with faculty, coaches, staff, and administration to coordinate successful campus
     visits.\n  \n•\tCompetitive analysis and understanding of the competing schools
     and the industry in general\n\n•\tRegular attendance and travel is essential.\n\n•\tOther
-    duties as assigned\n\nCompetencies\n\n•\tFamiliarity with The Master's University
+    duties as assigned\n\nCOMPETENCIES\n\n•\tFamiliarity with The Master's University
     is desirable.\n\n•\tMust be able to travel to various locations across the U.S
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tVery detailed oriented\n\n•\tMust be able to work in a high
@@ -179,38 +179,43 @@ positions:
     and bend while lifting up to 30lbs.\n\n•\tRepetitive motions on a keyboard and
     looking at a computer monitor for an extended duration of time is required.\n\n•\tTravel:
     Seasonal travel involved including overnight stays. Typically 1-5 day travel,
-    typically in the US.\n\nAdditional Information\nMinimum Conditions for Beginning
-    Employment:\nPrior to beginning employment, in accordance with The Master’s University
-    policy and/or under federal or state law, all employees must:\n\n\nSign and return
-    an offer of “At Will” employment.\n2.\tPresent verification of their identity
-    and authorization to work in the United States.\n\n\nIf, because of a disability,
-    you need special services or facilities in order to apply or interview for this
-    opening please contact the Human Resources department.\n\n\nThe Master’s College
-    & Seminary does not discriminate on the basis of race, color, national origin,
-    ancestry, gender, age, marital status, veteran status or prior military service,
-    medical condition, or any physical or mental disability.  We are committed to
-    practicing principles of equal employment opportunity and diversity based upon
-    sovereign Biblical principles.\n\n\nApplication Process\nCompleted application
-    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Regional Admissions Counselor for Central California (Part-time, seasonal)  (University)
+    typically in the US.\n\nMinimum Conditions for Beginning Employment:\nPrior to
+    beginning employment, in accordance with The Master’s University policy and/or
+    under federal or state law, all employees must:\n\n1.\tSign and return an offer
+    of “At Will” employment.\n2.\tPresent verification of their identity and authorization
+    to work in the United States.\n\nIf, because of a disability, you need special
+    services or facilities in order to apply or interview for this opening please
+    contact the Human Resources department.\n\nThe Master’s University & Seminary
+    does not discriminate on the basis of race, color, national origin, ancestry,
+    gender, age, marital status, veteran status or prior military service, medical
+    condition, or any physical or mental disability.  We are committed to practicing
+    principles of equal employment opportunity and diversity based upon sovereign
+    Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered for a position,
+    a completed Application for Employment must be submitted to the Human Resources
+    office.  The application may be picked up in person in the HR office or is available
+    to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
+- title: Regional Admissions Counselor for Central California (Part-time, temporary,
+    seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
     region. CA Region may include Los Angeles, Sacramento, San Francisco/Bay Area,
-    etc.\n\nEssential Functions\n\n•\tSchedules appointments and hosts various recruitment
-    activities at college fairs, churches, high schools, conferences, organizations,
-    families, etc. to promote and market TMU to both the organizations and the students.\n\n•\tGives
-    engaging presentations and promotions to attract and entice students and partners.\n\n•\tCoordinates
+    etc.  This is a part time, temporary position.\n\nESSENTIAL FUNCTIONS\n\n•\tSchedules
+    appointments and hosts various recruitment activities at college fairs, churches,
+    high schools, conferences, organizations, families, etc. to promote and market
+    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
+    and promotions to attract and entice students and partners.\n\n•\tCoordinates
     with TMU admissions office to plan communications and travel, and to make strategic
     recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
     to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
@@ -220,7 +225,7 @@ positions:
     to provide initial counsel, advise, and assist prospective students through the
     enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
     of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
-    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -228,7 +233,7 @@ positions:
     with The Master's University is desirable.\n\n•\tAbility to establish and maintain
     effective working relationships with staff, faculty, vendors, students, &/or community
     members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
-    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas a personal
     relationship with Jesus Christ and a demonstrated commitment to the doctrinal
     position of TMU&S and a continuous exhibition of a desire to minister and serve
     others in varied capacities.\n \n•\tMust be able to get along with co-workers
@@ -245,41 +250,44 @@ positions:
     relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
     increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
     Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
-    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    include conferences, classes, courses, and programs.\n\nWORKING CONDITIONS\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\nMinimum Conditions
-    for Beginning Employment:\nPrior to beginning employment, in accordance with The
-    Master’s University policy and/or under federal or state law, all employees must:\n\n1.\tSign
-    and return an offer of “At Will” employment.\n\n2.\tPresent verification of their
-    identity and authorization to work in the United States.\n\nIf, because of a disability,
+    grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
+    Employment:\nPrior to beginning employment, in accordance with The Master’s University
+    policy and/or under federal or state law, all employees must:\n\n1.\tSign and
+    return an offer of “At Will” employment.\n2.\tPresent verification of their identity
+    and authorization to work in the United States.\n\nIf, because of a disability,
     you need special services or facilities in order to apply or interview for this
     opening please contact the Human Resources department.\n\nThe Master’s University
     & Seminary does not discriminate on the basis of race, color, national origin,
     ancestry, gender, age, marital status, veteran status or prior military service,
     medical condition, or any physical or mental disability.  We are committed to
     practicing principles of equal employment opportunity and diversity based upon
-    sovereign Biblical principles.\n\nApplication Process\n\nCompleted application
-    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Regional Admissions Counselor for AZ (Part-time, seasonal)  (University)
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
+- title: Regional Admissions Counselor for AZ (Part-time, temporary, seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
-    region. Region includes Arizona state.\n\nEssential Functions\n\n•\tSchedules
-    appointments and hosts various recruitment activities at college fairs, churches,
-    high schools, conferences, organizations, families, etc. to promote and market
-    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
-    and promotions to attract and entice students and partners.\n\n•\tCoordinates
+    region. Region includes Arizona state.  This is a part time, temporary position.\n\nESSENTIAL
+    FUNCTIONS\n\n•\tSchedules appointments and hosts various recruitment activities
+    at college fairs, churches, high schools, conferences, organizations, families,
+    etc. to promote and market TMU to both the organizations and the students.\n\n•\tGives
+    engaging presentations and promotions to attract and entice students and partners.\n\n•\tCoordinates
     with TMU admissions office to plan communications and travel, and to make strategic
     recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
     to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
@@ -289,7 +297,7 @@ positions:
     to provide initial counsel, advise, and assist prospective students through the
     enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
     of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
-    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -297,7 +305,7 @@ positions:
     with The Master's University is desirable.\n\n•\tAbility to establish and maintain
     effective working relationships with staff, faculty, vendors, students, &/or community
     members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
-    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas a personal
     relationship with Jesus Christ and a demonstrated commitment to the doctrinal
     position of TMU&S and a continuous exhibition of a desire to minister and serve
     others in varied capacities.\n \n•\tMust be able to get along with co-workers
@@ -314,51 +322,55 @@ positions:
     relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
     increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
     Manager”, “Assistant Director”, or other roles within TMU.\n \n•\tTraining may
-    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    include conferences, classes, courses, and programs.\n\nWORKING CONDITIONS\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\n\nMinimum
-    Conditions for Beginning Employment:\nPrior to beginning employment, in accordance
-    with The Master’s University policy and/or under federal or state law, all employees
-    must:\n\n1.\tSign and return an offer of “At Will” employment.\n\n2.\tPresent
-    verification of their identity and authorization to work in the United States.\n\nIf,
-    because of a disability, you need special services or facilities in order to apply
-    or interview for this opening please contact the Human Resources department.\n\nThe
-    Master’s University & Seminary does not discriminate on the basis of race, color,
-    national origin, ancestry, gender, age, marital status, veteran status or prior
-    military service, medical condition, or any physical or mental disability.  We
-    are committed to practicing principles of equal employment opportunity and diversity
-    based upon sovereign Biblical principles.\n\nApplication Process\n\nCompleted
-    application form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\n\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Regional Admissions Counselor for TX (Part-time, seasonal)  (University)
+    grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
+    Employment:\nPrior to beginning employment, in accordance with The Master’s University
+    policy and/or under federal or state law, all employees must:\n\n1.\tSign and
+    return an offer of “At Will” employment.\n2.\tPresent verification of their identity
+    and authorization to work in the United States.\n\nIf, because of a disability,
+    you need special services or facilities in order to apply or interview for this
+    opening please contact the Human Resources department.\n\nThe Master’s University
+    & Seminary does not discriminate on the basis of race, color, national origin,
+    ancestry, gender, age, marital status, veteran status or prior military service,
+    medical condition, or any physical or mental disability.  We are committed to
+    practicing principles of equal employment opportunity and diversity based upon
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
+- title: Regional Admissions Counselor for TX (Part-time, temporary, seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
-    region. Region includes Texas or counties within.\n\nEssential Functions\n\n•\tSchedules
-    appointments and hosts various recruitment activities at college fairs, churches,
-    high schools, conferences, organizations, families, etc. to promote and market
-    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
-    and promotions to attract and entice students and partners.\n\n•\tCoordinates
-    with TMU admissions office to plan communications and travel, and to make strategic
-    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
-    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
-    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
-    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
-    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
-    to provide initial counsel, advise, and assist prospective students through the
-    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
-    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
-    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    region. Region includes Texas or counties within.  This is a part time, temporary
+    position.\n\nESSENTIAL FUNCTIONS\n\n•\tSchedules appointments and hosts various
+    recruitment activities at college fairs, churches, high schools, conferences,
+    organizations, families, etc. to promote and market TMU to both the organizations
+    and the students.\n\n•\tGives engaging presentations and promotions to attract
+    and entice students and partners.\n\n•\tCoordinates with TMU admissions office
+    to plan communications and travel, and to make strategic recommendations.\n\n•\tCompletes
+    regular computer data entry in recruitment database to assist in tracking new
+    inquiries.\n\n•\tMaintains a detailed log of contacts and monitors the level of
+    and changes in students’ interests.\n\n•\tResponsible to develop a full strategic
+    travel and presentation schedule\n\n•\tResponsible to track, request and report
+    all expenses and budgets according to TMU policy\n\n•\tAbilities to provide initial
+    counsel, advise, and assist prospective students through the enrollment and financial
+    aid process.\n\n•\tCompetitive analysis and understanding of the competing schools
+    and the industry in general\n\n•\tWork remotely 90-100% of the time\n\n•\tRegular
+    travel is essential.\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -366,7 +378,7 @@ positions:
     with The Master's University is desirable.\n\n•\tAbility to establish and maintain
     effective working relationships with staff, faculty, vendors, students, &/or community
     members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
-    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas a personal
     relationship with Jesus Christ and a demonstrated commitment to the doctrinal
     position of TMU&S and a continuous exhibition of a desire to minister and serve
     others in varied capacities.\n \n•\tMust be able to get along with co-workers
@@ -383,51 +395,56 @@ positions:
     relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
     increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
     Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
-    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    include conferences, classes, courses, and programs.\n\nWORKING CONDITIONS\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\nMinimum Conditions
-    for Beginning Employment:\nPrior to beginning employment, in accordance with The
-    Master’s University policy and/or under federal or state law, all employees must:\n\n1.\tSign
-    and return an offer of “At Will” employment.\n\n2.\tPresent verification of their
-    identity and authorization to work in the United States.\n\nIf, because of a disability,
+    grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
+    Employment:\nPrior to beginning employment, in accordance with The Master’s University
+    policy and/or under federal or state law, all employees must:\n\n1.\tSign and
+    return an offer of “At Will” employment.\n2.\tPresent verification of their identity
+    and authorization to work in the United States.\n\nIf, because of a disability,
     you need special services or facilities in order to apply or interview for this
     opening please contact the Human Resources department.\n\nThe Master’s University
     & Seminary does not discriminate on the basis of race, color, national origin,
     ancestry, gender, age, marital status, veteran status or prior military service,
     medical condition, or any physical or mental disability.  We are committed to
     practicing principles of equal employment opportunity and diversity based upon
-    sovereign Biblical principles.\n\nApplication Process\n\nCompleted application
-    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\n\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Regional Admissions Counselor for Southern California (Part-time, seasonal)  (University)
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
+- title: Regional Admissions Counselor for Southern California (Part-time, temporary,
+    seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
-    region. So. Cal. Region may include portions of Los Angeles, San Diego, etc.\n\nEssential
-    Functions\n\n•\tSchedules appointments and hosts various recruitment activities
-    at college fairs, churches, high schools, conferences, organizations, families,
-    etc. to promote and market TMU to both the organizations and the students.\n\n•\tGives
-    engaging presentations and promotions to attract and entice students and partners.\n\n•\tCoordinates
-    with TMU admissions office to plan communications and travel, and to make strategic
-    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
-    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
-    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
-    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
-    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
-    to provide initial counsel, advise, and assist prospective students through the
-    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
-    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
-    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    region. So. Cal. Region may include portions of Los Angeles, San Diego, etc.  This
+    is a part time, temporary position.\n\nESSENTIAL FUNCTIONS\n\n•\tSchedules appointments
+    and hosts various recruitment activities at college fairs, churches, high schools,
+    conferences, organizations, families, etc. to promote and market TMU to both the
+    organizations and the students.\n\n•\tGives engaging presentations and promotions
+    to attract and entice students and partners.\n\n•\tCoordinates with TMU admissions
+    office to plan communications and travel, and to make strategic recommendations.\n\n•\tCompletes
+    regular computer data entry in recruitment database to assist in tracking new
+    inquiries.\n\n•\tMaintains a detailed log of contacts and monitors the level of
+    and changes in students’ interests.\n\n•\tResponsible to develop a full strategic
+    travel and presentation schedule\n\n•\tResponsible to track, request and report
+    all expenses and budgets according to TMU policy\n\n•\tAbilities to provide initial
+    counsel, advise, and assist prospective students through the enrollment and financial
+    aid process.\n\n•\tCompetitive analysis and understanding of the competing schools
+    and the industry in general\n\n•\tWork remotely 90-100% of the time\n\n•\tRegular
+    travel is essential.\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -435,7 +452,7 @@ positions:
     with The Master's University is desirable.\n\n•\tAbility to establish and maintain
     effective working relationships with staff, faculty, vendors, students, &/or community
     members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
-    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas a personal
     relationship with Jesus Christ and a demonstrated commitment to the doctrinal
     position of TMU&S and a continuous exhibition of a desire to minister and serve
     others in varied capacities.\n \n•\tMust be able to get along with co-workers
@@ -452,51 +469,56 @@ positions:
     relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
     increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
     Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
-    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    include conferences, classes, courses, and programs.\n\nWORKING CONDITIONS\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\nMinimum Conditions
-    for Beginning Employment:\nPrior to beginning employment, in accordance with The
-    Master’s University policy and/or under federal or state law, all employees must:\n\n1.\tSign
-    and return an offer of “At Will” employment.\n\n2.\tPresent verification of their
-    identity and authorization to work in the United States.\n\nIf, because of a disability,
+    grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
+    Employment:\nPrior to beginning employment, in accordance with The Master’s University
+    policy and/or under federal or state law, all employees must:\n\n1.\tSign and
+    return an offer of “At Will” employment.\n2.\tPresent verification of their identity
+    and authorization to work in the United States.\n\nIf, because of a disability,
     you need special services or facilities in order to apply or interview for this
     opening please contact the Human Resources department.\n\nThe Master’s University
     & Seminary does not discriminate on the basis of race, color, national origin,
     ancestry, gender, age, marital status, veteran status or prior military service,
     medical condition, or any physical or mental disability.  We are committed to
     practicing principles of equal employment opportunity and diversity based upon
-    sovereign Biblical principles.\n\nApplication Process\n\nCompleted application
-    form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\n\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
-- title: Regional Admissions Counselor for Northern California (Part-time, seasonal)  (University)
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
+- title: Regional Admissions Counselor for Northern California (Part-time, temporary,
+    seasonal)  (University)
   position: Staff
   about-body: "Responsible for representing TMU undergraduate programs to the Christian
     public, including to schools, churches, organizations, and camps, in order generate
     brand awareness and recruit students according to TMU goals for a defined geographic
-    region. Region is Northern California counties.\n\nEssential Functions\n\n•\tSchedules
-    appointments and hosts various recruitment activities at college fairs, churches,
-    high schools, conferences, organizations, families, etc. to promote and market
-    TMU to both the organizations and the students.\n\n•\tGives engaging presentations
-    and promotions to attract and entice students and partners.\n\n•\tCoordinates
-    with TMU admissions office to plan communications and travel, and to make strategic
-    recommendations.\n\n•\tCompletes regular computer data entry in recruitment database
-    to assist in tracking new inquiries.\n\n•\tMaintains a detailed log of contacts
-    and monitors the level of and changes in students’ interests.\n\n•\tResponsible
-    to develop a full strategic travel and presentation schedule\n\n•\tResponsible
-    to track, request and report all expenses and budgets according to TMU policy\n\n•\tAbilities
-    to provide initial counsel, advise, and assist prospective students through the
-    enrollment and financial aid process.\n\n•\tCompetitive analysis and understanding
-    of the competing schools and the industry in general\n\n•\tWork remotely 90-100%
-    of the time\n\n•\tRegular travel is essential.\n\n•\tOther duties as assigned\n\nCompetencies\n\n•\tMust
+    region. Region is Northern California counties.  This is a part time, temporary
+    position.\n\nESSENTIAL FUNCTIONS\n\n•\tSchedules appointments and hosts various
+    recruitment activities at college fairs, churches, high schools, conferences,
+    organizations, families, etc. to promote and market TMU to both the organizations
+    and the students.\n\n•\tGives engaging presentations and promotions to attract
+    and entice students and partners.\n\n•\tCoordinates with TMU admissions office
+    to plan communications and travel, and to make strategic recommendations.\n\n•\tCompletes
+    regular computer data entry in recruitment database to assist in tracking new
+    inquiries.\n\n•\tMaintains a detailed log of contacts and monitors the level of
+    and changes in students’ interests.\n\n•\tResponsible to develop a full strategic
+    travel and presentation schedule\n\n•\tResponsible to track, request and report
+    all expenses and budgets according to TMU policy\n\n•\tAbilities to provide initial
+    counsel, advise, and assist prospective students through the enrollment and financial
+    aid process.\n\n•\tCompetitive analysis and understanding of the competing schools
+    and the industry in general\n\n•\tWork remotely 90-100% of the time\n\n•\tRegular
+    travel is essential.\n\n•\tOther duties as assigned\n\nCOMPETENCIES\n\n•\tMust
     be able to travel to various locations in the defined geographic region (eg, state)
     and do presentations on the benefits of receiving an education from The Master's
     University.\n\n•\tMust be able to define one’s own hours and travel schedule within
@@ -504,7 +526,7 @@ positions:
     with The Master's University is desirable.\n\n•\tAbility to establish and maintain
     effective working relationships with staff, faculty, vendors, students, &/or community
     members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tHas
-    to be outgoing and extremely personable.\n\nQualifications\n\n•\tHas a personal
+    to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas a personal
     relationship with Jesus Christ and a demonstrated commitment to the doctrinal
     position of TMU&S and a continuous exhibition of a desire to minister and serve
     others in varied capacities.\n \n•\tMust be able to get along with co-workers
@@ -521,31 +543,171 @@ positions:
     relevant, beneficial options whenever possible.\n\n•\tAdvancement may include
     increase to 100% position, or to “Admissions Counselor”, “Admissions Regional
     Manager”, “Assistant Director”, or other roles within TMU. \n\n•\tTraining may
-    include conferences, classes, courses, and programs.\n\nWorking Conditions\n\n•\tWorking
+    include conferences, classes, courses, and programs.\n\nWORKING CONDITIONS\n\n•\tWorking
     Environment: Mostly travel, may including overnight stays. Typically 1-5 day travel,
     in the assigned region.\n\n•\tPhysical Demands: Must be able to lift, pull, push,
-    grasp and bend while lifting up to 30lbs.\n\nAdditional Information\n\nMinimum
+    grasp and bend while lifting up to 30lbs.\n\nMinimum Conditions for Beginning
+    Employment:\nPrior to beginning employment, in accordance with The Master’s University
+    policy and/or under federal or state law, all employees must:\n\n1.\tSign and
+    return an offer of “At Will” employment.\n2.\tPresent verification of their identity
+    and authorization to work in the United States.\n\nIf, because of a disability,
+    you need special services or facilities in order to apply or interview for this
+    opening please contact the Human Resources department.\n\nThe Master’s University
+    & Seminary does not discriminate on the basis of race, color, national origin,
+    ancestry, gender, age, marital status, veteran status or prior military service,
+    medical condition, or any physical or mental disability.  We are committed to
+    practicing principles of equal employment opportunity and diversity based upon
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
+- title: Admissions Counselor (Regular part time) (Seminary)
+  position: Staff
+  about-body: "\nThe Master’s Seminary is seeking an Admissions Counselor to serve
+    prospective students from the point of initial contact until they are an on-campus
+    student. Counselors need to have an intimate knowledge of all TMS programs (Dip.Th/B.Th/M.Div/Th.M/D.Min/Ph.D),
+    excellent people skills, and a strong work ethic.\n\n\nESSENTIAL FUNCTIONS\n\n•\tRecruits
+    prospective students by contacting prospects, explaining TMS programs, quoting
+    fees, and answering questions and concerns.\n•\tResponds to inquiry calls and
+    emails regarding detailed questions about the programs, financial aid, student
+    life, etc.\n•\tSchedules and hosts various recruitment activities at Seminary
+    fairs, churches, conferences, etc.\n•\tResponds to new inquiries via phone, email,
+    and instant messaging platform.\n•\tCompletes daily computer data entry in recruitment
+    database to assist in tracking new inquiries.\n•\tKeeps a detailed log of contacts
+    and monitors student interest.\n•\tCounsels, advises, and assists prospective
+    students through the enrollment and financial aid process.\n•\tPerforms preliminary
+    transcript assessment to determine students’ potential enrollment status and transfer
+    credits (if any) from other institutions.\n•\tConducts campus tours for visiting
+    students and families.  \n•\tRegular attendance and travel are required.\n•\tOther
+    duties as assigned.\n\nCOMPETENCIES\n\n•\tExcellent interpersonal communication
+    skills.\n•\tFamiliarity with The Master's Seminary.\n•\tMust be able to travel
+    to various locations and do presentations on the benefits of receiving an education
+    from The Master's Seminary.\n•\tDetail oriented.\n•\tMust be able to work in a
+    high paced office environment.\n•\tHas to be outgoing and extremely personable.\n\nQUALIFICATIONS\n\n•\tHas
+    a personal relationship with Jesus Christ and a demonstrated commitment to the
+    doctrinal position of TMU&S and a continuous exhibition of a desire to minister
+    and serve others in varied capacities. \n•\tMust be able to get along with co-workers
+    and the public.\n•\tEducation: Bachelor’s degree preferred.\n•\tExcellent writing
+    skills.\n•\tMust be able to type approximately 60 words per minute.\n•\tExperience:
+    1+ years in an educational institution preferred\n•\tDemonstrated ability to establish
+    and maintain effective working relationships with staff, faculty, vendors, students,
+    &/or community members of diverse academic, socio-economic, cultural, & ethnic
+    backgrounds.\n•\tProficient computer skills.\n•\tBasic mathematics and accounting
+    knowledge is necessary.\n•\tAbility to compose, proofread and edit correspondence.\n•\tPossess
+    excellent organizational skills.\n•\tExercise confidentiality, good judgment and
+    discernment.\n•\tService oriented and able to interface with many people is mandatory.\n•\tSelf-motivated
+    and proactive in communication with prospective students.\n•\tAbility to multitask
+    in an environment with many distractions is a must.\n•\tReading and comprehending
+    correspondence is imperative.\n•\tMust successfully pass a background investigation.\n\nWORKING
+    CONDITIONS\n\n•\tWorking Environment: Mostly indoors in a typical office environment,
+    with an occasional need to visit other areas on campus.  \n•\tPhysical Demands:
+    Must be able to lift, pull, push, grasp and bend while lifting up to 50lbs.\n•\tRepetitive
+    motions on a keyboard and looking at a computer monitor for an extended duration
+    of time is required.\n•\tTravel: Some travel involved including overnight stays.\n\nMinimum
     Conditions for Beginning Employment:\nPrior to beginning employment, in accordance
     with The Master’s University policy and/or under federal or state law, all employees
-    must:\n\n1.\tSign and return an offer of “At Will” employment.\n\n2.\tPresent
-    verification of their identity and authorization to work in the United States.\n\nIf,
-    because of a disability, you need special services or facilities in order to apply
-    or interview for this opening please contact the Human Resources department.\n\nThe
+    must:\n\n1.\tSign and return an offer of “At Will” employment.\n2.\tPresent verification
+    of their identity and authorization to work in the United States.\n\nIf, because
+    of a disability, you need special services or facilities in order to apply or
+    interview for this opening please contact the Human Resources department.\n\nThe
     Master’s University & Seminary does not discriminate on the basis of race, color,
     national origin, ancestry, gender, age, marital status, veteran status or prior
     military service, medical condition, or any physical or mental disability.  We
     are committed to practicing principles of equal employment opportunity and diversity
-    based upon sovereign Biblical principles.\n\nApplication Process\n\nCompleted
-    application form from The Master’s University.  This can be obtained at www.masters.edu/jobs
-    or by contacting\n\nThe Master’s University and Seminary\n\nHuman Resources Department\n\n21726
-    Placerita Canyon Road • Santa Clarita, California • 91321-1200\n\n(800) 568-6248
-    • (661) 362-2844 • FAX (661) 362-2717\n\nSelection Process:\n\nAll applications
-    will be reviewed by the Human Resources department.  Selected candidates will
-    be invited for a personal interview at The Master’s College.  Any expense incurred
-    in connection with these interviews will be the responsibility of the candidates.\n\nApplication
-    Procedures:\n\nAll documents included in your application remain the sole property
-    of The Master’s College and will not be returned.   Your file for this opening
-    will not be considered unless all requested items are submitted and are complete.\n\n"
+    based upon sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to
+    be considered for a position, a completed Application for Employment must be submitted
+    to the Human Resources office.  The application may be picked up in person in
+    the HR office or is available to be downloaded as a PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete.\n"
+- title: Admissions Counselor - Spanish Language Programs (Part time) (Seminary)
+  position: Staff
+  about-body: "The Master’s Seminary is seeking a Spanish-speaking admissions counselor
+    to serve prospective students from the point\nof initial contact until they are
+    a student. Counselors need to have an intimate knowledge of all TMS programs\n(Dip.Th/B.Th/M.Div/Th.M/D.Min/Ph.D),
+    in addition to the Spanish Master of Arts in Church Leadership.\n\nESSENTIAL FUNCTIONS\n•
+    Recruits prospective students by contacting prospects, explaining courses offered
+    by the Seminary, and quoting\nfees.\n• Responds to inquiry calls and emails regarding
+    detailed questions about programs, financial aid, student life,\netc.\n• Schedules
+    and hosts various recruitment activities at seminary fairs, churches, conferences,
+    etc.\n• Prepares correspondence, letters and emails to prospective students.\n•
+    Completes daily computer data entry in recruitment database to assist in tracking
+    new inquiries.\n• Keeps a detailed log of contacts and monitors the level of and
+    changes in students’ interests.\n• Counsels, advises, and assists prospective
+    students through the enrollment and financial aid process. Registers\nnew students
+    for first semester courses.\n• Performs preliminary transcript assessment to determine
+    students’ potential enrollment status and transfer\ncredits (if any) from other
+    institutions.\n• Conducts campus tours for visiting students and families.\n•
+    Functions as the designated contract person for the Spanish Language Program program.\n•
+    Regular attendance and travel are required.\n• Other duties as assigned\n\nCOMPETENCIES\n•
+    Proficient is speaking in English and Spanish.\n• Skilled at writing in English
+    and Spanish.\n• Familiarity with The Master's Seminary is imperative.\n• Must
+    be able to travel to various locations and do presentations on the benefits of
+    receiving an education from\nThe Master's Seminary.\n• Detail oriented.\n• Must
+    be able to work in a high paced office environment.\n• Has to be outgoing and
+    extremely personable.\n\nQUALIFICATIONS\n• Has a personal relationship with Jesus
+    Christ and a demonstrated commitment to the doctrinal position of TMU&S and a\ncontinuous
+    exhibition of a desire to minister and serve others in varied capacities.\n• Must
+    be able to get along with co-workers and the public.\n• Education: Bachelor’s
+    degree preferred.\n• Must be fluent in English and Spanish with respects to speaking
+    and writing.\n• Experience: 1+ years in an educational institution preferred\n•
+    Demonstrated ability to establish and maintain effective working relationships
+    with staff, faculty, vendors, students, &/or\ncommunity members of diverse academic,
+    socio-economic, cultural, & ethnic backgrounds.\n• Have computer proficiency.\n•
+    Basic mathematics and accounting knowledge is necessary.\n• Ability to compose,
+    proofread and edit correspondence.\n• Possess excellent organizational skills.\n•
+    Exercise confidentiality, good judgment and discernment.\n• Service oriented and
+    able to interface with many people is mandatory.\n• Multitasked in an environment
+    with many distractions is a must.\n• Reading and comprehending correspondence
+    is imperative.\n• Must successfully pass a background investigation.\n\nWORKING
+    CONDITIONS\n• Working Environment: Mostly indoors in a typical office environment,
+    with an occasional need to visit other areas on campus.\n• Physical Demands: Must
+    be able to lift, pull, push, grasp and bend while lifting up to 50lbs.\n• Repetitive
+    motions on a keyboard and looking at a computer monitor for an extended duration
+    of time is required.\n• Travel: Some travel involved including overnight stays.\n\nADDITIONAL
+    INFORMATION\nMinimum Conditions for Beginning Employment:\nPrior to beginning
+    employment, in accordance with The Master’s University policy and/or under federal
+    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
+    employment.\n2.\tPresent verification of their identity and authorization to work
+    in the United States.\n\nIf, because of a disability, you need special services
+    or facilities in order to apply or interview for this opening please contact the
+    Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
+    on the basis of race, color, national origin, ancestry, gender, age, marital status,
+    veteran status or prior military service, medical condition, or any physical or
+    mental disability.  We are committed to practicing principles of equal employment
+    opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
+    PROCESS\nIn order to be considered for a position, a completed Application for
+    Employment must be submitted to the Human Resources office.  The application may
+    be picked up in person in the HR office or is available to be downloaded as a
+    PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.  Your
+    completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete."
 layout: employment
 ---
 

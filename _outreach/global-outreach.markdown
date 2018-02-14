@@ -358,21 +358,13 @@ missions-resources-body: |-
 
   Werner, David. Where There Is No Doctor: A Village Health Care Handbook. Palo Alto, CA: The Hesperian Foundation, 1992.
 application-body: |-
-  ## 2018 Applications Now Available!
+  ## 2018 Applications Now Closed!
 
-  Applications will be completed on-line through our Managed Missions portal. Please find the link for the application below. The link for the references should be emailed to your reference. All references must be received prior to acceptance. Team notification will be made in most cases by January 15.
-
-  ## Global Outreach Teams
-
-  Application: [https://app.managedmissions.com/MissionApplication/Start/9561](https://app.managedmissions.com/MissionApplication/Start/9561)
-
-  Parent Reference: [http://masters.formstack.com/forms/Parent_ref_GO](http://masters.formstack.com/forms/Parent_ref_GO)
+  Parent Reference:  h[ttp://masters.formstack.com/forms/Parent_ref_GO](http://masters.formstack.com/forms/Parent_ref_GO)
 
   RA Reference: [http://masters.formstack.com/forms/RA_reference_GO](http://masters.formstack.com/forms/RA_reference_GO)
 
   Pastor Reference: [http://masters.formstack.com/forms/Pastor_ref_GO](http://masters.formstack.com/forms/Pastor_ref_GO)
-
-  \*Please note that completing an application does not guarantee a place on a team.
 faq-body: |-
   ### What is the priority deadline for applying to join a Global Outreach team?
 

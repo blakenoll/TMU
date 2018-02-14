@@ -5,53 +5,48 @@ parallax-img: "/images/Parallax10.jpg"
 Directors-greeting-body: "Welcome to The Master's University!      \n\nThe Campus
   Safety Department provides the University's in house private security and public
   safety services. In addition to working full-time for the University Safety Department,
-  many of the Safety employees are studying for the Pastorate at The Master's Seminary,
-  also led by our President, John MacArthur. All that to say, I want you to know that
-  you are served by a group of men who are not only concerned for your safety, but
-  genuinely have a Pastor's heart for you to grow in Christ.\n\nThe Safety Department
-  maintains a 24 hour presence on The Master's University property, and the Main Security
-  Booth is located across the street from the Gym, at the entrance to the residential
-  housing area. You will frequently see officers walking around the campus, locking
-  and unlocking buildings, and working within the security booth. There is also a
-  business office located on North Campus and open during posted business hours, where
-  you may gain assistance with any administrative business with our Department.\n\nThe
-  Master's University is blessed to be located within a quiet, residential community,
-  and the Los Angeles County Sheriff's Department charts our geographical area within
-  a low to negligible crime zone. It is not uncommon to see horses being ridden down
-  the sides of the road from one of the many beautiful ranches, or neighbors buzzing
-  past our campus on golf carts. There is even a historic movie studio located a ½
-  mile down Placerita Canyon Road where John Wayne films were made, and some Western
-  movies are still filmed today. Please drive the side streets slowly and carefully.
-  We work hard to maintain an excellent Christian testimony with the many homeowners
-  that surround our campus property.\n\nIt is our joy to serve you, and we hope to
-  make your years at TMU, as safe and secure as we possibly can. We have a motto in
-  the Safety Department and hope that both you and your parents embrace it. It is
-  based on Psalm 127:1, \"Unless the LORD guards the city, the watchman keeps awake
-  in vain.\" We place our trust in the hands of our sovereign God, and look upon ourselves
-  as one of many means He uses on this campus to bless and grow you, for His glory
-  and your good.\n\nPlease click on the many links from our home page for important
-  safety information related to our parking and general regulations, and more!\n\nAgain,
+  many of the Safety employees are studying at The Master's Seminary, also led by
+  our President, John MacArthur. All that to say, I want you to know that you are
+  served by a group of officers who are not only concerned for your safety, but genuinely
+  have a Pastor's heart for you to grow in Christ.\n\nThe Safety Department maintains
+  a 24 hour presence on The Master's University property, and the Main Security Booth
+  is located across the street from the Gym, at the entrance to the residential housing
+  area. You will frequently see officers walking around the campus, locking and unlocking
+  buildings, and working within the security booth. There is also a business office
+  located on North Campus and open during posted business hours, where you may gain
+  assistance with any administrative business with our Department.\n\nThe Master's
+  University is blessed to be located within a quiet, residential community, and the
+  Los Angeles County Sheriff's Department charts our geographical area within a low
+  to negligible crime zone. It is not uncommon to see horses being ridden down the
+  sides of the road from one of the many beautiful ranches, or neighbors buzzing past
+  our campus on golf carts. There is even a historic movie studio located a ½ mile
+  down Placerita Canyon Road where John Wayne films were made, and some Western movies
+  are still filmed today. Please drive the side streets slowly and carefully. We work
+  hard to maintain an excellent Christian testimony with the many homeowners that
+  surround our campus property.\n\nIt is our joy to serve you, and we hope to make
+  your years at TMU, as safe and secure as we possibly can. We have a motto in the
+  Safety Department and hope that both you and your parents embrace it. It is based
+  on Psalm 127:1, \"Unless the LORD guards the city, the watchman keeps awake in vain.\"
+  We place our trust in the hands of our sovereign God, and look upon ourselves as
+  one of many means He uses on this campus to bless and grow you, for His glory and
+  your good.\n\nPlease click on the many links from our home page for important safety
+  information related to our parking and general regulations, and more!\n\nAgain,
   on behalf of the entire Safety staff, I want to personally welcome you as a student
   of The Master's University!\n\n**C. Powell**\nDirector of Campus Safety\nThe Master's
   College\n661\\.362.2208"
-preparedness-body: |-
-  The Campus Safety Department works in close partnership with the Los Angeles County Fire and Sheriff's Department, who have stations within close proximity to the University. The Campus Safety Department plays one part in a larger Emergency Management Plan which the college incorporates to facilitate effective coordination of resources in any emergency. In the event of a life threatening emergency, cellular text messages to registered users will be distributed to communicate important instructions on how Faculty, Staff, and Students should respond.
-
-  ## Dare to Prepare
-
-  * [What to Do During an Earthquake](http://www.ready.gov/earthquakes)
-
-  * [What to Do During a Wildfire](http://www.ready.gov/wildfires)
-
-  * [View Video: "Hands only CPR"](http://handsonlycpr.eisenberginc.com/video/Hands-Only-Promo-English.wmv)
-
-  * [Los Angeles County Emergency Survival Guide](http://lacoa.org/pdf/emergencysurvivalguide-lowres.pdf) \[.pdf\]\
-
-  ## Questions or Comments
-
-  * E-mail: campussafety@masters.edu
-
-  * Guard Shack: (661) 362-2500
+preparedness-body: "The Campus Safety Department works in close partnership with the
+  Los Angeles County Fire and Sheriff's Department, who have stations within close
+  proximity to the University. The Campus Safety Department plays one part in a larger
+  Emergency Management Plan which the college incorporates to facilitate effective
+  coordination of resources in any emergency. In the event of a life threatening emergency,
+  cellular text messages to registered users will be distributed to communicate important
+  instructions on how Faculty, Staff, and Students should respond.\n\n## Dare to Prepare\n\n*
+  [What to Do During an Earthquake](http://www.ready.gov/earthquakes)\n\n* [What to
+  Do During a Wildfire](http://www.ready.gov/wildfires)\n\n* [View Video: \"Hands
+  only CPR\"](http://handsonlycpr.eisenberginc.com/video/Hands-Only-Promo-English.wmv)\n\n*
+  [Los Angeles County Emergency Survival Guide](http://lacoa.org/pdf/emergencysurvivalguide-lowres.pdf)
+  \n\n## Questions or Comments\n\n* E-mail: campussafety@masters.edu\n\n* Guard Shack:
+  (661) 362-2500"
 code-manual-body: |-
   [Campus Safety Codes](/campussafetycodes)
 
@@ -121,25 +116,43 @@ golf-cart-body: |-
 layout: campussafety
 ---
 
-## Campus Safety exists to glorify God and supports the mission and values of the institution, by our: 
+## Mission Statement 
 
-* Professionalism: To excel as a capable and skilled campus safety team
+The mission of the Department of Campus Safety is to serve and protect the people and property of The Master's University.  
 
-* Customer Service: To excel as a courteous and friendly campus safety team
+## Core Values 
 
-* Effectiveness: To excel as a competent and efficient campus safety team
+The Department of Campus Safety is committed to recruiting high integrity employees, exceeding the standards of the private security industry, and conducting ourselves at all times in a manner that accords with our community's shared Christian values.    
 
-## TMU Alert
+Our pledge to the campus community is to serve and protect with: 
 
-In the event of a life threatening emergency, faculty, staff, and students registered with the campus mass notification service will receive emergency alerts via text message to cell phone. Students may register for TMU Alert during semester pre-registration and any student or staff member may register or update a primary cell phone at any time by navigating to Self-Service / My Profile / Phone Numbers.
+* Professionalism: To excel as a capable and skilled university public safety team
 
-## Active Shooter Training
+* Customer Service: To excel as a courteous and friendly university public safety team
 
-The following video presentation (TMU LOGIN REQUIRED) is provided as a service to the campus community:[ Active Shooter Training Presentation.](https://mix.office.com/watch/d8mtp1ue02zp) Remember: Always Call 911 AND Campus Safety.
+* Effectiveness: To excel as a competent and efficient university public safety team
+
+## TMU Alert 
+
+TMU Alert is an emergency notification system that allows university officials to contact you during an emergency by sending messages via text message. 
+
+When an emergency occurs, authorized TMU officials will promptly notify you with instructions on where to go, what to do (or what not to do), whom to contact and other important information.
+
+Students and employees may opt-in to TMU Alert by navigating to Self-Service / My Profile / Phone Numbers and adding or updating your primary cell phone number. 
+
+## Active Shooter Awareness Training
+
+The following video presentations are provided as a service to the campus community:
+
+[Shots Fired On Campus Training Presentation](https://mix.office.com/watch/d8mtp1ue02zp) 
+
+[LASD: Surviving An Active Shooter Training Presentation](https://www.youtube.com/watch?v=DFQ-oxhdFjE)
+
+Remember: Call 911 AND Campus Safety.
 
 ## Twitter Feed
 
-[Follow @TMUCampusSafety](https://twitter.com/TMUCampusSafety)
+Follow [@TMUCampusSafety](https://twitter.com/TMUCampusSafety) for recent reports of crime and safety concerns on campus
 
 ## Campus Community "Need to know"
 
@@ -153,7 +166,7 @@ The following video presentation (TMU LOGIN REQUIRED) is provided as a service t
 
 [Campus Safety Codes (Vehicle and Safety Policies)](http://www.masters.edu/media/870173/campus-safety-codes_aug-2017.pdf "Campus Safety Codes_Aug 2017.pdf (1)")
 
-[Parking Map](http://www.masters.edu/visitorinfo/parking-information/)
+[Campus Map](http://www.masters.edu/uploads/campus_map_3.pdf)
 
 [Golf Cart Safety Training](#video)
 
