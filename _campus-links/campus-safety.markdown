@@ -140,11 +140,11 @@ When an emergency occurs, authorized TMU officials will promptly notify you with
 
 Students and employees may opt-in to TMU Alert by navigating to Self-Service / My Profile / Phone Numbers and adding or updating your primary cell phone number. 
 
-## Active Shooter Awareness Training
+## Training Presentations 
 
 The following video presentations are provided as a service to the campus community:
 
-Remember: Always call 911 and Campus Safety.
+[Student Film: TMU Campus Safety Department](https://youtube.com/watch?v=jDKW0gpBgco)
 
 [Shots Fired On Campus Training Presentation](https://mix.office.com/watch/d8mtp1ue02zp) 
 
@@ -155,8 +155,6 @@ Remember: Always call 911 and Campus Safety.
 Follow [@TMUCampusSafety](https://twitter.com/TMUCampusSafety) for recent reports of crime and safety concerns on campus
 
 ## Campus Community "Need to know"
-
-[Student Film: Introduction to The Campus Safety Department](https://youtube.com/watch?v=jDKW0gpBgco)
 
 [2017 The Master's University Annual Campus Security and Fire Safety Report](/media/870363/2017-annual-security-and-fire-safety-report.pdf)
 
