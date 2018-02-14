@@ -144,7 +144,7 @@ Students and employees may opt-in to TMU Alert by navigating to Self-Service / M
 
 The following video presentations are provided as a service to the campus community:
 
-[Student Film: TMU Campus Safety Department](https://youtube.com/watch?v=jDKW0gpBgco)
+[Student Film: TMU Campus Safety Department](https://www.youtube.com/watch?v=jDKW0gpBgco)
 
 [Shots Fired On Campus Training Presentation](https://mix.office.com/watch/d8mtp1ue02zp) 
 
