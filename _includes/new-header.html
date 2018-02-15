@@ -36,11 +36,12 @@
       <div class="container">
         <form action="{{ "/search" | prepend: site.url }}">
           <div class="row">
-            <div class="col s12"><input type="text" placeholder="Search" name="q" pattern=".{3,}" title="At least 3 characters" required autofocus></div>
+            <div class="col s12"><input id="aa-search-input" type="text" placeholder="Search" name="q" pattern=".{3,}" title="At least 3 characters" required autofocus></div>
             <div style="clear: both;"></div>
           </div>
         </form>
       </div>
+
     </div>
     <!-- <div class="modal-footer">
       <a href="#!" class="modal-action modal-close waves-effect waves-red btn-flat"><i class="material-icons">clear</i></a>

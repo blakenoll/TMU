@@ -12,11 +12,11 @@
   }); // end of document ready
 })(jQuery); // end of jQuery name space
 
+//Algolia Search Init
 var search = instantsearch({
-   // Replace with your own values
    appId: '2B9RC67QYJ',
    apiKey: '88450a0a5df5d1f6e7da2db0a56c70a5', // search only API key, no ADMIN key
-   indexName: 'getstarted_actors',
+   indexName: 'dev_masters',
    urlSync: true,
    searchParameters: {
      hitsPerPage: 10
