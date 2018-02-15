@@ -448,9 +448,10 @@ upcoming-events:
   date: 2018-05-03 00:00:00 Z
   description: 
 ensemble-body: |-
-  **Women’s Chamber Choir – California, Nevada & Idaho Tour**
+  ## **Women’s Chamber Choir – California, Nevada & Idaho Tour**
 
   ***March 9-18, 2018***
+
 
   **March 11**
 
@@ -470,6 +471,7 @@ ensemble-body: |-
 
   7:00 PM
 
+
   **March 12**
 
   **Calvary Baptist Church**
@@ -480,6 +482,7 @@ ensemble-body: |-
 
   7:00 PM
 
+
   **March 13**
 
   **Kuna Baptist Church**
@@ -489,6 +492,7 @@ ensemble-body: |-
   Kuna, ID 83634
 
   7:00 PM
+
 
   **March 14**
 
@@ -506,6 +510,7 @@ ensemble-body: |-
 
   7:00 PM
 
+
   **March 15**
 
   **Magic Valley Baptist Church**
@@ -515,6 +520,7 @@ ensemble-body: |-
   Buhl, ID 83316
 
   7:00 PM
+
 
   **March 16**
 
@@ -526,6 +532,7 @@ ensemble-body: |-
 
   7:00 PM
 
+
   **March 18**
 
   **Freedom’s Way Baptist Church**
@@ -536,9 +543,10 @@ ensemble-body: |-
 
   10:00 AM
 
-  **The Master’s Chorale – East Coast Tour**
+  ## **The Master’s Chorale – East Coast Tour**
 
   ***May 5-21, 2018***
+
 
   **May 6**
 
@@ -558,14 +566,16 @@ ensemble-body: |-
 
   6:00 PM
 
+
   **May 7**
 
   **Grace Bible Church**
 
   1200 Coalfield Road\
-   Midlothian, VA 23114
+  Midlothian, VA 23114
 
   7:00 PM
+
 
   **May 8**
 
@@ -576,6 +586,7 @@ ensemble-body: |-
   Ocean City, NJ 08226
 
   7:00 PM
+
 
   **May 9**
 
@@ -589,6 +600,7 @@ ensemble-body: |-
 
   7:00 PM
 
+
   **May 13**
 
   **Carnegie Hall – Stern Auditorium**
@@ -601,6 +613,7 @@ ensemble-body: |-
 
   2:00 PM
 
+
   **May 14**
 
   **First Baptist Church of Marathon**
@@ -610,6 +623,7 @@ ensemble-body: |-
   Marathon, NY 13803
 
   7:00 PM
+
 
   **May 15**
 
@@ -621,6 +635,7 @@ ensemble-body: |-
 
   7:00 PM
 
+
   **May 16**
 
   **Green Pond Bible Chapel**
@@ -630,6 +645,7 @@ ensemble-body: |-
   Newfoundland, NJ 07435
 
   7:00 PM
+
 
   **May 17**
 
@@ -641,6 +657,7 @@ ensemble-body: |-
 
   7:00 PM
 
+
   **May 18**
 
   **Sovereign Grace Baptist Church**
@@ -650,6 +667,7 @@ ensemble-body: |-
   Woodbridge (Dale City), VA 22193
 
   7:00 PM
+
 
   **May 20**
 
