@@ -780,7 +780,7 @@ Midlothian, VA 23114
 Ocean City, NJ 08226
 7:00 PM
 
-### May 9\*
+### May 9
 
 ***The Moody Center***
 *(Hosted by Community Bible Church)*
