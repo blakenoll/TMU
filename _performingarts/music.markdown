@@ -695,6 +695,8 @@ layout: pamusic
 2735 5th St
 Ceres, CA 95307
 10:30 AM
+
+
 *Foothill Christian Fellowship*
 1100 Sugar Pine Rd
 Meadow Vista, CA 95722
@@ -718,8 +720,8 @@ Kuna, ID 83634
 
 *Montana Avenue Baptist Church*
 3120 S Montana Ave
-
 Caldwell, ID 83605
+
 *Meridian First Baptist Church*
 428 W Pine Ave
 Meridian, ID 83642
