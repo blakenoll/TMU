@@ -1,7 +1,13 @@
 ---
 title: The Color of the Heart
 date: 2018-02-15 18:26:00 Z
+author: Sabrina Michael
+catergory: Athletics
+image: "/uploads/lowery.jpg"
+sm-image: "/uploads/lowery.jpg"
 ---
+
+# The Testimony of Coach Thomas Lowery 
 
 The classroom was dark and musty. Minute rays of sunlight snuck through the blinded windows, and the dust danced in its spotlight. It was silent. 
 
