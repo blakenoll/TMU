@@ -94,6 +94,8 @@ My shift ended shortly after, and I went home to get some sleep before my Africa
 
 ---
 
+![IMG_2703.JPG](/uploads/IMG_2703.JPG)
+
 My footsteps echoed through the empty corridors as I walked in for the night shift.  A solitary light from the cubicles made a portion of the room glow. It was exactly the one I was hoping for.
 
 “What have you done to me?” I demanded after I’d checked into my security station. “What do you mean?” Larry asked confused.
