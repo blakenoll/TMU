@@ -690,6 +690,7 @@ layout: pamusic
 *March 9-18, 2018*
 
 ### March 11
+
 *First Baptist Church of Ceres*
 2735 5th St
 Ceres, CA 95307
@@ -700,18 +701,21 @@ Meadow Vista, CA 95722
 7:00 PM
 
 ### March 12
+
 *Calvary Baptist Church*
 577 Walnut St
 Elko, NV 89801
 7:00 PM
 
 ### March 13
+
 *Kuna Baptist Church*
 1250 Linder Rd
 Kuna, ID 83634
 7:00 PM
 
 ### March 14
+
 *Montana Avenue Baptist Church*
 3120 S Montana Ave
 
@@ -722,26 +726,32 @@ Meridian, ID 83642
 7:00 PM
 
 ### March 15
+
 *Magic Valley Baptist Church*
 440 Clear Lakes Rd
 Buhl, ID 83316
 7:00 PM
 
 ### March 16
+
 *Parkside Bible Fellowship*
 485 Tedford Ln
 Fallon, NV 89406
 7:00 PM
 
 ### March 18
+
 *Freedom’s Way Baptist Church*
 17739 Sierra Hwy
 Canyon Country, CA 91351
 10:00 AM
+
 ## The Master’s Chorale – East Coast Tour
+
 *May 5-21, 2018*
 
 ### May 6
+
 *Colonial Baptist Church*
 6051 Tryon Road
 Cary, NC 27518
@@ -753,18 +763,21 @@ Winston-Salem, NC 27103
 6:00 PM
 
 ### May 7
+
 *Grace Bible Church*
 1200 Coalfield Road
 Midlothian, VA 23114
 7:00 PM
 
 ### May 8
+
 *Ocean City Baptist Church*
 603 10th St.
 Ocean City, NJ 08226
 7:00 PM
 
-### May 9*
+### May 9\*
+
 *The Moody Center*
 *(Hosted by Community Bible Church)*
 36 Winchester Rd,
@@ -772,6 +785,7 @@ Northfield, MA 01360
 7:00 PM
 
 ### *May 13*
+
 *Carnegie Hall – Stern Auditorium*
 881 7th Ave,
 New York, NY 10019
@@ -779,35 +793,39 @@ New York, NY 10019
 2:00 PM
 
 ### May 14
+
 *First Baptist Church of Marathon*
 5 Park St.
 Marathon, NY 13803
 7:00 PM
 
 ### May 15
+
 *Grace Bible Fellowship Church*
 1250 Colonial Rd,
 Harrisburg, PA 17112
 7:00 PM
 
 ### May 16
+
 *Green Pond Bible Chapel*
 1083 Green Pond Rd.
 Newfoundland, NJ 07435
 7:00 PM
 
 ### May 17
+
 *Newtown Bible Church*
 35 Sugar Street
 Newtown, CT 06470
 7:00 PM
 
 ### May 18
+
 *Sovereign Grace Baptist Church*
 14703 Silverdale Drive
 Woodbridge (Dale City), VA 22193
 7:00 PM
-
 
 ### May 20
 
