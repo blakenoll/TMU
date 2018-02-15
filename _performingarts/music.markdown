@@ -689,7 +689,7 @@ layout: pamusic
 
 ***March 9-18, 2018***
 
-**March 11**
+### **March 11**
 
 **First Baptist Church of Ceres**
 
@@ -707,7 +707,7 @@ Meadow Vista, CA 95722
 
 7:00 PM
 
-**March 12**
+### **March 12**
 
 **Calvary Baptist Church**
 
@@ -717,7 +717,7 @@ Elko, NV 89801
 
 7:00 PM
 
-**March 13**
+### **March 13**
 
 **Kuna Baptist Church**
 
@@ -727,7 +727,7 @@ Kuna, ID 83634
 
 7:00 PM
 
-**March 14**
+### **March 14**
 
 **Montana Avenue Baptist Church**
 
@@ -743,7 +743,7 @@ Meridian, ID 83642
 
 7:00 PM
 
-**March 15**
+### **March 15**
 
 **Magic Valley Baptist Church**
 
@@ -753,7 +753,7 @@ Buhl, ID 83316
 
 7:00 PM
 
-**March 16**
+### **March 16**
 
 **Parkside Bible Fellowship**
 
@@ -763,7 +763,7 @@ Fallon, NV 89406
 
 7:00 PM
 
-**March 18**
+### **March 18**
 
 **Freedom’s Way Baptist Church**
 
@@ -777,7 +777,7 @@ Canyon Country, CA 91351
 
 ***May 5-21, 2018***
 
-**May 6**
+### **May 6**
 
 **Colonial Baptist Church**
 
@@ -785,7 +785,7 @@ Canyon Country, CA 91351
 
 Cary, NC 27518
 
-8:30 | 9:45 | 11:10 AM
+8:30,  9:45,  11:10 AM
 
 **Twin Cities Bible Church**
 
@@ -795,7 +795,7 @@ Winston-Salem, NC 27103
 
 6:00 PM
 
-**May 7**
+### **May 7**
 
 **Grace Bible Church**
 
@@ -804,7 +804,7 @@ Midlothian, VA 23114
 
 7:00 PM
 
-**May 8**
+### **May 8**
 
 **Ocean City Baptist Church**
 
@@ -814,7 +814,7 @@ Ocean City, NJ 08226
 
 7:00 PM
 
-**May 9**
+### **May 9**
 
 **The Moody Center**
 
@@ -826,7 +826,7 @@ Northfield, MA 01360
 
 7:00 PM
 
-**May 13**
+### **May 13**
 
 **Carnegie Hall – Stern Auditorium**
 
@@ -838,7 +838,7 @@ New York, NY 10019
 
 2:00 PM
 
-**May 14**
+### **May 14**
 
 **First Baptist Church of Marathon**
 
@@ -848,7 +848,7 @@ Marathon, NY 13803
 
 7:00 PM
 
-**May 15**
+### **May 15**
 
 **Grace Bible Fellowship Church**
 
@@ -858,7 +858,7 @@ Harrisburg, PA 17112
 
 7:00 PM
 
-**May 16**
+### **May 16**
 
 **Green Pond Bible Chapel**
 
@@ -868,7 +868,7 @@ Newfoundland, NJ 07435
 
 7:00 PM
 
-**May 17**
+### **May 17**
 
 **Newtown Bible Church**
 
@@ -878,7 +878,7 @@ Newtown, CT 06470
 
 7:00 PM
 
-**May 18**
+### **May 18**
 
 **Sovereign Grace Baptist Church**
 
@@ -888,7 +888,9 @@ Woodbridge (Dale City), VA 22193
 
 7:00 PM
 
-**May 20**
+### 
+
+### **May 20**
 
 AM Service time and location TBA
 
