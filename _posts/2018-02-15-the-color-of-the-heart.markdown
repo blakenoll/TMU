@@ -186,4 +186,4 @@ The Lord put some burdens on me, but knew I’d be able to take them and come ou
 
 Through the trials, I discovered a passion for basketball and, eventually, that passion led to something people search their whole life for, a calling. My calling is coaching. And, I’ve gotten to fulfill that calling in many places but am now graced to fulfill that here, at The Master’s University where I get to coach young men to not only be excellent players, but excellent, genuine and joyful men of faith. I get such a joy out of doing what I do.
 
-Coach Thomas Lowery is Assistant Coach for the nationally No. 1 ranked men’s basketball team at The Master’s University. For schedules, bios, and team information, go to [GoMustangs.com](gomustangs.com).
+Coach Thomas Lowery is Assistant Coach for the nationally No. 1 ranked men’s basketball team at The Master’s University. For schedules, bios, and team information, go to [GoMustangs.com](http://gomustangs.com).
