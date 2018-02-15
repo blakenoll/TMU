@@ -746,6 +746,8 @@ Fallon, NV 89406
 Canyon Country, CA 91351
 10:00 AM
 
+<br/>
+
 ## The Master’s Chorale – East Coast Tour
 
 *May 5-21, 2018*
