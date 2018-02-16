@@ -80,6 +80,9 @@ collections:
   outreach:
     title: outreach
     output: true
+  student-career-center:
+    title: student career center
+    output: true
   undergrad-admissions:
     title: undergrad admissions
     output: true
