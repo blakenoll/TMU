@@ -708,6 +708,58 @@ positions:
     documents included in your application remain the sole property of The Master’s
     University & Seminary and will not be returned.   Your file for this opening will
     not be considered unless all requested items are submitted and are complete."
+- title: Conference Representative (Casual labor as needed) (Seminary)
+  position: Staff
+  about-body: "The Master’s Seminary is seeking Conference Representatives to serve
+    prospective students at various conferences\nlocally and around the country. Representatives
+    need to have a working knowledge of TMS programs, excellent people\nskills, an
+    outgoing personality, and a willingness to travel.\n\nESSENTIAL FUNCTIONS\n• Represent
+    TMS at various conferences on behalf of the admissions department.\n• Have a working
+    knowledge of all TMS programs.\n• Recruit prospective students by explaining TMS
+    programs, quoting fees, and answering questions and concerns.\n\nCOMPETENCIES\n•
+    Excellent interpersonal communication skills.\n• Familiarity with The Master's
+    Seminary.\n• Must be able to travel to various locations and explain the benefits
+    of receiving an education from The Master's\nSeminary.\n• Has to be outgoing and
+    extremely personable.\n\nQUALIFICATIONS\n• Has a personal relationship with Jesus
+    Christ and a demonstrated commitment to the doctrinal position of TMUS\nand a
+    continuous exhibition of a desire to minister and serve others in varied capacities.\n•
+    Must be able to get along with co-workers and the public.\n• Education: Bachelor’s
+    degree preferred.\n• Demonstrated ability to establish and maintain effective
+    working relationships with staff, faculty, vendors,\nstudents, &/or community
+    members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n•
+    Basic mathematics and accounting knowledge is necessary.\n• Exercise confidentiality,
+    good judgment and discernment.\n• Service oriented and able to interface with
+    many people is mandatory.\n• Proactive communication with prospective students.\n•
+    Reading and comprehending correspondence is imperative.\n• Must successfully pass
+    a background investigation.\n\nWORKING CONDITIONS\n• Working Environment: Due
+    to travel, working environment includes car, airport, plane, hotel, and conference
+    locations.\n• Physical Demands: Must be able to lift, pull, push, grasp and bend
+    while lifting up to 50lbs.\n• Travel: Travel involved including overnight stays.\n\nADDITIONAL
+    INFORMATION\nMinimum Conditions for Beginning Employment:\nPrior to beginning
+    employment, in accordance with The Master’s University policy and/or under federal
+    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
+    employment.\n2.\tPresent verification of their identity and authorization to work
+    in the United States.\n\nIf, because of a disability, you need special services
+    or facilities in order to apply or interview for this opening please contact the
+    Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
+    on the basis of race, color, national origin, ancestry, gender, age, marital status,
+    veteran status or prior military service, medical condition, or any physical or
+    mental disability.  We are committed to practicing principles of equal employment
+    opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
+    PROCESS\nIn order to be considered for a position, a completed Application for
+    Employment must be submitted to the Human Resources office.  The application may
+    be picked up in person in the HR office or is available to be downloaded as a
+    PDF from the web at http://www.masters.edu/campuslinks/employment.aspx.  Your
+    completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete."
 layout: employment
 ---
 
