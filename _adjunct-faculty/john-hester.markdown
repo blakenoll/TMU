@@ -1,6 +1,7 @@
 ---
 title: John Hester
 date: 2018-01-23 19:30:00 Z
+image: "/uploads/Hester,%20J.jpg"
 department: Music
 job-title: 'Adjunct Faculty, String '
 degrees:
