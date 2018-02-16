@@ -1,6 +1,7 @@
 ---
 title: Janet Crouch Shulman
 date: 2018-01-23 19:31:00 Z
+department: Music
 position: Adjunct Faculty, Cello
 ---
 
