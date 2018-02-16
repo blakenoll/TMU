@@ -20,7 +20,17 @@ var search = instantsearch({
    urlSync: true,
    searchParameters: {
      hitsPerPage: 10
-  }
+  },
+  searchFunction: function(helper) {
+    var hits = $('.search-results');
+    if (helper.state.query === '') {
+      $('.search-results').hide();
+      return;
+    }
+    helper.search();
+    $('.search-results').show();
+  },
+
 });
 
 search.addWidget(
