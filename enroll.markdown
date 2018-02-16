@@ -21,17 +21,19 @@ If you’re attending Admitted Students’ Day you do not need to schedule an ad
 
 If you cannot attend Admitted Students’ Day, you can still schedule a telephone advising appointment for the same day, April 22nd . Telephone and in-person advising appointments will also be available Monday-Thursday throughout the rest of the summer, starting April 24th . \*After April 22nd. transfers won’t be able to register until May 15th . 2 Students not attending Admitted Students’ Day should follow these steps to sign up for an advising appointment:
 
-1. Log into Self-Service using your username and password (www.masters.edu/selfservice) 
+1. Log into Self-Service using your username and password (www.masters.edu/selfservice)
 
-2. Click on “Advising Appointments” in the left hand menu (see screen shot on page 2) 
+2. Click on “Advising Appointments” in the left hand menu (see screen shot on page 2)
 
-3. A calendar will appear with available appointment times. Select a date, time, and method (telephone or in-person) that works best for you. An email will confirm your scheduled advising appointment. 
+3. A calendar will appear with available appointment times. Select a date, time, and method (telephone or in-person) that works best for you. An email will confirm your scheduled advising appointment.
 
 4. If your advising appointment is by phone, it is your responsibility to call at the time of your appointment. Our phone number is 661-362-2363
 
-**NOTE: **Pre-Registration** MUST** be completed and the “Confirmation” page along with your $200 tuition deposit must be received in the Office of Student Accounts BEFORE you talk with your academic advisor.
+**NOTE: Pre-Registration** MUST be completed and the “Confirmation” page along with your $200 tuition deposit must be received in the Office of Student Accounts BEFORE you talk with your academic advisor.
 
-Please don’t hesitate to contact us, if you have any questions.
+## Please don’t hesitate to contact us, if you have any questions.
+
+---
 
 ### REMINDERS:
 
