@@ -2,6 +2,7 @@
 title: Kenneth Mays
 date: 2017-05-02 18:27:00 Z
 job-title: Adjunct Faculty, Piano
+image: "/uploads/Mays,%20K.jpg"
 department: Music
 degrees:
 - B.M., Fort Wayne Bible College

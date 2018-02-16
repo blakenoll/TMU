@@ -959,7 +959,7 @@ ensembles:
 
     The 70-member university orchestra personnel come from a mixture of both talented college students and accomplished instrumentalists from the northern Los Angeles area, many of whom are professional musicians. They perform concerts with musical literature ranging from classical and sacred to film and musicals. These concerts are provided throughout the academic year with some events in joint efforts with the university choirs.
 - name: Opera Workshop
-  image: 
+  image: "/uploads/Opera%20Scenes%2008%5B1%5D.jpg"
   body: 'Directed by TMU voice faculty, the Opera Workshop is a semester project that
     concludes in a staged production of selected opera scenes or a full opera. Works
     of the masters as well as more contemporary composers are represented. All scenes

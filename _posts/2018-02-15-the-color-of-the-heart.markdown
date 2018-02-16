@@ -60,7 +60,7 @@ I sensed a weighted silence in the room, and snapped back to the present. My mot
 
 “Mrs. Lowery, this is the best thing for him.” But, she knew that already.
 It wasn’t just to escape the gangs, but they didn’t need to know that. I joined the Marine Corp. because it was the most intense branch of the military, and I needed to prove to myself I was a man. I needed to prove that I was tough and could defend myself. I needed to leave behind everything that happened to me.
-However, within months of training and shipping off to Japan, the memories hunted me down. I drowned myself in alcohol, cigarettes and a string of failed relationships, and, ironically, basketball. For one hour of my day, I could damn up the overwhelming flood— the disgust, shame, guilt, memories, hatred, fear, anger, and emptiness — by being on that court.
+However, within months of training and shipping off to Japan, the memories hunted me down. I drowned myself in alcohol, cigarettes and a string of failed relationships, and, ironically, basketball. For one hour of my day, I could dam up the overwhelming flood— the disgust, shame, guilt, memories, hatred, fear, anger, and emptiness — by being on that court.
 
 ---
 
