@@ -44,5 +44,4 @@ layout: library
 ---
 
 [Happy Birthday Mr. President](https://www.archives.gov/news/topics/washingtons-birthday)
-![gw-catalog-portal.png](/uploads/gw-catalog-portal.png)
 ![Washington blue.png](/uploads/Washington%20blue.png)
