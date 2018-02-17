@@ -43,4 +43,4 @@ NEWS: |-
 layout: library
 ---
 
-Happy Birthday[(https://www.archives.gov/news/topics/washingtons-birthday)] Mr. President 
+[Happy Birthday Mr. President](https://www.archives.gov/news/topics/washingtons-birthday) 
