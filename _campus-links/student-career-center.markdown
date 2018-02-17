@@ -312,6 +312,7 @@ internship-body: |-
 layout: studentcareercenter
 ---
 
+<a class="btn btn-navy" href="https://goo.gl/forms/xxifsE9R0CgXhfjr2" target="_blank">Workshop Sign Up</a>
 
 Welcome to the Career Services Department here at The Master's University. Obtaining a degree here at Master's is a lifechanging experience and the knowledge you gain while on this journey can take you far in your post-graduate opportunities. However, holding a diploma after four years of intensive efforts won't necessarily guarantee you a profitable career. It is important to fortify some essential strategies and skills that will make you more employable and ready to compete for jobs in a real world that is changing every day.
 
@@ -320,5 +321,3 @@ It is our pleasure to provide assurance and meaningful assistance to our student
 
 * Bill Bolde
   Executive Director, Career Services and Advancement
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0fOGtsDiFZXItHyMsPSVb9s_2G16kEleqmkBWi9v64xl_MA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
