@@ -43,4 +43,5 @@ NEWS: |-
 layout: library
 ---
 
-[Happy Birthday Mr. President](https://www.archives.gov/news/topics/washingtons-birthday) 
+[Happy Birthday Mr. President](https://www.archives.gov/news/topics/washingtons-birthday)
+![gw-catalog-portal.png](/uploads/gw-catalog-portal.png) 
