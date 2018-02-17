@@ -43,4 +43,4 @@ NEWS: |-
 layout: library
 ---
 
-![thisone.jpg](/uploads/thisone.jpg)
+Happy Birthday[](https://www.archives.gov/news/topics/washingtons-birthday) Mr. President 
