@@ -33,15 +33,6 @@ links:
 - link: http://masters.libguides.com/welcome
   txt: About
   image: "/images/Library_About.png"
-NEWS: |-
-  Winterim Library Hours
-  January 8th - 11th = 12:00 p.m. - 6:00 p.m.
-  January 12th = 12:00 p.m. - 6:00 p.m.
-  Closed Saturday & Sunday
-  Closed Monday January 15th Martin Luther King Jr. Day
-
-  Regular Semester hours will resume on Tuesday, January 16th
-  Circulation Desk: 661.362.2278
 layout: library
 ---
 
