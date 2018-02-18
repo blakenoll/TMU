@@ -13,6 +13,7 @@ hours:
   hours: 12:00pm - 7:00pm
 - day: Sunday
   hours: 8:00pm - 12:00am
+  Circulation Desk: 661.362.2278
 links:
 - link: http://masters.libguides.com/
   txt: Research Guides
@@ -40,6 +41,7 @@ NEWS: |-
   Closed Monday January 15th Martin Luther King Jr. Day
 
   Regular Semester hours will resume on Tuesday, January 16th
+  Circulation Desk: 661.362.2278
 layout: library
 ---
 
