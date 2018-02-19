@@ -113,6 +113,20 @@ golf-cart-body: |-
   * Guard Shack: (661) 362-2500
 
   [Compliance & Safety Training Videos Website](http://complianceandsafety.com/)
+Daily Crime and Fire Log: "## Daily Crime and Fire Log\n\nThe Daily Crime Log includes
+  a record of all crimes reported to campus safety that occurred anywhere within the
+  department’s patrol jurisdiction and all fires reportedly occurring in the residence
+  halls over the past 60 days. The log is designed to provide timelier details and
+  greater information to the campus community than the annual statistical disclosures.
+  \n\nThe most recent 60 days of the log is available on the campus safety web page
+  but the log is also available for public inspection upon request during regular
+  business hours at the campus safety business office.  Older portions of the log
+  are available within two business days of request at the same location. Note: If
+  a log entry disposition changes after 60 days have passed the log may not reflect
+  those changes. In addition, under specific circumstances, the campus safety department
+  may temporarily withhold information in the log. \n\nIn general, entries in this
+  log will be given one of the following dispositions to reflect the current status
+  of the incident: \n"
 layout: campussafety
 ---
 
