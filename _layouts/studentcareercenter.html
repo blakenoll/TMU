@@ -35,10 +35,10 @@ layout: default
           </div>
     <div class="col s12 m9 pull-m3">
 
-      <h2>Welcome to {{ page.title }}</h2>
+      <h2>Welcome to the{{ page.title }}</h2>
       {{ content }}
       {% for staff in page.staff %}
-      <div class="row">
+      <div class="row spacing">
         <div class="col s12 m3 center">
           <img class="circle" src="{{staff.image}}" alt="" width="100%">
           <h1 class="center">{{staff.name}}</h1>
@@ -49,6 +49,22 @@ layout: default
         </div>
       </div>
       {% endfor %}
+      <div class="row">
+        <div class="col s12">
+          {% for page in site.student-career-center %}
+          {% unless page.title == 'Student Career Center' %}
+
+          <a href="{{page.url}}">
+            <div class="col s6">
+              <div class="card-panel">
+                {{page.title}}
+              </div>
+            </div>
+          </a>
+          {% endunless %}
+          {% endfor %}
+        </div>
+      </div>
       </div>
   </div>
 
