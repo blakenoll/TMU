@@ -5,7 +5,7 @@ parallax-img: "/images/Parallax6.jpg"
 staff:
 - name: Bill Bolde
   title: Executive Director, Career Services & Advancement
-  image: 
+  image: "/uploads/Bolde,%20BIll.jpg"
   bio-body: |-
     *The goal of The Master’s University **Office of Career Services** is to empower students to become dynamic agents of their own professional preparation and career outcomes. We want to help students with the formation of their career plans, which starts with helping them to identify their passions, their competencies, and their aptitudes.*
 
