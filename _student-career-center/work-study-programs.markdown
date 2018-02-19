@@ -25,6 +25,48 @@ employment-body: "**On-Campus Employment (non-Work Study)**\n\nThe Master’s Un
   retailers including Barnes & Noble, Target, Edwards Cinemas, VONS, HomeGoods, Corner
   Bakery, Whole Foods, SEARS, Bath and Body Works … there are literally hundreds of
   employers in this area, most of which have online job applications!*"
+nested-menu:
+- title: "I.\tUnderstanding Your Work Study Program"
+  body: |-
+    The Master’s University operates two Work Study programs, the first being the On-Campus Work Study Program and the second being the Off-Campus Work Study Program. The Master’s University Office of Student Employment (OSE) is passionate about fortifying our student’s Biblical education in providing professional development outside the classroom as our students secure meaningful employment both inside the TMU campus, and outside in our local community.
+
+    **On-Campus Work Study**
+
+    Students participating in the *On-Campus Work Study Program* will interview with and be hired by the various departments in administration, academics and campus services to serve their campus and classmates.
+
+    **Off-Campus Work Study\***
+
+    Students participating in the
+
+    *Off-Campus Work Study Program* will interview with and be hired by the various professional businesses, companies and ministries to serve their campus in the local community.
+
+    *\*personal vehicle required*
+- title: "II.\tWork Study Credits and Tuition"
+  body: |-
+    Work Study is awarded through the Office of Financial Aid. At the beginning of the semester, 80% of the students Work Study Award (by semester) is applied to their Student Account. Throughout the semester, the student will “work off” the amount applied in advance to their Student Account through their Work Study job.
+
+    It is ***the student’s responsibility*** to secure a Work Study job to earn the amount applied to their Student Account. The Master’s University Office of Student Employment assists to provide Work Study students with job opportunities; we also partner with departmental supervisors and student employees in scheduling hours and tracking income so that the student employee remains on track to pay off the balance on their Student Account by the end of semester, or academic year.
+
+    Work Study students are required to pay off 80% of their Work Study award.
+
+    Work Study students are *eligible* to earn 100% of their Work Study award.
+
+    * \*\*$3,000 \*\*Award Level = 8-10 hours/week
+
+    * Annual 80% Deduction Goal = $2,400 ($1,200 FALL \+ $1,200 SPRING)\
+
+
+    * **$6,000** Award Level = 15 – 17 hours/week
+
+    * Annual 80% Deduction Goal = $4,800 ($2,400 FALL \+ $2,400 SPRING)
+
+    It is not possible for students to receive 100% of their award up-front.
+
+    The Master’s University pays Work Study students in *advance* for work they have yet to do! In addition, Work Study is taxable income, meaning that a student’s award level is $3,000 or $6,000 (depending upon your award) *before* taxes. Work Study students are exempt from all California state taxes (except in the case of unusually high earnings \[e.g. 25\+ hours a week\]).
+
+    Both on and off campus employers have created jobs to match out student’s award levels, and are very flexible in scheduling students appropriately to reach their award level/goal. It’s important for students to communicate with their supervisor, or the Office of Student Employment, if at any time they feel they are falling behind in work or earnings.
+- title: 
+  body: 
 ---
 
 **TMU Work Study Programs**
