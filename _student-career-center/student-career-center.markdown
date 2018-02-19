@@ -1,6 +1,7 @@
 ---
 title: Student Career Center
 date: 2018-02-19 18:19:00 Z
+published: false
 staff:
 - name: Bill Bolde
   title: Executive Director, Career Services & Advancement
