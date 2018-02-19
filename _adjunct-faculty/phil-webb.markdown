@@ -1,6 +1,7 @@
 ---
 title: Phil Webb
 date: 2018-01-23 18:33:00 Z
+image: "/uploads/Webb,%20P.jpg"
 department: Music
 job-title: Guest Faculty, Voice
 ---

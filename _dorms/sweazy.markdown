@@ -21,6 +21,7 @@ ra:
     ### Some Favorite Things:
 
     Marie enjoys getting to know people deeply through normal life activities. Especially sunset watching, walks, and talks in average places. She is obsessed with her three nephews, Phoenix, Jack and Oliver. She loves a good documentary, the local church, the color gray, and evangelism.
+  image: "/uploads/Cudd,%20M.jpg"
 banner-img: "/images/Sweazy_Banner.jpg"
 ---
 
