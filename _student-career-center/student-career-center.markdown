@@ -25,6 +25,7 @@ staff:
      a professional foundation consistent with their God-given talents. It is one of our greatest joys\
      to see students and graduates find purpose and joy in a career or life position through which they\
      fulfill God’s calling in their lives.*
+layout: studentcareercenter
 ---
 
 The Master’s University Student Career Center combines the resources and strengths of both the Office of Student Employment and the Office of Career Services to form a vibrant, new department designed to actively engage and support our student body in their journey towards professional excellence and success.
