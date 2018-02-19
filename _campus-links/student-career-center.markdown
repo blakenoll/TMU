@@ -5,7 +5,7 @@ parallax-img: "/images/Parallax6.jpg"
 staff:
 - name: Bill Bolde
   title: Executive Director, Career Services & Advancement
-  image:
+  image: 
   bio-body: |-
     *The goal of The Master’s University **Office of Career Services** is to empower students to become dynamic agents of their own professional preparation and career outcomes. We want to help students with the formation of their career plans, which starts with helping them to identify their passions, their competencies, and their aptitudes.*
 
@@ -14,7 +14,7 @@ staff:
     *It is our pleasure to provide assurance and meaningful assistance to our students here at The Master’s University, and to help propel them into amazing opportunities for future success!*
 - name: Elise Aydelotte
   title: Manager, Human Resources & Student Employment
-  image:
+  image: 
   bio-body: |-
     *The mission of The Master’s University **Office of Student Employment** is to direct students to \
      employment opportunities which will allow them to develop valuable workplace skills, and \
@@ -106,7 +106,7 @@ work-study-part-body: |-
   ## More Information
 
   To request more information about the Off-Campus Work Study Program, please email the [Office of Student Employment and Professional Development](mailto:OSEPD@Masters.edu) or call (800) 568-6248 ext. 3716.
-internet-resources-body:
+internet-resources-body: 
 student-career-body: |-
   ## General Tips
 
