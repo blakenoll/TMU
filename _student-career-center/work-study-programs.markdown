@@ -1,5 +1,6 @@
 ---
 title: Work Study Programs
+layout: careerservices
 date: 2018-02-19 18:33:00 Z
 employment-body: "**On-Campus Employment (non-Work Study)**\n\nThe Master’s University
   on-campus student jobs (non-Work Study) are concentrated in general labor, and specialized
