@@ -124,6 +124,7 @@ nested-menu:
   body: |
     The Master’s University welcomes employers and approved ministries to recruit individually on campus during the academic school year. Please contact The Master’s University by emailing the [Office of Student Employment](mailto:OSEPD@Masters.edu), or by calling (661) 362-2238 to request more information on visiting and recruiting on our campus.\
     \
+layout: careerservices
 ---
 
 The Master’s University has partnered with hundreds of individuals, companies, groups, foundations and other institutions in Santa Clarita and surrounding areas for more than 20 years. At the heart of these partnerships is the desire to provide meaningful opportunities for our students to work and volunteer in their local communities, whether here in Southern California, back in their home states, or abroad.
