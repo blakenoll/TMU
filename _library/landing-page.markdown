@@ -37,4 +37,4 @@ layout: library
 ---
 
 [Happy Birthday Mr. President](https://www.archives.gov/news/topics/washingtons-birthday)
-![Washington blue.png](/uploads/Washington%20blue.png)
+<img src="/uploads/Washington%20blue.png" alt="Washington blue.png" height="50" width="50" >
