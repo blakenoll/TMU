@@ -1,7 +1,6 @@
 ---
 title: Restoring a President's Day
 date: 2018-02-19 03:57:00 Z
-published: false
 author: Dr. Gregg Frazer, Professor of Political Studies
 catergory: Life At TMU
 image: "/uploads/PRESDAY.jpg"
