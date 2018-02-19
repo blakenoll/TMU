@@ -37,29 +37,17 @@ layout: default
 
       <h2>Welcome to {{ page.title }}</h2>
       {{ content }}
-      <ul class="collapsible" data-collapsible="accordion">
-          <li>
-            <div class="collapsible-header">Work Study</div>
-            <div class="collapsible-body"><span>{{ page.work-study-body | markdownify }}</span></div>
-          </li>
-          <li>
-            <div class="collapsible-header">Work Study Partnerships</div>
-            <div class="collapsible-body"><span>{{ page.work-study-part-body | markdownify }}</span></div>
-          </li>
-          <li>
-            <div class="collapsible-header">Student Career Library</div>
-            <div class="collapsible-body"><span>{{ page.student-career-body | markdownify }}</span></div>
-          </li>
-          <li>
-            <div class="collapsible-header">Choosing a Major</div>
-            <div class="collapsible-body"><span>{{ page.choosing-a-major-body | markdownify }}</span></div>
-          </li>
-          <li>
-            <div class="collapsible-header">Internships</div>
-            <div class="collapsible-body"><span>{{ page.internship-body | markdownify }}</span></div>
-          </li>
-
-        </ul>
+      {% for staff in page.staff %}
+      <div class="row">
+        <div class="col s12 m3 center">
+          <img class="circle" src="{{staff.image}}" alt="" width="100%">
+          <h1 class="center">{{staff.name}}</h1>
+          <span>{{staff.title}}</span>
+        </div>
+        <div class="col s12 m9">
+          {{ staff.bio-body | markdownify }}
+        </div>
+      </div>
       </div>
   </div>
 
