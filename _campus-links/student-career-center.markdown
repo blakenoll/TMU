@@ -5,7 +5,7 @@ parallax-img: "/images/Parallax6.jpg"
 staff:
 - name: Bill Bolde
   title: Executive Director, Career Services & Advancement
-  image:
+  image: "/uploads/Bolde,%20BIll.jpg"
   bio-body: |-
     *The goal of The Master’s University **Office of Career Services** is to empower students to become dynamic agents of their own professional preparation and career outcomes. We want to help students with the formation of their career plans, which starts with helping them to identify their passions, their competencies, and their aptitudes.*
 
@@ -14,17 +14,17 @@ staff:
     *It is our pleasure to provide assurance and meaningful assistance to our students here at The Master’s University, and to help propel them into amazing opportunities for future success!*
 - name: Elise Aydelotte
   title: Manager, Human Resources & Student Employment
-  image:
+  image: 
   bio-body: |-
-    *The mission of The Master’s University **Office of Student Employment** is to direct students to \
-     employment opportunities which will allow them to develop valuable workplace skills, and \
-     challenge them to define their character as they grow into young, Christian professionals \
-     who positively impact the world for Jesus Christ.\
-     \
-     It is my heart to walk alongside TMU students and provide individualized guidance as they build \
-     a professional foundation consistent with their God-given talents. It is one of our greatest joys\
-     to see students and graduates find purpose and joy in a career or life position through which they\
-     fulfill God’s calling in their lives.*
+    \*The mission of The Master’s University **Office of Student Employment** is to direct students to
+    employment opportunities which will allow them to develop valuable workplace skills, and
+    challenge them to define their character as they grow into young, Christian professionals
+    who positively impact the world for Jesus Christ.
+
+    It is my heart to walk alongside TMU students and provide individualized guidance as they build
+    a professional foundation consistent with their God-given talents. It is one of our greatest joys
+    to see students and graduates find purpose and joy in a career or life position through which they
+    fulfill God’s calling in their lives.\*
 work-study-body: |-
   ## How work study works
 
@@ -106,7 +106,7 @@ work-study-part-body: |-
   ## More Information
 
   To request more information about the Off-Campus Work Study Program, please email the [Office of Student Employment and Professional Development](mailto:OSEPD@Masters.edu) or call (800) 568-6248 ext. 3716.
-internet-resources-body:
+internet-resources-body: 
 student-career-body: |-
   ## General Tips
 
@@ -337,10 +337,5 @@ layout: studentcareercenter
 
 <a class="btn btn-navy" href="https://goo.gl/forms/xxifsE9R0CgXhfjr2" target="_blank">Workshop Sign Up</a>
 
-Welcome to the Career Services Department here at The Master's University. Obtaining a degree here at Master's is a lifechanging experience and the knowledge you gain while on this journey can take you far in your post-graduate opportunities. However, holding a diploma after four years of intensive efforts won't necessarily guarantee you a profitable career. It is important to fortify some essential strategies and skills that will make you more employable and ready to compete for jobs in a real world that is changing every day.
 
-In the Career Center at The Master's University, our goal is to offer services that will empower students to become dynamic agents in their professional preparation and career outcomes. We want to help students with the formation of their career plans… identifying their passions, their competencies, and their aptitudes. Additionally, it is important that these students have an overview of what it takes to customize resumes and write noticeable cover letters, to put their best foot forward in interviews sessions, to know the importance of networking in the business community, and to understand the essence of professionalism in the workplace.
-It is our pleasure to provide assurance and meaningful assistance to our students here at The Master's University and to help propel them into amazing opportunities for future success.
-
-* Bill Bolde
-  Executive Director, Career Services and Advancement
+The Master’s University Student Career Center combines the resources and strengths of both the Office of Student Employment and the Office of Career Services to form a vibrant, new department designed to actively engage and support our student body in their journey towards professional excellence and success.
