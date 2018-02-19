@@ -33,6 +33,7 @@ links:
 - link: http://masters.libguides.com/welcome
   txt: About
   image: "/images/Library_About.png"
+Contact us: 'Circulation Desk: 661.362.2278; library@masters.edu'
 layout: library
 ---
 
