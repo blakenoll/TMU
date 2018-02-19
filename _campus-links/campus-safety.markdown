@@ -2,38 +2,38 @@
 title: Campus Safety
 date: 2017-04-11 23:21:00 Z
 parallax-img: "/images/Parallax10.jpg"
-Directors-greeting-body: "Welcome to The Master's University!      \n\nThe Campus
-  Safety Department provides the University's in house private security and public
-  safety services. In addition to working full-time for the University Safety Department,
-  many of the Safety employees are studying at The Master's Seminary, also led by
-  our President, John MacArthur. All that to say, I want you to know that you are
-  served by a group of officers who are not only concerned for your safety, but genuinely
-  have a Pastor's heart for you to grow in Christ.\n\nThe Safety Department maintains
-  a 24 hour presence on The Master's University property, and the Main Security Booth
-  is located across the street from the Gym, at the entrance to the residential housing
-  area. You will frequently see officers walking around the campus, locking and unlocking
-  buildings, and working within the security booth. There is also a business office
-  located on North Campus and open during posted business hours, where you may gain
-  assistance with any administrative business with our Department.\n\nThe Master's
-  University is blessed to be located within a quiet, residential community, and the
-  Los Angeles County Sheriff's Department charts our geographical area within a low
-  to negligible crime zone. It is not uncommon to see horses being ridden down the
-  sides of the road from one of the many beautiful ranches, or neighbors buzzing past
-  our campus on golf carts. There is even a historic movie studio located a ½ mile
-  down Placerita Canyon Road where John Wayne films were made, and some Western movies
-  are still filmed today. Please drive the side streets slowly and carefully. We work
-  hard to maintain an excellent Christian testimony with the many homeowners that
-  surround our campus property.\n\nIt is our joy to serve you, and we hope to make
-  your years at TMU, as safe and secure as we possibly can. We have a motto in the
-  Safety Department and hope that both you and your parents embrace it. It is based
-  on Psalm 127:1, \"Unless the LORD guards the city, the watchman keeps awake in vain.\"
-  We place our trust in the hands of our sovereign God, and look upon ourselves as
-  one of many means He uses on this campus to bless and grow you, for His glory and
-  your good.\n\nPlease click on the many links from our home page for important safety
-  information related to our parking and general regulations, and more!\n\nAgain,
-  on behalf of the entire Safety staff, I want to personally welcome you as a student
-  of The Master's University!\n\n**C. Powell**\nDirector of Campus Safety\nThe Master's
-  College\n661\\.362.2208"
+Directors-greeting-body: "Welcome to The Master's University!      \n\nThe campus
+  safety department provides the day to day public safety services for the university.
+  In addition to working full-time for the campus safety department, many of our employees
+  are full time students taking classes here on campus or at the Seminary in Sun Valley,
+  also led by our President, John MacArthur. All that to say, I want you to know that
+  you are served by a group of officers who are not only concerned for your personal
+  safety but genuinely have a servant's heart for you to grow in Christ.\n\nThe campus
+  safety department maintains a 24 hour presence on the university property, and the
+  main campus guard shack is located across the street from the MacArthur Center at
+  the entrance to the residential housing area. You will frequently see our officers
+  on foot or vehicle patrols in and around the campus or within the guard shack. There
+  is also an administrative office located on the north academic campus that is open
+  during general business hours, where you may gain assistance with any permitting
+  or other business.\n\nThe Master's University is blessed to be located within a
+  quiet, residential community, and the Los Angeles County Sheriff's Department charts
+  our geographical area within a low to negligible crime zone. It is not uncommon
+  to see horses being ridden down the sides of the road from one of the many beautiful
+  ranches, or neighbors buzzing past our campus on golf carts. There is even a historic
+  movie studio located a ½ mile down Placerita Canyon Road called Melody Ranch where
+  John Wayne films were made, and some Western movies are still filmed today. Please
+  drive the side streets slowly and carefully. We work hard to maintain an excellent
+  Christian testimony with the many homeowners that surround our campus property.\n\nIt
+  is our joy to serve you and we hope to make your years at TMU as safe and secure
+  as we possibly can. We have a motto in the campus safety department and hope that
+  both you and your parents embrace it. It is based on Psalm 127:1, \"Unless the LORD
+  guards the city, the watchman keeps awake in vain.\" We place our trust in the hands
+  of our sovereign God, and look upon ourselves as one of many means He uses on this
+  campus to bless and grow you, for His glory and your good.\n\nPlease click on the
+  many links from our home page for important safety information related to our parking
+  and general regulations, and more!\n\nAgain, on behalf of the entire public safety
+  team I want to personally welcome you as a student of The Master's University!\n\n**C.
+  Powell**\nDirector of Campus Safety\nThe Master's College\n661.362.2208"
 preparedness-body: "The Campus Safety Department works in close partnership with the
   Los Angeles County Fire and Sheriff's Department, who have stations within close
   proximity to the University. The Campus Safety Department plays one part in a larger

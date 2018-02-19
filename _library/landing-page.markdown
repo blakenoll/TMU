@@ -13,6 +13,7 @@ hours:
   hours: 12:00pm - 7:00pm
 - day: Sunday
   hours: 8:00pm - 12:00am
+  Circulation Desk: 661.362.2278
 links:
 - link: http://masters.libguides.com/
   txt: Research Guides
@@ -32,15 +33,9 @@ links:
 - link: http://masters.libguides.com/welcome
   txt: About
   image: "/images/Library_About.png"
-NEWS: |-
-  Winterim Library Hours
-  January 8th - 11th = 12:00 p.m. - 6:00 p.m.
-  January 12th = 12:00 p.m. - 6:00 p.m.
-  Closed Saturday & Sunday
-  Closed Monday January 15th Martin Luther King Jr. Day
-
-  Regular Semester hours will resume on Tuesday, January 16th
+Contact us: 'Circulation Desk: 661.362.2278; library@masters.edu'
 layout: library
 ---
 
-![thisone.jpg](/uploads/thisone.jpg)
+[Happy Birthday Mr. President](https://www.archives.gov/news/topics/washingtons-birthday)
+<img src="/uploads/Washington%20blue.png" alt="Washington blue.png" width="50px" >
