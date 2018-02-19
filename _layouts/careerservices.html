@@ -21,7 +21,6 @@ layout: default
            {{ content }}
          </div>
        </div>
-       {% if page.nested-menu %}
        <div class="col s12">
          <ul class="collapsible" data-collapsible="accordian">
           {% for item in page.nested-menu %}
@@ -36,7 +35,6 @@ layout: default
           {% endfor %}
          </ul>
        </div>
-       {% endif %}
 
      </div>
     </div>
