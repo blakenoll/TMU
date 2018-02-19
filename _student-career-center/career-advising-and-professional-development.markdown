@@ -1,6 +1,7 @@
 ---
 title: Career Advising & Professional Development
 date: 2018-02-19 20:01:00 Z
+layout: careerservices
 ---
 
 Earning your degree at The Master’s University is a lifechanging experience, and the knowledge you gain while on this journey can take you far in your post-graduate opportunities. It is the passion of The Master’s University Student Career Center to equip our undergraduates with the experience and skills they need to land successfully in the professional world post-graduation.
