@@ -1,5 +1,5 @@
 ---
-title: outreach
+title: Outreach
 date: 2017-12-15 19:10:00 Z
 permalink: "/outreach/"
 layout: outreach
@@ -24,3 +24,5 @@ layout: outreach
 ## ***Cultural Awareness is not Optional***
 
 **Blunders are expected in cross-cultural situations, but carelessness is not. Leaders and teams will receive training in cross-cultural communication and research methods. They will study the cultural, historical, ecclesiastical, and geopolitical background of their country with the desire to respond Biblically to their new setting.**
+
+<a href="http://www.masters.edu/studentlife/resident-life#leadership" class="btn btn-navy">GO Leadership Application</a>
