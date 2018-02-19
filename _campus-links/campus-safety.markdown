@@ -1,7 +1,7 @@
 ---
 title: Campus Safety
 date: 2017-04-11 23:21:00 Z
-parallax-img: "/uploads/Corporal%20on%20patrol.jpg"
+parallax-img: "/images/Parallax10.jpg"
 Directors-greeting-body: "Welcome to The Master's University!      \n\nThe campus
   safety department provides the day to day public safety services for the university.
   In addition to working full-time for the campus safety department, many of our employees
