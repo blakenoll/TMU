@@ -38,6 +38,7 @@ ra:
     ### Some Favorite Activities:
 
     I love coffee, being in the mountains, hiking, traveling, learning about new cultures, going to the Flower Market, and spending time with family and friends.
+  image: "/uploads/Wright,%20A.jpg"
 banner-img: "/images/CDUB_Banner.jpg"
 ---
 
