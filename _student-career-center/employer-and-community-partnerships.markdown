@@ -121,9 +121,13 @@ nested-menu:
 
     Employers who wish to receive additional information on internships, or who are interested in offering internship positions to students of The Master’s University may email the [Office of Student Employment](mailto:OSEPD@Masters.edu), or call at (661) 362-2238.
 - title: "III.\tOn-Campus Recruitment"
-  body: |
-    The Master’s University welcomes employers and approved ministries to recruit individually on campus during the academic school year. Please contact The Master’s University by emailing the [Office of Student Employment](mailto:OSEPD@Masters.edu), or by calling (661) 362-2238 to request more information on visiting and recruiting on our campus.\
-    \
+  body: 'The Master’s University welcomes employers and approved ministries to recruit
+    individually on campus during the academic school year. Please contact The Master’s
+    University by emailing the [Office of Student Employment](mailto:OSEPD@Masters.edu),
+    or by calling (661) 362-2238 to request more information on visiting and recruiting
+    on our campus.
+
+'
 layout: careerservices
 ---
 
