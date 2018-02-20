@@ -47,44 +47,27 @@ preparedness-body: "The Campus Safety Department works in close partnership with
   [Los Angeles County Emergency Survival Guide](http://lacoa.org/pdf/emergencysurvivalguide-lowres.pdf)
   \n\n## Questions or Comments\n\n* E-mail: campussafety@masters.edu\n\n* Guard Shack:
   (661) 362-2500"
-code-manual-body: |-
-  [Campus Safety Codes](/campussafetycodes)
-
-  It is important that each member of the campus community prioritize the safety of others on the campus. The Campus Safety Codes (aka the "Vehicle Code") and updates contain the parking rules, vehicle codes, and general safety regulations for faculty, staff, students and guests at TMU. In order to assist you with complying with our regulations, we offer you the following highlights (please ensure you review the actual codes in each of these areas to ensure full compliance):
-
-  ## How do I obtain a parking permit?
-
-  Students: Please register the car you intend to bring to campus for the semester during pre-registration, but you may also register a car anytime by using Self-Service / Vehicle Registration (semester fee applies). Please ensure you print the registration confirmation and bring it to the guard shack in order to obtain a semester permit to affix to your vehicle (inside, lower left corner of windshield). Even if you only intend to bring a car to park on campus for one day, campus safety requires all students to obtain a temporary parking permit. You may obtain the temporary permit free of charge by stopping by the guard shack but a fourth temporary permit in one semester will result in billing for a semester registration fee. Please display the temporary permit on your driver's side dashboard.
-
-  Faculty and Staff: You may register by filling out the form on Content Management / Staff Links / TMU Forms / Vehicle Registration Form. You may bring it by Human Resources for a semester permit. If you are borrowing a car for less than a week, faculty and staff are not required to obtain temporary passes.
-
-  Guests: Park in any undesignated space free of charge! No permit is required.
-
-  ## How do I appeal a ticket?
-
-  Students : To appeal a campus safety ticket please use Content Management / My Parking Tickets within seven days of the posting of your ticket online. Unless voided, tickets will be forwarded to student accounts for billing after 30 days.
-
-  Faculty and Staff: To appeal a campus safety ticket please email the Director of Campus Safety.
-
-  Guests: Please return your ticket to the guard shack so we may void it and courteously inform you of our parking expectations.
-
-  ## Where can I park?
-
-  Resident Students: By far the most common violation on campus is issued to resident students for parking on lower campus, Monday thru Friday between 8AM-5PM. Outside these hours you are free to park on lower campus, like a commuter. While exceptions are granted to resident students with injuries or medical conditions (inquire at the guard shack), exceptions are rarely made for class/work conflicts or spending the night off campus for an evening. It is the responsibility of each student to arrange their personal schedules to comply with the parking situation. If you think your situation is out of the ordinary, you may schedule an appointment with the Director of Campus Safety. As an additional reminder: Do not leave a vehicle in a fire lane unattended by the dorms for any length of time.
-
-  Commuter Students: Park in any available undesignated parking space. Faculty, Staff, and guests have designated and painted parking spaces but we also invite guests to use any unmarked student space (like a commuter) when visiting us.
-
-  ## What if a campus parking lot is full?
-
-  One of the more common violations for students is assuming it is okay to park on the side street (or wherever you choose) anytime a campus parking lot is full. To ensure compliance with fire and other state codes please only park in the striped spaces provided in each lot. Also, as a courtesy to our neighbors, faculty, staff, and students should not park on the side streets. Please allow for adequate time to use an alternate parking lot for chapel or for class in smaller commuter lots like Reese lot. During conference and other large events we require faculty, staff, and students to observe the same rules, but campus safety is not responsible for guests parking contrary to local ordinances outside our lots.
-
-  ## Pedestrians
-
-  Please use the designated sidewalks and cross walks to walk between sections of the campus. Please do not assume vehicles will stop but pay attention and look both ways. It is helpful if you allow cars to cross during peak crosswalk hours rather than trickling through one at a time while the car waits for 5 minutes. Remember: Do unto others! If you must walk along the road (particularly when the athletic fences are closed between the Library and North Campus for a ball game), please walk off the road and do not make vehicles drive around you in the street. This is a common frustration for the commuters and our canyon neighbors!
-
-  ## Skateboards
-
-  Skateboards, scooters, and roller blades may be ridden on campus sidewalks with due regard for pedestrian right of way, but there is no riding allowed on or across driveways, in parking lots, or on the adjacent roads in our community. Rule of Thumb: Skateboards cannot be ridden where cars can go. Skateboards may only be used at TMU for transportation and all 4 wheels need to stay grounded at all time. If you would like to perform those cool tricks, please do so at the local skate park using the right safety equipment (Santa Clarita Aquatic Center). The full content of this and all policies is found within the Campus Safety Codes.
+Crime-Fire Log-body: "## Daily Crime and Fire Log\n\nThe Daily Crime Log includes
+  a record of all crimes reported to campus safety that occurred anywhere within the
+  department’s patrol jurisdiction and all fires reportedly occurring in the residence
+  halls over the past 60 days. The log is designed to provide timelier details and
+  greater information to the campus community than the annual statistical disclosures.
+  \n\nThe most recent 60 days of the log is available on the campus safety web page
+  but the log is also available for public inspection upon request during regular
+  business hours at the campus safety business office.  Older portions of the log
+  are available within two business days of request at the same location. Note: If
+  a log entry disposition changes after 60 days have passed the log may not reflect
+  those changes. In addition, under specific circumstances, the campus safety department
+  may temporarily withhold information in the log. \n\nIn general, entries in this
+  log will be given one of the following dispositions to reflect the current status
+  of the incident: \n\n**Term\t                            Definition**\n\nActive
+  \                             Active investigation\nCleared (no follow-up necessary)
+  \   Incident resolved/no further action necessary\nCleared by Arrest\t            Incident
+  resolved by arrest\nCleared by Exception\t            Incident resolved — no arrest
+  made\nReferred to LASD\t            Incident referred to Sheriff's Dept/follow-up.\nReferred
+  to Student Care            Incident referred to Student Care/follow-up.\nInactive\t
+  \                   No further action to be taken \nUnfounded\t                    Law
+  enforcement determined no offense occurred \n\n[Daily Crime and Fire Log Stats.docx](/uploads/Daily%20Crime%20and%20Fire%20Log%20Stats.docx)\n"
 golf-cart-body: |-
   Golf Cart Safety Training Program
 
@@ -113,20 +96,6 @@ golf-cart-body: |-
   * Guard Shack: (661) 362-2500
 
   [Compliance & Safety Training Videos Website](http://complianceandsafety.com/)
-Daily Crime and Fire Log: "## Daily Crime and Fire Log\n\nThe Daily Crime Log includes
-  a record of all crimes reported to campus safety that occurred anywhere within the
-  department’s patrol jurisdiction and all fires reportedly occurring in the residence
-  halls over the past 60 days. The log is designed to provide timelier details and
-  greater information to the campus community than the annual statistical disclosures.
-  \n\nThe most recent 60 days of the log is available on the campus safety web page
-  but the log is also available for public inspection upon request during regular
-  business hours at the campus safety business office.  Older portions of the log
-  are available within two business days of request at the same location. Note: If
-  a log entry disposition changes after 60 days have passed the log may not reflect
-  those changes. In addition, under specific circumstances, the campus safety department
-  may temporarily withhold information in the log. \n\nIn general, entries in this
-  log will be given one of the following dispositions to reflect the current status
-  of the incident: \n"
 layout: campussafety
 ---
 
