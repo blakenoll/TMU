@@ -75,7 +75,6 @@ golf-cart-body: |-
   * Guard Shack: (661) 362-2500
 
   [Compliance & Safety Training Videos Website](http://complianceandsafety.com/)
-
 layout: campussafety
 Daily-Crime-&-Fire-Log-body: "## Daily Crime and Fire Log\n\nThe Daily Crime Log includes
   a record of all crimes reported to campus safety that occurred anywhere within the
