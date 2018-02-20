@@ -12,7 +12,7 @@ The Master’s University Student Career Center is on-hand to counsel students t
 
 Our staff is on-hand to provide personal support and resources in:
 
-* **General Career Counseling:** Attend multiple career development seminars and workshops with alumni and staff, as well as one-on-one strength and interest assessments provided by TMU!\
+* **General Career Counseling:** Attend multiple career development seminars and workshops with alumni and staff, as well as one-on-one strength and interest assessments provided by TMU!
    
 
 * **Gaining Experience:** We provide many opportunities exclusively available to TMU through which students can secure meaningful and relevant part-time and internship positions to gain valuable, “real-world” experience. 
