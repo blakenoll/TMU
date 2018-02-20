@@ -13,14 +13,13 @@ The Master’s University Student Career Center is on-hand to counsel students t
 Our staff is on-hand to provide personal support and resources in:
 
 * **General Career Counseling:** Attend multiple career development seminars and workshops with alumni and staff, as well as one-on-one strength and interest assessments provided by TMU!
-   
 
-* **Gaining Experience:** We provide many opportunities exclusively available to TMU through which students can secure meaningful and relevant part-time and internship positions to gain valuable, “real-world” experience. 
+* **Gaining Experience:** We provide many opportunities exclusively available to TMU through which students can secure meaningful and relevant part-time and internship positions to gain valuable, “real-world” experience.
 
-* **Job Search Strategies:** Craigslist? Monster.com? Indeed.com? Do any of these actually work? 
+* **Job Search Strategies:** Craigslist? Monster.com? Indeed.com? Do any of these actually work?
 
 * **Resumes & Cover Letters:** Get individualized instruction on resume and cover letter writing.
 
-* **Interview Coaching:** Schedule a “mock interview” with the TMU Career Counselor to polish up professional appearance and presence. 
+* **Interview Coaching:** Schedule a “mock interview” with the TMU Career Counselor to polish up professional appearance and presence.
 
 * **Professional Networking:** Create your professional image and learn how to market your skills!

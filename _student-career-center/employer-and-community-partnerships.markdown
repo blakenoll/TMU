@@ -25,7 +25,7 @@ nested-menu:
     **Scheduling**
 
     Regular and consistent schedules are preferred; however, flexible scheduling is a possibility, as long as the student can be assured of earning their targeted amount. We ask that any employer choosing to partner with us make enough work available to the student so they can earn their Work Study goal. A student will typically will need to work approximately \
-     8 - 20 hours/week to earn their award (depending on their award amount and wage).
+    8 - 20 hours/week to earn their award (depending on their award amount and wage).
 
     Work Study students are available to work during the school year (September - December and January - May). It is also important to note that though students often are available to work during the day, many will have classes to attend, and may have limited daytime hours.
 
@@ -47,7 +47,7 @@ nested-menu:
 
     **More Information**
 
-    To request more information about the Off-Campus Work Study Program, please email The Master’s University [Office of Student Employment](mailto:OSEPD@Masters.edu) or call (661) 362-2238.
+    To request more information about the Off-Campus Work Study Program, please email The Master’s University [Office of Student Employment](mailto:OSEPD@Masters.edu), or call (661) 362-2238.
 - title: "II.\tUndergraduate Internships"
   body: |-
     An internship is a limited (usually 2-3 months), one-time work or service experience in a career field, under the supervision of a practicing professional, with a specific learning agenda designed to give a student exposure and experience to prepare the student to enter that field.
@@ -110,7 +110,6 @@ nested-menu:
 
     * The employer should inform internal managers and supervisors of the objectives of the internship program and the presence of the intern.
 
-
     * The employer should provide of an orientation to the company and the work-site, clarifying internal rules, operation procedures and expectations. Key managers should be introduced, and the intern should receive an overview of the company’s organizational structure.
 
     * The employer should ensure the intern has regular contact with the designated supervisor, who will complete a performance review at the conclusion of the internship.
@@ -119,7 +118,7 @@ nested-menu:
 
     **How to Offer an Internship**
 
-    Employers who wish to receive additional information on internships, or who are interested in offering internship positions to students of The Master’s University may email the [Office of Student Employment](mailto:OSEPD@Masters.edu), or call at (661) 362-2238.
+    Employers who wish to receive additional information on internships, or who are interested in offering internship positions to students of The Master’s University may email the [Office of Student Employment](mailto:OSEPD@Masters.edu), or call (661) 362-2238.
 - title: "III.\tOn-Campus Recruitment"
   body: 'The Master’s University welcomes employers and approved ministries to recruit
     individually on campus during the academic school year. Please contact The Master’s
