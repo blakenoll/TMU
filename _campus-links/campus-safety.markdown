@@ -47,7 +47,7 @@ preparedness-body: "The Campus Safety Department works in close partnership with
   [Los Angeles County Emergency Survival Guide](http://lacoa.org/pdf/emergencysurvivalguide-lowres.pdf)
   \n\n## Questions or Comments\n\n* E-mail: campussafety@masters.edu\n\n* Guard Shack:
   (661) 362-2500"
-Crime-Fire Log-body: "## Daily Crime and Fire Log****\n\nThe Daily Crime Log includes
+Crime-Fire Log-body: "## Daily Crime and Fire Log\n\nThe Daily Crime Log includes
   a record of all crimes reported to campus safety that occurred anywhere within the
   department’s patrol jurisdiction and all fires reportedly occurring in the residence
   halls over the past 60 days. The log is designed to provide timelier details and
