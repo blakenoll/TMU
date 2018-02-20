@@ -75,8 +75,7 @@ golf-cart-body: |-
   * Guard Shack: (661) 362-2500
 
   [Compliance & Safety Training Videos Website](http://complianceandsafety.com/)
-layout: campussafety
-Daily-Crime-&-Fire-Log-body: "## Daily Crime and Fire Log\n\nThe Daily Crime Log includes
+Daily-Crime-Fire-Log-body: "## Daily Crime and Fire Log\n\nThe Daily Crime Log includes
   a record of all crimes reported to campus safety that occurred anywhere within the
   department’s patrol jurisdiction and all fires reportedly occurring in the residence
   halls over the past 60 days. The log is designed to provide timelier details and
@@ -97,6 +96,7 @@ Daily-Crime-&-Fire-Log-body: "## Daily Crime and Fire Log\n\nThe Daily Crime Log
   to Student Care            Incident referred to Student Care/follow-up.\nInactive\t
   \                   No further action to be taken \nUnfounded\t                    Law
   enforcement determined no offense occurred \n\n[Daily Crime and Fire Log Stats.docx](/uploads/Daily%20Crime%20and%20Fire%20Log%20Stats.docx)\n"
+layout: campussafety
 ---
 
 ## Mission Statement
