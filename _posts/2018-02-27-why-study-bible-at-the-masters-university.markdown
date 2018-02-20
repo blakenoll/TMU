@@ -1,6 +1,7 @@
 ---
 title: Why Study Bible at The Master's University?
 date: 2018-02-27 06:00:00 Z
+author: Dr. Tom Halstead & Dr. Abner Chou, School of Biblical Studies
 catergory: Life At TMU
 image: "/uploads/WHYTMU_BIBLICAL.jpg"
 sm-image: "/uploads/WHYTMU_BIBLICAL.jpg"
