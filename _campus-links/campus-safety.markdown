@@ -118,7 +118,7 @@ Follow [@TMUCampusSafety](https://twitter.com/TMUCampusSafety) for recent report
 
 ## Campus Community "Need to know"
 
-[Daily Crime and Fire Log Stats.pdf](/uploads/Daily%20Crime%20and%20Fire%20Log%20Stats.pdf)
+[Daily Crime and Fire Log Stats](/uploads/Daily%20Crime%20and%20Fire%20Log%20Stats.pdf)
 
 [2017 The Master's University Annual Campus Security and Fire Safety Report](/media/870363/2017-annual-security-and-fire-safety-report.pdf)
 
