@@ -3,6 +3,10 @@ title: Global Outreach
 date: 2017-12-15 19:30:00 Z
 icon-image: "/uploads/AcademicsUndergradIcons_History.png"
 group: studentlife
+director-body: |-
+  ### Lisa La George
+
+  Prior to coming to The Master’s University in 1998, Lisa spent five years involved in cross-cultural youth ministry in Alaska. She has traveled in over 45 countries to encourage cross-cultural workers, provide teacher training workshops, and supervise student teachers. In addition to teaching in the area of ESL and Intercultural Studies, Lisa administers and trains cross-cultural vocational student trips. Her research and writing includes the topics of short-term missions, cross-cultural teaching methodologies, missionary biographies, and Third-Culture Kid transitions. She is rarely without a book, loves to cook, and enjoys opening her home for global gatherings.
 teams-body: "## **ECUADOR**\n\nThis team will be working in local Church ministries
   through community outreach and organizing a Biblical Counseling Conference.\n\nAll
   Majors\n\nPaul Patingo and Paige Mitchell\n\nMay 7th – June 10th\\*\n\n## **TOGO
@@ -429,10 +433,6 @@ faq-body: |-
   Tell your family and friends that they can give tax deductible donations toward your trip for Christmas. [www.masters.edu/supportGO](http://www.masters.edu/supportgo "Support GO")
 
   Gather addresses while you are home for people you will send letters to in late January.
-director-body: |-
-  ### Lisa La George
-
-  Prior to coming to The Master’s University in 1998, Lisa spent five years involved in cross-cultural youth ministry in Alaska. She has traveled in over 45 countries to encourage cross-cultural workers, provide teacher training workshops, and supervise student teachers. In addition to teaching in the area of ESL and Intercultural Studies, Lisa administers and trains cross-cultural vocational student trips. Her research and writing includes the topics of short-term missions, cross-cultural teaching methodologies, missionary biographies, and Third-Culture Kid transitions. She is rarely without a book, loves to cook, and enjoys opening her home for global gatherings.
 engage-body: |2-
 
   Our fall event Engage! will be held October 12-15, 2017. As an extension of the office of Outreach, Engage! is a campus-wide effort of The Master’s University to serve in and learn from churches throughout Southern California. Each year we mobilize approximately 650 student volunteers to serve with local churches in various types of ministry ranging from cross-cultural and urban to homeless and prison outreach.
