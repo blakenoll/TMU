@@ -33,6 +33,8 @@ If you cannot attend Admitted Students’ Day, you can still schedule a telephon
 
 ## Please don’t hesitate to contact us, if you have any questions.
 
+![Screen Shot 2018-02-20 at 10.36.15 AM.png](/uploads/Screen%20Shot%202018-02-20%20at%2010.36.15%20AM.png)
+
 ---
 
 ### REMINDERS:
