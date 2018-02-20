@@ -33,7 +33,7 @@
           {% endif %}
           {% endfor %}
           <hr class="article-hr">
-          <div class="article-body">{{ content | markdownify }}</div>
+          <article class="article-body">{{ content | markdownify }}</article>
         </div>
       </div>
 
@@ -50,13 +50,6 @@
       </div>
       {% endif %}
 
-
-      <script type="text/javascript">
-      $(document).ready(function(){
-      $('.parallax').parallax();
-      $()
-      });
-      </script>
     </main>
 
   </body>
