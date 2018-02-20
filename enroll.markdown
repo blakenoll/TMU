@@ -1,6 +1,7 @@
 ---
 title: Enroll
 date: 2018-02-16 23:13:00 Z
+layout: pag
 ---
 
 ## NEW STUDENT COURSE SELECTION INSTRUCTIONS FALL 2017
@@ -32,6 +33,8 @@ If you cannot attend Admitted Students’ Day, you can still schedule a telephon
 **NOTE: Pre-Registration** MUST be completed and the “Confirmation” page along with your $200 tuition deposit must be received in the Office of Student Accounts BEFORE you talk with your academic advisor.
 
 ## Please don’t hesitate to contact us, if you have any questions.
+
+![Screen Shot 2018-02-20 at 10.36.15 AM.png](/uploads/Screen%20Shot%202018-02-20%20at%2010.36.15%20AM.png)
 
 ---
 
