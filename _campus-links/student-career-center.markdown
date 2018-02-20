@@ -16,7 +16,7 @@ staff:
   title: Manager, Human Resources & Student Employment
   image: 
   bio-body: |-
-    \*The mission of The Master’s University **Office of Student Employment** is to direct students to
+    The mission of The Master’s University **Office of Student Employment** is to direct students to
     employment opportunities which will allow them to develop valuable workplace skills, and
     challenge them to define their character as they grow into young, Christian professionals
     who positively impact the world for Jesus Christ.

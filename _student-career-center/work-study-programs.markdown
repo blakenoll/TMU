@@ -1,31 +1,30 @@
 ---
 title: Work Study Programs
 date: 2018-02-19 18:33:00 Z
-layout: careerservices
 employment-body: "**On-Campus Employment (non-Work Study)**\n\nThe Master’s University
   on-campus student jobs (non-Work Study) are concentrated in general labor, and specialized
   labor positions. The following positions are great opportunities for non-Work Study
   employment, whether students are simply looking for some pocket change, or a part-time
-  position through which to support themselves through college.\n\n* Cafeteria Worker
-  \n\n* Enrollment Telecounselors\\* \n\n* IT Service Desk Analyst\\\n   Intramural
-  Referee Resident Assistants\\* \n\n* Peer/Academic Tutoring\\*\n\n* Chapel or Athletic
-  Event Staff Associated Student Body\\* \n\n* IBEX Assistants (Israel)\\*\\*\n\n\\*Applicants
-  must have completed one full year at TMU\n\n\\*\\*Applicants must be attending IBEX\\\n
-  \\\n\n**Off-Campus Employment (non-Work Study)**\n\nThe Master’s University encourages
-  students to step beyond the limitations of the campus network and seek employment
-  in the community. Santa Clarita is a “bedroom community;” people who work in Los
-  Angeles live and enjoy life here. There are hundreds of employers within a 5-mile
-  radius of The Master’s University, which are accessible by foot, bicycle, bus or
-  car!\n\n**Old Town Newhall and Lyons Avenue:**\n\n* *Concentration of small, privately
-  owned businesses; including boutiques, restaurants, cafes and specialized services
-  (attorneys, realtors, public accountants, medical offices, etc.)\\\n   \\\n  *\n\n**Shops
-  @ Stevenson Ranch / The Old Road**\n\n* *National/franchised retailers including
-  Family Christian Store, Pavilions, Claim Jumpers, Macaroni Grill, Ralph’s, World
-  Market, Bed Bath & Beyond, Old Navy, Michael’s, Steinmart, Ralph’s, Toys R Us, Goodwill
-  \\\n   \\\n  *\n\n**Westfield Mall (and surrounding area)**\n\n* *National/franchised
-  retailers including Barnes & Noble, Target, Edwards Cinemas, VONS, HomeGoods, Corner
-  Bakery, Whole Foods, SEARS, Bath and Body Works … there are literally hundreds of
-  employers in this area, most of which have online job applications!*"
+  position through which to support themselves through college.\n\n* Cafeteria Worker\n\n*
+  Enrollment Telecounselors\\*\n\n* IT Service Desk Analyst\n\n* Intramural Referee
+  Resident Assistants\\*\n\n* Peer/Academic Tutoring\\*\n\n* Chapel or Athletic Event
+  Staff Associated Student Body\\*\n\n* IBEX Assistants (Israel)\\*\\*\n\n\\*Applicants
+  must have completed one full year at TMU\n\n\\*\\*Applicants must be attending IBEX\n\n**Off-Campus
+  Employment (non-Work Study)**\n\nThe Master’s University encourages students to
+  step beyond the limitations of the campus network and seek employment in the community.
+  Santa Clarita is a “bedroom community;” people who work in Los Angeles live and
+  enjoy life here. There are hundreds of employers within a 5-mile radius of The Master’s
+  University, which are accessible by foot, bicycle, bus or car!\n\n**Old Town Newhall
+  and Lyons Avenue:**\n\n* Concentration of small, privately owned businesses; including
+  boutiques, restaurants, cafes and specialized services (attorneys, realtors, public
+  accountants, medical offices, etc.)\n\n**Shops @ Stevenson Ranch / The Old Road**\n\n*
+  National/franchised retailers including Family Christian Store, Pavilions, Claim
+  Jumpers, Macaroni Grill, Ralph’s, World Market, Bed Bath & Beyond, Old Navy, Michael’s,
+  Steinmart, Ralph’s, Toys R Us, Goodwill \n\n**Westfield Mall (and surrounding area)**\n\n*
+  *National/franchised retailers including Barnes & Noble, Target, Edwards Cinemas,
+  VONS, HomeGoods, Corner Bakery, Whole Foods, SEARS, Bath and Body Works … there
+  are literally hundreds of employers in this area, most of which have online job
+  applications!*"
 nested-menu:
 - title: "I.\tUnderstanding Your Work Study Program"
   body: |-
@@ -37,9 +36,7 @@ nested-menu:
 
     **Off-Campus Work Study\***
 
-    Students participating in the
-
-    *Off-Campus Work Study Program* will interview with and be hired by the various professional businesses, companies and ministries to serve their campus in the local community.
+    Students participating in the *Off-Campus Work Study Program* will interview with and be hired by the various professional businesses, companies and ministries to serve their campus in the local community.
 
     *\*personal vehicle required*
 - title: "II.\tWork Study Credits and Tuition"
@@ -52,9 +49,9 @@ nested-menu:
 
     Work Study students are *eligible* to earn 100% of their Work Study award.
 
-    * \*\*$3,000 \*\*Award Level = 8-10 hours/week
+    * **$3,000** Award Level = 8-10 hours/week
 
-    * Annual 80% Deduction Goal = $2,400 ($1,200 FALL \+ $1,200 SPRING)\
+    * Annual 80% Deduction Goal = $2,400 ($1,200 FALL \+ $1,200 SPRING)
 
 
     * **$6,000** Award Level = 15 – 17 hours/week
@@ -94,9 +91,7 @@ nested-menu:
 
     * A document establishing employment eligibility:
 
-    * Example: Social Security Card, Passport, Birth Certificate, etc. *\
-       \
-      *
+    * Example: Social Security Card, Passport, Birth Certificate, etc.
 
     *Returning Students/Employees:*
 
@@ -125,11 +120,11 @@ nested-menu:
 
     **Q. I have been awarded Off-Campus Work Study, and I:**
 
-    * **a. don’t have a car.**
+    * **don’t have a car.**
 
-    * **b. no longer have a car.**
+    * **no longer have a car.**
 
-    * **c. won’t be bringing a car with me.**
+    * **won’t be bringing a car with me.**
 
     **Am I able to transfer into the On-Campus Work Study program and apply for On-Campus Work Study jobs?**
 
@@ -177,10 +172,8 @@ nested-menu:
 
     The online application/resume is all that is required, as it’s the one made available to the employers, but we encourage students to put together a more detailed resume, which they can provide to employers as you narrow your job search, and to take to the Work Study Job Fair. There are HR/employment forms to complete, but you will not need to worry about those until you get here! We will have everything ready for you.
 
-    **Q. There are several jobs that interest me. Can I contact all of them and get hired for a job before I arrive on campus? \
-     \
-    **
-
+    **Q. There are several jobs that interest me. Can I contact all of them and get hired for a job before I arrive on campus? **\
+    \
     You can feel free to contact as many departments as you like! I can’t guarantee when you’ll get a response right away though – in some cases it may be the same day, but keep in mind that many staff are extremely busy, away on mission trips or vacation and not able to respond right away.
 
     Departments are not allowed to offer employment to any student(s) until the Work Study Job Fair during WOW; this allows you the time to meet as many supervisors and departments as possible. However, keep in mind that you can only accept **one** job, and you must commit to that choice. “Returning” a job you accepted (completed hiring paperwork for, etc.) in favor of another job that comes later is not allowed, and in doing so risk forfeiture of your Work Study award.
@@ -198,6 +191,7 @@ nested-menu:
     *Athletics*
 
     *Music*
+layout: careerservices
 ---
 
 **TMU Work Study Programs**
