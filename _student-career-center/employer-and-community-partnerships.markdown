@@ -52,7 +52,7 @@ nested-menu:
   body: |-
     An internship is a limited (usually 2-3 months), one-time work or service experience in a career field, under the supervision of a practicing professional, with a specific learning agenda designed to give a student exposure and experience to prepare the student to enter that field.
 
-    ## Benefits to Employers:
+    ## **Benefits to Employers:**
 
     * Interns provide a source of highly-motivated, quality students who have proven to have superior academic skills and personal character.
 
