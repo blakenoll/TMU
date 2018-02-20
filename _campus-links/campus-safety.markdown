@@ -85,7 +85,7 @@ Daily-Crime-Fire-Log-body: "## Daily Crime and Fire Log\n\nThe Daily Crime & Fir
   regular business hours at the campus safety business office.  Older portions of
   the log are available within two business days of request at the same location.
   Note: If a log entry disposition changes after 60 days have passed the log may not
-  reflect those changes. \n\n[Daily Crime and Fire Log Stats-cf0b79.pdf](/uploads/Daily%20Crime%20and%20Fire%20Log%20Stats-cf0b79.pdf)\n"
+  reflect those changes. \n\n[Daily Crime and Fire Log](/uploads/Daily%20Crime%20and%20Fire%20Log%20Stats-cf0b79.pdf)\n"
 layout: campussafety
 ---
 
