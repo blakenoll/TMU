@@ -1,6 +1,6 @@
 ---
 title: Biblical Counseling v. Pyschology
-date: 2018-02-20 22:27:00 Z
+date: 2018-02-28 06:00:00 Z
 catergory: Life At TMU
 image: "/uploads/biblicalcounsel.jpg"
 sm-image: "/uploads/biblicalcounsel.jpg"
