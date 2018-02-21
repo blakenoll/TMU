@@ -206,10 +206,10 @@ layout: fin-loan
 <td><span>Amounts:</span><br />Freshman: $3,500<br />Sophomores: $4,500<br />Juniors/Seniors: $5,500<br /><br /><span>Additional:</span><br />Dependent students: $2,000<br />Independent students: <br />$6,000 (1st/2nd year)<br />$7,000 (3rd/4th year)</td>\
 </tr>\
 <tr>\
-<td><span>Interest Rate:</span><br />3.76% (fixed)</td>\
+<td><span>Interest Rate:</span><br />4.45% (fixed)</td>\
 <td>\
-<p><span>Interest Rate:</span><br />3.76% Undergraduate fixed)</p>\
-<p>5.31% Graduate (fixed)</p>\
+<p><span>Interest Rate:</span><br />4.45% Undergraduate fixed)</p>\
+<p>6% Graduate (fixed)</p>\
 </td>\
 </tr>\
 <tr>\
