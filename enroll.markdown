@@ -1,7 +1,7 @@
 ---
 title: Enroll
 date: 2018-02-16 23:13:00 Z
-layout: pag
+layout: page
 ---
 
 ## NEW STUDENT COURSE SELECTION INSTRUCTIONS FALL 2017

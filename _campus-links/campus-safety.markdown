@@ -75,28 +75,18 @@ golf-cart-body: |-
   * Guard Shack: (661) 362-2500
 
   [Compliance & Safety Training Videos Website](http://complianceandsafety.com/)
+Daily-Crime-Fire-Log-body: "## Daily Crime and Fire Log\n\nThe Daily Crime & Fire
+  Log includes a record of all crimes reported to campus safety that occurred anywhere
+  within the department’s patrol jurisdiction and all fires reportedly occurring in
+  the residence halls over the past 60 days. The log is designed to provide timelier
+  details and greater information to the campus community than the annual statistical
+  disclosures. \n\nThe most recent 60 days of the log is available on the campus safety
+  web page but the log is also available for public inspection upon request during
+  regular business hours at the campus safety business office.  Older portions of
+  the log are available within two business days of request at the same location.
+  Note: If a log entry disposition changes after 60 days have passed the log may not
+  reflect those changes. \n\n[Daily Crime and Fire Log](/uploads/Daily%20Crime%20and%20Fire%20Log%20Stats-cf0b79.pdf)\n"
 layout: campussafety
-Daily-Crime-&-Fire-Log-body: "## Daily Crime and Fire Log\n\nThe Daily Crime Log includes
-  a record of all crimes reported to campus safety that occurred anywhere within the
-  department’s patrol jurisdiction and all fires reportedly occurring in the residence
-  halls over the past 60 days. The log is designed to provide timelier details and
-  greater information to the campus community than the annual statistical disclosures.
-  \n\nThe most recent 60 days of the log is available on the campus safety web page
-  but the log is also available for public inspection upon request during regular
-  business hours at the campus safety business office.  Older portions of the log
-  are available within two business days of request at the same location. Note: If
-  a log entry disposition changes after 60 days have passed the log may not reflect
-  those changes. In addition, under specific circumstances, the campus safety department
-  may temporarily withhold information in the log. \n\nIn general, entries in this
-  log will be given one of the following dispositions to reflect the current status
-  of the incident: \n\n**Term\t                            Definition**\n\nActive
-  \                             Active investigation\nCleared (no follow-up necessary)
-  \   Incident resolved/no further action necessary\nCleared by Arrest\t            Incident
-  resolved by arrest\nCleared by Exception\t            Incident resolved — no arrest
-  made\nReferred to LASD\t            Incident referred to Sheriff's Dept/follow-up.\nReferred
-  to Student Care            Incident referred to Student Care/follow-up.\nInactive\t
-  \                   No further action to be taken \nUnfounded\t                    Law
-  enforcement determined no offense occurred \n\n[Daily Crime and Fire Log Stats.docx](/uploads/Daily%20Crime%20and%20Fire%20Log%20Stats.docx)\n"
 ---
 
 ## Mission Statement
@@ -138,8 +128,6 @@ The following video presentations are provided as a service to the campus commun
 Follow [@TMUCampusSafety](https://twitter.com/TMUCampusSafety) for recent reports of crime and safety concerns on campus
 
 ## Campus Community "Need to know"
-
-[Daily Crime and Fire Log](/uploads/Daily%20Crime%20and%20Fire%20Log%20Stats.pdf)
 
 [2017 The Master's University Annual Campus Security and Fire Safety Report](/media/870363/2017-annual-security-and-fire-safety-report.pdf)
 

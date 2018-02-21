@@ -30,7 +30,7 @@ leadership-body: |-
 
   If you are interested in TMU’s Student Care Leadership, please read the following packet of information regarding the purpose and responsibilities of a Student Care Leader.
 
-  * [Ministry Overview and Guidelines](/uploads/1718%20SLS%20Ministry%20Overview%20and%20Guidelines.pdf)
+  * M[inistry Overview and Guidelines](/uploads/1819%20Student%20Leader%20Ministry%20Overview%20and%20Guidelines.pdf)
 
   If you have any questions, send an e-mail to studentcare@masters.edu.
 
@@ -39,11 +39,11 @@ leadership-body: |-
   Student Care Leadership Position FAQs
   **Resident Life**
 
-  * [Assistant Resident Assistant (ARA)](/uploads/_ARA%20FAQ%201718.pdf)
+  * [Wing Assistant (WA)](/uploads/_WA%20FAQ.PDF)
 
-  * [Off Campus Assistant (OCA)](/uploads/CA%20FAQ%201718.pdf)
+  * [Off Campus Assistant (OCA)](/uploads/CA%20FAQ.PDF)
 
-  * [Resident Assistant (RA)](/uploads/RA%20FAQ%201718.pdf)
+  * [Resident Assistant (RA)](/uploads/RA%20FAQ.PDF)
 
   **Outreach**
 
