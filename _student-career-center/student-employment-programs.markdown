@@ -242,8 +242,7 @@ The Master’s University on-campus student jobs (non-Work Study) are concentrat
 
 * IBEX Assistants (Israel)
 
-*\*Applicants must have completed one full year at TMU
-*
+\*Applicants must have completed one full year at TMU
 
 **TMU Work Study Programs**
 
