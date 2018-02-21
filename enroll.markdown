@@ -24,7 +24,7 @@ If you cannot attend Admitted Students’ Day, you can still schedule a telephon
 
 1. Log into Self-Service using your username and password (www.masters.edu/selfservice)
 
-2. Click on “Advising Appointments” in the left hand menu (see screen shot on page 2)
+2. Click on “Advising Appointments” in the left hand menu (see screen below)
 
 3. A calendar will appear with available appointment times. Select a date, time, and method (telephone or in-person) that works best for you. An email will confirm your scheduled advising appointment.
 
