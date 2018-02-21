@@ -217,8 +217,8 @@ layout: fin-loan
 <td valign="top"><span>Grace Period:</span><br />6 mos. after graduation or student drops below half-time</td>\
 </tr>\
 <tr>\
-<td valign="top"><span>Fee:</span><br />1.068% of the total loan amount</td>\
-<td valign="top"><span>Fee:</span><br />1.068% of the total loan amount</td>\
+<td valign="top"><span>Fee:</span><br />1.066% of the total loan amount</td>\
+<td valign="top"><span>Fee:</span><br />1.066% of the total loan amount</td>\
 </tr>\
 <tr>\
 <td><span>Renewal:</span><br />Re-application required each year through FAFSA</td>\
