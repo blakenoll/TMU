@@ -214,7 +214,7 @@ The Master’s University encourages students to step beyond the limitations of 
 
 *Old Town Newhall and Lyons Avenue:*
 
-* Concentration of small, privately owned businesses; including, boutiques, restaurants, cafes and specialized services (attorneys, realtors, public accountants, medical offices, etc.)
+* Concentration of small, privately owned businesses; including, boutiques, restaurants, cafes, and specialized services (attorneys, public accountants, medical offices, etc.)
 
 *Shops @ Stevenson Ranch / The Old Road:*
 
@@ -240,10 +240,10 @@ The Master’s University on-campus student jobs (non-Work Study) are concentrat
 
 * Chapel or Athletic Event Staff Associated Student Body\*
 
-* IBEX Assistants (Israel)\*\*
+* IBEX Assistants (Israel-campus only)
 
 *\*Applicants must have completed one full year at TMU
-\*\*Applicants must be attending IBEX*
+*
 
 **TMU Work Study Programs**
 
