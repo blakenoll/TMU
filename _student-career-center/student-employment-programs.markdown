@@ -1,5 +1,5 @@
 ---
-title: Work Study Programs
+title: Student Employment Programs
 date: 2018-02-19 18:33:00 Z
 nested-menu:
 - title: "I.\tUnderstanding Your Work Study Program"
