@@ -407,12 +407,18 @@ required-courses-body: |-
     * *BMS312 Global Outreach (3)*
 
   **Total units required for minor (18)**
-prof-publications-body: |-
-  **Dr. Abner Chou:** *I Saw the Lord: A Biblical Theology of Vision; Evangelical Exegetical Commentary on Lamentations*
-
-  **Dr. Brian Morley:** *God in the Shadows: Evil in God’s World*
-
-  **Dr. William Varner:** published author since 1984, Dr. Varner has written on a wide variety of biblical topics, including a devotional on the Psalms, a study of the tribes of Israel, a book about the Prophet Elijah, and an additional study of the book of James, Philippians: A Handbook on the Greek Text
+prof-publications-body: "**Dr. Abner Chou:** \n\n*[I Saw the Lord: A Biblical Theology
+  of Vision; Evangelical Exegetical Commentary on Lamentations](https://www.amazon.com/Saw-Lord-Biblical-Theology-Vision/dp/162032301X/ref=sr_1_5?s=books&ie=UTF8&qid=1519250797&sr=1-5&keywords=abner\\+chou)*\n\n[The
+  Hermeneutics of the Biblical Writers: Learning to Interpret Scripture from the Prophets
+  and Apostles](https://www.amazon.com/Hermeneutics-Biblical-Writers-Interpret-Scripture/dp/0825443245/ref=sr_1_1?ie=UTF8&qid=1519174752&sr=8-1&keywords=abner\\+chou&dpID=41GaABdlguL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)\n\n[What
+  Happened in the Garden?: The Reality and Ramifications of the Creation and Fall
+  of Man](https://www.amazon.com/What-Happened-Garden-Ramifications-Creation/dp/0825442095/ref=sr_1_3?s=books&ie=UTF8&qid=1519250797&sr=1-3&keywords=abner\\+chou)\n\n**Dr.
+  Brian Morley:** \n\n*[God in the Shadows: Evil in God’s World](https://www.amazon.com/God-Shadows-Evil-Gods-World/dp/1845501756/ref=sr_1_3?s=books&ie=UTF8&qid=1519250878&sr=1-3&keywords=brian\\+morley)*\n\n[Mapping
+  Apologetics: Comparing Contemporary Approaches](https://www.amazon.com/Mapping-Apologetics-Comparing-Contemporary-Approaches/dp/0830840672/ref=sr_1_1?s=books&ie=UTF8&qid=1519250878&sr=1-1&keywords=brian\\+morley)\n\n**Dr.
+  William Varner:** published author since 1984, Dr. Varner has written on a wide
+  variety of biblical topics, including a devotional on the Psalms, a study of the
+  tribes of Israel, a book about the Prophet Elijah, and an additional study of the
+  book of James, Philippians: A Handbook on the Greek Text"
 parallax-img: "/images/Parallax2.jpg"
 why-at-masters:
 - 
