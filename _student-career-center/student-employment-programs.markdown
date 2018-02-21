@@ -208,6 +208,19 @@ employment-body: |-
 layout: careerservices
 ---
 
+**Off-Campus Employment (non-Work Study)**
+
+The Master’s University encourages students to step beyond the limitations of the campus network and seek employment in the community. Santa Clarita is a “bedroom community;” people who work in Los Angeles live and enjoy life here. There are hundreds of employers within a 5-mile radius of The Master’s University, which are accessible by foot, bicycle, bus or car!
+
+*Old Town Newhall and Lyons Avenue:*
+* Concentration of small, privately owned businesses; including boutiques, restaurants, cafes and specialized services (attorneys, realtors, public accountants, medical offices, etc.)
+
+*Shops @ Stevenson Ranch / The Old Road*
+* National/franchised retailers including Family Christian Store, Pavilions, Claim Jumpers, Macaroni Grill, Ralph’s, World Market, Bed Bath & Beyond, Old Navy, Michael’s, Steinmart, Ralph’s, Toys R Us, Goodwill
+
+*Westfield Mall (and surrounding area)*
+* National/franchised retailers including Barnes & Noble, Target, Edwards Cinemas, VONS, HomeGoods, Corner Bakery, Whole Foods, SEARS, Bath and Body Works … there are literally hundreds of employers in this area, most of which have online job applications!
+
 **On-Campus Employment (non-Work Study)**
 
 The Master’s University on-campus student jobs (non-Work Study) are concentrated in general labor, and specialized labor positions. The following positions are great opportunities for non-Work Study employment, whether students are simply looking for some pocket change, or a part-time position through which to support themselves through college.
@@ -227,24 +240,7 @@ The Master’s University on-campus student jobs (non-Work Study) are concentrat
 * IBEX Assistants (Israel)\*\*
 
 \*Applicants must have completed one full year at TMU
-
 \*\*Applicants must be attending IBEX
-
-**Off-Campus Employment (non-Work Study)**
-
-The Master’s University encourages students to step beyond the limitations of the campus network and seek employment in the community. Santa Clarita is a “bedroom community;” people who work in Los Angeles live and enjoy life here. There are hundreds of employers within a 5-mile radius of The Master’s University, which are accessible by foot, bicycle, bus or car!
-
-*Old Town Newhall and Lyons Avenue:*
-
-* Concentration of small, privately owned businesses; including boutiques, restaurants, cafes and specialized services (attorneys, realtors, public accountants, medical offices, etc.)
-
-*Shops @ Stevenson Ranch / The Old Road*
-
-* National/franchised retailers including Family Christian Store, Pavilions, Claim Jumpers, Macaroni Grill, Ralph’s, World Market, Bed Bath & Beyond, Old Navy, Michael’s, Steinmart, Ralph’s, Toys R Us, Goodwill
-
-*Westfield Mall (and surrounding area)*
-
-* National/franchised retailers including Barnes & Noble, Target, Edwards Cinemas, VONS, HomeGoods, Corner Bakery, Whole Foods, SEARS, Bath and Body Works … there are literally hundreds of employers in this area, most of which have online job applications!
 
 **TMU Work Study Programs**
 
