@@ -1,6 +1,7 @@
 ---
 title: Micah Dixon
 date: 2017-07-11 19:12:00 Z
+published: false
 name: Micah Dixon
 email: mdixon@masters.edu
 phone: 1  (661) 362-2216
