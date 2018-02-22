@@ -650,7 +650,7 @@ donar-funded-scholarships-body: |-
 
   **Hailey Marie Franzen Scholarship -** The Hailey Marie Franzen Scholarship is designed to provide financial assistance to **English and Political Science students **showing reasonable progress towards the completion of a degree at The Master’s University.
 
-  **[Inspire Education Scholarship](/uploads/Inspire_Education_Foundation_Scholarship_Fillable%20(1).pdf)- ** The Inspire Education Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. The student must be enrolled in the Teacher Education program at TMU.
+  **[Inspire Education Scholarship](/uploads/Inspire_Education_Foundation_Scholarship_Fillable%20(1).pdf)-** The Inspire Education Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. The student must be enrolled in the Teacher Education program at TMU.
 
   **John and Jo Babbit Endowment–** John and Jo Babbit Endowed Scholarships are designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University.
 
