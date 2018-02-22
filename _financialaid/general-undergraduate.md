@@ -25,7 +25,7 @@ new-transfer-student-body: |-
 continuing-students-body: |-
   # Scholarships - Continuing Students
 
-  Every student must complete a [Financial Aid Application](file:///media/869351/forms-application-faa.pdf "Forms- Application- FAA.pdf") to be considered for any financial aid (including Music, Athletics and outside scholarships). The Master's University offers [Merit-based Scholarships](file:///Users/blakenoll/Desktop/continustsuendkl.html#link-merit), [Need-based Grants](file:///Users/blakenoll/Desktop/continustsuendkl.html#link-need), and [Federal/State Aid](file:///Users/blakenoll/Desktop/continustsuendkl.html#link-federal). See below for more details. All institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.
+  Every student must complete a \[Financial Aid Application\](file:///media/869351/forms-application-faa.pdf "Forms- Application- FAA.pdf") to be considered for any financial aid (including Music, Athletics and outside scholarships). The Master's University offers \[Merit-based Scholarships\](file:///Users/blakenoll/Desktop/continustsuendkl.html#link-merit), \[Need-based Grants\](file:///Users/blakenoll/Desktop/continustsuendkl.html#link-need), and \[Federal/State Aid\](file:///Users/blakenoll/Desktop/continustsuendkl.html#link-federal). See below for more details. All institutional aid is awarded up to 4 years/8 semesters. All institutional aid is evenly disbursed between the two semesters.
 
   ### Priority Deadline: March 2nd
 
@@ -619,6 +619,54 @@ continuing-need-based:
 
     * Please contact the International Student Office for more information.
   document-text: See International Student Office
+donar-funded-scholarships-body: |-
+  ### **Donor-Funded Scholarships**
+
+  The following scholarships are funded by private donors. A Special Committee awards the following scholarships. All scholarship applications are attached; however, for those scholarships that require financial need, students must file the **[Free Application for Federal Student Aid](https://financialaid.uiowa.edu/apply/process/fafsa)** (FAFSA) by April 1 prior to the upcoming academic year. The notification process begins in mid-March and continues through August.
+
+  Specific eligibility requirements are listed within each scholarship description.
+
+  **The Barbara Cherry Memorial Scholarship -** The Barbara Cherry Memorial Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference will be given to students studying the Sciences.
+
+  **Barnabas Scholarship Fund -** The Barnabas Fund Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. The endowment began in 2010 and is founded upon Acts 4:36-37 and 1 John 3:17.
+
+  **The Bethany Grace Rehrer Endowed Scholarship –** The Bethany Rehrer Memorial Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Candidates must give evidence of their involvement in the TMU Department of Music and a demonstrated history of servanthood.
+
+  **Betty J. Cargill Memorial Scholarship -** The Betty J. Cargill Memorial Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference will be given to student exhibiting a strong work ethic.
+
+  **Colleen Southern-Carmichael Endowed Scholarship **– The Colleen Southern-Carmichael Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference shall be given to either: (a) a dependent of an active missionary in full time service on the mission field and not receiving financial aid for education expenses from their mission agency; (b) a student with physical disabilities regardless of the missionary status of the parents.
+
+  **Cornelius Fund -** The Cornelius Fund is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University.
+
+  **Deborah Zobel Memorial Endowed Business Scholarship -** The Deborah Zobel Memorial Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference is given to business majors.
+
+  **[Entrusted Scholarship](/uploads/Entrusted_Scholarship_Fillable%20(1).pdf)- **The Entrusted Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University.
+
+  **[Founders Scholarship](/uploads/Founders_Scholarship_Fillable%20(1).pdf)- **The Founders Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University.
+
+  **Generations Endowed Scholarship- **The Generations Endowed Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference is given to those coming from like-minded, faithful churches.
+
+  **Great is thy Faithfulness Endowed Scholarship -** The Great is Thy Faithfulness Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference is given to business majors with involvement in The Master’s University’s music department.
+
+  **Hailey Marie Franzen Scholarship -** The Hailey Marie Franzen Scholarship is designed to provide financial assistance to **English and Political Science students **showing reasonable progress towards the completion of a degree at The Master’s University.
+
+  **[Inspire Education Scholarship](/uploads/Inspire_Education_Foundation_Scholarship_Fillable%20(1).pdf)- **The Inspire Education Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. The student must be enrolled in the Teacher Education program at TMU.
+
+  **John and Jo Babbit Endowment** – John and Jo Babbit Endowed Scholarships are designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University.
+
+  **Jones – Shepherd Family Scholarship - **The Jones-Shepherd Family Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference will be given to Biological Sciences majors and/or Music majors.
+
+  **[JRW Investments Scholarship](/uploads/JRW_Investments_Scholarship_Fillable%20(1).pdf)- **The JRW Investments Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University.
+
+  **Ken and Nita Mays Endowed Scholarship** - The Ken and Nita Mays Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference is to be given to music majors.
+
+  **MacArthur Endowment -** The MacArthur Endowment is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. The funds available each year for scholarships shall be allocated to the Founders’ Scholarship and Provost’s Scholarship.
+
+  **Pastor-Teach Scholarship Fund -** The Pastor-teacher Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference is given to students who aspire to be full-time pastor-teachers in the local church.
+
+  **[Sportstek Medical Scholarship](/uploads/Sportstek_Medical_Scholarship_Fillable%20(1).pdf)- **The Sportstek Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. The student must be a Business Administration, Communications, or Kinesiology major.
+
+  **1 Corinthians 9:23-27 Endowment -** The 1 Corinthians 9:23-27 Endowed Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference is given to student participating in collegiate baseball, women’s soccer, men’s soccer, and/or men’s and women’s basketball.
 layout: gunderfin
 ---
 
