@@ -1,7 +1,7 @@
 ---
 title: Abner Chou
 date: 2017-02-09 00:24:00 Z
-job-title: Associate Professor of Biblical Studies
+job-title: John F. MacArthur Endowed Fellow
 image: "/uploads/FacultyHeadshots/Chou,%20A.jpg"
 department: Bible
 degrees:
