@@ -1,6 +1,9 @@
 ---
 title: Neuroscience, Semiotics, and the Tower of Babel
 date: 2018-03-01 06:00:00 Z
+author: Professor John Beck, Chair of the Marketing Media Major and Professor of Business
+image: "/uploads/babel2.jpg"
+sm-image: "/uploads/babel2.jpg"
 ---
 
 **When we discuss the general revelation of God in creation, it is impossible for me to get very far before I am floored by the wonder and complexity of the human body.** As God’s intended image bearers, we know that humanity holds a special place in the created order, and there are many theological directions we could go with a discussion like that.
