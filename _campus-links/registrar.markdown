@@ -1009,7 +1009,7 @@ transcript-body: |-
   </li>
   </ul>
   <h3><strong>Diploma Replacement</strong></h3>
-  <p><a href="http://www.masters.edu/media/868032/diploma-request-form.pdf" target="_blank"><strong>Diploma Request Form</strong></a><strong> $10</strong></p>
+  <p><a href="https://www.masters.edu/uploads/Diploma_Request_Form.pdf" target="_blank"><strong>Diploma Request Form</strong></a><strong> $10</strong></p>
 
   <h2><strong>Frequently Asked Questions </strong></h2>
   <p><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank">Please click here<br /></a></strong><strong> </strong><strong><a href="https://exchange.parchment.com/send/adds/index.php?main_page=faq&s_id=L4S7GNOkItUPs1U3" target="_blank"><br /></a></strong></p>
