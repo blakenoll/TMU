@@ -427,7 +427,7 @@ parallax-img: "/images/Parallax3.jpg"
 </tr>
 <tr>
 <td style="text-align: center;">CH151</td>
-<td style="text-align: center;"><a href="#" target="_blank" title="CH151 General Chemistry 1">General Chemistry 1</a></td>
+<td style="text-align: center;"><a href="#" target="_blank" title="CH151 General Chemistry 1">General Chemistry 1</a> \**Traditional students: Advisor and Biology department approval required*</td>
 <td align="center" style="text-align: center;">3</td>
 <td style="text-align: center;">Matt Ingle</td>
 <td style="text-align: center;"> </td>
