@@ -644,11 +644,11 @@ donar-funded-scholarships-body: |-
 
   **[Founders Scholarship](/uploads/Founders_Scholarship_Fillable%20(1).pdf)-** The Founders Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University.
 
-  **Generations Endowed Scholarship- **The Generations Endowed Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference is given to those coming from like-minded, faithful churches.
+  **Generations Endowed Scholarship-** The Generations Endowed Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference is given to those coming from like-minded, faithful churches.
 
   **Great is thy Faithfulness Endowed Scholarship -** The Great is Thy Faithfulness Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. Preference is given to business majors with involvement in The Master’s University’s music department.
 
-  **Hailey Marie Franzen Scholarship -** The Hailey Marie Franzen Scholarship is designed to provide financial assistance to **English and Political Science students **showing reasonable progress towards the completion of a degree at The Master’s University.
+  **Hailey Marie Franzen Scholarship -** The Hailey Marie Franzen Scholarship is designed to provide financial assistance to \*\*English and Political Science students \*\*showing reasonable progress towards the completion of a degree at The Master’s University.
 
   **[Inspire Education Scholarship](/uploads/Inspire_Education_Foundation_Scholarship_Fillable%20(1).pdf)-** The Inspire Education Scholarship is designed to provide financial assistance to deserving students showing reasonable progress towards the completion of a degree at The Master’s University. The student must be enrolled in the Teacher Education program at TMU.
 
