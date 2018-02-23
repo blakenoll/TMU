@@ -2,7 +2,7 @@
 title: Beth Mitchell
 date: 2018-01-23 19:14:00 Z
 department: Music
-job-title: Adjunct Faculty, Tuba
+job-title: Adjunct Faculty, Tuba and Euphonium
 degrees:
 - B.M., Peabody Conservatory of Music
 - M.M., University of Southern California
