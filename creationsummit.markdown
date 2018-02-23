@@ -2,8 +2,8 @@
 title: Creation Summit
 date: 2017-11-09 16:52:00 Z
 banner-image: "/uploads/CS_WebBanner.jpg"
-button-link: https://masters.formstack.com/forms/creation_summit_2018
-button-text: Register
+button-link: "#!"
+button-text: Registration Closed
 layout: event
 ---
 
