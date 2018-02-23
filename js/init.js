@@ -33,11 +33,25 @@ var search = instantsearch({
 
 });
 
-search.addWidget(
- instantsearch.widgets.searchBox({
-   container: '#search-input'
- })
-);
+// search.addWidget(
+//  instantsearch.widgets.searchBox({
+//    container: '#search-box',
+//    cssClasses: {
+//      input: 'browser-default'
+//    }
+//  })
+// );
+
+search.addWidget({
+  init: function(opts) {
+    const helper = opts.helper;
+    const input = document.querySelector('#search-box');
+    input.addEventListener('input', function(e) {
+      helper.setQuery(e.currentTarget.value) // update the parameters
+            .search(); // launch the query
+    });
+  }
+});
 
 search.addWidget(
  instantsearch.widgets.hits({
