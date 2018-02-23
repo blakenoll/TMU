@@ -31,7 +31,7 @@ youth-programs:
 
     Friday Concert @ 7:00 pm
 
-    \$170
+    $170
 
     ## Students Ages 12-18
 
@@ -41,7 +41,7 @@ youth-programs:
 
     Thursday Concert @ 7:00 pm
 
-    \$170
+    $170
 
     ## Location
 
@@ -299,7 +299,7 @@ youth-programs:
   register-link: mailto:kcunningham@masters.edu
 music-orders:
 - name: Praise His Holy Name! (2016)
-  artist: The Master's University Choral
+  artist: The Master's University Chorale
   album-image: http://www.masters.edu/media/867781/screen-shot-2016-05-10-at-115204-am.png
   tracks:
   - Doxology
