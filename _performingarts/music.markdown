@@ -696,7 +696,6 @@ layout: pamusic
 Ceres, CA 95307
 10:30 AM
 
-
 ***Foothill Christian Fellowship***
 1100 Sugar Pine Rd
 Meadow Vista, CA 95722
@@ -704,9 +703,9 @@ Meadow Vista, CA 95722
 
 ### March 12
 
-***Calvary Baptist Church***
-577 Walnut St
-Elko, NV 89801
+Spring Creek Baptist Church
+368 Spring Creek Pkwy
+Spring Creek, NV 89815
 7:00 PM
 
 ### March 13
