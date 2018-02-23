@@ -310,7 +310,6 @@ plugins:
 - jekyll-feed
 - jekyll-redirect-from
 - jekyll-paginate
-- jekyll-algolia
 exclude:
 - Gemfile
 - Gemfile.lock
