@@ -10,7 +10,6 @@ parallax-img: "/images/Parallax11.jpg"
     <div class="row">
     <div class="col s12">
       <ul class="tabs tabs-fixed-width">
-        <li class="tab"><a href="/admissions/undergrad/" target="_blank">Undergraduate</a></li>
         {% assign programs = site.admissions | sort: "position"%}
         {% for program in programs %}
         <li class="tab"><a href="#{{ program.title | remove: " " | downcase }}">{{ program.title }}</a></li>
