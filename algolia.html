@@ -1,17 +1,20 @@
 ---
 layout: default
+title: search
 ---
-
+{% include parallax-header.html %}
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3/dist/instantsearch.min.css">
  <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3/dist/instantsearch.min.js"></script>
 
 <div class="container">
   <div class="row">
-    <div class="input-field col s6">
-      <i class="material-icons prefix">search</i>
-      <input id="search-box" placeholder="Search...">
-    </div>
-
+      <div class="input-field col s12 m6">
+          <i class="material-icons prefix">search</i>
+          <input id="search-box" placeholder="Search...">
+        <a href="https://www.algolia.com/">
+          <img src="/images/search-by-algolia.png" alt="Search By Algolia" width="100px" class="right">
+        </a>
+      </div>
   </div>
   <div class="row">
     <div class="col s12 search-results">
