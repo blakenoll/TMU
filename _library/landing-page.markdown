@@ -37,6 +37,7 @@ contact-body: "**Circulation Desk:** 661.362.2278; library@masters.edu"
 layout: library
 ---
 
-## [Happy Birthday Mr. President](https://www.archives.gov/news/topics/washingtons-birthday)
+## [PHILOSOPHER'S INDEX](http://masters.libguides.com/philosphersindex)
 
-<a href="https://www.archives.gov/news/topics/washingtons-birthday" target="_blank"><img src="/uploads/Washington%20blue.png" alt="Washington blue.png" width="200px"></a>
+![PHilosopher's Index.png](/uploads/PHilosopher's%20Index.png)
+Have you used Philosopher's Index today?  Give it a try.  Only 13 days left.
