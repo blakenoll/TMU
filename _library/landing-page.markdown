@@ -41,4 +41,4 @@ layout: library
 <a href="http://masters.libguides.com/philosphersindex" target="_blank"><img src="/uploads/PHilosopher's%20Index.png" alt="PHilosopher's Index.png" width="500px"></a>
 
 ### **Have you used Philosopher's Index today?
-Give it a try.  Only 13 days left.**
+Only 13 days left.**
