@@ -4,7 +4,7 @@ sm-image: "/uploads/AcademicsUndergradIcons_Music.png"
 description: |-
   Welcome to the School of Music at The Master's University. Our mission is to inspire students toward excellence in every way for the Master, and we think we have a place for you!
 
-  The Master's University is accredited by [NASM](http://nasm.arts-accredit.org/), the National Association of Schools of Music. With 2 degrees and 14 emphases, our department is large enough to provide performance opportunities in state-of-the-art facilities and small enough to grant individual attention and a variety of experiences. Our Senior Bachelor of Music students recently scored in the 97th percentile in 2016 in the national standardized test (Education Testing Service, Princeton). Come find out how you can be a part of the music happening at TMU!
+  The Master's University is accredited by [NASM](http://nasm.arts-accredit.org/), the National Association of Schools of Music. With 2 degrees and 14 emphases, the School of Music is large enough to provide performance opportunities in state-of-the-art facilities, yet small enough to grant individual attention and a variety of experiences. Our Senior Bachelor of Music students recently scored in the 97th percentile in 2016 in the national standardized test (Education Testing Service, Princeton). Come find out how you can be a part of the music happening at TMU!
 emphasis:
 - Audio Technology
 - Composition
@@ -205,9 +205,9 @@ required-courses-body: |-
 
   * MU360B Additional Vocal Instruction (6)
 
-  * MU464 Vocal Pedagogy (2)
+  * MU436 Vocal Pedagogy (2)
 
-  * MU466 Vocal Literature (2)
+  * MU435 Vocal Literature (2)
 
   * MU260B Recital (30 minutes) (1)
 
