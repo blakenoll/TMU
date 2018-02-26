@@ -35,7 +35,7 @@ layout: default
               <h2>Upcoming Events</h2>
               {% assign current = "now" | date: "%Y%m%d" %}
               <ul>
-                 {% assign events = page.upcoming-events %}
+                 {% assign events = page.upcoming-events | sort: 'date' %}
                  {% for event in events %}
                  {% assign date = event.date | date: "%Y%m%d" %}
                  {% if date > current %}
