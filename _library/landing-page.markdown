@@ -38,6 +38,7 @@ layout: library
 ---
 
 ## [PHILOSOPHER'S INDEX](http://masters.libguides.com/philosphersindex)
-<a href="http://masters.libguides.com/philosphersindex" target="_blank"><img src="/uploads/PHilosopher's%20Index.png" alt="PHilosopher's Index.png" width="200px"></a>
+<a href="http://masters.libguides.com/philosphersindex" target="_blank"><img src="/uploads/PHilosopher's%20Index.png" alt="PHilosopher's Index.png" width="500px"></a>
 
-### **Have you used Philosopher's Index today?  Give it a try.  Only 13 days left.**
+### **Have you used Philosopher's Index today?
+Give it a try.  Only 13 days left.**
