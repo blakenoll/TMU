@@ -703,7 +703,7 @@ Meadow Vista, CA 95722
 
 ### March 12
 
-Spring Creek Baptist Church
+**Spring Creek Baptist Church**
 368 Spring Creek Pkwy
 Spring Creek, NV 89815
 7:00 PM
@@ -728,9 +728,9 @@ Meridian, ID 83642
 
 ### March 15
 
-***Magic Valley Baptist Church***
-440 Clear Lakes Rd
-Buhl, ID 83316
+***Magic Valley Bible Church***
+204 Main Ave N
+Twin Falls, ID 83301
 7:00 PM
 
 ### March 16
