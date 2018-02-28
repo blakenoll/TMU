@@ -33,15 +33,6 @@ var search = instantsearch({
 
 });
 
-// search.addWidget(
-//  instantsearch.widgets.searchBox({
-//    container: '#search-box',
-//    cssClasses: {
-//      input: 'browser-default'
-//    }
-//  })
-// );
-
 search.addWidget({
   init: function(opts) {
     const helper = opts.helper;
