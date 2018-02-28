@@ -208,4 +208,4 @@ Questions in the meantime?
 
 * **write**  admissions@masters.edu
 
-<a class="btn btn-navy" href="/uploads/View%20SP18%20Sample%20Schedule%20Real.pdf">Schedule</a>
+<a class="btn btn-navy" href="/uploads/View%20SP18%20Student%20Schedule.pdf">Schedule</a>
