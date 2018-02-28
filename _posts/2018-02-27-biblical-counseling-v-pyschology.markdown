@@ -1,6 +1,7 @@
 ---
 title: Biblical Counseling v. Pyschology
 date: 2018-02-27 06:00:00 Z
+author: Prof. Greg Gifford, Professor of Biblical Counseling at TMU
 catergory: Life At TMU
 image: "/uploads/biblicalcounsel.jpg"
 sm-image: "/uploads/biblicalcounsel.jpg"
