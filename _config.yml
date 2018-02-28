@@ -2,6 +2,9 @@
 title: The Master's University
 timezone: UTC
 collections:
+  academics:
+    title: Academics
+    output: true
   admissions:
     title: Admissions
     output: true

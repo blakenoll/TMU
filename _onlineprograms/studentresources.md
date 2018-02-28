@@ -107,7 +107,7 @@ textbooks-body: |-
 
   ### Biblical Counseling
 
-  [(BA-BC Booklist)](/uploads/BA-BC%20Booklist.pdf)
+  [(BA-BC Booklist)](/uploads/BA-BC%20Booklist-cece9f.pdf)
 
   ### Biblical Studies
 
@@ -123,7 +123,7 @@ textbooks-body: |-
 
   ### Masters of Arts, Biblical Studies
 
-  [(MABS Booklist)](/uploads/MABS%20Booklist.pdf)
+  [(MABS Booklist)](/uploads/MABS%20Booklist-bb37b7.pdf)
 
   ### Master of Business Administration
 

@@ -391,25 +391,25 @@ upcoming-events:
 
     Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://masters-music.tix.com/Schedule.aspx?OrgNum=2178).
 - title: Piano Extravaganza
-  date: 2018-02-08 00:00:00 Z
+  date: 2018-02-08 19:30:00 Z
   description: 
 - title: The Master's Chorale Concert
-  date: 2018-02-23 00:00:00 Z
+  date: 2018-02-23 19:03:00 Z
   description: 
 - title: Women's Chamber Choir Concert
-  date: 2018-03-01 00:00:00 Z
+  date: 2018-03-01 19:30:00 Z
   description: 
 - title: Chamber Ensembles Concert
-  date: 2018-03-22 00:00:00 Z
+  date: 2018-03-22 19:30:00 Z
   description: 
 - title: Forest Lawn Concert
-  date: 2018-03-28 00:00:00 Z
+  date: 2018-03-28 19:30:00 Z
   description: |-
     Hall of The Crucifixion-Resurrection, Forest Lawn Glendale
 
     Call 661.362.2262 to request complimentary tickets or visit [masters.edu/music](http://www.masters.edu).
 - title: Forest Lawn Concert
-  date: 2018-03-29 00:00:00 Z
+  date: 2018-03-29 19:30:00 Z
   description: |-
     Hall of The Crucifixion-Resurrection, Forest Lawn Glendale
 
@@ -439,13 +439,13 @@ upcoming-events:
 
     Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
 - title: Wind Ensemble Concert
-  date: 2018-04-19 00:00:00 Z
+  date: 2018-04-19 19:30:00 Z
   description: 
 - title: Handbell Concert
-  date: 2018-04-27 00:00:00 Z
+  date: 2018-04-27 19:30:00 Z
   description: 
 - title: School of Music Spring Concert
-  date: 2018-05-03 00:00:00 Z
+  date: 2018-05-03 19:00:00 Z
   description: 
 ensemble-body: |-
   ## **Women’s Chamber Choir – California, Nevada & Idaho Tour**
@@ -703,7 +703,7 @@ Meadow Vista, CA 95722
 
 ### March 12
 
-Spring Creek Baptist Church
+**Spring Creek Baptist Church**
 368 Spring Creek Pkwy
 Spring Creek, NV 89815
 7:00 PM
@@ -728,9 +728,9 @@ Meridian, ID 83642
 
 ### March 15
 
-***Magic Valley Baptist Church***
-440 Clear Lakes Rd
-Buhl, ID 83316
+***Magic Valley Bible Church***
+204 Main Ave N
+Twin Falls, ID 83301
 7:00 PM
 
 ### March 16

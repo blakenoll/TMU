@@ -1,5 +1,5 @@
 ---
-title: Dr. Dan Forrest
+title: Dan Forrest
 date: 2018-01-23 18:34:00 Z
 department: Music
 job-title: Guest Faculty,  Composition
