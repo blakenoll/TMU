@@ -1,6 +1,7 @@
 ---
 title: John Martin
 date: 2018-01-23 19:39:00 Z
+image: "/uploads/Martin,%20J.jpg"
 department: Music
 job-title: 'Adjunct Faculty, Audio Technology '
 ---
