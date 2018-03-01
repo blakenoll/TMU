@@ -2,6 +2,7 @@
 title: Betty Price
 date: 2017-05-02 17:38:00 Z
 job-title: Associate Professor of Biblical Studies; Women's Ministries
+image: "/uploads/Price,%20B.jpg"
 department: Bible
 degrees:
 - B.A., University of Mississippi
