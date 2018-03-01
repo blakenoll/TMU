@@ -5,25 +5,24 @@ tags:
 - bible
 - tesol
 sm-image: "/uploads/AcademicsUndergradIcons_Bible.png"
-description: "Standing firm on Christ & Scripture since 1927, there is no better place
-  to study the Bible than at The Master’s University. We hold the Word of God as sufficient
-  in all things, including its own interpretation. To best equip our students for
-  their intended fields, ministry or otherwise, we teach them how to approach the
-  Word; through Greek and/or Hebrew, the context in which it was written, along with
-  a large selection of classes ranging from biblical counseling to the book of Revelation.\n\nOur
-  professors are not just equipped scholarly, but are heavily involved in their local
-  church and other ministries: practicing what they teach and standing as examples
-  to each student.\n\nMore about our Bible department: \n\n*  We are the only campus
-  to offer an entire semester abroad in Israel. Through  the **Israel Bible Extension
-  program (IBEX)** a student can spend a semester studying the Bible in the land it
-  occurred and earn 15-18 units towards a Bible Minor or Major.\n\n* We offer a bi-annual
-  **Turkey & Greece Winter Break Trip**. For only $4,000 current students and alumni
-  spend two weeks  traveling to ancient sites and places to which Paul addressed his
-  letters. Students can earn class credit. \n\n* We have a 10:1 student- teacher ratio.\n\n*
-  Are one of the first campuses to offer a Biblical Counseling degree, and one of
-  the few to hold to ACBC counseling vs. integrational models.\n\n* Students in any
-  emphasis will have a working knowledge of Greek or Hebrew, be able to apply hermeneutics
-  to correctly interpret biblical text and understand ministry from a biblical perspective."
+description: |-
+  Standing firm on Christ & Scripture since 1927, there is no better place to study the Bible than at The Master’s University. We hold the Word of God as sufficient in all things, including its own interpretation. To best equip our students for their intended fields, ministry or otherwise, we teach them how to approach the Word; through Greek and/or Hebrew, the context in which it was written, along with a large selection of classes ranging from biblical counseling to the book of Revelation.
+
+  Our professors are not just equipped scholarly, but are heavily involved in their local church and other ministries: practicing what they teach and standing as examples to each student.
+
+  More about our Bible department:
+
+  * We are the only campus to offer an entire semester abroad in Israel. Through  the **Israel Bible Extension program (IBEX)** a student can spend a semester studying the Bible in the land it occurred and earn 15-18 units towards a Bible Minor or Major.
+
+  * We offer a bi-annual **Turkey & Greece Winter Break Trip**. For only $4,000 current students and alumni spend two weeks  traveling to ancient sites and places to which Paul addressed his letters. Students can earn class credit.
+
+  * We have a 10:1 student- teacher ratio.
+
+  * Are one of the first campuses to offer a Biblical Counseling degree, and one of the few to hold to ACBC counseling vs. integrational models.
+
+  * Students in any emphasis will have a working knowledge of Greek or Hebrew, be able to apply hermeneutics to correctly interpret biblical text and understand ministry from a biblical perspective.
+
+  * [TESOL program](/tesol)
 emphasis:
 - Bible General
 - Biblical Counseling
