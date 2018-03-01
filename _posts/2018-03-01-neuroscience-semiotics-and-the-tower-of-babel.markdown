@@ -18,8 +18,7 @@ The unregenerate heart allows every new scrap of knowledge to inflate human prid
 
 > What we need to understand when we go down the road of marveling at advances in neuroscience, is that we are still truly and vastly limited in our understanding.
 
-
-If you are familiar with the term PET scan, I can give you an idea of what I mean. A PET can measure volume elements down to 5 mm3. They call those little units voxels (volume elements). Those are a bit like the 2D pixels that compose the picture on your television or computer screen, but they are 3D because they have volume.
+If you are familiar with the term PET scan, I can give you an idea of what I mean. A PET can measure volume elements down to 5 mm<sup>3</sup>. They call those little units voxels (volume elements). Those are a bit like the 2D pixels that compose the picture on your television or computer screen, but they are 3D because they have volume.
 
 So are we seeing the details of the brain’s inner workings? Not when you realize that each pixel in our image of the brain contains about five million neurons. Yes, that’s right. Each of the smallest dots that the PET can see, contains five million neurons. That comes to 50 billion synapses per Voxel that are out of focus when we try to peer into the mind.
 
@@ -32,19 +31,19 @@ God has allowed human beings to observe some great wonders about what is going o
 
 The sad news from this research is that we can’t say “right brained” or “left brained” anymore because that understanding is out of date. Instead, there seem to be networks of brain locations spread across both hemispheres which show greater or lesser activity when a person is engaged in various kinds of activities. There is even a “default network” that seems to be activated when you are awake but thinking about nothing in particular.
 
-**Other fun facts you could talk about at the dinner table:** 
+**Other fun facts you could talk about at the dinner table:**
+
 * the brain accounts for only about 2% of body weight but uses 20% of all the energy you consume in a day.
 
 If you think that your new exercise program might be a deep thought workout, you should know that intense thought only changes the locations of your brain that are activated. All your neurons are firing all the time. Your brain is simply amazing and amazingly costly from an energy standpoint.
 
 When you consider that these brains of ours are social, and that they not only function internally, but that they drive interaction in community things get even more interesting. The whole idea of this line of thought is referred to as social cognition.
 
-Communication scholars have looked at social sense-making for years. It seems we try to make sense of our environments, and events in community through communication and with great subjectivity. 
+Communication scholars have looked at social sense-making for years. It seems we try to make sense of our environments, and events in community through communication and with great subjectivity.
 
+The best way that I can describe this line of inquiry is that it concerns subjective creation of meaning by groups of people.
 
-The best way that I can describe this line of inquiry is that it concerns subjective creation of meaning by groups of people. 
-
-> It is sometimes called the social construction of reality (Berger, 1967). 
+> It is sometimes called the social construction of reality (Berger, 1967).
 
 ### Scared yet?
 
@@ -52,7 +51,7 @@ Part of that sense-making function that we engage in includes the assignment of 
 
 So, you are walking around with a miracle between your ears.
 
-Because I love to study communication, the next thing out of my mouth should be that communication must be the thing that makes us objectively and biologically special, right? Here we must return to imago Dei, and say what makes us biblically special is that we are made as God’s image bearers. 
+Because I love to study communication, the next thing out of my mouth should be that communication must be the thing that makes us objectively and biologically special, right? Here we must return to imago Dei, and say what makes us biblically special is that we are made as God’s image bearers.
 
 ## Our God is a communicating God. His first act in creation was to speak.
 
@@ -62,27 +61,27 @@ Maybe, partly, but from the standpoint of an objective observer, I don’t think
 
 # What makes us biologically unique is our ability to conceive of God.
 
-That is why I spent so much time in the fuzzy world of cognitive neuroscience earlier. 
+That is why I spent so much time in the fuzzy world of cognitive neuroscience earlier.
 
 That mass between your ears is custom made to think about God. First, it is way more developed than it needs to be, it burns way more energy than evolutionary biologists would say makes sense, and it is designed in a very specific way.
 
 The design of your brain is something that the folks who are concerned with computer architecture like to call a ‘massively parallel architecture’(Chen, Hu, Cai, Zeng, & Li, 2017).So, what is a massively parallel architecture good at, and what is it doing between your ears?
 
-By now you probably saw this coming. What massively parallel architectures are good at is **pattern recognition.** The computers they were building 30 years ago could run circles around your noodle when it comes to calculations. But that is not what makes you special; that’s not what your brain was designed for. 
+By now you probably saw this coming. What massively parallel architectures are good at is **pattern recognition.** The computers they were building 30 years ago could run circles around your noodle when it comes to calculations. But that is not what makes you special; that’s not what your brain was designed for.
 
 ## Your brain is custom made to detect very large, very significant patterns.
 
 What is the largest pattern that can possibly be detected?
 
-Is it the ‘universe?’ 
+Is it the ‘universe?’
 
-No, I’m afraid not. 
+No, I’m afraid not.
 
 At the fall, when sin destroyed our ability to relate to God on his terms, and we began to ‘suppress the truth in unrighteousness’ our massively parallel brains willfully turned from their capacity to know and relate to God.
 
 But somebody forgot to cut the ignition on our mental engine and things took a tragic turn.
 
-The fall led us down a tragic spiral of inordinate idol creation and this expresses itself visibly in culture. 
+The fall led us down a tragic spiral of inordinate idol creation and this expresses itself visibly in culture.
 
 > We made gods out of every recognizable pattern in nature, and even created systems of our own to worship. We began worshiping creation rather than the creator. As John Calvin once said, “Man’s nature, so to speak, is a perpetual factory of idols.”
 
@@ -90,7 +89,7 @@ When cultural anthropologists look at language as a manifestation of culture, th
 
 The internet has just accelerated the process of creating and negotiating the meaning of symbols on a massive scale. Have you seen the latest meme?
 
-OK, so I bored you to death about semiotics and neuroscience. Where does the tower of babel come in? It comes in through culture, language, conflict, wanton rebellion against God, and millennia marked by the heartache of human brokenness. 
+OK, so I bored you to death about semiotics and neuroscience. Where does the tower of babel come in? It comes in through culture, language, conflict, wanton rebellion against God, and millennia marked by the heartache of human brokenness.
 
 ## All of this built on a foundation of broken inordinate meaning construction.
 
@@ -101,7 +100,6 @@ It wouldn’t be wrong considering all of this to think of the human brain as a 
 By now your brains are bristling with biblical associations which I’ve intentionally left out. Please feel free to add these in the comments and to test these ideas against reliable principles from the word.
 
 After all, disciplined empirical investigation of God’s general revelation, must conform to his special revelation as presented in scripture. We need regenerate minds whose unique capacities are turned to their highest use in glorifying God through Christian scholarship.
-
 
 ---
 
