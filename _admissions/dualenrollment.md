@@ -6,7 +6,7 @@ position: 3
 <img src="{{ "/images/DualEnrollment_1920x500.jpg" | prepend: site.url }}" alt="" width="100%">
 <div class="row">
 <div class="col s12 m4 l3 right admissions-btns">
-<a href="https://mastersuniversity.force.com/application/TX_SiteLogin?startURL=%2Fapplication%2FTargetX_Portal__PB" class="btn btn-navy">Apply Now</a><br>
+<a href="https://mastersuniversity.force.com/application/" class="btn btn-navy">Apply Now</a><br>
 <a href="https://masters.tfaforms.net/217731" class="btn btn-navy">Request Info</a>
 </div>
 </div>
