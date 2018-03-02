@@ -14,7 +14,7 @@ staff:
     *It is our pleasure to provide assurance and meaningful assistance to our students here at The Master’s University, and to help propel them into amazing opportunities for future success!*
 - name: Elise Aydelotte
   title: Manager, Human Resources & Student Employment
-  image: 
+  image: "/uploads/Aydelotte,%20E.jpg"
   bio-body: |-
     *The mission of The Master’s University **Office of Student Employment** is to direct students to
     employment opportunities which will allow them to develop valuable workplace skills, and
