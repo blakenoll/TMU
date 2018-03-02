@@ -16,15 +16,15 @@ staff:
   title: Manager, Human Resources & Student Employment
   image: 
   bio-body: |-
-    The mission of The Master’s University **Office of Student Employment** is to direct students to
+    *The mission of The Master’s University **Office of Student Employment** is to direct students to
     employment opportunities which will allow them to develop valuable workplace skills, and
     challenge them to define their character as they grow into young, Christian professionals
-    who positively impact the world for Jesus Christ.
+    who positively impact the world for Jesus Christ.*
 
-    It is my heart to walk alongside TMU students and provide individualized guidance as they build
+    *It is my heart to walk alongside TMU students and provide individualized guidance as they build
     a professional foundation consistent with their God-given talents. It is one of our greatest joys
     to see students and graduates find purpose and joy in a career or life position through which they
-    fulfill God’s calling in their lives.\*
+    fulfill God’s calling in their lives.*
 work-study-body: |-
   ## How work study works
 
@@ -337,5 +337,4 @@ layout: studentcareercenter
 
 <a class="btn btn-navy" href="https://goo.gl/forms/xxifsE9R0CgXhfjr2" target="_blank">Workshop Sign Up</a>
 
-
-The Master’s University Student Career Center combines the resources and strengths of both the Office of Student Employment and the Office of Career Services to form a vibrant, new department designed to actively engage and support our student body in their journey towards professional excellence and success.
+The mission of The Master’s University Student Career Center is to assist students and alumni for a career that will have a life of enduring commitment to Christ, biblical fidelity, moral integrity, intellectual growth, and lasting contribution to the Kingdom of God worldwide.
