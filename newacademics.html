@@ -9,8 +9,8 @@ layout: default
     <div class="col s12">
       <div class="programs">
         <h1>Majors & Programs</h1>
-        {% for program in site.academics.majors-and-programs.bachelor-arts %}
-        <p>{{site.academics.majors-and-programs.bachelor-arts}}</p>
+        {% for program in site.departments %}
+        <p>{{program.title}}</p>
         {% endfor %}
       </div>
     </div>
