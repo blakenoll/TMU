@@ -1,29 +1,25 @@
 ---
 title: Prelude
-date: 2017-11-22 19:36:00 Z
+date: 2018-11-11 19:30:00 Z
 button-text: Register
 button-link: https://www.formstack.com/forms/?1130716-KK3hEWI7MZ
 image: "/images/Music@Masters_1920x500.jpg"
 layout: prelude
 ---
 
-**February 18-19**
+**November 11-12**
 
-Looking for a music program dedicated to growing and stretching your talent and your character? Come check out The Master’s University School of Music! While you're here, you'll have the opportunity to meet our faculty and current students, visit classes and chapel, stay in the dorms, tour the campus and hear our ensembles perform. You'll also be able to learn more about enrollment and financial aid at TMU as well as audition for a music scholarship.
+Looking for a music program dedicated to growing and stretching your talent and your character? Come check out The Master’s University School of Music! While you're here, you'll have the opportunity to meet our faculty and current students, visit classes and chapel, stay in the dorms, tour the campus, hear our ensembles perform, and learn more about admissions and financial aid at TMU. During Prelude, all high school seniors and college transfer students will have the option of completing their audition for entrance into the School of Music.
 
-[REGISTER HERE ](https://www.formstack.com/forms/?1130716-KK3hEWI7MZ "Register Here")  By February 12th.
-
-### Prelude Scholarship Competition
-
-All students who audition for a music scholarship during this semester's Prelude will be considered for a special one-year Prelude Scholarship in the amount of $2000. This award will be given in addition to any other earned scholarships, music or otherwise. The recipient of this scholarship will be chosen and awarded during Prelude weekend.
+[REGISTER HERE ](https://www.formstack.com/forms/?1130716-KK3hEWI7MZ "Register Here")  By November 5th.
 
 E-mail [music@masters.edu](mailto:music@masters.edu) with inquiries or call 800-568-6248 ×2279.
 
 We want you to be a part of our growing music department!
 
-School of Music  Auditions (optional)
+School of Music Auditions 
 
-For more information regarding Music Auditions, please email the [Music Department](mailto:music@masters.edu)
+For more information regarding Music Auditions, please email the [School of Music ](mailto:music@masters.edu)
 
 Schedule:
 
@@ -53,7 +49,7 @@ Schedule:
 
 12:50 Class Visitation or Admissions & Financial Aid Seminar
 
-2:00 Entrance/Scholarship Auditions Begin
+2:00 Entrance Auditions Begin
 
 2:15 Student Panel
 
