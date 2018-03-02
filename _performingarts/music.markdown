@@ -445,7 +445,7 @@ upcoming-events:
   date: 2018-04-27 19:30:00 Z
   description: 
 - title: School of Music Spring Concert
-  date: 2018-03-06 16:00:00 Z
+  date: 2018-05-03 19:00:00 Z
   description: 
 - title: Music Career Meeting with Dr. Dan Forrest
   date: 2018-03-06 16:00:00 Z
