@@ -447,7 +447,7 @@ upcoming-events:
 - title: School of Music Spring Concert
   date: 2018-05-03 19:00:00 Z
   description: 
-- title: Music Career Meeting with Dr. Dan Forrest
+- title: Music Practicum Meeting with Dr. Dan Forrest
   date: 2018-03-06 16:00:00 Z
   description: '"The Art of Beauty in Music Composition" - Open to the public'
 - title: Voice Masterclass with Phil Webb
