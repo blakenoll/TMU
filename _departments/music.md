@@ -995,7 +995,7 @@ prospective-students-body: |-
 
   1\. Download the School of Music Application found below. Complete and return to the School of Music via mail or by scanning and emailing the document.
 
-  2\. Contact the School of Music (ext. 2279) to schedule your audition time. Prepare appropriate selections in accordance whit the requirements listed below. You may wish to consult a teach to help you make a selection that best demonstrates your musical ability. Attire should reflect the seriousness of the audition process.
+  2\. Contact the School of Music (ext. 2279) to schedule your audition time. Prepare appropriate selections in accordance with the requirements listed below. You may wish to consult a teacher to help you make a selection that best demonstrates your musical ability. Attire should reflect the seriousness of the audition process.
 
   **Auditions:**
 
