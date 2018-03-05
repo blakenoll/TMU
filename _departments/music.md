@@ -856,7 +856,7 @@ music-emphasis:
 bm-credits: 
 ensembles:
 - name: The Master's Chorale
-  image: http://www2.masters.edu/w/GetHostedFile.ashx?chorale.jpg&Id=161
+  image: "/uploads/TMU%20Chorale%20003%20edit.png"
   body: "The Master's Chorale a 60-member auditioned choir under the direction of
     Dr. Paul Plew, represents students from across the United States and around the
     world. The Chorale is built of students from almost every academic major on the
@@ -889,7 +889,7 @@ ensembles:
 
     * [The Red Machine](http://www2.masters.edu/academics/departments/music/RedMachine.mp3)
 - name: 'Women''s Chamber Choir '
-  image: http://www.masters.edu/media/869341/wcc-17-formal.jpg?width=498&height=332
+  image: "/uploads/WCC_2018-1.jpg"
   body: |
     **Dr. Carolyn Simons, Director**
 
