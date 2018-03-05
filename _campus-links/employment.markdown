@@ -641,6 +641,89 @@ positions:
     documents included in your application remain the sole property of The Master’s
     University & Seminary and will not be returned.   Your file for this opening will
     not be considered unless all requested items are submitted and are complete."
+- title: Lab Supervisor (Regular Part Time) (University)
+  position: Staff
+  about-body: "INFORMATION\nJob Title:\tLab Supervisor\t\nWkly. Hrs./Weeks:\t24/38\nDepartment:\tBiological
+    & Physical Science\t\nClassification:\tNon-exempt\nReports To:\tChair, Biological
+    and Physical Science\tEffective Date:\t05/01/18\n\nSUMMARY\nUnder direct supervision,
+    sets up lab experiments and/or participates in the fabrication and installation
+    of equipment for specified classes or laboratory research projects within a physical
+    or life sciences discipline. Duties may include fabrication of research/testing
+    components, preparing specimens, media, and equipment, making chemical solutions,
+    and cleaning up after labs, as appropriate to the specific position. May assist
+    students in lab activities, and may perform miscellaneous administrative duties.\n\nESSENTIAL
+    FUNCTIONS\n•\tMaintain all labs including helping instructors with break down
+    and set-up of lab equipment for laboratory courses. This also includes keeping
+    labs clean and presentable and up to date with supplies for lab experiments including
+    keeping safety equipment available and up to date.\n•\tThe technician will order
+    lab supplies as needed per request by instructors and lab supervisors and keep
+    records of orders and chemical data safety sheets that are sent with each chemical
+    order.  The chemical safety data sheets need to be maintained in each lab and
+    on an online resource.\n•\tThe technician will also supervise student workers
+    and follow all safety policies as per the departmental and campus safety manuals.
+    The technician will attend campus safety meetings.\n•\tIt is expected that the
+    lab technician will be available during the hours before/after and during which
+    the laboratory courses are in session so that he/she can be available to help
+    with lab needs during the class, within the limits of the number of work hours
+    described in the contract for this employee.\n•\tPractices safety, environmental,
+    and/or infection control methods.\n•\tRegular attendance is essential\n•\tOther
+    duties as assigned\n\nCOMPETENCIES\n•\tAbility to follow routine verbal or written
+    instructions.\n•\tAbility to maintain quality, safety, and/or infection control
+    standards.\n•\tSkill in providing guidance and instruction in laboratory protocols
+    and in the safe use of laboratory equipment.\n•\tKnowledge of experimental procedures,
+    protocols, and preparation techniques within area of specialty.\n•\tKnowledge
+    of related accreditation and certification requirements.\n•\tAbility to set up,
+    calibrate, operate, and maintain standard laboratory and test equipment.\n•\tKnowledge
+    of the cleaning specifications of various laboratory and/or medical equipment,
+    fixtures, utensils, and related materials.\n\nQUALIFICATIONS\n•\tHas a personal
+    relationship with Jesus Christ and a demonstrated commitment to the doctrinal
+    position of TMUS and a continuous exhibition of a desire to minister and serve
+    others in varied capacities. \n•\tMust be able to get along with co-workers and
+    the public.\n•\tEducation:  Bachelor’s degree preferred.\n•\tExperience:  1+ years
+    working in a lab in an educational institution preferred\n•\tDemonstrated ability
+    to establish and maintain effective working relationships with staff, faculty,
+    vendors, students, &/or community members of diverse academic, socio-economic,
+    cultural, & ethnic backgrounds.\n•\tHave computer proficiency.\n•\tBasic mathematics
+    and accounting knowledge is necessary.\n•\tExcellent oral and written command
+    of the English language is required.\n•\tAbility to compose, proofread and edit
+    correspondence.\n•\tPossess excellent organizational skills.\n•\tExercise confidentiality,
+    good judgment and discernment.\n•\tService oriented and able to interface with
+    many people is mandatory.\n•\tMultitasked in an environment with many distractions
+    is a must.\n•\tReading and comprehending correspondence is imperative.\n•\tMust
+    successfully pass a background investigation.\n\nWORKING CONDITIONS\n•\tWorking
+    Environment: Mostly indoors in a typical office environment, with an occasional
+    need to visit other areas on campus.  \n•\tPhysical Demands: Must be able to lift,
+    pull, push, grasp and bend while lifting up to 30lbs.\n•\tPosition requires: a)
+    following detailed protocol, procedures, and instructions in the setting up of
+    laboratory experiments; a) preparation of laboratory specimens, growth media,
+    and chemical solutions for experiments; b) installation, modification, and/or
+    fabrication of standard to moderately complex laboratory equipment; c) advisement,
+    assistance, and oversight of students and/or others in the operation and care
+    of laboratory research equipment.\n\nADDITIONAL INFORMATION\nMinimum Conditions
+    for Beginning Employment:\nPrior to beginning employment, in accordance with The
+    Master’s University policy and/or under federal or state law, all employees must:\n\n1.\tSign
+    and return an offer of “At Will” employment.\n2.\tPresent verification of their
+    identity and authorization to work in the United States.\n\nIf, because of a disability,
+    you need special services or facilities in order to apply or interview for this
+    opening please contact the Human Resources department.\n\nThe Master’s University
+    & Seminary does not discriminate on the basis of race, color, national origin,
+    ancestry, gender, age, marital status, veteran status or prior military service,
+    medical condition, or any physical or mental disability.  We are committed to
+    practicing principles of equal employment opportunity and diversity based upon
+    sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to be considered
+    for a position, a completed Application for Employment must be submitted to the
+    Human Resources office.  The application may be picked up in person in the HR
+    office or is available to be downloaded as a PDF from the web at http://www.masters.edu/employment.
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University.  Any expense incurred in connection with these interviews
+    will be the responsibility of the candidates.\n\nApplication Procedures:\nAll
+    documents included in your application remain the sole property of The Master’s
+    University & Seminary and will not be returned.   Your file for this opening will
+    not be considered unless all requested items are submitted and are complete."
 layout: employment
 ---
 
