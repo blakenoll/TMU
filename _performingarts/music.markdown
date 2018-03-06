@@ -407,13 +407,13 @@ upcoming-events:
   description: |-
     Hall of The Crucifixion-Resurrection, Forest Lawn Glendale
 
-    Call 661.362.2262 to request complimentary tickets or visit [masters.edu/music](http://www.masters.edu).
+    Call 661.362.2262 to request complimentary tickets or [click here](https://masters-music.tix.com/Schedule.aspx?OrgNum=2178) to print online.
 - title: Forest Lawn Concert
   date: 2018-03-29 19:30:00 Z
   description: |-
     Hall of The Crucifixion-Resurrection, Forest Lawn Glendale
 
-    Call 661.362.2262 to request complimentary tickets or visit [masters.edu/music](http://www.masters.edu).
+    Call 661.362.2262 to request complimentary tickets or or [click here](https://masters-music.tix.com/Schedule.aspx?OrgNum=2178) to print online.
 - title: TMU Theatre Arts, "The Secret Garden"
   date: 2018-04-06 00:00:00 Z
   description: |-
