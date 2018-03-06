@@ -57,7 +57,8 @@ formElement.attachEvent('onsubmit', appendJsTimerElement);
 <script type="text/javascript">
     wFORMS.behaviors.prefill.skip = false;
 </script>
-    <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/localization-en_US.js?v=4617"></script>
+
+<script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/localization-en_US.js?v=4617"></script>
 
 <!-- FORM: BODY SECTION -->
 <div class="wFormContainer"  >
