@@ -380,39 +380,6 @@ music-orders:
   - The Lord Bless You and Keep You
   - 
 upcoming-events:
-- title: BellFest
-  date: 2017-11-04 00:00:00 Z
-  description: 
-- title: Wind Ensemble
-  date: 2017-11-09 00:00:00 Z
-  description: 
-- title: Come Christmas Sing Concerts, "Joy to the World
-  date: 2017-11-30 00:00:00 Z
-  description: |-
-    7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
-
-    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://masters-music.tix.com/Schedule.aspx?OrgNum=2178).
-- title: Come Christmas Sing Concerts, “Joy to the World”
-  date: 2017-12-01 00:00:00 Z
-  description: |-
-    7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
-
-    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://masters-music.tix.com/Schedule.aspx?OrgNum=2178).
-- title: Come Christmas Sing Concerts, “Joy to the World”
-  date: 2017-12-02 00:00:00 Z
-  description: |-
-    7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
-
-    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://masters-music.tix.com/Schedule.aspx?OrgNum=2178).
-- title: Piano Extravaganza
-  date: 2018-02-08 19:30:00 Z
-  description: 
-- title: The Master's Chorale Concert
-  date: 2018-02-23 19:03:00 Z
-  description: 
-- title: Women's Chamber Choir Concert
-  date: 2018-03-01 19:30:00 Z
-  description: 
 - title: Chamber Ensembles Concert
   date: 2018-03-22 19:30:00 Z
   description: 
