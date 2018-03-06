@@ -672,8 +672,8 @@ positions:
     not be considered unless all requested items are submitted and are complete."
 - title: Store Manager (Regular Full-time) (University)
   position: Staff
-  about-body: "INFORMATION\nJob Title:\tStore Manager\t\nWkly. Hrs./Weeks:\t40/52\t\nDepartment:\tUniversity
-    Exchange (UE)\t\nClassification:\tProfessional\nReports To:\tCOO\t\nEffective
+  about-body: "INFORMATION\nJob Title:\tStore Manager\t\n\nWkly. Hrs./Weeks:\t40/52\t\n\nDepartment:\tUniversity
+    Exchange (UE)\t\n\nClassification:\tProfessional\n\nReports To:\tCOO\t\n\nEffective
     Date:\t03/01/2018\n\nSUMMARY\nTMU is seeking a highly capable and experienced
     retail leader that is passionate about The Master’s University and uses their
     energetic personality to introduce, connect and position the brand to thousands
@@ -685,86 +685,86 @@ positions:
     goals. Starting pay is competitive, but based on experience. Accepting applications
     immediately.\n\nESSENTIAL FUNCTIONS\n•\tManages staffing needs including hiring,
     training, supervising, scheduling, developing and motivating both student workers
-    and part time employees.\n•\tPrepare and execute detailed sales plans for normal
+    and part time employees.\n\n•\tPrepare and execute detailed sales plans for normal
     operations (Mon-Fri 10a-5p, Sat 10a-1p), busy rush periods and special events
     such as WOW Week, conferences, home athletic events, commencement, etc., and works
     with University Marketing to produce advertisements, email campaigns and necessary
-    promotional pieces. \n•\tDesign and implement store-specific projects such as
+    promotional pieces. \n\n•\tDesign and implement store-specific projects such as
     inventory management, product pushes, clearance sales, floor reorganizations,
-    books signings, special events, and window display creation.\n•\tSeeks new ways
+    books signings, special events, and window display creation.\n\n•\tSeeks new ways
     to partner with campus departments regarding remote selling opportunities, maintaining
     University Exchange’s campus presence, and resolving complex issues on an as-needed
-    basis. \n•\tDemonstrates expert-level knowledge of Shopify software and hardware,
+    basis. \n\n•\tDemonstrates expert-level knowledge of Shopify software and hardware,
     cost-effective shipping services, vendor catalogues and product availability,
-    and overall merchandising strategy. \n•\tUtilizes inventory systems and security
-    cameras to monitor theft and shrinkage on a monthly basis.\n•\tPrepares and administers
-    the bookstore budget; recommends, implements, and administers operating policies
-    and procedures.\n•\tEnsures all back office functions including the preparation
-    of invoices, chargeback processing and coordination of stock shipments are completed
-    in accordance with policies and procedures.\n•\tOversees and coordinates financials
-    for all customers, vendors, publishers and internal department charges and analyzes
-    financial reports to positively impact future sales/expense opportunities.\n•\tManages
+    and overall merchandising strategy. \n\n•\tUtilizes inventory systems and security
+    cameras to monitor theft and shrinkage on a monthly basis.\n\n•\tPrepares and
+    administers the bookstore budget; recommends, implements, and administers operating
+    policies and procedures.\n\n•\tEnsures all back office functions including the
+    preparation of invoices, chargeback processing and coordination of stock shipments
+    are completed in accordance with policies and procedures.\n\n•\tOversees and coordinates
+    financials for all customers, vendors, publishers and internal department charges
+    and analyzes financial reports to positively impact future sales/expense opportunities.\n\n•\tManages
     the visual presentations and maintains store cleanliness to foster an exciting
-    shopping environment for customers.\n•\tWorks with University Marketing department
-    for the creation and implementation of store advertising campaigns.\n•\tDevelops
+    shopping environment for customers.\n\n•\tWorks with University Marketing department
+    for the creation and implementation of store advertising campaigns.\n\n•\tDevelops
     a customer-centric experience and engages team members in the delivery/execution
-    of that objective. \n•\tProvides highest levels of customer service within the
+    of that objective.\n \n•\tProvides highest levels of customer service within the
     store and in all interactions with stakeholders, online customers, alumni, and
-    prospective students.\n•\tSeeks new ways to partner with campus departments regarding
-    remote selling opportunities, maintaining University Exchange’s campus presence,
-    and resolving complex issues on an as-needed basis. \n•\tEstablishes, enhances
-    and maintains positive, responsive relationships with campus community while stimulating
-    a high-energy shopping environment and service-oriented staff. \n•\tWorks with
-    faculty and vendors to acquire and assure availability of new/used texts and class
-    supplies for students.\n•\tRegular attendance is essential\n•\tOther duties as
-    assigned\n\nCOMPETENCIES\n•\tAbility to develop and maintain recordkeeping systems
-    and procedures in a PC, Windows-based operating environment.\n•\tKnowledge of
-    purchasing and inventory control, purchase orders and related accounts payable
+    prospective students.\n\n•\tSeeks new ways to partner with campus departments
+    regarding remote selling opportunities, maintaining University Exchange’s campus
+    presence, and resolving complex issues on an as-needed basis. \n\n•\tEstablishes,
+    enhances and maintains positive, responsive relationships with campus community
+    while stimulating a high-energy shopping environment and service-oriented staff.
+    \n\n•\tWorks with faculty and vendors to acquire and assure availability of new/used
+    texts and class supplies for students.\n\n•\tRegular attendance is essential\n\n•\tOther
+    duties as assigned\n\nCOMPETENCIES\n•\tAbility to develop and maintain recordkeeping
+    systems and procedures in a PC, Windows-based operating environment.\n\n•\tKnowledge
+    of purchasing and inventory control, purchase orders and related accounts payable
     documentation, procurement rules and regulations, retail floor merchandising and
-    stock control procedures.\n•\tStrong interpersonal oral/written communication
-    skills and knowledge of mathematics and accounting.\n•\tOutgoing, energetic personality
-    with ability to establish and maintain effective working relationships with staff,
-    faculty, vendors, students, and/or community members of diverse academic, socio-economic,
-    cultural, & ethnic backgrounds.\n•\tAbility to supervise and train employees;
-    organize, prioritize and schedule work assignments; foster a cooperative work
-    environment.\n•\tSkill in setup, utilization, and maintenance of POS systems,
-    as well as general knowledge of organization and file management. \n•\tAbility
-    to proactively identify needs and solve problems, identifying role and responsibilities
-    without direct supervision.\n\nQUALIFICATIONS\nRequired:\n•\tHas a personal relationship
-    with Jesus Christ and a demonstrated commitment to the doctrinal position of TMUS
-    and a continuous exhibition of a desire to minister and serve others in varied
-    capacities. \n•\tHas basic mathematics/accounting knowledge, as well as obvious
-    command of the English language (both reading and comprehending correspondence).\n•\tSuccessfully
-    passes background investigation and can demonstrate computer proficiency and familiarity
-    with Microsoft Office.\n•\tHave computer proficiency.\n•\tDemonstrated ability
-    to establish and maintain effective working relationships with staff, faculty,
-    vendors, students, and/or community members of diverse academic, socio-economic,
-    cultural, & ethnic backgrounds.\n•\tPossess excellent organizational skills.\n•\tExercise
-    confidentiality, good judgment and discernment.\n•\tService oriented and able
-    to interface with many people is mandatory.\n•\tMultitasked in an environment
-    with many distractions is a must.\nPreferred:\n•\tThree (3) years’ work experience
-    in a retail management or, at minimum, a B.A. in Business Administration or related
-    field.\n\nWORKING CONDITIONS\nList general working conditions for this position:\n•\tWorking
-    Environment: Mostly indoors in a typical office environment, with an occasional
-    need to visit other areas on campus.  \n•\tPhysical Demands: Must be able to lift,
-    pull, push, grasp and bend while lifting up to 30lbs.\n•\tRepetitive motions on
-    a keyboard and looking at a computer monitor for an extended duration of time
-    is required.\n•\tTravel: Some travel involved including overnight stays.\n\nADDITIONAL
-    INFORMATION\nMinimum Conditions for Beginning Employment:\nPrior to beginning
-    employment, in accordance with The Master’s University policy and/or under federal
-    or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
-    employment.\n2.\tPresent verification of their identity and authorization to work
-    in the United States.\n\nIf, because of a disability, you need special services
-    or facilities in order to apply or interview for this opening please contact the
-    Human Resources department.\n\nThe Master’s University & Seminary does not discriminate
-    on the basis of race, color, national origin, ancestry, gender, age, marital status,
-    veteran status or prior military service, medical condition, or any physical or
-    mental disability.  We are committed to practicing principles of equal employment
-    opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
-    PROCESS\nIn order to be considered for a position, a completed Application for
-    Employment must be submitted to the Human Resources office.  The application may
-    be picked up in person in the HR office or is available to be downloaded as a
-    PDF from the web at [http://www.masters.edu/employment](http://www.masters.edu/employment).
+    stock control procedures.\n\n•\tStrong interpersonal oral/written communication
+    skills and knowledge of mathematics and accounting.\n\n•\tOutgoing, energetic
+    personality with ability to establish and maintain effective working relationships
+    with staff, faculty, vendors, students, and/or community members of diverse academic,
+    socio-economic, cultural, & ethnic backgrounds.\n\n•\tAbility to supervise and
+    train employees; organize, prioritize and schedule work assignments; foster a
+    cooperative work environment.\n\n•\tSkill in setup, utilization, and maintenance
+    of POS systems, as well as general knowledge of organization and file management.
+    \n\n•\tAbility to proactively identify needs and solve problems, identifying role
+    and responsibilities without direct supervision.\n\nQUALIFICATIONS\nRequired:\n•\tHas
+    a personal relationship with Jesus Christ and a demonstrated commitment to the
+    doctrinal position of TMUS and a continuous exhibition of a desire to minister
+    and serve others in varied capacities. \n\n•\tHas basic mathematics/accounting
+    knowledge, as well as obvious command of the English language (both reading and
+    comprehending correspondence).\n\n•\tSuccessfully passes background investigation
+    and can demonstrate computer proficiency and familiarity with Microsoft Office.\n\n•\tHave
+    computer proficiency.\n\n•\tDemonstrated ability to establish and maintain effective
+    working relationships with staff, faculty, vendors, students, and/or community
+    members of diverse academic, socio-economic, cultural, & ethnic backgrounds.\n\n•\tPossess
+    excellent organizational skills.\n\n•\tExercise confidentiality, good judgment
+    and discernment.\n\n•\tService oriented and able to interface with many people
+    is mandatory.\n\n•\tMultitasked in an environment with many distractions is a
+    must.\n\nPreferred:\n•\tThree (3) years’ work experience in a retail management
+    or, at minimum, a B.A. in Business Administration or related field.\n\nWORKING
+    CONDITIONS\nList general working conditions for this position:\n•\tWorking Environment:
+    Mostly indoors in a typical office environment, with an occasional need to visit
+    other areas on campus. \n \n•\tPhysical Demands: Must be able to lift, pull, push,
+    grasp and bend while lifting up to 30lbs.\n\n•\tRepetitive motions on a keyboard
+    and looking at a computer monitor for an extended duration of time is required.\n\n•\tTravel:
+    Some travel involved including overnight stays.\n\nADDITIONAL INFORMATION\nMinimum
+    Conditions for Beginning Employment:\nPrior to beginning employment, in accordance
+    with The Master’s University policy and/or under federal or state law, all employees
+    must:\n\n1.\tSign and return an offer of “At Will” employment.\n2.\tPresent verification
+    of their identity and authorization to work in the United States.\n\nIf, because
+    of a disability, you need special services or facilities in order to apply or
+    interview for this opening please contact the Human Resources department.\n\nThe
+    Master’s University & Seminary does not discriminate on the basis of race, color,
+    national origin, ancestry, gender, age, marital status, veteran status or prior
+    military service, medical condition, or any physical or mental disability.  We
+    are committed to practicing principles of equal employment opportunity and diversity
+    based upon sovereign Biblical principles.\n\nAPPLICATION PROCESS\nIn order to
+    be considered for a position, a completed Application for Employment must be submitted
+    to the Human Resources office.  The application may be picked up in person in
+    the HR office or is available to be downloaded as a PDF from the web at [http://www.masters.edu/employment](http://www.masters.edu/employment).
     \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
     email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
     41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
