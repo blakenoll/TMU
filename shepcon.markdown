@@ -51,7 +51,6 @@ formElement.attachEvent('onsubmit', appendJsTimerElement);
 <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
 <!\[endif\]-->
 
-<link href="https://masters.tfaforms.net/themes/get/16" rel="stylesheet" type="text/css" />
 <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-jsonly.css?v=4617" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
 <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/wforms.js?v=4617"></script>
 <script type="text/javascript">
