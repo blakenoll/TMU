@@ -159,7 +159,13 @@ width: auto !important;
 label\[id^="tfa_6\["\] {
 width: 490px !important;
 }
-</style><div class=""><div class="wForm" id="tfa_0-WRPR" dir="ltr">
+</style>
+
+<div class="row">
+
+<div class="col s12 m6">
+
+<div class=""><div class="wForm" id="tfa_0-WRPR" dir="ltr">
 <div class="codesection" id="code-tfa_0"></div>
 <form method="post" action="https://masters.tfaforms.net/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
 <div class="oneField field-container-D     " id="tfa_7-D">
@@ -183,5 +189,9 @@ width: 490px !important;
 <p class="supportInfo" >
 <a href="https://masters.tfaforms.net/forms/help/217739" target="new" style="font-size: 0.7em;">
 Need assistance with this form?    </a></p>
+
+</div>
+
+</div>
 
 </div>
