@@ -674,7 +674,7 @@ positions:
   position: Staff
   about-body: "INFORMATION\n\nJob Title:\tStore Manager\t\n\nWkly. Hrs./Weeks:\t40/52\t\n\nDepartment:\tUniversity
     Exchange (UE)\t\n\nClassification:\tProfessional\n\nReports To:\tCOO\t\n\nEffective
-    Date:\t03/01/2018\n\nSUMMARY\nTMU is seeking a highly capable and experienced
+    Date:\t03/01/2018\n\n\nSUMMARY\n\nTMU is seeking a highly capable and experienced
     retail leader that is passionate about The Master’s University and uses their
     energetic personality to introduce, connect and position the brand to thousands
     of in-store and online patrons. Under minimal direction from the University Marketing
@@ -683,7 +683,7 @@ positions:
     driving force behind providing exceptional customer service and developing student
     staff, store layout and organization, and careful budgeting and execution of sales
     goals. Starting pay is competitive, but based on experience. Accepting applications
-    immediately.\n\nESSENTIAL FUNCTIONS\n\n•\tManages staffing needs including hiring,
+    immediately.\n\n\nESSENTIAL FUNCTIONS\n\n•\tManages staffing needs including hiring,
     training, supervising, scheduling, developing and motivating both student workers
     and part time employees.\n\n•\tPrepare and execute detailed sales plans for normal
     operations (Mon-Fri 10a-5p, Sat 10a-1p), busy rush periods and special events
@@ -717,7 +717,7 @@ positions:
     while stimulating a high-energy shopping environment and service-oriented staff.
     \n\n•\tWorks with faculty and vendors to acquire and assure availability of new/used
     texts and class supplies for students.\n\n•\tRegular attendance is essential\n\n•\tOther
-    duties as assigned\n\nCOMPETENCIES\n\n•\tAbility to develop and maintain recordkeeping
+    duties as assigned\n\n\nCOMPETENCIES\n\n•\tAbility to develop and maintain recordkeeping
     systems and procedures in a PC, Windows-based operating environment.\n\n•\tKnowledge
     of purchasing and inventory control, purchase orders and related accounts payable
     documentation, procurement rules and regulations, retail floor merchandising and
@@ -730,7 +730,7 @@ positions:
     cooperative work environment.\n\n•\tSkill in setup, utilization, and maintenance
     of POS systems, as well as general knowledge of organization and file management.
     \n\n•\tAbility to proactively identify needs and solve problems, identifying role
-    and responsibilities without direct supervision.\n\nQUALIFICATIONS\n\nRequired:\n•\tHas
+    and responsibilities without direct supervision.\n\n\nQUALIFICATIONS\n\nRequired:\n•\tHas
     a personal relationship with Jesus Christ and a demonstrated commitment to the
     doctrinal position of TMUS and a continuous exhibition of a desire to minister
     and serve others in varied capacities. \n\n•\tHas basic mathematics/accounting
@@ -743,13 +743,13 @@ positions:
     excellent organizational skills.\n\n•\tExercise confidentiality, good judgment
     and discernment.\n\n•\tService oriented and able to interface with many people
     is mandatory.\n\n•\tMultitasked in an environment with many distractions is a
-    must.\n\nPreferred:\n•\tThree (3) years’ work experience in a retail management
-    or, at minimum, a B.A. in Business Administration or related field.\n\nWORKING
+    must.\n\nPreferred:\n\n•\tThree (3) years’ work experience in a retail management
+    or, at minimum, a B.A. in Business Administration or related field.\n\n\nWORKING
     CONDITIONS\n\n•\tWorking Environment: Mostly indoors in a typical office environment,
     with an occasional need to visit other areas on campus. \n \n•\tPhysical Demands:
     Must be able to lift, pull, push, grasp and bend while lifting up to 30lbs.\n\n•\tRepetitive
     motions on a keyboard and looking at a computer monitor for an extended duration
-    of time is required.\n\n•\tTravel: Some travel involved including overnight stays.\n\nADDITIONAL
+    of time is required.\n\n•\tTravel: Some travel involved including overnight stays.\n\n\nADDITIONAL
     INFORMATION\n\nMinimum Conditions for Beginning Employment:\nPrior to beginning
     employment, in accordance with The Master’s University policy and/or under federal
     or state law, all employees must:\n\n1.\tSign and return an offer of “At Will”
@@ -761,7 +761,7 @@ positions:
     veteran status or prior military service, medical condition, or any physical or
     mental disability.  We are committed to practicing principles of equal employment
     opportunity and diversity based upon sovereign Biblical principles.\n\nAPPLICATION
-    PROCESS\nIn order to be considered for a position, a completed Application for
+    PROCESS\n\nIn order to be considered for a position, a completed Application for
     Employment must be submitted to the Human Resources office.  The application may
     be picked up in person in the HR office or is available to be downloaded as a
     PDF from the web at [http://www.masters.edu/employment](http://www.masters.edu/employment).
