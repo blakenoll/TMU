@@ -764,17 +764,18 @@ positions:
     PROCESS\nIn order to be considered for a position, a completed Application for
     Employment must be submitted to the Human Resources office.  The application may
     be picked up in person in the HR office or is available to be downloaded as a
-    PDF from the web at http://www.masters.edu/employment.  Your completed application
-    may be dropped off in person, sent via fax (661.362.2717), email (humanresources@masters.edu)
-    or regular mail (21726 Placerita Cyn Rd Box 41, Santa Clarita CA 91321).\n\nSelection
-    Process:\nAll applications are reviewed by the Human Resources department and
-    where appropriate are forwarded for further consideration.  Selected candidates
-    will be invited for a personal interview at The Master’s University or Seminary.
-    \ Any expense incurred in connection with these interviews will be the responsibility
-    of the candidates.\n\nApplication Procedures:\nAll documents included in your
-    application remain the sole property of The Master’s University & Seminary and
-    will not be returned.   Your file for this opening will not be considered unless
-    all requested items are submitted and are complete."
+    PDF from the web at [http://www.masters.edu/employment](http://www.masters.edu/employment).
+    \ Your completed application may be dropped off in person, sent via fax (661.362.2717),
+    email (humanresources@masters.edu) or regular mail (21726 Placerita Cyn Rd Box
+    41, Santa Clarita CA 91321).\n\nSelection Process:\nAll applications are reviewed
+    by the Human Resources department and where appropriate are forwarded for further
+    consideration.  Selected candidates will be invited for a personal interview at
+    The Master’s University or Seminary.  Any expense incurred in connection with
+    these interviews will be the responsibility of the candidates.\n\nApplication
+    Procedures:\nAll documents included in your application remain the sole property
+    of The Master’s University & Seminary and will not be returned.   Your file for
+    this opening will not be considered unless all requested items are submitted and
+    are complete."
 layout: employment
 ---
 
