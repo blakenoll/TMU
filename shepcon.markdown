@@ -4,6 +4,19 @@ date: 2018-03-06 19:33:00 Z
 layout: page
 ---
 
+
+1. **ShepCon 2019** tickets raffle: sign up and winners will be contacted by phone.
+
+2. **Partner free** with TMU for **Guest Speakers**, **Church Kits**, and **Custom Campus Tours**.
+
+   * Select to partner with TMU, a free option to indicate that you may be interested to host TMU guest speakers when they are travelling near your church.
+
+   * Partners also benefit from TMU “church kits” full of gear and information about TMU programs *– a wonderful resource especially for youth groups and programs.*
+
+   * Partners may request a custom TMU visit day including campus visits & tours welcoming your youth group or church.
+
+3. **Request info** about The Master’s University programs, faculty, chapel, student life, athletics, academics, study abroad tours, financial aid & scholarships, online learning, alumni, careers and other areas.
+
 <!-- FORM: HEAD SECTION -->
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
