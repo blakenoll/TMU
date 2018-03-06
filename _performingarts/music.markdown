@@ -365,6 +365,20 @@ music-orders:
   - Sicut Cervus
   - When David Heard
   - Soon-Ah Will Be Done
+- name: Arise My Soul - Live (2018)
+  artist: Women's Chamber Choir
+  album-image: "/uploads/Wom%20Cham%20for%20web.PNG"
+  tracks:
+  - Saints Bound for Heaven
+  - Arise, Mu Soul, Arise
+  - Bow the Knee
+  - The King of Love
+  - Come Thou Fount
+  - You Raise Me Up
+  - Wonderful, Merciful Savior
+  - Dry Bones
+  - The Lord Bless You and Keep You
+  - 
 upcoming-events:
 - title: BellFest
   date: 2017-11-04 00:00:00 Z
