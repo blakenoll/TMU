@@ -17,7 +17,7 @@ let cumulatedTimeElement = document.getElementById("tfa_dbCumulatedTime");
 if (null !== cumulatedTimeElement) {
 let cumulatedTime = parseInt(cumulatedTimeElement.value);
 if (null !== cumulatedTime && cumulatedTime > 0) {
-formTimeDiff += cumulatedTime;
+formTimeDiff \+= cumulatedTime;
 }
 }
 let jsTimeInput = document.createElement("input");
@@ -40,119 +40,119 @@ formElement.attachEvent('onsubmit', appendJsTimerElement);
 });
 </script>
 
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout.css?v=4617" rel="stylesheet" type="text/css" />
-    <!--[if IE 8]>
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
-    <![endif]-->
-    <!--[if IE 7]>
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
-    <![endif]-->
-    <!--[if IE 6]>
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
-    <![endif]-->
-    
-    <link href="https://masters.tfaforms.net/themes/get/16" rel="stylesheet" type="text/css" />
-    <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-jsonly.css?v=4617" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
-    <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/wforms.js?v=4617"></script>
-    <script type="text/javascript">
-        wFORMS.behaviors.prefill.skip = false;
-    </script>
-        <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/localization-en_US.js?v=4617"></script>
+<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout.css?v=4617" rel="stylesheet" type="text/css" />
+<!--\[if IE 8\]>
+<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
+<!\[endif\]-->
+<!--\[if IE 7\]>
+<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
+<!\[endif\]-->
+<!--\[if IE 6\]>
+<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
+<!\[endif\]-->
+
+<link href="https://masters.tfaforms.net/themes/get/16" rel="stylesheet" type="text/css" />
+<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-jsonly.css?v=4617" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
+<script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/wforms.js?v=4617"></script>
+<script type="text/javascript">
+    wFORMS.behaviors.prefill.skip = false;
+</script>
+    <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/localization-en_US.js?v=4617"></script>
 
 <!-- FORM: BODY SECTION -->
 <div class="wFormContainer"  >
 
 <style type="text/css">
-#tfa_7-L,
-label[id^="tfa_7["] {
+\#tfa_7-L,
+label\[id^="tfa_7\["\] {
 width: 530px !important;
 }
 
-#tfa_11,
-*[id^="tfa_11["] {
+\#tfa_11,
+\*\[id^="tfa_11\["\] {
 width: 431.02272px !important;
 }
-#tfa_11-D,
-*[id^="tfa_11["][class~="field-container-D"] {
+\#tfa_11-D,
+\*\[id^="tfa_11\["\]\[class\~="field-container-D"\] {
 width: auto !important;
 }
 
-#tfa_11-L,
-label[id^="tfa_11["] {
+\#tfa_11-L,
+label\[id^="tfa_11\["\] {
 width: 530px !important;
 }
 
-#tfa_1,
-*[id^="tfa_1["] {
+\#tfa_1,
+\*\[id^="tfa_1\["\] {
 width: 420px !important;
 }
-#tfa_1-D,
-*[id^="tfa_1["][class~="field-container-D"] {
+\#tfa_1-D,
+\*\[id^="tfa_1\["\]\[class\~="field-container-D"\] {
 width: auto !important;
 }
 
-#tfa_2,
-*[id^="tfa_2["] {
+\#tfa_2,
+\*\[id^="tfa_2\["\] {
 width: 420px !important;
 }
-#tfa_2-D,
-*[id^="tfa_2["][class~="field-container-D"] {
+\#tfa_2-D,
+\*\[id^="tfa_2\["\]\[class\~="field-container-D"\] {
 width: auto !important;
 }
 
-#tfa_3,
-*[id^="tfa_3["] {
+\#tfa_3,
+\*\[id^="tfa_3\["\] {
 width: 420px !important;
 }
-#tfa_3-D,
-*[id^="tfa_3["][class~="field-container-D"] {
+\#tfa_3-D,
+\*\[id^="tfa_3\["\]\[class\~="field-container-D"\] {
 width: auto !important;
 }
 
-#tfa_3-L,
-label[id^="tfa_3["] {
+\#tfa_3-L,
+label\[id^="tfa_3\["\] {
 width: 490px !important;
 }
 
-#tfa_4,
-*[id^="tfa_4["] {
+\#tfa_4,
+\*\[id^="tfa_4\["\] {
 width: 420px !important;
 }
-#tfa_4-D,
-*[id^="tfa_4["][class~="field-container-D"] {
+\#tfa_4-D,
+\*\[id^="tfa_4\["\]\[class\~="field-container-D"\] {
 width: auto !important;
 }
 
-#tfa_4-L,
-label[id^="tfa_4["] {
+\#tfa_4-L,
+label\[id^="tfa_4\["\] {
 width: 470px !important;
 }
 
-#tfa_5,
-*[id^="tfa_5["] {
+\#tfa_5,
+\*\[id^="tfa_5\["\] {
 width: 420px !important;
 }
-#tfa_5-D,
-*[id^="tfa_5["][class~="field-container-D"] {
+\#tfa_5-D,
+\*\[id^="tfa_5\["\]\[class\~="field-container-D"\] {
 width: auto !important;
 }
 
-#tfa_5-L,
-label[id^="tfa_5["] {
+\#tfa_5-L,
+label\[id^="tfa_5\["\] {
 width: 490px !important;
 }
 
-#tfa_6,
-*[id^="tfa_6["] {
+\#tfa_6,
+\*\[id^="tfa_6\["\] {
 width: 421.02272px !important;
 }
-#tfa_6-D,
-*[id^="tfa_6["][class~="field-container-D"] {
+\#tfa_6-D,
+\*\[id^="tfa_6\["\]\[class\~="field-container-D"\] {
 width: auto !important;
 }
 
-#tfa_6-L,
-label[id^="tfa_6["] {
+\#tfa_6-L,
+label\[id^="tfa_6\["\] {
 width: 490px !important;
 }
 </style><div class=""><div class="wForm" id="tfa_0-WRPR" dir="ltr">
@@ -166,7 +166,7 @@ width: 490px !important;
 </div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_1-D"><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="First & Last Name" title="First & Last Name" class="required"></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_2-D"><div class="inputWrapper"><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="email@domain.com" title="Email address" class="validate-email required"></div></div>
-<div class="oneField field-container-D   labelsRemoved  " id="tfa_3-D"><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="Mobile (661) 123 4567" autoformat="###-###-####" title="Mobile phone to contact you during G3 Conference" class="validate-custom /^([(]{1}[0-9]{3}[)]{1}[.| |-]{0,1}|^[0-9]{3}[.|-| ]?)?[0-9]{3}(.|-| )?[0-9]{4}$/ required"></div></div>
+<div class="oneField field-container-D   labelsRemoved  " id="tfa_3-D"><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="Mobile (661) 123 4567" autoformat="###-###-####" title="Mobile phone to contact you during G3 Conference" class="validate-custom /^(\[(\]{1}\[0-9\]{3}\[)\]{1}\[.| |-\]{0,1}|^\[0-9\]{3}\[.|-| \]?)?\[0-9\]{3}(.|-| )?\[0-9\]{4}$/ required"></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_4-D"><div class="inputWrapper"><input type="text" id="tfa_4" name="tfa_4" value="" placeholder="Your position, job or role (OPTIONAL)" title="Your position (ex: Sr Pastor, Worship Leader, Youth Director)" class=""></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_5-D"><div class="inputWrapper"><input type="text" id="tfa_5" name="tfa_5" value="" placeholder="Your church name" title="Your church name (ex: Grace Community Church)" class="required"></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_6-D"><div class="inputWrapper"><input type="text" id="tfa_6" name="tfa_6" value="" placeholder="City & State or Country" title="Which state (ex: GA, CA, TX, NY....)" class=""></div></div>
@@ -178,8 +178,6 @@ width: 490px !important;
 
 <p class="supportInfo" >
 <a href="https://masters.tfaforms.net/forms/help/217739" target="new" style="font-size: 0.7em;">
-Need assistance with this form?    </a>
-
-      </p>
+Need assistance with this form?    </a></p>
 
 </div>
