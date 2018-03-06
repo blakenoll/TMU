@@ -382,7 +382,9 @@ music-orders:
 upcoming-events:
 - title: Chamber Ensembles Concert
   date: 2018-03-22 19:30:00 Z
-  description: 
+  description: 'Tickets available at the door: $8 General Admission | $5 Alumni |
+    Children 12 & Under FREE | FREE ADMISSION with valid TMU student/faculty/staff
+    ID'
 - title: Forest Lawn Concert
   date: 2018-03-28 19:30:00 Z
   description: |-
@@ -396,44 +398,48 @@ upcoming-events:
 
     Call 661.362.2262 to request complimentary tickets or or [click here](https://masters-music.tix.com/Schedule.aspx?OrgNum=2178) to print online.
 - title: TMU Theatre Arts, "The Secret Garden"
-  date: 2018-04-06 00:00:00 Z
+  date: 2018-04-06 20:00:00 Z
   description: |-
     8:00 pm nightly & 2:00 pm Sat. matinee
 
     Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
 - title: TMU Theatre Arts, "The Secret Garden"
-  date: 2018-04-07 00:00:00 Z
+  date: 2018-04-07 20:00:00 Z
   description: |-
     8:00 pm nightly & 2:00 pm Sat. matinee
 
     Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
 - title: TMU Theatre Arts, "The Secret Garden"
-  date: 2018-04-13 00:00:00 Z
+  date: 2018-04-13 20:00:00 Z
   description: |-
     8:00 pm nightly & 2:00 pm Sat. matinee
 
     Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
 - title: TMU Theatre Arts, "The Secret Garden"
-  date: 2018-04-14 00:00:00 Z
+  date: 2018-04-14 20:00:00 Z
   description: |-
     8:00 pm nightly & 2:00 pm Sat. matinee
 
     Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
 - title: Wind Ensemble Concert
   date: 2018-04-19 19:30:00 Z
-  description: 
+  description: 'Tickets available at the door: $8 General Admission | $5 Alumni |
+    Children 12 & Under FREE | FREE ADMISSION with valid TMU student/faculty/staff
+    ID'
 - title: Handbell Concert
   date: 2018-04-27 19:30:00 Z
-  description: 
+  description: 'Tickets available at the door: $8 General Admission | $5 Alumni |
+    Children 12 & Under FREE | FREE ADMISSION with valid TMU student/faculty/staff
+    ID'
 - title: School of Music Spring Concert
   date: 2018-05-03 19:00:00 Z
-  description: 
+  description: Free Admission
 - title: Music Practicum Meeting with Dr. Dan Forrest
   date: 2018-03-06 16:00:00 Z
   description: '"The Art of Beauty in Music Composition" - Open to the public'
 - title: Voice Masterclass with Phil Webb
   date: 2018-05-03 16:00:00 Z
-  description: 
+  description: Free Admission
 ensemble-body: |-
   ## **Women’s Chamber Choir – California, Nevada & Idaho Tour**
 
