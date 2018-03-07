@@ -4,15 +4,18 @@ date: 2018-03-06 19:33:00 Z
 layout: page
 ---
 
-Hello and thanks for your time talking with The Master's University. We're grateful for the opportunity to get to know you a little better and are excited to partner with your church in the coming months. Below are three invitations we'd like to extend to guests of the Shepherds' Conference:
 
-1. **We're raffling off FREE REGISTRATION to the 2019 Shepherds' Conference,** just for requesting more information. Sign up below and if you win the raffle, we'll contact you by phone.
+1. **ShepCon 2019** tickets raffle: sign up and winners will be contacted by phone.
 
-2. **Guest Speakers**, **Church Kits**, and **Personalized Campus Tours** are just a small taste of what it means to partner with The Master's University -- at no cost to your church! Guest speakers from TMU are constantly traveling the country, and if we're in your neighborhood, we'd love to stop by! Fill out the form below and we'll be in touch!
+2. **Partner free** with TMU for **Guest Speakers**, **Church Kits**, and **Custom Campus Tours**.
 
-3. Join us for a **FREE BREAKFAST Q&A** with Dr. John MacArthur this Saturday on our campus in Santa Clarita! [Click here](http://www.masters.edu/pastors) to RSVP for the breakfast
+   * Select to partner with TMU, a free option to indicate that you may be interested to host TMU guest speakers when they are travelling near your church.
 
-You can also **REQUEST INFO** from us any time! We'd love to send you information on programs, faculty, chapel, student life, athletics, academics, study abroad tours, financial aid, scholarships, online learning, alumni, careers and many other areas.
+   * Partners also benefit from TMU “church kits” full of gear and information about TMU programs *– a wonderful resource especially for youth groups and programs.*
+
+   * Partners may request a custom TMU visit day including campus visits & tours welcoming your youth group or church.
+
+3. **Request info** about The Master’s University programs, faculty, chapel, student life, athletics, academics, study abroad tours, financial aid & scholarships, online learning, alumni, careers and other areas.
 
 <!-- FORM: HEAD SECTION -->
 
@@ -50,10 +53,12 @@ formElement.attachEvent('onsubmit', appendJsTimerElement);
 });
 </script>
 
+
+
 <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-jsonly.css?v=4617" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
 <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/wforms.js?v=4617"></script>
 <script type="text/javascript">
-wFORMS.behaviors.prefill.skip = false;
+    wFORMS.behaviors.prefill.skip = false;
 </script>
 
 <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/localization-en_US.js?v=4617"></script>
@@ -164,14 +169,14 @@ width: 490px !important;
 <div class="codesection" id="code-tfa_0"></div>
 <form method="post" action="https://masters.tfaforms.net/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
 <div class="oneField field-container-D     " id="tfa_7-D">
-<label id="tfa_7-L" for="tfa_7" class="label preField ">Select all that interest you</label><br><div class="inputWrapper"><span id="tfa_7" class="choices horizontal "><span class="oneChoice"><input type="checkbox" value="tfa_8" class="" id="tfa_8" name="tfa_8"><label class="label postField" id="tfa_8-L" for="tfa_8">ShepCon 2019 raffle</label></span><span class="oneChoice"><input type="checkbox" value="tfa_9" class="" id="tfa_9" name="tfa_9"><label class="label postField" id="tfa_9-L" for="tfa_9">Partner with TMU</label></span><span class="oneChoice"><input type="checkbox" value="tfa_10" class="" id="tfa_10" name="tfa_10"><label class="label postField" id="tfa_10-L" for="tfa_10">General Info</label></span></span></div>
+<label id="tfa_7-L" for="tfa_7" class="label preField ">Select all that interest you</label><br><div class="inputWrapper"><span id="tfa_7" class="choices horizontal "><span class="oneChoice"><input type="checkbox" value="tfa_8" class="" id="tfa_8" name="tfa_8"><label class="label postField" id="tfa_8-L" for="tfa_8">ShepCon 2019 raffle </label></span><span class="oneChoice"><br /><input type="checkbox" value="tfa_9" class="" id="tfa_9" name="tfa_9"><label class="label postField" id="tfa_9-L" for="tfa_9">Partner with TMU </label></span><span class="oneChoice"><br /><input type="checkbox" value="tfa_10" class="" id="tfa_10" name="tfa_10"><label class="label postField" id="tfa_10-L" for="tfa_10">General Info</label></span></span></div>
 </div>
 <div class="oneField field-container-D   labelsAbove  " id="tfa_11-D">
 <label id="tfa_11-L" for="tfa_11" class="label preField ">Comments or questions? (OPTIONAL)</label><br><div class="inputWrapper"><textarea id="tfa_11" name="tfa_11" title="Comments or questions? (OPTIONAL)" class=""></textarea></div>
 </div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_1-D"><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="First & Last Name" title="First & Last Name" class="required"></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_2-D"><div class="inputWrapper"><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="email@domain.com" title="Email address" class="validate-email required"></div></div>
-<div class="oneField field-container-D   labelsRemoved  " id="tfa_3-D"><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="Mobile (661) 123 4567" autoformat="###-###-####" title="Mobile phone to contact you during G3 Conference" class="validate-custom /^(\[(\]{1}\[0-9\]{3}\[)\]{1}\[.| |-\]{0,1}|^\[0-9\]{3}\[.|-| \]?)?\[0-9\]{3}(.|-| )?\[0-9\]{4}$/ required"></div></div>
+<div class="oneField field-container-D   labelsRemoved  " id="tfa_3-D"><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="Mobile (661) 123 4567" autoformat="###-###-####" title="Mobile phone to contact you during G3 Conference" class=""></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_4-D"><div class="inputWrapper"><input type="text" id="tfa_4" name="tfa_4" value="" placeholder="Your position, job or role (OPTIONAL)" title="Your position (ex: Sr Pastor, Worship Leader, Youth Director)" class=""></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_5-D"><div class="inputWrapper"><input type="text" id="tfa_5" name="tfa_5" value="" placeholder="Your church name" title="Your church name (ex: Grace Community Church)" class="required"></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_6-D"><div class="inputWrapper"><input type="text" id="tfa_6" name="tfa_6" value="" placeholder="City & State or Country" title="Which state (ex: GA, CA, TX, NY....)" class=""></div></div>
