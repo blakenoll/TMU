@@ -10,12 +10,18 @@ schedules:
     Closed 11:30am-12:30pm for lunch
 - name: Library
   ext: 2278
-  days-body: "Sunday  \\\nMonday - Thursday  \\\nFriday  \\\nSaturday  "
+  days-body: |-
+    Sunday  \
+    Monday & Wednesday   \
+    Tuesday & Thursday  \
+    Friday  \
+    Saturday
   hours-body: |-
-    7:30pm - midnight\
-    7:30am - midnight\
-    7:30am - 5:00pm\
-    12:00pm - 10:00pm
+    8:00pm - midnight\
+    10:30am - midnight
+    9:30am - midnight\
+    10:30am - 5:00pm\
+    12:00pm - 7:00pm
 - name: Music Hall Practice Rooms
   ext: 
   days-body: Everyday

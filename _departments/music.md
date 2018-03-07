@@ -856,7 +856,7 @@ music-emphasis:
 bm-credits: 
 ensembles:
 - name: The Master's Chorale
-  image: http://www2.masters.edu/w/GetHostedFile.ashx?chorale.jpg&Id=161
+  image: "/uploads/TMU%20Chorale%20003%20edit.png"
   body: "The Master's Chorale a 60-member auditioned choir under the direction of
     Dr. Paul Plew, represents students from across the United States and around the
     world. The Chorale is built of students from almost every academic major on the
@@ -889,7 +889,7 @@ ensembles:
 
     * [The Red Machine](http://www2.masters.edu/academics/departments/music/RedMachine.mp3)
 - name: 'Women''s Chamber Choir '
-  image: http://www.masters.edu/media/869341/wcc-17-formal.jpg?width=498&height=332
+  image: "/uploads/WCC_2018-1.jpg"
   body: |
     **Dr. Carolyn Simons, Director**
 
@@ -975,7 +975,7 @@ ensembles:
 
     Students regularly appear in studio and compostion recitals each semester.
 prospective-students-body: |-
-  All prospective music majors, regardless of degree emphasis, are required to perform an on-campus entrance audition/interview with the School of Music Faculty. Available audition dates and specific repertoire recommendations for each instrument are available by following the links below. All prospective music students will be evaluated for music scholarship eligibility based upon their skill as demonstrated in their entrance audition. Recordings (audio or video) are not accepted as audition material. Please contact Caroline Peters at [cpeters@masters.edu](mailto:cpeters@masters.edu) or 661-362-2279 to schedule your audition!
+  All prospective music majors, regardless of degree emphasis, are required to perform an on-campus entrance audition/interview with the School of Music Faculty. All prospective music students will be evaluated for music scholarship eligibility based upon their skill as demonstrated in their entrance audition. Please contact the School of Music at [music@masters.edu](mailto:cpeters@masters.edu) or 661-362-2279 to schedule your audition.
 
   * Monday, September 18, 2017 (Monday’s @ Master’s) 4-5:30 pm
 
@@ -989,9 +989,19 @@ prospective-students-body: |-
 
   * Monday, April 9, 2018 (Monday’s @ Master’s) 4-5:30 pm
 
-  *All auditions for the 2017-2018 school year have passed.*
+  If you are unable to attend any of these dates, please contact the School of Music to discuss alternate times and methods for completing your audition. **Please note:** after the April 9th audition date, scholarship funds for the 2018-2019 academic year cannot be guaranteed. Since musical ability and training are best displayed through a live audition, submission of a recording is *strongly discouraged*. However, should you need to audition via a recording, please understand that your degree approval and scholarship amount may be lower than what you would expect to receive from a live audition since it is more difficult for our music faculty to fully evaluate your skills.
 
-  *Recordings (audio or video) are not accepted as audition material. Please contact the School of Music to schedule your live audition on one of these dates at 800.568.6248 ext. 2279.*
+  **Entrance Audition Guidelines:**
+
+  1\. Download the School of Music Application found below. Complete and return to the School of Music via mail or by scanning and emailing the document.
+
+  2\. Contact the School of Music (ext. 2279) to schedule your audition time. Prepare appropriate selections in accordance with the requirements listed below. You may wish to consult a teacher to help you make a selection that best demonstrates your musical ability. Attire should reflect the seriousness of the audition process.
+
+  **Auditions:**
+
+  Your 15-minute audition will include a live performance for selected music faculty and a music fundamentals exam. Scales and sight-reading may also be assessed.
+
+  If you require an accompanist (vocalists only), we will provide one to you free of charge. Please inform us of your song titles and send a copy of your music to the Music Office two weeks prior to your audition date. You will be able to rehearse with the accompanist prior to your audition.
 
   <p><a href="http://www.masters.edu/uploads/Audition%20Requirements.pdf" class="btn btn-navy">Audition Requirements</a><p/>
 

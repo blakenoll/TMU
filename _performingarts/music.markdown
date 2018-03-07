@@ -365,94 +365,81 @@ music-orders:
   - Sicut Cervus
   - When David Heard
   - Soon-Ah Will Be Done
+- name: Arise My Soul - Live (2018)
+  artist: Women's Chamber Choir
+  album-image: "/uploads/Wom%20Cham%20for%20web.PNG"
+  tracks:
+  - Saints Bound for Heaven
+  - Arise, Mu Soul, Arise
+  - Bow the Knee
+  - The King of Love
+  - Come Thou Fount
+  - You Raise Me Up
+  - Wonderful, Merciful Savior
+  - Dry Bones
+  - The Lord Bless You and Keep You
+  - 
 upcoming-events:
-- title: BellFest
-  date: 2017-11-04 00:00:00 Z
-  description: 
-- title: Wind Ensemble
-  date: 2017-11-09 00:00:00 Z
-  description: 
-- title: Come Christmas Sing Concerts, "Joy to the World
-  date: 2017-11-30 00:00:00 Z
-  description: |-
-    7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
-
-    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://masters-music.tix.com/Schedule.aspx?OrgNum=2178).
-- title: Come Christmas Sing Concerts, “Joy to the World”
-  date: 2017-12-01 00:00:00 Z
-  description: |-
-    7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
-
-    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://masters-music.tix.com/Schedule.aspx?OrgNum=2178).
-- title: Come Christmas Sing Concerts, “Joy to the World”
-  date: 2017-12-02 00:00:00 Z
-  description: |-
-    7:30 pm nightly & 2:00 pm Sat. matinee | MacArthur Center
-
-    Call 661.362.2262 to purchase tickets or visit [masters.edu/music](http://masters-music.tix.com/Schedule.aspx?OrgNum=2178).
-- title: Piano Extravaganza
-  date: 2018-02-08 19:30:00 Z
-  description: 
-- title: The Master's Chorale Concert
-  date: 2018-02-23 19:03:00 Z
-  description: 
-- title: Women's Chamber Choir Concert
-  date: 2018-03-01 19:30:00 Z
-  description: 
 - title: Chamber Ensembles Concert
   date: 2018-03-22 19:30:00 Z
-  description: 
+  description: 'Tickets available at the door: $8 General Admission | $5 Alumni |
+    Children 12 & Under FREE | FREE ADMISSION with valid TMU student/faculty/staff
+    ID'
 - title: Forest Lawn Concert
   date: 2018-03-28 19:30:00 Z
   description: |-
     Hall of The Crucifixion-Resurrection, Forest Lawn Glendale
 
-    Call 661.362.2262 to request complimentary tickets or visit [masters.edu/music](http://www.masters.edu).
+    Call 661.362.2262 to request complimentary tickets or [click here](https://masters-music.tix.com/Schedule.aspx?OrgNum=2178) to print online.
 - title: Forest Lawn Concert
   date: 2018-03-29 19:30:00 Z
   description: |-
     Hall of The Crucifixion-Resurrection, Forest Lawn Glendale
 
-    Call 661.362.2262 to request complimentary tickets or visit [masters.edu/music](http://www.masters.edu).
+    Call 661.362.2262 to request complimentary tickets or or [click here](https://masters-music.tix.com/Schedule.aspx?OrgNum=2178) to print online.
 - title: TMU Theatre Arts, "The Secret Garden"
-  date: 2018-04-06 00:00:00 Z
+  date: 2018-04-06 20:00:00 Z
   description: |-
     8:00 pm nightly & 2:00 pm Sat. matinee
 
     Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
 - title: TMU Theatre Arts, "The Secret Garden"
-  date: 2018-04-07 00:00:00 Z
+  date: 2018-04-07 20:00:00 Z
   description: |-
     8:00 pm nightly & 2:00 pm Sat. matinee
 
     Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
 - title: TMU Theatre Arts, "The Secret Garden"
-  date: 2018-04-13 00:00:00 Z
+  date: 2018-04-13 20:00:00 Z
   description: |-
     8:00 pm nightly & 2:00 pm Sat. matinee
 
     Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
 - title: TMU Theatre Arts, "The Secret Garden"
-  date: 2018-04-14 00:00:00 Z
+  date: 2018-04-14 20:00:00 Z
   description: |-
     8:00 pm nightly & 2:00 pm Sat. matinee
 
     Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
 - title: Wind Ensemble Concert
   date: 2018-04-19 19:30:00 Z
-  description: 
+  description: 'Tickets available at the door: $8 General Admission | $5 Alumni |
+    Children 12 & Under FREE | FREE ADMISSION with valid TMU student/faculty/staff
+    ID'
 - title: Handbell Concert
   date: 2018-04-27 19:30:00 Z
-  description: 
+  description: 'Tickets available at the door: $8 General Admission | $5 Alumni |
+    Children 12 & Under FREE | FREE ADMISSION with valid TMU student/faculty/staff
+    ID'
 - title: School of Music Spring Concert
   date: 2018-05-03 19:00:00 Z
-  description: 
+  description: Free Admission
 - title: Music Practicum Meeting with Dr. Dan Forrest
   date: 2018-03-06 16:00:00 Z
   description: '"The Art of Beauty in Music Composition" - Open to the public'
 - title: Voice Masterclass with Phil Webb
   date: 2018-05-03 16:00:00 Z
-  description: 
+  description: Free Admission
 ensemble-body: |-
   ## **Women’s Chamber Choir – California, Nevada & Idaho Tour**
 

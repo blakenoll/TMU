@@ -25,6 +25,7 @@ emphasis:
 - Health
 - Pre-Nursing
 - Secondary Teacher Education in Life Sciences
+- Geoscience
 bible-credits: 21
 GE-credits: 40
 core-courses: 52
