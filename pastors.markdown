@@ -4,7 +4,7 @@ date: 2018-02-05 22:00:00 Z
 layout: page
 ---
 
-ShepCon attendees, join John MacArthur for breakfast and a special Q&A on the campus of The Master’s University to end the conference. In this intimate setting, you will experience a very personal time of interaction with John discussing Christian education and topics presented during the conference.
+ShepCon attendees, join John MacArthur for breakfast and a special Q&A on the campus of The Master’s University to end the conference. In this intimate setting, you will experience a very personal time of interaction with John discussing Christian education and topics presented during the conference. Can't make it? Don't forget to [explore other ways](http://www.masters.edu/shepcon) for us to stay connected.
 
 **When: **March 10th, 7:30-9:30am
 
