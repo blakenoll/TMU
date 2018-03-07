@@ -715,3 +715,5 @@ FOR STAFF POSITIONS: [Click here to download an application for employment (incl
 FOR ADJUNCT FACULTY POSITIONS: Fill out the application listed above and send your completed application to the Chair of the department you wish to teach for.
 
 Should you need further assistance please contact the Human Resources department at (661) 362.2843 or humanresources@masters.edu.
+
+**The Master’s University & Seminary does not post employment opportunities on LinkedIn. If you are seeking further information on this page regarding a TMUS job posted on LinkedIn, please be aware that these postings are fraudulent. All official employment opportunities at The Master’s University & Seminary will be posted here on our website at www.masters.edu/employment. Applicants should only apply directly through The Master’s University & Seminary Human Resources Office.**
