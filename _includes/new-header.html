@@ -48,6 +48,13 @@
     </div> -->
   </div>
 
+  <ul id="admissions" class="dropdown-content">
+  <li><a href="/admissions/undergrad/">Undergraduate</a></li>
+  <li><a href="/admissions/#graduate">Graduate</a></li>
+  <li><a href="/admissions/#online">Online</a></li>
+  <li><a href="/admissions/#dualenrollment">Dual Enrollment</a></li>
+  </ul>
+
 
 
   <!-- end dropdown content -->
@@ -104,7 +111,7 @@
   <!-- mobile side menu -->
   <ul class="side-nav" id="mobile-demo">
     <li><a href="{{ "/about" | prepend: site.url }}">About</a></li>
-    <li><a href="{{ "/admissions/#Undergraduate" | prepend: site.url }}">Admissions</a></li>
+    <li><a class="dropdown-button" href="#!" data-activates="admissions">Admissions</a></li>
     <li><a href="{{ "/financial-aid" | prepend: site.url }}">Financial Aid</a></li>
     <li><a href="{{ "/academics" | prepend: site.url }}">Academics</a></li>
     <li><a href="https://gomustangs.com">Athletics</a></li>
