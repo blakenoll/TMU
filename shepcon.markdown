@@ -10,7 +10,7 @@ Hello and thanks for your time talking with The Master's University. We're grate
 
 2. **Guest Speakers**, **Church Kits**, and **Personalized Campus Tours** are just a small taste of what it means to partner with The Master's University -- at no cost to your church! Guest speakers from TMU are constantly traveling the country, and if we're in your neighborhood, we'd love to stop by! Fill out the form below and we'll be in touch!
 
-3. Join us for a **FREE BREAKFAST Q&A **with Dr. John MacArthur this Saturday on our campus in Santa Clarita! [Click here](http://www.masters.edu/pastors) to RSVP for the breakfast
+3. Join us for a **FREE BREAKFAST Q&A** with Dr. John MacArthur this Saturday on our campus in Santa Clarita! [Click here](http://www.masters.edu/pastors) to RSVP for the breakfast
 
 You can also **REQUEST INFO** from us any time! We'd love to send you information on programs, faculty, chapel, student life, athletics, academics, study abroad tours, financial aid, scholarships, online learning, alumni, careers and many other areas.
 
