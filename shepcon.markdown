@@ -180,7 +180,7 @@ width: 490px !important;
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_4-D"><div class="inputWrapper"><input type="text" id="tfa_4" name="tfa_4" value="" placeholder="Your position, job or role (OPTIONAL)" title="Your position (ex: Sr Pastor, Worship Leader, Youth Director)" class=""></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_5-D"><div class="inputWrapper"><input type="text" id="tfa_5" name="tfa_5" value="" placeholder="Your church name" title="Your church name (ex: Grace Community Church)" class="required"></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_6-D"><div class="inputWrapper"><input type="text" id="tfa_6" name="tfa_6" value="" placeholder="City & State or Country" title="Which state (ex: GA, CA, TX, NY....)" class=""></div></div>
-<div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction" value="OK"></div>
+<div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction btn btn-navy" value="OK"></div>
 <div style="clear:both"></div>
 <input type="hidden" value="217739" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="9d9f7d3b772bbd8e1af49005588ff0bf" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="7" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
 </form>
