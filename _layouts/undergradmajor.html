@@ -61,6 +61,14 @@ layout: default
        {% endif %}
     </div>
     <div class="col s12 m3">
+      {% if page.majors %}
+      <h2>Majors</h2>
+      <ul>
+        {% for major in page.majors %}
+        <li>{{ major }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
       <h2>Emphasis</h2>
        <ul>
          {% for emphasis in page.emphasis %}
