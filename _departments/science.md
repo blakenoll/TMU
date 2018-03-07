@@ -25,7 +25,6 @@ emphasis:
 - Health
 - Pre-Nursing
 - Secondary Teacher Education in Life Sciences
-- Geoscience
 bible-credits: 21
 GE-credits: 40
 core-courses: 52
@@ -264,5 +263,8 @@ required-courses-body: |-
 
   Total units required for minor (25)
 parallax-img: "/images/Parallax2.jpg"
+majors:
+- Biological Science
+- Geoscience
 ---
 
