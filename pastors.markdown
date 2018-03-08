@@ -48,16 +48,6 @@ formElement.attachEvent('onsubmit', appendJsTimerElement);
 }
 });
 </script>
-<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout.css?v=4617" rel="stylesheet" type="text/css" />
-<!--\[if IE 8\]>
-<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
-<!\[endif\]-->
-<!--\[if IE 7\]>
-<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
-<!\[endif\]-->
-<!--\[if IE 6\]>
-<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
-<!\[endif\]-->
 
 <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-jsonly.css?v=4617" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
 <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/wforms.js?v=4617"></script>
