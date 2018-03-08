@@ -3,7 +3,7 @@ title: Pastor to Pastor
 date: 2018-02-05 22:00:00 Z
 banner-image: "/uploads/TMUSlide1_PastorToPastor.jpg"
 button-text: Sign Up Below
-layout: event
+layout: event-full
 ---
 
 ShepCon attendees, join John MacArthur for breakfast and a special Q&A on the campus of The Master’s University to end the conference. In this intimate setting, you will experience a very personal time of interaction with John discussing Christian education and topics presented during the conference. Can't make it? Don't forget to [explore other ways](http://www.masters.edu/shepcon) for us to stay connected.
