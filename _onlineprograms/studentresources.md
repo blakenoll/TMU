@@ -117,6 +117,10 @@ textbooks-body: |-
 
   [(BA-CM Booklist)](/uploads/BA-CM%20Booklist.pdf)
 
+  ### Business Management
+
+  [(BS-BM Booklist)](/uploads/BS-BM%20Booklist-79bed1.pdf)
+
   ### Organizational Management
 
   [(BA-OM Booklist)](/uploads/BA-OM%20Booklist.pdf)
@@ -127,7 +131,7 @@ textbooks-body: |-
 
   ### Master of Business Administration
 
-  [(MBA Booklist)](/uploads/MBA%20Booklist.pdf)
+  [(MBA Booklist)](/uploads/MBA%20Booklist-07d9c7.pdf)
 
   ### Master of Education
 
