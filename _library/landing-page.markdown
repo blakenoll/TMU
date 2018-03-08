@@ -3,16 +3,16 @@ title: library
 date: 2017-12-14 18:04:00 Z
 permalink: "/library/"
 hours:
-- day: Monday & Wednesday
-  hours: 10:30am - 12:00am
-- day: Tuesday & Thursday
-  hours: 9:30am - 12:00 am
-- day: Friday
-  hours: 10:30am - 5:00pm
-- day: Saturday
-  hours: 12:00pm - 7:00pm
-- day: Sunday
-  hours: 8:00pm - 12:00am
+- day: 'March 10th - 18th '
+  hours: 
+- day: Monday - Friday
+  hours: 12:00 p.m. - 5:00 p.m.
+- day: 
+  hours: 
+- day: 'Saturday March 10th & 17th '
+  hours: CLOSED
+- day: Sunday  March 11th  &  18th
+  hours: CLOSED
   Circulation Desk: 661.362.2278
 links:
 - link: http://masters.libguides.com/
@@ -37,8 +37,10 @@ contact-body: "**Circulation Desk:** 661.362.2278; library@masters.edu"
 layout: library
 ---
 
-## [PHILOSOPHER'S INDEX](http://masters.libguides.com/philosphersindex)
-<a href="http://masters.libguides.com/philosphersindex" target="_blank"><img src="/uploads/PHilosopher's%20Index.png" alt="PHilosopher's Index.png" width="500px"></a>
+## \[PHILOSOPHER'S INDEX\]
 
-### **Have you used Philosopher's Index today?
-Only 7 days left to give it a try.**
+**Have you used Philosopher's Index today?
+Only 6 days left to give it a try.**
+
+\(http://masters.libguides.com/philosphersindex)
+<a href="http://masters.libguides.com/philosphersindex" target="_blank"><img src="/uploads/PHilosopher's%20Index.png" alt="PHilosopher's Index.png" width="500px"></a>
