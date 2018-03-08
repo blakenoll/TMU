@@ -382,9 +382,8 @@ music-orders:
 upcoming-events:
 - title: Chamber Ensembles Concert
   date: 2018-03-22 19:30:00 Z
-  description: 'Tickets available at the door: $8 General Admission | $5 Alumni |
-    Children 12 & Under FREE | FREE ADMISSION with valid TMU student/faculty/staff
-    ID'
+  description: 'Tickets available at the door: $8 General Admission, $5 Alumni, Children
+    12 & Under FREE, FREE ADMISSION with valid TMU student/faculty/staff ID'
 - title: Forest Lawn Concert
   date: 2018-03-28 19:30:00 Z
   description: |-
@@ -423,14 +422,12 @@ upcoming-events:
     Call 661.362.2255 to purchase tickets or visit [masters.edu/theatre](http://www.masters.edu/theatre).
 - title: Wind Ensemble Concert
   date: 2018-04-19 19:30:00 Z
-  description: 'Tickets available at the door: $8 General Admission | $5 Alumni |
-    Children 12 & Under FREE | FREE ADMISSION with valid TMU student/faculty/staff
-    ID'
+  description: 'Tickets available at the door: $8 General Admission, $5 Alumni, Children
+    12 & Under FREE, FREE ADMISSION with valid TMU student/faculty/staff ID'
 - title: Handbell Concert
   date: 2018-04-27 19:30:00 Z
-  description: 'Tickets available at the door: $8 General Admission | $5 Alumni |
-    Children 12 & Under FREE | FREE ADMISSION with valid TMU student/faculty/staff
-    ID'
+  description: 'Tickets available at the door: $8 General Admission, $5 Alumni, Children
+    12 & Under FREE, FREE ADMISSION with valid TMU student/faculty/staff ID'
 - title: School of Music Spring Concert
   date: 2018-05-03 19:00:00 Z
   description: Free Admission
