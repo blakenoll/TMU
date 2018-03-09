@@ -37,10 +37,7 @@ contact-body: "**Circulation Desk:** 661.362.2278; library@masters.edu"
 layout: library
 ---
 
-## \[PHILOSOPHER'S INDEX\]
-
+## [PHILOSOPHER'S INDEX (http://masters.libguides.com/philosphersindex)]
 **Have you used Philosopher's Index today?
 Only 6 days left to give it a try.**
-
-\(http://masters.libguides.com/philosphersindex)
 <a href="http://masters.libguides.com/philosphersindex" target="_blank"><img src="/uploads/PHilosopher's%20Index.png" alt="PHilosopher's Index.png" width="500px"></a>
