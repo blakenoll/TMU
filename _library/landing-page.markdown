@@ -3,8 +3,8 @@ title: library
 date: 2017-12-14 18:04:00 Z
 permalink: "/library/"
 hours:
-- day: 'SPRING BREAK '
-  hours: 'March 10th - 18th '
+- day: 'March 10th - 18th '
+  hours: SPRING BREAK
 - day: Monday - Friday
   hours: 12:00 p.m. - 5:00 p.m.
 - day: 
