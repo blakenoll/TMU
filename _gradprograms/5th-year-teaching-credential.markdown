@@ -326,57 +326,51 @@ clinical-body: |-
   ### Clinical Practice Handbook
 
   For more information about clinical practice in the TMU Credential Programs, download the [Clinical Practice Handbook](/uploads/Clinical%20Practice%20Handbook%202018-19%2003.12.2018.pdf).
-handbook-body: "[Credential Program Handbook](/uploads/Credential%20Program%20Handbook%20for%20Candidates%202017-18%2003.13.2017.pdf)\n\n##
-  TMU Student Handbook\n\nCandidates in the TMU credential programs are bound by policies
-  and procedures in the TMU Student Handbook. Credential program candidates are not
-  considered to be “on contract”, but are expected and required to abide by the Standard
-  of Conduct policies found in the TMU Student Handbook.[http://www.masters.edu/media/868124/2016-masters-u-handbook-updated.pdf](http://www.masters.edu/media/868124/2016-masters-u-handbook-updated.pdf)\n\n##
-  Chapel and Church Attendance\n\nCandidates are not required to attend TMU chapel
-  or the Truth & Life Conference, but candidates may attend as long as attendance
-  does not conflict with program responsibilities.\n\nRegular church attendance is
-  expected and encouraged, but is not monitored.\n\n## Candidate Housing\n\nCandidates
-  are responsible for making their own housing arrangements. Candidates may not live
-  in the TMU dorms, but may live in other TMU housing (such as the International House).
-  If candidates live in TMU housing, they may be considered “on contract.” Consult
-  the TMU Student Handbook and/or contact the Office of Student Life for details.\n\n##
-  \n\n## Candidate Transportation\n\nCandidates are responsible for their own transportation.
-  Since a significant component of the program is clinical practice, requiring daily
-  attendance at a school site away from the TMU campus, candidates should ensure they
-  have guaranteed access to their own reliable car.\n\n## Candidate Dress Code\n\nCandidates
-  are required to follow the TMU Class Dress Code while attending classes on the TMU
-  campus. (See the TMU Student Handbook for details).\n\nCandidates are required to
-  dress modestly and professionally at school sites. Jeans, flip flops/sandals, and
-  t-shirts are not allowed. Candidates must also dress in ways that will enable them
-  to teach effectively, especially while stooping, bending, leaning over desks, sitting
-  on the floor, having knees at students’ eye levels, etc. Candidates should seek
-  to demonstrate dedication to the professional teaching profession in the way they
-  dress.\n\n## Extracurricular Activities, Additional Classes, and/or Work\n\nThough
-  engaging and effective, the workload of the credential programs is demanding, as
-  they are full-time programs of graduate-level quality. Expectations for scholarship
-  are greater than in an undergraduate program. For these reasons, candidates are
-  encouraged to carefully evaluate their time commitments to other activities. Candidates
-  in the program should carefully select and if necessary limit any extracurricular
-  activities. Commitments made to optional responsibilities (ministries, community
-  work, friends, etc.) must be flexible, based on the amount of time needed to complete
-  all program responsibilities.\n\nCandidates may not take other classes while in
-  the program and may not participate in intercollegiate athletics.\n\nCandidates
-  may work no more than 10 hours per week during the Fall semester of the program.\n\nCandidates
-  are not allowed to work during the Spring semester of the program (student teaching).
-  Candidates may petition for exception at admission prior to the start of Fall semester,
-  or at the time of formal advancement to Spring semester. Exceptions will be granted
-  on a case-by-case, need-centered basis at the sole discretion of the program.\n\nSubstitute
-  Teaching\n\nTMU allows candidates to substitute teach during the program, as long
-  as the candidate’s clinical practice district allows it, and as long as doing so
-  does not conflict with program responsibilities such as attending classes and completing
-  hours of clinical practice. To substitute teach, the candidate must have a valid
-  substitute teaching credential. It is the candidate’s responsibility to obtain the
-  appropriate substitute credential, submitting verification to the Credential Analyst.\n\nDuring
-  Fall semester, candidates may substitute teach only for their assigned master teacher
-  Monday-Thursday (or the days candidates are scheduled to be in the fieldwork placement
-  classroom). Candidates may substitute teach for any teacher/any district on Fridays
-  or on any day(s) candidates are not required to be in their fieldwork classroom.\n\nDuring
-  Spring semester, candidates will be student teaching full day, so they may only
-  substitute teach for their assigned master teacher."
+handbook-body: |-
+  [Credential Program Handbook](/uploads/Credential%20Program%20Handbook%20for%20Candidates%202017-18%2003.13.2017.pdf)
+
+  ## TMU Student Handbook
+
+  Candidates in the TMU credential programs are bound by policies and procedures in the TMU Student Handbook. Credential program candidates are not considered to be “on contract”, but are expected and required to abide by the Standard of Conduct policies found in the TMU Student Handbook.[http://www.masters.edu/media/868124/2016-masters-u-handbook-updated.pdf](http://www.masters.edu/media/868124/2016-masters-u-handbook-updated.pdf)
+
+  ## Chapel and Church Attendance
+
+  Candidates are not required to attend TMU chapel or the Truth & Life Conference, but candidates may attend as long as attendance does not conflict with program responsibilities.
+
+  Regular church attendance is expected and encouraged, but is not monitored.
+
+  ## Candidate Housing
+
+  Candidates are responsible for making their own housing arrangements. Candidates may not live in the TMU dorms, but may live in other TMU housing (such as the International House). If candidates live in TMU housing, they may be considered “on contract.” Consult the TMU Student Handbook and/or contact the Office of Student Life for details.
+
+
+  ## Candidate Transportation
+
+  Candidates are responsible for their own transportation. Since a significant component of the program is clinical practice, requiring daily attendance at a school site away from the TMU campus, candidates should ensure they have guaranteed access to their own reliable car.
+
+  ## Candidate Dress Code
+
+  Candidates are required to follow the TMU Class Dress Code while attending classes on the TMU campus. (See the TMU Student Handbook for details).
+
+  Candidates are required to dress modestly and professionally at school sites. Jeans, flip flops/sandals, and t-shirts are not allowed. Candidates must also dress in ways that will enable them to teach effectively, especially while stooping, bending, leaning over desks, sitting on the floor, having knees at students’ eye levels, etc. Candidates should seek to demonstrate dedication to the professional teaching profession in the way they dress.
+
+  ## Extracurricular Activities, Additional Classes, and/or Work
+
+  Though engaging and effective, the workload of the credential programs is demanding, as they are full-time programs of graduate-level quality. Expectations for scholarship are greater than in an undergraduate program. For these reasons, candidates are encouraged to carefully evaluate their time commitments to other activities. Candidates in the program should carefully select and if necessary limit any extracurricular activities. Commitments made to optional responsibilities (ministries, community work, friends, etc.) must be flexible, based on the amount of time needed to complete all program responsibilities.
+
+  Candidates may not take other classes while in the program and may not participate in intercollegiate athletics.
+
+  Candidates may work no more than 10 hours per week during the Fall semester of the program.
+
+  Candidates are not allowed to work during the Spring semester of the program (student teaching). Candidates may petition for exception at admission prior to the start of Fall semester, or at the time of formal advancement to Spring semester. Exceptions will be granted on a case-by-case, need-centered basis at the sole discretion of the program.
+
+  Substitute Teaching
+
+  TMU allows candidates to substitute teach during the program, as long as the candidate’s clinical practice district allows it, and as long as doing so does not conflict with program responsibilities such as attending classes and completing hours of clinical practice. To substitute teach, the candidate must have a valid substitute teaching credential. It is the candidate’s responsibility to obtain the appropriate substitute credential, submitting verification to the Credential Analyst.
+
+  During Fall semester, candidates may substitute teach only for their assigned master teacher Monday-Thursday (or the days candidates are scheduled to be in the fieldwork placement classroom). Candidates may substitute teach for any teacher/any district on Fridays or on any day(s) candidates are not required to be in their fieldwork classroom.
+
+  During Spring semester, candidates will be student teaching full day, so they may only substitute teach for their assigned master teacher.
 layout: teachingcred
 ---
 
@@ -384,7 +378,7 @@ layout: teachingcred
 
 ### *Multiple Subject Teaching Credential Program –* for those who want to teach at the elementary school level
 
-### \*Single Subject Teaching Credential Program – \*for those who want to teach at the secondary (junior high/high school) level
+### Single Subject Teaching Credential Program – for those who want to teach at the secondary (junior high/high school) level
 
 Each is a 30-unit, two-semester, cohort-style program with a start date in early Fall (early August).
 
