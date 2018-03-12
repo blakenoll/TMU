@@ -40,4 +40,4 @@ If you cannot attend Admitted Students’ Day, you can still schedule a telephon
 
 ### REMINDERS:
 
-Don’t forget to complete and return all requested information regarding your health history to our campus nurse before Tuesday, August 1, 2017. More information about required documentation, immunizations, and health insurance can be found at www.masters.edu/campuslinks/healthservices . Documents can be mailed to The Master's College Health Center, 21726 Placerita Canyon Road, Santa Clarita, CA 91321. For questions or concerns, contact the Health Center at (800) 568-6248 ext. 2662.
+Don’t forget to complete and return all requested information regarding your health history to our campus nurse before Tuesday, August 1, 2017. More information about required documentation, immunizations, and health insurance can be found at www.masters.edu/campuslinks/healthservices . Documents can be mailed to The Master's University Health Center, 21726 Placerita Canyon Road, Santa Clarita, CA 91321. For questions or concerns, contact the Health Center at (800) 568-6248 ext. 2662.

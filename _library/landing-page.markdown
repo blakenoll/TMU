@@ -3,8 +3,8 @@ title: library
 date: 2017-12-14 18:04:00 Z
 permalink: "/library/"
 hours:
-- day: 'March 10th - 18th '
-  hours: 
+- day: SPRING BREAK
+  hours: 'MARCH 10th - 18th '
 - day: Monday - Friday
   hours: 12:00 p.m. - 5:00 p.m.
 - day: 
@@ -37,10 +37,7 @@ contact-body: "**Circulation Desk:** 661.362.2278; library@masters.edu"
 layout: library
 ---
 
-## \[PHILOSOPHER'S INDEX\]
-
+## [PHILOSOPHER'S INDEX](http://masters.libguides.com/philosphersindex)
 **Have you used Philosopher's Index today?
-Only 6 days left to give it a try.**
-
-\(http://masters.libguides.com/philosphersindex)
+Only TWO days left to give it a try.**
 <a href="http://masters.libguides.com/philosphersindex" target="_blank"><img src="/uploads/PHilosopher's%20Index.png" alt="PHilosopher's Index.png" width="500px"></a>

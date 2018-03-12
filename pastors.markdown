@@ -48,16 +48,6 @@ formElement.attachEvent('onsubmit', appendJsTimerElement);
 }
 });
 </script>
-<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout.css?v=4617" rel="stylesheet" type="text/css" />
-<!--\[if IE 8\]>
-<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
-<!\[endif\]-->
-<!--\[if IE 7\]>
-<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
-<!\[endif\]-->
-<!--\[if IE 6\]>
-<link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
-<!\[endif\]-->
 
 <link href="https://masters.tfaforms.net/form-builder/4.3.0/css/wforms-jsonly.css?v=4617" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
 <script type="text/javascript" src="https://masters.tfaforms.net/wForms/3.10/js/wforms.js?v=4617"></script>
@@ -162,18 +152,18 @@ width: 530px !important;
 <div class="codesection" id="code-tfa_0"></div>
 <form method="post" action="https://masters.tfaforms.net/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
 <div class="oneField field-container-D     " id="tfa_7-D">
-<label id="tfa_7-L" for="tfa_7" class="label preField ">Select all that interest you:</label><br><div class="inputWrapper"><span id="tfa_7" class="choices horizontal "><span class="oneChoice"><input type="checkbox" value="tfa_8" class="" id="tfa_8" name="tfa_8"><label class="label postField" id="tfa_8-L" for="tfa_8">ShepCon 2019 Raffle</label></span><span class="oneChoice"><input type="checkbox" value="tfa_9" class="" id="tfa_9" name="tfa_9"><label class="label postField" id="tfa_9-L" for="tfa_9">Partnering with TMU</label></span><span class="oneChoice"><input type="checkbox" value="tfa_10" class="" id="tfa_10" name="tfa_10"><label class="label postField" id="tfa_10-L" for="tfa_10">Request General Info</label></span><span class="oneChoice"><input type="checkbox" value="tfa_12" class="" id="tfa_12" name="tfa_12"><label class="label postField" id="tfa_12-L" for="tfa_12">RSVP for Pastor's Breakfast</label></span></span></div>
+<label id="tfa_7-L" for="tfa_7" class="label preField ">Select all that interest you:</label><br><div class="inputWrapper"><span id="tfa_7" class="choices horizontal "><span class="oneChoice"><input type="checkbox" value="tfa_8" class="" id="tfa_8" name="tfa_8"><label class="label postField" id="tfa_8-L" for="tfa_8">ShepCon 2019 Raffle</label></span><br /><span class="oneChoice"><input type="checkbox" value="tfa_9" class="" id="tfa_9" name="tfa_9"><label class="label postField" id="tfa_9-L" for="tfa_9">Partnering with TMU</label></span><br /><span class="oneChoice"><input type="checkbox" value="tfa_10" class="" id="tfa_10" name="tfa_10"><label class="label postField" id="tfa_10-L" for="tfa_10">Request General Info</label></span><br /><span class="oneChoice"><input type="checkbox" value="tfa_12" class="" id="tfa_12" name="tfa_12"><label class="label postField" id="tfa_12-L" for="tfa_12">RSVP for Pastor's Breakfast</label></span></span></div>
 </div>
 <div class="oneField field-container-D   labelsAbove  " id="tfa_11-D">
 <label id="tfa_11-L" for="tfa_11" class="label preField ">Comments or questions? (OPTIONAL)</label><br><div class="inputWrapper"><textarea id="tfa_11" name="tfa_11" title="Comments or questions? (OPTIONAL)" class=""></textarea></div>
 </div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_1-D"><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="First & Last Name" title="First & Last Name" class="required"></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_2-D"><div class="inputWrapper"><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="email@domain.com" title="Email address" class="validate-email required"></div></div>
-<div class="oneField field-container-D   labelsRemoved  " id="tfa_3-D"><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="Mobile (661) 123 4567" autoformat="###-###-####" title="Mobile phone to contact you during G3 Conference" class="validate-custom /^(\[(\]{1}\[0-9\]{3}\[)\]{1}\[.| |-\]{0,1}|^\[0-9\]{3}\[.|-| \]?)?\[0-9\]{3}(.|-| )?\[0-9\]{4}$/ required"></div></div>
+<div class="oneField field-container-D   labelsRemoved  " id="tfa_3-D"><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="Mobile (661) 123 4567" autoformat="###-###-####" title="Mobile phone to contact you during G3 Conference" class=""></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_4-D"><div class="inputWrapper"><input type="text" id="tfa_4" name="tfa_4" value="" placeholder="Your position, job or role (OPTIONAL)" title="Your position (ex: Sr Pastor, Worship Leader, Youth Director)" class=""></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_5-D"><div class="inputWrapper"><input type="text" id="tfa_5" name="tfa_5" value="" placeholder="Your church name" title="Your church name (ex: Grace Community Church)" class="required"></div></div>
 <div class="oneField field-container-D   labelsRemoved  " id="tfa_6-D"><div class="inputWrapper"><input type="text" id="tfa_6" name="tfa_6" value="" placeholder="City & State or Country" title="Which state (ex: GA, CA, TX, NY....)" class=""></div></div>
-<div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction" value="OK"></div>
+<div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction btn btn-navy" value="OK"></div>
 <div style="clear:both"></div>
 <input type="hidden" value="217739" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="9d9f7d3b772bbd8e1af49005588ff0bf" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="9" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
 </form>

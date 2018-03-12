@@ -1,7 +1,8 @@
 ---
 title: shepcon
 date: 2018-03-06 19:33:00 Z
-layout: page
+redirect_to: "/pastors"
+layout: redirect
 ---
 
 

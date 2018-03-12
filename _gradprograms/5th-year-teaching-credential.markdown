@@ -325,12 +325,12 @@ clinical-body: |-
 
   ### Clinical Practice Handbook
 
-  For more information about clinical practice in the TMU Credential Programs, download the [Credential Program Handbook](https://www.masters.edu/media/870037/credential-program-handbook-for-candidates-2017-18-03132017.pdf "Credential Program Handbook for Candidates 2017-2018").
-handbook-body: "Credential Program Handbook\\\n\\\n\n## TMU Student Handbook\n\nCandidates
-  in the TMU credential programs are bound by policies and procedures in the TMU Student
-  Handbook. Credential program candidates are not considered to be “on contract”,
-  but are expected and required to abide by the Standard of Conduct policies found
-  in the TMU Student Handbook.[http://www.masters.edu/media/868124/2016-masters-u-handbook-updated.pdf](http://www.masters.edu/media/868124/2016-masters-u-handbook-updated.pdf)\n\n##
+  For more information about clinical practice in the TMU Credential Programs, download the [Clinical Practice Handbook](/uploads/Clinical%20Practice%20Handbook%202018-19%2003.12.2018.pdf).
+handbook-body: "[Credential Program Handbook](/uploads/Credential%20Program%20Handbook%20for%20Candidates%202017-18%2003.13.2017.pdf)\n\n##
+  TMU Student Handbook\n\nCandidates in the TMU credential programs are bound by policies
+  and procedures in the TMU Student Handbook. Credential program candidates are not
+  considered to be “on contract”, but are expected and required to abide by the Standard
+  of Conduct policies found in the TMU Student Handbook.[http://www.masters.edu/media/868124/2016-masters-u-handbook-updated.pdf](http://www.masters.edu/media/868124/2016-masters-u-handbook-updated.pdf)\n\n##
   Chapel and Church Attendance\n\nCandidates are not required to attend TMU chapel
   or the Truth & Life Conference, but candidates may attend as long as attendance
   does not conflict with program responsibilities.\n\nRegular church attendance is

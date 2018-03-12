@@ -18,7 +18,7 @@ schedules:
     Saturday
   hours-body: |-
     8:00pm - midnight\
-    10:30am - midnight
+    10:30am - midnight\
     9:30am - midnight\
     10:30am - 5:00pm\
     12:00pm - 7:00pm

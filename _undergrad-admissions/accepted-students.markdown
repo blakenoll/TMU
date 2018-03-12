@@ -32,11 +32,11 @@ Submit your preferences for housing, roommates, meal plans and other campus-rela
 
 5. Once your pre-registration information has been submitted and the $200 deposit is received, you will be ready to schedule an **Academic Advising Appointment**. During your advising appointment—in person or by phone—your academic advisor will help set up your class schedule for the upcoming semester. Instructions for this step will be sent separately.
 
-<a class="btn btn-navy"  href="#!">Pre-Registration</a> Opens March 9, 2018 for Fall incoming students
+<a class="btn btn-navy"  href="https://portal.masters.edu/SelfService/Home.aspx">Pre-Registration</a> Opens March 9, 2018 for Fall incoming students
 
 ## Step 3: Schedule Advising Appointment
 
-During your advising appointment you will officially enroll in classes for the upcoming semester. To make it easy, we'll have a schedule of classes waiting for you so you won't have to worry about a thing. This is where we start to see students get really excited to join #LifeAtTMU! 
+During your advising appointment you will officially enroll in classes for the upcoming semester. To make it easy, we'll have a schedule of classes waiting for you so you won't have to worry about a thing. This is where we start to see students get really excited to join #LifeAtTMU!
 
 **Option 1:**
 
