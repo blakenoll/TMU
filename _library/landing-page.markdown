@@ -39,5 +39,5 @@ layout: library
 
 ## [PHILOSOPHER'S INDEX](http://masters.libguides.com/philosphersindex)
 **Have you used Philosopher's Index today?
-Only 5 days left to give it a try.**
+Only **TWO** days left to give it a try.**
 <a href="http://masters.libguides.com/philosphersindex" target="_blank"><img src="/uploads/PHilosopher's%20Index.png" alt="PHilosopher's Index.png" width="500px"></a>
