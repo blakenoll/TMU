@@ -1,5 +1,5 @@
 ---
-title: Greg Gifford
+title: Dr. Greg E. Gifford
 date: 2017-11-29 21:32:00 Z
 job-title: 'Professor of Biblical Counseling '
 image: "/uploads/GIFFORD,%20G.jpg"
