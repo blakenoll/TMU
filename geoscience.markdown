@@ -1,6 +1,7 @@
 ---
 title: Geoscience
 date: 2018-03-13 18:17:00 Z
+layout: geoscience
 careers-body: |-
   * Oil and Gas Industry
   * Mining and Economic Geology

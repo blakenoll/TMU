@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<style>
+  .b-image {
+    background-image: url('/images/Geoscience_1920x1920.jpg');
+    background-size: cover;
+    height: 100%;
+  }
+</style>
+<div class="b-image">
+    <div class="container">
+      <div class="row spacing">
+        <div class="col s6 offset-s3">
+          <img src="/images/Geoscience_500x100.png" alt="Geoscience at the Master's University" style="width: 100%;">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col 12">
+          <div class="card">
+            <div class="padding">
+                <div class="row">
+                  <div class="col s12">
+                    <nav>
+                     <div class="nav-wrapper white">
+                       <div class="col s12">
+                         <a href="{{ "/academics/undergraduate/science" | prepend: site.url }}" class="breadcrumb">Sciences</a>
+                         <a href="#!" class="breadcrumb">{{ page.title }}</a>
+                       </div>
+                     </div>
+                   </nav>
+                  </div>
+                </div>
+              <div class="row">
+                <div class="col s6">
+                  {{ content }}
+                </div>
+                <div class="col s6">
+                  <h3>Potential Careers</h3>
+                  {{ page.careers-body | markdownify }}
+                </div>
+              </div>
+            </div>
+              
+          </div>
+        </div>      
+      </div> 
+    </div>
+</div>
