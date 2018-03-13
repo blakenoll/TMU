@@ -275,7 +275,7 @@ defaults:
 email: your-email@domain.com
 description: Under the leadership of president Dr. John MacArthur, The Master's University
   provides quality education both on campus and through online distance education.
-url: "https://www.masters.edu"
+url: https://www.masters.edu
 baseurl: 
 amazonurl: http://themastersuniv.s3-website-us-west-1.amazonaws.com
 githuburl: https://blakenoll.github.io/TMU
