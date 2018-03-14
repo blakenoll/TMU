@@ -38,8 +38,5 @@ Submit your preferences for housing, roommates, meal plans and other campus-rela
 
 During your advising appointment you will officially enroll in classes for the upcoming semester. To make it easy, we'll have a schedule of classes waiting for you so you won't have to worry about a thing. This is where we start to see students get really excited to join #LifeAtTMU!
 
-**Option 1:**
-
-**Option 2:**
 
 If you have questions on any of these steps, pick up the phone and call us at 661-362-2363 or shoot us an email at admissions@masters.edu. We can’t wait for you to arrive!
