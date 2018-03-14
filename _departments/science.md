@@ -16,7 +16,7 @@ description: |-
 
   * **95% Med-School** acceptance rate
 
-  * **NEW 2018** paleontology and geology. Learn more [here.](/geology)
+  * **NEW 2018** paleontology and geology. Learn more [here.](/geoscience)
 emphasis:
 - Animal Science/Pre-Veterinary Medicine
 - Cellular & Molecular Biology
