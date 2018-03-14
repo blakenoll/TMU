@@ -68,8 +68,6 @@ blurb-body: |-
 
   The department chair of the desired major will evaluate each class individually. To do so, they will need the school name, course code, and brief description of the classes you are trying to transfer to TMU. Contact your Admissions Counselor for further information and instructions.
 
-  **Will TMU accept my AA?**
-
   **Do I still need to take the ACT or SAT?**
 
   If a student has taken at least 24 units post high school graduation, they do not need to send SAT or ACT scores, unless otherwise requested.
@@ -82,7 +80,7 @@ blurb-body: |-
 
   **What is the full transfer policy at TMU?**
 
-  The full transfer policy and details is available here: \[[http://www.masters.edu/registrar/\]button](http://www.masters.edu/registrar/%5Dbutton)
+  The full transfer policy and details is available here: [http://www.masters.edu/registrar/](http://www.masters.edu/registrar/)
 
   This includes:
 
