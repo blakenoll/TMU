@@ -8,6 +8,10 @@ layout: default
     background-size: cover;
     height: 100%;
   }
+  .bg-gold {
+    background: #DAAA00;
+    color: #0c2340;
+  }
 </style>
 <div class="b-image">
     <div class="container">
@@ -33,18 +37,29 @@ layout: default
                   </div>
                 </div>
               <div class="row">
-                <div class="col s6">
+                <div class="col s12 m8 flow-text">
                   {{ content }}
                 </div>
-                <div class="col s6">
-                  <h3>Potential Careers</h3>
-                  {{ page.careers-body | markdownify }}
+                <div class="col s12 m4">
+                    <div class="card bg-gold">
+                      <div class="card-content">
+                        <h3>Potential Careers</h3>
+                        {{ page.careers-body | markdownify }}
+                      </div>
+                    </div>
+                </div>
+              </div>
+              <div class="row spacing">
+                <div class="col s12 center">
+                  <h3>Now Accepting Applications</h3>
+                  <a href="#" class="btn btn-navy">Apply</a>
+
                 </div>
               </div>
             </div>
-              
+
           </div>
-        </div>      
-      </div> 
+        </div>
+      </div>
     </div>
 </div>

@@ -318,5 +318,5 @@ exclude:
 - Gemfile.lock
 - "/node_modules"
 algolia:
-  application_id: '2B9RC67QYJ '
+  application_id: '2B9RC67QYJ'
   index_name: dev_masters
