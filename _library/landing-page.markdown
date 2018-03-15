@@ -39,4 +39,5 @@ layout: library
 
 ## [World Almanac](http://masters.libguides.com/worldalmanac)
 **NEW TRIAL!**
-<a href="http://masters.libguides.com/worldalmanac" target="_blank"><img src="/uploads/World%20Almanac%20'18.png" alt="World Almanac '18.png" width=300px"></a>
+<a href="http://masters.libguides.com/worldalmanac"target="_blank"><img src="/uploads/World Almanac '18.png" alt="World Almanac '18.png" width=300px"></a>
+Trial Ends April 4th, 2018.
