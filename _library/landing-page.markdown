@@ -37,6 +37,6 @@ contact-body: "**Circulation Desk:** 661.362.2278; library@masters.edu"
 layout: library
 ---
 
-## [PHILOSOPHER'S INDEX](http://masters.libguides.com/philosphersindex)
-**Last day to use Philosopher's Index!.**
-<a href="http://masters.libguides.com/philosphersindex" target="_blank"><img src="/uploads/PHilosopher's%20Index.png" alt="PHilosopher's Index.png" width="500px"></a>
+## [World Almanac](http://masters.libguides.com/worldalmanac)
+**NEW TRIAL!**
+<a href="http://masters.libguides.com/worldalmanac" target="_blank"><img src="//uploads/World%20Almanac%20'18.png" alt="World Almanac '18.png" width=300px"></a>
