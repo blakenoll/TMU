@@ -10,7 +10,7 @@ Bachelor of Arts in Biblical Studies (all emphases)
 
 # David A. Wismer School of Business & Communication
 
-[Bachelor of Arts in Marketing Media](/uploads/B.A.%20in%20Marketing%20Media.pdf)
+Bachelor of Arts in Marketing Media
 
 ### Department of Business Administration
 
