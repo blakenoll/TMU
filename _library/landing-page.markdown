@@ -39,7 +39,7 @@ layout: library
 
 # **NEW TRIAL!**
 
-<a href="http://masters.libguides.com/worldalmanac" target="_blank"><img src="/uploads/World%20Almanac%20'18.png" alt="World%20Almanac%20'18.png" width="200px"></a>
+<a href="http://masters.libguides.com/worldalmanac" target="_blank"><img src="/uploads/World%20Almanac%20'18.png" alt="World%20Almanac%20'18.png" width="400px"></a>
 
-## Find Facts On: Demographics, Economics, Vital Statistics, SciTech, Nations of the World, History & Culture, People, Places, Events
-### Trial Ends April 4th, 2018.
+### Find Facts On: Demographics, Economics, Vital Statistics, SciTech, Nations of the World, History & Culture, People, Places, Events
+Trial Ends April 4th, 2018.
