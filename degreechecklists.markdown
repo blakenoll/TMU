@@ -10,37 +10,37 @@ Bachelor of Arts in Biblical Studies (all emphases)
 
 # David A. Wismer School of Business & Communication
 
-Bachelor of Arts in Marketing Media
+[Bachelor of Arts in Marketing Media](/uploads/B.A.%20in%20Marketing%20Media.pdf)
 
 ### Department of Business Administration
 
-Bachelor of Science in Business Administration (all emphases)
+[Bachelor of Science in Business Administration](/uploads/B.S.%20in%20Business%20Administration.pdf) (all emphases)
 
 ### Department of Communication
 
 Bachelor of Arts in Communication - Cinema & Digital Arts
 
-Bachelor of Arts in Communication - Creative Writing & Publishing
+[Bachelor of Arts in Communication - Creative Writing & Publishing](/uploads/B.A.%20in%20Communication%20-%20Creative%20Writing.pdf)
 
 Bachelor of Arts in Communication - Journalism
 
 Bachelor of Arts in Communication - Speech Communication
 
-Bachelor of Arts in Communication - General
+[Bachelor of Arts in Communication - General](/uploads/B.A.%20in%20Communication%20-%20General.pdf)
 
 # School of Science, Mathematics, Technology, & Health
 
 ### Department of Biological & Physical Sciences
 
-Bachelor of Arts in Biology (all emphases)
+[Bachelor of Arts in Biology](/uploads/B.A.%20in%20Biology.pdf) (all emphases)
 
-Bachelor of Science in Biology (all emphases)
+[Bachelor of Science in Biology](/uploads/B.S.%20in%20Biology.pdf) (all emphases)
 
-Bachelor of Science in Geoscience
+[Bachelor of Science in Geoscience](/uploads/B.S.%20in%20Geoscience.pdf)
 
 ### Department of Computer & Information Sciences
 
-Bachelor of Science in Computer & Information Sciences (both emphases)
+[Bachelor of Science in Computer & Information Sciences](/uploads/B.S.%20in%20CIS.pdf) (both emphases)
 
 ### Department of Kinesiology & Physical Education
 
@@ -50,13 +50,13 @@ Bachelor of Science in Kinesiology & Physical Education
 
 ### Department of Mathematics
 
-Bachelor of Arts in Mathematics (all emphases)
+[Bachelor of Arts in Mathematics](/uploads/B.A.%20in%20Mathematics.pdf) (all emphases)
 
 # Pearl S. Wismer School of Education
 
-Bachelor of Arts in Liberal Studies - General
+[Bachelor of Arts in Liberal Studies - General](/uploads/B.A.%20in%20Liberal%20Studies%20-%20General%20Emphasis.pdf)
 
-Bachelor of Arts in Liberal Studies - Teacher Education
+[Bachelor of Arts in Liberal Studies - Teacher Education](/uploads/B.A.%20in%20Liberal%20Studies%20-%20Teacher%20Education%20Emphasis.pdf)
 
 # School of Humanities
 
@@ -66,9 +66,9 @@ Bachelor of Arts in English
 
 ### Department of History & Political Studies
 
-Bachelor of Arts in History
+[Bachelor of Arts in History](/uploads/B.A.%20in%20History.pdf)
 
-Bachelor of Arts in Political Studies (all emphases)
+[Bachelor of Arts in Political Studies](/uploads/B.A.%20in%20Political%20Studies.pdf) (all emphases)
 
 # School of Music
 
