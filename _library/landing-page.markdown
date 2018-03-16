@@ -37,7 +37,8 @@ contact-body: "**Circulation Desk:** 661.362.2278; library@masters.edu"
 layout: library
 ---
 
-## [World Almanac](http://masters.libguides.com/worldalmanac)
 **NEW TRIAL!**
+
 <a href="http://masters.libguides.com/worldalmanac" target="_blank"><img src="/uploads/World%20Almanac%20'18.png" alt="World%20Almanac%20'18.png" width="200px"></a>
+
 Trial Ends April 4th, 2018.
