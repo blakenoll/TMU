@@ -6,7 +6,7 @@ layout: page
 
 # School of Biblical Studies
 
-Bachelor of Arts in Biblical Studies (all emphases)
+[Bachelor of Arts in Biblical Studies](/uploads/B.A.%20in%20Biblical%20Studies.pdf) (all emphases)
 
 # David A. Wismer School of Business & Communication
 
@@ -18,13 +18,13 @@ Bachelor of Arts in Biblical Studies (all emphases)
 
 ### Department of Communication
 
-Bachelor of Arts in Communication - Cinema & Digital Arts
+[Bachelor of Arts in Communication - Cinema & Digital Arts](/uploads/B.A.%20in%20Communication%20-%20CDA.pdf)
 
 [Bachelor of Arts in Communication - Creative Writing & Publishing](/uploads/B.A.%20in%20Communication%20-%20Creative%20Writing.pdf)
 
-Bachelor of Arts in Communication - Journalism
+[Bachelor of Arts in Communication - Journalism](/uploads/B.A.%20in%20Communication%20-%20Journalism.pdf)
 
-Bachelor of Arts in Communication - Speech Communication
+[Bachelor of Arts in Communication - Speech Communication](/uploads/B.A.%20in%20Communication%20-%20Speech.pdf)
 
 [Bachelor of Arts in Communication - General](/uploads/B.A.%20in%20Communication%20-%20General.pdf)
 
@@ -62,7 +62,7 @@ Bachelor of Science in Kinesiology & Physical Education
 
 ### Department of English
 
-Bachelor of Arts in English
+[Bachelor of Arts in English](/uploads/B.A.%20in%20English.pdf)
 
 ### Department of History & Political Studies
 
