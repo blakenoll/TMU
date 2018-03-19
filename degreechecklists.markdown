@@ -10,7 +10,7 @@ layout: page
 
 # David A. Wismer School of Business & Communication
 
-[Bachelor of Arts in Marketing Media](/uploads/B.A.%20in%20Marketing%20Media.pdf)
+[Bachelor of Arts in Marketing Media](/uploads/B.A.%20in%20Marketing%20Media-827f80.pdf)
 
 ### Department of Business Administration
 
@@ -44,9 +44,11 @@ layout: page
 
 ### Department of Kinesiology & Physical Education
 
-Bachelor of Arts in Kinesiology & Physical Education (both emphases)
+[Bachelor of Arts in Kinesiology & Physical Education - Teaching & Coaching](/uploads/B.A.%20in%20Kinesiology%20-%20Teaching%20&%20Coaching.pdf)
 
-Bachelor of Science in Kinesiology & Physical Education
+[Bachelor of Arts in Kinesiology & Physical Education - Exercise & Sport Science](/uploads/B.A.%20in%20Kinesiology%20-%20Exercise%20&%20Sport%20Science.pdf)
+
+[Bachelor of Science in Kinesiology & Physical Education](/uploads/B.S.%20in%20Kinesiology%20-%20Pre-Physical%20Therapy.pdf)
 
 ### Department of Mathematics
 
@@ -72,6 +74,6 @@ Bachelor of Science in Kinesiology & Physical Education
 
 # School of Music
 
-Bachelor of Arts in Music (all emphases)
+[Bachelor of Arts in Music](/uploads/B.A.%20in%20Music.pdf) (all emphases)
 
-Bachelor of Music (all emphases)
+[Bachelor of Music](/uploads/Bachelor%20of%20Music.pdf) (all emphases)
