@@ -11,7 +11,7 @@ sm-image: "/uploads/lowery.jpg"
 
 The classroom was dark and musty. Minute rays of sunlight snuck through the blinded windows, and the dust danced in its spotlight. It was silent.
 
-“How is it that America is a Christian nation?,” a voice, charged with significance, bellowed from the front. The professor turned on the projector and dimly lit the faces of his intent students and repeated, more slowly: “How is it that America is a *Christian* nation, when they do things like this . . .”
+“How is it that America is a Christian nation?” a voice, charged with significance, bellowed from the front. The professor turned on the projector and dimly lit the faces of his intent students and repeated, more slowly: “How is it that America is a *Christian* nation, when they do things like this . . .”
 
 An image of black men hanging from trees flitted on the board. The slide projector clicked, an image of black men lying in the street, click, a picture of segregated fountains and bathrooms, click, click, click. More and more proof of America’s racism lit up the darkness and overwhelmed me with rage.
 
