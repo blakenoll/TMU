@@ -6,8 +6,8 @@ tags:
 - application
 - study abroad
 location-body: |-
-  Our extension campus is in the Jerusalem vicinity.\
-  \
+  Our extension campus is in the Jerusalem vicinity.
+
   Facilities include:
 
   * dormitory
