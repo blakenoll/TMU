@@ -3,16 +3,16 @@ title: library
 date: 2017-12-14 18:04:00 Z
 permalink: "/library/"
 hours:
-- day: SPRING BREAK
-  hours: 'MARCH 10th - 18th '
-- day: Monday - Friday
-  hours: 12:00 p.m. - 5:00 p.m.
-- day: 
-  hours: 
-- day: 'Saturday March 10th & 17th '
-  hours: CLOSED
-- day: Sunday  March 11th  &  18th
-  hours: CLOSED
+- day: Monday  & Wednesday
+  hours: " 10:30 a.m. - 12:00 a.m."
+- day: 'Tuesday & Thursday '
+  hours: 9:30 a.m. - 12:00 a.m.
+- day: Friday
+  hours: 10:30 a.m. - 5:00 p.m.
+- day: 'Saturday '
+  hours: 12:00 p.m. - 7:00 p.m.
+- day: 'Sunday  '
+  hours: 8:00 p.m. - 12:00 a.m.
   Circulation Desk: 661.362.2278
 links:
 - link: http://masters.libguides.com/
