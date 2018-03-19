@@ -1,6 +1,7 @@
 ---
 title: William Schlegel
 date: 2017-05-02 17:37:00 Z
+published: false
 job-title: Associate Professor of Bible, IBEX
 image: "/uploads/DSC_0177.jpg"
 department: Bible
