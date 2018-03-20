@@ -32,7 +32,7 @@ Directors-greeting-body: "Welcome to The Master's University!      \n\nThe campu
   campus to bless and grow you, for His glory and your good.\n\nPlease click on the
   many links from our home page for important safety information related to our parking
   and general regulations, and more!\n\nAgain, on behalf of the entire public safety
-  team I want to personally welcome you as a student of The Master's University!\n\n**C.
+  team I want to personally welcome you as a student of The Master's University!\n\n![download-38755a.png](/uploads/download-38755a.png)\n\n**C.
   Powell**\nDirector of Campus Safety\nThe Master's College\n661.362.2208"
 preparedness-body: "The Campus Safety Department works in close partnership with the
   Los Angeles County Fire and Sheriff's Department, who have stations within close
