@@ -437,6 +437,10 @@ upcoming-events:
 - title: Voice Masterclass with Phil Webb
   date: 2018-05-03 16:00:00 Z
   description: Free Admission
+- title: Songs of Summer
+  date: 2018-06-18 08:00:00 Z
+  description: Performance workshop for singers ages 8-18. June 18-22, 2018. [REGISTER
+    HERE](https://masters.formstack.com/forms/songs_of_summer_registration)
 ensemble-body: |-
   ## **Women’s Chamber Choir – California, Nevada & Idaho Tour**
 
