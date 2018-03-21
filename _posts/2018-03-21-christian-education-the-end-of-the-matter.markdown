@@ -36,4 +36,4 @@ His brother Mark, a medical doctor, added, “I haven’t heard of any college t
 
 The focus of every course, chapel service and activity at TMU is, what the wisest man to walk the earth called, the end of the matter. “The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man,” Solomon wrote (Ecc. 12:13), and “Remember…the Creator in the days of your youth” (Ecc. 12:1). 
 
-Pastor Brown’s son finished the conversation over the phone, “Dad, I am no longer living for me.” This is the goal of the church, this is the goal of The Master’s University, and together they work to shape the whole person for their whole lives.
+Pastor Brown’s son finished the conversation over the phone, “Dad, I am no longer living for me.” This is the goal of a faithful church, this is the goal of The Master’s University, and together they instill convictions that prepare young men and women for a lifetime of influence.
