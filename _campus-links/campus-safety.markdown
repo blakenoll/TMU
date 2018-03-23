@@ -81,11 +81,10 @@ Daily-Crime-Fire-Log-body: "## Daily Crime and Fire Log\n\nThe Daily Crime & Fir
   the residence halls over the past 60 days. The log is designed to provide timelier
   details and greater information to the campus community than the annual statistical
   disclosures. \n\nThe most recent 60 days of the log is available on the campus safety
-  web page but the log is also available for public inspection upon request during
-  regular business hours at the campus safety business office.  Older portions of
-  the log are available within two business days of request at the same location.
-  Note: If a log entry disposition changes after 60 days have passed the log may not
-  reflect those changes. \n\n[Daily Crime & Fire Log Stats](/uploads/Daily%20Crime%20&%20Fire%20Log%20Stats.pdf)"
+  web page but older portions of the log are available for public inspection upon
+  request during regular business hours at the campus safety business office. Note:
+  If a log entry disposition changes after 60 days have passed the log may not reflect
+  those changes. \n\n[Daily Crime & Fire Log Stats](/uploads/Daily%20Crime%20&%20Fire%20Log%20Stats.pdf)"
 layout: campussafety
 ---
 
