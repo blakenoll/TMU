@@ -151,7 +151,7 @@ Follow [@TMUCampusSafety](https://twitter.com/TMUCampusSafety) for recent report
 
 [Weather Forecast](http://forecast.weather.gov/MapClick.php?CityName=Newhall&state=CA&site=LOX&textField1=34.3847&textField2=-118.53&e=0)
 
-[Local Newspaper](http://www.the-signal.com/news/)
+[Local Newspaper](https://signalscv.com/)
 
 [Santa Clarita Sheriff's Station](http://shq.lasdnews.net/pages/patrolstation.aspx?id=SCT)
 
