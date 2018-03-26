@@ -3,6 +3,7 @@ title: Cole Heinzen
 date: 2018-03-26 16:24:00 Z
 name: Cole Heinzen
 email: cheinzen@masters.edu
+phone: "(661)-362-2216"
 image: "/uploads/Heinzen,%20C.jpg"
 ---
 
