@@ -3,6 +3,7 @@ title: Cole Heinzen
 date: 2018-03-26 16:24:00 Z
 name: Cole Heinzen
 email: cheinzen@masters.edu
+image: "/uploads/Heinzen,%20C.jpg"
 ---
 
 I was born and raised in the great city of Visalia, California. Most people don’t know where that is - in the middle of the Central Valley of California, nestled right up against the Sierra Nevada mountains. I grew up with the huge blessing of having a supportive and loving family. During my youth I was often outside playing soccer, water polo, or spending time with family and friends. I was raised as a Christian, but living for and pursuing a relationship with Jesus Christ as my Savior was something foreign to me. It wasn’t until I attended Master’s that the Lord showed me what it is like to love and pursue Him.
