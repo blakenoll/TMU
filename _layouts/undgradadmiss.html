@@ -143,10 +143,10 @@ layout: admissionslayout
       <div class="col s12 l10 offset-l2">
         {% for staff in site.counselors%}
         <a href="{{ staff.url | prepend: site.url }}">
-        <div class="col s6 m4 l2 center">
+          <div class="col s12 m4 l2 center">
             <img src="{{ staff.image }}" alt="" class="circle responsive-img hoverable">
             <a href="{{ staff.url | prepend: site.url }}">{{ staff.name }}</a>
-        </div>
+          </div>
         </a>
         {% endfor %}
       </div>
