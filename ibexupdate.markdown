@@ -16,6 +16,7 @@ the next few weeks (current date: 3/26/2018), revisit this page for additional r
 
 We are so saddened and pray for Bill and his family, for all of the IBEX students, current and alumni, as well as the entire University community. At the same time, the school of Biblical Studies in particular and the University in general believe that we did everything we could to help Bill see the error in his thinking. We sought to go the extra mile to come alongside of him and see him repent. We all love Bill and pray the Lord would allow him to recant his false doctrine and embrace the true Christ.
 
+
 [Q and A on IBEX Situation](/uploads/Q%20and%20A%20on%20IBEX%20Situation.pdf) - Todd Bolen
 
 [The Trinity and Divinity of Messiah](/uploads/The%20Trinity%20and%20Divinity%20of%20Messiah.pdf) - Bible Faculty
