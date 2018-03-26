@@ -3,9 +3,9 @@ title: ibex update
 date: 2018-03-26 22:46:00 Z
 ---
 
-[The Trinity and Divinity of Messiah.pdf](/uploads/The%20Trinity%20and%20Divinity%20of%20Messiah.pdf) - Bible Faculty
+[The Trinity and Divinity of Messiah](/uploads/The%20Trinity%20and%20Divinity%20of%20Messiah.pdf) - Bible Faculty
 
-[Is the Messiah God - Old Testament.pdf ](/uploads/Is%20the%20Messiah%20God%20-%20Old%20Testament.pdf) - Todd Bolen
+[Is the Messiah God - Old Testament](/uploads/Is%20the%20Messiah%20God%20-%20Old%20Testament.pdf) - Todd Bolen
 
 March 1, 2018 began one of the most tragic events that has happened to us as a Bible faculty and a school. Bill Schlegel informed IBEX Director, Will Varner, that he could no longer affirm the doctrinal statement of the university, particularly as it concerned the affirmation of the deity of Christ and the Trinity.
 
