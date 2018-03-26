@@ -309,7 +309,7 @@ parallax-img: "/images/Parallax3.jpg"
 <p>Joe Francis</p>
 </td>
 <td style="text-align: center;">
-<p>YES\*</p>
+<p>YES\*<br/>“Course not available to traditional students.”</p>
 </td>
 </tr>
 <tr>
