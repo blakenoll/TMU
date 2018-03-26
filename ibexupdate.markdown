@@ -3,6 +3,10 @@ title: ibex update
 date: 2018-03-26 22:46:00 Z
 ---
 
+[The Trinity and Divinity of Messiah.pdf](/uploads/The%20Trinity%20and%20Divinity%20of%20Messiah.pdf)
+
+[Is the Messiah God - Old Testament.pdf](/uploads/Is%20the%20Messiah%20God%20-%20Old%20Testament.pdf)
+
 March 1, 2018 began one of the most tragic events that has happened to us as a Bible faculty and a school. Bill Schlegel informed IBEX Director, Will Varner, that he could no longer affirm the doctrinal statement of the university, particularly as it concerned the affirmation of the deity of Christ and the Trinity.
 
 This came as a tremendous shock to the Bible faculty and in the midst of this, we engaged in efforts to not only protect our students but also to reach out to Bill personally. Our goal was to engage in a Matthew 18 like process all the while hoping to lovingly declare the truth to win Bill back (2 Tim 2:23-26). In light of this, the following took place. Bill was suspended from teaching his classes and we arranged for Bill to fly out to North Carolina to meet with an old friend and colleague, Doug Bookman (Doug hired Bill to teach at IBEX in 1995). So Dr. Bookman held a meeting where he along with other experts laid out the truths of the divinity of the Messiah before Bill. However, after a day long meeting, Bill did not change. Per the plan, Bill then flew out to California to meet with TMU administration. Before doing so, certain faculty members (Lisa LaGeorge, Todd Bolen, and Greg Behle) met with Bill personally to plead with him. Again, this was to no avail. Following this, on Monday, March 19, Bill met with Drs. Varner and Stead. Dr. Varner laid out further evidence of the divinity of Christ but Bill again refused to change his position. At that point, he was officially terminated from his employment at TMU.
