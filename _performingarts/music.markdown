@@ -31,7 +31,7 @@ youth-programs:
 
     Friday Concert @ 7:00 pm
 
-    $170
+    \$170
 
     ## Students Ages 12-18
 
@@ -41,7 +41,7 @@ youth-programs:
 
     Thursday Concert @ 7:00 pm
 
-    $170
+    \$170
 
     ## Location
 
@@ -49,7 +49,7 @@ youth-programs:
 
     ## Staff
 
-    TBA
+    The Master's University Music Faculty, Staff & Alumni
 
     ## Cost
 
@@ -442,105 +442,9 @@ upcoming-events:
   description: Performance workshop for singers ages 8-18. June 18-22, 2018. [REGISTER
     HERE](https://masters.formstack.com/forms/songs_of_summer_registration)
 ensemble-body: |-
-  ## **Women’s Chamber Choir – California, Nevada & Idaho Tour**
-
-  ***March 9-18, 2018***
-
-
-  **March 11**
-
-  **First Baptist Church of Ceres**
-
-  2735 5th St
-
-  Ceres, CA 95307
-
-  10:30 AM
-
-  **Foothill Christian Fellowship**
-
-  1100 Sugar Pine Rd
-
-  Meadow Vista, CA 95722
-
-  7:00 PM
-
-
-  **March 12**
-
-  **Calvary Baptist Church**
-
-  577 Walnut St
-
-  Elko, NV 89801
-
-  7:00 PM
-
-
-  **March 13**
-
-  **Kuna Baptist Church**
-
-  1250 Linder Rd
-
-  Kuna, ID 83634
-
-  7:00 PM
-
-
-  **March 14**
-
-  **Montana Avenue Baptist Church**
-
-  3120 S Montana Ave
-
-  Caldwell, ID 83605
-
-  **Meridian First Baptist Church**
-
-  428 W Pine Ave
-
-  Meridian, ID 83642
-
-  7:00 PM
-
-
-  **March 15**
-
-  **Magic Valley Baptist Church**
-
-  440 Clear Lakes Rd
-
-  Buhl, ID 83316
-
-  7:00 PM
-
-
-  **March 16**
-
-  **Parkside Bible Fellowship**
-
-  485 Tedford Ln
-
-  Fallon, NV 89406
-
-  7:00 PM
-
-
-  **March 18**
-
-  **Freedom’s Way Baptist Church**
-
-  17739 Sierra Hwy
-
-  Canyon Country, CA 91351
-
-  10:00 AM
-
   ## **The Master’s Chorale – East Coast Tour**
 
   ***May 5-21, 2018***
-
 
   **May 6**
 
@@ -560,7 +464,6 @@ ensemble-body: |-
 
   6:00 PM
 
-
   **May 7**
 
   **Grace Bible Church**
@@ -569,7 +472,6 @@ ensemble-body: |-
   Midlothian, VA 23114
 
   7:00 PM
-
 
   **May 8**
 
@@ -580,7 +482,6 @@ ensemble-body: |-
   Ocean City, NJ 08226
 
   7:00 PM
-
 
   **May 9**
 
@@ -594,7 +495,6 @@ ensemble-body: |-
 
   7:00 PM
 
-
   **May 13**
 
   **Carnegie Hall – Stern Auditorium**
@@ -607,7 +507,6 @@ ensemble-body: |-
 
   2:00 PM
 
-
   **May 14**
 
   **First Baptist Church of Marathon**
@@ -617,7 +516,6 @@ ensemble-body: |-
   Marathon, NY 13803
 
   7:00 PM
-
 
   **May 15**
 
@@ -629,7 +527,6 @@ ensemble-body: |-
 
   7:00 PM
 
-
   **May 16**
 
   **Green Pond Bible Chapel**
@@ -639,7 +536,6 @@ ensemble-body: |-
   Newfoundland, NJ 07435
 
   7:00 PM
-
 
   **May 17**
 
@@ -651,7 +547,6 @@ ensemble-body: |-
 
   7:00 PM
 
-
   **May 18**
 
   **Sovereign Grace Baptist Church**
@@ -661,7 +556,6 @@ ensemble-body: |-
   Woodbridge (Dale City), VA 22193
 
   7:00 PM
-
 
   **May 20**
 
@@ -678,70 +572,6 @@ ensemble-body: |-
   Service time TBA
 layout: pamusic
 ---
-
-## Women’s Chamber Choir – California, Nevada & Idaho Tour
-
-*March 9-18, 2018*
-
-### March 11
-
-***First Baptist Church of Ceres***
-2735 5th St
-Ceres, CA 95307
-10:30 AM
-
-***Foothill Christian Fellowship***
-1100 Sugar Pine Rd
-Meadow Vista, CA 95722
-7:00 PM
-
-### March 12
-
-**Spring Creek Baptist Church**
-368 Spring Creek Pkwy
-Spring Creek, NV 89815
-7:00 PM
-
-### March 13
-
-***Kuna Baptist Church***
-1250 Linder Rd
-Kuna, ID 83634
-7:00 PM
-
-### March 14
-
-***Montana Avenue Baptist Church***
-3120 S Montana Ave
-Caldwell, ID 83605
-
-***Meridian First Baptist Church***
-428 W Pine Ave
-Meridian, ID 83642
-7:00 PM
-
-### March 15
-
-***Magic Valley Bible Church***
-204 Main Ave N
-Twin Falls, ID 83301
-7:00 PM
-
-### March 16
-
-***Parkside Bible Fellowship***
-485 Tedford Ln
-Fallon, NV 89406
-7:00 PM
-
-### March 18
-
-***Freedom’s Way Baptist Church***
-17739 Sierra Hwy
-Canyon Country, CA 91351
-10:00 AM
-
-<br/>
 
 ## The Master’s Chorale – East Coast Tour
 
