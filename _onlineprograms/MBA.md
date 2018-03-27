@@ -139,3 +139,6 @@ layout: mba
 ---
 
 You want to develop into a leader in the business world and you are seeking the skills and knowledge to reach that goal. The Master’s University MBA program, developed by business leaders with real world experience, will train you to become the leader God has gifted you to be. TMU MBA graduates will be ready to meet the challenges facing today’s organizations and effectively lead them into the future.
+<div class="video-container">
+<iframe src="https://drive.google.com/file/d/168x2qeBOMg9p6NMrdk1FqMi8DovFe9Kl/preview" width="640" height="480"></iframe>
+</div>
