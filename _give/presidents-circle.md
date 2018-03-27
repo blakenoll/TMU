@@ -22,7 +22,7 @@ title: Presidents Circle
 <p>Friends of the University who give at a level of $600 or more per year automatically become members of the President's Circle.</p>
 <hr />
 <p> <span>To support the students and become a member of the President's Circle</span></p>
-<p><a href="https://give.cornerstone.cc/The\+Masters\+University" class="btn btn-navy">Give now </a></p>
+<p><a href="https://give.cornerstone.cc/The+Masters+University" class="btn btn-navy">Give now </a></p>
 <p> </p>
 <h3>Contact Us</h3>
 <p><strong>For additional questions regarding the President's Circle, please contact us at <a href="mailto:development@masters.edu" target="_blank">development@masters.edu</a> or 661.362.2337.</strong></p>
