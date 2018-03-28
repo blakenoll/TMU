@@ -18,7 +18,7 @@ We are so saddened and pray for Bill and his family, for all of the IBEX student
 
 [Q and A on IBEX Situation](/uploads/Q%20and%20A%20on%20IBEX%20Situation.pdf) - Todd Bolen
 
-[The Trinity and Divinity of Messiah]( /uploads/The%20Trinity%20and%20Divinity%20of%20Messiah-b4db4b.pdf) - Bible Faculty
+[The Trinity and Divinity of Messiah](/uploads/The%20Trinity%20and%20Divinity%20of%20Messiah-92b9c7.pdf) - Bible Faculty
 
 [Is the Messiah God - Old Testament](/uploads/Is%20the%20Messiah%20God%20-%20Old%20Testament.pdf) - Todd Bolen
 
