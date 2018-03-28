@@ -1,6 +1,7 @@
 ---
 title: Grievance and Appeal Procedures
 date: 2018-03-27 15:44:00 Z
+layout: page
 ---
 
 ## Purpose
