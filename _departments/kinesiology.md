@@ -2,15 +2,11 @@
 title: Kinesiology
 sm-image: "/uploads/AcademicsUndergradIcons_Kinesiology.png"
 description: |-
-  At The Master’s University, the Kinesiology and Physical Education department prepares students to work with the human body as members of the Body of Christ. There are few schools like TMU where the professors actively serve as athletic trainers also. Hands-on classes in functional anatomy and current corrective exercise and assessment techniques prepare Kinesiology students to enter their choice of top-tier graduate schools. Internships are required and facilitated for Kinesiology majors, leading to an array of graduate studies in Allied Health or careers such as Physical Training or firefighting, and Physical Education graduates can coach or credential to teach PE after graduating.
-
-  * Alumni come back and say they were prepared for grad school due to the hands-on experience in their classes and through their internships
-
-  * We facilitate and require internships in Sports Medicine and Allied Health throughout a students time at school
-
-  * Our full-time professors are experienced trainers and coaches, while our part-time professors continue to work in various professional fields
-
-  * We offer rigorous courses in partnership with the  Biology Department, especially in the Pre-Physical Therapy Emphasis
+  Studying kinesiology and physical education at The Master’s University prepares students to work with the human body as members of the body of Christ.\
+  \
+  At TMU almost every professor serves not only in the classroom, but also on the field working as athletic trainers, daily practicing what’s taught in the classroom — the most up-to-date knowledge and technology available. Students participate in this practical athletic training with Master’s athletes, as well as take hands-on courses in functional anatomy, corrective exercise and assessment techniques. Alongside these courses each student is required to have participated in at least one internship before graduation, many of which have led to careers in Allied Health, coaching, firefighting, physical training, teaching and more. \
+  \
+  The School of Science, Mathematics & Health boasts of a 95% graduate school acceptance rate, and many alumni boast of their hands-on experience and career preparation that was facilitated through the kinesiology and physical education department.
 emphasis:
 - Pre-Physical Therapy
 - Exercise and Sport Science

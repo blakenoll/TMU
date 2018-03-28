@@ -18,7 +18,7 @@ layout: page
 
 ### Department of Communication
 
-[Bachelor of Arts in Communication - Cinema & Digital Arts](/uploads/B.A.%20in%20Communication%20-%20CDA.pdf)
+[Bachelor of Arts in Communication - Cinema & Digital Arts](/uploads/B.A.%20in%20Communication%20-%20CDA-29eabf.pdf)
 
 [Bachelor of Arts in Communication - Creative Writing & Publishing](/uploads/B.A.%20in%20Communication%20-%20Creative%20Writing.pdf)
 
