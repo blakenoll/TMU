@@ -1,0 +1,78 @@
+---
+layout: page
+---
+
+<!-- Modal Trigger -->
+<a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a>
+
+<!-- Modal Structure -->
+<div id="modal1" class="modal navy">
+  <div class="modal-content white-text">
+    <div class="row">
+      <div class="col s6 m4 offset-s3 offset-m4">
+        <img src="http://localhost:4000/images/MastersU_Seal_White.png" alt="" class="center-img">
+      </div>
+    </div>
+
+      <!-- FORM: HEAD SECTION -->
+
+          <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                  <script type="text/javascript">
+              document.addEventListener("DOMContentLoaded", function(){
+                  const FORM_TIME_START = Math.floor((new Date).getTime()/1000);
+                  let formElement = document.getElementById("tfa_0");
+                  let appendJsTimerElement = function(){
+                      let formTimeDiff = Math.floor((new Date).getTime()/1000) - FORM_TIME_START;
+                      let cumulatedTimeElement = document.getElementById("tfa_dbCumulatedTime");
+                      if (null !== cumulatedTimeElement) {
+                          let cumulatedTime = parseInt(cumulatedTimeElement.value);
+                          if (null !== cumulatedTime && cumulatedTime > 0) {
+                              formTimeDiff += cumulatedTime;
+                          }
+                      }
+                      let jsTimeInput = document.createElement("input");
+                      jsTimeInput.setAttribute("type", "hidden");
+                      jsTimeInput.setAttribute("value", formTimeDiff.toString());
+                      jsTimeInput.setAttribute("name", "tfa_dbElapsedJsTime");
+                      jsTimeInput.setAttribute("id", "tfa_dbElapsedJsTime");
+                      jsTimeInput.setAttribute("autocomplete", "off");
+                      if (null !== formElement) {
+                          formElement.appendChild(jsTimeInput);
+                      }
+                  };
+                  if (null !== formElement) {
+                      if(formElement.addEventListener){
+                          formElement.addEventListener('submit', appendJsTimerElement, false);
+                      } else if(formElement.attachEvent){
+                          formElement.attachEvent('onsubmit', appendJsTimerElement);
+                      }
+                  }
+              });
+          </script>
+      <form method="post" action="https://masters.tfaforms.net/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
+      <div class="htmlSection" id="tfa_9"><div class="htmlContent" id="tfa_9-HTML"><div style="text-align: center;"><br></div><div style="text-align: left;">Welcome to The Master's University. Since 1927, TMU has been developing wisdom, establishing convictions, and producing leaders for Christ &amp; Scripture through its world-class academic excellence. Nestled away in beautiful Santa Clarita, California, you'll find a wide range of top-ranked degree programs all through an uncompromising devotion to the inerrant Word of God.</div><div><br></div><div>Help us learn more about you and your plans by plugging in your name and number. This optional info will help connect you with the right counselor (or click "skip" below) .&nbsp;</div><div style="text-align: left;"><br></div><div style="text-align: left;"><div style="text-align: center;"></div><div><br></div><div style="text-align: center;"></div></div></div></div>
+      <div id="tfa_12" class="section inline group">
+      <div class="oneField field-container-D   labelsRemoved  " id="tfa_3-D"><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="FIRST NAME" title="YOUR NAME" class="validate-alphanum"></div></div>
+      <div class="oneField field-container-D   labelsRemoved  " id="tfa_10-D"><div class="inputWrapper"><input type="text" id="tfa_10" name="tfa_10" value="" placeholder="LAST NAME" title="Last Name" class=""></div></div>
+      </div>
+      <div id="tfa_13" class="section inline group">
+      <div class="oneField field-container-D   labelsRemoved  " id="tfa_1-D"><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="PHONE NUMBER (optional)" title="PHONE NUMBER" class="validate-integer"></div></div>
+      <div class="oneField field-container-D   labelsRemoved  " id="tfa_2-D"><div class="inputWrapper"><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="E-MAIL (optional)" title="EMAIL" class="validate-email"></div></div>
+      </div>
+      <div class="oneField field-container-D     " id="tfa_4-D">
+      <label id="tfa_4-L" for="tfa_4" class="label preField ">I'm interested in:</label><br><div class="inputWrapper"><span id="tfa_4" class="choices vertical "><span class="oneChoice"><input type="checkbox" value="tfa_5" class="" id="tfa_5" name="tfa_5"><label class="label postField" id="tfa_5-L" for="tfa_5">Undergraduate programs</label></span><span class="oneChoice">
+      <br/>
+      <input type="checkbox" value="tfa_6" class="" id="tfa_6" name="tfa_6"><label class="label postField" id="tfa_6-L" for="tfa_6">Online programs</label></span><span class="oneChoice">
+      <br/>
+      <input type="checkbox" value="tfa_7" class="" id="tfa_7" name="tfa_7"><label class="label postField" id="tfa_7-L" for="tfa_7">Graduate programs</label></span><span class="oneChoice">
+      <br>
+      <input type="checkbox" value="tfa_8" class="" id="tfa_8" name="tfa_8"><label class="label postField" id="tfa_8-L" for="tfa_8">Other areas of TMU</label></span></span></div>
+      </div>
+      <div class="htmlSection" id="tfa_11"><div class="htmlContent" id="tfa_11-HTML"></div></div>
+      <div class="actions spacing" id="tfa_0-A"><input type="submit" class="primaryAction btn btn-gold" value="CONTINUE"></div>
+      <div style="clear:both"></div>
+      <input type="hidden" value="217745" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="f0e5b8b55020a0b71a640ac5b9ed758c" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="27" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+      </form>
+
+  </div>
+</div>
