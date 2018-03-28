@@ -21,6 +21,7 @@ Each character in this Gothic musical is haunted by the ghosts of their past and
 
 The musical further deepens and expands upon what the Burnett wrote, giving more substance to the adult characters while still allowing the characters of the children to grow alongside an abandoned garden they cultivate together. It weaves in elements of a traditional Greek chorus to move the narrative along, and simultaneously features the powerful songs characteristic of a modern musical. 
 
-Starring Annie Espinosa (Chava in TMU’s 2016 production of “Fiddler on the Roof”) as Mary Lennox and Jay Nelsestuen as Archibald Craven, TMU’s production of “The Secret Garden” is sure to be a show that will cause you to ask yourself what unfulfilled expectations haunt and isolate you from the ones you love, and to reflect on how your garden has grown, through what means and to what end. 
+Starring Annie Espinosa (Chava in TMU’s 2016 production of “Fiddler on the Roof”) as Mary Lennox and Jay Nelsestuen as Archibald Craven, TMU’s production of “The Secret Garden” is a show that will cause you to ask what unfulfilled expectations haunt and isolate you from the ones you love, and to reflect on how your garden has grown—through what means and to what end. 
+
 
 To purchase tickets go [here](http://www.masters.edu/theatre-arts). 
