@@ -1,6 +1,8 @@
 ---
 title: Housing FAQ
 date: 2018-03-29 17:39:00 Z
+prev-page-link: "/studentlife/resident-life"
+page.prev-page-title: Dorm Life
 layout: subpage
 ---
 
