@@ -684,8 +684,8 @@ positions:
     College and will not be returned.  Your file for this opening will not be considered
     unless all requested items are submitted and are complete.\n\n"
 position-pdfs:
-- title: test
-  pdf-file: test
+- title: 
+  pdf-file: 
 layout: employment
 ---
 
