@@ -6,7 +6,7 @@ prev-page-link: https://www.masters.edu/studentlife/resident-life/
 layout: subpage
 ---
 
-**On-Campus Housing Details & F.A.Q.**
+## On-Campus Housing Details & F.A.Q.
 
 ### **What Furnishings Are Provided For Each Student?**
 
@@ -14,7 +14,7 @@ layout: subpage
 
 * Wardrobe and dresser
 
-* Desk and chair 
+* Desk and chair
 
 * Carpeting
 
