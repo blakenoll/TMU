@@ -27,6 +27,13 @@ layout: default
     </li>
     {% endfor %}
   </ul>
+  <ul>
+    {% for position in position-pdfs %}
+    <li>
+      <a href="{{position.pdf-file}}" target="_blank"><h3>{{postion.title}}</h3></a>
+    </li>
+    {% endfor %}
+  </ul>
 
 
 </div>
