@@ -8,7 +8,7 @@ layout: subpage
 
 ## On-Campus Housing Details & F.A.Q.
 
-### **What Furnishings Are Provided For Each Student?**
+### What Furnishings Are Provided For Each Student?
 
 * Bed with mattress (extra-long twin)
 
@@ -20,7 +20,7 @@ layout: subpage
 
 * Vertical or mini blinds
 
-### **What Should I Bring?**
+### What Should I Bring?
 
 * Bedding (extra-long twin sheets, pillows, and blankets), towels, and washcloths
 
@@ -30,7 +30,7 @@ layout: subpage
 
 * Utensils and a few dishes, depending on how much snacking you’ll be doing in your dorm
 
-### **Additional Items to Consider Bringing**
+### Additional Items to Consider Bringing
 
 * Small non-halogen lamp
 
@@ -48,7 +48,7 @@ layout: subpage
 
 * Refrigerator 3.6 cubic feet or smaller (Only one is permitted per room, so you may want to check with your roommate or wait to buy one until you are here. Refrigerators must be plugged directly into wall outlet.)
 
-### **What Should I Not Bring?**
+### What Should I Not Bring?
 
 * Drapes, curtains, or other window treatments
 
@@ -64,23 +64,23 @@ layout: subpage
 
 * Posters or decorations that encourage or support violation of The Master’s College Policies; no alcoholic beverages or advertisements permitted
 
-### **What can I do to personalize my room?**
+### What can I do to personalize my room?
 
 Adhesive putty and other temporary mounting products may be used for decorating as long as no damage results from use. Any damage to walls, doors, or room surfaces will result in a charge and must be repaired by facilities management; students should not try to make repairs themselves.
 
-### **What laundry facilities are available?**
+### What laundry facilities are available?
 
 Each dorm has coin-operated machines. A washing machine load will cost $1.50, and a dryer load will cost $1.25.
 
-**Is there a way to indicate my room preference?**
+### Is there a way to indicate my room preference?
 
 The Housing Committee cannot guarantee preferences. We try our best to honor requests and want to serve everyone in the best way possible. Students may request their preferred dorms and/or roommates in the registration process, or contact Housing (housing@masters.edu.edu) to update their preferences before roommate assignments are released. If you have any questions or concerns about housing after that time, we would be happy to help you at check-in on WOW Saturday..
 
-### **Can I find out what my dorm is or who my roommate is?**
+### Can I find out what my dorm is or who my roommate is?
 
 We are very intentional about placing students, and we try to make each wing a good mix of different ages, interests, and majors. Because of this, new students will find out who their roommates are shortly before they arrive on campus. We will be unable to give out that information before then. You will find out your dorm and room assignment as a part of the check-in process on WOW Saturday.
 
-### **Are there single rooms available?**
+### Are there single rooms available?
 
 No, but we are sure you will enjoy the community in the dorms.
 
