@@ -1,5 +1,6 @@
 ---
 title: Meet The Manager
+image: "/uploads/Anderson,%20S.jpg"
 ---
 
 "What a privilege I have to serve at The Master's University as the Alumni Relations Manager! It is truly a blessing to work at the college I have loved and respected for so long."

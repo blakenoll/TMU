@@ -7,8 +7,8 @@ hours:
   hours: " 10:30 a.m. - 12:00 a.m."
 - day: 'Tuesday & Thursday '
   hours: 9:30 a.m. - 12:00 a.m.
-- day: Friday
-  hours: 10:30 a.m. - 5:00 p.m.
+- day: 'Friday  March 30th '
+  hours: CLOSED
 - day: 'Saturday '
   hours: 12:00 p.m. - 7:00 p.m.
 - day: 'Sunday  '

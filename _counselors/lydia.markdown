@@ -1,10 +1,10 @@
 ---
 title: Lydia
 date: 2018-03-26 16:13:00 Z
-published: false
 name: Lydia
 email: lfowler@masters.edu
 phone: 6613622637
+image: "/uploads/Fowler,%20L.jpg"
 ---
 
 I am originally from the Dallas Texas area. Before moving to California, I lived in Paris France for a year doing mission work. Now I am in California working on my online MBA through The Master’s University and working as an admissions counselor. This is an amazing place to work and study!
